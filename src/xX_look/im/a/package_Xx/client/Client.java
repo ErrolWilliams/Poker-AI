@@ -8,6 +8,7 @@ import org.json.JSONObject;
 import java.net.URI;
 import java.net.URISyntaxException;
 
+//this is a test
 public class Client {
 
     WebSocketClient client;
