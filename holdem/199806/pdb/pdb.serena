@@ -1,0 +1,289 @@
+serena    899163426 10  3 f   -     -     -         1010    0    0 
+serena    899163534 10  2 Bf  -     -     -         1010   10    0 
+serena    899163587 10  1 Bf  -     -     -         1000    5    0 
+serena    899163637 10 10 f   -     -     -          995    0    0 
+serena    899163721 10  9 cc  c     cf    -          995   70    0 
+serena    899163929 10  8 f   -     -     -          925    0    0 
+serena    899164069 10  7 c   kc    kc    kf         925   40    0 
+serena    899164194 10  6 cc  c     cc    kf         885   70    0 
+serena    899164275 10  5 f   -     -     -          815    0    0 
+serena    899164312 10  4 f   -     -     -          815    0    0 
+serena    899164395 10  3 f   -     -     -          815    0    0 
+serena    899164421 10  2 Bc  bcc   kc    bc         815  120  400 Ah Ts
+serena    899164487 10  1 Bf  -     -     -         1095    5    0 
+serena    899164574 10 10 c   c     f     -         1090   30    0 
+serena    899164699 10  9 f   -     -     -         1060    0    0 
+serena    899164759 10  8 r   b     c     c         1060   70    0 As Jc
+serena    899164834 10  7 f   -     -     -          990    0    0 
+serena    899164942 10  6 f   -     -     -          990    0    0 
+serena    899165076 10  5 f   -     -     -          990    0    0 
+serena    899165162 10  4 f   -     -     -          990    0    0 
+serena    899165297 10  3 f   -     -     -          990    0    0 
+serena    899165363 10  2 Bc  f     -     -          990   20    0 
+serena    899165422 10  1 Bf  -     -     -          970    5    0 
+serena    899165541 10 10 f   -     -     -          965    0    0 
+serena    899165592  9  8 c   r     c     f          965   70    0 
+serena    899165661  8  6 f   -     -     -          895    0    0 
+serena    899165693  8  5 f   -     -     -          895    0    0 
+serena    899165744  7  3 f   -     -     -          895    0    0 
+serena    899165773  8  2 Bk  kc    kc    f          895   40    0 
+serena    899165844  8  1 Bcc kf    -     -          855   30    0 
+serena    899165894  8  8 f   -     -     -          825    0    0 
+serena    899165921  8  7 f   -     -     -          825    0    0 
+serena    899165944  8  6 f   -     -     -          825    0    0 
+serena    899165975  8  5 f   -     -     -          825    0    0 
+serena    899166016  9  5 f   -     -     -          825    0    0 
+serena    899166057  9  4 f   -     -     -          825    0    0 
+serena    899166114  9  3 f   -     -     -          825    0    0 
+serena    899166148  9  2 B   -     -     -          825   10   15 
+serena    899166167  9  1 Bc  kcf   -     -          830   40    0 
+serena    899166257  8  8 f   -     -     -          790    0    0 
+serena    899166290  8  7 f   -     -     -          790    0    0 
+serena    899166325  9  6 f   -     -     -          790    0    0 
+serena    899166381 10  6 c   f     -     -          790   20    0 
+serena    899166431  9  4 f   -     -     -          770    0    0 
+serena    899166472  9  4 f   -     -     -          770    0    0 
+serena    899166563  9  3 f   -     -     -          770    0    0 
+serena    899166621  9  2 Bk  k     k     k          770   10   40 Qs 4s
+serena    899166682  9  1 Bf  -     -     -          800    5    0 
+serena    899166750  9  9 f   -     -     -          795    0    0 
+serena    899166794  9  8 f   -     -     -          795    0    0 
+serena    899166849 10  8 f   -     -     -          795    0    0 
+serena    899166923 10  7 f   -     -     -          795    0    0 
+serena    899166951 10  6 c   k     c     c          795   80    0 Qc Kc
+serena    899167002 10  5 f   -     -     -          715    0    0 
+serena    899167094 10  4 cc  cc    kc    kf         715   80    0 
+serena    899167188 10  3 f   -     -     -          635    0    0 
+serena    899167261 10  2 Bf  -     -     -          635   10    0 
+serena    899167351  9  1 Bf  -     -     -          625    5    0 
+serena    899167419 10  9 c   c     f     -          620   20    0 
+serena    899167458 10  8 f   -     -     -          600    0    0 
+serena    899167505 10  7 f   -     -     -          600    0    0 
+serena    899167543 10  6 f   -     -     -          600    0    0 
+serena    899167634 10  5 f   -     -     -          600    0    0 
+serena    899167662  9  3 f   -     -     -          600    0    0 
+serena    899167722  9  2 Bf  -     -     -          600   10    0 
+serena    899167735  9  1 Bc  kc    kf    -          590   30    0 
+serena    899167775 10 10 f   -     -     -          560    0    0 
+serena    899167816 10  9 f   -     -     -          560    0    0 
+serena    899167842 10  8 f   -     -     -          560    0    0 
+serena    899167872  9  6 f   -     -     -          560    0    0 
+serena    899167928  9  6 f   -     -     -          560    0    0 
+serena    899168034 10  5 r   bc    b     kc         560   80  225 Kc Ks
+serena    899168085  9  4 cc  k     k     b          705   40  160 Kc 4c
+serena    899168169  9  4 r   b     kc    kf         825   50    0 
+serena    899168214  9  2 Bk  kc    k     k          775   20    0 8h 2d
+serena    899168264  8  1 Bf  -     -     -          755    5    0 
+serena    899168329  9  9 f   -     -     -          750    0    0 
+serena    899168363  9  8 f   -     -     -          750    0    0 
+serena    899168391  9  7 cc  kc    kc    kf         750   50    0 
+serena    899168446  9  6 f   -     -     -          700    0    0 
+serena    899168493 10  6 f   -     -     -          700    0    0 
+serena    899168556 10  5 f   -     -     -          700    0    0 
+serena    899168598 10  4 cc  c     c     rc         700  150  730 Qs Js
+serena    899168682 10  3 f   -     -     -         1280    0    0 
+serena    899168741 10  2 Bc  kc    kf    -         1280   30    0 
+serena    899168853 10  1 Bcc kc    kf    -         1250   30    0 
+serena    899168912  8  8 f   -     -     -         1220    0    0 
+serena    899168943 10  8 c   c     f     -         1220   30    0 
+serena    899168973 10  7 f   -     -     -         1190    0    0 
+serena    899169050 10  6 f   -     -     -         1190    0    0 
+serena    899169111 10  5 f   -     -     -         1190    0    0 
+serena    899169144 10  4 c   k     f     -         1190   10    0 
+serena    899169198 10  3 c   r     k     k         1180   30  110 4h 4s
+serena    899169235 10  2 Bf  -     -     -         1260   10    0 
+serena    899169276 10  1 Bc  b     b     b         1250   70    0 Ad Jh
+serena    899169328  9  9 c   k     k     k         1180   10   50 Qh 4s
+serena    899169370  9  8 f   -     -     -         1220    0    0 
+serena    899169407  9  7 f   -     -     -         1220    0    0 
+serena    899169449  9  6 f   -     -     -         1220    0    0 
+serena    899169462 10  6 f   -     -     -         1220    0    0 
+serena    899169499 10  5 f   -     -     -         1220    0    0 
+serena    899169562 10  4 f   -     -     -         1220    0    0 
+serena    899169628 10  3 c   c     c     kf        1220   40    0 
+serena    899169676 10  2 Bf  -     -     -         1180   10    0 
+serena    899169726 10  1 Bc  kc    kf    -         1170   30    0 
+serena    899169780 10 10 f   -     -     -         1140    0    0 
+serena    899169821 10  9 f   -     -     -         1140    0    0 
+serena    899169877 10  8 f   -     -     -         1140    0    0 
+serena    899169981 10  7 f   -     -     -         1140    0    0 
+serena    899170068  9  5 cc  cc    kf    -         1140   60    0 
+serena    899170151 10  4 f   -     -     -         1080    0    0 
+serena    899170175 10  3 f   -     -     -         1080    0    0 
+serena    899170222 10  2 Bcc kcc   kf    -         1080   80    0 
+serena    899170309 10  1 Bf  -     -     -         1000    5    0 
+serena    899170373  9  9 c   b     b     b          995   60  135 
+serena    899170411  9  8 cc  b     cc    k         1070   70    0 Kd 4s
+serena    899170462  9  7 f   -     -     -         1000    0    0 
+serena    899170501  9  6 f   -     -     -         1000    0    0 
+serena    899170539  9  5 f   -     -     -         1000    0    0 
+serena    899170570  9  4 cc  f     -     -         1000   20    0 
+serena    899170630  9  3 cc  kc    kf    -          980   30    0 
+serena    899170688  9  2 Bk  k     kf    -          950   10    0 
+serena    899170737  9  1 Bf  -     -     -          940    5    0 
+serena    899170797 10 10 f   -     -     -          935    0    0 
+serena    899170900 10  9 f   -     -     -          935    0    0 
+serena    899170959 10  8 c   f     -     -          935   10    0 
+serena    899171002  9  6 f   -     -     -          925    0    0 
+serena    899171023  9  6 f   -     -     -          925    0    0 
+serena    899171063 10  5 f   -     -     -          925    0    0 
+serena    899171126 10  4 f   -     -     -          925    0    0 
+serena    899171157 10  3 c   cc    bc    k          925   70    0 5h Qh
+serena    899171213  9  1 Bf  -     -     -          855   10    0 
+serena    899171267  9  1 Bc  k     b     k          845   30  100 Kd 6c
+serena    899171351 10 10 f   -     -     -          915    0    0 
+serena    899171418 10  9 f   -     -     -          915    0    0 
+serena    899171517  7  6 c   k     kf    -          915   10    0 
+serena    899171551  9  6 f   -     -     -          905    0    0 
+serena    899171595 10  7 f   -     -     -          905    0    0 
+serena    899171647  9  5 f   -     -     -          905    0    0 
+serena    899171687 10  4 f   -     -     -          905    0    0 
+serena    899171731 10  3 f   -     -     -          905    0    0 
+serena    899171773 10  2 Bf  -     -     -          905   10    0 
+serena    899171813 10  1 Bc  b     b     k          895   50  220 Ac Jh
+serena    899171865 10 10 c   c     cc    c         1065  140    0 Qd Ts
+serena    899171962 10  9 c   r     b     -          925   50  120 
+serena    899172013 10  8 c   c     c     f          995   40    0 
+serena    899172117 10  7 c   c     c     c          955   80    0 8s Qs
+serena    899172185 10  6 cc  k     k     f          875   20    0 
+serena    899172235 10  5 f   -     -     -          855    0    0 
+serena    899172300 10  4 f   -     -     -          855    0    0 
+serena    899172337  9  2 Bk  kc    kc    kf         855   40    0 
+serena    899172380 10  1 Bf  -     -     -          815    5    0 
+serena    899172401 10 10 c   c     k     f          810   30    0 
+serena    899172454 10  9 ccc c     b     r          780  110  380 Ts Kc
+serena    899172548 10  8 f   -     -     -         1050    0    0 
+serena    899172594 10  7 c   kc    kc    kf        1050   40    0 
+serena    899172647 10  6 c   bc    kc    kc        1010   70    0 Ad 7d
+serena    899172685 10  5 f   -     -     -          940    0    0 
+serena    899172734 10  4 f   -     -     -          940    0    0 
+serena    899172776 10  3 f   -     -     -          940    0    0 
+serena    899172828 10  2 Bk  kc    kf    -          940   20    0 
+serena    899172860  9  1 Bf  -     -     -          920    5    0 
+serena    899172918  9  9 c   c     c     f          915   40    0 
+serena    899172992 10  8 cc  b     b     r          875   90  275 6h Kh
+serena    899173054 10  7 f   -     -     -         1060    0    0 
+serena    899173099 10  6 f   -     -     -         1060    0    0 
+serena    899173128 10  5 c   k     kf    -         1060   10    0 
+serena    899173188 10  4 f   -     -     -         1050    0    0 
+serena    899173209 10  3 c   rc    bc    k         1050   80  330 Ac 7h
+serena    899173265  9  2 Brc bc    kc    bc        1300  110  380 Ts Td
+serena    899173346  9  1 Bf  -     -     -         1570    5    0 
+serena    899173389  9  9 c   c     f     -         1565   20    0 
+serena    899173448  9  8 f   -     -     -         1545    0    0 
+serena    899173506  9  7 f   -     -     -         1545    0    0 
+serena    899173554  9  6 f   -     -     -         1545    0    0 
+serena    899173594  9  5 c   brc   bc    cc        1545  150    0 Jd Kc
+serena    899173699  9  4 ccc f     -     -         1395   40    0 
+serena    899173808  9  3 f   -     -     -         1355    0    0 
+serena    899173858  9  2 Bf  -     -     -         1355   10    0 
+serena    899173938  9  1 Bc  k     kf    -         1345   10    0 
+serena    899174030 10  9 f   -     -     -         1335    0    0 
+serena    899174090 10  8 f   -     -     -         1335    0    0 
+serena    899174149  9  7 f   -     -     -         1335    0    0 
+serena    899174183  9  6 c   k     k     k         1335   20    0 As 2s
+serena    899174252 10  5 r   bc    kf    -         1315   40    0 
+serena    899174306 10  4 f   -     -     -         1275    0    0 
+serena    899174366 10  3 f   -     -     -         1275    0    0 
+serena    899174454 10  2 Bk  kc    bc    kf        1275   60    0 
+serena    899174505 10  1 Bf  -     -     -         1215    5    0 
+serena    899174547 10 10 f   -     -     -         1210    0    0 
+serena    899174607 10  9 c   f     -     -         1210   10    0 
+serena    899174666 10  8 f   -     -     -         1200    0    0 
+serena    899174702 10  7 f   -     -     -         1200    0    0 
+serena    899174826 10  6 f   -     -     -         1200    0    0 
+serena    899174880 10  5 f   -     -     -         1200    0    0 
+serena    899174911 10  4 f   -     -     -         1200    0    0 
+serena    899174951 10  3 f   -     -     -         1200    0    0 
+serena    899174995 10  2 Bf  -     -     -         1200   10    0 
+serena    899175084 10  1 Bc  kc    kf    -         1190   30    0 
+serena    899175147 10 10 f   -     -     -         1160    0    0 
+serena    899175192 10  9 f   -     -     -         1160    0    0 
+serena    899175272 10  8 r   b     rc    b         1160  110  295 Kd As
+serena    899175340 10  7 f   -     -     -         1345    0    0 
+serena    899175416 10  7 c   bc    kc    kc        1345   70    0 Qh 2h
+serena    899175501 10  5 f   -     -     -         1275    0    0 
+serena    899175559 10  4 f   -     -     -         1275    0    0 
+serena    899175615 10  3 c   rc    f     -         1275   40    0 
+serena    899175653 10  2 Bk  kf    -     -         1235   10    0 
+serena    899175705 10  1 Bf  -     -     -         1225    5    0 
+serena    899175769 10 10 cc  f     -     -         1220   40    0 
+serena    899175866 10  9 f   -     -     -         1180    0    0 
+serena    899175935 10  8 cc  c     c     f         1180   50    0 
+serena    899176003 10  7 f   -     -     -         1130    0    0 
+serena    899176026 10  6 f   -     -     -         1130    0    0 
+serena    899176070 10  5 c   kf    -     -         1130   10    0 
+serena    899176115 10  4 cc  r     b     b         1120   80  300 6h 6d
+serena    899176167 10  3 cc  kf    -     -         1340   20    0 
+serena    899176216 10  2 Bk  k     k     k         1320   10    0 Th Jd
+serena    899176251 10  1 Bf  -     -     -         1310    5    0 
+serena    899176292 10 10 f   -     -     -         1305    0    0 
+serena    899176335 10  9 c   c     f     -         1305   40    0 
+serena    899176410 10  8 f   -     -     -         1265    0    0 
+serena    899176469 10  7 f   -     -     -         1265    0    0 
+serena    899176566  9  5 f   -     -     -         1265    0    0 
+serena    899176609 10  5 c   k     k     b         1265   30   65 
+serena    899176658 10  4 r   b     b     -         1300   50  140 
+serena    899176699  9  3 f   -     -     -         1390    0    0 
+serena    899176740  9  2 Bk  b     b     kc        1390   60    0 8c 3d
+serena    899176795  9  1 Bf  -     -     -         1330    5    0 
+serena    899176852  8  8 f   -     -     -         1325    0    0 
+serena    899176896 10  9 f   -     -     -         1325    0    0 
+serena    899176949 10  8 c   c     c     r         1325   80  225 
+serena    899176994  9  7 f   -     -     -         1470    0    0 
+serena    899177031  9  6 cc  kc    k     k         1470   40  190 Ts 8c
+serena    899177078  9  4 f   -     -     -         1620    0    0 
+serena    899177120 10  3 f   -     -     -         1620    0    0 
+serena    899177152 10  2 Bc  b     b     b         1620   70  270 Kh 3s
+serena    899177192 10  1 Bc  kc    kf    -         1820   20    0 
+serena    899177274 10 10 c   cc    c     k         1800   60    0 9d 5d
+serena    899177448 10  9 f   -     -     -         1740    0    0 
+serena    899177494 10  8 rc  rc    c     c         1740  110  410 Ad 9d
+serena    899177591 10  7 f   -     -     -         2040    0    0 
+serena    899177613 10  6 f   -     -     -         2040    0    0 
+serena    899177673 10  5 f   -     -     -         2040    0    0 
+serena    899177712 10  4 f   -     -     -         2040    0    0 
+serena    899177787 10  3 c   c     k     k         2040   20   60 Th Ts
+serena    899177832 10  2 Bk  kc    kf    -         2080   20    0 
+serena    899177889 10  1 Bf  -     -     -         2060    5    0 
+serena    899177928 10 10 r   b     k     b         2055   50  145 
+serena    899177995 10  9 cf  -     -     -         2150   10    0 
+serena    899178021 10  8 f   -     -     -         2140    0    0 
+serena    899178084 10  7 cc  kc    kf    -         2140   30    0 
+serena    899178139 10  6 f   -     -     -         2110    0    0 
+serena    899178170 10  5 f   -     -     -         2110    0    0 
+serena    899178320 10  4 c   bc    bc    k         2110   70  265 4c 4d
+serena    899178381 10  3 cf  -     -     -         2305   10    0 
+serena    899178425 10  2 Bk  kf    -     -         2295   10    0 
+serena    899178462 10  1 Bf  -     -     -         2285    5    0 
+serena    899178554  9  9 f   -     -     -         2280    0    0 
+serena    899178590  9  8 f   -     -     -         2280    0    0 
+serena    899178736 10  8 f   -     -     -         2280    0    0 
+serena    899178761 10  7 f   -     -     -         2280    0    0 
+serena    899178809 10  6 cc  b     b     k         2280   50  190 Th Qc
+serena    899178874 10  5 cc  brc   bc    kc        2420  140  575 6h 6d
+serena    899178986 10  4 cc  kc    kc    kf        2855   50    0 
+serena    899179042  9  3 f   -     -     -         2805    0    0 
+serena    899179083 10  2 Bk  kf    -     -         2805   10    0 
+serena    899179135 10  1 Bc  kc    kf    -         2795   30    0 
+serena    899179193 10 10 f   -     -     -         2765    0    0 
+serena    899179259 10  9 cc  kc    bc    k         2765   70  105 9c Ad
+serena    899179320 10  8 f   -     -     -         2800    0    0 
+serena    899179362 10  7 f   -     -     -         2800    0    0 
+serena    899179399 10  6 f   -     -     -         2800    0    0 
+serena    899179442 10  5 c   k     b     b         2800   50  175 9c Kc
+serena    899179501 10  4 f   -     -     -         2925    0    0 
+serena    899179547 10  3 f   -     -     -         2925    0    0 
+serena    899179583 10  2 Bk  k     k     k         2925   10    0 3d 7c
+serena    899179614 10  1 Bf  -     -     -         2915    5    0 
+serena    899179648 10 10 f   -     -     -         2910    0    0 
+serena    899179698 10  9 c   r     b     k         2910   60  260 Kd Tc
+serena    899179756 10  8 c   r     r     k         3110   80  230 2d 2h
+serena    899179794 10  7 f   -     -     -         3260    0    0 
+serena    899179847 10  6 f   -     -     -         3260    0    0 
+serena    899179909 10  5 f   -     -     -         3260    0    0 
+serena    899179974 10  4 c   kc    kc    kf        3260   40    0 
+serena    899180091 10  3 cc  kc    kf    -         3220   30    0 
+serena    899180131 10  2 Bk  kc    kf    -         3190   20    0 
+serena    899180183 10  1 Bc  bc    kc    kc        3170   70    0 Td Ah
+serena    899180223 10 10 f   Q     -     Q         3100    0    0 

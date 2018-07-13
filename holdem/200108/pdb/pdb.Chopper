@@ -1,0 +1,964 @@
+Chopper   997259541  6  6 f   -     -     -          607    0    0 
+Chopper   997259587  6  5 f   -     -     -          607    0    0 
+Chopper   997259620  5  3 cc  kc    kf    -          607   30    0 
+Chopper   997259651  5  2 Bk  kf    -     -          577   10    0 
+Chopper   997259669  5  1 Br  b     b     b          567   70    0 Qh Qs
+Chopper   997259714  5  5 f   -     -     -          497    0    0 
+Chopper   997259726  5  4 c   kf    -     -          497   10    0 
+Chopper   997259762  5  3 f   -     -     -          487    0    0 
+Chopper   997259793  4  2 Bk  kc    kf    -          487   20    0 
+Chopper   997259822  4  1 Bf  -     -     -          467    5    0 
+Chopper   997259826  4  4 r   b     -     -          462   30   75 
+Chopper   997259851  4  3 f   -     -     -          507    0    0 
+Chopper   997259877  4  2 Bc  kf    -     -          507   20    0 
+Chopper   997259889  4  1 Br  b     b     b          487   70  220 Ah Ad
+Chopper   997259920  4  4 c   c     c     r          637   90  240 Js 9c
+Chopper   997259961  4  3 c   f     -     -          787   10    0 
+Chopper   997259994  4  2 Bk  k     rc    c          777   90    0 Jd 8s
+Chopper   997260043  4  1 Bf  -     -     -          687    5    0 
+Chopper   997260056  4  4 c   k     k     k          682   10    0 Kc 3d
+Chopper   997260083  4  3 f   -     -     -          672    0    0 
+Chopper   997260112  4  2 Bk  k     c     f          672   30    0 
+Chopper   997260148  4  1 Bcc kf    -     -          642   20    0 
+Chopper   997260178  4  4 c   k     k     f          622   10    0 
+Chopper   997260207  4  3 c   kf    -     -          612   10    0 
+Chopper   997260229  4  2 Bc  kf    -     -          602   20    0 
+Chopper   997260256  4  1 Bc  b     b     k          582   40  120 9d 8d
+Chopper   997260293  4  4 f   -     -     -          662    0    0 
+Chopper   997260316  4  3 c   c     c     c          662   80    0 Jh Qd
+Chopper   997260350  4  2 Bk  kf    -     -          582   10    0 
+Chopper   997260382  4  1 Bc  kf    -     -          572   20    0 
+Chopper   997260431  4  4 r   r     b     -          552   60  125 
+Chopper   997260470  4  3 cc  k     k     k          617   18   54 5h Th
+Chopper   997260494  3  2 Bk  b     -     -          653   20   30 
+Chopper   997260518  3  1 Bc  kc    kc    kf         663   50    0 
+Chopper   997260555  4  4 f   -     -     -          613    0    0 
+Chopper   997260591  4  3 cc  k     k     f          613   20    0 
+Chopper   997260611  4  2 Bc  k     k     kc         593   40    0 9s Ad
+Chopper   997260631  4  1 Bf  -     -     -          553    5    0 
+Chopper   997260675  4  4 f   -     -     -          548    0    0 
+Chopper   997260707  4  3 f   -     -     -          548    0    0 
+Chopper   997260740  4  2 Bc  c     f     -          548   30    0 
+Chopper   997260761  4  1 Bf  -     -     -          518    5    0 
+Chopper   997260785  4  4 c   k     k     k          513   10   25 Qc 5c
+Chopper   997260799  4  3 f   -     -     -          528    0    0 
+Chopper   997260828  4  2 Bk  k     k     k          528   10    0 Qh 7h
+Chopper   997260854  4  1 Bc  kc    kc    k          518   50    0 Ac 5c
+Chopper   997260894  4  4 f   -     -     -          468    0    0 
+Chopper   997260911  4  3 f   -     -     -          468    0    0 
+Chopper   997260944  4  2 Bc  b     -     -          468   30   55 
+Chopper   997260959  4  1 Bc  kf    -     -          493   10    0 
+Chopper   997260991  3  3 f   -     -     -          483    0    0 
+Chopper   997261004  3  2 Bc  f     -     -          483   20    0 
+Chopper   997261017  3  1 Bc  kc    kc    kf         463   40    0 
+Chopper   997261052  3  3 f   -     -     -          423    0    0 
+Chopper   997261055  3  2 Br  b     b     b          423   70    0 7s 7h
+Chopper   997261083  3  1 Bc  k     kf    -          353   10    0 
+Chopper   997261119  3  3 r   -     -     -          343   20   35 
+Chopper   997261130  3  2 Bk  k     b     b          358   50   80 
+Chopper   997261160  3  1 Bc  k     k     k          388   10   20 Ad 9d
+Chopper   997261175  3  3 c   k     b     -          398   30   50 
+Chopper   997261204  3  2 Bk  b     b     b          418   60  120 
+Chopper   997261237  3  1 Bc  kc    kc    kf         478   50    0 
+Chopper   997261263  3  3 f   -     -     -          428    0    0 
+Chopper   997261267  3  2 Bk  kf    -     -          428   10    0 
+Chopper   997261286  3  1 Bc  kc    kc    kr         418   90  210 6c Kd
+Chopper   997261319  3  3 c   k     k     k          538   10   25 Tc Qs
+Chopper   997261342  3  2 Bk  c     c     f          553   40    0 
+Chopper   997261364  3  1 Bf  -     -     -          513    5    0 
+Chopper   997261386  3  3 f   -     -     -          508    0    0 
+Chopper   997261400  3  2 B   -     -     -          508   10   15 
+Chopper   997261408  2  1 Bc  kf    -     -          513   10    0 
+Chopper   997261427  2  2 Bc  c     f     -          503   30    0 
+Chopper   997261438  2  1 Bcc b     b     -          473   50   80 
+Chopper   997261452  2  2 Bk  k     k     f          503   10    0 
+Chopper   997261465  2  1 Br  b     -     -          493   30   50 
+Chopper   997261472  2  2 Bc  f     -     -          513   20    0 
+Chopper   997261483  2  1 Bcc kf    -     -          493   20    0 
+Chopper   997261495  2  2 B   -     -     -          473   10   15 
+Chopper   997261498  2  1 Bf  -     -     -          478    5    0 
+Chopper   997261501  2  2 Bc  r     Q     -          473   40    0 
+Chopper   997926288  7  5 f   -     -     -         1000    0    0 
+Chopper   997926355  7  3 c   f     -     -         1000   10    0 
+Chopper   997926419  8  2 Bf  -     -     -          990   10    0 
+Chopper   997926470  8  1 Bcc kc    br    -          980   90  240 
+Chopper   997926514  9  9 c   k     k     k         1130   10    0 Qs 8c
+Chopper   997926559  9  8 f   -     -     -         1120    0    0 
+Chopper   997926607  9  7 c   r     b     b         1120   70  185 Jd 9d
+Chopper   997926665  9  6 f   -     -     -         1235    0    0 
+Chopper   997926720  8  5 f   -     -     -         1235    0    0 
+Chopper   997926752  7  3 cc  kc    kc    kr        1235  100  380 2c 9c
+Chopper   997926802  6  1 Bf  -     -     -         1515   10    0 
+Chopper   997926815  6  1 Bc  kc    kc    kf        1505   40    0 
+Chopper   997926860  6  6 f   -     -     -         1465    0    0 
+Chopper   997926886  6  5 f   -     -     -         1465    0    0 
+Chopper   997926948  6  4 f   -     -     -         1465    0    0 
+Chopper   997926964  6  3 c   kf    -     -         1465   10    0 
+Chopper   997926996  7  2 Bc  f     -     -         1455   20    0 
+Chopper   997927025  7  1 Bc  kf    -     -         1435   10    0 
+Chopper   997927085  8  8 ccc k     r     b         1425  100  185 7s 4s
+Chopper   997927144 10  9 f   -     -     -         1510    0    0 
+Chopper   997927182 10  8 f   -     -     -         1510    0    0 
+Chopper   997927216 10  7 cc  c     f     -         1510   30    0 
+Chopper   997927266 10  6 f   -     -     -         1480    0    0 
+Chopper   997927322 10  5 r   b     b     -         1480   50  180 
+Chopper   997927377  9  3 f   -     -     -         1610    0    0 
+Chopper   997927414  8  2 B   -     -     -         1610   10   15 
+Chopper   997927422  8  1 Bf  -     -     -         1615    5    0 
+Chopper   997927458  7  7 f   -     -     -         1610    0    0 
+Chopper   997927499  7  5 cc  cf    -     -         1610   30    0 
+Chopper   997927542  7  5 ccc kc    kf    -         1580   50    0 
+Chopper   997927631  7  4 c   f     -     -         1530   10    0 
+Chopper   997927742  7  3 cc  br    b     b         1520  110  520 5s 5h
+Chopper   997927803  6  2 Bc  kc    kc    k         1930   50    0 5h As
+Chopper   997927840  6  1 Bf  -     -     -         1880    5    0 
+Chopper   997927868  5  5 f   -     -     -         1875    0    0 
+Chopper   997927928  5  4 c   k     k     k         1875   10   35 6h Ac
+Chopper   997928076  3  2 Bc  kc    kc    k         1900   50   60 Kd Qc
+Chopper   997928097  3  1 Bf  -     -     -         1910    5    0 
+Chopper   997928119  3  3 cc  c     k     c         1905   50    0 Kc 5c
+Chopper   997928144  4  2 Br  bc    kc    kc        1855   90  255 Kd As
+Chopper   997928203  4  1 Bf  -     -     -         2020    5    0 
+Chopper   997928238  4  4 f   -     -     -         2015    0    0 
+Chopper   997928261  4  3 f   -     -     -         2015    0    0 
+Chopper   997928301  4  2 Bk  cc    kc    kc        2015   70  200 3c Js
+Chopper   997928340  4  1 Bf  -     -     -         2145    5    0 
+Chopper   997928356  4  4 r   b     b     brc       2140  140    0 Kh Kd
+Chopper   997928425  4  3 c   c     f     -         2000   20    0 
+Chopper   997928456  4  2 Bc  f     -     -         1980   20    0 
+Chopper   997928482  4  1 Bc  kf    -     -         1960   10    0 
+Chopper   997928525  4  4 f   -     -     -         1950    0    0 
+Chopper   997928570  4  3 f   -     -     -         1950    0    0 
+Chopper   997928584  4  2 Bk  f     -     -         1950   10    0 
+Chopper   997928610  5  1 Br  b     b     bc        1940  100    0 Ac Kh
+Chopper   997928652  5  5 c   k     k     f         1840   10    0 
+Chopper   997928684  5  4 f   -     -     -         1830    0    0 
+Chopper   997928694  5  3 c   k     k     k         1830   10   25 As 3d
+Chopper   997928724  5  2 Bf  -     -     -         1845   10    0 
+Chopper   997928735  5  1 Bf  -     -     -         1835    5    0 
+Chopper   997928814  5  5 c   f     -     -         1830   10    0 
+Chopper   997928863  6  5 f   -     -     -         1820    0    0 
+Chopper   997928912  6  4 f   -     -     -         1820    0    0 
+Chopper   997928950  7  4 f   -     -     -         1820    0    0 
+Chopper   997928994  8  4 f   -     -     -         1820    0    0 
+Chopper   997929047  8  3 f   -     -     -         1820    0    0 
+Chopper   997929086  9  3 f   -     -     -         1820    0    0 
+Chopper   997929145  9  2 Bk  cc    rr    ccc       1820  210    0 Qs Ks
+Chopper   997929230  9  1 Bc  b     b     b         1610   60  130 
+Chopper   997929281 10 10 f   -     -     -         1680    0    0 
+Chopper   997929373  9  8 cc  c     c     k         1680   50    0 9h 8s
+Chopper   997929439  9  8 c   c     c     f         1630   50    0 
+Chopper   997929486  8  6 f   -     -     -         1580    0    0 
+Chopper   997929523  9  5 f   -     -     -         1580    0    0 
+Chopper   997929577  9  4 f   -     -     -         1580    0    0 
+Chopper   997929616  9  3 f   -     -     -         1580    0    0 
+Chopper   997929695  9  2 Br  bc    kc    kf        1580   60    0 
+Chopper   997929745  8  1 Bc  kc    kc    f         1520   40    0 
+Chopper   997929823  8  8 cc  f     -     -         1480   40    0 
+Chopper   997929912  8  7 c   kc    kc    kf        1440   40    0 
+Chopper   997929989  7  5 c   kc    kc    krr       1400  120  270 Jc Th
+Chopper   997930047  7  5 c   f     -     -         1550   10    0 
+Chopper   997930095  7  4 cc  kc    kc    k         1540   50  115 Ad 9c
+Chopper   997930130  7  3 f   -     -     -         1605    0    0 
+Chopper   997930163  8  2 Bk  k     k     kf        1605   10    0 
+Chopper   997930202  8  1 Bc  k     kc    kr        1595   80  280 Jc 7c
+Chopper   997930265  8  8 c   k     f     -         1795   10    0 
+Chopper   997930323  8  7 f   -     -     -         1785    0    0 
+Chopper   997930422 10  8 rc  cc    c     f         1785  110    0 
+Chopper   997930539 10  7 f   -     -     -         1675    0    0 
+Chopper   997930590 10  6 f   -     -     -         1675    0    0 
+Chopper   997930633 10  5 f   -     -     -         1675    0    0 
+Chopper   997930712  9  4 c   k     c     b         1675   50  175 Kc Js
+Chopper   997930806  9  3 cc  kf    -     -         1800   20    0 
+Chopper   997930844  9  2 Bk  kc    cc    kf        1780   60    0 
+Chopper   997930924  9  1 Bc  kf    -     -         1720   10    0 
+Chopper   997931000  9  9 c   k     k     k         1710   10    0 8c 3c
+Chopper   997931060  9  8 c   f     -     -         1700   10    0 
+Chopper   997931099  8  6 c   c     c     c         1690   60  130 Ah 9s
+Chopper   997931133  8  6 f   -     -     -         1760    0    0 
+Chopper   997931192  7  5 c   b     b     -         1760   40   90 
+Chopper   997931238  7  4 f   -     -     -         1810    0    0 
+Chopper   997931284  7  3 f   -     -     -         1810    0    0 
+Chopper   997931335  7  2 Bc  kf    -     -         1810   20    0 
+Chopper   997931401  6  1 Bc  b     b     b         1790   70  170 
+Chopper   997931452  7  7 c   c     b     k         1890   40  140 5s Qc
+Chopper   997931533  7  6 c   k     c     b         1990   50  115 6h 7h
+Chopper   997931567  8  6 f   -     -     -         2055    0    0 
+Chopper   997931659  9  6 cc  kc    b     kc        2055   80  300 6d 6h
+Chopper   997931745 10  6 f   -     -     -         2275    0    0 
+Chopper   997931785 10  5 c   kc    kc    kc        2275   60    0 5d Jd
+Chopper   997931875 10  4 f   -     -     -         2215    0    0 
+Chopper   997931958 10  3 f   -     -     -         2215    0    0 
+Chopper   997932060 10  2 Bk  brc   b     b         2215   90  330 4c 4s
+Chopper   997932119 10  1 Bc  kf    -     -         2455   10    0 
+Chopper   997932174 10 10 c   c     c     k         2445   40  135 Js 6s
+Chopper   997932236 10  9 f   -     -     -         2540    0    0 
+Chopper   997932288  9  7 f   -     -     -         2540    0    0 
+Chopper   997932336  9  6 f   -     -     -         2540    0    0 
+Chopper   997932381  8  4 c   c     c     c         2540   60    0 Tc Jc
+Chopper   997932454  8  3 cc  c     c     k         2480   50    0 8c Ah
+Chopper   997932522 10  2 Bk  k     kf    -         2430   10    0 
+Chopper   997932574 10  1 Bf  -     -     -         2420    5    0 
+Chopper   997932627 10 10 f   -     -     -         2415    0    0 
+Chopper   997932677 10  9 f   -     -     -         2415    0    0 
+Chopper   997932777 10  8 c   c     f     -         2415   30    0 
+Chopper   997932879 10  7 cc  c     kc    kc        2385   70    0 9d Ad
+Chopper   997932997 10  6 c   c     f     -         2315   20    0 
+Chopper   997933070 10  5 c   kf    -     -         2295   10    0 
+Chopper   997933157 10  4 f   -     -     -         2285    0    0 
+Chopper   997933230 10  3 r   b     b     b         2285   70  135 
+Chopper   997933263 10  2 Bcc kf    -     -         2350   40    0 
+Chopper   997933345 10  1 Bc  kc    kc    f         2310   60    0 
+Chopper   997933470 10 10 f   -     -     -         2250    0    0 
+Chopper   997933541 10  9 r   bc    kc    k         2250   60  215 As 2d
+Chopper   997933592 10  8 c   c     c     rc        2405  110  215 4d 6d
+Chopper   997933670 10  7 c   cc    c     f         2510   50    0 
+Chopper   997933739 10  6 f   -     -     -         2460    0    0 
+Chopper   997933795 10  5 c   c     c     f         2460   40    0 
+Chopper   997933881 10  4 c   kf    -     -         2420   10    0 
+Chopper   997933961 10  3 f   -     -     -         2410    0    0 
+Chopper   997934039 10  2 Bc  kc    kf    -         2410   30    0 
+Chopper   997934147 10  1 Bf  -     -     -         2380    5    0 
+Chopper   997934229 10 10 c   c     c     f         2375   50    0 
+Chopper   997934311 10 10 c   c     c     c         2325   60    0 Ac 9d
+Chopper   997934413 10  8 f   -     -     -         2265    0    0 
+Chopper   997934546 10  7 c   f     -     -         2265   10    0 
+Chopper   997934678  9  6 cc  c     f     -         2255   50    0 
+Chopper   997934763 10  5 c   f     -     -         2205   10    0 
+Chopper   997934822  7  4 f   -     -     -         2195    0    0 
+Chopper   997934869  7  3 c   k     kc    kf        2195   30    0 
+Chopper   997934933  8  2 Br  b     b     -         2165   60  230 
+Chopper   997935002  7  1 Bc  kf    -     -         2335   10    0 
+Chopper   997935062  8  8 r   r     c     c         2325   80    0 Kd Kh
+Chopper   997935134  9  8 c   k     c     c         2245   50    0 7c 3c
+Chopper   997935245  9  7 f   -     -     -         2195    0    0 
+Chopper   997935328  9  6 f   -     -     -         2195    0    0 
+Chopper   997935411 10  5 c   c     f     -         2195   30    0 
+Chopper   997935487 10  4 c   kc    kf    -         2165   40    0 
+Chopper   997935590 10  3 c   k     kc    kc        2125   50    0 5c Kc
+Chopper   997935656 10  2 Bk  kc    kf    -         2075   20    0 
+Chopper   997935723  9  1 Bc  bc    b     b         2055   90  430 8c 7c
+Chopper   997935826  9  9 c   c     cc    c         2395   80    0 6h As
+Chopper   997935963  9  9 f   -     -     -         2315    0    0 
+Chopper   997936057 10  8 f   -     -     -         2315    0    0 
+Chopper   997936237  9  7 ccc c     c     r         2315  110  300 
+Chopper   997936297 10  6 r   rc    cc    kc        2505  120    0 Qc Ac
+Chopper   997936402 10  5 cc  cc    f     -         2385   60    0 
+Chopper   997936476 10  4 f   -     -     -         2325    0    0 
+Chopper   997936597 10  3 c   kc    kc    b         2325   60  210 Tc Qs
+Chopper   997936684  9  2 Bk  b     b     b         2475   60   98 Th Ad
+Chopper   997936731  9  1 Bf  -     -     -         2513    5    0 
+Chopper   997936779 10 10 f   -     -     -         2508    0    0 
+Chopper   997936845 10  9 f   -     -     -         2508    0    0 
+Chopper   997936908 10  8 rc  rc    k     c         2508  110    0 Ad Qh
+Chopper   997936992  9  6 cc  bc    k     kc        2398  100  495 Tc As
+Chopper   997937143  9  5 ccc f     -     -         2793   40    0 
+Chopper   997937255  8  4 c   kc    kc    kf        2753   70    0 
+Chopper   997937338  7  3 c   kf    -     -         2683   10    0 
+Chopper   997937376  6  2 Bk  k     kc    kc        2673   50    0 3s 8d
+Chopper   997937426  6  1 Bf  -     -     -         2623    5    0 
+Chopper   997937489  6  6 c   f     -     -         2618   10    0 
+Chopper   997937542  6  5 r   b     b     bc        2608   90    0 Jd Ah
+Chopper   997937609  5  3 cc  b     b     b         2518   70    0 4d Ad
+Chopper   997937670  5  3 c   kc    kf    -         2448   20    0 
+Chopper   997937710  4  1 Bc  kc    kcc   k         2428   70    0 Ah 5c
+Chopper   997937768  5  1 Bf  -     -     -         2358    5    0 
+Chopper   997937819  5  5 c   b     bc    k         2353   60  140 4d Kc
+Chopper   997937870  5  4 c   cc    kc    k         2433   60    0 Ad 6s
+Chopper   997937926  6  3 f   -     -     -         2373    0    0 
+Chopper   997937954  6  2 Bc  kc    k     b         2373   50  140 
+Chopper   997938034  6  1 Bf  -     -     -         2463    5    0 
+Chopper   997938080  6  6 c   f     -     -         2458   10    0 
+Chopper   997938139  5  5 c   b     b     k         2448   40  120 Kh 4h
+Chopper   997938221  6  4 f   -     -     -         2528    0    0 
+Chopper   997938275  6  3 f   -     -     -         2528    0    0 
+Chopper   997938307  6  2 Bk  kf    -     -         2528   10    0 
+Chopper   997938393  6  1 Bf  -     -     -         2518    5    0 
+Chopper   997938438  6  6 rc  c     c     c         2513   90    0 Qs Ad
+Chopper   997938478  6  5 c   b     f     -         2423   30    0 
+Chopper   997938572  6  4 f   -     -     -         2393    0    0 
+Chopper   997938610  6  3 cc  c     kc    kc        2393   80    0 9c 9d
+Chopper   997938696  5  2 Bk  kf    -     -         2313   10    0 
+Chopper   997938756  5  1 Bc  k     k     k         2303   20    0 Jh 7h
+Chopper   997938797  6  6 f   -     -     -         2283    0    0 
+Chopper   997938840  6  5 f   -     -     -         2283    0    0 
+Chopper   997938899  6  4 f   -     -     -         2283    0    0 
+Chopper   997938958  7  4 cc  c     c     ccc       2283  140  142 7d Td
+Chopper   997939010  7  3 f   -     -     -         2285    0    0 
+Chopper   997939067  8  2 Br  b     b     kf        2285   50    0 
+Chopper   997939163  8  1 Bf  -     -     -         2235    5    0 
+Chopper   997939223  8  8 f   -     -     -         2230    0    0 
+Chopper   997939274  8  7 f   -     -     -         2230    0    0 
+Chopper   997939351  8  6 c   f     -     -         2230   10    0 
+Chopper   997939428  8  5 cc  k     kc    kf        2220   40    0 
+Chopper   997939482  8  4 cc  k     kf    -         2180   20    0 
+Chopper   997939555  8  3 c   cc    kc    k         2160   50    0 4h 2h
+Chopper   997939607  8  2 Bk  kf    -     -         2110   10    0 
+Chopper   997939685  8  1 Bf  -     -     -         2100    5    0 
+Chopper   997939780  8  8 f   -     -     -         2095    0    0 
+Chopper   997939842  8  7 cc  k     c     f         2095   40    0 
+Chopper   997939911  8  6 f   -     -     -         2055    0    0 
+Chopper   997939965  7  4 cc  c     c     c         2055   80    0 Kh 9s
+Chopper   997940039  7  3 f   -     -     -         1975    0    0 
+Chopper   997940077  8  3 f   -     -     -         1975    0    0 
+Chopper   997940185  8  2 Bf  -     -     -         1975   10    0 
+Chopper   997940254  8  1 Bf  -     -     -         1965    5    0 
+Chopper   997940298  8  8 cc  f     -     -         1960   20    0 
+Chopper   997940390  8  7 c   k     c     f         1940   30    0 
+Chopper   997940449  9  7 f   -     -     -         1910    0    0 
+Chopper   997940575  9  6 f   -     -     -         1910    0    0 
+Chopper   997940649 10  6 c   c     c     c         1910   60  200 Kc 3c
+Chopper   997940717 10  5 cc  k     kc    kf        2050   40    0 
+Chopper   997940773 10  5 cc  kc    kr    b         2010   90  280 4d 6d
+Chopper   997940880  7  3 f   -     -     -         2200    0    0 
+Chopper   997940967  6  2 Bf  -     -     -         2200   10    0 
+Chopper   997941027  5  1 Bc  kc    kc    kf        2190   50    0 
+Chopper   997941155  5  5 f   -     -     -         2140    0    0 
+Chopper   997941204  6  4 cc  kf    -     -         2140   20    0 
+Chopper   997941295  6  3 rr  k     rc    cc        2120  200    0 Th Ah
+Chopper   997941378  6  2 Bf  -     -     -         1920   10    0 
+Chopper   997941432  6  1 Brc bc    kc    kc        1910  100    0 Ad Kh
+Chopper   997941524  6  6 f   -     -     -         1810    0    0 
+Chopper   997941558  6  5 rc  rc    ccc   ccc       1810  240    0 As Th
+Chopper   997941636  7  4 f   -     -     -         1570    0    0 
+Chopper   997941726  7  3 r   b     b     b         1570   70  145 
+Chopper   997941776  7  2 Bc  kc    kf    -         1645   40    0 
+Chopper   997941870  7  1 Bf  -     -     -         1605    5    0 
+Chopper   997941952  7  7 f   -     -     -         1600    0    0 
+Chopper   997942029  7  6 c   c     f     -         1600   30    0 
+Chopper   997942082  7  5 f   -     -     -         1570    0    0 
+Chopper   997942183  6  2 f   -     -     -         1570    0    0 
+Chopper   997942225  6  2 Bk  cc    c     f         1570   60    0 
+Chopper   997942280  6  1 Bc  f     -     -         1510   10    0 
+Chopper   997942335  7  7 c   c     c     c         1500   70  175 Kh Jc
+Chopper   997942378  6  6 f   -     -     -         1605    0    0 
+Chopper   997942421  6  5 c   c     c     f         1605   50    0 
+Chopper   997942443  6  4 f   -     -     -         1555    0    0 
+Chopper   997942487  6  3 f   -     -     -         1555    0    0 
+Chopper   997942534  6  2 Bc  f     -     -         1555   20    0 
+Chopper   997942591  7  1 Bc  k     kf    -         1535   10    0 
+Chopper   997942652  8  8 c   k     c     c         1525   50  220 9s Jc
+Chopper   997942715  8  7 c   c     c     r         1695   90  330 Tc Ac
+Chopper   997942786  8  6 f   -     -     -         1935    0    0 
+Chopper   997942879  9  6 cc  c     f     -         1935   50    0 
+Chopper   997942957  9  5 f   -     -     -         1885    0    0 
+Chopper   997943015  9  4 cc  c     c     f         1885   50    0 
+Chopper   997943077  7  3 f   -     -     -         1835    0    0 
+Chopper   997943103  7  2 Bk  k     f     -         1835   10    0 
+Chopper   997943129  7  1 Bf  -     -     -         1825    5    0 
+Chopper   997943157  7  7 c   f     -     -         1820   10    0 
+Chopper   997943193  7  6 r   bc    c     f         1810   60    0 
+Chopper   997943263  9  7 c   Q     -     -         1750   10    0 
+Chopper   997943444  7  2 Bk  kf    -     -         1740   10    0 
+Chopper   997943503  7  1 Bc  b     b     b         1730   80  230 
+Chopper   997943544  8  8 c   f     -     -         1880   10    0 
+Chopper   997943607  8  7 c   f     -     -         1870   10    0 
+Chopper   997943667  7  5 f   -     -     -         1860    0    0 
+Chopper   997943700  7  4 c   c     k     k         1860   40    0 Qd As
+Chopper   997943756  7  3 c   b     b     b         1820   60  185 Jd Qc
+Chopper   997943803  7  2 Bk  c     c     f         1945   40    0 
+Chopper   997943862  7  1 Bc  k     k     br        1905   70    0 8d 6d
+Chopper   997943907  6  6 f   -     -     -         1835    0    0 
+Chopper   997943936  6  5 f   -     -     -         1835    0    0 
+Chopper   997943985  6  4 f   -     -     -         1835    0    0 
+Chopper   997944046  6  3 c   c     r     b         1835   80  125 Ts 9d
+Chopper   997944097  6  2 Bk  f     -     -         1880   10    0 
+Chopper   997944122  6  1 Br  b     b     b         1870   70  180 Kc Kd
+Chopper   997944176  5  5 c   k     f     -         1980   10    0 
+Chopper   997944220  5  4 f   -     -     -         1970    0    0 
+Chopper   997944288  5  3 f   -     -     -         1970    0    0 
+Chopper   997944359  5  2 Bc  kc    kc    kc        1970   70  145 9d Qd
+Chopper   997944400  5  1 Bcc k     kf    -         2045   20    0 
+Chopper   997944429  6  5 f   -     -     -         2025    0    0 
+Chopper   997944444  6  4 cc  b     b     br        2025  110  235 3c Ad
+Chopper   997944487  6  3 f   -     -     -         2150    0    0 
+Chopper   997944531  7  2 Bk  k     b     -         2150   30   65 
+Chopper   997944573  8  1 Bc  kc    kc    kc        2185   70    0 Jh Jd
+Chopper   997944616 10 10 f   -     -     -         2115    0    0 
+Chopper   997944662 10  9 c   f     -     -         2115   10    0 
+Chopper   997944735 10  8 f   -     -     -         2105    0    0 
+Chopper   997944777 10  7 c   k     k     k         2105   10    0 9s 8s
+Chopper   997944849 10  6 f   -     -     -         2095    0    0 
+Chopper   997944972 10  5 c   kf    -     -         2095   10    0 
+Chopper   997945074  9  4 c   k     k     k         2085   10   17 Jd Ah
+Chopper   997945150  9  3 cc  c     cf    -         2092   50    0 
+Chopper   997945262  9  2 Bk  kf    -     -         2042   10    0 
+Chopper   997945307  9  1 Bc  kc    kc    k         2032   50  190 Ac 3c
+Chopper   997945376  9  9 f   -     -     -         2172    0    0 
+Chopper   997945414  8  7 c   kc    kc    kc        2172   70    0 Js As
+Chopper   997945484  9  7 c   k     b     kc        2102   50    0 Qh 9h
+Chopper   997945604 10  7 f   -     -     -         2052    0    0 
+Chopper   997945716 10  6 c   k     b     b         2052   50    0 8c 4c
+Chopper   997945820  9  5 cc  kf    -     -         2002   20    0 
+Chopper   997945852  9  4 f   -     -     -         1982    0    0 
+Chopper   997945921  9  3 c   kf    -     -         1982   10    0 
+Chopper   997946000  8  2 Bf  -     -     -         1972   10    0 
+Chopper   997946035  8  1 Bf  -     -     -         1962    5    0 
+Chopper   997946086  8  8 cc  c     f     -         1957   30    0 
+Chopper   997946144  8  7 c   c     c     c         1927   60    0 Js 3s
+Chopper   997946223  8  6 f   -     -     -         1867    0    0 
+Chopper   997946282  8  5 cc  f     -     -         1867   40    0 
+Chopper   997946350  8  4 f   -     -     -         1827    0    0 
+Chopper   997946389  8  3 cc  rc    f     -         1827   50    0 
+Chopper   997946462 10  2 Bc  kf    -     -         1777   20    0 
+Chopper   997946506 10  1 Bc  kf    -     -         1757   10    0 
+Chopper   997946588  9  9 c   k     f     -         1747   10    0 
+Chopper   997946654  8  7 c   c     r     b         1737  100  385 8h Ad
+Chopper   997946713  8  6 f   -     -     -         2022    0    0 
+Chopper   997946765  9  5 f   -     -     -         2022    0    0 
+Chopper   997946842  9  4 c   kc    kc    b         2022   60  195 Kc Jd
+Chopper   997946898  8  3 f   -     -     -         2157    0    0 
+Chopper   997946953  7  2 Bk  f     -     -         2157   10    0 
+Chopper   997946987  7  1 Bc  k     kc    kf        2147   30    0 
+Chopper   997947042  7  7 c   b     b     b         2117   60    0 Tc 8c
+Chopper   997947116  7  6 f   -     -     -         2057    0    0 
+Chopper   997947186  7  5 f   -     -     -         2057    0    0 
+Chopper   997947259  8  4 f   -     -     -         2057    0    0 
+Chopper   997947321  6  3 cc  bc    kc    kc        2057   80    0 Js Kd
+Chopper   997947358  5  2 Bf  -     -     -         1977   10    0 
+Chopper   997947397  6  1 Bc  kc    kc    b         1967   60  180 
+Chopper   997947447  7  7 cc  k     c     f         2087   40    0 
+Chopper   997947486  7  6 rr  rc    c     c         2047  110    0 Kc Ad
+Chopper   997947517  7  5 f   -     -     -         1937    0    0 
+Chopper   997947549  7  4 f   -     -     -         1937    0    0 
+Chopper   997947597  7  3 f   -     -     -         1937    0    0 
+Chopper   997947634  7  2 Bk  b     b     b         1937   60  250 Th Ac
+Chopper   997947678  7  1 Bf  -     -     -         2127    5    0 
+Chopper   997947739  6  6 cc  c     f     -         2122   30    0 
+Chopper   997947772  6  5 cc  f     -     -         2092   20    0 
+Chopper   997947808  6  4 c   c     c     f         2072   40    0 
+Chopper   997947838  6  3 f   -     -     -         2032    0    0 
+Chopper   997947858  4  1 Bk  kf    -     -         2032   10    0 
+Chopper   997947876  3  1 Bc  k     k     kf        2022   10    0 
+Chopper   997947902  3  2 Bk  f     -     -         2012   10    0 
+Chopper   997947926  3  1 Bf  -     -     -         2002    5    0 
+Chopper   997947946  3  3 c   k     f     -         1997   10    0 
+Chopper   997947968  3  2 Bk  k     b     br        1987   90  180 Kd As
+Chopper   997948008  3  1 Bf  -     -     -         2077    5    0 
+Chopper   997948045  4  4 c   k     k     bc        2072   50  120 Jc Kc
+Chopper   997948101  4  3 c   k     rc    b         2142  110  320 Td Kc
+Chopper   997948167  4  2 Bk  k     k     kf        2352   10    0 
+Chopper   997948204  4  1 Bf  -     -     -         2342    5    0 
+Chopper   997948239  4  4 cc  f     -     -         2337   20    0 
+Chopper   997948285  5  4 c   r     b     k         2317   60  170 Qc Kc
+Chopper   997948345  6  4 cc  kc    k     f         2427   30    0 
+Chopper   997948420  5  2 Bk  kf    -     -         2397   10    0 
+Chopper   997948451  5  1 Bf  -     -     -         2387    5    0 
+Chopper   997948457  5  5 c   f     -     -         2382   20    0 
+Chopper   997948499  5  4 f   -     -     -         2362    0    0 
+Chopper   997948523  5  3 f   -     -     -         2362    0    0 
+Chopper   997948566  5  2 Bk  kc    k     kf        2362   30    0 
+Chopper   997948624  5  1 Bc  k     kf    -         2332   10    0 
+Chopper   997948675  5  5 f   -     -     -         2322    0    0 
+Chopper   997948706  5  4 cc  c     c     f         2322   50    0 
+Chopper   997948765  5  3 f   -     -     -         2272    0    0 
+Chopper   997948816  6  3 f   -     -     -         2272    0    0 
+Chopper   997948846  6  2 Bk  k     f     -         2272   10    0 
+Chopper   997948888  6  1 Bc  kc    kc    kf        2262   40    0 
+Chopper   997948953  6  6 f   -     -     -         2222    0    0 
+Chopper   997949048  6  5 c   k     f     -         2222   10    0 
+Chopper   997949099  6  4 f   -     -     -         2212    0    0 
+Chopper   997949133  6  3 f   -     -     -         2212    0    0 
+Chopper   997949178  6  2 Bc  b     b     brc       2212  130  280 Tc Ac
+Chopper   997949233  6  1 Bf  -     -     -         2362    5    0 
+Chopper   997949289  6  6 c   b     k     c         2357   40    0 Jc 9h
+Chopper   997949344  7  6 c   Q     -     -         2317   10    0 
+Chopper   997949427  6  3 c   kf    -     -         2307   10    0 
+Chopper   997949475  6  2 Bk  kf    -     -         2297   10    0 
+Chopper   997949507  6  1 Bc  kc    kf    -         2287   30    0 
+Chopper   997949557  7  7 f   -     -     -         2257    0    0 
+Chopper   997949605  7  7 c   f     -     -         2257   20    0 
+Chopper   997949645  5  4 cc  c     c     f         2237   60    0 
+Chopper   997949693  5  3 f   -     -     -         2177    0    0 
+Chopper   997949728  5  2 Bk  b     br    b         2177  100  205 7d 6c
+Chopper   997949769  5  1 Bc  kc    k     kf        2282   40    0 
+Chopper   997949818  5  5 f   -     -     -         2242    0    0 
+Chopper   997949861  5  4 f   -     -     -         2242    0    0 
+Chopper   997949870  5  3 f   -     -     -         2242    0    0 
+Chopper   997949928  5  2 Bf  -     -     -         2242   10    0 
+Chopper   997949974  5  1 Brc brc   kc    brc       2232  180  370 Ah Ad
+Chopper   997950025  5  5 f   -     -     -         2422    0    0 
+Chopper   997950147  4  3 rc  k     c     r         2422   90  165 
+Chopper   997950183  4  2 Bc  kf    -     -         2497   20    0 
+Chopper   997950213  4  1 Bf  -     -     -         2477    5    0 
+Chopper   997950288  4  4 r   b     b     b         2472   70  160 Th Td
+Chopper   997950328  4  3 f   -     -     -         2562    0    0 
+Chopper   997950372  5  2 Bf  -     -     -         2562   10    0 
+Chopper   997950401  5  1 Bf  -     -     -         2552    5    0 
+Chopper   997950449  5  5 c   c     f     -         2547   30    0 
+Chopper   997950481  5  4 c   k     f     -         2517   10    0 
+Chopper   997950517  5  3 f   -     -     -         2507    0    0 
+Chopper   997950544  5  2 Br  brc   br    b         2507  180  590 Kh Ah
+Chopper   997950622  5  1 Bf  -     -     -         2917    5    0 
+Chopper   997950680  5  5 f   -     -     -         2912    0    0 
+Chopper   997950733  5  4 f   -     -     -         2912    0    0 
+Chopper   997950821  6  4 f   -     -     -         2912    0    0 
+Chopper   997950881  6  3 f   -     -     -         2912    0    0 
+Chopper   997950936  6  2 Bc  f     -     -         2912   20    0 
+Chopper   997950970  6  1 Bc  kf    -     -         2892   20    0 
+Chopper   997951035  5  5 c   c     c     c         2872   70    0 Th Kd
+Chopper   997951086  5  4 f   -     -     -         2802    0    0 
+Chopper   997951146  6  3 f   -     -     -         2802    0    0 
+Chopper   997951169  6  2 Bk  k     f     -         2802   10    0 
+Chopper   997951212  6  1 Bc  k     brc   b         2792  120  300 Ac Tc
+Chopper   997951260  6  6 c   c     c     f         2972   50    0 
+Chopper   997951303  5  5 rc  c     c     c         2922   90  315 Tc Th
+Chopper   997951343  5  4 f   -     -     -         3147    0    0 
+Chopper   997951389  5  3 f   -     -     -         3147    0    0 
+Chopper   997951424  5  2 Bf  -     -     -         3147   10    0 
+Chopper   997951454  5  1 Bc  kf    -     -         3137   10    0 
+Chopper   997951500  6  5 c   c     c     f         3127   50    0 
+Chopper   997951530  6  4 c   c     c     c         3077   70    0 As Td
+Chopper   997951567  6  3 f   -     -     -         3007    0    0 
+Chopper   997951624  6  2 Bk  k     k     f         3007   10    0 
+Chopper   997951686  5  1 Bc  kf    -     -         2997   10    0 
+Chopper   997951740  5  5 c   k     c     b         2987   50  190 2s Ts
+Chopper   997951810  5  4 c   k     c     f         3127   30    0 
+Chopper   997951845  5  3 c   f     -     -         3097   10    0 
+Chopper   997951875  5  2 Br  rr    b     b         3087  110  290 Ah Ac
+Chopper   997951913  5  1 Bf  -     -     -         3267    5    0 
+Chopper   997951937  5  5 c   f     -     -         3262   10    0 
+Chopper   997951985  5  4 c   rr    rr    b         3252  160  420 2c 2d
+Chopper   997952060  5  3 f   -     -     -         3512    0    0 
+Chopper   997952088  5  2 Bk  kc    kf    -         3512   20    0 
+Chopper   997952176  4  1 Bc  k     k     k         3492   20   70 Qd 7d
+Chopper   997952206  4  4 f   -     -     -         3542    0    0 
+Chopper   997952234  5  3 cc  c     c     f         3542   50    0 
+Chopper   997952271  6  2 Bc  c     f     -         3492   40    0 
+Chopper   997952367  6  1 Bc  kc    kc    kf        3452   50    0 
+Chopper   997952419  6  6 f   -     -     -         3402    0    0 
+Chopper   997952471  6  5 c   c     c     f         3402   50    0 
+Chopper   997952518  6  4 f   -     -     -         3352    0    0 
+Chopper   997952621  5  2 Bk  k     kc    kf        3352   50    0 
+Chopper   997952680  7  1 Bc  kf    -     -         3302   20    0 
+Chopper   997952719  7  7 f   -     -     -         3282    0    0 
+Chopper   997952779  7  6 f   -     -     -         3282    0    0 
+Chopper   997952840  7  5 f   -     -     -         3282    0    0 
+Chopper   997952878  7  4 r   b     b     b         3282   70  160 Jh Ac
+Chopper   997952923  7  3 cc  kc    kc    kc        3372   70  155 Th Ac
+Chopper   997952954  7  2 Bk  k     k     b         3457   30   75 Ah 3s
+Chopper   997952988  7  1 Bcc b     b     -         3502   70  270 
+Chopper   997953032  7  7 f   -     -     -         3702    0    0 
+Chopper   997953087  7  6 f   -     -     -         3702    0    0 
+Chopper   997953141  7  5 f   -     -     -         3702    0    0 
+Chopper   997953184  7  4 f   -     -     -         3702    0    0 
+Chopper   997953249  7  3 f   -     -     -         3702    0    0 
+Chopper   997953305  7  2 Bk  k     kc    f         3702   30    0 
+Chopper   997953360  7  1 Bf  -     -     -         3672    5    0 
+Chopper   997953420  7  7 c   f     -     -         3667   10    0 
+Chopper   997953457  7  6 c   f     -     -         3657   10    0 
+Chopper   997953489  7  5 c   f     -     -         3647   10    0 
+Chopper   997953543  7  4 f   -     -     -         3637    0    0 
+Chopper   997953595  7  3 c   kc    kc    brc       3637  120    0 Ts Jc
+Chopper   997953656  7  2 Bk  k     k     f         3517   10    0 
+Chopper   997953746  7  1 Bf  -     -     -         3507    5    0 
+Chopper   997953818  7  7 f   -     -     -         3502    0    0 
+Chopper   997953865  7  6 f   -     -     -         3502    0    0 
+Chopper   997953919  7  5 c   f     -     -         3502   20    0 
+Chopper   997954000  7  4 f   -     -     -         3482    0    0 
+Chopper   997954081  7  3 f   -     -     -         3482    0    0 
+Chopper   997954118  7  2 Bk  f     -     -         3482   10    0 
+Chopper   997954164  7  1 Bf  -     -     -         3472    5    0 
+Chopper   997954238  8  8 f   -     -     -         3467    0    0 
+Chopper   997954318  8  7 c   c     f     -         3467   20    0 
+Chopper   997954435  8  6 f   -     -     -         3447    0    0 
+Chopper   997954488  8  5 c   kf    -     -         3447   20    0 
+Chopper   997954540  7  3 f   -     -     -         3427    0    0 
+Chopper   997954601  7  2 Bk  b     b     kcc       3427  100    0 Qc 6h
+Chopper   997954668  7  1 Bf  -     -     -         3327    5    0 
+Chopper   997954733  6  6 c   b     b     b         3322   60  210 9c 7c
+Chopper   997954793  6  5 f   -     -     -         3472    0    0 
+Chopper   997954859  6  5 c   f     -     -         3472   20    0 
+Chopper   997954916  5  3 rc  k     k     c         3452   60    0 Qd Ah
+Chopper   997954979  5  2 Bk  kc    kf    -         3392   20    0 
+Chopper   997955040  5  1 Bc  k     k     b         3372   30   50 
+Chopper   997955078  5  5 c   c     k     k         3392   30  120 7d 4d
+Chopper   997955122  5  4 r   b     r     b         3482   90    0 Kc Ac
+Chopper   997955149  5  3 c   f     -     -         3392   10    0 
+Chopper   997955182  5  2 Bk  k     k     kf        3382   10    0 
+Chopper   997955254  6  1 Bc  kccc  kc    kf        3372   90    0 
+Chopper   997955328  6  6 c   f     -     -         3282   10    0 
+Chopper   997955379  6  5 c   rr    b     k         3272   80  320 Ac 3c
+Chopper   997955461  6  4 cc  f     -     -         3512   20    0 
+Chopper   997955522  6  3 ccc f     -     -         3492   40    0 
+Chopper   997955580  6  2 Bf  -     -     -         3452   10    0 
+Chopper   997955666  5  1 Bc  k     k     kc        3442   30   90 Qd 8h
+Chopper   997955751  5  5 f   -     -     -         3502    0    0 
+Chopper   997955794  5  4 c   b     k     b         3502   40   85 
+Chopper   997955848  5  3 c   kc    kc    kcf       3547   60    0 
+Chopper   997955953  5  2 Bk  kf    -     -         3487   10    0 
+Chopper   997956008  4  1 Bf  -     -     -         3477    5    0 
+Chopper   997956053  4  4 c   k     k     f         3472   10    0 
+Chopper   997956090  4  3 c   c     k     f         3462   20    0 
+Chopper   997956130  4  2 Bc  c     c     f         3442   50    0 
+Chopper   997956153  4  1 Bf  -     -     -         3392    5    0 
+Chopper   997956181  4  4 c   k     b     b         3387   60    0 Ah 3s
+Chopper   997956229  4  3 c   c     c     f         3327   40    0 
+Chopper   997956272  4  2 Bk  b     b     -         3287   40   75 
+Chopper   997956295  4  1 Bc  kc    kc    k         3322   40    0 Th Ah
+Chopper   997956329  4  4 f   -     -     -         3282    0    0 
+Chopper   997956339  4  3 rr  b     b     ccc       3282  150    0 Ac Jd
+Chopper   997956419  5  2 Bk  f     -     -         3132   10    0 
+Chopper   997956472  5  1 Bc  k     k     f         3122   10    0 
+Chopper   997956513  5  5 f   -     -     -         3112    0    0 
+Chopper   997956548  5  4 c   b     b     b         3112   60  125 Th Js
+Chopper   997956576  5  3 c   br    b     brc       3177  140  430 4h 4c
+Chopper   997956645  5  2 Bf  -     -     -         3467   10    0 
+Chopper   997956686  5  1 Bc  b     b     k         3457   40  130 3d Jc
+Chopper   997956720  5  5 r   b     -     -         3547   30   69 Ac Ad
+Chopper   997956749  4  3 c   b     b     k         3586   40  110 Jd 8d
+Chopper   997956794  4  2 Bc  c     c     f         3656   50    0 
+Chopper   997956818  5  1 Bc  kc    kc    kc        3606   60    0 Tc 7c
+Chopper   997956869  5  5 f   -     -     -         3546    0    0 
+Chopper   997956895  5  4 c   c     f     -         3546   20    0 
+Chopper   997956933  5  3 f   -     -     -         3526    0    0 
+Chopper   997956974  6  2 Bk  kc    kc    kf        3526   40    0 
+Chopper   997957022  6  1 Bf  -     -     -         3486    5    0 
+Chopper   997957063  6  6 cc  c     c     c         3481   80    0 7c Kc
+Chopper   997957126  6  5 cc  rc    cc    cf        3401  180    0 
+Chopper   997957237  5  3 f   -     -     -         3221    0    0 
+Chopper   997957261  5  3 ccc ccc   ccc   cf        3221  180    0 
+Chopper   997957340  5  2 Bf  -     -     -         3041   10    0 
+Chopper   997957397  6  1 Bf  -     -     -         3031    5    0 
+Chopper   997957508  4  4 c   f     -     -         3026   10    0 
+Chopper   997957549  6  5 c   c     f     -         3016   30    0 
+Chopper   997957597  7  5 f   -     -     -         2986    0    0 
+Chopper   997957652  7  4 c   f     -     -         2986   10    0 
+Chopper   997957718  7  3 cc  b     br    k         2976   90  320 Td Jh
+Chopper   997957793  5  1 Bcc kf    -     -         3206   30    0 
+Chopper   997957908  5  1 Bc  kc    kf    -         3176   30    0 
+Chopper   997957965  5  5 cc  f     -     -         3146   20    0 
+Chopper   997958007  5  4 f   -     -     -         3126    0    0 
+Chopper   997958037  5  3 f   -     -     -         3126    0    0 
+Chopper   997958069  5  2 Bk  ccc   br    brc       3126  210    0 5c 2h
+Chopper   997958142  5  1 Bf  -     -     -         2916    5    0 
+Chopper   997958187  5  5 c   k     c     f         2911   30    0 
+Chopper   997958229  6  5 f   -     -     -         2881    0    0 
+Chopper   997958270  6  4 f   -     -     -         2881    0    0 
+Chopper   997958320  6  3 c   kc    kf    -         2881   20    0 
+Chopper   997958367  6  2 Bk  k     k     k         2861   10   30 7s Th
+Chopper   997958388  6  1 Bc  k     kc    k         2881   40    0 8s Kh
+Chopper   997958434  6  6 c   c     c     cc        2841  110    0 4h 5d
+Chopper   997958501  6  5 c   c     k     f         2731   30    0 
+Chopper   997958560  6  4 r   bc    kc    k         2701   60    0 Jd Jc
+Chopper   997958602  6  3 c   ccc   cc    k         2641   90    0 Ah 9d
+Chopper   997958672  6  2 Bc  k     kf    -         2551   20    0 
+Chopper   997958725  5  1 Bf  -     -     -         2531    5    0 
+Chopper   997958801  5  5 c   f     -     -         2526   10    0 
+Chopper   997958866  5  4 f   -     -     -         2516    0    0 
+Chopper   997958901  5  3 rr  r     k     k         2516   60    0 Ac Jc
+Chopper   997958966  5  2 Br  c     c     r         2456   90    0 Ad Ah
+Chopper   997959001  5  1 Bf  -     -     -         2366    5    0 
+Chopper   997959079  5  5 f   -     -     -         2361    0    0 
+Chopper   997959185  5  4 f   -     -     -         2361    0    0 
+Chopper   997959289  5  3 cc  c     c     c         2361   70    0 7d 6c
+Chopper   997959320  4  2 Bc  kc    kf    -         2291   30    0 
+Chopper   997959365  4  1 Bf  -     -     -         2261    5    0 
+Chopper   997959391  4  4 f   -     -     -         2256    0    0 
+Chopper   997959433  4  3 r   b     r     b         2256   90    0 Jh Ac
+Chopper   997959456  4  2 Bk  kc    b     -         2166   40   80 
+Chopper   997959483  4  1 Bc  k     kf    -         2206   10    0 
+Chopper   997959503  4  4 c   k     f     -         2196   10    0 
+Chopper   997959528  4  3 c   k     b     bf        2186   50    0 
+Chopper   997959568  4  2 Bf  -     -     -         2136   10    0 
+Chopper   997959595  4  1 Br  b     b     b         2126   70  180 Ad Ah
+Chopper   997959622  4  4 f   -     -     -         2236    0    0 
+Chopper   997959652  4  3 c   k     k     k         2236   10    0 Tc Qc
+Chopper   997959678  4  2 Bk  kf    -     -         2226   10    0 
+Chopper   997959711  4  1 Bf  -     -     -         2216    5    0 
+Chopper   997959732  4  4 f   -     -     -         2211    0    0 
+Chopper   997959760  4  3 f   -     -     -         2211    0    0 
+Chopper   997959781  4  2 Bk  f     -     -         2211   10    0 
+Chopper   997959802  4  1 Bf  -     -     -         2201    5    0 
+Chopper   997959824  3  3 cc  c     r     r         2196  110  330 Td 5d
+Chopper   997959859  3  2 Bk  kc    kf    -         2416   20    0 
+Chopper   997959887  3  1 Bf  -     -     -         2396    5    0 
+Chopper   997959907  3  3 f   -     -     -         2391    0    0 
+Chopper   997959914  3  2 Bk  kf    -     -         2391   10    0 
+Chopper   997959943  3  1 Bc  kc    kc    kf        2381   40    0 
+Chopper   997959973  3  3 f   -     -     -         2341    0    0 
+Chopper   997959978  3  2 Bk  kc    kc    kf        2341   40    0 
+Chopper   997960003  4  1 Bc  kf    -     -         2301   20    0 
+Chopper   997960038  4  4 c   c     c     c         2281   60   75 Tc Ac
+Chopper   997960079  4  3 f   -     -     -         2296    0    0 
+Chopper   997960097  4  2 Bk  k     k     k         2296   10   20 3d Jh
+Chopper   997960114  4  1 Bc  kc    kc    kf        2306   40    0 
+Chopper   997960145  5  5 c   k     b     b         2266   50  110 
+Chopper   997960180  4  3 c   b     b     b         2326   60  110 
+Chopper   997960204  4  3 c   b     b     k         2376   40  100 Ac 3s
+Chopper   997960230  4  2 Bk  k     k     b         2436   30    0 Jd Ad
+Chopper   997960272  4  1 Bf  -     -     -         2406    5    0 
+Chopper   997960290  5  5 cc  c     c     c         2401   70  200 5d Qs
+Chopper   997960332  5  4 c   k     r     b         2531   70  165 Th Qs
+Chopper   997960362  5  3 c   k     kc    kf        2626   30    0 
+Chopper   997960412  5  2 Bc  kf    -     -         2596   20    0 
+Chopper   997960441  5  1 Br  b     b     kc        2576   70    0 Kh Kc
+Chopper   997960472  5  5 c   c     f     -         2506   20    0 
+Chopper   997960511  5  4 f   -     -     -         2486    0    0 
+Chopper   997960546  5  3 c   k     f     -         2486   10    0 
+Chopper   997960572  5  2 Bk  b     b     -         2476   40   70 
+Chopper   997960594  5  1 Bc  kf    -     -         2506   20    0 
+Chopper   997960616  5  5 c   f     -     -         2486   10    0 
+Chopper   997960671  5  4 c   k     c     f         2476   30    0 
+Chopper   997960719  5  3 r   b     b     b         2446   70  125 
+Chopper   997960745  5  2 Bk  f     -     -         2501   10    0 
+Chopper   997960768  5  1 Bc  b     b     b         2491   60  120 
+Chopper   997960793  5  5 f   -     -     -         2551    0    0 
+Chopper   997960826  5  4 c   f     -     -         2551   10    0 
+Chopper   997960849  4  2 c   rc    c     f         2541   60    0 
+Chopper   997960877  6  2 Bk  kf    -     -         2481   10    0 
+Chopper   997960939  6  1 Bf  -     -     -         2471    5    0 
+Chopper   997960987  6  6 c   c     f     -         2466   20    0 
+Chopper   997961065  5  4 c   k     k     f         2446   10    0 
+Chopper   997961109  5  3 cc  c     c     f         2436   50    0 
+Chopper   997961150  5  2 Bk  b     b     b         2386   60  100 
+Chopper   997961174  5  1 Bc  kc    kc    kf        2426   40    0 
+Chopper   997961219  5  5 f   -     -     -         2386    0    0 
+Chopper   997961264  5  4 f   -     -     -         2386    0    0 
+Chopper   997961305  5  3 cc  c     k     k         2386   30  110 6s 5s
+Chopper   997961342  5  2 Bk  kf    -     -         2466   10    0 
+Chopper   997961404  5  1 Bf  -     -     -         2456    5    0 
+Chopper   997961453  4  4 f   -     -     -         2451    0    0 
+Chopper   997961492  4  4 c   k     k     f         2451   10    0 
+Chopper   997961533  4  3 c   k     b     b         2441   50    0 Kc 9c
+Chopper   997961556  3  2 Bc  c     c     c         2391   70    0 Ad Qh
+Chopper   997961581  3  1 Bf  -     -     -         2321    5    0 
+Chopper   997961612  3  3 f   -     -     -         2316    0    0 
+Chopper   997961620  3  2 Bk  Q     -     -         2316   10    0 
+Chopper   998200425 10  8 c   k     c     c         2096   60    0 Kd Qd
+Chopper   998200473 10  7 cc  kf    -     -         2036   20    0 
+Chopper   998200534 10  6 f   -     -     -         2016    0    0 
+Chopper   998200586 10  5 cc  k     kf    -         2016   30    0 
+Chopper   998200689 10  4 f   -     -     -         1986    0    0 
+Chopper   998200766 10  3 f   -     -     -         1986    0    0 
+Chopper   998200843 10  2 Bf  -     -     -         1986   10    0 
+Chopper   998200920  9  1 Bcc kc    kf    -         1976   30    0 
+Chopper   998200977  9  9 f   -     -     -         1946    0    0 
+Chopper   998201010  8  7 c   c     c     k         1946   50  200 Kc 8s
+Chopper   998201062  8  6 cc  bc    brc   cc        2096  190    0 5c Qc
+Chopper   998201136  8  5 f   -     -     -         1906    0    0 
+Chopper   998201217  9  6 c   c     rc    f         1906   90    0 
+Chopper   998201293  9  5 f   -     -     -         1816    0    0 
+Chopper   998201335  9  4 ccc brc   br    b         1816  160    0 6s 4s
+Chopper   998201420  9  3 f   -     -     -         1656    0    0 
+Chopper   998201506  9  2 Bk  kf    -     -         1656   10    0 
+Chopper   998201548  8  1 Br  b     brc   kc        1646  150    0 As 8h
+Chopper   998201615  8  8 f   -     -     -         1496    0    0 
+Chopper   998201661  9  7 cc  c     kf    -         1496   30    0 
+Chopper   998201726  9  6 cc  kcc   kc    kf        1466   60    0 
+Chopper   998201793  9  5 f   -     -     -         1406    0    0 
+Chopper   998201845  9  4 f   -     -     -         1406    0    0 
+Chopper   998201937  8  3 c   f     -     -         1406   10    0 
+Chopper   998201989  9  2 Bk  k     kf    -         1396   10    0 
+Chopper   998202107  9  1 Bf  -     -     -         1386    5    0 
+Chopper   998202177  8  8 c   k     c     f         1381   30    0 
+Chopper   998202229  7  6 f   -     -     -         1351    0    0 
+Chopper   998202281  8  6 f   -     -     -         1351    0    0 
+Chopper   998202362  7  5 c   kc    cc    kc        1351   80  230 Ad 9c
+Chopper   998202420  8  4 f   -     -     -         1501    0    0 
+Chopper   998202467  8  3 f   -     -     -         1501    0    0 
+Chopper   998202525  8  2 Bk  f     -     -         1501   10    0 
+Chopper   998202576  8  1 Bc  k     kc    k         1491   30   90 6s 7s
+Chopper   998202646  8  8 cf  -     -     -         1551   20    0 
+Chopper   998202786  8  7 rc  b     b     b         1531   90  280 
+Chopper   998202833  8  6 c   f     -     -         1721   10    0 
+Chopper   998202901  8  5 c   kf    -     -         1711   10    0 
+Chopper   998202988  9  5 c   kf    -     -         1701   10    0 
+Chopper   998203059 10  5 cc  kcc   kcc   kf        1691  120    0 
+Chopper   998203159 10  4 f   -     -     -         1571    0    0 
+Chopper   998203237  9  3 f   -     -     -         1571    0    0 
+Chopper   998203294  9  2 Bc  kr    br    kc        1571  140    0 4s 2c
+Chopper   998203449  8  1 Bf  -     -     -         1431    5    0 
+Chopper   998203514  8  8 f   -     -     -         1426    0    0 
+Chopper   998203580  7  6 cc  kc    c     f         1426   50    0 
+Chopper   998203671  7  5 rr  k     b     b         1376   80  205 Ah Ks
+Chopper   998203702  7  4 c   kc    kc    k         1501   40    0 Ks Tc
+Chopper   998203762  7  3 cc  b     b     b         1461   70    0 9h Js
+Chopper   998203797  7  2 Bk  b     b     b         1391   60  115 
+Chopper   998203828  7  1 Bf  -     -     -         1446    5    0 
+Chopper   998203867  7  7 f   -     -     -         1441    0    0 
+Chopper   998203906  7  6 c   c     c     f         1441   40    0 
+Chopper   998203961  7  5 f   -     -     -         1401    0    0 
+Chopper   998204003  7  4 f   -     -     -         1401    0    0 
+Chopper   998204039  7  3 c   kf    -     -         1401   10    0 
+Chopper   998204104  7  2 Bk  k     kf    Q         1391   10    0 
+Chopper   998207465  7  5 c   k     k     f         1381   10    0 
+Chopper   998207507  7  4 cc  rc    r     b         1371  110    0 9h 8c
+Chopper   998207561  7  3 f   -     -     -         1261    0    0 
+Chopper   998207583  7  2 Bk  k     f     -         1261   10    0 
+Chopper   998207632  7  1 Bf  -     -     -         1251    5    0 
+Chopper   998207657  7  7 c   k     c     c         1246   60    0 Jc 7c
+Chopper   998207689  7  6 f   -     -     -         1186    0    0 
+Chopper   998207724  7  5 f   -     -     -         1186    0    0 
+Chopper   998207749  7  4 cc  kc    kc    kc        1186  100  175 Ac 3d
+Chopper   998207801  7  3 cc  ccc   c     f         1261   90    0 
+Chopper   998207883  7  2 Bf  -     -     -         1171   10    0 
+Chopper   998207936  7  1 Bf  -     -     -         1161    5    0 
+Chopper   998207998  7  7 c   c     k     k         1156   30    0 8s Ad
+Chopper   998208045  6  5 c   cc    kc    kc        1126   80  215 Tc 9s
+Chopper   998208091  6  4 f   -     -     -         1261    0    0 
+Chopper   998208121  6  3 r   -     -     -         1261   20   35 
+Chopper   998208131  6  2 Bc  cc    kr    b         1276  110  260 7s Ac
+Chopper   998208174  6  1 Bc  k     k     k         1426   20    0 Kh Tc
+Chopper   998208209  6  6 f   -     -     -         1406    0    0 
+Chopper   998208267  6  5 cc  c     c     c         1406   90  265 Qh 6c
+Chopper   998208305  5  3 c   rr    rc    c         1581  130    0 Ad Ah
+Chopper   998208341  5  2 Bf  -     -     -         1451   10    0 
+Chopper   998208384  5  1 Bcc b     b     b         1441   80  220 9h 8s
+Chopper   998208436  5  5 f   -     -     -         1581    0    0 
+Chopper   998208450  6  5 cc  kc    kc    k         1581   70    0 As 6c
+Chopper   998208541  6  4 f   -     -     -         1511    0    0 
+Chopper   998208578  6  3 cc  k     f     -         1511   20    0 
+Chopper   998208612  6  2 Brr bc    kc    kc        1491  110    0 Ah Jh
+Chopper   998208654  6  1 Br  bc    kc    k         1381   60  150 Ad 4s
+Chopper   998208689  6  6 f   -     -     -         1471    0    0 
+Chopper   998208718  6  5 c   b     b     k         1471   50    0 4s Ts
+Chopper   998208756  6  4 cc  c     c     k         1421   50   62 Ah 2h
+Chopper   998208793  7  3 f   -     -     -         1433    0    0 
+Chopper   998208848  7  2 Bk  k     k     kf        1433   10    0 
+Chopper   998208886  7  1 Bf  -     -     -         1423    5    0 
+Chopper   998208932  7  7 r   b     b     k         1418   50  115 Kc Ad
+Chopper   998208952  7  6 c   k     c     c         1483   50    0 5h 5d
+Chopper   998208987  7  5 c   c     f     -         1433   20    0 
+Chopper   998209034  7  4 c   kc    k     bf        1413   40    0 
+Chopper   998209101  6  3 c   r     b     -         1373   50  110 
+Chopper   998209139  6  2 Bc  k     cc    kf        1433   60    0 
+Chopper   998209193  6  1 Bc  k     f     -         1373   10    0 
+Chopper   998209242  6  6 f   -     -     -         1363    0    0 
+Chopper   998209314  7  6 f   -     -     -         1363    0    0 
+Chopper   998209378  7  5 c   k     c     c         1363   50   52 Jh Kd
+Chopper   998209410  8  4 c   f     -     -         1365   10    0 
+Chopper   998209490  8  3 c   bc    kccc  kf        1355  110    0 
+Chopper   998209581  8  2 Bk  kf    -     -         1245   10    0 
+Chopper   998209639  8  1 Bcc kf    -     -         1235   40    0 
+Chopper   998209697  8  8 f   -     -     -         1195    0    0 
+Chopper   998209743  8  7 f   -     -     -         1195    0    0 
+Chopper   998209818  8  6 f   -     -     -         1195    0    0 
+Chopper   998209849  8  6 cc  k     kc    kc        1195   60  205 5s 6c
+Chopper   998209930  7  4 rc  kc    kc    kf        1340   70    0 
+Chopper   998210000  6  2 Bf  -     -     -         1270   10    0 
+Chopper   998210053  6  1 Bf  -     -     -         1260    5    0 
+Chopper   998210082  6  6 c   k     f     -         1255   10    0 
+Chopper   998210139  5  4 c   c     c     f         1245   60    0 
+Chopper   998210176  4  3 c   k     b     bc        1185   70    0 4s Js
+Chopper   998210212  4  2 Bf  -     -     -         1115   10    0 
+Chopper   998210231  4  1 Bc  f     -     -         1105   20    0 
+Chopper   998210276  4  4 f   -     -     -         1085    0    0 
+Chopper   998210286  4  3 f   -     -     -         1085    0    0 
+Chopper   998210304  4  2 Bf  -     -     -         1085   10    0 
+Chopper   998210346  4  1 Bc  b     b     b         1075   70  150 
+Chopper   998210377  4  4 c   f     -     -         1155   10    0 
+Chopper   998210420  4  3 f   -     -     -         1145    0    0 
+Chopper   998210475  5  2 Br  r     k     cf        1145   60    0 
+Chopper   998210531  5  1 Bf  -     -     -         1085    5    0 
+Chopper   998210564  5  5 f   -     -     -         1080    0    0 
+Chopper   998210592  5  4 cc  b     k     c         1080   70    0 9s Qc
+Chopper   998210640  5  3 cc  kc    kf    -         1010   30    0 
+Chopper   998210671  5  2 Bc  b     b     bc         980   90  210 9h 9s
+Chopper   998210712  5  1 Bc  k     kc    kf        1100   30    0 
+Chopper   998210742  5  5 f   -     -     -         1070    0    0 
+Chopper   998210766  4  3 rc  c     rc    f         1070  130    0 
+Chopper   998210805  4  2 Bk  rr    b     b          940   90    0 Tc Qd
+Chopper   998210838  4  1 Bc  k     kf    -          850   10    0 
+Chopper   998210865  4  4 f   -     -     -          840    0    0 
+Chopper   998210893  4  3 cc  rc    r     brc        840  180  480 3d 6d
+Chopper   998210942  4  2 Bk  k     kf    -         1140   10    0 
+Chopper   998210973  4  1 Bc  k     k     kf        1130   10    0 
+Chopper   998210995  4  4 f   -     -     -         1120    0    0 
+Chopper   998211008  4  3 c   f     -     -         1120   10    0 
+Chopper   998211038  4  2 Bk  c     cf    -         1110   40    0 
+Chopper   998211072  4  1 Bc  brc   bc    f         1070   90    0 
+Chopper   998211122  4  4 rc  r     b     b          980  100  285 Ah Jc
+Chopper   998211162  5  4 c   kf    -     -         1165   10    0 
+Chopper   998211180  5  3 f   -     -     -         1155    0    0 
+Chopper   998211198  5  2 Bc  kf    -     -         1155   20    0 
+Chopper   998211211  5  1 Bf  -     -     -         1135    5    0 
+Chopper   998211244  5  5 f   -     -     -         1130    0    0 
+Chopper   998211275  5  4 c   k     k     k         1130   10   15 2d Ad
+Chopper   998211299  5  3 c   c     f     -         1135   20    0 
+Chopper   998211321  5  2 Bf  -     -     -         1115   10    0 
+Chopper   998211370  5  1 Bc  k     kf    -         1105   10    0 
+Chopper   998211401  5  5 c   k     k     k         1095   10    0 Ks 3s
+Chopper   998211422  5  4 c   k     k     k         1085   10   30 Kd 4d
+Chopper   998211446  4  2 Bc  kf    -     -         1105   20    0 
+Chopper   998211459  4  1 Bc  kc    kc    krc       1085  110    0 Ac 6h
+Chopper   998211486  4  4 c   k     k     k          975   10   25 4c 3c
+Chopper   998211511  4  3 f   -     -     -          990    0    0 
+Chopper   998211531  4  2 Bc  kf    -     -          990   20    0 
+Chopper   998211552  4  1 Bc  kf    -     -          970   10    0 
+Chopper   998211568  4  4 c   r     k     k          960   40    0 4d Kd
+Chopper   998211591  4  3 f   -     -     -          920    0    0 
+Chopper   998211604  4  2 Bk  k     k     kf         920   10    0 
+Chopper   998211637  4  1 Bc  k     k     k          910   10   20 8d Qs
+Chopper   998211667  4  4 c   f     -     -          920   10    0 
+Chopper   998211693  4  3 c   k     k     kf         910   10    0 
+Chopper   998211722  4  2 Bk  k     k     f          900   10    0 
+Chopper   998211747  4  1 Bc  k     k     kf         890   10    0 
+Chopper   998211782  4  4 c   c     c     f          880   40    0 
+Chopper   998211816  4  3 f   -     -     -          840    0    0 
+Chopper   998211839  4  2 Bk  k     k     k          840   10    0 Ts 8c
+Chopper   998211867  4  1 Bf  -     -     -          830    5    0 
+Chopper   998211905  4  4 f   -     -     -          825    0    0 
+Chopper   998211926  4  3 f   -     -     -          825    0    0 
+Chopper   998211930  4  2 Bk  k     kc    kf         825   30    0 
+Chopper   998211980  4  1 Bc  bc    kc    k          795   60    0 9c 7c
+Chopper   998212024  4  4 fQ  -     -     -          735    0    0 
+Chopper   998437818  6  2 Bk  kf    -     -          735   10    0 
+Chopper   998437894  6  1 BQ  -     -     -          725    5    0 
+Chopper   998454360  9  8 f   -     -     -          715    0    0 
+Chopper   998454402  8  7 f   -     -     -          715    0    0 
+Chopper   998454485  8  7 c   cc    c     c          715   90    0 3c Qc
+Chopper   998454617  7  4 f   -     -     -          625    0    0 
+Chopper   998454685  7  3 f   -     -     -          625    0    0 
+Chopper   998454725  8  2 Bf  -     -     -          625   10    0 
+Chopper   998454841  8  1 Bcc kf    -     -          615   30    0 
+Chopper   998454944  8  8 c   k     cf    -          585   60    0 
+Chopper   998455009  6  5 c   r     r     b          525  100  260 2d 8d
+Chopper   998455059  6  5 f   Q     -     -          685    0    0 
+Chopper   998535139  9  8 f   -     -     -          605    0    0 
+Chopper   998535195 10  7 f   -     -     -          605    0    0 
+Chopper   998535323 10  6 f   -     -     -          605    0    0 
+Chopper   998535406 10  5 c   kc    k     f          605   20    0 
+Chopper   998535477 10  4 c   kc    r     kr         585  100  130 Kd 5d
+Chopper   998535550 10  3 c   k     c     f          615   30    0 
+Chopper   998535604 10  2 Bk  kc    b     b          585   60  250 Tc As
+Chopper   998535662 10  1 Bf  -     -     -          775    5    0 
+Chopper   998535738 10 10 f   -     -     -          770    0    0 
+Chopper   998535797 10  9 cc  k     b     b          770   60   87 7h Ac
+Chopper   998535846 10  8 f   -     -     -          797    0    0 
+Chopper   998535906 10  7 r   b     b     b          797   70    0 Kc Ks
+Chopper   998535937 10  6 f   -     -     -          727    0    0 
+Chopper   998535983 10  5 cc  rc    k     kc         727   70    0 6d 8d
+Chopper   998536078 10  4 rc  ccc   kc    ccc        657  180    0 Ks Ac
+Chopper   998536149 10  3 f   -     -     -          477    0    0 
+Chopper   998536190 10  2 Bk  k     k     k          477   10    0 6h 4d
+Chopper   998536404  7  1 Bc  kc    k     k          467   30    0 Ts Ks
+Chopper   998536440  7  7 f   -     -     -          437    0    0 
+Chopper   998536480  7  6 f   -     -     -          437    0    0 
+Chopper   998536512  7  5 c   crc   kc    kf         437   70    0 
+Chopper   998536559  7  4 c   c     c     c          367   70    0 Qd 9s
+Chopper   998536622  7  3 r   bcc   kf    -          297   60    0 
+Chopper   998536672  7  2 Bk  kc    br    b          237  130  540 Ad 4h
+Chopper   998536729  7  1 Bc  kc    kf    -          647   30    0 
+Chopper   998536773  7  7 cc  c     f     -          617   30    0 
+Chopper   998536819  8  7 c   c     c     c          587   90    0 Kh Qh
+Chopper   998536874  8  6 c   c     c     brc        497  130    0 Jh 4h
+Chopper   998536937  8  5 ccc c     cc    k          367   90    0 7d Ah
+Chopper   998536997  8  4 f   -     -     -          277    0    0 
+Chopper   998537050  8  3 f   -     -     -          277    0    0 
+Chopper   998537093  8  2 Bk  kf    -     -          277   10    0 
+Chopper   998537155  9  1 Bc  b     bc    bc         267  110    0 9h Ks
+Chopper   998537199  9  9 c   c     c     f          157   40    0 
+Chopper   998537309  8  7 r   b     -     -          117   30  115 
+Chopper   998537337  8  6 c   c     c     c          202   80    0 Qh Jd
+Chopper   998537377  9  5 ccc kf    -     -          122   40    0 
+Chopper   998537459  9  4 cc  k     cc    f           82   60    0 
+Chopper   998537530  9  3 rcA -     -     -           22   22    0 9h 5h
+Chopper   998637847  7  2 Bk  kc    kf    -         1000   20    0 
+Chopper   998637917  7  1 Bc  k     k     k          980   20   70 Qs 6s
+Chopper   998637975  7  7 c   k     c     k         1030   30    0 7h Th
+Chopper   998638038  5  5 c   c     k     rc        1000   80    0 Ah 3s
+Chopper   998638075  5  3 Q   -     -     -          920    0    0 
+Chopper   998640390  4  3 c   k     c     c          920   50  110 Td 9d
+Chopper   998640422  4  2 Bk  k     f     -          980   10    0 
+Chopper   998640446  3  1 BQ  -     -     -          970    5    0 

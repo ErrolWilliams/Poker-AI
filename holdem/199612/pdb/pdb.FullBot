@@ -1,0 +1,926 @@
+FullBot   849534298  4  3 f   -     -     -        72434    0    0 
+FullBot   849534386  3  2 Br  b     b     -        72434   50   85 
+FullBot   849534452  3  1 Br  kf    -     -        72469   20    0 
+FullBot   849534497  3  3 Q   -     -     -        72449    0    0 
+FullBot   849534651  3  2 B   -     -     -        72449   10   15 
+FullBot   849534659  3  1 Br  bc    kr    b        72454  100  210 4c Tc
+FullBot   849534746  3  3 Q   -     -     -        72564    0    0 
+FullBot   849535000  5  5 f   -     -     -        72564    0    0 
+FullBot   849535042  5  4 f   -     -     -        72564    0    0 
+FullBot   849535078  4  2 Bk  b     -     -        72564   20   40 
+FullBot   849535122  4  1 Bf  -     -     -        72584    5    0 
+FullBot   849535131  4  4 rr  b     b     k        72579   70    0 Qc Kc
+FullBot   849535233  4  3 f   -     -     -        72509    0    0 
+FullBot   849535283  4  2 Bc  kc    k     k        72509   30  120 Js 7d
+FullBot   849535430  5  1 Bcc kf    -     -        72599   20    0 
+FullBot   849535546  6  5 r   k     f     -        72579   20    0 
+FullBot   849535670  6  4 r   -     -     -        72559   20   35 
+FullBot   849535693  6  3 f   -     -     -        72574    0    0 
+FullBot   849535755  6  2 Bk  b     k     r        72574   60  150 7c Ah
+FullBot   849535833  7  1 Bf  -     -     -        72664    5    0 
+FullBot   849535879  7  7 r   b     b     -        72659   50  155 
+FullBot   849535935  7  6 f   -     -     -        72764    0    0 
+FullBot   849535996  7  5 c   k     kf    -        72764   10    0 
+FullBot   849536087  7  4 c   k     f     -        72754   10    0 
+FullBot   849536172  7  3 f   -     -     Q        72744    0    0 
+FullBot   849536701  7  5 c   c     c     r        72744   80  280 4c Jc
+FullBot   849536794  7  4 f   -     -     -        72944    0    0 
+FullBot   849536843  7  3 rr  b     b     b        72944   90  320 7d 7c
+FullBot   849536934  8  2 Br  b     b     b        73174   70    0 Qc As
+FullBot   849537042  8  1 Bf  -     -     -        73104    5    0 
+FullBot   849537209  8  8 c   c     k     c        73099   40  160 5s 8s
+FullBot   849537316  8  7 f   -     -     -        73219    0    0 
+FullBot   849537421  8  6 f   -     -     -        73219    0    0 
+FullBot   849537499  8  5 f   -     -     -        73219    0    0 
+FullBot   849537646  8  4 f   -     -     -        73219    0    0 
+FullBot   849537746  7  3 f   -     -     -        73219    0    0 
+FullBot   849537796  7  2 Bf  -     -     -        73219   10    0 
+FullBot   849537860  7  1 Bf  -     -     -        73209    5    0 
+FullBot   849537877  7  7 f   -     -     -        73204    0    0 
+FullBot   849537948  7  6 f   -     -     -        73204    0    0 
+FullBot   849538045  7  5 f   -     -     -        73204    0    0 
+FullBot   849538217  7  5 c   b     b     b        73204   60  150 
+FullBot   849538289  6  4 f   -     -     -        73294    0    0 
+FullBot   849538345  6  3 r   b     b     f        73294   50    0 
+FullBot   849538416  6  2 Bf  -     -     -        73244   10    0 
+FullBot   849538465  7  1 Bc  kc    kf    -        73234   20    0 
+FullBot   849538539  8  7 f   -     -     -        73214    0    0 
+FullBot   849538624  8  6 f   -     -     -        73214    0    0 
+FullBot   849538702  9  5 f   -     -     -        73214    0    0 
+FullBot   849538794  9  4 f   -     -     -        73214    0    0 
+FullBot   849538908  8  3 f   -     -     -        73214    0    0 
+FullBot   849538942  8  2 Bc  kf    -     -        73214   20    0 
+FullBot   849538990  7  1 Bf  -     -     -        73194    5    0 
+FullBot   849539063  7  7 f   -     -     -        73189    0    0 
+FullBot   849539141  7  6 f   -     -     -        73189    0    0 
+FullBot   849539183  6  4 r   b     b     b        73189   70  250 Ts Td
+FullBot   849539238  6  3 r   b     k     b        73369   50  175 4s 5s
+FullBot   849539296  6  2 Bf  -     -     -        73494   10    0 
+FullBot   849539396  6  1 Bf  -     -     -        73484    5    0 
+FullBot   849539456  5  5 f   -     -     -        73479    0    0 
+FullBot   849539499  5  4 f   -     -     -        73479    0    0 
+FullBot   849539537  5  2 f   -     -     -        73479    0    0 
+FullBot   849539572  5  2 BQ  -     -     -        73479   10    0 
+FullBot   849543858  6  6 f   -     -     -        73469    0    0 
+FullBot   849543892  7  5 f   -     -     -        73469    0    0 
+FullBot   849543914  8  4 f   -     -     -        73469    0    0 
+FullBot   849543981  8  3 f   -     -     -        73469    0    0 
+FullBot   849544014  8  2 Bk  kf    -     -        73469   10    0 
+FullBot   849544101  8  1 Bc  b     b     b        73459   60  130 5h 6d
+FullBot   849544181  8  8 c   c     r     f        73529   60    0 
+FullBot   849544351  8  7 r   r     b     b        73469   80  310 
+FullBot   849544428  8  6 f   -     -     -        73699    0    0 
+FullBot   849544457  8  5 rr  b     b     b        73699   90  240 
+FullBot   849544538  8  4 r   bc    bc    f        73849   80    0 
+FullBot   849544659  9  3 f   -     -     -        73769    0    0 
+FullBot   849544734  8  2 Bc  kf    -     -        73769   30    0 
+FullBot   849544812  6  1 Br  k     b     b        73739   60  170 8s 8c
+FullBot   849544905  8  8 f   -     -     -        73849    0    0 
+FullBot   849545010  8  7 f   -     -     -        73849    0    0 
+FullBot   849545071  8  6 f   -     -     -        73849    0    0 
+FullBot   849545133  9  6 f   -     -     -        73849    0    0 
+FullBot   849545194  9  5 f   -     -     -        73849    0    0 
+FullBot   849545285  9  4 f   -     -     -        73849    0    0 
+FullBot   849545360  9  3 f   -     -     -        73849    0    0 
+FullBot   849545464  9  2 Bf  -     -     -        73849   10    0 
+FullBot   849545619  8  1 Bc  kc    krr   bc       73839  150    0 3c 3h
+FullBot   849545760  8  8 c   k     c     f        73689   30    0 
+FullBot   849545881  8  7 Q   -     -     -        73659    0    0 
+FullBot   849549083 10 10 f   -     -     -        73659    0    0 
+FullBot   849549239 12  9 f   -     -     -        73659    0    0 
+FullBot   849549359 11  7 rc  ccc   f     -        73659   80    0 
+FullBot   849549552 12  7 r   c     b     b        73579   80  325 Qs Kc
+FullBot   849549659 11  5 f   -     Q     -        73824    0    0 
+FullBot   849565296  7  6 f   -     -     -        73824    0    0 
+FullBot   849565338  7  5 f   -     -     -        73824    0    0 
+FullBot   849565405  7  4 f   -     -     -        73824    0    0 
+FullBot   849565444  8  3 f   -     -     -        73824    0    0 
+FullBot   849565527  8  2 Bk  k     b     b        73824   50  100 
+FullBot   849565614 10  1 Bf  -     -     -        73874    5    0 
+FullBot   849565745 10 10 f   -     -     -        73869    0    0 
+FullBot   849565886 10  9 rc  rr    bc    k        73869  120  355 Jh Ah
+FullBot   849566016 11  9 f   -     -     -        74104    0    0 
+FullBot   849566229 12  9 cc  f     -     -        74104   40    0 
+FullBot   849566417 11  7 f   -     -     -        74064    0    0 
+FullBot   849566611 12  7 cc  krc   bc    k        74064   90    0 7h 7d
+FullBot   849566781 12  7 cc  k     b     b        73974   70  235 
+FullBot   849566905 10  5 c   kf    -     -        74139   10    0 
+FullBot   849567024 12  4 f   -     -     -        74129    0    0 
+FullBot   849567153 12  3 f   -     -     -        74129    0    0 
+FullBot   849567227 12  2 BcQ -     -     -        74129   20    0 
+FullBot   849567448 12 12 cc  f     -     -        74109   40    0 
+FullBot   849567594 12 11 f   -     -     -        74069    0    0 
+FullBot   849567722 10  8 ccc f     -     -        74069   40    0 
+FullBot   849567840 10  7 f   Q     -     -        74029    0    0 
+FullBot   849584538 10  9 r   b     b     b        74029   70  135 
+FullBot   849584595 12 10 r   b     b     rc       74094  110    0 As Kc
+FullBot   849584745 11  8 f   -     -     -        73984    0    0 
+FullBot   849584824 11  7 f   -     -     -        73984    0    0 
+FullBot   849584913 11  6 f   -     -     -        73984    0    0 
+FullBot   849584995 12  5 f   -     -     -        73984    0    0 
+FullBot   849585154 11  4 f   -     -     -        73984    0    0 
+FullBot   849585237 11  3 f   -     -     -        73984    0    0 
+FullBot   849585290 11  2 Bc  br    k     b        73984   70  265 Jh 7s
+FullBot   849585553 11  1 Bf  -     -     -        74179    5    0 
+FullBot   849585699 11 11 f   -     -     -        74174    0    0 
+FullBot   849585863  9  8 f   -     -     -        74174    0    0 
+FullBot   849586007  8  7 f   -     -     -        74174    0    0 
+FullBot   849586116  9  6 f   -     -     -        74174    0    0 
+FullBot   849586217 10  5 rc  kc    kf    -        74174   50    0 
+FullBot   849586391 11  5 c   c     bf    -        74124   40    0 
+FullBot   849586542 11  4 f   -     -     -        74084    0    0 
+FullBot   849586705 12  4 f   -     -     -        74084    0    0 
+FullBot   849586829 12  4 rc  kf    -     -        74084   30    0 
+FullBot   849587054 11  2 Bk  kf    -     -        74054   10    0 
+FullBot   849587308  9  1 Br  b     b     kc       74044   80    0 Ad 6d
+FullBot   849587386 10 10 r   c     rr    c        73964  130    0 Ts Th
+FullBot   849587540 11  9 cc  c     k     cf       73834   70    0 
+FullBot   849587773 12  9 r   b     b     k        73764   50   90 Ah Qc
+FullBot   849588043 12  9 r   cc    c     f        73804   90    0 
+FullBot   849588353  7  5 c   k     r     b        73714   80  300 9c 7c
+FullBot   849588494  7  4 f   -     -     -        73934    0    0 
+FullBot   849588601  7  3 r   b     b     -        73934   50  115 
+FullBot   849588682  6  2 Bk  k     f     -        73999   10    0 
+FullBot   849588783  6  1 Br  bf    -     -        73989   40    0 
+FullBot   849588868  7  7 rQ  -     -     -        73949   20    0 
+FullBot   849626815  8  7 Q   -     -     -        73814    0    0 
+FullBot   849627332  9  9 Q   -     -     -        73814    0    0 
+FullBot   849629476  8  3 c   kc    Q     -        73814   20    0 
+FullBot   849631394  7  1 Br  br    k     b        73794   90  410 Kh 9h
+FullBot   849631507  6  1 Bf  -     -     -        74114    5    0 
+FullBot   849631531  5  5 f   -     -     -        74109    0    0 
+FullBot   849631584  6  4 r   k     k     f        74109   20    0 
+FullBot   849631662  6  3 r   kc    kc    kf       74089   50    0 
+FullBot   849631800  7  2 Br  f     -     -        74039   20    0 
+FullBot   849631999  5  1 Br  k     b     b        74019   60  160 5h Kh
+FullBot   849632084  5  5 rc  f     -     -        74119   40    0 
+FullBot   849632164  6  5 f   -     -     -        74079    0    0 
+FullBot   849632222  8  6 f   -     -     -        74079    0    0 
+FullBot   849632315  8  5 f   -     -     -        74079    0    0 
+FullBot   849632382  9  5 r   -     -     -        74079   20   35 
+FullBot   849632407  8  4 r   rc    c     c        74094   90    0 5s 5h
+FullBot   849632499  9  3 f   -     -     -        74004    0    0 
+FullBot   849632640 10  2 Bf  -     -     -        74004   10    0 
+FullBot   849632766 11  1 Bf  -     -     -        73994    5    0 
+FullBot   849632840 11 11 Q   -     -     -        73989    0    0 
+FullBot   849633049  8  3 cQ  -     -     -        73989   10    0 
+FullBot   849633316  9  5 Q   -     -     -        73979    0    0 
+FullBot   849633487  8  7 f   -     -     -        73979    0    0 
+FullBot   849633579  7  5 Q   -     -     -        73979    0    0 
+FullBot   849634996  5  3 f   -     -     -        73979    0    0 
+FullBot   849635087  5  2 BQ  -     -     -        73979   10    0 
+FullBot   849636740  7  5 Q   -     -     -        73969    0    0 
+FullBot   849655952  9  2 Bcc f     -     -        73969   40    0 
+FullBot   849656066 10  1 Bc  kf    -     -        73929   30    0 
+FullBot   849656175 11 11 f   -     -     -        73899    0    0 
+FullBot   849656261 10  9 rr  rr    rr    rc       73899  240  990 Ks Kd
+FullBot   849656439 12 10 f   -     -     -        74649    0    0 
+FullBot   849656595 11  8 f   -     -     -        74649    0    0 
+FullBot   849656710 12  8 f   -     -     -        74649    0    0 
+FullBot   849656923 12  7 r   kf    -     -        74649   25    0 
+FullBot   849657051 12  6 c   b     b     -        74624   40  115 
+FullBot   849657177 12  5 r   b     bc    k        74699   70    0 Jh 5h
+FullBot   849657247 12  4 Q   -     -     -        74629    0    0 
+FullBot   849707681  4  2 Bf  -     -     -        74629   10    0 
+FullBot   849707714  4  1 Bf  -     -     -        74619    5    0 
+FullBot   849707754  4  4 f   -     -     -        74614    0    0 
+FullBot   849707785  4  3 f   -     -     -        74614    0    0 
+FullBot   849707815  4  2 Br  b     b     b        74614   70  175 8h Qh
+FullBot   849707847  4  1 Br  b     -     -        74719   30   70 
+FullBot   849707878  5  4 f   -     -     -        74759    0    0 
+FullBot   849707915  5  3 r   b     b     k        74759   50    0 7c 7h
+FullBot   849707982  5  2 Br  b     kf    -        74709   30    0 
+FullBot   849708037  4  1 Br  b     kc    kc       74679   80    0 6c 8c
+FullBot   849708116  4  4 f   -     -     -        74599    0    0 
+FullBot   849708191  4  3 f   -     -     -        74599    0    0 
+FullBot   849708276  4  2 Bk  k     k     k        74599   10    0 9h 2c
+FullBot   849708356  4  1 Bf  -     -     -        74589    5    0 
+FullBot   849708440  4  4 r   k     f     -        74584   20    0 
+FullBot   849708503  4  4 r   b     b     c        74564   70    0 6c 6d
+FullBot   849708581  3  2 Bf  -     -     -        74494   10    0 
+FullBot   849708629  3  1 Bc  b     b     -        74484   40   60 
+FullBot   849708675  3  3 r   b     -     -        74504   30   55 
+FullBot   849708733  3  2 Br  k     k     k        74529   20    0 Ts Jd
+FullBot   849708878  4  1 BQ  -     -     -        74509    5    0 
+FullBot   849735299  6  2 Bf  -     -     -        74504   10    0 
+FullBot   849735361  7  1 Bc  b     k     kf       74494   30    0 
+FullBot   849735450  6  6 f   -     -     -        74464    0    0 
+FullBot   849735497  6  5 f   -     -     -        74464    0    0 
+FullBot   849735557  5  3 f   -     -     -        74464    0    0 
+FullBot   849735606  5  3 f   -     -     -        74464    0    0 
+FullBot   849735683  6  2 Bf  -     -     -        74464   10    0 
+FullBot   849735767  7  1 Bf  -     -     -        74454    5    0 
+FullBot   849735852  7  7 cQ  -     -     -        74449   10    0 
+FullBot   849736078  7  7 f   -     -     -        74439    0    0 
+FullBot   849736094  7  6 r   bc    f     -        74439   40    0 
+FullBot   849736178  7  5 f   -     -     -        74399    0    0 
+FullBot   849736244  7  4 rc  k     b     k        74399   50    0 5s Js
+FullBot   849736305  7  3 c   f     -     -        74349   10    0 
+FullBot   849736389  7  2 Bc  bc    kc    kf       74339   60    0 
+FullBot   849736454  7  1 Bf  -     -     -        74279    5    0 
+FullBot   849736521  7  7 f   -     -     -        74274    0    0 
+FullBot   849736568  7  6 f   -     -     -        74274    0    0 
+FullBot   849736625  6  4 cc  k     bc    kf       74274   60    0 
+FullBot   849736703  5  2 Bc  kc    bc    k        74214   70    0 Jh 4h
+FullBot   849736782  5  1 Bf  -     -     -        74144    5    0 
+FullBot   849736812  5  5 f   -     -     -        74139    0    0 
+FullBot   849736844  5  4 f   -     -     -        74139    0    0 
+FullBot   849736903  6  4 f   -     -     -        74139    0    0 
+FullBot   849736942  6  3 f   -     -     -        74139    0    0 
+FullBot   849736981  6  2 Bk  k     k     fQ       74139   10    0 
+FullBot   849740479  8  4 r   -     -     -        74129   20   35 
+FullBot   849740502  8  3 cc  kc    kc    f        74144   50    0 
+FullBot   849740669  8  2 Bk  k     kf    -        74094   10    0 
+FullBot   849740809  7  1 Bf  -     -     -        74084    5    0 
+FullBot   849740868  7  7 f   -     -     -        74079    0    0 
+FullBot   849740958  7  6 f   -     -     -        74079    0    0 
+FullBot   849741053  8  6 f   -     -     -        74079    0    0 
+FullBot   849741164  7  5 f   -     -     -        74079    0    0 
+FullBot   849741233  7  4 f   -     -     -        74079    0    0 
+FullBot   849741353  8  3 f   -     -     -        74079    0    0 
+FullBot   849741412  9  2 Bk  kf    -     -        74079   10    0 
+FullBot   849741479  9  1 Bf  -     -     -        74069    5    0 
+FullBot   849741553  8  8 f   -     -     -        74064    0    0 
+FullBot   849741622 10  9 f   -     -     -        74064    0    0 
+FullBot   849741742  9  7 r   b     b     k        74064   50    0 2c 4c
+FullBot   849741818  9  6 f   -     -     -        74014    0    0 
+FullBot   849741913 12  5 f   -     -     -        74014    0    0 
+FullBot   849742041 10  3 f   -     -     -        74014    0    0 
+FullBot   849742198  9  1 Bf  -     -     -        74014   10    0 
+FullBot   849742358 10  1 Bc  kc    b     b        74004   70  300 Kd Js
+FullBot   849742491 11 11 f   -     -     -        74234    0    0 
+FullBot   849742649 12 11 f   -     -     -        74234    0    0 
+FullBot   849742744 12 10 r   b     b     brrrrr   74234  270  695 6d Jd
+FullBot   849742937 12  9 f   -     -     -        74659    0    0 
+FullBot   849743036 11  8 f   -     -     -        74659    0    0 
+FullBot   849743196 11  8 f   -     -     -        74659    0    0 
+FullBot   849743351 10  5 r   rc    c     c        74659   90    0 Ac Jd
+FullBot   849743478 11  6 f   -     -     -        74569    0    0 
+FullBot   849743618  8  3 r   b     k     k        74569   30  100 Qs Ts
+FullBot   849743704  6  1 Bf  -     -     -        74639   10    0 
+FullBot   849743736  8  1 Bc  kc    kf    -        74629   30    0 
+FullBot   849743818  9  9 c   c     r     b        74599  120  520 9d 3d
+FullBot   849743952 12 11 c   b     b     f        74999   40    0 
+FullBot   849744183 12 10 f   -     -     -        74959    0    0 
+FullBot   849744289 12  9 c   rc    cf    -        74959   80    0 
+FullBot   849744455 12  8 f   -     -     -        74879    0    0 
+FullBot   849744584 11  6 c   k     k     kf       74879   10    0 
+FullBot   849744728 12  6 r   r     b     b        74869   80  215 
+FullBot   849744901  9  5 r   b     b     bc       75004   90    0 Jd Ks
+FullBot   849745016 11  4 f   -     -     -        74914    0    0 
+FullBot   849745143 10  3 c   r     b     b        74914   70    0 As 2s
+FullBot   849745236 11  2 Bf  -     -     -        74844   10    0 
+FullBot   849745392 12  1 Bc  b     br    kf       74834  100    0 
+FullBot   849745523  9  9 f   -     -     -        74734    0    0 
+FullBot   849745631  9  8 rr  b     b     -        74734   70  210 
+FullBot   849745762 12 10 f   -     -     -        74874    0    0 
+FullBot   849745898  9  6 r   b     b     -        74874   50   95 
+FullBot   849745982  9  5 f   -     -     -        74919    0    0 
+FullBot   849746019 10  5 f   -     -     -        74919    0    0 
+FullBot   849746095 10  4 cc  f     -     -        74919   20    0 
+FullBot   849746241 11  4 c   f     -     -        74899   10    0 
+FullBot   849746351 10  2 Bc  kf    -     -        74889   20    0 
+FullBot   849746469 10  1 Bf  -     -     -        74869    5    0 
+FullBot   849746647  9  9 f   Q     -     -        74864    0    0 
+FullBot   849746905  7  3 cc  k     k     kf       74864   20    0 
+FullBot   849747099  7  2 Bk  b     b     -        74844   40   90 
+FullBot   849747172  6  1 Bc  kf    -     -        74894   30    0 
+FullBot   849747266  8  7 f   -     -     -        74864    0    0 
+FullBot   849747317  7  5 r   b     b     b        74864   70  150 
+FullBot   849747371  8  5 c   b     k     b        74944   40  110 2d 9d
+FullBot   849747466 11  7 f   -     -     -        75014    0    0 
+FullBot   849747644  9  4 f   -     -     -        75014    0    0 
+FullBot   849747747 12  4 c   b     b     bc       75014   80    0 Qs Qh
+FullBot   849747970 12  3 rr  b     kc    c        74934   90    0 Jh Jc
+FullBot   849748137 11  2 Bc  b     b     kf       74844   50    0 
+FullBot   849748314 11  1 Bf  -     -     -        74794    5    0 
+FullBot   849748423 12 12 c   c     f     -        74789   30    0 
+FullBot   849748533 12 11 f   -     -     -        74759    0    0 
+FullBot   849748695 10  9 f   -     -     -        74759    0    0 
+FullBot   849748897 12  9 c   f     -     -        74759   10    0 
+FullBot   849749003 12  8 f   -     -     -        74749    0    0 
+FullBot   849749100 10  5 f   -     -     -        74749    0    0 
+FullBot   849749201  9  4 f   -     -     -        74749    0    0 
+FullBot   849749265 10  4 f   -     -     -        74749    0    0 
+FullBot   849749345  7  2 Bf  -     -     -        74749   10    0 
+FullBot   849749439  7  1 Bf  -     -     -        74739    5    0 
+FullBot   849749484  7  7 f   -     -     -        74734    0    0 
+FullBot   849749537  8  6 f   -     -     -        74734    0    0 
+FullBot   849749608  8  5 r   bc    cc    k        74734   80    0 Jh Ad
+FullBot   849749750  9  4 f   -     -     -        74654    0    0 
+FullBot   849749880  8  3 c   krc   b     b        74654   90  370 8h Qh
+FullBot   849750079  9  2 Bc  kc    kf    -        74934   30    0 
+FullBot   849750204  9  1 Brc kf    -     -        74904   40    0 
+FullBot   849750332  9  9 c   k     k     f        74864   20    0 
+FullBot   849750470  9  8 rc  crc   brc   kc       74844  180    0 Qc Qs
+FullBot   849750707 11  9 f   -     -     -        74664    0    0 
+FullBot   849750789 10  9 c   c     c     f        74664   50    0 
+FullBot   849750869 11  8 f   -     -     -        74614    0    0 
+FullBot   849751100 10  7 f   -     -     -        74614    0    0 
+FullBot   849751186 10  6 cc  kc    k     b        74614   50  145 
+FullBot   849751311 11  6 f   -     -     -        74709    0    0 
+FullBot   849751437  9  3 r   bc    k     kf       74709   40    0 
+FullBot   849751507  9  3 rc  b     bf    -        74669   60    0 
+FullBot   849751618 10  1 Bf  -     -     -        74609   10    0 
+FullBot   849751714 11  1 BQ  -     -     -        74599    5    0 
+FullBot   849818935  6  6 f   -     -     -        72814    0    0 
+FullBot   849818970  6  5 c   c     b     -        72814   40   85 
+FullBot   849819035  5  4 r   b     r     k        72859   80  175 6h 6c
+FullBot   849819091  5  3 f   -     -     -        72954    0    0 
+FullBot   849819131  5  2 Bc  c     k     f        72954   30    0 
+FullBot   849819179  6  1 Bc  b     b     b        72924   90  260 
+FullBot   849819242  6  6 f   -     -     -        73094    0    0 
+FullBot   849819316  6  5 f   -     -     -        73094    0    0 
+FullBot   849819379  5  3 f   -     -     -        73094    0    0 
+FullBot   849819444  5  2 Bk  k     b     -        73094   30   50 
+FullBot   849819567  4  1 BQ  -     -     -        73114    5    0 
+FullBot   849821026  4  2 Bk  k     k     k        73109   10    0 Ah 3c
+FullBot   849821128  3  1 Bf  -     -     -        73099    5    0 
+FullBot   849821133  3  3 r   b     b     c        73094   70    0 Jd Kc
+FullBot   849821176  3  2 Br  b     b     c        73024   70    0 Ad Td
+FullBot   849821263  3  1 Bf  -     -     -        72954    5    0 
+FullBot   849821323  3  3 r   b     bc    c        72949   90    0 Qs Jc
+FullBot   849821527  2  2 Bk  k     k     b        72859   30    0 9s 5h
+FullBot   849821584  3  1 Bf  -     -     -        72829    5    0 
+FullBot   849821711  4  4 crc rr    c     rr       72824  180  270 Kc As
+FullBot   849821836  3  2 Bf  Q     -     -        72914   10    0 
+FullBot   849823524  7  2 Bf  -     -     -        72904   10    0 
+FullBot   849823640 12  1 Bf  -     -     -        72894    5    0 
+FullBot   849823823 12 12 r   r     r     b        72889  100  315 Qs Qc
+FullBot   849824071 10  9 f   -     -     -        73104    0    0 
+FullBot   849824207 11  9 r   rc    c     f        73104   70    0 
+FullBot   849824356 11  8 r   b     -     -        73034   30   60 
+FullBot   849824434 10  6 r   kc    kr    bc       73064  110    0 9s Kc
+FullBot   849824575 10  5 r   b     b     kc       72954   70    0 Ks As
+FullBot   849824736 12  4 f   -     -     -        72884    0    0 
+FullBot   849824848 10  2 c   b     b     b        72884   60  130 
+FullBot   849824916 10  2 Bk  kc    kQ    -        72954   20    0 
+FullBot   849842340  4  2 Bc  k     kr    b        72934   80    0 Tc 5s
+FullBot   849842407  3  1 Bf  -     -     -        72854    5    0 
+FullBot   849842465  3  3 f   -     -     -        72849    0    0 
+FullBot   849842520  3  2 Br  b     -     -        72849   30   50 
+FullBot   849842558  4  1 Br  b     b     k        72869   50  110 6d Qd
+FullBot   849842603  4  4 f   -     -     -        72929    0    0 
+FullBot   849842647  4  4 r   b     k     c        72929   50    0 5s 4s
+FullBot   849842733  4  2 Bf  -     -     -        72879   10    0 
+FullBot   849842790  4  1 Bf  -     -     -        72869    5    0 
+FullBot   849842816  4  4 f   -     -     -        72864    0    0 
+FullBot   849842827  4  3 rc  k     f     -        72864   30    0 
+FullBot   849842876  4  2 Bk  b     bc    b        72834   80  180 9h Jd
+FullBot   849842938  5  1 Bc  kf    -     -        72934   20    0 
+FullBot   849843000  5  5 rr  c     c     f        72914   70    0 
+FullBot   849843060  6  5 r   k     r     k        72844   80    0 4c 3c
+FullBot   849843119  6  4 f   -     -     -        72764    0    0 
+FullBot   849843171  7  3 f   -     -     -        72764    0    0 
+FullBot   849843276  9  2 Bc  bc    brc   kc       72764  140    0 5h As
+FullBot   849843368  8  1 Bf  -     -     -        72624    5    0 
+FullBot   849843409  7  7 c   cc    c     f        72619   80    0 
+FullBot   849843501  9  8 f   -     -     -        72539    0    0 
+FullBot   849843615 10  8 c   k     c     f        72539   30    0 
+FullBot   849843709 10  7 r   r     b     b        72509   80    0 4d Qd
+FullBot   849843802  9  5 f   -     -     -        72429    0    0 
+FullBot   849843896  9  5 cc  rc    rc    c        72429  200 1285 Kh Tc
+FullBot   849844082  9  4 rr  b     kc    k        73514   70    0 5d 3d
+FullBot   849844362  8  4 r   b     k     k        73444   30  125 Qs 2s
+FullBot   849844437  7  2 Bcc bc    kc    kc       73539  110  470 Ts Qc
+FullBot   849844577  6  1 Bc  k     k     kQ       73899   10    0 
+FullBot   850145481  8  3 c   br    c     c        50781   80    0 4d 4s
+FullBot   850145557 10  2 Bk  k     b     -        50701   30   55 
+FullBot   850145627  9  1 Brc k     k     b        50726   60  105 Kh Ad
+FullBot   850145765  8  8 f   -     -     -        50771    0    0 
+FullBot   850145814  9  8 f   -     -     -        50771    0    0 
+FullBot   850145923  9  7 c   f     -     -        50771   20    0 
+FullBot   850146006  9  6 c   k     k     kf       50751   10    0 
+FullBot   850146164  9  5 f   -     -     -        50741    0    0 
+FullBot   850146255  9  3 f   -     -     -        50741    0    0 
+FullBot   850146335  8  2 Bk  kf    -     -        50741   10    0 
+FullBot   850146437 10  1 Bc  k     b     b        50731   50  100 3c Ac
+FullBot   850146516 10 10 c   rr    b     b        50781   90  300 4s 4h
+FullBot   850146662  7  6 c   f     -     -        50991   10    0 
+FullBot   850146728  6  4 f   -     -     -        50981    0    0 
+FullBot   850146794  6  3 rc  b     k     k        50981   40    0 5d 3d
+FullBot   850146933  5  2 B   -     -     -        50941   10   15 
+FullBot   850146953  5  1 BQ  -     -     -        50946    5    0 
+FullBot   850149326 12  6 f   -     -     -        50941    0    0 
+FullBot   850149394 12  5 f   -     -     -        50941    0    0 
+FullBot   850149481 12  4 f   -     -     -        50941    0    0 
+FullBot   850149551 12  3 r   bc    k     kf       50941   40    0 
+FullBot   850149657 12  2 Bk  kc    kf    -        50901   20    0 
+FullBot   850149752 12  1 Br  bc    br    kf       50881  130    0 
+FullBot   850149832 10 10 f   -     -     -        50751    0    0 
+FullBot   850149893  9  8 r   f     -     -        50751   20    0 
+FullBot   850150001  9  7 c   b     b     k        50731   40    0 8c Th
+FullBot   850150060  8  5 f   -     -     -        50691    0    0 
+FullBot   850150112  7  3 r   b     kf    -        50691   30    0 
+FullBot   850150191  7  2 Bk  k     b     kf       50661   30    0 
+FullBot   850150284  7  1 Bf  -     -     -        50631    5    0 
+FullBot   850150345  7  7 r   b     b     b        50626   70  170 As Ks
+FullBot   850150386  8  6 f   -     -     -        50726    0    0 
+FullBot   850150443  8  5 r   b     b     k        50726   50    0 Ah Tc
+FullBot   850150515  8  4 f   -     -     -        50676    0    0 
+FullBot   850150569  9  3 f   -     -     -        50676    0    0 
+FullBot   850150638  8  2 Bk  k     f     -        50676   10    0 
+FullBot   850150697  9  1 BQ  -     -     -        50666    5    0 
+FullBot   850161851  7  2 c   Q     -     -        50661   10    0 
+FullBot   850162037  7  7 cc  c     c     f        50651   60    0 
+FullBot   850162112  9  8 c   r     b     k        50591   50  230 Jh Ks
+FullBot   850162239 12 10 Q   -     -     -        50771    0    0 
+FullBot   850162559 10  5 f   -     -     -        50771    0    0 
+FullBot   850162669  9  4 c   f     -     -        50771   10    0 
+FullBot   850162734  9  3 f   -     -     -        50761    0    0 
+FullBot   850162826  9  1 Bf  -     -     -        50761   10    0 
+FullBot   850162872 10  1 Bc  kf    -     -        50751   20    0 
+FullBot   850163003 11 11 c   k     r     b        50731   70  200 
+FullBot   850163155 11 10 r   rc    c     f        50861   70    0 
+FullBot   850163262 11  9 f   -     -     -        50791    0    0 
+FullBot   850163389 11  7 f   -     -     -        50791    0    0 
+FullBot   850163515 11  7 Q   -     -     -        50791    0    0 
+FullBot   850164018 12  5 f   -     -     -        50791    0    0 
+FullBot   850164147 12  4 f   -     -     -        50791    0    0 
+FullBot   850164274 12  3 f   -     -     -        50791    0    0 
+FullBot   850164380 12  2 BQ  -     -     -        50791   10    0 
+FullBot   850254556 11  4 f   -     -     -        50751    0    0 
+FullBot   850254665 11  4 r   b     k     f        50751   30    0 
+FullBot   850254747 10  2 Bf  -     -     -        50721   10    0 
+FullBot   850254810 10  1 Bf  -     -     -        50711    5    0 
+FullBot   850254880 10 10 f   -     -     -        50706    0    0 
+FullBot   850254932 10  9 c   b     c     rc       50706  100  240 Ac 2c
+FullBot   850255024 10  8 c   kc    kf    -        50846   30    0 
+FullBot   850255161 12  8 f   -     -     -        50816    0    0 
+FullBot   850255257 11  7 Q   -     -     -        50816    0    0 
+FullBot   850255471 12  5 f   -     -     -        50816    0    0 
+FullBot   850255550 12  4 cr  kc    kc    kf       50816   60    0 
+FullBot   850255706 12  3 cc  kc    kf    -        50756   40    0 
+FullBot   850255774 12  2 Bc  br    b     k        50716   70  250 9h Qh
+FullBot   850255860 11  1 Bc  b     b     -        50896   40   80 
+FullBot   850255929 11 11 r   f     -     -        50936   30    0 
+FullBot   850256002 12 11 c   c     k     k        50906   20    0 Ts Qd
+FullBot   850256147 11  9 c   f     -     -        50886   10    0 
+FullBot   850256226 12  8 f   -     -     -        50876    0    0 
+FullBot   850256352 11  6 cr  f     Q     -        50876   30    0 
+FullBot   850258387 11  8 f   -     -     -        50846    0    0 
+FullBot   850258459 11  7 f   -     -     -        50846    0    0 
+FullBot   850258544 10  5 f   -     -     -        50846    0    0 
+FullBot   850258590 10  5 Q   -     -     -        50846    0    0 
+FullBot   850258861  9  6 Q   -     -     -        50846    0    0 
+FullBot   850334468 10  3 r   b     kc    kc       50846   70    0 Qs Qh
+FullBot   850334553 10  2 BQ  -     -     -        50776   10    0 
+FullBot   850392935  4  3 f   -     -     -        50321    0    0 
+FullBot   850392960  4  2 Bc  kc    kc    bc       50321   90  185 Ks 6s
+FullBot   850393031  4  1 Bc  k     kf    -        50416   20    0 
+FullBot   850393076  4  4 rf  -     -     -        50396   20    0 
+FullBot   850393118  4  3 f   -     -     -        50376    0    0 
+FullBot   850393162  4  2 Bk  k     k     kf       50376   10    0 
+FullBot   850393226  4  1 Bc  b     b     -        50366   40   70 
+FullBot   850393268  4  4 f   -     -     -        50396    0    0 
+FullBot   850393288  4  3 f   -     -     -        50396    0    0 
+FullBot   850393319  3  2 Bc  f     -     -        50396   20    0 
+FullBot   850393364  4  1 Bc  bc    kc    kf       50376   60    0 
+FullBot   850393430  4  4 r   f     -     -        50316   20    0 
+FullBot   850393462  4  3 rc  kf    -     -        50296   30    0 
+FullBot   850393490  4  2 Bk  b     -     -        50266   20   40 
+FullBot   850393520  4  1 Bcf -     -     -        50286   10    0 
+FullBot   850393556  4  4 r   b     b     -        50276   50  125 
+FullBot   850393591  4  3 r   b     -     -        50351   30   60 
+FullBot   850393610  4  2 B   -     -     -        50381   10   15 
+FullBot   850393617  4  1 Bf  -     -     -        50386    5    0 
+FullBot   850393628  4  4 f   -     -     -        50381    0    0 
+FullBot   850393647  5  3 rc  f     -     -        50381   40    0 
+FullBot   850393700  5  2 Bc  kcc   kf    -        50341   60    0 
+FullBot   850393762  5  1 Brc br    -     -        50281   70  185 As Kd
+FullBot   850393827  4  4 r   b     b     k        50396   50    0 6h Qh
+FullBot   850393882  4  4 cc  f     -     -        50346   20    0 
+FullBot   850393954  4  3 f   -     -     -        50326    0    0 
+FullBot   850393980  4  2 Bk  f     -     -        50326   10    0 
+FullBot   850394038  4  1 Bf  -     -     -        50316    5    0 
+FullBot   850394055  4  4 c   c     c     f        50311   50    0 
+FullBot   850394095  4  3 f   -     -     -        50261    0    0 
+FullBot   850394145  4  2 Bf  -     -     -        50261   10    0 
+FullBot   850394221  4  1 Bc  kf    -     -        50251   20    0 
+FullBot   850394282  4  4 f   -     -     -        50231    0    0 
+FullBot   850394300  3  2 Bc  kf    -     -        50231   20    0 
+FullBot   850394334  4  1 Bf  -     -     -        50211    5    0 
+FullBot   850394352  4  4 rr  k     k     f        50206   40    0 
+FullBot   850394432  5  3 f   -     -     -        50166    0    0 
+FullBot   850394560  5  2 Bf  -     -     -        50166   10    0 
+FullBot   850394632  5  1 Bf  -     -     -        50156    5    0 
+FullBot   850394705  5  5 rc  k     f     -        50151   40    0 
+FullBot   850394756  5  4 f   -     -     -        50111    0    0 
+FullBot   850394788  5  3 f   -     -     -        50111    0    0 
+FullBot   850394812  4  2 Bf  -     -     -        50111   10    0 
+FullBot   850394873  3  1 Bf  -     -     -        50101    5    0 
+FullBot   850394887  3  3 f   -     -     -        50096    0    0 
+FullBot   850394899  4  3 f   -     -     -        50096    0    0 
+FullBot   850394942  4  2 Bk  krrrrrrc kc    f        50096  160    0 
+FullBot   850395002  4  1 Bc  kc    kc    kf       49936   40    0 
+FullBot   850395057  4  4 f   -     -     -        49896    0    0 
+FullBot   850395081  4  3 f   -     -     -        49896    0    0 
+FullBot   850395126  4  2 Bf  -     -     -        49896   10    0 
+FullBot   850395162  5  1 Bf  -     -     -        49886    5    0 
+FullBot   850395196  5  5 cc  f     -     -        49881   20    0 
+FullBot   850395225  5  4 f   -     -     -        49861    0    0 
+FullBot   850395269  5  3 f   -     -     -        49861    0    0 
+FullBot   850395291  5  2 Bc  kf    -     -        49861   20    0 
+FullBot   850395307  5  1 Bf  -     -     -        49841    5    0 
+FullBot   850395332  5  5 f   -     -     -        49836    0    0 
+FullBot   850395379  6  5 f   -     -     -        49836    0    0 
+FullBot   850395456  6  4 f   -     -     -        49836    0    0 
+FullBot   850395484  6  3 rr  f     -     -        49836   40    0 
+FullBot   850395546  6  2 Bf  -     -     -        49796   10    0 
+FullBot   850395613  6  1 Bc  br    b     b        49786   80  150 
+FullBot   850395664  5  5 f   -     -     -        49856    0    0 
+FullBot   850395702  5  4 r   c     f     -        49856   30    0 
+FullBot   850395779  5  3 f   -     -     -        49826    0    0 
+FullBot   850395821  5  2 Bf  -     -     -        49826   10    0 
+FullBot   850395849  5  1 Bf  -     -     -        49816    5    0 
+FullBot   850395879  5  5 f   -     -     -        49811    0    0 
+FullBot   850395893  5  4 f   -     -     -        49811    0    0 
+FullBot   850395907  5  3 r   b     b     -        49811   50  110 
+FullBot   850396265  5  4 c   k     f     -        49736   10    0 
+FullBot   850396391  6  3 Q   -     -     -        49726    0    0 
+FullBot   850397083  6  5 f   -     -     -        49726    0    0 
+FullBot   850397122  6  4 rc  rr    c     k        49726  100    0 8s 6s
+FullBot   850397208  6  3 f   -     -     -        49626    0    0 
+FullBot   850397262  6  2 Bc  kf    -     -        49626   20    0 
+FullBot   850397342  6  1 Br  br    b     b        49606   90  210 Kh Kd
+FullBot   850397392  5  5 f   -     -     -        49726    0    0 
+FullBot   850397445  5  4 f   -     -     -        49726    0    0 
+FullBot   850397500  5  3 f   -     -     -        49726    0    0 
+FullBot   850397541  5  2 Bc  f     -     -        49726   20    0 
+FullBot   850397657  5  1 Bf  -     -     -        49706    5    0 
+FullBot   850397711  5  5 Q   -     -     -        49701    0    0 
+FullBot   850402214  7  7 f   -     -     -        49701    0    0 
+FullBot   850402261  7  6 c   f     -     -        49701   10    0 
+FullBot   850402334  7  5 c   f     -     -        49691   10    0 
+FullBot   850402388  7  4 c   kf    -     -        49681   10    0 
+FullBot   850402484  7  3 f   -     -     -        49671    0    0 
+FullBot   850402527  7  2 Bk  k     b     k        49671   30    0 8d Th
+FullBot   850402634  7  1 Br  b     kcQ   -        49641   50    0 
+FullBot   850748308  7  4 f   -     -     -        44576    0    0 
+FullBot   850748365  7  3 f   -     -     -        44576    0    0 
+FullBot   850748410  7  2 Bk  r     k     k        44576   30    0 8h Kh
+FullBot   850748449  7  1 Bf  -     -     -        44546    5    0 
+FullBot   850748473  7  7 c   k     f     -        44541   10    0 
+FullBot   850748534  6  5 c   k     b     b        44531   50  135 4c 8c
+FullBot   850748584  6  4 f   -     -     -        44616    0    0 
+FullBot   850748622  6  3 f   -     -     -        44616    0    0 
+FullBot   850748651  6  2 Bk  kf    -     -        44616   10    0 
+FullBot   850748702  6  1 Br  b     b     b        44606   70  160 
+FullBot   850748744  6  6 c   b     b     b        44696   60  120 
+FullBot   850748785  6  5 f   -     -     -        44756    0    0 
+FullBot   850748846  6  4 rc  k     b     k        44756   50    0 As Qs
+FullBot   850748930  5  2 Bk  b     b     bf       44706   60    0 
+FullBot   850748987  5  1 Bf  -     -     -        44646    5    0 
+FullBot   850749019  5  5 f   -     -     -        44641    0    0 
+FullBot   850749054  5  4 r   b     kc    k        44641   50    0 Js Ac
+FullBot   850749094  5  3 f   -     -     -        44591    0    0 
+FullBot   850749153  5  2 Bk  k     k     b        44591   30   55 
+FullBot   850749187  5  1 Br  b     kf    -        44616   30    0 
+FullBot   850749227  5  5 c   f     -     -        44586   10    0 
+FullBot   850749251  5  4 f   -     -     -        44576    0    0 
+FullBot   850749259  5  3 f   -     -     -        44576    0    0 
+FullBot   850749299  5  2 Bk  k     k     k        44576   10   35 6s Qh
+FullBot   850749330  5  1 Br  b     b     b        44601   70   75 9c 6c
+FullBot   850749365  5  5 f   -     -     -        44606    0    0 
+FullBot   850749423  5  4 r   k     k     rc       44606   80    0 Ts Kh
+FullBot   850749502  6  4 r   b     -     -        44526   30   65 
+FullBot   850749530  6  3 c   r     b     b        44561   70  155 2s Js
+FullBot   850749586  6  2 Bk  k     k     kf       44646   10    0 
+FullBot   850749666  6  1 Bf  -     -     -        44636    5    0 
+FullBot   850749698  6  6 f   -     -     -        44631    0    0 
+FullBot   850749725  6  5 f   -     -     -        44631    0    0 
+FullBot   850749791  5  3 f   -     -     -        44631    0    0 
+FullBot   850749826  5  2 Bk  f     -     -        44631   10    0 
+FullBot   850749877  5  1 Bcc k     bc    b        44621   80  160 9s 8c
+FullBot   850749919  5  5 r   b     c     b        44701   70  125 
+FullBot   850749956  5  4 f   -     -     -        44756    0    0 
+FullBot   850749991  5  3 f   -     -     -        44756    0    0 
+FullBot   850750013  5  2 Bk  k     k     k        44756   10    0 9h 7s
+FullBot   850750050  5  1 Bc  kf    -     -        44746   20    0 
+FullBot   850750085  6  6 f   -     -     -        44726    0    0 
+FullBot   850750107  6  5 f   -     -     -        44726    0    0 
+FullBot   850750177  7  5 cc  f     -     -        44726   20    0 
+FullBot   850750237  7  4 c   b     b     -        44706   40   65 
+FullBot   850750326  6  2 Bk  kf    -     -        44731   10    0 
+FullBot   850750349  6  1 Bf  -     -     -        44721    5    0 
+FullBot   850750427  6  6 f   -     -     -        44716    0    0 
+FullBot   850750452  6  5 f   -     -     -        44716    0    0 
+FullBot   850750475  6  4 cc  b     b     -        44716   50  125 
+FullBot   850750507  6  3 r   b     b     bf       44791   70    0 
+FullBot   850750549  6  2 Bk  k     k     f        44721   10    0 
+FullBot   850750596  6  1 Bc  kf    -     -        44711   20    0 
+FullBot   850750623  7  7 rc  f     -     -        44691   30    0 
+FullBot   850750696  9  6 f   -     -     -        44661    0    0 
+FullBot   850750743  9  5 cc  Q     -     -        44661   20    0 
+FullBot   850775846  9  5 c   f     -     -        42581   10    0 
+FullBot   850775907  9  4 r   b     k     k        42571   30    0 Td Jd
+FullBot   850775963  9  3 f   -     -     -        42541    0    0 
+FullBot   850776068 10  2 Bf  -     -     -        42541   10    0 
+FullBot   850776176 12  1 Bf  -     -     -        42531    5    0 
+FullBot   850776282 12 10 Q   -     -     -        42526    0    0 
+FullBot   850920732  6  5 c   k     kf    -        33533   10    0 
+FullBot   850920766  6  4 c   k     r     b        33523   70    0 Td Qh
+FullBot   850920843  6  3 c   k     f     -        33453   10    0 
+FullBot   850920892  6  2 Bf  -     -     -        33443   10    0 
+FullBot   850920926  6  1 Bf  -     -     -        33433    5    0 
+FullBot   850920981  6  6 r   r     c     c        33428   90    0 Ac 2c
+FullBot   850921013  6  5 c   f     -     -        33338   20    0 
+FullBot   850921047  6  4 r   f     -     -        33318   20    0 
+FullBot   850921099  6  3 f   -     -     -        33298    0    0 
+FullBot   850921135  6  2 Bc  b     b     kf       33298   50    0 
+FullBot   850921197  6  1 Bc  kf    -     -        33248   20    0 
+FullBot   850921222  6  6 f   -     -     -        33228    0    0 
+FullBot   850921263  6  5 rc  rc    c     c        33228  120    0 Kd Ah
+FullBot   850921318  6  4 r   b     -     -        33108   30   80 
+FullBot   850921334  5  2 rc  b     b     kf       33158   60    0 
+FullBot   850921373  5  2 Br  b     b     k        33098   50  150 
+FullBot   850921419  5  1 Bc  k     k     k        33198   10    0 6d Qd
+FullBot   850921458  5  5 f   -     -     -        33188    0    0 
+FullBot   850921495  4  3 f   -     -     -        33188    0    0 
+FullBot   850921502  4  2 Bk  k     k     kf       33188   10    0 
+FullBot   850921539  4  1 Bc  kc    kr    -        33178   70  150 
+FullBot   850921567  4  4 f   -     -     -        33258    0    0 
+FullBot   850921598  3  2 B   -     -     -        33258   10   15 
+FullBot   850921607  4  1 Bc  b     b     k        33263   40   80 9d 5d
+FullBot   850921646  4  4 Q   -     -     -        33303    0    0 
+FullBot   850927503  5  3 f   -     -     -        33303    0    0 
+FullBot   850927547  4  1 Bf  -     -     -        33303   10    0 
+FullBot   850927554  3  1 Bc  bc    b     b        33293   70  150 4c Qc
+FullBot   850927597  4  3 r   k     k     f        33373   20    0 
+FullBot   850927627  3  2 Bf  -     -     -        33353   10    0 
+FullBot   850927659  3  1 Bc  b     k     k        33343   20   50 3c Qc
+FullBot   850927688  3  3 r   -     -     -        33373   20   35 
+FullBot   850927697  3  2 Br  b     k     k        33388   30    0 5h 7h
+FullBot   850927727  5  1 Bf  -     -     -        33358    5    0 
+FullBot   850927758  5  5 r   b     -     -        33353   30   55 
+FullBot   850927777  5  4 f   -     -     -        33378    0    0 
+FullBot   850927787  5  3 f   -     -     -        33378    0    0 
+FullBot   850927817  5  2 Bk  k     k     k        33378   10   30 3d 7h
+FullBot   850927879  6  1 Bcc kf    -     -        33398   30    0 
+FullBot   850927934  6  6 f   -     -     -        33368    0    0 
+FullBot   850927975  7  5 f   -     -     -        33368    0    0 
+FullBot   850928027  6  4 fQ  -     -     -        33368    0    0 
+FullBot   850975571 12 10 f   -     Q     -        29325    0    0 
+FullBot   851012406  7  4 c   cf    -     -        31337   20    0 
+FullBot   851012472  6  2 Bk  k     k     k        31317   10   25 4s Ad
+FullBot   851012552  6  1 Bf  -     -     -        31332    5    0 
+FullBot   851012589  6  6 f   -     -     -        31327    0    0 
+FullBot   851012608  6  5 rc  k     k     f        31327   30    0 
+FullBot   851012682  6  4 f   -     -     -        31297    0    0 
+FullBot   851012729  7  3 f   -     -     -        31297    0    0 
+FullBot   851012755  7  2 Bf  -     -     -        31297   10    0 
+FullBot   851012823  8  1 Bf  -     -     -        31287    5    0 
+FullBot   851012860  7  7 f   -     -     -        31282    0    0 
+FullBot   851012903  7  6 rr  b     k     k        31282   50    0 Ad Ks
+FullBot   851013005  5  4 fQ  -     -     -        31232    0    0 
+FullBot   851084909  4  2 Bf  -     -     -        25367   10    0 
+FullBot   851084930  4  1 Bc  kf    -     -        25357   20    0 
+FullBot   851084983  4  4 f   -     -     -        25337    0    0 
+FullBot   851084994  4  3 cc  kc    k     k        25337   30   95 Jc Ad
+FullBot   851085078  4  2 Bc  bc    br    b        25402  120  320 9s Ts
+FullBot   851085158  4  1 Bf  -     -     -        25602    5    0 
+FullBot   851085185  4  4 f   -     -     -        25597    0    0 
+FullBot   851085203  4  3 r   k     Q     -        25597   20    0 
+FullBot   851347067  5  2 Bf  -     -     -        18849   10    0 
+FullBot   851347115  5  1 Bc  k     k     k        18839   10   40 6h 7c
+FullBot   851347166  4  4 f   -     -     -        18869    0    0 
+FullBot   851347187  4  3 f   -     -     -        18869    0    0 
+FullBot   851347207  4  2 Br  b     -     -        18869   30   55 
+FullBot   851347246  4  1 Br  b     -     -        18894   30   70 
+FullBot   851347271  3  3 f   -     -     -        18934    0    0 
+FullBot   851347298  3  2 Bk  b     -     -        18934   20   35 
+FullBot   851347339  2  1 Br  -     -     -        18949   20   30 
+FullBot   851347345  2  2 B   -     -     -        18959   10   15 
+FullBot   851348622  2  2 BQ  -     -     -        18964   10    0 
+FullBot   851356791  4  1 Bf  -     -     -        18954   10    0 
+FullBot   851356844  5  1 Bc  kf    -     -        18944   20    0 
+FullBot   851356905  6  5 r   b     b     kf       18924   50    0 
+FullBot   851356973  5  3 f   -     -     -        18874    0    0 
+FullBot   851357034  5  2 Bk  kf    -     -        18874   10    0 
+FullBot   851357124  5  1 Bf  -     -     -        18864    5    0 
+FullBot   851357181  5  5 c   c     c     f        18859   50    0 
+FullBot   851357259  5  4 r   b     -     -        18809   30   70 
+FullBot   851357297  4  3 f   -     -     -        18849    0    0 
+FullBot   851357310  4  3 r   -     -     -        18849   20   35 
+FullBot   851357322  4  2 Bk  k     b     -        18864   30   50 
+FullBot   851357375  4  1 Bf  -     -     -        18884    5    0 
+FullBot   851357424  6  6 cc  r     r     b        18879  100    0 Ad Th
+FullBot   851357525  8  5 cc  k     k     k        18779   20   75 6d 6h
+FullBot   851357699  7  4 f   -     -     -        18834    0    0 
+FullBot   851357755  7  3 c   c     k     c        18834   40  130 9d 8d
+FullBot   851357867  8  2 Bf  -     -     -        18924   10    0 
+FullBot   851357919  8  1 Bf  -     -     -        18914    5    0 
+FullBot   851357989  8  8 c   k     k     k        18909   10    0 Td Kd
+FullBot   851358063  9  8 f   -     -     -        18899    0    0 
+FullBot   851358133  9  7 c   b     b     k        18899   40  155 Ad Th
+FullBot   851358241  9  6 f   -     -     -        19014    0    0 
+FullBot   851358359  9  5 f   -     -     -        19014    0    0 
+FullBot   851358429  9  4 f   -     -     -        19014    0    0 
+FullBot   851358495  9  3 c   b     b     kf       19014   40    0 
+FullBot   851358633 10  2 Bk  kc    kf    -        18974   20    0 
+FullBot   851358719 10  1 Bc  kr    b     b        18954   70  210 
+FullBot   851358844 10 10 f   -     -     -        19094    0    0 
+FullBot   851358899  9  8 f   -     -     -        19094    0    0 
+FullBot   851358967  9  7 f   -     -     -        19094    0    0 
+FullBot   851359027 11  7 f   -     -     -        19094    0    0 
+FullBot   851359073 11  6 rc  kQ    -     -        19094   30    0 
+FullBot   851369150  2  2 BQ  -     -     -        19064   10    0 
+FullBot   851618575  8  4 c   b     b     k        23045   40  120 2h 2s
+FullBot   851618643  8  3 f   -     -     -        23125    0    0 
+FullBot   851618705  8  2 Bc  kf    -     -        23125   20    0 
+FullBot   851618788  8  1 Bc  kf    -     -        23105   20    0 
+FullBot   851618846  8  8 f   -     -     -        23085    0    0 
+FullBot   851618905  8  7 f   -     -     -        23085    0    0 
+FullBot   851618949  7  5 f   -     -     -        23085    0    0 
+FullBot   851618984  7  4 f   -     -     -        23085    0    0 
+FullBot   851619101  6  3 r   b     -     -        23085   30   60 
+FullBot   851619126  6  2 Bk  k     f     -        23115   10    0 
+FullBot   851619165  7  1 Bf  -     -     -        23105    5    0 
+FullBot   851619225  7  7 f   -     -     -        23100    0    0 
+FullBot   851619285  8  8 r   r     b     k        23100   70    0 9h Th
+FullBot   851619380  8  7 f   -     -     -        23030    0    0 
+FullBot   851619434  9  6 Q   -     -     -        23030    0    0 
+FullBot   851692611  7  2 Bf  -     -     -        26541   10    0 
+FullBot   851692649  7  1 Bf  -     -     -        26531    5    0 
+FullBot   851692712  6  6 r   Q     -     -        26526   20    0 
+FullBot   851790299  9  5 f   -     -     -        26956    0    0 
+FullBot   851790372  8  5 cc  kc    kf    -        26956   30    0 
+FullBot   851790414  4  2 BQ  -     -     -        26926   10    0 
+FullBot   851846833  7  4 f   -     -     -        30436    0    0 
+FullBot   851846891  6  3 f   -     -     -        30436    0    0 
+FullBot   851846926  6  2 Bf  -     -     -        30436   10    0 
+FullBot   851846976  5  1 Bf  -     -     -        30426    5    0 
+FullBot   851847006  5  5 f   -     -     -        30421    0    0 
+FullBot   851847033  5  5 f   -     -     -        30421    0    0 
+FullBot   851847058  4  3 f   -     -     -        30421    0    0 
+FullBot   851847075  4  2 Bk  kf    -     -        30421   10    0 
+FullBot   851847106  4  1 Brr b     br    b        30411  130    0 Ks Kc
+FullBot   851847152  4  4 f   -     -     -        30281    0    0 
+FullBot   851847170  4  3 c   r     b     bc       30281   90  120 Ks Qh
+FullBot   851847241  5  2 BQ  -     -     -        30311   10    0 
+FullBot   851873316 10  3 f   -     -     -        30301    0    0 
+FullBot   851873407  9  2 Bk  kf    -     -        30301   10    0 
+FullBot   851873531  9  1 Bc  k     kf    -        30291   10    0 
+FullBot   851873619  9  9 cc  f     -     -        30281   20    0 
+FullBot   851873686  9  8 f   -     -     -        30261    0    0 
+FullBot   851873738  9  7 c   c     c     c        30261   70    0 Ts Kc
+FullBot   851873841 11  7 f   -     -     -        30191    0    0 
+FullBot   851873903 11  6 c   c     f     -        30191   30    0 
+FullBot   851873979 11  5 c   f     -     -        30161   20    0 
+FullBot   851874071  9  4 f   -     -     -        30141    0    0 
+FullBot   851874119  9  3 f   -     -     -        30141    0    0 
+FullBot   851874185  9  2 Bk  kf    -     -        30141   10    0 
+FullBot   851874278  8  1 Bf  -     -     -        30131    5    0 
+FullBot   851874331  9  9 f   -     -     -        30126    0    0 
+FullBot   851874399  9  8 r   b     b     bc       30126   90    0 Ah Ks
+FullBot   851874557 10  8 f   -     -     -        30036    0    0 
+FullBot   851874613 10  7 f   -     -     -        30036    0    0 
+FullBot   851874705 10  6 f   -     -     -        30036    0    0 
+FullBot   851874757 10  5 c   b     b     rc       30036  110  270 Kd Qs
+FullBot   851874872 10  4 f   -     -     -        30196    0    0 
+FullBot   851874990  6  4 f   -     -     -        30196    0    0 
+FullBot   851875058  4  2 Bk  k     b     -        30196   30   45 
+FullBot   851875114  4  1 BQ  -     -     -        30211    5    0 
+FullBot   851951749  4  3 f   -     -     -        17517    0    0 
+FullBot   851951769  4  2 Bk  kc    k     b        17517   40   80 
+FullBot   851951798  4  1 Br  b     b     kcf      17557   70    0 
+FullBot   851951834  4  4 f   -     -     -        17487    0    0 
+FullBot   851951870  4  3 r   b     -     -        17487   30   55 
+FullBot   851951881  4  2 Br  b     k     k        17512   30   65 Ad Js
+FullBot   851951913  4  1 Br  b     b     -        17547   50   80 
+FullBot   851951943  4  4 r   b     b     b        17577   70  215 Js Jh
+FullBot   851951977  4  3 rc  kc    kf    -        17722   40    0 
+FullBot   851952037  4  2 Br  b     k     b        17682   50  100 Kh Ah
+FullBot   851952071  4  1 Bf  -     -     -        17732    5    0 
+FullBot   851952086  4  4 f   -     -     -        17727    0    0 
+FullBot   851952116  4  3 r   b     -     -        17727   30   65 
+FullBot   851952152  4  2 Br  b     b     k        17762   50  100 7h 7s
+FullBot   851952178  4  1 Bc  kc    kc    b        17812   70  160 4h Th
+FullBot   851952232  4  4 r   -     -     -        17902   20   35 
+FullBot   851952241  4  3 f   -     -     -        17917    0    0 
+FullBot   851952247  4  2 Br  b     k     k        17917   30   60 9h Ah
+FullBot   851952280  4  1 Bf  -     -     -        17947    5    0 
+FullBot   851952295  4  4 r   r     k     r        17942   80  185 7d 9d
+FullBot   851952342  4  3 f   -     -     -        18047    0    0 
+FullBot   851952360  4  2 Br  b     kf    -        18047   40    0 
+FullBot   851952396  4  1 Bc  k     k     k        18007   10    0 8h Kd
+FullBot   851952450  4  4 rr  b     b     b        17997   90  260 Ah 8h
+FullBot   851952503  4  3 f   -     -     -        18167    0    0 
+FullBot   851952512  5  2 Br  b     -     -        18167   30   55 
+FullBot   851952557  5  1 Br  bc    kc    kc       18192   80  160 9c Kc
+FullBot   851952594  6  5 f   -     -     -        18272    0    0 
+FullBot   851952617  6  4 f   -     -     -        18272    0    0 
+FullBot   851952645  6  3 r   b     b     b        18272   70  175 As Ah
+FullBot   851952687  6  2 Br  kc    kc    k        18377   50    0 8h 8c
+FullBot   851952759  5  1 Bf  -     -     -        18327    5    0 
+FullBot   851952788  5  5 f   -     -     -        18322    0    0 
+FullBot   851952815  5  3 f   -     -     -        18322    0    0 
+FullBot   851952865  6  3 f   -     -     -        18322    0    0 
+FullBot   851952897  6  2 Bf  -     -     -        18322   10    0 
+FullBot   851952944  6  1 Brc b     bcf   -        18312  110    0 
+FullBot   851953026  6  6 f   -     -     -        18202    0    0 
+FullBot   851953067  6  5 f   -     -     -        18202    0    0 
+FullBot   851953092  6  4 r   b     bc    c        18202   90    0 Th Qh
+FullBot   851953141  5  2 f   -     -     -        18112    0    0 
+FullBot   851953174  5  2 Br  bc    kc    kf       18112   80    0 
+FullBot   851953226  5  1 Bf  -     -     -        18032    5    0 
+FullBot   851953252  5  5 r   r     b     k        18027   60  130 Kd Js
+FullBot   851953291  5  4 r   b     b     kf       18097   50    0 
+FullBot   851953347  5  3 f   -     -     -        18047    0    0 
+FullBot   851953378  5  2 Bk  f     -     -        18047   10    0 
+FullBot   851953408  5  1 Bf  -     -     -        18037    5    0 
+FullBot   851953446  5  5 f   -     -     -        18032    0    0 
+FullBot   851953475  6  5 f   -     -     -        18032    0    0 
+FullBot   851953526  6  4 r   b     bc    kc       18032   90    0 Ad Jc
+FullBot   851953568  6  3 f   -     -     -        17942    0    0 
+FullBot   851953601  6  2 Bk  k     kc    b        17942   50   95 
+FullBot   851953651  6  1 Bc  kc    kc    b        17987   60    0 Qd Th
+FullBot   851953743  5  5 r   b     k     b        17927   60  115 
+FullBot   851953789  5  4 f   -     -     -        17982    0    0 
+FullBot   851953820  5  3 f   -     -     -        17982    0    0 
+FullBot   851953863  6  3 r   b     b     b        17982   70    0 8d 6d
+FullBot   851953927  6  2 Bk  k     kf    -        17912   10    0 
+FullBot   851953967  6  1 Bf  -     -     -        17902    5    0 
+FullBot   851953991  5  5 f   -     -     -        17897    0    0 
+FullBot   851954012  5  4 f   -     -     -        17897    0    0 
+FullBot   851954050  5  3 f   -     -     -        17897    0    0 
+FullBot   851954063  5  2 Bc  kf    -     -        17897   20    0 
+FullBot   851954112  5  1 Bf  -     -     -        17877    5    0 
+FullBot   851954139  5  5 f   -     -     -        17872    0    0 
+FullBot   851954172  5  4 f   -     -     -        17872    0    0 
+FullBot   851954203  5  3 f   -     -     -        17872    0    0 
+FullBot   851954234  6  2 Bk  k     k     kf       17872   10    0 
+FullBot   851954279  6  1 Bf  -     -     -        17862    5    0 
+FullBot   851954331  6  6 f   -     -     -        17857    0    0 
+FullBot   851954362  6  5 f   -     -     -        17857    0    0 
+FullBot   851954387  5  3 f   -     -     -        17857    0    0 
+FullBot   851954409  5  2 Bc  kc    kf    -        17857   30    0 
+FullBot   851954470  5  1 Bf  -     -     -        17827    5    0 
+FullBot   851954497  5  5 f   -     -     -        17822    0    0 
+FullBot   851954524  5  4 r   r     b     k        17822   60  180 9h Ad
+FullBot   851954587  5  3 f   -     -     -        17942    0    0 
+FullBot   851954633  4  2 Bf  -     -     -        17942   10    0 
+FullBot   851954654  4  1 Bf  -     -     -        17932    5    0 
+FullBot   851954677  3  3 c   k     rc    rc       17927  130  135 5s 4s
+FullBot   851954717  2  1 Bf  -     -     -        17932   10    0 
+FullBot   851954727  2  1 BQ  -     -     -        17922    5    0 
+FullBot   851957640  3  2 Bf  -     -     -        17917   10    0 
+FullBot   851957665  3  1 Br  b     -     -        17907   30   60 
+FullBot   851957701  3  3 f   -     -     -        17937    0    0 
+FullBot   851957738  3  2 Bk  k     k     k        17937   10    0 Ad 9s
+FullBot   851957794  3  1 Bf  -     -     -        17927    5    0 
+FullBot   851957821  3  3 f   -     -     -        17922    0    0 
+FullBot   851957832  3  2 Br  k     k     b        17922   40   80 9c Ad
+FullBot   851957870  3  1 Br  b     -     -        17962   30   50 
+FullBot   851957905  3  3 r   b     k     f        17982   30    0 
+FullBot   851957945  3  2 Bk  kc    krr   b        17952  120  245 5s 5c
+FullBot   851958000  3  1 Bf  -     -     -        18077    5    0 
+FullBot   851958035  3  3 rr  r     b     b        18072  100  210 Ac Ad
+FullBot   851958073  3  2 Bk  k     k     b        18182   30   45 
+FullBot   851958123  3  1 Bf  -     -     -        18197    5    0 
+FullBot   851958153  3  3 r   r     b     b        18192   80    0 Jc 8s
+FullBot   851958226  3  2 Br  b     -     -        18112   30   55 
+FullBot   851958272  4  1 Bf  -     -     -        18137    5    0 
+FullBot   851958335  4  4 f   -     -     -        18132    0    0 
+FullBot   851958346  4  3 r   r     b     k        18132   60    0 Tc Ts
+FullBot   851958399  5  2 Bk  c     b     rc       18072  100    0 3d Td
+FullBot   851958463  5  1 Bc  br    bc    kc       17972  110    0 Qc Ks
+FullBot   851958558  5  5 f   -     -     -        17862    0    0 
+FullBot   851958615  6  5 f   -     -     -        17862    0    0 
+FullBot   851958670  6  4 f   -     -     -        17862    0    0 
+FullBot   851958729  6  3 r   k     b     b        17862   60  180 Ad Kd
+FullBot   851958806  6  2 Bk  k     k     k        17982   10    0 Td 7c
+FullBot   851958854  6  1 Bf  -     -     -        17972    5    0 
+FullBot   851958911  6  6 c   b     b     k        17967   40    0 3s 3h
+FullBot   851958986  6  5 c   f     -     -        17927   10    0 
+FullBot   851959014  6  4 r   r     r     b        17917  100  225 Ac Td
+FullBot   851959059  7  3 f   -     -     -        18042    0    0 
+FullBot   851959116  7  2 Bk  k     kf    -        18042   10    0 
+FullBot   851959183  7  1 Bf  -     -     -        18032    5    0 
+FullBot   851959248  7  7 f   -     -     -        18027    0    0 
+FullBot   851959335  8  7 f   -     -     -        18027    0    0 
+FullBot   851959400  8  6 f   -     -     -        18027    0    0 
+FullBot   851959516  8  5 f   -     -     -        18027    0    0 
+FullBot   851959587  8  4 c   c     k     f        18027   30    0 
+FullBot   851959660  8  3 rc  c     b     bc       17997  100  350 Kh 7h
+FullBot   851959752  8  2 Bc  f     -     -        18247   20    0 
+FullBot   851959834  8  1 Bc  k     kf    -        18227   10    0 
+FullBot   851959917  8  8 c   bc    cc    c        18217  110    0 4c Kc
+FullBot   851960019  8  7 c   c     f     -        18107   20    0 
+FullBot   851960127  6  5 f   -     -     -        18087    0    0 
+FullBot   851960175  6  4 f   -     -     -        18087    0    0 
+FullBot   851960216  6  3 r   k     b     k        18087   40  150 Ac Jh
+FullBot   851960290  6  2 Bk  r     b     b        18197   70  230 8c 5d
+FullBot   851960386  4  1 Bf  -     -     -        18357    5    0 
+FullBot   851960391  2  2 BQ  -     -     -        18352   10    0 
+FullBot   852026060  4  3 f   -     -     -        17312    0    0 
+FullBot   852026077  4  2 Br  bf    -     -        17312   40    0 
+FullBot   852026103  4  1 Bf  -     -     -        17272    5    0 
+FullBot   852026137  4  4 f   -     -     -        17267    0    0 
+FullBot   852026157  4  3 f   -     -     -        17267    0    0 
+FullBot   852026184  4  2 Bf  -     -     -        17267   10    0 
+FullBot   852026248  4  1 Bc  b     b     -        17257   40   70 
+FullBot   852026279  4  4 rc  c     c     f        17287   60    0 
+FullBot   852026305  4  3 f   -     -     -        17227    0    0 
+FullBot   852026349  4  2 Bk  b     kf    -        17227   20    0 
+FullBot   852026416  4  1 Bf  Q     -     -        17207    5    0 

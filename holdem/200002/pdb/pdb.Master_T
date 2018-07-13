@@ -1,0 +1,679 @@
+Master_T  950476476 10 10 cc  c     f     -         1000   30    0 
+Master_T  950476535 10  9 f   -     -     -          970    0    0 
+Master_T  950476570  9  7 cc  rr    b     b          970  100    0 2d 4d
+Master_T  950476674  7  6 c   f     -     -          870   10    0 
+Master_T  950476751  7  5 r   k     cc    b          860   80    0 7d 7s
+Master_T  950476850  7  4 f   -     -     -          780    0    0 
+Master_T  950476896  7  3 f   -     -     -          780    0    0 
+Master_T  950476996  7  2 Bk  k     k     b          780   30    0 As 7d
+Master_T  950477078  7  1 Bf  -     -     -          750    5    0 
+Master_T  950477107  7  7 f   -     -     -          745    0    0 
+Master_T  950477180  7  6 c   c     c     c          745   60  140 Kc Qd
+Master_T  950477253  7  6 f   -     -     -          825    0    0 
+Master_T  950477303  6  5 f   -     -     -          825    0    0 
+Master_T  950477342  6  4 cc  rc    f     -          825   50    0 
+Master_T  950477433  6  3 c   kc    bc    b          775   80    0 4c 3s
+Master_T  950477515  6  2 Bk  k     b     b          695   50    0 Kc 3h
+Master_T  950477573  6  1 Bcc kc    kf    -          645   60    0 
+Master_T  950477667  7  6 cc  kc    bc    br         585  130    0 3h 5h
+Master_T  950477777  6  4 cc  b     b     b          455   70  205 6h Qh
+Master_T  950477860  7  4 f   -     -     -          590    0    0 
+Master_T  950477913  7  3 r   kc    b     k          590   50    0 Tc 2c
+Master_T  950478016  7  2 Bf  -     -     -          540   10    0 
+Master_T  950478096  6  1 Bc  kf    -     -          530   20    0 
+Master_T  950478164  6  6 f   -     -     -          510    0    0 
+Master_T  950478205  7  5 f   -     -     -          510    0    0 
+Master_T  950478255  6  3 f   -     -     -          510    0    0 
+Master_T  950478332  6  3 cf  -     -     -          510   10    0 
+Master_T  950478374  6  2 Bf  -     -     -          500   10    0 
+Master_T  950478422  6  1 Bcc k     bc    bf         490   80    0 
+Master_T  950478470  6  6 f   -     -     -          410    0    0 
+Master_T  950478496  6  5 r   b     b     bc         410   90    0 Jh 7h
+Master_T  950478553  6  4 f   -     -     -          320    0    0 
+Master_T  950478592  6  3 cc  kc    kc    kc         320   70    0 6d 5s
+Master_T  950478648  7  2 Bc  b     b     -          250   50  130 
+Master_T  950478692  8  1 Bcf -     -     -          330   10    0 
+Master_T  950478740  9  9 f   -     -     -          320    0    0 
+Master_T  950478832  9  8 cc  c     cf    -          320   60    0 
+Master_T  950478930  9  7 c   b     b     b          260   70  215 5c 3h
+Master_T  950478990  8  6 cf  -     -     -          405   20    0 
+Master_T  950479068  8  5 cc  k     kf    -          385   20    0 
+Master_T  950479119  8  4 f   -     -     -          365    0    0 
+Master_T  950479164  8  3 f   -     -     -          365    0    0 
+Master_T  950479217  9  2 Bc  bcc   kc    kcc        365  110    0 6h 8d
+Master_T  950479345  9  1 Brr kc    kc    kc         255  110  310 8d 8s
+Master_T  950479418 10 10 f   -     -     -          455    0    0 
+Master_T  950479488 10  9 cc  b     k     f          455   30    0 
+Master_T  950479642  9  8 cc  kc    c     r          425   90    0 Ad Kc
+Master_T  950479734  9  6 cc  kc    kc    kf         335   50    0 
+Master_T  950479849  8  5 cc  kc    kf    -          285   30    0 
+Master_T  950479945 10  5 cc  ccc   kf    -          255   80    0 
+Master_T  950480086 10  4 cc  kc    k     b          175   50    0 4h 6h
+Master_T  950480144 10  3 f   -     -     -          125    0    0 
+Master_T  950480185 10  2 Bc  kf    -     -          125   20    0 
+Master_T  950480239  9  1 Bcc k     k     k          105   20    0 5h Ah
+Master_T  950480307 10 10 f   -     -     -           85    0    0 
+Master_T  950480428 10  9 f   -     -     -           85    0    0 
+Master_T  950480499 10  8 cc  k     bc    k           85   60   83 2s Ad
+Master_T  950480555 10  7 cc  kc    b     b          108   90  335 Qd Ac
+Master_T  950480638 10  6 f   -     -     -          353    0    0 
+Master_T  950480755 10  5 f   -     -     -          353    0    0 
+Master_T  950480783 10  4 f   -     -     -          353    0    0 
+Master_T  950480839 10  3 f   -     -     -          353    0    0 
+Master_T  950480881 10  2 Bc  k     k     k          353   20    0 3d 5d
+Master_T  950480957 10  1 Bcc kc    kc    k          333   50    0 Ks Qc
+Master_T  950481047 10 10 cc  k     c     c          283   70    0 8d 9d
+Master_T  950481116 10  9 r   b     b     b          213   70    0 3s 3d
+Master_T  950481224 10  8 c   k     k     b          143   30   90 Ac 3s
+Master_T  950481297  9  7 f   -     -     -          203    0    0 
+Master_T  950481310 10  6 f   -     -     -          203    0    0 
+Master_T  950481368 10  5 c   kc    kf    -          203   20    0 
+Master_T  950481458 10  4 c   kc    kc    b          183   60    0 Ad Kh
+Master_T  950481564 10  3 f   -     -     -          123    0    0 
+Master_T  950481618 10  2 Bk  kc    b     b          123   60  140 
+Master_T  950481702 10  1 Bf  -     -     -          203    5    0 
+Master_T  950481772 10 10 c   c     c     r          198  130    0 Ts Jd
+Master_T  950481867 10  9 f   -     -     -           68    0    0 
+Master_T  950481985 10  8 f   -     -     -           68    0    0 
+Master_T  950482019  9  6 c   k     k     kf          68   10    0 
+Master_T  950482083 10  5 f   -     -     -           58    0    0 
+Master_T  950482130 10  4 cc  k     k     f           58   20    0 
+Master_T  950482209 10  3 cc  cA    -     -           38   38    0 Ts Kc
+Master_T  950482541 10  3 f   -     -     -         1000    0    0 
+Master_T  950482621  9  2 B   -     -     -         1000   10   15 
+Master_T  950482634  9  1 Bc  kc    kc    br        1005  100    0 4s Ac
+Master_T  950482728  9  9 f   -     -     -          905    0    0 
+Master_T  950482774  9  8 cc  cf    -     -          905   30    0 
+Master_T  950482825  8  6 f   -     -     -          875    0    0 
+Master_T  950482869  8  5 rc  r     c     rc         875  160    0 Jd Jh
+Master_T  950482958  8  4 c   c     f     -          715   20    0 
+Master_T  950483024  8  3 f   -     -     -          695    0    0 
+Master_T  950483113  9  2 Bc  kc    kc    kf         695   50    0 
+Master_T  950483200 10  1 Bc  k     bc    b          645   80  170 Qs Jc
+Master_T  950483255 10 10 f   -     -     -          735    0    0 
+Master_T  950483300  9  8 c   k     k     b          735   30   85 8c 6s
+Master_T  950483361 10  8 c   c     fQ    -          790   30    0 
+Master_T  950555997 10  8 c   c     k     f          760   20    0 
+Master_T  950556038 10  7 f   -     -     -          740    0    0 
+Master_T  950556134 10  6 f   -     -     -          740    0    0 
+Master_T  950556193 10  5 f   -     -     -          740    0    0 
+Master_T  950556244 10  4 c   k     k     b          740   30   70 
+Master_T  950556325 10  3 f   -     -     -          780    0    0 
+Master_T  950556361 10  2 Bc  b     brc   b          780  130  325 Qd 6h
+Master_T  950556414  9  1 Bc  kf    -     -          975   10    0 
+Master_T  950556516  9  9 c   c     k     f          965   20    0 
+Master_T  950556563  9  9 f   -     -     -          945    0    0 
+Master_T  950556623 10  8 r   c     c     c          945   70    0 6s 6c
+Master_T  950556670 10  7 f   -     -     -          875    0    0 
+Master_T  950556721 10  6 f   -     -     -          875    0    0 
+Master_T  950556771 10  5 cc  k     kc    kf         875   40    0 
+Master_T  950556861 10  4 c   cc    c     rr         835  140    0 Jd Qd
+Master_T  950556967  8  3 cc  kc    kc    b          695   70    0 9d Jd
+Master_T  950557076  8  2 Bk  kc    k     b          625   50  145 
+Master_T  950557132  8  1 Bc  kf    -     -          720   10    0 
+Master_T  950557176  8  8 f   -     -     -          710    0    0 
+Master_T  950557220  8  7 f   -     -     -          710    0    0 
+Master_T  950557302  8  6 c   c     f     -          710   20    0 
+Master_T  950557359  8  5 c   c     c     c          690   60  190 Th 4h
+Master_T  950557427 10  4 cc  bc    kcc   kc         820  100    0 6s Ah
+Master_T  950557521 10  3 c   c     f     -          720   20    0 
+Master_T  950557625 10  2 Bf  -     -     -          700   10    0 
+Master_T  950557734 10  1 Bc  k     k     k          690   10    0 5c 4d
+Master_T  950557829 10 10 c   c     k     k          680   20  120 Td Kc
+Master_T  950557894 10  9 f   -     -     -          780    0    0 
+Master_T  950557938 10  8 f   -     -     -          780    0    0 
+Master_T  950557999 10  7 c   c     f     -          780   20    0 
+Master_T  950558068 10  6 f   -     -     -          760    0    0 
+Master_T  950558175 10  5 c   kc    kc    f          760   40    0 
+Master_T  950558295 10  4 f   -     -     -          720    0    0 
+Master_T  950558377 10  3 cc  cc    kf    -          720   50    0 
+Master_T  950558488 10  2 Bk  kc    k     k          670   20    0 Ac 6h
+Master_T  950558615 10  1 Bc  k     kf    -          650   10    0 
+Master_T  950558685 10 10 f   -     -     -          640    0    0 
+Master_T  950558754 10  9 cc  c     c     k          640   50    0 Ks Kc
+Master_T  950558859 10  8 f   -     -     -          590    0    0 
+Master_T  950558929 10  7 f   -     -     Q          590    0    0 
+Master_T  950560978 10  6 f   -     -     -          590    0    0 
+Master_T  950561026 10  5 f   -     -     -          590    0    0 
+Master_T  950561094 10  4 f   -     -     -          590    0    0 
+Master_T  950561197  9  3 f   -     -     -          590    0    0 
+Master_T  950561274 10  2 Bk  kc    kf    -          590   20    0 
+Master_T  950561350  8  1 Bc  kc    k     kc         570   40  120 Ks 3c
+Master_T  950561429  8  8 f   -     -     -          650    0    0 
+Master_T  950561534  8  6 c   k     f     -          650   10    0 
+Master_T  950561592  9  6 c   c     c     cc         640   80    0 8d 9s
+Master_T  950561689  9  5 f   -     -     -          560    0    0 
+Master_T  950561788 10  4 f   -     -     -          560    0    0 
+Master_T  950561923  9  4 c   kc    kf    -          560   20    0 
+Master_T  950562028  8  2 Bc  f     -     -          540   20    0 
+Master_T  950562153  8  1 Bf  -     -     -          520    5    0 
+Master_T  950562217 10 10 c   c     f     -          515   20    0 
+Master_T  950562271 10  9 f   -     -     -          495    0    0 
+Master_T  950562340 10  8 c   kc    kc    k          495   50  285 Ts Ks
+Master_T  950562428 10  7 cc  kc    b     k          730   50    0 Tc Jh
+Master_T  950562537 10  7 c   k     c     c          680   50    0 Kd Tc
+Master_T  950562690  8  5 f   -     -     -          630    0    0 
+Master_T  950562826 10  5 c   k     kf    -          630   10    0 
+Master_T  950562925  9  3 cc  kc    kc    k          620   50    0 Td 5d
+Master_T  950563012  8  2 Bc  kf    -     -          570   20    0 
+Master_T  950563109  8  1 Bc  kc    kc    kc         550   60    0 2h Kh
+Master_T  950563184  8  8 f   -     -     -          490    0    0 
+Master_T  950563265  8  7 f   -     -     -          490    0    0 
+Master_T  950563333  9  6 c   k     k     b          490   30   75 
+Master_T  950563467  8  4 c   c     c     k          535   60  270 3s Ac
+Master_T  950563530  7  3 cc  kc    kc    kf         745   50    0 
+Master_T  950563594  7  2 Bk  kc    kc    kc         695   60  200 9h 3h
+Master_T  950563663  5  1 Bc  k     k     k          835   10    0 7c 9s
+Master_T  950563706  5  5 c   c     c     c          825   80    0 6h Ks
+Master_T  950563757  4  4 c   k     r     b          745   70  160 4s 5s
+Master_T  950563802  3  2 Bk  bc    kc    kc         835   70   85 5d Ac
+Master_T  950563852  4  1 Bc  kc    b     b          850   60  180 8h 4s
+Master_T  950563903  4  4 f   -     -     -          970    0    0 
+Master_T  950563927  4  3 c   kc    kf    -          970   20    0 
+Master_T  950563973  3  2 Bc  kc    cf    -          950   50    0 
+Master_T  950564014  5  1 Bcf -     -     -          900   10    0 
+Master_T  950564124  5  5 cc  c     f     -          890   30    0 
+Master_T  950564187  5  5 f   -     -     -          860    0    0 
+Master_T  950564225  7  5 f   -     -     -          860    0    0 
+Master_T  950564297  8  5 f   -     -     -          860    0    0 
+Master_T  950564397  8  4 f   -     -     -          860    0    0 
+Master_T  950564465  8  3 f   -     -     -          860    0    0 
+Master_T  950564556  9  2 Bc  kf    -     -          860   20    0 
+Master_T  950564669  9  1 Bf  -     -     -          840    5    0 
+Master_T  950564830 10 10 c   c     c     f          835   40    0 
+Master_T  950564921 10  9 cc  cc    c     f          795  100    0 
+Master_T  950565035 10  8 f   -     -     -          695    0    0 
+Master_T  950565110 10  7 f   -     -     -          695    0    0 
+Master_T  950565227 10  6 cc  kc    kc    b          695   70  230 
+Master_T  950565401 10  5 f   -     -     -          855    0    0 
+Master_T  950565553 10  4 c   ccc   k     k          855   50    0 3d 5d
+Master_T  950565685 10  3 f   -     -     -          805    0    0 
+Master_T  950565768 10  2 Br  r     bc    kc         805  100    0 Kc Qc
+Master_T  950565944 10  1 Bf  -     -     -          705    5    0 
+Master_T  950566008 10 10 f   -     -     -          700    0    0 
+Master_T  950566132 10  9 c   k     b     b          700   60  195 Ad 8s
+Master_T  950566224 10  8 cc  c     c     f          835   60    0 
+Master_T  950566379 10  7 cc  c     r     k          775   70    0 4d Kd
+Master_T  950566528 10  6 f   -     -     -          705    0    0 
+Master_T  950566627 10  5 c   kc    kc    kc         705   60    0 9s Th
+Master_T  950566821 10  4 c   kc    k     kf         645   20    0 
+Master_T  950566941  9  3 f   -     Q     -          625    0    0 
+Master_T  950568403  5  5 f   -     -     -          625    0    0 
+Master_T  950568442  5  4 c   k     b     b          625   50    0 7s 2s
+Master_T  950568496  5  3 c   kf    -     -          575   10    0 
+Master_T  950568550  5  2 Bf  -     -     -          565   10    0 
+Master_T  950568570  4  1 Bc  b     -     -          555   20   40 
+Master_T  950568590  4  4 r   k     k     f          575   20    0 
+Master_T  950568634  4  3 f   -     -     -          555    0    0 
+Master_T  950568654  4  2 Bk  kf    -     -          555   10    0 
+Master_T  950568708  4  1 Bcc kc    b     bf         545   90    0 
+Master_T  950568778  4  4 f   -     -     -          455    0    0 
+Master_T  950568807  4  4 f   -     -     -          455    0    0 
+Master_T  950568833  3  2 Bk  b     k     f          455   20    0 
+Master_T  950568874  2  1 B   -     -     -          435    5   15 
+Master_T  950648382 10  6 cc  cc    kf    -          445   40    0 
+Master_T  950648520 10  5 cc  cc    b     r          405  110  420 5c Kd
+Master_T  950648643 10  4 f   -     -     -          715    0    0 
+Master_T  950648736 10  3 f   -     -     -          715    0    0 
+Master_T  950648834 10  2 Bc  k     kf    -          715   30    0 
+Master_T  950648952  9  1 Bf  -     -     -          685    5    0 
+Master_T  950649085  9  9 c   r     c     c          680   70  325 Js 9s
+Master_T  950649207  9  8 f   -     -     -          935    0    0 
+Master_T  950649265 10  7 cc  c     c     cc         935   90    0 8c Tc
+Master_T  950649350 10  6 c   kf    -     -          845   10    0 
+Master_T  950649473  9  5 f   -     -     -          835    0    0 
+Master_T  950649535  9  4 f   -     -     -          835    0    0 
+Master_T  950649607  9  3 c   k     k     f          835   10    0 
+Master_T  950649687  9  2 Bk  k     bf    -          825   30    0 
+Master_T  950649802  9  1 Bc  kc    brc   kcc        795  160    0 Jh Kh
+Master_T  950649933  9  8 r   k     k     b          635   40  185 Td Th
+Master_T  950650072  9  7 cc  c     c     c          780   70    0 5c Jd
+Master_T  950650176  9  6 r   kcc   kc    kf         710   70    0 
+Master_T  950650294  9  4 c   b     c     c          640   60    0 6h 7s
+Master_T  950650410  8  4 c   kc    kf    -          580   20    0 
+Master_T  950650507 10  3 c   b     kc    kc         560   60    0 4d Qs
+Master_T  950650585 10  2 Bf  -     -     -          500   10    0 
+Master_T  950650670 10  1 Br  b     bc    b          490   90    0 Qh Qd
+Master_T  950650732  9  9 c   k     c     c          400   50    0 6d 6c
+Master_T  950650847  9  8 r   b     b     b          350   70    0 Qs 3h
+Master_T  950650950  9  7 c   f     -     -          280   10    0 
+Master_T  950651014 10  7 rc  cc    f     -          270   60    0 
+Master_T  950651106 10  6 r   c     c     f          210   50    0 
+Master_T  950651174 10  5 c   kc    k     b          160   40  135 
+Master_T  950651258  9  4 f   -     -     -          255    0    0 
+Master_T  950651332 10  3 r   k     k     bc         255   60    0 Qs Qh
+Master_T  950651415  9  2 Br  k     k     kf         195   20    0 
+Master_T  950651496 10  1 Bc  kc    kf    -          175   20    0 
+Master_T  950651554  9  9 c   c     k     f          155   20    0 
+Master_T  950651589  8  7 f   -     -     -          135    0    0 
+Master_T  950651648  8  6 c   cc    b     r          135   90    0 Qs 8d
+Master_T  950651730  9  6 r   b     cA    -           45   45    0 6h Qd
+Master_T  950652585  9  8 f   -     -     -         1000    0    0 
+Master_T  950652650  9  7 c   kc    kc    kc        1000   60    0 8d 7h
+Master_T  950652706  9  6 c   k     f     -          940   10    0 
+Master_T  950652804  9  5 c   rr    c     c          930   90  245 Jd 5s
+Master_T  950652890  9  4 f   -     -     -         1085    0    0 
+Master_T  950652964  9  3 c   kc    kc    kc        1085   60    0 4c Qh
+Master_T  950653031  9  2 Bk  k     k     b         1025   30   90 9c Qh
+Master_T  950653093  9  1 Bc  kf    -     -         1085   10    0 
+Master_T  950653176  9  9 f   -     -     -         1075    0    0 
+Master_T  950653225 10  9 f   -     -     -         1075    0    0 
+Master_T  950653291 10  8 c   c     c     f         1075   40    0 
+Master_T  950653405 10  7 c   k     k     f         1035   10    0 
+Master_T  950653482 10  6 c   k     f     -         1025   10    0 
+Master_T  950653553 10  5 f   -     -     -         1015    0    0 
+Master_T  950653599 10  4 f   -     -     -         1015    0    0 
+Master_T  950653682 10  3 c   f     -     -         1015   10    0 
+Master_T  950653738 10  2 Bk  kc    kc    kc        1005   60    0 Th Td
+Master_T  950653808 10  1 Bc  kc    kf    -          945   20    0 
+Master_T  950653880 10  3 Q   -     -     -          925    0    0 
+Master_T  950740121 10  1 Bc  kf    -     -          925   20    0 
+Master_T  950740236 10 10 f   -     -     -          905    0    0 
+Master_T  950740306  9  8 c   k     KQ    -          905   10    0 
+Master_T  950740593 10  3 f   -     -     -          895    0    0 
+Master_T  950740638 10  2 Bk  kc    k     kf         895   20    0 
+Master_T  950740729 10  1 Bc  kc    krQ   -          875   70    0 
+Master_T  950824601  9  6 cc  c     c     f          535   50    0 
+Master_T  950824653  8  5 c   f     -     -          485   10    0 
+Master_T  950824731  8  4 cc  kc    c     c          475   80    0 9c 8c
+Master_T  950824809  9  3 c   c     f     -          395   20    0 
+Master_T  950824847  9  2 Bk  kc    kf    -          375   20    0 
+Master_T  950824900  9  1 Bf  -     -     -          355    5    0 
+Master_T  950824930  9  9 c   k     k     f          350   10    0 
+Master_T  950824979  9  8 c   k     kf    -          340   10    0 
+Master_T  950825058  9  7 cr  bc    b     k          330   70    0 9c Qc
+Master_T  950825149  9  6 f   -     -     -          260    0    0 
+Master_T  950825198  9  6 f   -     -     -          260    0    0 
+Master_T  950825259  8  4 cc  f     -     -          260   20    0 
+Master_T  950825320  8  3 cc  kc    kc    kf         240   50    0 
+Master_T  950825381  8  2 Bc  kc    kc    kf         190   50    0 
+Master_T  950825447  8  1 Bf  -     -     -          140    5    0 
+Master_T  950825512  7  7 c   k     k     k          135   10   35 4s 2s
+Master_T  950825569  9  8 f   -     -     -          160    0    0 
+Master_T  950825606 10  8 c   k     rc    brc        160  150    0 9c Td
+Master_T  950825676 10  7 cA  -     -     -           10   10    0 7s 9d
+Master_T  950825825 10  5 f   -     -     -         1000    0    0 
+Master_T  950825849 10  4 c   k     k     k         1000   10    0 Qc Th
+Master_T  950825902 10  3 f   -     -     -          990    0    0 
+Master_T  950825956 10  2 Bc  kf    -     -          990   20    0 
+Master_T  950826004 10  1 Bc  kf    -     -          970   20    0 
+Master_T  950826065 10 10 c   f     -     -          950   20    0 
+Master_T  950826087 10  9 c   r     b     k          930   50    0 Th 4h
+Master_T  950826150 10  8 c   c     k     f          880   30    0 
+Master_T  950826239 10  7 c   cc    kf    -          850   30    0 
+Master_T  950826303 10  6 c   kf    -     -          820   10    0 
+Master_T  950826331 10  5 c   kf    -     -          810   10    0 
+Master_T  950826378 10  4 f   -     -     -          800    0    0 
+Master_T  950826415 10  3 c   k     f     -          800   10    0 
+Master_T  950826450 10  2 Bc  c     c     c          790   70    0 7s 3c
+Master_T  950826498 10  1 Bc  b     b     b          720   60  150 
+Master_T  950826551 10 10 cc  f     -     -          810   20    0 
+Master_T  950826582 10  9 c   f     -     -          790   10    0 
+Master_T  950826618 10  8 c   f     -     -          780   10    0 
+Master_T  950826672 10  7 f   -     -     -          770    0    0 
+Master_T  950826709 10  6 f   -     -     -          770    0    0 
+Master_T  950826785 10  5 cc  c     kf    -          770   30    0 
+Master_T  950826863 10  4 c   c     c     c          740   60    0 Qc 4h
+Master_T  950826913 10  3 cc  br    b     b          680   90  195 Kh 7d
+Master_T  950826976 10  2 Bk  kf    -     -          785   10    0 
+Master_T  950827015 10  1 Bf  -     -     -          775    5    0 
+Master_T  950827078 10 10 f   -     -     -          770    0    0 
+Master_T  950827142 10  9 f   -     -     -          770    0    0 
+Master_T  950827192  9  7 f   -     -     -          770    0    0 
+Master_T  950827328  9  6 cc  kf    -     -          770   20    0 
+Master_T  950827390 10  6 f   -     -     -          750    0    0 
+Master_T  950827479 10  5 cc  kc    k     kf         750   30    0 
+Master_T  950827555  9  3 cc  kf    -     -          720   20    0 
+Master_T  950827627 10  4 f   -     -     -          700    0    0 
+Master_T  950827682 10  2 Bk  kc    kf    -          700   20    0 
+Master_T  950827803 10  1 Bc  k     kc    b          680   50  120 8h Ad
+Master_T  950827849 10 10 r   c     cc    c          750   90    0 8h 8s
+Master_T  950827931  9  8 c   c     c     k          660   60    0 Qs 8s
+Master_T  950828020 10  8 c   cc    cc    c          600  120  147 Kd Td
+Master_T  950828096 10  7 f   -     -     -          627    0    0 
+Master_T  950828180 10  6 cc  c     c     f          627   60    0 
+Master_T  950828257 10  6 c   f     Q     -          567   10    0 
+Master_T  950896128  9  7 c   c     f     -          557   30    0 
+Master_T  950896174 10  7 f   -     -     -          527    0    0 
+Master_T  950896222  9  5 cc  kc    kc    k          527   50  195 Tc Kd
+Master_T  950896316 10  4 c   b     -     -          672   20   55 
+Master_T  950896357 10  3 f   -     -     -          707    0    0 
+Master_T  950896451 10  2 Bc  kc    k     k          707   30    0 Kh Jh
+Master_T  950896548 10  1 Br  k     kc    kc         677   60    0 Ks Kd
+Master_T  950896623 10 10 c   f     -     -          617   20    0 
+Master_T  950896751  9  8 r   b     b     bc         597   90    0 Qh Ah
+Master_T  950896831  9  7 f   -     -     -          507    0    0 
+Master_T  950896872 10  7 f   -     -     -          507    0    0 
+Master_T  950896909 10  6 c   bc    k     kf         507   40    0 
+Master_T  950896997 10  5 f   -     -     -          467    0    0 
+Master_T  950897047 10  4 f   -     -     -          467    0    0 
+Master_T  950897094 10  3 c   b     b     b          467   60  125 
+Master_T  950897149 10  2 Bc  k     k     b          532   40  105 Ah 4s
+Master_T  950897183 10  1 Bf  -     -     -          597    5    0 
+Master_T  950897255 10 10 c   c     f     -          592   30    0 
+Master_T  950897300 10  9 c   k     k     k          562   10   12 7c 3c
+Master_T  950897330 10  8 f   -     -     -          564    0    0 
+Master_T  950897362 10  7 c   k     f     -          564   10    0 
+Master_T  950897447  9  5 c   kf    -     -          554   10    0 
+Master_T  950897506 10  6 c   b     bc    b          544  100    0 Th As
+Master_T  950897550  8  3 Q   -     -     -          444    0    0 
+Master_T  950974814 10  8 c   c     c     k          444   40  160 6s Th
+Master_T  950975063  8  6 c   c     c     c          564   60    0 Jc 9h
+Master_T  950975158  7  5 f   -     -     -          504    0    0 
+Master_T  950975214 10  5 f   -     -     -          504    0    0 
+Master_T  950975278 10  4 f   -     -     -          504    0    0 
+Master_T  950975381 10  3 f   -     -     -          504    0    0 
+Master_T  950975477 10  2 Bc  kcc   kf    -          504   40    0 
+Master_T  950975563 10  1 Bc  k     k     b          464   30   60 
+Master_T  950975629 10 10 f   -     -     -          494    0    0 
+Master_T  950975693 10  9 f   -     -     -          494    0    0 
+Master_T  950975742 10  8 c   k     b     -          494   30   45 
+Master_T  950975823 10  7 cc  c     c     f          509   70    0 
+Master_T  950975931 10  6 f   -     -     -          439    0    0 
+Master_T  950976013 10  5 c   k     f     -          439   10    0 
+Master_T  950976110 10  4 f   -     -     -          429    0    0 
+Master_T  950976176 10  3 c   bc    k     b          429   50  100 
+Master_T  950976260 10  2 Bcc b     bc    kcc        479  170    0 2h 2d
+Master_T  950976401 10  1 Bf  -     -     -          309    5    0 
+Master_T  950976511 10 10 c   r     c     c          304   70    0 Jd Kd
+Master_T  950976569 10  9 f   -     -     -          234    0    0 
+Master_T  950976652 10  8 r   r     r     r          234  120  480 Kc Qd
+Master_T  950976758 10  7 c   c     b     b          594   70  295 Th 4h
+Master_T  950976867 10  6 f   -     -     -          819    0    0 
+Master_T  950976912 10  5 c   k     kf    -          819   10    0 
+Master_T  950976967 10  4 f   -     -     -          809    0    0 
+Master_T  950977068 10  3 ccc kcc   kc    kc         809  120    0 Kd 6h
+Master_T  950977267 10  2 Bc  kf    -     -          689   20    0 
+Master_T  950977353 10  1 Bc  kc    kf    -          669   20    0 
+Master_T  950977475 10 10 f   -     -     -          649    0    0 
+Master_T  950977532 10  9 cc  cc    rc    c          649  130  440 6s 7d
+Master_T  950977667 10  8 r   c     c     c          959   70    0 Qs Qh
+Master_T  950977754 10  7 Q   -     -     -          889    0    0 
+Master_T  950987935 10  3 r   k     kc    kc         889   60    0 Jd Js
+Master_T  950987988 10  2 Bf  -     -     -          829   10    0 
+Master_T  950988033 10  1 Bc  kf    -     -          819   10    0 
+Master_T  950988120 10 10 f   -     -     -          809    0    0 
+Master_T  950988199 10  9 c   KQ    -     -          809   20    0 
+Master_T  950989261 10  9 f   -     -     -          789    0    0 
+Master_T  950989365 10  8 c   rc    kc    kc         789   80    0 3c 4c
+Master_T  950989435 10  7 cc  ccc   cc    k          709  140    0 4c Kc
+Master_T  950989580 10  6 f   -     -     -          569    0    0 
+Master_T  950989652 10  5 rc  ccc   cc    k          569  110    0 Jc Ac
+Master_T  950989759 10  4 rf  -     -     -          459   20    0 
+Master_T  950989838 10  3 ccc kc    c     k          439   70    0 9h 7h
+Master_T  950989926 10  2 Bk  br    b     br         369  120    0 2h 3h
+Master_T  950990024 10  1 Br  kf    -     -          249   20    0 
+Master_T  950990126 10 10 r   c     f     -          229   60    0 
+Master_T  950990240 10  9 c   r     k     b          169   60  210 6s 7d
+Master_T  950990357  9  7 c   c     f     -          319   30    0 
+Master_T  950990402  9  6 cc  c     f     -          289   30    0 
+Master_T  950990447  9  5 c   k     f     -          259   20    0 
+Master_T  950990485  9  4 f   -     -     -          239    0    0 
+Master_T  950990532  9  3 f   -     -     -          239    0    0 
+Master_T  950990573  8  2 Bc  c     crc   b          239  140    0 9c 8s
+Master_T  950990673  8  1 Br  b     b     -           99   50   90 
+Master_T  950990716  8  8 r   b     b     b          139   70    0 Ac Qc
+Master_T  950990811 10  9 rr  r     cA    -           69   69    0 2c 9d
+Master_T  950992230 10 10 f   -     -     -         1000    0    0 
+Master_T  950992325 10  9 cc  k     cc    k         1000   60    0 8h Jd
+Master_T  950992445 10  8 r   b     b     b          940   70  230 Ah Td
+Master_T  950992539 10  7 f   -     -     -         1100    0    0 
+Master_T  950992623 10  6 cc  rc    kc    kf        1100   90    0 
+Master_T  950992727 10  5 f   -     -     -         1010    0    0 
+Master_T  950992802 10  4 c   k     kKQ   -         1010   10    0 
+Master_T  951079233 10  1 Bc  k     kf    -         1000   10    0 
+Master_T  951079321  9  9 c   c     f     -          990   30    0 
+Master_T  951079405 10  8 f   -     -     -          960    0    0 
+Master_T  951079480 10  7 c   f     -     -          960   10    0 
+Master_T  951079564 10  6 c   f     -     -          950   10    0 
+Master_T  951079671 10  5 c   k     f     -          940   10    0 
+Master_T  951079729 10  4 c   b     b     b          930   60    0 Js 4s
+Master_T  951079802 10  3 c   c     c     f          870   40    0 
+Master_T  951079876 10  2 Bk  kc    c     f          830   40    0 
+Master_T  951079992 10  1 Bc  kc    kc    kc         790   60    0 4s 3d
+Master_T  951080115 10 10 f   -     -     -          730    0    0 
+Master_T  951080175 10  9 f   -     -     -          730    0    0 
+Master_T  951080234 10  8 c   k     k     f          730   10    0 
+Master_T  951080305 10  7 f   -     -     -          720    0    0 
+Master_T  951080369 10  6 r   b     b     b          720   70  125 
+Master_T  951080450 10  5 f   -     -     -          775    0    0 
+Master_T  951080511 10  4 f   -     -     -          775    0    0 
+Master_T  951080567 10  3 c   r     b     bc         775   90  305 3d 6d
+Master_T  951080655 10  2 Bk  c     kf    -          990   20    0 
+Master_T  951080750 10  1 Bc  kf    -     -          970   10    0 
+Master_T  951080842 10 10 f   -     -     -          960    0    0 
+Master_T  951080899 10  9 c   r     b     b          960   80  300 9s Js
+Master_T  951080996 10  8 f   -     -     -         1180    0    0 
+Master_T  951081044 10  7 rc  kc    kf    -         1180   50    0 
+Master_T  951081141 10  6 c   k     k     f         1130   10    0 
+Master_T  951081210 10  5 f   -     -     -         1120    0    0 
+Master_T  951081419  9  4 f   -     -     -         1120    0    0 
+Master_T  951081491  9  3 f   -     -     -         1120    0    0 
+Master_T  951081551  9  2 Bk  kf    -     -         1120   10    0 
+Master_T  951081635  8  1 Bc  k     kf    -         1110   10    0 
+Master_T  951081690  8  8 c   k     k     b         1100   30   80 
+Master_T  951081761 10  8 c   c     c     f         1150   40    0 
+Master_T  951081830 10  7 f   -     -     -         1110    0    0 
+Master_T  951081893 10  7 f   -     -     -         1110    0    0 
+Master_T  951081997 10  5 c   kc    kc    b         1110   60    0 8c Qs
+Master_T  951082074 10  4 fQ  -     -     -         1050    0    0 
+Master_T  951163438 10 10 cc  f     -     -         1050   20    0 
+Master_T  951163515 10  9 f   -     -     -         1030    0    0 
+Master_T  951163592 10  8 c   f     -     -         1030   10    0 
+Master_T  951163708 10  7 cc  f     -     -         1020   20    0 
+Master_T  951163784 10  6 c   kc    kc    k         1000   40  145 3c Jc
+Master_T  951163876 10  5 r   kc    k     kf        1105   40    0 
+Master_T  951163993 10  4 f   -     -     -         1065    0    0 
+Master_T  951164029 10  3 f   -     -     -         1065    0    0 
+Master_T  951164105  9  2 Bc  kc    kc    kc        1065   70  145 Kc 2d
+Master_T  951164170  8  1 Bcc k     kc    b         1140   60  120 5h 4h
+Master_T  951164251  8  8 cc  f     -     -         1200   20    0 
+Master_T  951164300  8  7 cc  ccc   ccc   k         1180  140    0 8h As
+Master_T  951164440  7  5 f   -     -     -         1040    0    0 
+Master_T  951164481  7  4 f   -     -     -         1040    0    0 
+Master_T  951164536  7  3 cc  k     kf    -         1040   20    0 
+Master_T  951164603  7  2 Bc  k     b     -         1020   40   80 
+Master_T  951164642  7  1 Bcc brc   bc    bc        1060  180    0 5c Ks
+Master_T  951164729  6  6 c   f     -     -          880   20    0 
+Master_T  951164782  7  6 c   k     k     k          860   10   40 8s Qd
+Master_T  951164862  9  7 f   -     -     -          890    0    0 
+Master_T  951164899  8  5 c   k     f     -          890   20    0 
+Master_T  951164939  8  4 c   cc    kf    -          870   30    0 
+Master_T  951164990  8  3 c   cc    kc    k          840   50    0 8s Jh
+Master_T  951165058  9  2 Bc  kf    -     -          790   20    0 
+Master_T  951165157  9  1 Bf  -     -     -          770    5    0 
+Master_T  951165198 10  9 c   b     b     k          765   40   60 7d Ac
+Master_T  951165255 10  8 f   -     -     -          785    0    0 
+Master_T  951165343 10  7 c   kf    -     -          785   10    0 
+Master_T  951165399 10  6 cc  kc    kc    kf         775   60    0 
+Master_T  951165474 10  5 cc  kc    b     brc        715  130    0 6c Ts
+Master_T  951165556 10  4 c   kc    k     k          585   20    0 Jc 7s
+Master_T  951165632 10  3 Q   -     -     -          565    0    0 
+Master_T  951251851 10  7 c   f     -     -          565   10    0 
+Master_T  951251944 10  6 c   c     c     f          555   40    0 
+Master_T  951252024  9  5 f   -     -     -          515    0    0 
+Master_T  951252094  7  3 f   -     -     -          515    0    0 
+Master_T  951252168  7  2 Bk  k     k     k          515   10    0 2c 7c
+Master_T  951252227  7  1 Bcc kc    kc    br         505  110  200 
+Master_T  951252292  7  7 f   -     -     -          595    0    0 
+Master_T  951252320  8  7 c   f     -     -          595   10    0 
+Master_T  951252400  9  7 f   -     -     -          585    0    0 
+Master_T  951252465  9  6 cc  rc    c     c          585   90    0 Qd Js
+Master_T  951252538  9  6 f   -     -     -          495    0    0 
+Master_T  951252566  8  4 fQ  -     -     -          495    0    0 
+Master_T  951338296  9  8 f   -     -     -          495    0    0 
+Master_T  951338348 10  8 r   b     -     -          495   30  110 
+Master_T  951338420  9  6 c   k     k     k          575   10   32 Ah 5c
+Master_T  951338486  9  5 f   -     -     -          597    0    0 
+Master_T  951338582  8  4 f   -     -     -          597    0    0 
+Master_T  951338642  8  3 cc  kf    -     -          597   20    0 
+Master_T  951338724  9  2 Bk  kc    kc    kc         577   80    0 Ah Ts
+Master_T  951338818  9  1 Bc  b     b     b          497   60  170 9s 6d
+Master_T  951338892  9  9 f   -     -     -          607    0    0 
+Master_T  951338914  9  8 f   -     -     -          607    0    0 
+Master_T  951338972  9  7 f   -     -     -          607    0    0 
+Master_T  951339035 10  7 c   c     c     c          607   60    0 Th 5h
+Master_T  951339086 10  6 cc  c     c     kf         547   60    0 
+Master_T  951339159 10  5 f   -     -     -          487    0    0 
+Master_T  951339219 10  4 c   kf    -     -          487   10    0 
+Master_T  951339324 10  3 c   r     r     b          477   90  390 7d 7c
+Master_T  951339386 10  2 Bk  kf    -     -          777   10    0 
+Master_T  951339507 10  1 Bc  kc    kf    -          767   20    0 
+Master_T  951339584 10 10 c   c     c     c          747   70  255 Ad 7s
+Master_T  951339660 10  9 f   -     -     -          932    0    0 
+Master_T  951339728 10  8 f   -     -     -          932    0    0 
+Master_T  951339767 10  7 f   -     -     -          932    0    0 
+Master_T  951339844 10  6 f   -     -     -          932    0    0 
+Master_T  951339882 10  5 cc  b     kc    b          932   70  215 Ac 9s
+Master_T  951339993 10  4 f   -     -     -         1077    0    0 
+Master_T  951340101 10  3 c   kf    -     -         1077   10    0 
+Master_T  951340197  9  2 Bk  c     c     f         1067   40    0 
+Master_T  951340263 10  1 BQ  -     -     -         1027    5    0 
+Master_T  951424209 10  3 KQ  -     -     -         1022    0    0 
+Master_T  951424426  9  8 cc  c     c     c         1022   80    0 Qc As
+Master_T  951424480 10  8 cc  c     c     c          942   70    0 Jd 4d
+Master_T  951424589 10  7 c   k     k     k          872   10    0 Kh Ah
+Master_T  951424663 10  6 c   c     f     -          862   20    0 
+Master_T  951424715 10  5 f   -     -     -          842    0    0 
+Master_T  951424788 10  4 f   -     -     -          842    0    0 
+Master_T  951424839 10  3 f   -     -     -          842    0    0 
+Master_T  951424888 10  2 Bk  f     -     -          842   10    0 
+Master_T  951424989 10  1 Bc  kc    kc    kc         832   70    0 Tc 9h
+Master_T  951425074 10 10 f   -     -     -          762    0    0 
+Master_T  951425097 10  9 cc  k     c     k          762   40    0 Qs 3c
+Master_T  951425175 10  8 c   k     f     -          722   10    0 
+Master_T  951425241  9  6 c   cc    kc    b          712   80  290 5d Ac
+Master_T  951425318  9  5 c   kf    -     -          922   10    0 
+Master_T  951425379  9  4 cc  k     k     f          912   20    0 
+Master_T  951425454 10  3 f   -     -     -          892    0    0 
+Master_T  951425508 10  2 Bk  kcc   k     kc         892   70    0 9c As
+Master_T  951425582 10  1 Bc  kf    -     -          822   20    0 
+Master_T  951425653 10 10 c   k     k     k          802   10    0 3h Ad
+Master_T  951425734  9  3 Q   -     -     -          792    0    0 
+Master_T  951483742  8  4 f   -     -     -         1220    0    0 
+Master_T  951483766  8  3 c   k     kcc   kc        1220   90    0 5c Ac
+Master_T  951483869  9  2 Bk  bc    b     b         1130   70  145 
+Master_T  951483934  9  1 Bc  b     b     b         1205   60  150 2s 9s
+Master_T  951484003  9  9 c   c     k     f         1295   20    0 
+Master_T  951484064  9  8 f   -     -     -         1275    0    0 
+Master_T  951484122  9  7 c   c     f     -         1275   30    0 
+Master_T  951484173  9  6 c   c     ccc   f         1245  100    0 
+Master_T  951484263  9  5 cc  k     k     b         1145   40  100 
+Master_T  951484331  7  3 cc  cc    kf    -         1205   40    0 
+Master_T  951484406  7  2 Bk  kc    kf    -         1165   20    0 
+Master_T  951484497  7  1 Bc  k     kf    -         1145   10    0 
+Master_T  951484551  6  6 c   b     b     b         1135   60    0 Qs 9d
+Master_T  951484615  6  5 c   k     k     k         1075   10   35 Ac Tc
+Master_T  951484666  6  4 c   b     k     k         1100   20   60 Tc Ac
+Master_T  951484746  6  3 c   k     b     k         1140   30   75 9s Qh
+Master_T  951484792  8  3 f   -     -     -         1185    0    0 
+Master_T  951484865  8  2 Bk  k     k     k         1185   10    0 6d 3h
+Master_T  951484923  9  1 Bc  kc    kc    kf        1175   40    0 
+Master_T  951485014  9  9 c   c     f     -         1135   20    0 
+Master_T  951485057  9  8 c   f     -     -         1115   10    0 
+Master_T  951485117  9  7 c   c     c     k         1105   40    0 Js 8c
+Master_T  951485171  9  6 f   -     -     -         1065    0    0 
+Master_T  951485209  9  5 f   -     -     -         1065    0    0 
+Master_T  951485250  8  4 f   -     -     -         1065    0    0 
+Master_T  951485298  8  3 cc  kc    kc    kf        1065   50    0 
+Master_T  951485368  8  2 Bk  b     c     f         1015   40    0 
+Master_T  951485411  9  1 Bc  kc    k     kf         975   20    0 
+Master_T  951485518  9  9 c   c     c     k          955   40    0 Qs Kc
+Master_T  951485579 10  9 f   -     -     -          915    0    0 
+Master_T  951485654 10  8 f   -     -     -          915    0    0 
+Master_T  951485696 10  7 f   -     -     -          915    0    0 
+Master_T  951485732 10  6 c   k     f     -          915   10    0 
+Master_T  951485800 10  5 c   kr    brc   b          905  130  290 Kd 5c
+Master_T  951485844 10  4 f   -     -     -         1065    0    0 
+Master_T  951485903 10  3 c   f     -     -         1065   10    0 
+Master_T  951485971 10  2 Bk  kf    -     -         1055   10    0 
+Master_T  951486008 10  1 Bc  k     kf    -         1045   10    0 
+Master_T  951486063 10 10 f   -     -     -         1035    0    0 
+Master_T  951486124 10  9 f   -     -     -         1035    0    0 
+Master_T  951486220 10  8 c   k     f     -         1035   10    0 
+Master_T  951486253 10  7 f   -     -     -         1025    0    0 
+Master_T  951486304 10  6 f   -     -     -         1025    0    0 
+Master_T  951486315 10  5 f   -     -     -         1025    0    0 
+Master_T  951486390 10  4 c   k     cc    k         1025   50    0 5h Qc
+Master_T  951486466 10  3 f   -     -     -          975    0    0 
+Master_T  951486521 10  2 Bc  kf    -     -          975   20    0 
+Master_T  951486569 10  1 Bcc kc    k     k          955   30   80 2c 4c
+Master_T  951486613 10 10 f   -     -     -         1005    0    0 
+Master_T  951486659 10  9 c   c     k     k         1005   30    0 7c Kc
+Master_T  951486701 10  8 c   f     -     -          975   10    0 
+Master_T  951486745 10  7 cc  kr    -     -          965   40  120 
+Master_T  951486790 10  6 c   k     k     k         1045   10    0 Ah 3c
+Master_T  951486837 10  5 cc  kc    k     b         1035   50  125 
+Master_T  951486884 10  4 f   -     -     -         1110    0    0 
+Master_T  951486940 10  3 c   k     c     c         1110   50    0 4h Ks
+Master_T  951487043 10  2 Bc  kc    k     k         1060   30   65 Qd 9h
+Master_T  951487086 10  1 Bcc k     k     kf        1095   20    0 
+Master_T  951487153 10 10 c   b     bc    c         1075   90    0 Qc Td
+Master_T  951487187 10  9 f   -     -     -          985    0    0 
+Master_T  951487238 10  8 c   k     f     -          985   10    0 
+Master_T  951487309 10  7 cc  k     k     kc         975   40    0 Qd 6c
+Master_T  951487348 10  6 c   kf    -     -          935   10    0 
+Master_T  951487395 10  5 f   -     -     -          925    0    0 
+Master_T  951487435 10  4 c   k     k     k          925   10   40 4s Qc
+Master_T  951487473 10  3 cc  kc    k     kf         955   30    0 
+Master_T  951487521 10  2 Bc  kf    -     -          925   20    0 
+Master_T  951487585 10  1 Bc  kc    kc    kc         905   60  120 9s 4s
+Master_T  951487626 10 10 c   b     -     -          965   20   45 
+Master_T  951487665 10  9 ccc kc    rr    kc         990  150    0 Ad 6d
+Master_T  951487717 10  9 f   Q     -     -          840    0    0 
+Master_T  951499435 10  8 c   c     c     c          840   70    0 As 8c
+Master_T  951499500 10  7 f   -     -     -          770    0    0 
+Master_T  951499551  9  6 f   -     -     -          770    0    0 
+Master_T  951499598  9  5 c   c     c     c          770   60    0 6h 6d
+Master_T  951499657  9  3 f   -     -     -          710    0    0 
+Master_T  951499707 10  3 c   rc    c     c          710   80  200 Ks Ah
+Master_T  951499746  9  2 Bk  kc    kf    -          830   20    0 
+Master_T  951499798  9  1 Bc  k     kc    k          810   30    0 2s 6s
+Master_T  951499855 10 10 c   k     f     -          780   10    0 
+Master_T  951499912 10  9 c   r     b     b          770   80  215 4c Js
+Master_T  951499971  8  6 f   -     -     -          905    0    0 
+Master_T  951500000  8  5 c   cc    cc    f          905   70    0 
+Master_T  951500053  9  4 f   -     -     -          835    0    0 
+Master_T  951500086  9  3 c   kc    kc    kf         835   40    0 
+Master_T  951500139  9  2 Bc  kc    kf    -          795   40    0 
+Master_T  951500195  9  1 Bc  kf    -     -          755   10    0 
+Master_T  951500270  8  8 f   -     -     -          745    0    0 
+Master_T  951500316  8  7 c   c     c     c          745   60    0 7d 4d
+Master_T  951500369  8  6 c   k     k     kf         685   10    0 
+Master_T  951500433  9  6 cc  c     c     k          675   50  190 Qs 7s
+Master_T  951500478  9  5 cc  kc    kc    kc         815  100    0 Kc 8d
+Master_T  951500591  9  4 c   kc    k     kf         715   20    0 
+Master_T  951500650  8  3 f   -     -     -          695    0    0 
+Master_T  951500676  8  2 Bcc kc    kc    kc         695  100    0 6s Ah
+Master_T  951500762  8  1 Br  bc    bc    b          595  130    0 Kd 2c
+Master_T  951500852  8  8 c   r     b     k          465   60    0 6h 9s
+Master_T  951500915 10  9 c   c     c     c          405   90    0 Kh 2c
+Master_T  951500986 10  8 c   k     k     b          315   40   95 
+Master_T  951501028 10  7 r   b     r     rr         370  160  395 Qc Kh
+Master_T  951501085 10  6 r   brc   brc   bc         605  190    0 9s 9h
+Master_T  951501223 10  5 r   bc    kc    kr         415  100    0 6h 4h
+Master_T  951501299 10  4 c   b     kc    kc         315   60    0 Qs 2c
+Master_T  951501370 10  3 c   b     k     b          255   40   80 
+Master_T  951501420 10  2 Br  b     b     b          295   70  145 Ks Ad
+Master_T  951501458  9  1 Bc  bc    br    b          370  110  250 Th 4d
+Master_T  951501521 10 10 c   c     r     b          510   80  205 Kc 8s
+Master_T  951501578 10  9 c   b     b     rc         635  110    0 2c 7c
+Master_T  951501643 10  8 c   c     rc    rc         525  140    0 Ah 8c
+Master_T  951501706 10  7 c   b     b     b          385   60  165 6d 4c
+Master_T  951501755 10  6 c   c     r     b          490   80    0 5s 7d
+Master_T  951501823 10  5 r   b     b     k          410   50   78 Qc As
+Master_T  951501869 10  4 cc  bc    bc    br         438  140  375 2h Jd
+Master_T  951501972 10  3 cc  bc    bcc   bc         673  160    0 7c Ts
+Master_T  951502057 10  2 Bk  krc   bc    br         513  140    0 Ah 3d
+Master_T  951502138 10  1 Br  k     b     br         373  100    0 Qh 5h
+Master_T  951502216 10 10 c   c     b     b          273   60    0 4c Kc
+Master_T  951502315 10  9 cc  rr    rr    rrA        213  213    0 3h Qs
+Master_T  951751745  6  2 Bk  k     k     b         1015   30   55 
+Master_T  951751789  7  1 Bcc kc    kf    -         1040   30    0 
+Master_T  951751844  6  6 c   c     r     k         1010   60  160 5c 8c
+Master_T  951751884  7  5 f   -     -     -         1110    0    0 
+Master_T  951751907  7  4 f   -     -     -         1110    0    0 
+Master_T  951751948  7  3 c   c     kc    b         1110   60  170 Th Jh
+Master_T  951751995  7  2 Bk  kc    kc    kc        1220   60    0 2s 3s
+Master_T  951752082  7  1 Bf  -     -     -         1160    5    0 
+Master_T  951752138  7  7 f   Q     -     -         1155    0    0 

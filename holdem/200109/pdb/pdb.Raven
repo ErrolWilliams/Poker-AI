@@ -1,0 +1,765 @@
+Raven     999546954  2  1 Brr brc   brc   brc       1000  240    0 3s 6c
+Raven     999546992  2  2 Brc rr    r     rr         760  200    0 Qd 2c
+Raven     999547022  2  1 Brr brc   brc   bf         560  180    0 
+Raven     999547052  2  2 Brc rr    rr    rr         380  240    0 5s 4c
+Raven     999547093  2  1 Br  b     brc   bcA        140  140    0 9d Tc
+Raven     999547131  2  1 Brr brc   brc   bf        1000  180    0 
+Raven     999547162  2  2 Brc rr    rr    rr         820  240    0 9d 2c
+Raven     999547189  2  1 Brr brc   brc   bf         580  180    0 
+Raven     999547218  2  2 Brc rr    rr    f          400  160    0 
+Raven     999547246  2  1 Brr brc   brc   bf         240  180    0 
+Raven     999547277  2  2 Bf  -     -     -           60   10    0 
+Raven     999547285  2  1 Brr kf    -     -           50   40    0 
+Raven     999547302  2  2 BA  -     -     -           10   10    0 Td 3d
+Raven     1000603375  2  2 Brc rr    rc    f         1000  140    0 
+Raven     1000603440  3  1 Bc  b     -     -          860   20   30 
+Raven     1000603460  3  3 cc  k     k     b          870   40    0 6h 6c
+Raven     1000603488  3  2 Brr rr    rr    r          830  200    0 Ah 2d
+Raven     1000603543  3  1 Bc  b     kr    k          630   60    0 5s Qh
+Raven     1000603599  3  3 r   b     b     b          570   70    0 Qd Qs
+Raven     1000603628  3  2 Brr c     f     -          500   50    0 
+Raven     1000603661  3  1 Bc  k     kc    b          450   50  100 5d 7c
+Raven     1000603698  3  3 crc c     f     -          500   50    0 
+Raven     1000603737  3  2 B   -     -     -          450   10   15 
+Raven     1000603744  3  1 Bc  kf    -     -          455   10    0 
+Raven     1000603769  4  4 c   br    r     rr         445  160    0 3s Ks
+Raven     1000603848  2  2 rr  rr    rr    rr         285  240    0 4s 6c
+Raven     1000603894  2  2 Brc cA    -     -           45   45   45 4c 3d
+Raven     1000603917  2  1 Brr bA    -     -           45   45    0 3h 5h
+Raven     1000603952  2  2 Brc rr    rr    f         1000  160    0 
+Raven     1000603983  2  1 Br  br    brc   brc        840  210    0 2c 3d
+Raven     1000604020  2  2 Brc rr    rr    f          630  160    0 
+Raven     1000604061  2  1 Brr brc   brc   bf         470  180    0 
+Raven     1000604095  2  2 Brc rr    rr    f          290  160    0 
+Raven     1000604136  2  1 Brf -     -     -          130   20    0 
+Raven     1000604144  2  2 Br  rr    rA    -          110  110  220 Kc Kh
+Raven     1000604163  2  1 Brr br    brc   brcA       220  220    0 Qh 3c
+Raven     1000604230  2  2 Bc  c     b     brc       1000  130    0 Jd Qd
+Raven     1000604270  2  1 Brr brc   b     b          870  120    0 7h Jc
+Raven     1000604303  2  2 Brc rr    rr    rr         750  240    0 Qd Kd
+Raven     1000604351  2  1 Brr brc   brc   brc        510  240    0 9s 2c
+Raven     1000604389  2  2 Brc rc    br    f          270  130    0 
+Raven     1000604435  3  1 Bc  b     b     b          140   60  120 Qd Ad
+Raven     1000604454  3  3 c   bc    f     -          200   30    0 
+Raven     1000604490  3  2 Brc c     c     c          170   90    0 8c Ks
+Raven     1000604529  4  1 Bc  k     b     kc          80   50    0 3c 8c
+Raven     1000604588  4  4 c   b     bA    -           30   30   55 
+Raven     1000604617  4  3 cc  bc    cA    -           55   55    0 Js 8s
+Raven     1001197122  2  1 Br  -     -     -         1000   20   30 
+Raven     1001197130  2  2 Br  k     k     k         1010   20   40 Qh Kd
+Raven     1001197149  2  1 Bcf -     -     -         1030   10    0 
+Raven     1001197159  2  2 Bk  k     k     r         1020   50  100 8h 2h
+Raven     1001197187  2  1 Bf  -     -     -         1070    5    0 
+Raven     1001197192  2  2 Bk  k     k     k         1065   10   20 2h 4c
+Raven     1001197209  2  1 Br  -     -     -         1075   20   30 
+Raven     1001197216  3  3 f   -     -     -         1085    0    0 
+Raven     1001197221  3  2 Br  k     k     k         1085   30    0 8s 8h
+Raven     1001197245  3  1 Bf  -     -     -         1055    5    0 
+Raven     1001197252  3  3 f   -     -     -         1050    0    0 
+Raven     1001197264  3  2 Bk  k     k     k         1050   10    0 3h Jc
+Raven     1001197281  3  1 Bc  k     b     -         1040   30   40 
+Raven     1001197297  3  3 f   -     -     -         1050    0    0 
+Raven     1001197306  3  2 Bf  -     -     -         1050   10    0 
+Raven     1001197320  3  1 Bf  -     -     -         1040    5    0 
+Raven     1001197326  3  3 f   -     -     -         1035    0    0 
+Raven     1001197343  3  2 Bc  k     b     b         1035   60  125 8d 8c
+Raven     1001197364  3  1 Bc  kf    -     -         1100   10    0 
+Raven     1001197381  3  3 f   -     -     -         1090    0    0 
+Raven     1001197391  3  2 B   -     -     -         1090   10   15 
+Raven     1001197397  3  1 Bc  kc    kf    -         1095   20    0 
+Raven     1001197423  3  3 rc  c     c     rc        1075  120    0 As 9s
+Raven     1001197454  3  2 Br  k     kc    k          955   40    0 Td Ac
+Raven     1001197480  3  1 Bc  k     k     k          915   10    0 8d Jd
+Raven     1001197503  3  3 r   b     -     -          905   30   60 
+Raven     1001197517  3  2 BQ  -     -     -          935   10    0 
+Raven     1001197924  5  5 f   -     -     -          925    0    0 
+Raven     1001197939  6  4 c   k     bc    k          925   50  125 Qh Ah
+Raven     1001197980  6  3 f   -     -     -         1000    0    0 
+Raven     1001198002  6  2 Bk  kc    kc    kf        1000   60    0 
+Raven     1001198060  6  1 Bf  -     -     -          940    5    0 
+Raven     1001198091  6  6 c   k     f     -          935   20    0 
+Raven     1001198142  7  4 cc  c     c     f          915   60    0 
+Raven     1001198196  7  3 f   -     -     -          855    0    0 
+Raven     1001198240  8  2 BKQ -     -     -          855   10    0 
+Raven     1001198573  8  2 Bk  kc    k     b          845   40   95 
+Raven     1001198620  8  1 Bc  k     b     b          900   50  130 Kc 3c
+Raven     1001198676  8  8 c   c     f     -          980   20    0 
+Raven     1001198752  9  8 cc  c     f     -          960   50    0 
+Raven     1001198802  9  7 f   -     -     -          910    0    0 
+Raven     1001198885  9  6 cc  rr    r     b          910  120  355 
+Raven     1001198959  9  5 cc  k     b     k         1145   40  160 7c 6h
+Raven     1001199039  8  3 cc  c     b     r         1265   90  170 
+Raven     1001199080  8  2 Bk  k     k     k         1345   10    0 6c Qc
+Raven     1001199126  8  1 Bc  kc    kc    k         1335   40   65 5s Ah
+Raven     1001199180  8  8 f   -     -     -         1360    0    0 
+Raven     1001199222  8  7 f   -     -     -         1360    0    0 
+Raven     1001199279  8  6 f   -     -     -         1360    0    0 
+Raven     1001199351  8  5 f   -     -     -         1360    0    0 
+Raven     1001199396  8  4 f   -     -     -         1360    0    0 
+Raven     1001199464  8  4 f   -     -     -         1360    0    0 
+Raven     1001199486  7  2 Bc  f     -     -         1360   20    0 
+Raven     1001199543  6  1 Bc  k     k     kf        1340   10    0 
+Raven     1001199647  6  6 f   -     -     -         1330    0    0 
+Raven     1001199732  5  4 f   -     -     -         1330    0    0 
+Raven     1001199781  5  3 f   -     -     -         1330    0    0 
+Raven     1001199851  5  2 B   -     -     -         1330   10   15 
+Raven     1001199861  5  1 Bc  b     k     b         1335   40   80 Qs Kd
+Raven     1001199892  5  5 c   c     f     -         1375   30    0 
+Raven     1001199951  4  4 f   -     -     -         1345    0    0 
+Raven     1001199978  4  3 Q   -     -     -         1345    0    0 
+Raven     1001207055  4  4 r   b     -     -         1345   30   70 
+Raven     1001207076  4  3 c   kc    kc    kc        1385   60    0 Ks 6s
+Raven     1001207110  5  2 Bk  k     k     kf        1325   10    0 
+Raven     1001207143  5  1 Bc  k     kc    kc        1315   50  130 5d Td
+Raven     1001207176  6  6 f   -     -     -         1395    0    0 
+Raven     1001207214  6  5 f   -     -     -         1395    0    0 
+Raven     1001207226  6  4 c   b     b     b         1395   60  120 
+Raven     1001207256  7  3 f   -     -     -         1455    0    0 
+Raven     1001207289  7  2 Bk  kf    -     -         1455   10    0 
+Raven     1001207354  6  1 Bc  b     k     b         1445   40   70 
+Raven     1001207393  6  6 c   f     -     -         1475   10    0 
+Raven     1001207438  6  5 f   -     -     -         1465    0    0 
+Raven     1001207461  6  4 cc  kc    b     b         1465   80  240 7h 9h
+Raven     1001207529  6  3 f   -     -     -         1625    0    0 
+Raven     1001207552  6  2 Bk  k     k     kf        1625   10    0 
+Raven     1001207598  6  1 Bc  kc    k     b         1615   40  120 2d Ah
+Raven     1001207629  6  6 f   -     -     -         1695    0    0 
+Raven     1001207655  6  5 c   c     k     k         1695   20   60 2s 6s
+Raven     1001207695  6  4 c   c     b     b         1735   60  190 Ks Ad
+Raven     1001207740  6  3 f   -     -     -         1865    0    0 
+Raven     1001207779  6  2 Bk  k     k     k         1865   10    0 4c 6c
+Raven     1001207807  6  1 Bc  k     k     kf        1855   10    0 
+Raven     1001207856  6  6 c   b     b     k         1845   40  140 6c 6h
+Raven     1001207894  6  5 c   k     b     k         1945   30   35 6s 6h
+Raven     1001207924  6  4 f   -     -     -         1950    0    0 
+Raven     1001207959  5  2 c   k     k     k         1950   10   20 7h Td
+Raven     1001207981  5  2 Bk  k     k     k         1960   10    0 7d Ts
+Raven     1001208012  5  1 Bc  kf    -     -         1950   10    0 
+Raven     1001208033  4  4 c   c     f     -         1940   20    0 
+Raven     1001208067  4  3 cc  kc    kc    kf        1920   50    0 
+Raven     1001208094  4  2 Bk  k     kc    kc        1870   50    0 Kh 4h
+Raven     1001208126  4  1 Bc  b     b     -         1820   40   60 
+Raven     1001208152  4  4 f   -     -     -         1840    0    0 
+Raven     1001208188  4  3 c   kf    -     -         1840   10    0 
+Raven     1001208229  4  2 Bk  k     kf    -         1830   10    0 
+Raven     1001208256  4  1 Bf  -     -     -         1820    5    0 
+Raven     1001208284  5  3 Q   -     -     -         1815    0    0 
+Raven     1001208757  4  4 c   c     f     -         1815   20    0 
+Raven     1001208784  3  3 c   c     b     r         1795   80  170 Ah Jc
+Raven     1001208818  3  2 Bk  k     c     k         1885   30    0 4s Kd
+Raven     1001208851  3  1 Bc  k     b     b         1855   50   90 
+Raven     1001208881  3  3 f   -     -     -         1895    0    0 
+Raven     1001208906  3  2 Bk  k     k     k         1895   10   20 Ks 8c
+Raven     1001208937  3  1 Bc  kc    kf    -         1905   20    0 
+Raven     1001208976  3  3 c   k     c     c         1885   50    0 8c Ac
+Raven     1001209024  3  2 Bk  c     b     b         1835   60  140 7c 4d
+Raven     1001209059  4  1 Bf  -     -     -         1915    5    0 
+Raven     1001209098  4  4 c   f     -     -         1910   10    0 
+Raven     1001209126  4  3 f   -     -     -         1900    0    0 
+Raven     1001209174  4  2 Bk  kf    -     -         1900   10    0 
+Raven     1001209204  4  1 Bc  b     b     b         1890   60    0 Kh 9d
+Raven     1001209240  4  4 c   k     b     -         1830   30   55 
+Raven     1001209264  4  3 cc  kf    -     -         1855   20    0 
+Raven     1001209299  4  2 Bk  kf    -     -         1835   10    0 
+Raven     1001209325  4  1 Bc  kc    kc    kf        1825   40    0 
+Raven     1001209372  4  4 f   -     -     -         1785    0    0 
+Raven     1001209387  4  3 f   -     -     -         1785    0    0 
+Raven     1001209404  4  2 Br  b     -     -         1785   30   50 
+Raven     1001209432  4  1 Bc  k     b     kc        1805   50  110 Jc 7h
+Raven     1001209463  3  2 Q   -     -     -         1865    0    0 
+Raven     1001209568  3  3 c   k     c     b         1865   50    0 Jd 7h
+Raven     1001209604  3  2 Bk  f     -     -         1815   10    0 
+Raven     1001209618  3  1 Bc  kc    kc    kc        1805   60  140 Ad Ah
+Raven     1001209648  3  3 c   f     -     -         1885   10    0 
+Raven     1001209674  3  2 Bk  k     k     k         1875   10    0 Kh 2d
+Raven     1001209702  3  1 Bf  -     -     -         1865    5    0 
+Raven     1001209723  3  3 f   -     -     -         1860    0    0 
+Raven     1001209759  3  2 Bk  cf    -     -         1860   20    0 
+Raven     1001209792  3  1 Bc  k     k     k         1840   10   30 Ac 9s
+Raven     1001209822  3  3 f   -     -     -         1860    0    0 
+Raven     1001209851  3  2 Bk  kc    kr    b         1860   80  170 Ts Kd
+Raven     1001209884  3  1 Bf  -     -     -         1950    5    0 
+Raven     1001209906  3  3 c   k     b     k         1945   30   70 3h 3s
+Raven     1001209938  3  2 Bk  kc    kc    kc        1985   60  130 Td Qs
+Raven     1001209969  3  1 Bc  b     k     bc        2055   60    0 7s Kd
+Raven     1001209995  3  3 c   k     k     f         1995   10    0 
+Raven     1001210028  3  2 Bk  kf    -     -         1985   10    0 
+Raven     1001210062  4  1 Bc  k     k     k         1975   10   30 3d As
+Raven     1001210122  4  4 c   k     c     b         1995   50  120 
+Raven     1001210167  4  3 c   c     c     f         2065   40    0 
+Raven     1001210203  4  2 Bk  k     k     k         2025   10    0 2c 7c
+Raven     1001210227  4  1 Bf  -     -     -         2015    5    0 
+Raven     1001210261  4  4 f   -     -     -         2010    0    0 
+Raven     1001210324  4  3 c   b     -     -         2010   20   40 
+Raven     1001210353  4  2 Bk  kc    kc    kc        2030   60    0 Ks 8h
+Raven     1001210403  3  1 Br  kc    k     k         1970   30   80 Jc Ad
+Raven     1001210436  3  3 c   f     -     -         2020   10    0 
+Raven     1001210474  3  2 Bk  f     -     -         2010   10    0 
+Raven     1001210496  3  1 Bf  -     -     -         2000    5    0 
+Raven     1001210522  3  3 c   k     k     k         1995   10   25 As 4s
+Raven     1001210540  3  2 Bf  -     -     -         2010   10    0 
+Raven     1001210564  3  1 Bc  k     k     b         2000   30   70 4h Kh
+Raven     1001210608  3  3 c   k     k     k         2040   10   25 4h 7h
+Raven     1001210634  2  2 Bk  f     -     -         2055   10    0 
+Raven     1001210652  2  1 Bf  -     -     -         2045    5    0 
+Raven     1001210655  2  2 Br  f     -     -         2040   20    0 
+Raven     1001210670  2  1 Bf  -     -     -         2020    5    0 
+Raven     1001210673  2  2 Bk  c     f     -         2015   20    0 
+Raven     1001210688  2  1 Bc  b     b     k         1995   40   80 9d 8s
+Raven     1001210719  2  2 Bk  f     -     -         2035   10    0 
+Raven     1001210734  2  1 Bf  -     -     -         2025    5    0 
+Raven     1001210737  2  2 Bk  f     -     -         2020   10    0 
+Raven     1001210748  2  1 Bc  k     kf    -         2010   10    0 
+Raven     1001210770  2  2 Bk  f     -     -         2000   10    0 
+Raven     1001210784  2  1 Bc  kc    kc    k         1990   40   80 8d Kc
+Raven     1001210816  2  2 Bk  k     k     b         2030   30   40 
+Raven     1001210840  2  1 Bc  k     k     k         2040   10   20 Ks 3s
+Raven     1001210858  3  2 Bf  -     -     -         2050   10    0 
+Raven     1001210878  3  1 Bc  k     b     b         2040   50   90 
+Raven     1001210900  3  3 cc  c     c     k         2080   50    0 6d 6c
+Raven     1001210928  3  2 Bk  k     c     f         2030   30    0 
+Raven     1001210953  3  1 Bcc k     k     k         2000   20   60 3c 6c
+Raven     1001210977  3  3 f   -     -     -         2040    0    0 
+Raven     1001210991  3  2 Bk  f     -     -         2040   10    0 
+Raven     1001211005  3  1 Br  -     -     -         2030   20   30 
+Raven     1001211012  3  3 c   k     c     k         2040   30   32 8d 7s
+Raven     1001211034  3  2 Bk  f     -     -         2042   10    0 
+Raven     1001211047  4  1 Bf  -     -     -         2032    5    0 
+Raven     1001211052  4  4 f   -     -     -         2027    0    0 
+Raven     1001211088  4  3 c   k     k     b         2027   30   55 
+Raven     1001211114  4  2 Bk  kf    -     -         2052   10    0 
+Raven     1001211130  4  1 Bf  -     -     -         2042    5    0 
+Raven     1001211162  4  4 f   -     -     -         2037    0    0 
+Raven     1001211189  4  3 c   r     c     b         2037   70  125 
+Raven     1001211227  4  2 Bk  k     b     -         2092   30   40 
+Raven     1001211254  4  1 Bc  kf    -     -         2102   20    0 
+Raven     1001211281  4  4 c   f     -     -         2082   10    0 
+Raven     1001211297  4  3 cc  c     c     f         2072   50    0 
+Raven     1001211327  4  2 Br  k     b     k         2022   40   90 Tc Kc
+Raven     1001211353  4  1 Bcc kc    kc    b         2072   70   95 Ks 7h
+Raven     1001211399  4  4 c   c     f     -         2097   20    0 
+Raven     1001211423  4  3 f   -     -     -         2077    0    0 
+Raven     1001211458  4  2 Br  c     c     c         2077   70  140 Qh Ks
+Raven     1001211489  5  1 Bc  k     b     -         2147   30   60 
+Raven     1001211526  6  6 c   f     -     -         2177   10    0 
+Raven     1001211565  6  5 c   f     -     -         2167   10    0 
+Raven     1001211595  6  4 cc  kc    kc    k         2157   50    0 9h Qc
+Raven     1001211631  6  3 f   -     -     -         2107    0    0 
+Raven     1001211703  6  2 Bk  k     k     f         2107   10    0 
+Raven     1001211766  6  1 Bc  kc    k     kf        2097   20    0 
+Raven     1001211827  6  3 Q   -     -     -         2077    0    0 
+Raven     1001375444  5  1 Bc  kc    kf    -         2077   30    0 
+Raven     1001375500  5  1 Bc  bc    kc    k         2047   50  140 Tc 9c
+Raven     1001375556  5  5 f   -     -     -         2137    0    0 
+Raven     1001375594  5  4 cc  kc    k     b         2137   50    0 5s Js
+Raven     1001375661  5  3 f   -     -     -         2087    0    0 
+Raven     1001375700  5  2 Bk  b     -     -         2087   20   35 
+Raven     1001375725  5  1 Bf  -     -     -         2102    5    0 
+Raven     1001375749  5  5 c   b     bc    c         2097   80    0 Qh Qd
+Raven     1001375802  5  4 cc  r     b     b         2017   80  190 Th Ad
+Raven     1001375838  6  4 r   -     -     -         2127   20   55 
+Raven     1001375852  5  3 r   kc    kf    -         2162   30    0 
+Raven     1001375885  5  2 Bk  c     c     k         2132   40    0 Jd 7h
+Raven     1001375906  5  1 Bc  kf    -     -         2092   20    0 
+Raven     1001375927  4  4 c   c     c     r         2072   90  240 Kh Td
+Raven     1001375959  4  3 f   -     -     -         2222    0    0 
+Raven     1001375983  5  2 Bk  bc    kc    kc        2222   70    0 Qs As
+Raven     1001376018  6  1 BQ  -     -     -         2152    5    0 
+Raven     1001376336  7  3 c   k     k     k         2147   10    0 Js Th
+Raven     1001376406  7  2 Bk  k     b     k         2137   30    0 Jd 6h
+Raven     1001376469  6  1 Bf  -     -     -         2107    5    0 
+Raven     1001376479  6  6 c   f     -     -         2102   10    0 
+Raven     1001376516  6  5 f   -     -     -         2092    0    0 
+Raven     1001376550  6  4 c   k     c     k         2092   30    0 Th Qh
+Raven     1001376607  6  3 c   b     -     -         2062   20   45 
+Raven     1001376631  6  2 Bf  -     -     -         2087   10    0 
+Raven     1001376658  6  1 Bf  -     -     -         2077    5    0 
+Raven     1001376705  6  6 c   c     k     b         2072   40    0 Qs Qd
+Raven     1001376778  6  3 Q   -     -     -         2032    0    0 
+Raven     1001380858  4  3 f   -     -     -         2032    0    0 
+Raven     1001380880  6  4 c   k     f     -         2032   10    0 
+Raven     1001380916  7  4 c   cc    c     f         2022   70    0 
+Raven     1001380978  8  4 cc  c     c     cc        1952  130    0 Kh As
+Raven     1001381045  8  4 cr  rr    c     c         1822  120  420 Qd 9d
+Raven     1001381110  8  3 c   kf    -     -         2122   10    0 
+Raven     1001381230  8  2 Bf  -     -     -         2112   10    0 
+Raven     1001381308  8  1 Bf  -     -     -         2102    5    0 
+Raven     1001381409  8  8 f   -     -     -         2097    0    0 
+Raven     1001381532  8  7 c   k     b     k         2097   30    0 3c 7c
+Raven     1001381584  8  6 cc  f     -     -         2067   20    0 
+Raven     1001381712  8  6 f   -     -     -         2047    0    0 
+Raven     1001381769  8  5 cc  bc    kc    kf        2047   60    0 
+Raven     1001381813  8  4 cc  cc    kcc   c         1987  160    0 4d 9d
+Raven     1001381913  8  3 cc  cc    c     br        1827  120  420 9d Ah
+Raven     1001382002  7  2 Bk  k     b     k         2127   30    0 Jc 8d
+Raven     1001382086  8  1 Bf  -     -     -         2097    5    0 
+Raven     1001382142  8  8 f   -     -     -         2092    0    0 
+Raven     1001382186  7  6 c   b     b     k         2092   40  140 8c Jd
+Raven     1001382258  7  5 f   -     -     -         2192    0    0 
+Raven     1001382296  7  4 cc  c     k     f         2192   30    0 
+Raven     1001382350  6  3 f   -     -     -         2162    0    0 
+Raven     1001382394  6  2 Bk  kf    -     -         2162   10    0 
+Raven     1001382438  5  1 Bc  k     k     k         2152   10    0 As Td
+Raven     1001382499  5  5 c   f     -     -         2142   10    0 
+Raven     1001382535  5  4 f   -     -     -         2132    0    0 
+Raven     1001382560  5  3 f   -     -     -         2132    0    0 
+Raven     1001382585  6  2 Bf  -     -     -         2132   10    0 
+Raven     1001382619  6  1 Bc  b     k     kc        2122   60    0 Ah 9h
+Raven     1001382663  6  6 f   -     -     -         2062    0    0 
+Raven     1001382703  6  5 f   -     -     -         2062    0    0 
+Raven     1001382750  6  4 cc  f     -     -         2062   20    0 
+Raven     1001382797  5  3 cc  c     c     cf        2042   70    0 
+Raven     1001382848  5  2 Bk  k     kf    -         1972   10    0 
+Raven     1001382887  6  1 BQ  -     -     -         1962    5    0 
+Raven     1001450767  8  8 c   cc    c     c         1957   80    0 Jh Jc
+Raven     1001450860  7  5 f   -     -     -         1877    0    0 
+Raven     1001450938  7  4 f   -     -     -         1877    0    0 
+Raven     1001450970  6  3 f   -     -     -         1877    0    0 
+Raven     1001450981  6  2 Bc  f     -     -         1877   20    0 
+Raven     1001451003  6  1 Br  bc    kc    b         1857   90  300 Kd Kh
+Raven     1001451046  6  6 c   b     b     b         2067   60  130 8d Ad
+Raven     1001451072  5  4 f   -     -     -         2137    0    0 
+Raven     1001451078  5  3 Q   -     -     -         2137    0    0 
+Raven     1001453052  5  3 cc  kc    c     k         2137   60    0 6h Ac
+Raven     1001453092  5  2 Bk  kc    kf    -         2077   20    0 
+Raven     1001453131  5  1 Bf  -     -     -         2057    5    0 
+Raven     1001453154  5  5 f   -     -     -         2052    0    0 
+Raven     1001453192  5  4 f   -     -     -         2052    0    0 
+Raven     1001453225  5  3 cc  kc    kf    -         2052   30    0 
+Raven     1001453260  5  2 Bf  -     -     -         2022   10    0 
+Raven     1001453291  5  1 Bc  k     b     -         2012   30   50 
+Raven     1001453311  5  5 c   b     -     -         2032   20   50 
+Raven     1001453329  5  4 f   -     -     -         2062    0    0 
+Raven     1001453352  5  3 f   -     -     -         2062    0    0 
+Raven     1001453387  5  2 Bf  -     -     -         2062   10    0 
+Raven     1001453401  5  1 Bf  -     -     -         2052    5    0 
+Raven     1001453443  5  5 c   c     r     b         2047   80  155 
+Raven     1001453488  6  4 c   k     b     -         2122   30   70 
+Raven     1001453536  7  3 c   k     k     k         2162   10   15 Kh 4h
+Raven     1001453584  8  2 Bk  kf    -     -         2167   10    0 
+Raven     1001453622  8  1 Bf  -     -     -         2157    5    0 
+Raven     1001453702  8  8 c   c     c     c         2152   60  165 Ad As
+Raven     1001453749  7  6 c   k     k     f         2257   10    0 
+Raven     1001453792  7  5 f   -     -     -         2247    0    0 
+Raven     1001453823  7  4 f   -     -     -         2247    0    0 
+Raven     1001453844  7  3 f   -     -     -         2247    0    0 
+Raven     1001453888  7  2 Bk  kf    -     -         2247   10    0 
+Raven     1001453934  7  1 Bc  kc    b     b         2237   60  140 
+Raven     1001453983  7  7 c   c     k     k         2317   30    0 Kc 9c
+Raven     1001454034  8  7 c   k     f     -         2287   10    0 
+Raven     1001454091  8  6 f   -     -     -         2277    0    0 
+Raven     1001454139  8  5 f   -     -     -         2277    0    0 
+Raven     1001454227  6  3 f   -     -     -         2277    0    0 
+Raven     1001454257  6  2 Bk  k     kf    -         2277   10    0 
+Raven     1001454291  5  1 Bc  k     k     k         2267   10   30 6c Qc
+Raven     1001454324  5  5 c   f     -     -         2287   10    0 
+Raven     1001454365  6  5 ccc cc    c     c         2277  100  300 7c 9c
+Raven     1001454408  6  4 c   c     r     c         2477   80  200 Td Js
+Raven     1001454447  6  4 cc  c     k     k         2597   30    0 Kc Ah
+Raven     1001454488  5  2 Bc  b     -     -         2567   30   55 
+Raven     1001454507  5  1 Bc  kc    kc    kf        2592   50    0 
+Raven     1001454553  6  6 f   -     -     -         2542    0    0 
+Raven     1001454601  6  5 c   c     c     c         2542   60  150 Ad Ks
+Raven     1001454643  7  4 f   -     -     -         2632    0    0 
+Raven     1001454681  6  2 Bf  -     -     -         2632   10    0 
+Raven     1001454687  6  1 Bf  -     -     -         2622    5    0 
+Raven     1001454709  6  6 c   c     c     f         2617   40    0 
+Raven     1001454748  6  5 c   k     b     b         2577   50  140 
+Raven     1001454794  6  4 f   -     -     -         2667    0    0 
+Raven     1001454808  6  3 c   f     -     -         2667   10    0 
+Raven     1001454867  5  1 Bk  kf    -     -         2657   10    0 
+Raven     1001454897  5  1 Bf  -     -     -         2647    5    0 
+Raven     1001454919  5  5 f   -     -     -         2642    0    0 
+Raven     1001454943  5  4 c   c     f     -         2642   20    0 
+Raven     1001454983  5  3 cc  Q     -     -         2622   20    0 
+Raven     1001466004  6  5 c   cc    kf    -         2602   30    0 
+Raven     1001466085  7  4 c   kf    -     -         2572   10    0 
+Raven     1001466147  7  3 cc  k     b     b         2562   60  185 Ts 9d
+Raven     1001466214  6  2 Bf  -     -     -         2687   10    0 
+Raven     1001466253  6  1 Bf  -     -     -         2677    5    0 
+Raven     1001466278  6  6 c   f     -     -         2672   10    0 
+Raven     1001466325  7  6 cc  c     br    r         2662  130  275 Qd 8h
+Raven     1001466440  7  5 f   -     -     -         2807    0    0 
+Raven     1001466512  7  4 f   -     -     -         2807    0    0 
+Raven     1001466599  6  3 f   -     -     -         2807    0    0 
+Raven     1001466627  6  2 Bf  -     -     -         2807   10    0 
+Raven     1001466680  6  1 Bc  k     k     k         2797   10    0 Jh 8c
+Raven     1001466722  6  6 f   -     -     -         2787    0    0 
+Raven     1001466770  6  5 c   cr    cc    c         2787  110  410 8c Kd
+Raven     1001466850  6  4 c   k     k     k         3087   10    0 2h Kh
+Raven     1001466915  6  3 f   -     -     -         3077    0    0 
+Raven     1001466960  6  2 Bk  k     k     b         3077   30   50 
+Raven     1001467009  6  1 Bc  kc    kc    k         3097   40    0 Ts 9h
+Raven     1001467064  6  6 fQ  -     -     -         3057    0    0 
+Raven     1001542358  6  5 f   -     -     -         3047    0    0 
+Raven     1001542398  6  4 cc  b     kc    k         3047   50    0 6d Kd
+Raven     1001542473  6  3 f   -     -     -         2997    0    0 
+Raven     1001542497  6  2 Bk  kc    k     b         2997   40  100 6c Kh
+Raven     1001542533  6  1 Bc  k     bc    kc        3057   70  150 6c Kh
+Raven     1001542568  6  6 f   -     -     -         3137    0    0 
+Raven     1001542605  6  5 f   -     -     -         3137    0    0 
+Raven     1001542648  6  4 f   -     -     -         3137    0    0 
+Raven     1001542704  7  3 cc  k     b     b         3137   60  170 
+Raven     1001542776  7  1 Bf  -     -     -         3247   10    0 
+Raven     1001542832  8  1 Bc  kf    -     -         3237   20    0 
+Raven     1001542872  8  8 c   c     f     -         3217   40    0 
+Raven     1001542901  9  8 f   -     -     -         3177    0    0 
+Raven     1001542964  9  7 f   -     -     -         3177    0    0 
+Raven     1001543007  9  6 c   kc    kc    kf        3177   50    0 
+Raven     1001543082  9  4 cc  f     -     -         3127   30    0 
+Raven     1001543123  9  3 cc  cc    cc    cc        3097  210  370 4h 3c
+Raven     1001543197  9  3 ccc k     k     k         3257   40  135 5c 6c
+Raven     1001543236  8  2 Bc  kf    -     -         3352   20    0 
+Raven     1001543267  8  1 Bf  -     -     -         3332    5    0 
+Raven     1001543306  8  8 f   -     -     -         3327    0    0 
+Raven     1001543342  9  8 c   b     b     b         3327   70  215 
+Raven     1001543419  8  6 c   f     -     -         3472   10    0 
+Raven     1001543464  8  5 f   -     -     -         3462    0    0 
+Raven     1001543509  8  4 c   k     k     b         3462   30   55 
+Raven     1001543550  8  3 f   -     -     -         3487    0    0 
+Raven     1001543610  8  2 Bk  kf    -     -         3487   10    0 
+Raven     1001543631  8  1 Bf  -     -     Q         3477    5    0 
+Raven     1001635845  9  6 f   -     -     -         1000    0    0 
+Raven     1001635877  9  5 c   c     c     f         1000   40    0 
+Raven     1001635916  9  4 c   f     -     -          960   10    0 
+Raven     1001635962  9  3 c   c     c     k          950   40    0 Qs Kd
+Raven     1001635993  9  2 Bk  kf    -     -          910   10    0 
+Raven     1001636022  9  1 Bf  -     -     -          900    5    0 
+Raven     1001636062  9  9 c   c     k     b          895   40   70 
+Raven     1001636112  9  9 c   c     c     b          925   60  135 7h Ac
+Raven     1001636145  8  7 f   -     -     -         1000    0    0 
+Raven     1001636214  7  5 f   -     -     -         1000    0    0 
+Raven     1001636253  7  4 f   -     -     -         1000    0    0 
+Raven     1001636290  7  3 r   -     -     -         1000   20   35 
+Raven     1001636303  7  2 Br  b     b     bc        1015   90    0 Qd Qh
+Raven     1001636369  7  1 Br  kc    kr    b          925   90  170 
+Raven     1001636412  7  7 f   -     -     -         1005    0    0 
+Raven     1001636444  7  6 f   -     -     -         1005    0    0 
+Raven     1001636460  7  5 f   -     -     -         1005    0    0 
+Raven     1001636493  7  4 f   -     -     -         1005    0    0 
+Raven     1001636516  7  3 r   k     k     b         1005   40   95 9s 9d
+Raven     1001636562  7  2 Bk  kc    f     -         1060   20    0 
+Raven     1001636596  8  1 Bf  -     -     -         1040    5    0 
+Raven     1001636647  7  7 f   -     -     -         1035    0    0 
+Raven     1001636684  7  6 c   c     f     -         1035   20    0 
+Raven     1001636737  7  5 c   k     c     k         1015   30    0 Ks 2s
+Raven     1001636769  7  4 f   -     -     -          985    0    0 
+Raven     1001636821  7  3 c   k     f     -          985   10    0 
+Raven     1001636866  7  2 Bk  kf    -     -          975   10    0 
+Raven     1001636912  7  1 Bf  -     -     -          965    5    0 
+Raven     1001636925  6  6 c   c     b     b          960   70  170 8c Jc
+Raven     1001636972  7  6 c   k     b     b         1060   50  100 
+Raven     1001637012  7  5 f   -     -     -         1110    0    0 
+Raven     1001637032  7  4 c   c     f     -         1110   20    0 
+Raven     1001637064  7  3 f   -     -     -         1090    0    0 
+Raven     1001637124  8  2 Bk  kf    -     -         1090   10    0 
+Raven     1001637155  8  1 Bc  kf    -     -         1080   20    0 
+Raven     1001637206  8  8 c   f     -     -         1060   10    0 
+Raven     1001637233  8  7 f   -     -     -         1050    0    0 
+Raven     1001637259  8  6 c   c     b     -         1050   40   65 
+Raven     1001637294  7  4 cc  c     c     r         1075   90  190 Ah Qh
+Raven     1001637325  8  3 c   k     k     k         1175   10    0 Ah Kc
+Raven     1001637399  7  2 Bk  kf    -     -         1165   10    0 
+Raven     1001637448  8  1 Bc  kf    -     -         1155   20    0 
+Raven     1001637481  8  8 f   -     -     -         1135    0    0 
+Raven     1001637537  9  7 c   f     -     -         1135   20    0 
+Raven     1001637608  8  5 c   k     b     f         1115   30    0 
+Raven     1001637670  8  4 f   -     -     -         1085    0    0 
+Raven     1001637697  5  2 cc  kf    -     -         1085   20    0 
+Raven     1001637740  5  2 Bk  k     k     kf        1065   10    0 
+Raven     1001637799  5  1 Bc  kc    kc    kr        1055   90  170 
+Raven     1001637823  5  5 c   b     -     -         1135   20   50 
+Raven     1001637867  5  4 f   -     -     -         1165    0    0 
+Raven     1001637910  6  3 r   kc    kc    kc        1165   70    0 Js Jh
+Raven     1001637947  6  2 Bc  kc    kr    -         1095   70  125 
+Raven     1001637978  6  1 Bf  -     -     -         1150    5    0 
+Raven     1001638006  6  6 c   b     b     b         1145   60  135 Jh Th
+Raven     1001638042  6  5 c   k     k     k         1220   10    0 Ah 8c
+Raven     1001638072  6  4 c   b     k     c         1210   40    0 Ah 4s
+Raven     1001638104  6  3 c   k     k     k         1170   10   45 3d Ac
+Raven     1001638148  6  2 B   -     -     -         1205   10   15 
+Raven     1001638160  6  1 Bc  b     b     b         1210   60  150 9s Kc
+Raven     1001638209  7  7 c   c     f     -         1300   20    0 
+Raven     1001638257  7  6 f   -     -     -         1280    0    0 
+Raven     1001638262  7  5 c   f     -     -         1280   10    0 
+Raven     1001638291  7  4 cc  f     -     -         1270   20    0 
+Raven     1001638326  8  4 f   -     -     -         1250    0    0 
+Raven     1001638338  8  3 c   f     -     -         1250   10    0 
+Raven     1001638400  8  2 Bk  k     k     kf        1240   10    0 
+Raven     1001638463  9  1 Bc  kf    -     -         1230   10    0 
+Raven     1001638530  9  9 c   b     b     c         1220   60    0 Jc Kd
+Raven     1001638597  9  8 f   -     -     -         1160    0    0 
+Raven     1001638686  8  6 c   f     Q     -         1160   20    0 
+Raven     1001715527  4  3 cc  kc    k     k         1140   30    0 Td 8d
+Raven     1001715551  4  2 Bk  b     b     -         1110   40   70 
+Raven     1001715574  4  1 Bf  -     -     -         1140    5    0 
+Raven     1001715589  4  4 f   -     -     -         1135    0    0 
+Raven     1001715619  5  3 c   k     k     b         1135   30   55 
+Raven     1001715644  5  2 Bc  kc    kc    b         1160   70  155 
+Raven     1001715678  5  1 Bc  kf    -     -         1245   10    0 
+Raven     1001715704  5  5 f   -     -     -         1235    0    0 
+Raven     1001715710  5  4 f   -     -     -         1235    0    0 
+Raven     1001715742  5  3 f   -     -     -         1235    0    0 
+Raven     1001715778  6  2 Bk  f     -     -         1235   10    0 
+Raven     1001715830  8  1 Bc  kc    k     kf        1225   20    0 
+Raven     1001715931  7  7 f   -     -     -         1205    0    0 
+Raven     1001715969  9  9 f   -     -     -         1205    0    0 
+Raven     1001716017  6  6 cc  c     f     -         1205   30    0 
+Raven     1001716061  5  4 r   k     b     k         1175   40   42 Qh Ah
+Raven     1001716102  6  4 cc  c     c     c         1177   80    0 Tc 8h
+Raven     1001716149  6  3 c   b     k     k         1097   20    0 6s 9s
+Raven     1001716179  7  2 Bk  k     k     k         1077   10   30 9h 2c
+Raven     1001716203  7  1 Bf  -     -     -         1097    5    0 
+Raven     1001716235  7  7 f   -     -     -         1092    0    0 
+Raven     1001716264  7  6 c   c     f     -         1092   20    0 
+Raven     1001716313  7  5 f   -     -     -         1072    0    0 
+Raven     1001716341  7  4 f   -     -     -         1072    0    0 
+Raven     1001716377  7  3 c   kc    kc    kf        1072   40    0 
+Raven     1001716409  8  2 Bk  kf    -     -         1032   10    0 
+Raven     1001716444  7  1 Bc  kc    kc    kr        1022   90  280 As Kc
+Raven     1001716491  7  7 c   k     f     -         1212   10    0 
+Raven     1001716538  7  6 cc  f     Q     -         1202   20    0 
+Raven     1001716655  8  4 f   -     -     -         1182    0    0 
+Raven     1001716686  8  3 c   kf    -     -         1182   10    0 
+Raven     1001716724  8  2 Bk  b     b     b         1172   60  160 
+Raven     1001716769  8  1 Bcc kf    -     -         1272   20    0 
+Raven     1001716801  7  7 c   c     c     f         1252   50    0 
+Raven     1001716845  7  6 f   -     -     -         1202    0    0 
+Raven     1001716883  7  5 f   -     -     -         1202    0    0 
+Raven     1001716917  7  4 c   k     f     -         1202   10    0 
+Raven     1001716960  7  3 c   k     k     k         1192   10    0 Tc Kc
+Raven     1001716992  7  2 Bk  c     cf    -         1182   40    0 
+Raven     1001717048  7  1 Bc  kf    -     -         1142   10    0 
+Raven     1001717078  7  7 c   b     k     k         1132   20   65 6s Ah
+Raven     1001717132  6  5 cc  f     -     -         1177   20    0 
+Raven     1001717182  6  4 c   k     kc    kc        1157   50  115 5c As
+Raven     1001717213  6  3 c   k     kc    k         1222   30    0 Qh Th
+Raven     1001717266  5  1 B   -     -     -         1192   10   10 
+Raven     1001717283  4  1 Bf  -     -     -         1192    5    0 
+Raven     1001717294  5  5 c   c     c     b         1187   60  125 
+Raven     1001717330  5  4 f   -     -     -         1252    0    0 
+Raven     1001717356  5  3 f   -     -     -         1252    0    0 
+Raven     1001717372  5  2 Bk  kf    -     -         1252   10    0 
+Raven     1001717412  6  1 Bc  kc    kc    kf        1242   50    0 
+Raven     1001717458  6  6 f   -     -     -         1192    0    0 
+Raven     1001717487  6  5 c   c     c     b         1192   60  170 Th 9s
+Raven     1001717542  6  4 c   k     b     -         1302   30   60 
+Raven     1001717599  6  3 c   k     f     -         1332   10    0 
+Raven     1001717626  6  2 Bk  kc    kcc   kf        1322   80    0 
+Raven     1001717703  7  1 Bf  -     -     -         1242    5    0 
+Raven     1001717725  7  7 cc  c     bc    b         1237   90  230 Jd Tc
+Raven     1001717796  7  6 f   -     -     -         1377    0    0 
+Raven     1001717832  7  5 c   kf    -     -         1377   10    0 
+Raven     1001717854  7  4 c   k     b     -         1367   30   60 
+Raven     1001717889  6  3 f   -     -     -         1397    0    0 
+Raven     1001717938  6  2 Bk  kf    -     -         1397   10    0 
+Raven     1001717962  6  1 Bc  k     b     k         1387   30   80 7h Ah
+Raven     1001717992  4  4 c   c     f     -         1437   20    0 
+Raven     1001718025  4  4 c   b     c     k         1417   40  110 8s 9h
+Raven     1001718066  4  3 c   f     -     -         1487   10    0 
+Raven     1001718102  4  2 B   -     -     -         1477   10   15 
+Raven     1001718116  4  1 Bf  -     -     -         1482    5    0 
+Raven     1001718120  4  4 cc  b     k     c         1477   60  190 Ac 7c
+Raven     1001718151  4  3 c   b     -     -         1607   20   40 
+Raven     1001718176  4  2 Bf  -     -     -         1627   10    0 
+Raven     1001718192  4  1 Bc  kc    kc    kc        1617   60    0 Ah Ks
+Raven     1001718229  4  4 f   -     -     -         1557    0    0 
+Raven     1001718245  4  3 c   c     c     r         1557   80  180 4h 8h
+Raven     1001718284  4  2 BQ  -     -     -         1657   10    0 
+Raven     1001726922  6  2 Bk  kc    kc    b         1647   90  285 2h 7h
+Raven     1001726986  6  1 Bc  k     kr    k         1842   60  220 5c 5s
+Raven     1001727044  6  6 cc  f     -     -         2002   30    0 
+Raven     1001727120  5  5 c   k     c     b         1972   50  115 9c Kh
+Raven     1001727169  3  3 c   f     -     -         2037   10    0 
+Raven     1001727212  3  3 c   c     b     b         2027   60  110 
+Raven     1001727251  3  2 Bk  k     c     k         2077   30    0 8s Ah
+Raven     1001727280  3  1 Bc  k     b     -         2047   30   50 
+Raven     1001727303  3  3 f   -     -     -         2067    0    0 
+Raven     1001727324  3  2 B   -     -     -         2067   10   15 
+Raven     1001727331  3  1 Bc  k     k     k         2072   10    0 2c 6c
+Raven     1001727346  3  3 c   c     f     -         2062   20    0 
+Raven     1001727364  3  2 B   -     -     -         2042   10   15 
+Raven     1001727368  3  1 Bc  b     b     b         2047   60  100 
+Raven     1001727386  3  3 f   -     -     -         2087    0    0 
+Raven     1001727389  4  2 Bk  k     k     b         2087   30   50 
+Raven     1001727422  4  1 Bcc kc    k     k         2107   30    0 Qc Jd
+Raven     1001727460  4  4 c   b     k     f         2077   20    0 
+Raven     1001727490  5  3 f   -     -     -         2057    0    0 
+Raven     1001727521  5  2 Bk  b     b     -         2057   40   90 
+Raven     1001727578  5  1 Bc  bc    kc    k         2107   60  160 Kc Ad
+Raven     1001727612  5  5 cc  c     c     r         2207  100  240 Ad 4d
+Raven     1001727646  5  4 c   k     kc    c         2347   50    0 7c Kh
+Raven     1001727721  5  3 f   -     -     -         2297    0    0 
+Raven     1001727769  4  1 Bk  k     k     b         2297   30   50 
+Raven     1001727811  5  1 Bf  -     -     -         2317    5    0 
+Raven     1001727817  5  5 f   -     -     -         2312    0    0 
+Raven     1001727826  5  4 cc  kc    kc    kc        2312   70  165 4d Ah
+Raven     1001727852  5  3 crc kc    krr   b         2407  150  163 Tc 9c
+Raven     1001727893  5  2 Bk  k     kf    -         2420   10    0 
+Raven     1001727956  5  1 Bf  -     -     -         2410    5    0 
+Raven     1001728007  5  5 cc  r     b     b         2405   80  150 
+Raven     1001728044  5  4 cc  f     -     -         2475   20    0 
+Raven     1001728068  5  3 cc  c     b     r         2455   90  215 Ac Jc
+Raven     1001728113  5  2 Brc k     k     k         2580   40  120 Kh 9s
+Raven     1001728149  5  1 Brc kf    -     -         2660   27    0 
+Raven     1001728186  5  5 cc  f     -     -         2633   40    0 
+Raven     1001728248  5  5 c   b     b     b         2593   60  150 Qc Qd
+Raven     1001728294  5  4 f   -     -     -         2683    0    0 
+Raven     1001728320  5  3 c   kc    kc    kc        2683   60  145 Ad As
+Raven     1001728366  4  1 Bk  k     kf    -         2768   10    0 
+Raven     1001728395  4  1 Bc  k     k     kc        2758   30    0 Qc 8c
+Raven     1001728439  5  5 f   -     -     -         2728    0    0 
+Raven     1001728494  5  4 f   -     -     -         2728    0    0 
+Raven     1001728540  5  3 c   k     k     b         2728   30   55 
+Raven     1001728574  5  2 B   -     -     -         2753   10   15 
+Raven     1001728579  5  1 Bc  kf    -     -         2758   10    0 
+Raven     1001728622  5  5 c   c     c     f         2748   40    0 
+Raven     1001728661  5  4 cc  f     -     -         2708   20    0 
+Raven     1001728683  5  3 f   -     -     -         2688    0    0 
+Raven     1001728707  5  2 B   -     -     -         2688   10   15 
+Raven     1001728720  5  1 Bc  bc    kc    kc        2693   70    0 6c Ad
+Raven     1001728762  5  5 cc  f     -     -         2623   20    0 
+Raven     1001728784  5  4 c   kc    kc    k         2603   40    0 Ad 9h
+Raven     1001728819  5  3 f   -     -     -         2563    0    0 
+Raven     1001728834  5  2 Bc  bf    -     -         2563   30    0 
+Raven     1001728877  5  1 Bf  -     -     -         2533    5    0 
+Raven     1001728918  5  5 cc  k     k     f         2528   20    0 
+Raven     1001729047  4  3 c   b     -     -         2508   20   30 
+Raven     1001729064  5  3 f   -     -     -         2518    0    0 
+Raven     1001729088  5  2 Bk  kc    k     k         2518   20   65 7c Tc
+Raven     1001729118  5  1 Bf  -     -     -         2563    5    0 
+Raven     1001729149  5  5 f   -     -     -         2558    0    0 
+Raven     1001729177  5  4 c   b     -     -         2558   20   50 
+Raven     1001729202  4  2 f   -     -     -         2588    0    0 
+Raven     1001729219  5  2 Bf  -     -     -         2588   10    0 
+Raven     1001729250  5  1 Bf  -     -     -         2578    5    0 
+Raven     1001729275  5  5 c   f     -     -         2573   10    0 
+Raven     1001729289  5  4 f   -     -     -         2563    0    0 
+Raven     1001729337  5  3 c   c     c     c         2563   60  130 Kh Th
+Raven     1001729377  4  2 Bk  kc    kQ    -         2633   20    0 
+Raven     1001873838  3  2 Bk  k     k     k         3704   10    0 8s 5c
+Raven     1001873874  3  1 Br  b     b     b         3694   70  120 
+Raven     1001873895  3  3 r   -     -     -         3744   20   35 
+Raven     1001873901  3  2 Bk  k     b     b         3759   50   85 
+Raven     1001873925  3  1 Bc  k     bc    kc        3794   70  140 7c Kd
+Raven     1001873944  3  3 c   k     f     -         3864   10    0 
+Raven     1001873967  3  2 Bk  k     k     b         3854   30   50 
+Raven     1001874009  3  1 Bf  -     -     -         3874    5    0 
+Raven     1001874013  3  3 c   f     -     -         3869   10    0 
+Raven     1001874034  3  2 Bf  -     -     -         3859   10    0 
+Raven     1001874063  3  1 Bf  -     -     -         3849    5    0 
+Raven     1001874090  3  3 c   c     f     -         3844   20    0 
+Raven     1001874123  3  2 Bf  -     -     -         3824   10    0 
+Raven     1001874132  3  1 Bf  -     -     -         3814    5    0 
+Raven     1001874158  3  3 c   f     -     -         3809   10    0 
+Raven     1001874199  3  2 Bf  -     -     -         3799   10    0 
+Raven     1001874223  3  1 Bf  -     -     -         3789    5    0 
+Raven     1001874229  3  3 c   k     k     k         3784   10    0 3s Ks
+Raven     1001874255  3  2 B   -     -     -         3774   10   15 
+Raven     1001874263  3  1 Bc  k     k     b         3779   30   40 
+Raven     1001874290  3  3 c   f     -     -         3789   10    0 
+Raven     1001874315  3  2 B   -     -     -         3779   10   15 
+Raven     1001874320  3  1 Bc  k     kc    kf        3784   30    0 
+Raven     1001874352  3  3 c   c     k     k         3754   20    0 4s Ac
+Raven     1001874390  3  2 Bc  k     k     k         3734   20    0 Qh Th
+Raven     1001874418  3  1 Bf  -     -     -         3714    5    0 
+Raven     1001874429  3  3 c   c     c     f         3709   40    0 
+Raven     1001874447  3  2 Bk  k     k     k         3669   10    0 2c Kd
+Raven     1001874468  3  1 Bc  b     k     b         3659   40   80 9d 8d
+Raven     1001874499  4  3 f   -     -     -         3699    0    0 
+Raven     1001874532  4  2 Bk  k     k     b         3699   30   45 
+Raven     1001874552  4  1 Bc  k     kc    k         3714   30   70 6d Qh
+Raven     1001874580  3  3 f   -     -     -         3754    0    0 
+Raven     1001874604  3  2 Bk  k     k     b         3754   30   50 
+Raven     1001874635  3  1 Bf  -     -     -         3774    5    0 
+Raven     1001874640  3  3 c   f     -     -         3769   10    0 
+Raven     1001874651  3  2 Bk  kc    k     k         3759   20    0 6c 2h
+Raven     1001874675  3  1 Bc  kf    -     -         3739   10    0 
+Raven     1001874693  3  3 c   c     k     k         3729   20    0 9d Ad
+Raven     1001874712  3  2 Bk  c     f     -         3709   20    0 
+Raven     1001874739  3  1 Bcc kc    kr    k         3689   70    0 5h Th
+Raven     1001874769  3  3 f   -     -     -         3619    0    0 
+Raven     1001874780  3  2 Bk  k     k     kf        3619   10    0 
+Raven     1001874803  2  1 Bc  k     b     -         3609   30   40 
+Raven     1001874813  2  2 B   -     -     -         3619   10   15 
+Raven     1001874815  2  1 Bc  b     kc    kc        3624   60    0 5s Ks
+Raven     1001874834  2  2 Bk  f     -     -         3564   10    0 
+Raven     1001874844  2  1 Bc  k     k     b         3554   30   40 
+Raven     1001874857  2  2 Bk  k     b     -         3564   30   40 
+Raven     1001874868  2  1 Br  b     b     -         3574   50   80 
+Raven     1001874879  2  2 Bk  k     k     k         3604   10    0 Qd 9c
+Raven     1001874899  2  1 Bcc bc    k     k         3594   40   80 Qd 8h
+Raven     1001874924  2  2 B   -     -     -         3634   10   15 
+Raven     1001878598  4  2 Bf  -     -     -         3639   10    0 
+Raven     1001878610  4  1 Bcc kf    -     -         3629   30    0 
+Raven     1001878642  4  4 f   -     -     -         3599    0    0 
+Raven     1001878651  4  3 f   -     -     -         3599    0    0 
+Raven     1001878693  4  2 Bf  -     -     -         3599   10    0 
+Raven     1001878701  4  1 Bcc kc    k     bc        3589   70    0 6h Kh
+Raven     1001878738  4  4 f   -     -     -         3519    0    0 
+Raven     1001878768  4  3 c   b     -     -         3519   20   35 
+Raven     1001878796  4  2 Bk  b     -     -         3534   20   40 
+Raven     1001878816  4  1 Bc  kc    kc    kf        3554   50    0 
+Raven     1001878856  4  4 c   k     c     c         3504   50    0 9d Qc
+Raven     1001878882  3  3 f   -     -     -         3454    0    0 
+Raven     1001878899  3  2 Bk  f     -     -         3454   10    0 
+Raven     1001878915  3  1 Bcc kc    krc   br        3444  150  300 As 6d
+Raven     1001878941  3  3 c   k     c     k         3594   30   65 Jh 8s
+Raven     1001878969  3  2 Bk  k     k     k         3629   10   30 5s Ad
+Raven     1001878993  4  1 Bc  kf    -     -         3649   20    0 
+Raven     1001879017  4  4 c   k     k     k         3629   10    0 2s Ah
+Raven     1001879037  4  3 f   -     -     -         3619    0    0 
+Raven     1001879067  4  2 Bk  c     c     b         3619   60  120 Qs 9c
+Raven     1001879094  5  1 Bf  -     -     -         3679    5    0 
+Raven     1001879125  5  5 f   -     -     -         3674    0    0 
+Raven     1001879173  5  4 f   -     -     -         3674    0    0 
+Raven     1001879199  6  3 c   f     -     -         3674   10    0 
+Raven     1001879242  6  2 Bk  kf    -     -         3664   10    0 
+Raven     1001879292  6  1 Bc  kf    -     -         3654   10    0 
+Raven     1001879311  6  6 c   f     -     -         3644   10    0 
+Raven     1001879346  6  5 c   f     -     -         3634   10    0 
+Raven     1001879387  6  4 f   -     -     -         3624    0    0 
+Raven     1001879417  6  3 cc  kc    kc    k         3624   50  115 Qd Js
+Raven     1001879452  6  2 Bc  bc    k     k         3689   40   85 Td 9s
+Raven     1001879474  6  1 Bc  kf    -     -         3734   30    0 
+Raven     1001879523  6  6 f   -     -     -         3704    0    0 
+Raven     1001879553  6  5 f   -     -     -         3704    0    0 
+Raven     1001879597  6  4 c   c     k     c         3704   40    0 Tc Js
+Raven     1001879654  6  3 f   -     -     -         3664    0    0 
+Raven     1001879666  6  2 Bk  k     f     -         3664   10    0 
+Raven     1001879695  6  1 Bc  b     b     k         3654   40   90 Jd Kd
+Raven     1001879715  5  5 f   -     -     -         3704    0    0 
+Raven     1001879743  5  4 c   c     f     -         3704   20    0 
+Raven     1001879786  5  3 f   -     -     -         3684    0    0 
+Raven     1001879801  5  2 Bf  -     -     -         3684   10    0 
+Raven     1001879833  5  1 Bc  kc    k     b         3674   40   90 2d Jd
+Raven     1001879863  5  5 f   -     -     -         3724    0    0 
+Raven     1001879894  5  4 c   k     k     f         3724   10    0 
+Raven     1001879925  5  3 c   cfQ   -     -         3714   20    0 
+Raven     1001880122  6  3 c   kc    k     k         3694   20   70 6c 6h
+Raven     1001880182  6  2 Bf  -     -     -         3744   10    0 
+Raven     1001880216  6  1 Bc  kc    kc    kc        3734   60  140 Js Qd
+Raven     1001880268  6  6 c   c     c     c         3814   60    0 Ad 2c
+Raven     1001880306  6  5 cc  kc    k     kf        3754   30    0 
+Raven     1001880407  5  3 c   kc    k     f         3724   20    0 
+Raven     1001880494  5  3 c   k     f     -         3704   10    0 
+Raven     1001880540  5  2 Bk  r     bc    k         3694   70    0 Ts Jd
+Raven     1001880583  4  1 Bc  b     b     k         3624   40    0 Td 6d
+Raven     1001880626  4  3 Q   -     -     -         3584    0    0 
+Raven     1001884903  7  7 f   -     -     -         3584    0    0 
+Raven     1001884958  7  6 c   f     -     -         3584   20    0 
+Raven     1001885019  8  5 c   kf    -     -         3564   10    0 
+Raven     1001885099  8  4 c   k     k     k         3554   10    0 9s Ah
+Raven     1001885195  7  4 f   -     -     -         3544    0    0 
+Raven     1001885225  9  3 rc  k     b     b         3544   70  155 Qs Qc
+Raven     1001885255  8  2 Bc  kf    -     -         3629   20    0 
+Raven     1001885331  8  1 Bf  -     -     -         3609    5    0 
+Raven     1001885420  8  8 f   -     -     -         3604    0    0 
+Raven     1001885487  8  7 c   f     -     -         3604   10    0 
+Raven     1001885556  8  6 f   -     -     -         3594    0    0 
+Raven     1001885601  8  6 f   -     -     -         3594    0    0 
+Raven     1001885667  7  4 c   c     kc    c         3594  100    0 Js Kd
+Raven     1001885758  6  2 BQ  -     -     -         3494   10    0 
+Raven     1001896276  6  3 cc  kc    br    bc        3404  130    0 3h 2h
+Raven     1001896344  6  3 cc  c     c     c         3274   70    0 Jh 8h
+Raven     1001896440  5  2 BQ  -     -     -         3204   10    0 

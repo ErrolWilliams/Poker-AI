@@ -1,0 +1,567 @@
+CFigor    973113535  6  5 f   -     -     -          380    0    0 
+CFigor    973113592  7  5 c   kf    -     -          380   20    0 
+CFigor    973113652  6  3 c   f     -     -          360   10    0 
+CFigor    973113675  6  2 Bk  k     kQ    -          350   10    0 
+CFigor    973301201  3  3 f   -     -     -          485    0    0 
+CFigor    973301222  3  3 f   -     -     -          485    0    0 
+CFigor    973301239  4  2 B   -     -     -          485   10   15 
+CFigor    973301250  4  1 Bf  -     -     -          490    5    0 
+CFigor    973301278  4  4 c   c     c     f          485   50    0 
+CFigor    973301369  4  2 c   k     b     -          435   30   40 
+CFigor    973301398  5  2 Bf  -     -     -          445   10    0 
+CFigor    973301461  7  1 Bf  -     -     -          435    5    0 
+CFigor    973301505  7  7 cc  k     c     c          430   80  190 Td Ad
+CFigor    973301626  8  7 cc  c     c     k          540   80    0 Tc Jh
+CFigor    973301735  8  7 f   -     -     -          460    0    0 
+CFigor    973301825  9  6 cc  cc    kc    kc         460  100    0 5s 5d
+CFigor    973301923  7  4 cc  f     -     -          360   40    0 
+CFigor    973301992  7  3 f   -     -     -          320    0    0 
+CFigor    973302074  7  2 Bf  -     -     -          320   10    0 
+CFigor    973302143  7  1 Bc  kf    -     -          310   30    0 
+CFigor    973302264  7  7 cc  rc    c     c          280  110    0 9d Ac
+CFigor    973302371  5  5 r   c     c     f          170   70    0 
+CFigor    973302418  6  4 f   -     -     -          100    0    0 
+CFigor    973302453  5  2 f   -     -     -          100    0    0 
+CFigor    973302494  5  2 Bf  -     -     -          100   10    0 
+CFigor    973302534  7  1 Bc  kf    -     -           90   20    0 
+CFigor    973302590  8  8 c   cc    cA    -           70   70    0 7c 5c
+CFigor    973324286  8  3 f   -     -     -         1000    0    0 
+CFigor    973324332  8  2 Bk  kf    -     -         1000   10    0 
+CFigor    973324383  8  1 Bc  kc    k     b          990   50  140 8d Ah
+CFigor    973324427  8  8 f   -     -     -         1080    0    0 
+CFigor    973324471  8  7 c   c     rc    c         1080  110  235 7h Qh
+CFigor    973324497  8  6 f   -     -     -         1205    0    0 
+CFigor    973324525  8  5 c   k     k     b         1205   40  140 Th Qs
+CFigor    973324570  8  4 f   -     -     -         1305    0    0 
+CFigor    973324612  8  3 c   bc    bc    kc        1305   90    0 Th Ah
+CFigor    973324673  8  2 Bf  -     -     -         1215   10    0 
+CFigor    973324700  8  1 Bc  kf    -     -         1205   10    0 
+CFigor    973324752  8  8 f   -     -     -         1195    0    0 
+CFigor    973324798  8  7 c   c     rc    c         1195  110  285 Jd Tc
+CFigor    973324849  8  6 cc  f     -     -         1370   20    0 
+CFigor    973324899  7  4 f   -     -     -         1350    0    0 
+CFigor    973324955  7  3 f   -     -     -         1350    0    0 
+CFigor    973325001  7  2 Bk  k     kf    -         1350   10    0 
+CFigor    973325051  7  1 Bc  kc    brc   brc       1340  200    0 Js Qc
+CFigor    973325134  7  7 cc  c     c     k         1140   50    0 Th Ts
+CFigor    973325189  7  6 f   -     -     -         1090    0    0 
+CFigor    973325216  7  5 cc  k     kf    -         1090   20    0 
+CFigor    973325252  7  4 cc  f     -     -         1070   20    0 
+CFigor    973325286  6  3 f   -     -     -         1050    0    0 
+CFigor    973325334  6  2 Bf  -     -     -         1050   10    0 
+CFigor    973325386  6  1 BQ  -     -     -         1040    5    0 
+CFigor    973332232  2  2 B   -     -     -         1035   10   15 
+CFigor    973332235  2  1 Bf  -     -     -         1040    5    0 
+CFigor    973332238  2  2 B   -     -     -         1035   10   15 
+CFigor    973332240  2  1 Bc  k     k     b         1040   30   40 
+CFigor    973332253  2  2 Bf  -     -     -         1050   10    0 
+CFigor    973332256  2  1 Bf  -     -     -         1040    5    0 
+CFigor    973332259  2  2 Bf  -     -     -         1035   10    0 
+CFigor    973332263  2  1 Bc  k     kf    -         1025   10    0 
+CFigor    973332287  2  2 Bk  c     k     k         1015   20    0 2c 5s
+CFigor    973332304  2  1 Bc  k     kc    k          995   30    0 Ah 5s
+CFigor    973332322  2  2 Bk  f     -     -          965   10    0 
+CFigor    973332336  2  1 Bf  -     -     -          955    5    0 
+CFigor    973332339  2  2 Bk  c     c     c          950   60  120 5s As
+CFigor    973332352  2  1 Bcc kc    kc    kf        1010   50    0 
+CFigor    973332377  2  2 Bk  k     b     b          960   50   80 
+CFigor    973332391  2  1 Bcc kf    -     -          990   20    0 
+CFigor    973332400  2  2 Bf  -     -     -          970   10    0 
+CFigor    973332404  2  1 Bc  k     k     b          960   30   60 7h 7c
+CFigor    973332414  2  2 B   -     -     -          990   10   15 
+CFigor    973332419  2  1 Bc  kc    kc    kf         995   40    0 
+CFigor    973332434  2  2 Bk  f     -     -          955   10    0 
+CFigor    973332441  2  1 Bc  k     b     -          945   30   40 
+CFigor    973332455  2  2 Bk  k     k     k          955   10   20 Kh 5h
+CFigor    973332472  2  1 Bf  -     -     -          965    5    0 
+CFigor    973332476  2  2 Bk  c     k     b          960   40   80 3d 3h
+CFigor    973332491  2  1 Bf  -     -     -         1000    5    0 
+CFigor    973332499  2  2 Bk  b     -     -          995   20   30 
+CFigor    973332507  2  1 Bf  -     -     -         1005    5    0 
+CFigor    973332510  2  2 Bk  b     -     -         1000   20   30 
+CFigor    973332518  2  1 Bf  -     -     -         1010    5    0 
+CFigor    973332521  2  2 B   -     -     -         1005   10   15 
+CFigor    973332524  2  1 Bf  -     -     -         1010    5    0 
+CFigor    973332528  2  2 Bk  k     f     -         1005   10    0 
+CFigor    973332537  2  1 Bf  -     -     -          995    5    0 
+CFigor    973332540  2  2 Bf  -     -     -          990   10    0 
+CFigor    973332543  2  1 Bc  k     kf    -          980   10    0 
+CFigor    973332554  2  2 B   -     -     -          970   10   15 
+CFigor    973332556  2  1 Bcc kc    k     b          975   50   80 
+CFigor    973332573  2  2 Bf  -     -     -         1005   10    0 
+CFigor    973332577  2  1 Brc kc    kc    bc         995  100    0 Th Tc
+CFigor    973332597  2  2 B   -     -     -          895   10   15 
+CFigor    973332602  2  1 Bcc k     k     k          900   20    0 Kc 7c
+CFigor    973332614  2  2 Bk  f     -     -          880   10    0 
+CFigor    973332623  2  1 Bf  -     -     -          870    5    0 
+CFigor    973332627  2  2 Bk  k     k     k          865   10   20 Ks Td
+CFigor    973332639  2  1 Bf  -     -     -          875    5    0 
+CFigor    973332643  2  2 Bk  c     c     c          870   60    0 Jc 8c
+CFigor    973332656  2  1 Bf  -     -     -          810    5    0 
+CFigor    973332663  2  2 B   -     -     -          805   10   15 
+CFigor    973332665  2  1 Bcf -     -     -          810   10    0 
+CFigor    973332670  2  2 B   -     -     -          800   10   15 
+CFigor    973332673  2  1 Bc  b     -     -          805   20   30 
+CFigor    973332678  2  2 Bk  c     c     c          815   60    0 Js Ah
+CFigor    973332688  2  1 Bcc kc    kc    kc         755   70    0 Kh Qc
+CFigor    973332705  2  2 Bf  -     -     -          685   10    0 
+CFigor    973332711  2  1 Bf  -     -     -          675    5    0 
+CFigor    973332714  2  2 Bf  -     -     -          670   10    0 
+CFigor    973332719  2  1 Br  bc    kc    kc         660   80    0 Jh Ah
+CFigor    973332734  3  2 Bk  k     b     -          580   30   40 
+CFigor    973332754  3  1 Bf  -     -     -          590    5    0 
+CFigor    973332757  3  3 c   c     k     k          585   20    0 Ah Jd
+CFigor    973332774  3  2 Bc  k     kf    -          565   20    0 
+CFigor    973332792  3  1 Bc  kc    kc    kf         545   50    0 
+CFigor    973332812  3  3 f   -     -     -          495    0    0 
+CFigor    973332822  3  2 Bf  -     -     -          495   10    0 
+CFigor    973332827  3  1 Bf  -     -     -          485    5    0 
+CFigor    973332840  3  3 c   c     c     f          480   40    0 
+CFigor    973332859  3  2 B   -     -     -          440   10   15 
+CFigor    973332862  3  1 Bf  -     -     -          445    5    0 
+CFigor    973332865  3  3 c   c     f     -          440   20    0 
+CFigor    973332885  3  2 Bc  kc    kc    kc         420   70    0 3s Ah
+CFigor    973332903  3  1 Bc  k     kc    k          350   40    0 9h 4h
+CFigor    973332924  3  3 f   -     -     -          310    0    0 
+CFigor    973332947  3  2 Bc  c     c     k          310   50  120 Jh Ad
+CFigor    973332972  3  1 Bc  kc    kf    -          380   20    0 
+CFigor    973332990  3  3 f   -     -     -          360    0    0 
+CFigor    973333013  3  2 Bf  -     -     -          360   10    0 
+CFigor    973333043  3  1 Bc  kc    kc    kc         350   70    0 4c Ac
+CFigor    973333102  5  5 f   -     -     -          280    0    0 
+CFigor    973333127  5  4 f   -     -     -          280    0    0 
+CFigor    973333154  5  3 f   -     -     -          280    0    0 
+CFigor    973333176  5  2 Bf  -     -     -          280   10    0 
+CFigor    973333197  5  1 Bcc kc    kc    kc         270  100    0 7s Ah
+CFigor    973333239  5  5 f   -     -     -          170    0    0 
+CFigor    973333290  5  4 f   -     -     -          170    0    0 
+CFigor    973333325  5  3 f   -     -     -          170    0    0 
+CFigor    973333343  5  2 Bf  -     -     -          170   10    0 
+CFigor    973333368  4  1 Bc  kf    -     -          160   10    0 
+CFigor    973333400  4  4 f   -     -     -          150    0    0 
+CFigor    973333416  4  3 cc  b     b     b          150   70  150 
+CFigor    973333444  4  2 Bf  -     -     -          230   10    0 
+CFigor    973333456  4  1 Bc  k     k     b          220   40   80 
+CFigor    973333493  4  4 c   r     b     b          260   70  150 Js Qh
+CFigor    973333517  4  3 f   -     -     -          340    0    0 
+CFigor    973333538  4  2 Bk  c     k     k          340   20   40 4d Ah
+CFigor    973333578  4  1 Bf  -     -     -          360    5    0 
+CFigor    973333591  4  4 c   k     c     c          355   50    0 8s 9s
+CFigor    973333611  4  3 r   k     b     b          305   60  125 
+CFigor    973333653  5  2 Bc  kc    c     c          370   70    0 Kc 8s
+CFigor    973333682  5  1 Bc  kc    kc    kf         300   40    0 
+CFigor    973333711  5  5 cc  c     k     c          260   50  130 Jc Ks
+CFigor    973333751  5  4 c   c     c     c          340   70  190 Td Jd
+CFigor    973333774  5  3 c   k     k     k          460   10    0 8s As
+CFigor    973333793  4  2 Bc  kc    kf    -          450   30    0 
+CFigor    973333823  4  1 Bf  -     -     -          420    5    0 
+CFigor    973333845  4  4 f   -     -     -          415    0    0 
+CFigor    973333855  4  3 f   -     -     -          415    0    0 
+CFigor    973333878  4  2 Bk  kf    -     -          415   10    0 
+CFigor    973333904  4  1 Bc  kf    -     -          405   10    0 
+CFigor    973333917  4  4 f   -     -     -          395    0    0 
+CFigor    973333922  4  3 cc  c     k     f          395   30    0 
+CFigor    973333937  4  2 Bf  -     -     -          365   10    0 
+CFigor    973333947  4  1 Bf  -     -     -          355    5    0 
+CFigor    973333950  4  4 f   -     -     -          350    0    0 
+CFigor    973333973  4  3 f   -     -     -          350    0    0 
+CFigor    973333992  4  2 Bc  kc    kc    k          350   50    0 Qs Jh
+CFigor    973334016  4  1 Bf  -     -     -          300    5    0 
+CFigor    973334032  4  4 f   -     -     -          295    0    0 
+CFigor    973334060  4  3 f   -     Q     -          295    0    0 
+CFigor    973491189  8  8 c   c     f     -         1000   40    0 
+CFigor    973491262  8  7 c   cc    cc    cc         960  210    0 8d Js
+CFigor    973491329  8  6 f   -     -     -          750    0    0 
+CFigor    973491372  9  6 c   kc    kf    -          750   20    0 
+CFigor    973491431  7  3 f   -     -     -          730    0    0 
+CFigor    973491513  7  3 f   -     -     -          730    0    0 
+CFigor    973491570  8  2 BQ  -     -     -          730   10    0 
+CFigor    973491783 10  8 cc  c     c     k          720   50    0 8d 3d
+CFigor    973491854 10  8 c   kc    kr    b          670   80  160 
+CFigor    973491916  9  6 cf  -     -     -          750   10    0 
+CFigor    973491968  9  5 cc  f     -     -          740   30    0 
+CFigor    973492014 10  4 c   k     bc    kc         710   70    0 Jh Kh
+CFigor    973492075 10  3 cc  kf    -     -          640   30    0 
+CFigor    973492126 10  2 Bk  kf    -     -          610   10    0 
+CFigor    973492199  9  1 Bc  kc    kc    kc         600   60    0 Ah 5d
+CFigor    973492274  9  9 c   f     -     -          540   10    0 
+CFigor    973492390  8  7 f   -     -     -          530    0    0 
+CFigor    973492434  9  6 f   -     -     -          530    0    0 
+CFigor    973492488  8  5 cc  cc    kf    -          530   70    0 
+CFigor    973492545  9  4 f   -     -     -          460    0    0 
+CFigor    973492609  9  3 f   -     -     -          460    0    0 
+CFigor    973492690  9  2 Bf  -     -     -          460   10    0 
+CFigor    973492738 10  1 Bf  Q     -     -          450    5    0 
+CFigor    973583305  2  2 B   -     -     -         1000   10   15 
+CFigor    973583341  3  1 Bc  kc    k     b         1005   40   80 5c 2c
+CFigor    973583360  5  5 c   k     f     -         1045   10    0 
+CFigor    973583395  5  4 f   -     -     -         1035    0    0 
+CFigor    973583434  4  3 f   -     -     -         1035    0    0 
+CFigor    973583448  4  2 Bk  k     kc    kf        1035   30    0 
+CFigor    973583491  4  1 Bcc kf    -     -         1005   30    0 
+CFigor    973583546  4  4 f   -     -     -          975    0    0 
+CFigor    973583590  4  3 c   kc    f     -          975   20    0 
+CFigor    973583639  4  2 Bc  kc    krc   bc         955  150    0 Th 9h
+CFigor    973583697  4  1 Bcc kr    b     -          805   70  150 
+CFigor    973583729  4  4 c   r     b     -          885   60  130 
+CFigor    973583752  4  3 f   -     -     -          955    0    0 
+CFigor    973583779  4  2 Bf  -     -     -          955   10    0 
+CFigor    973583819  5  1 Bf  -     -     -          945    5    0 
+CFigor    973583844  5  5 f   -     -     -          940    0    0 
+CFigor    973583857  5  4 f   -     -     -          940    0    0 
+CFigor    973583916  6  3 fQ  -     -     -          940    0    0 
+CFigor    973584336  4  2 Bf  -     -     -          940   10    0 
+CFigor    973584344  4  1 Bf  -     -     -          930    5    0 
+CFigor    973584359  4  4 cc  c     c     c          925   70    0 As 6c
+CFigor    973584396  5  3 f   -     -     -          855    0    0 
+CFigor    973584437  5  2 Bc  kc    k     b          855   50  105 9d 2d
+CFigor    973584470  5  1 Bc  kc    k     bf         910   50    0 
+CFigor    973584502  5  5 f   -     -     -          860    0    0 
+CFigor    973584521  5  4 f   -     -     -          860    0    0 
+CFigor    973584545  5  3 f   -     -     -          860    0    0 
+CFigor    973584575  4  2 Bc  kf    -     -          860   20    0 
+CFigor    973584588  4  1 Bc  k     kc    k          840   30   90 9c 8d
+CFigor    973584654  3  3 f   -     -     -          900    0    0 
+CFigor    973584680  3  2 Bf  -     -     -          900   10    0 
+CFigor    973584703  3  1 Bc  k     k     b          890   30    0 Ac 2h
+CFigor    973584739  3  3 f   -     -     -          860    0    0 
+CFigor    973584767  3  2 Bc  kc    kc    k          860   50  120 Qh As
+CFigor    973584799  3  1 Bc  k     b     -          930   30   40 
+CFigor    973584827  3  3 c   k     k     k          940   10    0 Tc 6c
+CFigor    973584864  3  2 Bk  k     k     k          930   10   20 8c Ac
+CFigor    973584895  3  1 Bf  -     -     -          940    5    0 
+CFigor    973584913  4  4 r   -     -     -          935   20   35 
+CFigor    973584924  4  3 c   kc    kc    b          950   60  135 8c 9c
+CFigor    973584955  5  2 Bf  -     -     -         1025   10    0 
+CFigor    973584993  6  1 Bf  -     -     -         1015    5    0 
+CFigor    973585044  5  5 f   -     -     -         1010    0    0 
+CFigor    973585086  4  3 f   -     -     -         1010    0    0 
+CFigor    973585121  5  2 Bk  k     k     k         1010   10   40 7h 3h
+CFigor    973585158  5  1 Bcc kc    k     kc        1040   60    0 Ac 7c
+CFigor    973585213  5  5 f   -     -     -          980    0    0 
+CFigor    973585270  5  4 f   -     -     -          980    0    0 
+CFigor    973585302  6  4 f   -     -     -          980    0    0 
+CFigor    973585349  7  3 f   -     -     -          980    0    0 
+CFigor    973585432  8  2 Bk  k     kf    -          980   10    0 
+CFigor    973585518 10  1 Bf  -     -     -          970    5    0 
+CFigor    973585633 10 10 cc  cc    c     f          965   90    0 
+CFigor    973585768  9  8 c   c     r     r          875  110  360 6s Ks
+CFigor    973585847  8  6 c   k     k     k         1125   10    0 Kd Ah
+CFigor    973585893  8  6 c   k     f     -         1115   10    0 
+CFigor    973586019  6  5 f   -     -     -         1105    0    0 
+CFigor    973586069  6  4 cc  rc    k     c         1105   80  190 Ad Tc
+CFigor    973586104  6  3 c   kc    kQ    -         1215   20    0 
+CFigor    973639228 10  8 f   -     -     -         1195    0    0 
+CFigor    973639298 10  5 Q   -     -     -         1195    0    0 
+CFigor    973708392  5  2 Bk  bc    kcc   kc        1195  140    0 Ad 7h
+CFigor    973708439  5  1 Bc  k     k     k         1055   10    0 Ks 8c
+CFigor    973708465  5  5 f   -     -     -         1045    0    0 
+CFigor    973708502  5  4 c   b     k     b         1045   40  100 
+CFigor    973708542  5  3 f   -     -     -         1105    0    0 
+CFigor    973708572  5  2 Bc  kc    kc    kf        1105   60    0 
+CFigor    973708617  6  1 Bc  k     k     kf        1045   10    0 
+CFigor    973708660  7  7 c   f     -     -         1035   10    0 
+CFigor    973708684  8  7 f   -     -     -         1025    0    0 
+CFigor    973708752 10  3 Q   -     -     -         1025    0    0 
+CFigor    973758158 10  9 c   c     cf    -         1025   50    0 
+CFigor    973758215 10  8 c   f     -     -          975   10    0 
+CFigor    973758330 10  7 f   -     -     -          965    0    0 
+CFigor    973758416 10  6 f   -     -     -          965    0    0 
+CFigor    973758490 10  5 c   kQ    -     -          965   10    0 
+CFigor    973759548  5  5 c   f     -     -          955   10    0 
+CFigor    973759611  5  4 f   -     -     -          945    0    0 
+CFigor    973759662  5  3 f   -     -     -          945    0    0 
+CFigor    973759705  5  2 Bk  kc    kc    kf         945   50    0 
+CFigor    973759772  5  1 Bc  kc    kc    k          895   50    0 9h Ts
+CFigor    973759810  5  5 f   -     -     -          845    0    0 
+CFigor    973759862  6  5 f   -     -     -          845    0    0 
+CFigor    973759946  5  3 f   -     -     -          845    0    0 
+CFigor    973760001  5  3 c   c     c     f          845   40    0 
+CFigor    973760065  5  2 Bk  f     -     Q          805   10    0 
+CFigor    973806230 10  9 c   f     -     -          795   10    0 
+CFigor    973806285 10  8 f   -     -     -          785    0    0 
+CFigor    973806406 10  7 f   -     -     -          785    0    0 
+CFigor    973806485 10  6 cc  kc    c     f          785   60    0 
+CFigor    973806649  9  4 Q   -     -     -          725    0    0 
+CFigor    974184927 10  5 f   -     -     -           65    0    0 
+CFigor    974184994 10  4 f   -     -     -           65    0    0 
+CFigor    974185105 10  3 f   -     -     -           65    0    0 
+CFigor    974185141 10  2 Bc  kf    -     -           65   20    0 
+CFigor    974185208 10  1 Bf  -     -     -           45    5    0 
+CFigor    974185254 10 10 c   k     f     -           40   10    0 
+CFigor    974185315 10  9 f   -     -     -           30    0    0 
+CFigor    974185371 10  8 f   -     -     -           30    0    0 
+CFigor    974185463 10  7 cc  cA    -     -           30   30  135 Tc Ac
+CFigor    974185514 10  6 f   -     -     -          135    0    0 
+CFigor    974185585 10  5 f   -     -     -          135    0    0 
+CFigor    974185621 10  4 f   -     -     -          135    0    0 
+CFigor    974185672 10  3 cc  kc    kc    kf         135   60    0 
+CFigor    974185752 10  2 Bc  bc    b     bA          75   75  340 Ks 7c
+CFigor    974185800 10  1 Bc  kcc   kc    b          340  120  650 8c 7c
+CFigor    974185887 10 10 f   -     -     -          870    0    0 
+CFigor    974185933 10  9 r   rr    r     b          870  140  770 Kd Kc
+CFigor    974186043  9  7 c   k     c     c         1500   50  190 Ks 9c
+CFigor    974186114  9  7 c   k     k     b         1640   30    0 6d 6s
+CFigor    974186162  8  4 Q   -     -     -         1610    0    0 
+CFigor    974225209 10  2 Bc  kc    kc    kc        1610   70  215 Ts Qs
+CFigor    974225257 10  1 Bf  -     -     -         1755    5    0 
+CFigor    974225302 10 10 f   -     -     -         1750    0    0 
+CFigor    974225353  9  8 f   -     -     -         1750    0    0 
+CFigor    974225386 10  8 r   b     c     f         1750   60    0 
+CFigor    974225427 10  7 c   rc    ccc   c         1690  160    0 Jh Ac
+CFigor    974225481 10  6 f   -     -     -         1530    0    0 
+CFigor    974225518  9  4 c   kf    -     -         1530   10    0 
+CFigor    974225568  9  3 f   -     -     -         1520    0    0 
+CFigor    974225629  9  2 Br  brc   b     b         1520  110  370 Ad Ks
+CFigor    974225715  9  1 Bc  bc    kc    k         1780   60    0 Jc Qc
+CFigor    974225761  9  9 c   k     k     f         1720   10    0 
+CFigor    974225807  9  8 c   f     -     -         1710   10    0 
+CFigor    974225831  9  7 f   -     -     -         1700    0    0 
+CFigor    974225863  9  6 f   -     -     -         1700    0    0 
+CFigor    974225909  9  5 c   rc    c     kf        1700   70    0 
+CFigor    974225963  9  4 c   kf    Q     -         1630   10    0 
+CFigor    974226462 10  6 f   -     -     -         1620    0    0 
+CFigor    974226518  9  4 f   -     -     Q         1620    0    0 
+CFigor    974238509 10  2 Bk  k     k     k         1620   10    0 Kh Jh
+CFigor    974238564 10  1 Bc  kc    kf    -         1610   30    0 
+CFigor    974238712 10 10 f   -     -     -         1580    0    0 
+CFigor    974238765 10  9 cc  f     -     -         1580   20    0 
+CFigor    974238865 10  8 f   -     -     -         1560    0    0 
+CFigor    974238941 10  7 c   k     f     -         1560   10    0 
+CFigor    974239032 10  6 c   c     k     c         1550   40    0 9d 7h
+CFigor    974239135 10  6 f   -     -     -         1510    0    0 
+CFigor    974239222  9  4 cc  kf    -     -         1510   20    0 
+CFigor    974239329  9  3 Q   -     -     -         1490    0    0 
+CFigor    974260721  8  5 f   -     -     -         1490    0    0 
+CFigor    974260788  7  4 c   kc    kf    -         1490   20    0 
+CFigor    974260860  8  3 fQ  -     -     -         1470    0    0 
+CFigor    974261290  9  4 f   -     -     -         1470    0    0 
+CFigor    974261363  9  3 f   -     -     -         1470    0    0 
+CFigor    974261429  9  2 Br  b     b     b         1470   70  200 
+CFigor    974261510  9  1 Bf  -     -     -         1600    5    0 
+CFigor    974261570  9  9 f   -     -     -         1595    0    0 
+CFigor    974261637  9  8 c   f     -     -         1595   20    0 
+CFigor    974261718  9  7 f   -     -     -         1575    0    0 
+CFigor    974261769 10  6 f   -     -     -         1575    0    0 
+CFigor    974261829 10  5 f   -     -     -         1575    0    0 
+CFigor    974261870 10  4 cc  cc    cc    f         1575  110    0 
+CFigor    974261961 10  3 f   -     -     -         1465    0    0 
+CFigor    974262010 10  2 Bk  k     k     f         1465   10    0 
+CFigor    974262058  9  1 Bf  -     -     -         1455    5    0 
+CFigor    974262118  9  9 f   -     -     -         1450    0    0 
+CFigor    974262178  8  7 f   -     -     -         1450    0    0 
+CFigor    974262235  9  7 f   -     -     -         1450    0    0 
+CFigor    974262273 10  7 f   -     -     -         1450    0    0 
+CFigor    974262317 10  6 c   c     k     kf        1450   20    0 
+CFigor    974262366  9  4 cc  k     kf    -         1430   20    0 
+CFigor    974262416  9  3 f   -     -     -         1410    0    0 
+CFigor    974262473  9  2 Bk  k     bc    kc        1410   70    0 Kc 4c
+CFigor    974262544  9  1 Bf  -     -     -         1340    5    0 
+CFigor    974262679  9  9 f   -     -     -         1335    0    0 
+CFigor    974262743  8  7 f   -     -     -         1335    0    0 
+CFigor    974262766  8  6 f   -     -     -         1335    0    0 
+CFigor    974262793  8  5 f   -     -     -         1335    0    0 
+CFigor    974262843  7  3 f   -     -     -         1335    0    0 
+CFigor    974262895  8  3 f   -     -     -         1335    0    0 
+CFigor    974262929  8  2 Bk  b     kc    kc        1335   60    0 Qs Ts
+CFigor    974262995  8  1 Bf  -     -     -         1275    5    0 
+CFigor    974263059  9  9 f   -     -     -         1270    0    0 
+CFigor    974263138 10  9 c   c     r     -         1270   70  235 
+CFigor    974263201 10  8 f   -     -     -         1435    0    0 
+CFigor    974263240 10  7 c   kf    -     -         1435   10    0 
+CFigor    974263343 10  6 cc  kf    -     -         1425   20    0 
+CFigor    974263407 10  5 fQ  -     -     -         1405    0    0 
+CFigor    974370561  2  2 Bk  c     c     r         1405   80  160 Ad Qc
+CFigor    974370598  2  1 Bc  k     b     k         1485   30    0 8s 9d
+CFigor    974370627  2  2 Bk  k     k     k         1455   10    0 2d 7d
+CFigor    974370658  2  1 Bc  k     k     k         1445   10    0 Qc 6c
+CFigor    974370681  2  2 Bk  k     k     k         1435   10    0 9s 4s
+CFigor    974370702  2  1 Bc  k     k     k         1425   10    0 8c 9h
+CFigor    974370722  2  2 Bk  b     r     r         1415  100  200 5d Jc
+CFigor    974370757  2  1 Bc  k     k     k         1515   10    0 9c 8h
+CFigor    974370781  2  2 Bc  b     k     b         1505   50  100 Jd Jh
+CFigor    974370811  2  1 Bc  k     k     b         1555   30   60 Td 5s
+CFigor    974370833  2  2 Bk  b     k     b         1585   40   80 Jh 9c
+CFigor    974370856  3  1 Bc  k     b     -         1625   30   40 
+CFigor    974370879  2  2 Bk  k     b     k         1635   30    0 Kh Qs
+CFigor    974370901  2  1 Bc  k     b     -         1605   30   40 
+CFigor    974370917  2  2 Bk  k     f     -         1615   10    0 
+CFigor    974370926  2  1 Bc  b     b     -         1605   40   60 
+CFigor    974370953  2  2 Bk  k     k     k         1625   10   20 5c Qh
+CFigor    974370969  2  1 Bf  -     -     -         1635    5    0 
+CFigor    974370972  2  2 Bk  k     k     k         1630   10    0 4d 5s
+CFigor    974370988  2  1 Bf  -     -     -         1620    5    0 
+CFigor    974370991  2  2 Bk  f     -     -         1615   10    0 
+CFigor    974370998  2  1 Bc  k     kc    k         1605   30   60 Jd 8c
+CFigor    974371017  2  2 Bk  k     c     c         1635   50    0 2c 3d
+CFigor    974371035  2  1 Bf  -     -     -         1585    5    0 
+CFigor    974371038  2  2 Bk  k     k     c         1580   30   30 Td 8c
+CFigor    974371053  2  1 Br  kc    kc    kf        1580   50    0 
+CFigor    974371080  2  2 Bk  k     k     k         1530   10    0 Jd Ts
+CFigor    974371092  2  1 Bc  k     b     b         1520   50  100 Jc 8c
+CFigor    974371109  2  2 Bk  k     k     b         1570   30   40 
+CFigor    974371131  2  1 Bf  -     -     -         1580    5    0 
+CFigor    974371134  2  2 Bk  k     f     -         1575   10    0 
+CFigor    974371148  2  1 Bc  k     k     k         1565   10   10 Ah 3c
+CFigor    974371162  2  2 Bk  k     k     k         1565   10   20 Qc Kd
+CFigor    974371177  2  1 Bf  -     -     -         1575    5    0 
+CFigor    974371180  2  2 Bk  k     k     k         1570   10   20 8d 3s
+CFigor    974371195  2  1 Bf  -     -     -         1580    5    0 
+CFigor    974371197  2  2 Bk  k     k     k         1575   10    0 Kh 2c
+CFigor    974371214  2  1 Bcc kc    kc    kf        1565   50    0 
+CFigor    974371244  2  2 Bk  b     -     -         1515   20   30 
+CFigor    974371254  2  1 Bc  k     k     k         1525   10   20 7s 5c
+CFigor    974371277  2  2 Bk  k     k     k         1535   10   20 5c Qc
+CFigor    974371291  2  1 Bc  k     kf    -         1545   10    0 
+CFigor    974371309  2  2 Bk  k     k     k         1535   10   20 8s 5h
+CFigor    974371322  2  1 Bc  k     b     -         1545   30   40 
+CFigor    974371345  2  2 Bk  k     b     b         1555   50  100 9d Kc
+CFigor    974371365  2  1 Bc  kc    kf    -         1605   20    0 
+CFigor    974371382  2  2 Bk  k     k     f         1585   10    0 
+CFigor    974371397  2  1 Br  k     k     k         1575   20   40 Kc Ah
+CFigor    974371412  2  2 B   -     -     -         1595   10   15 
+CFigor    974371418  2  1 Bf  -     -     -         1600    5    0 
+CFigor    974371421  2  2 Bk  k     b     -         1595   30   40 
+CFigor    974371436  2  1 Bf  -     -     -         1605    5    0 
+CFigor    974371439  2  2 Bk  k     k     k         1600   10   20 Tc Td
+CFigor    974371454  2  1 Bc  k     b     -         1610   30   40 
+CFigor    974371473  2  2 Bk  b     -     -         1620   20   30 
+CFigor    974371484  3  1 Bc  k     b     -         1630   30   50 
+CFigor    974371502  3  3 f   -     -     -         1650    0    0 
+CFigor    974371507  3  2 Bk  b     -     -         1650   20   35 
+CFigor    974371517  3  1 Bf  -     -     -         1665    5    0 
+CFigor    974371520  3  3 f   -     -     -         1660    0    0 
+CFigor    974371541  3  2 Bk  k     k     k         1660   10   30 7c Jc
+CFigor    974371558  3  1 Bc  kc    kc    kc        1680   60  120 Kh 8d
+CFigor    974371584  3  3 cc  k     c     f         1740   40    0 
+CFigor    974371626  3  2 Bf  -     -     -         1700   10    0 
+CFigor    974371636  3  1 Bf  -     -     -         1690    5    0 
+CFigor    974371640  3  3 f   -     -     -         1685    0    0 
+CFigor    974371661  3  2 Bc  c     k     c         1685   50    0 Tc 9c
+CFigor    974371683  3  1 Bf  -     -     -         1635    5    0 
+CFigor    974371690  3  3 c   f     -     -         1630   10    0 
+CFigor    974371706  3  2 Bk  kc    kc    kc        1620   60    0 3d Qs
+CFigor    974371740  3  1 Bc  kf    -     -         1560   10    0 
+CFigor    974371771  3  3 c   k     k     k         1550   10    0 5d Ah
+CFigor    974371804  3  2 B   -     -     -         1540   10   15 
+CFigor    974371818  2  1 Bc  k     k     k         1545   10    0 6s 7d
+CFigor    974371837  2  2 Bk  bc    k     c         1535   50    0 Td 8h
+CFigor    974371862  2  1 Bf  -     -     -         1485    5    0 
+CFigor    974371865  2  2 Bk  b     -     -         1480   20   30 
+CFigor    974371874  2  1 Bc  k     k     kf        1490   10    0 
+CFigor    974371892  2  2 B   -     -     -         1480   10   15 
+CFigor    974371896  2  1 Bf  -     -     -         1485    5    0 
+CFigor    974371899  2  2 Bk  k     k     k         1480   10   20 Ks Ah
+CFigor    974371914  3  1 Bc  k     k     k         1490   10    0 Ks Ts
+CFigor    974371942  3  3 f   -     -     -         1480    0    0 
+CFigor    974371964  3  2 Bk  b     b     -         1480   40   70 
+CFigor    974371990  3  1 Bf  -     -     -         1510    5    0 
+CFigor    974372001  3  3 c   k     r     -         1505   50   90 
+CFigor    974372042  4  2 Bc  kc    kc    k         1545   50    0 6d 6h
+CFigor    974372066  4  1 Bc  kc    kcc   kc        1495  110    0 5d 5s
+CFigor    974372104  4  4 cc  cf    -     -         1385   30    0 
+CFigor    974372151  4  3 cc  f     -     -         1355   20    0 
+CFigor    974372200  3  2 Bc  kf    -     -         1335   20    0 
+CFigor    974372213  3  1 Bf  -     -     -         1315    5    0 
+CFigor    974372225  3  3 f   -     -     -         1310    0    0 
+CFigor    974372237  3  2 Bc  kc    kc    k         1310   50    0 8d 5c
+CFigor    974372258  3  1 Bf  -     -     -         1260    5    0 
+CFigor    974372263  3  3 cc  c     c     f         1255   50    0 
+CFigor    974372285  3  2 Bf  -     -     -         1205   10    0 
+CFigor    974372303  3  1 Brc b     k     k         1195   40  120 Ts Tc
+CFigor    974372353  3  3 c   c     k     k         1275   20   25 9d Td
+CFigor    974372368  3  2 Bf  -     -     -         1280   10    0 
+CFigor    974372374  3  1 Bcc k     kc    Q         1270   40    0 
+CFigor    974423654 10  3 f   -     -     -         1720    0    0 
+CFigor    974423707 10  2 Bk  kf    -     -         1720   10    0 
+CFigor    974423801 10  1 Bf  -     -     -         1710    5    0 
+CFigor    974423846 10 10 c   c     c     c         1705   70    0 9s Qc
+CFigor    974423908 10  9 f   -     -     -         1635    0    0 
+CFigor    974423957 10  8 f   -     -     -         1635    0    0 
+CFigor    974424033 10  7 c   bc    kc    kc        1635   70  205 Ah 9c
+CFigor    974424104 10  6 r   b     b     b         1770   70  145 Qc Ac
+CFigor    974424144 10  5 f   -     -     -         1845    0    0 
+CFigor    974424203 10  4 f   -     -     -         1845    0    0 
+CFigor    974424256 10  3 c   kc    b     k         1845   40  140 Th Jh
+CFigor    974424328 10  2 Bk  k     k     f         1945   10    0 
+CFigor    974424400 10  1 Bc  kcc   kc    kf        1935   70    0 
+CFigor    974424488 10 10 f   -     -     -         1865    0    0 
+CFigor    974424536 10  9 c   cc    k     k         1865   40    0 Kd Js
+CFigor    974424624 10  8 c   k     kf    -         1825   20    0 
+CFigor    974424706 10  7 cc  b     b     k         1805   50    0 Kd Js
+CFigor    974424780  9  3 Q   -     -     -         1755    0    0 
+CFigor    974499094  8  3 r   b     b     b         1755   70  175 Ad As
+CFigor    974499129  9  2 Bk  c     c     c         1860   60  290 6s 5h
+CFigor    974499184 10  1 BQ  -     -     -         2090    5    0 
+CFigor    974606837  9  3 rc  br    b     b         2160  110  550 As Ac
+CFigor    974606915  9  2 Bc  kc    kc    k         2600   50  255 4c 6c
+CFigor    974606971 10  1 Br  bc    kc    k         2805   90    0 Jd Js
+CFigor    974607031 10 10 f   -     -     -         2715    0    0 
+CFigor    974607097 10  9 c   k     c     c         2715   60    0 As 8d
+CFigor    974607149 10  8 cc  f     -     -         2655   30    0 
+CFigor    974607222 10  7 f   -     -     -         2625    0    0 
+CFigor    974607276  9  6 c   b     b     bf        2625   60    0 
+CFigor    974607363  8  5 cc  kc    kc    kf        2565   50    0 
+CFigor    974607392  8  4 f   -     -     -         2515    0    0 
+CFigor    974607454  8  3 cc  bc    kc    c         2515   80    0 7c 9c
+CFigor    974607524  8  2 Bc  kfQ   -     -         2435   40    0 
+CFigor    974745412 10 10 c   c     f     -         1945   30    0 
+CFigor    974745500 10  9 c   cc    f     -         1915   70    0 
+CFigor    974745583 10  8 f   -     -     -         1845    0    0 
+CFigor    974745634 10  7 f   -     -     -         1845    0    0 
+CFigor    974745676  9  5 c   c     c     c         1845   60    0 Js Ks
+CFigor    974745723  9  4 f   -     -     -         1785    0    0 
+CFigor    974745776  9  3 c   kc    kf    -         1785   20    0 
+CFigor    974745823 10  2 Bc  kf    -     -         1765   20    0 
+CFigor    974745905 10  1 Bf  -     -     -         1745    5    0 
+CFigor    974746001 10 10 f   -     -     -         1740    0    0 
+CFigor    974746059 10  9 f   -     -     -         1740    0    0 
+CFigor    974746118 10  8 f   Q     -     -         1740    0    0 
+CFigor    974747228  5  3 cc  f     -     -         1740   20    0 
+CFigor    974747277  5  2 Bk  k     k     k         1720   10    0 Qh Kh
+CFigor    974747297  5  1 Bf  -     -     -         1710    5    0 
+CFigor    974747328  6  5 c   f     -     -         1705   20    0 
+CFigor    974747404  7  4 cc  kc    kf    -         1685   40    0 
+CFigor    974747486  7  3 f   -     -     -         1645    0    0 
+CFigor    974747557  6  2 Bk  c     br    c         1645  100  210 8h 2h
+CFigor    974747587  7  1 Bf  -     -     -         1755    5    0 
+CFigor    974747637  7  7 c   k     bc    c         1750   80    0 Th Ac
+CFigor    974747668  7  6 c   k     b     k         1670   40  115 2c 6c
+CFigor    974747727  6  5 f   -     -     -         1745    0    0 
+CFigor    974747769  6  4 c   k     k     c         1745   30    0 Js Th
+CFigor    974747823  7  3 fQ  -     -     -         1715    0    0 
+CFigor    974789112  9  3 Q   -     -     -         5370    0    0 
+CFigor    974937959  8  6 c   f     -     -         1105   10    0 
+CFigor    974938029  8  5 f   -     -     -         1095    0    0 
+CFigor    974938128  8  4 c   ccc   f     -         1095   60    0 
+CFigor    974938220  9  3 f   -     -     -         1035    0    0 
+CFigor    974938287  9  2 Bc  bc    kc    kcc       1035  160    0 Kh Qs
+CFigor    974938379  9  1 Bf  -     -     -          875    5    0 
+CFigor    974938457  9  9 c   f     -     -          870   10    0 
+CFigor    974938528  9  8 r   b     b     k          860   50  140 Jh Js
+CFigor    974938564  9  7 f   -     -     -          950    0    0 
+CFigor    974938633  9  3 Q   -     -     -          950    0    0 
+CFigor    975389546  9  3 f   -     Q     -          885    0    0 
+CFigor    975619850 10 10 r   rr    brc   c         1045  170  465 Ad Ac
+CFigor    975619947  8  8 f   -     -     -         1340    0    0 
+CFigor    975619992  8  7 c   k     c     k         1340   30   55 5d 6s
+CFigor    975620049  8  6 c   c     f     -         1365   20    0 
+CFigor    975620121  8  5 f   -     -     -         1345    0    0 
+CFigor    975620152  7  3 c   k     k     rr        1345   90  115 Kh 2h
+CFigor    975620204  7  3 f   -     -     -         1370    0    0 
+CFigor    975620238  7  2 Bk  k     k     k         1370   10   25 8s Ks
+CFigor    975620264  8  1 Bf  -     -     -         1385    5    0 
+CFigor    975620307  8  8 f   -     -     -         1380    0    0 
+CFigor    975620358  8  7 c   k     k     k         1380   10    0 Td Qs
+CFigor    975620390  8  6 f   -     -     -         1370    0    0 
+CFigor    975620468  8  5 f   -     -     -         1370    0    0 
+CFigor    975620523  8  4 c   k     k     k         1370   10    0 8s 9s
+CFigor    975620593 10  3 cc  kf    -     -         1360   20    0 
+CFigor    975620658  9  2 Bk  kf    -     -         1340   10    0 
+CFigor    975620727  9  1 Bc  k     k     k         1330   30    0 8c 9c
+CFigor    975620802  9  9 f   -     -     -         1300    0    0 
+CFigor    975620856  9  8 r   b     b     b         1300   70  190 
+CFigor    975620919  8  6 rc  r     b     b         1420   90  162 Qh Qs
+CFigor    975620983  8  5 f   -     -     -         1492    0    0 
+CFigor    975621037  8  4 c   kc    kf    -         1492   20    0 
+CFigor    975621073  7  2 BQ  -     -     -         1472   10    0 

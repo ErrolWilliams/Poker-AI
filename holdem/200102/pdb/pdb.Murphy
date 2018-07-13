@@ -1,0 +1,939 @@
+Murphy    983206551  8  6 c   k     k     k         1000   10   40 As Jh
+Murphy    983206622  7  5 c   kc    kc    kc        1030   60    0 7h 2s
+Murphy    983206695  5  3 c   kc    kf    -          970   20    0 
+Murphy    983206726  5  2 Bk  kc    k     kf         950   20    0 
+Murphy    983206772  6  1 Bc  kc    kf    -          930   20    0 
+Murphy    983206816  8  8 cc  c     c     c          910   70  280 5s 5h
+Murphy    983206878  9  8 c   k     k     k         1120   10    0 3d 4s
+Murphy    983206961  8  7 c   k     k     k         1110   10    0 Qc 6s
+Murphy    983207006  8  6 c   kc    kc    kc        1100   60    0 9s 6h
+Murphy    983207063  8  5 c   k     k     k         1040   10   45 9s 8c
+Murphy    983207105  8  4 c   kc    kf    -         1075   20    0 
+Murphy    983207159  9  3 c   c     r     rr        1055  140  480 Qs Qc
+Murphy    983207222 10  2 Bk  k     k     k         1395   10    0 Jd 2h
+Murphy    983207284 10  1 Bc  kc    k     k         1385   20   80 6d Th
+Murphy    983207333  9  9 cc  r     bc    c         1445  100    0 2h 2s
+Murphy    983207431 10  9 c   k     kf    -         1345   10    0 
+Murphy    983207552 10  8 c   f     -     Q         1335   10    0 
+Murphy    983211456 10 10 c   f     -     -         1325   10    0 
+Murphy    983211519  9  8 f   -     -     -         1315    0    0 
+Murphy    983211576  9  7 cc  c     c     f         1315   60    0 
+Murphy    983211697  9  6 f   -     -     -         1255    0    0 
+Murphy    983211782  9  5 cc  cc    k     kf        1255   40    0 
+Murphy    983211883  9  4 cc  k     c     f         1215   40    0 
+Murphy    983211952  9  3 c   kc    kf    -         1175   20    0 
+Murphy    983212045  8  2 Bk  c     k     f         1155   20    0 
+Murphy    983212094  9  1 Brr krc   k     k         1135   70    0 Kd Qh
+Murphy    983212236 10 10 c   k     c     c         1065   70  110 8h Th
+Murphy    983212298 10  9 c   rcc   k     f         1105   50    0 
+Murphy    983212372 10  8 c   cc    k     f         1055   50    0 
+Murphy    983212469 10  7 c   k     r     b         1005   70  205 7d Ad
+Murphy    983212530 10  6 cc  kcc   c     c         1140  140    0 3c Qd
+Murphy    983212628 10  5 c   kc    k     c         1000   80    0 Qc Js
+Murphy    983212725 10  4 cc  kf    -     -          920   20    0 
+Murphy    983212829 10  3 ccc ccc   f     -          900   80    0 
+Murphy    983212970 10  2 Bc  k     kf    -          820   20    0 
+Murphy    983213091  8  1 Bc  kcc   kc    kc         800  100    0 6s 3h
+Murphy    983213176  8  8 c   k     k     k          700   10   55 5s Ad
+Murphy    983213276  8  7 c   c     c     b          745   60  180 Jc Kd
+Murphy    983213346  8  6 c   c     c     k          865   40    0 8h 2s
+Murphy    983213411  8  5 cc  k     k     kf         825   20    0 
+Murphy    983213480  8  4 cc  b     brc   kc         805  130    0 3d Kh
+Murphy    983213562  8  3 r   k     kc    brc        675  120    0 8h 5c
+Murphy    983213612  8  2 Bk  brc   bc    b          555  110  240 Ac Jc
+Murphy    983213668  8  1 Br  kcc   krc   k          685  100  330 Jc 7c
+Murphy    983213738  9  9 cc  c     c     f          915   50    0 
+Murphy    983213798  9  8 c   c     c     f          865   40    0 
+Murphy    983213841 10  8 c   f     -     -          825   10    0 
+Murphy    983213913 10  7 c   kc    b     b          815   70  270 8s Kc
+Murphy    983213981 10  6 c   k     k     k         1015   10    0 Th 4h
+Murphy    983214027 10  5 c   kf    -     -         1005   20    0 
+Murphy    983214122 10  4 cc  kc    kf    -          985   30    0 
+Murphy    983214162 10  3 ccc kf    -     -          955   40    0 
+Murphy    983214279 10  2 Bc  bc    kc    k          915   60    0 Qs Ks
+Murphy    983214344 10  1 Br  brc   kr    b          855  120  330 6c 6d
+Murphy    983214443 10 10 c   r     k     c         1065   50  200 2d Kd
+Murphy    983214504  8  7 cc  cc    c     c         1215  110    0 9c 2s
+Murphy    983214602  9  7 c   c     k     k         1105   20    0 9d Ts
+Murphy    983214666  9  6 c   k     rc    r         1085  110  420 Qh Kc
+Murphy    983214746 10  6 cc  k     kc    b         1395   70    0 4h 2c
+Murphy    983214832 10  5 c   kc    kf    -         1325   30    0 
+Murphy    983214899 10  4 c   c     c     c         1295   60    0 9s Qh
+Murphy    983214942 10  3 c   c     f     -         1235   20    0 
+Murphy    983215003 10  2 Bc  br    br    b         1215  130  515 9h 5d
+Murphy    983215086 10  1 Bc  kf    -     -         1600   10    0 
+Murphy    983215148 10 10 r   b     b     r         1590  100  300 Kh Ks
+Murphy    983215221 10  9 cc  f     -     -         1790   40    0 
+Murphy    983215359 10  8 cc  k     cc    f         1750  100    0 
+Murphy    983215446 10  7 cc  r     kc    k         1650   70  310 4c 5h
+Murphy    983215526 10  6 c   kc    krr   bc        1890  140    0 8h Qc
+Murphy    983215605 10  5 c   k     r     c         1750   70  155 Td 9d
+Murphy    983215652 10  4 r   k     k     k         1835   20    0 6d 4h
+Murphy    983215703 10  3 cc  kr    kcc   kc        1815  160    0 3h 9s
+Murphy    983215825 10  2 Bcc kf    -     -         1655   40    0 
+Murphy    983215929 10  1 Bc  kf    -     -         1615   20    0 
+Murphy    983215986 10 10 c   f     -     -         1595   10    0 
+Murphy    983216055 10  9 f   -     -     -         1585    0    0 
+Murphy    983216112 10  8 f   -     -     -         1585    0    0 
+Murphy    983216215 10  7 cc  kcc   kc    k         1585   80    0 5s 7h
+Murphy    983216319  9  6 c   k     bc    k         1505   50   90 Ts 4h
+Murphy    983216412 10  5 cc  k     f     -         1545   20    0 
+Murphy    983216513 10  4 c   k     k     r         1525   50  110 
+Murphy    983216604 10  3 rc  br    br    brc       1585  200    0 Ad Td
+Murphy    983216661 10  2 Bk  b     kc    kc        1385   60    0 6s Qd
+Murphy    983216745 10  1 Brc k     kc    kf        1325   60    0 
+Murphy    983216847 10 10 r   c     c     rc        1265  120    0 5s 5c
+Murphy    983216977  9  9 c   c     k     f         1145   30    0 
+Murphy    983217057 10  8 c   c     k     k         1115   30   75 Ac 7s
+Murphy    983217092 10  7 cc  c     f     -         1160   50    0 
+Murphy    983217163 10  6 cc  bc    bc    kc        1110  100    0 Js Ah
+Murphy    983217251 10  5 ccc k     kf    -         1010   40    0 
+Murphy    983217355  9  4 c   f     -     -          970   10    0 
+Murphy    983217471  9  3 c   k     kc    kcc        960   90    0 Td 7s
+Murphy    983217586 10  2 Bc  krr   b     k          870   80  305 5h Js
+Murphy    983217706 10  1 Bc  k     kc    kf        1095   70    0 
+Murphy    983217805  9  9 c   cc    f     -         1025   50    0 
+Murphy    983217935  9  8 c   c     k     ccc        975  100    0 Kh Jc
+Murphy    983218029  9  7 c   bc    c     k          875   50    0 Kc 6h
+Murphy    983218101  8  5 c   f     -     -          825   10    0 
+Murphy    983218181  9  5 c   cc    kc    f          815   50    0 
+Murphy    983218272  9  4 rr  k     r     k          765   80    0 7s 7d
+Murphy    983218344 10  4 f   -     -     -          685    0    0 
+Murphy    983218413  9  3 cc  kf    -     -          685   40    0 
+Murphy    983218523 10  2 Bk  r     k     k          645   30   70 5s Ts
+Murphy    983218574 10  1 Bc  kc    kf    -          685   30    0 
+Murphy    983218715 10 10 r   c     f     -          655   40    0 
+Murphy    983218769 10  9 c   c     f     -          615   30    0 
+Murphy    983218865 10  8 r   rc    rc    rc         585  180    0 Kd Ks
+Murphy    983218950  9  7 c   rr    bc    rr         405  180  650 8s 4s
+Murphy    983219048  9  5 cc  f     -     -          875   20    0 
+Murphy    983219156  9  4 KQ  -     -     -          855    0    0 
+Murphy    983251115 10 10 c   r     b     k         1839   50  210 9s 7d
+Murphy    983251208  9  9 cc  f     -     -         1999   20    0 
+Murphy    983251311 10  8 c   c     f     -         1979   30    0 
+Murphy    983251377 10  7 rc  kc    kc    kc        1949   80    0 5h 5d
+Murphy    983251429  8  5 c   k     k     b         1869   30   45 
+Murphy    983251458  9  4 c   kc    c     k         1884   50    0 Qc Ts
+Murphy    983251503  9  3 f   -     -     -         1834    0    0 
+Murphy    983251569  9  2 Bc  kr    k     k         1834   40    0 Kd Qc
+Murphy    983251607  9  1 Bc  k     k     kc        1794   30    0 7h 8c
+Murphy    983251675  9  9 c   c     f     -         1764   20    0 
+Murphy    983251745 10  8 c   c     c     c         1744   90    0 4c 9c
+Murphy    983251785 10  7 c   c     c     c         1654   60    0 Jc 6h
+Murphy    983251840 10  6 c   kc    kc    kc        1594   60    0 Ah 6d
+Murphy    983251943 10  5 c   kr    k     kc        1534   50  120 Ah Jc
+Murphy    983252004 10  4 c   c     kf    -         1604   20    0 
+Murphy    983252079 10  3 cc  kc    b     b         1584   80  285 9s Tc
+Murphy    983252169 10  2 Bc  ccc   brc   b         1789  170  645 4s Th
+Murphy    983252289  8  1 Bc  kcrc  kc    k         2264   80    0 5s 9s
+Murphy    983252355  9  9 c   c     f     -         2184   50    0 
+Murphy    983252397 10  9 cc  kf    -     -         2134   20    0 
+Murphy    983252447 10  8 c   kc    k     kc        2114   40    0 9s Kd
+Murphy    983252513 10  8 cc  kc    kc    k         2074   50    0 Qh 3d
+Murphy    983252578 10  6 c   k     b     b         2024   50  100 
+Murphy    983252635 10  5 c   kf    -     -         2074   10    0 
+Murphy    983252695 10  4 c   kf    -     -         2064   10    0 
+Murphy    983252753 10  3 c   k     k     kc        2054   30    0 Qd 6c
+Murphy    983252790  9  2 Bc  kf    -     -         2024   20    0 
+Murphy    983252820  9  1 Bc  kc    kc    k         2004   50    0 Qc 5s
+Murphy    983252863  8  8 c   b     c     k         1954   40    0 9c 3c
+Murphy    983252901  8  7 cc  k     kc    k         1914   40  105 6d 4h
+Murphy    983252939  8  6 cc  cc    kc    kc        1979   80    0 4h 8c
+Murphy    983252990  8  5 r   b     b     brc       1899  130    0 Kc Ac
+Murphy    983253057  9  4 ccc kf    -     -         1769   30    0 
+Murphy    983253119 10  3 c   kc    kf    -         1739   20    0 
+Murphy    983253186 10  2 Brc kc    kc    kc        1719  110    0 Ah 8s
+Murphy    983253279 10  1 Bc  k     k     kc        1609   50    0 3s Ts
+Murphy    983253328 10 10 c   r     c     r         1559  100    0 Kh 5s
+Murphy    983253373 10  9 rr  r     c     r         1459  120  450 5s 5h
+Murphy    983253460 10  8 c   r     b     b         1789   80  255 Ts As
+Murphy    983253537 10  7 c   k     ccc   f         1964   90    0 
+Murphy    983253620 10  6 c   b     k     k         1874   20    0 8s Ks
+Murphy    983253678 10  5 cc  c     kf    -         1854   35    0 
+Murphy    983253732 10  4 rc  c     k     f         1819   40    0 
+Murphy    983253773 10  3 cc  kf    -     -         1779   40    0 
+Murphy    983253830 10  2 Br  kc    kc    k         1739   80    0 Kh As
+Murphy    983253925 10  1 Bc  kr    b     b         1659   70    0 6h Ad
+Murphy    983253964 10 10 c   b     b     -         1589   40   65 
+Murphy    983254003 10  9 r   b     -     -         1614   30   60 
+Murphy    983254033 10  8 c   kf    -     -         1644   20    0 
+Murphy    983254095 10  7 r   k     k     k         1624   20   65 4h Qh
+Murphy    983254129 10  7 r   b     cc    r         1669  150  247 Jc Tc
+Murphy    983254245 10  5 cc  kf    -     -         1766   20    0 
+Murphy    983254306 10  4 c   kf    -     -         1746   10    0 
+Murphy    983254377 10  3 r   k     k     kf        1736   20    0 
+Murphy    983254454 10  2 Bk  bc    bc    kc        1716  110    0 Qs 7h
+Murphy    983254523 10  1 Bc  k     k     kc        1606   30    0 6c 8c
+Murphy    983254584 10 10 c   c     k     k         1576   30  160 As Tc
+Murphy    983254646 10  9 cr  k     c     c         1706   70    0 5s 3s
+Murphy    983254707 10  8 c   c     c     c         1636   70    0 9d 6s
+Murphy    983254782 10  7 c   f     -     -         1566   30    0 
+Murphy    983254856 10  6 c   kf    -     -         1536   10    0 
+Murphy    983254927 10  5 c   cf    -     -         1526   30    0 
+Murphy    983254981 10  4 c   f     -     -         1496   10    0 
+Murphy    983255031 10  3 c   kc    k     k         1486   20    0 Kd Qc
+Murphy    983255079 10  2 Bk  br    b     k         1466   60    0 Kc Qh
+Murphy    983255130 10  1 Bc  kf    -     -         1406   10    0 
+Murphy    983255215 10 10 crc c     r     b         1396  110  420 4s 6s
+Murphy    983255282 10  9 c   c     c     f         1706   40    0 
+Murphy    983255328 10  8 c   b     rr    b         1666  120  280 Ac Js
+Murphy    983255382 10  7 c   rc    c     f         1826   60    0 
+Murphy    983255443 10  6 c   c     c     rr        1766  120    0 Ad 7h
+Murphy    983255505 10  6 cr  rc    c     c         1646  140    0 9d 9h
+Murphy    983255607  9  4 c   kc    kc    f         1506   60    0 
+Murphy    983255650  9  3 c   cc    c     r         1446   90  190 Ks 6h
+Murphy    983255749  9  2 Bc  krr   k     kc        1546   80    0 Jd 3d
+Murphy    983255803  8  1 Bc  kc    b     b         1466   60  140 Td 6c
+Murphy    983255831  8  8 c   k     k     k         1546   10   30 6s Qd
+Murphy    983255868  8  7 c   k     c     k         1566   30   50 4d 7c
+Murphy    983255929  8  6 c   k     k     k         1586   10    0 2c Js
+Murphy    983255981  8  5 c   kc    kc    kc        1576   60    0 9s Kd
+Murphy    983256090  8  4 cc  cc    cf    -         1516   70    0 
+Murphy    983256168  8  3 cc  rc    kc    krc       1446  150    0 Jh 9h
+Murphy    983256234  8  2 Bc  kc    kc    kc        1296   70    0 Ks 4c
+Murphy    983256326  8  1 Bcc bcc   br    k         1226  140  390 Qh Jh
+Murphy    983256398  8  8 Q   -     -     -         1476    0    0 
+Murphy    983257159 10 10 c   c     c     c         1476   60    0 3s As
+Murphy    983257211  9  8 c   c     cc    rc        1416  160  340 Th Jd
+Murphy    983257324  9  7 c   c     ccc   k         1596  110    0 5d 6d
+Murphy    983257411  9  6 c   c     k     k         1486   30  125 Kh 5d
+Murphy    983257448  9  5 c   k     k     k         1581   10    0 9s 8d
+Murphy    983257497  9  4 rc  c     b     b         1571   90  390 8d 8c
+Murphy    983257567  9  3 cc  cc    cc    kf        1871  105    0 
+Murphy    983257610  8  2 Bc  b     k     kc        1766   50  135 Ad 7s
+Murphy    983257641  8  1 Bc  k     kc    kc        1851   50    0 2c 5s
+Murphy    983257712  8  8 r   b     c     f         1801   50    0 
+Murphy    983257760  9  8 cc  krc   b     kr        1751  150    0 Kh Ac
+Murphy    983257888 10  8 c   b     b     -         1601   40  110 
+Murphy    983257957 10  7 c   krr   k     k         1671   50  170 Qs Qc
+Murphy    983258024 10  6 c   kc    kf    -         1791   30    0 
+Murphy    983258150 10  5 c   c     k     k         1761   20    0 3h Qd
+Murphy    983258252  8  3 cc  cc    c     f         1741   60    0 
+Murphy    983258329  8  2 Br  b     b     k         1681   60    0 8h 8c
+Murphy    983258413  7  1 Bc  b     bc    bc        1621  100    0 5h Ad
+Murphy    983258479  8  8 c   c     b     brc       1521  120    0 5h Ks
+Murphy    983258532  8  7 c   c     f     -         1401   30    0 
+Murphy    983258570  9  7 cc  f     -     -         1371   40    0 
+Murphy    983258605  9  6 cc  cc    kf    -         1331   60    0 
+Murphy    983258656  9  5 cc  rc    kc    kc        1271  120    0 Jd Kh
+Murphy    983258750  9  4 ccc krc   kc    bcc       1151  170    0 8d Js
+Murphy    983258807  9  3 crc c     f     -          981   50    0 
+Murphy    983258859  9  2 Bc  krc   k     cf         931   80    0 
+Murphy    983258913  9  1 Bc  kr    b     k          851   60  150 Qs 6h
+Murphy    983258946  8  8 cc  f     -     -          941   40    0 
+Murphy    983259014  8  7 cc  r     r     rc         901  220    0 4h Kh
+Murphy    983259111  8  6 Q   -     -     -          681    0    0 
+Murphy    983293135  8  4 c   f     -     -          681   20    0 
+Murphy    983293211  8  3 cc  kr    k     k          661   40  150 4c 8c
+Murphy    983293265 10  2 Bk  b     b     b          771   60  210 Kh Tc
+Murphy    983293319 10  1 Bc  k     b     krf        921   70    0 
+Murphy    983293436 10 10 c   f     -     -          851   20    0 
+Murphy    983293482 10  9 c   c     c     cc         831  110    0 Qc 4h
+Murphy    983293568 10  8 c   f     -     -          721   20    0 
+Murphy    983293627 10  7 rc  rc    c     k          701   90  520 2h Th
+Murphy    983293722 10  6 cc  r     r     k         1131   90  370 Qc 8d
+Murphy    983293786 10  5 cc  kf    -     -         1411   20    0 
+Murphy    983293862 10  4 ccc br    k     b         1391  100  535 Th As
+Murphy    983293948 10  3 cc  k     k     f         1826   20    0 
+Murphy    983294003 10  2 Bk  kc    bcc   c         1806  120    0 6c 9h
+Murphy    983294083  9  1 Br  brc   bc    kc        1686  140    0 Tc Jc
+Murphy    983294177  9  9 rc  rr    rr    c         1546  180  875 6h 6d
+Murphy    983294295 10  9 c   c     f     -         2241   30    0 
+Murphy    983294366  9  7 rc  rc    c     c         2211  100    0 5s As
+Murphy    983294447  8  5 crc c     c     f         2111   70    0 
+Murphy    983294518  8  4 cc  kc    brc   c         2041  130    0 7h 4c
+Murphy    983294628  6  2 Bk  b     kc    krc       1911  140  223 4s 5d
+Murphy    983294703  5  1 Bc  k     kc    kf        1994   40    0 
+Murphy    983294743  4  4 c   c     c     c         1954   60  130 6s Td
+Murphy    983294765  4  4 c   r     rc    cc        2024  190    0 Ad Ks
+Murphy    983294814  4  3 cc  c     b     k         1834   50  150 Kh Qs
+Murphy    983294855  4  2 Bc  kc    kc    kf        1934   50    0 
+Murphy    983294903  4  1 Bc  bc    kc    kf        1884   50    0 
+Murphy    983294956  4  4 rc  c     c     c         1834   80    0 Jd Js
+Murphy    983294986  4  3 cc  cf    -     -         1754   30    0 
+Murphy    983295027  5  2 Bc  c     f     -         1724   30    0 
+Murphy    983295060  5  1 Bc  kc    kf    -         1694   30    0 
+Murphy    983295100  5  5 c   cc    cc    cf        1664  190    0 
+Murphy    983295147  5  4 c   c     cc    f         1474  110    0 
+Murphy    983295192  4  3 c   k     k     k         1364   10   25 Ts 9d
+Murphy    983295217  5  2 Bk  f     -     -         1379   10    0 
+Murphy    983295234  5  1 Bc  b     kr    b         1369   80  190 Ac 5h
+Murphy    983295314  4  4 c   b     b     -         1479   40   75 
+Murphy    983295362  4  3 c   k     c     f         1514   30    0 
+Murphy    983295405  5  2 Bc  kc    k     k         1484   30    0 4s 7h
+Murphy    983295436  4  1 Bc  bc    k     brc       1454  120    0 4c Js
+Murphy    983295468  5  5 r   b     b     b         1334   70    0 Ac 4c
+Murphy    983295514  5  4 cc  c     cc    kf        1264   90    0 
+Murphy    983295543  5  3 c   f     -     -         1174   10    0 
+Murphy    983295567  5  2 Bk  k     kc    kc        1164   50    0 3h As
+Murphy    983295592  5  1 Bcc kf    -     -         1114   20    0 
+Murphy    983295629  5  5 cc  k     c     k         1094   50  185 8h As
+Murphy    983295652  5  4 c   c     k     k         1229   20    0 9c Th
+Murphy    983295676  5  3 cc  kccc  kc    k         1209   80    0 3d Ad
+Murphy    983295718  6  2 Bk  kc    kc    k         1129   40    0 Qd 9h
+Murphy    983295743  6  1 Bc  kf    -     -         1089   10    0 
+Murphy    983295758  6  6 cc  c     r     b         1079  110  150 Jc 7h
+Murphy    983295788  6  5 c   k     c     f         1119   30    0 
+Murphy    983295812  5  3 c   c     c     f         1089   40    0 
+Murphy    983295831  5  2 Bc  b     bc    kc        1049   90    0 2h 8d
+Murphy    983295871  5  1 Bc  krc   kc    k          959   70  150 Qd 8h
+Murphy    983295893  5  5 rc  r     k     c         1039   70    0 9h 9d
+Murphy    983295914  5  4 c   k     b     -          969   30   45 
+Murphy    983295936  5  3 c   c     r     b          984   80  165 5d 8c
+Murphy    983295951  5  2 Bc  c     k     kc        1069   50    0 7h Th
+Murphy    983295984  5  1 Bc  kc    kf    -         1019   20    0 
+Murphy    983296002  5  5 crc c     c     c          999   90    0 9c Jd
+Murphy    983296023  5  4 c   k     c     f          909   30    0 
+Murphy    983296044  5  3 c   kc    kc    k          879   40  125 5h Jh
+Murphy    983296070  5  2 Bk  k     kf    -          964   10    0 
+Murphy    983296086  5  1 Bc  k     k     k          954   10    0 Kh 2c
+Murphy    983296104  5  5 c   c     c     k          944   40   85 Jd Kc
+Murphy    983296119  5  4 c   f     -     -          989   20    0 
+Murphy    983296149  5  3 cc  f     -     -          969   20    0 
+Murphy    983296175  5  2 Bc  c     k     b          949   50   50 7s As
+Murphy    983296195  5  1 Bc  k     b     b          949   50  150 Jh Ad
+Murphy    983296216  5  5 crc c     k     k         1049   50  200 Qh 6h
+Murphy    983296245  5  4 c   k     k     k         1199   10    0 2h 9c
+Murphy    983296268  5  3 c   k     k     r         1189   50  120 7h Jd
+Murphy    983296312  5  2 Bc  kc    kc    kf        1259   50    0 
+Murphy    983296338  5  1 Bc  k     k     k         1209   10    0 8s 6d
+Murphy    983296359  5  5 c   c     c     c         1199   60    0 2c 7d
+Murphy    983296390  5  4 r   -     -     -         1139   20   35 
+Murphy    983296398  5  3 r   c     c     c         1154   90    0 Qs 3h
+Murphy    983296429  6  2 Br  b     b     b         1064   70  140 
+Murphy    983296466  6  1 Bc  k     kc    k         1134   30  100 Qc 4d
+Murphy    983296495  6  6 c   c     c     k         1204   40  125 Qd 2d
+Murphy    983296516  6  5 c   b     k     rc        1289  100  102 Ks 5s
+Murphy    983296572  6  4 r   kc    kf    -         1291   30    0 
+Murphy    983296592  6  3 cc  kc    kc    k         1261   50    0 Ts 3h
+Murphy    983296616  6  2 Bc  kf    -     -         1211   20    0 
+Murphy    983296648  5  1 Bc  kc    k     k         1191   20   70 Kh 9d
+Murphy    983296668  5  5 c   k     k     k         1241   10   12 4s Qs
+Murphy    983296686  6  5 c   k     k     c         1243   30    0 6h 4c
+Murphy    983296708  6  4 c   c     c     c         1213   60    0 5d 8s
+Murphy    983296737  6  3 cc  cc    kf    -         1153   40    0 
+Murphy    983296776  6  2 Bc  cc    b     b         1113   80  240 Tc 6s
+Murphy    983296804  7  1 Bc  k     b     k         1273   30   90 Qs 6s
+Murphy    983296835  7  7 cc  c     k     c         1333   50    0 Jh 9c
+Murphy    983296867  6  5 c   br    b     b         1283   90  215 8c Jh
+Murphy    983296897  6  4 cc  kc    kc    kc        1408   70    0 2h Kh
+Murphy    983296932  7  3 ccc cc    k     kc        1338   80    0 5d 8c
+Murphy    983296984  7  2 Bc  kc    kc    kc        1258   70    0 6h 2s
+Murphy    983297015  7  1 Bc  kc    kc    k         1188   50    0 8s 5d
+Murphy    983297055  6  6 c   b     -     -         1138   30   90 
+Murphy    983297090  6  5 c   bc    k     r         1198   80  175 Qh Jc
+Murphy    983297115  6  4 cc  f     -     -         1293   20    0 
+Murphy    983297131  6  3 rc  rr    c     r         1273  130    2 2h 2d
+Murphy    983297165  6  2 Bc  k     k     k         1145   20    0 Td Kd
+Murphy    983297203  6  1 Bc  kr    b     -         1125   70  230 
+Murphy    983297232  6  6 c   c     c     f         1285   50    0 
+Murphy    983297255  6  5 c   k     f     -         1235   20    0 
+Murphy    983297289  6  4 c   k     f     -         1215   20    0 
+Murphy    983297322  6  3 cc  b     k     r         1195   70    0 Qc 3c
+Murphy    983297368  5  2 Bc  kc    kc    kf        1125   50    0 
+Murphy    983297403  5  1 Bcc kc    k     kf        1075   30    0 
+Murphy    983297434  5  5 c   c     r     b         1045   90  225 6d Qc
+Murphy    983297459  5  4 c   c     c     r         1180   80  180 4s 8h
+Murphy    983297489  5  3 c   k     c     f         1280   30    0 
+Murphy    983297521  5  2 Bc  c     k     kc        1250   50    0 4s Ad
+Murphy    983297550  5  1 Bc  k     k     b         1200   30   50 
+Murphy    983297584  5  5 c   b     b     -         1220   40   90 
+Murphy    983297613  6  4 rc  k     b     k         1270   50    0 7d 9h
+Murphy    983297651  6  3 c   k     c     f         1220   30    0 
+Murphy    983297670  6  2 Bk  kc    kf    -         1190   20    0 
+Murphy    983297702  6  1 Bc  kc    kc    kf        1170   40    0 
+Murphy    983297742  6  6 c   r     r     k         1130  110    0 5c Ac
+Murphy    983297780  7  5 cc  brc   bc    bc        1020  140    0 Ks 2s
+Murphy    983297836  7  5 c   k     b     kc         880   50    0 4s Qh
+Murphy    983297865  6  3 c   k     k     k          830   10    0 7h 2d
+Murphy    983297889  6  2 Bc  krc   k     k          820   50  175 Td Tc
+Murphy    983297922  6  1 Bc  kc    kc    kf         945   40    0 
+Murphy    983297964  6  6 c   r     b     b          905   70    0 Kh Th
+Murphy    983297999  6  5 c   c     c     c          835   60    0 4h 6c
+Murphy    983298052  8  5 c   c     c     f          775   50    0 
+Murphy    983298101  8  4 c   k     c     c          725   50    0 8h 5c
+Murphy    983298156  8  3 c   b     brc   kc         675  120    0 Jh Ac
+Murphy    983298202  8  2 Br  b     b     b          555   70  175 Tc Th
+Murphy    983298253  8  1 Bc  kc    kc    kf         660   40    0 
+Murphy    983298308  8  8 r   f     -     -          620   30    0 
+Murphy    983298449  7  6 cc  c     k     f          590   30    0 
+Murphy    983298484  8  6 cc  c     kc    k          560   70    0 Kc 7c
+Murphy    983298521  8  5 cc  cc    kc    kf         490   60    0 
+Murphy    983298576  8  3 Q   -     -     -          430    0    0 
+Murphy    983299095  7  6 cc  k     c     f          430   60    0 
+Murphy    983299133  7  5 c   c     c     f          370   40    0 
+Murphy    983299175  8  4 cc  kc    kc    kc         330   90    0 Ac 7s
+Murphy    983299255  9  3 cc  kf    -     -          240   30    0 
+Murphy    983299319  9  2 Bc  kf    -     -          210   20    0 
+Murphy    983299362  8  1 Bc  k     kc    k          190   30   35 3c Qs
+Murphy    983299400  9  8 cc  brc   bc    b          195  120  470 8h 5s
+Murphy    983299475 10  7 c   c     f     -          545   30    0 
+Murphy    983299505  9  6 c   c     c     k          515   40    0 9s 4c
+Murphy    983299559 10  5 c   rc    b     bc         475  100    0 Jh Kd
+Murphy    983299620 10  4 rc  rr    b     b          375  120  445 Ts Th
+Murphy    983299697 10  3 cc  kc    k     c          700   50    0 Td 3h
+Murphy    983299775 10  2 Bc  c     c     k          650   60    0 8s Tc
+Murphy    983299855 10  1 Bc  kc    kc    kf         590   60    0 
+Murphy    983299972 10 10 r   c     c     c          530   70  195 7s Ks
+Murphy    983300016 10  9 c   k     k     k          655   20    0 Ks 6s
+Murphy    983300062 10  8 cc  r     bc    kc         635  100    0 Jc 8d
+Murphy    983300120 10  7 cc  cf    -     -          535   50    0 
+Murphy    983300182 10  6 cc  rc    kc    kc         485   90    0 2c Kh
+Murphy    983300249 10  5 c   c     c     kc         395   70    0 6c Jh
+Murphy    983300298 10  4 cc  rr    k     br         325  140  490 8h Ts
+Murphy    983300369 10  3 cc  f     -     -          675   20    0 
+Murphy    983300436 10  2 Bc  ccc   kf    -          655   70    0 
+Murphy    983300534 10  1 Bc  kc    kcc   kc         585  110    0 2c 7h
+Murphy    983300637 10 10 c   c     k     f          475   40    0 
+Murphy    983300715  9  9 c   c     c     f          435   50    0 
+Murphy    983300763  9  7 c   kc    b     b          385   60    0 8d 4c
+Murphy    983300835 10  6 c   rc    k     b          325   70  220 7s Ks
+Murphy    983300899 10  5 cc  kc    k     kc         475   50    0 9s 3s
+Murphy    983300993 10  4 cc  c     c     kf         425   50    0 
+Murphy    983301073 10  3 cc  cc    kc    kf         375   60    0 
+Murphy    983301122 10  2 Bk  k     k     kc         315   30    0 3h Js
+Murphy    983301206 10  1 Bc  kr    k     k          285   30    0 4c 4h
+Murphy    983301264 10 10 c   c     cc    f          255   80    0 
+Murphy    983301356 10  9 f   -     -     -          175    0    0 
+Murphy    983301433 10  8 c   c     c     k          175   40    0 Ts 2c
+Murphy    983301511 10  7 c   kf    -     -          135   10    0 
+Murphy    983301585 10  6 cc  c     c     rcA        125  125  440 Jh 8c
+Murphy    983301650  9  5 c   kc    k     bc         440   60  135 3h 6c
+Murphy    983301707  9  4 cc  kc    kc    kf         515   50    0 
+Murphy    983301792  8  2 Bk  kc    cf    -          465   40    0 
+Murphy    983301903  9  1 Bc  kc    kc    kf         425   40    0 
+Murphy    983301954  9  9 cQ  -     -     -          385   20    0 
+Murphy    983303217 10 10 c   c     c     f          365   40    0 
+Murphy    983303318  9  8 f   -     -     -          325    0    0 
+Murphy    983303399  9  7 c   k     f     -          325   10    0 
+Murphy    983303470  9  6 c   rr    b     b          315   90  340 5d 8d
+Murphy    983303561 10  7 c   c     r     b          565   80  285 5c 8d
+Murphy    983303640  9  5 cc  c     k     k          770   40    0 7s 3s
+Murphy    983303719  9  4 c   c     c     f          730   60    0 
+Murphy    983303762  9  3 cc  cc    b     r          670  100  340 3h 2c
+Murphy    983303846 10  2 Bk  k     kc    kcf        910   70    0 
+Murphy    983303934 10  1 Bc  kf    -     -          840   10    0 
+Murphy    983303990 10 10 c   c     c     f          830   60    0 
+Murphy    983304081  9  8 c   cc    c     f          770   70    0 
+Murphy    983304150  9  7 cc  kf    -     -          700   20    0 
+Murphy    983304173  8  5 c   rr    b     b          680   90  275 5d Jh
+Murphy    983304289  8  4 c   k     cc    kf         865   50    0 
+Murphy    983304335  9  4 c   k     kc    b          815   50  130 Tc Kd
+Murphy    983304409  9  3 ccc kf    -     -          895   40    0 
+Murphy    983304482  9  2 Bk  r     r     rr         855  150    0 Qh Ah
+Murphy    983304537 10  1 Bc  k     kf    -          705   10    0 
+Murphy    983304646 10 10 c   k     c     c          695   50    0 4h 3d
+Murphy    983304693 10  9 c   b     b     b          645   60    0 3c 3h
+Murphy    983304783 10  8 c   rc    k     c          585   60    0 2c Kc
+Murphy    983304852 10  7 c   f     -     -          525   10    0 
+Murphy    983304894 10  6 c   f     -     -          515   10    0 
+Murphy    983304965 10  6 c   r     k     k          505   40    0 8h 7d
+Murphy    983305016 10  4 r   c     f     -          465   30    0 
+Murphy    983305047 10  3 c   k     k     k          435   10    0 6s 2s
+Murphy    983305086 10  2 Bk  b     kc    b          425   60  270 Ac 3d
+Murphy    983305176 10  1 Bc  kc    k     br         635   80  130 Jc Kc
+Murphy    983305248 10 10 c   f     -     -          685   10    0 
+Murphy    983305296 10  9 c   c     c     cc         675  100    0 2c As
+Murphy    983305399 10  8 cc  f     -     -          575   20    0 
+Murphy    983305441 10  7 cc  cc    c     f          555   80    0 
+Murphy    983305527 10  6 c   kc    kc    kf         475   40    0 
+Murphy    983305614 10  5 c   c     f     -          435   20    0 
+Murphy    983305677 10  4 ccc c     kc    kf         415   80    0 
+Murphy    983305773 10  3 c   k     c     k          335   30    0 Ks 3c
+Murphy    983305819 10  2 Bk  kf    -     -          305   10    0 
+Murphy    983305903 10  1 Bc  kf    -     -          295   10    0 
+Murphy    983305958 10 10 c   f     -     -          285   10    0 
+Murphy    983306079  9  8 c   f     -     -          275   10    0 
+Murphy    983306184  8  6 c   kc    kf    -          265   20    0 
+Murphy    983306252  8  6 c   c     c     f          245   40    0 
+Murphy    983306319  8  5 c   c     c     c          205   60    0 Ad 8d
+Murphy    983306415  6  3 c   k     k     kf         145   10    0 
+Murphy    983306466  8  3 cc  kc    f     -          135   30    0 
+Murphy    983306517  8  2 Bk  kf    -     -          105   10    0 
+Murphy    983306568  8  1 Bf  -     -     -           95    5    0 
+Murphy    983306622  7  7 c   k     k     f           90   10    0 
+Murphy    983306670  7  6 f   -     -     -           80    0    0 
+Murphy    983306714  7  5 r   b     rcA   -           80   80  163 Ks Kh
+Murphy    983306821  8  5 c   c     k     k          163   20   40 Ah 8s
+Murphy    983306858  8  4 c   f     -     -          183   10    0 
+Murphy    983306895  8  3 c   kc    kf    -          173   20    0 
+Murphy    983306956  9  2 Bk  kf    -     -          153   10    0 
+Murphy    983307002  8  1 Bc  kc    kc    brf        143  100    0 
+Murphy    983307072  8  8 c   c     k     k           43   30  155 3h 9s
+Murphy    983307110  8  7 c   f     -     -          168   10    0 
+Murphy    983307155  8  6 c   c     c     c          158   60    0 2c 9h
+Murphy    983307197 10  6 c   f     -     -           98   10    0 
+Murphy    983307311 10  5 c   k     k     k           88   10    0 Kh 4h
+Murphy    983307385 10  4 c   k     k     f           78   10    0 
+Murphy    983307455 10  3 cc  f     -     -           68   20    0 
+Murphy    983307523 10  2 Bk  kr    kcA   -           48   48    0 7d 6d
+Murphy    983310144  4  4 cc  f     -     -         1000   20    0 
+Murphy    983310255  4  3 c   k     k     k          980   10    0 4c 7s
+Murphy    983310326  4  2 Bk  kc    c     f          970   40    0 
+Murphy    983310375  5  1 Bc  kc    kc    kc         930   60    0 9c 8h
+Murphy    983310409  4  4 c   f     -     -          870   10    0 
+Murphy    983310426  4  3 cc  kc    cc    kc         860  100    0 7s 2h
+Murphy    983310476  5  3 cc  kc    kc    f          760   50    0 
+Murphy    983310525  5  2 Bk  k     k     k          710   10    0 Ad 9c
+Murphy    983310563  5  1 Bc  kc    kc    kf         700   40    0 
+Murphy    983310626  5  5 c   c     r     k          660   80  240 7s Td
+Murphy    983310686  5  4 cc  kf    -     -          820   20    0 
+Murphy    983310721  4  2 Br  bc    rc    rr         800  190    0 2s 2c
+Murphy    983310770  4  1 Bc  kc    kc    k          610   50    0 2d 4h
+Murphy    983310805  4  4 cc  rc    c     r          560  110  230 Kh 9s
+Murphy    983310847  5  4 c   cc    kf    -          680   40    0 
+Murphy    983310897  5  3 cc  kf    -     -          640   20    0 
+Murphy    983310948  5  2 Bc  kf    -     -          620   20    0 
+Murphy    983310983  5  1 Bc  b     b     b          600   70  200 
+Murphy    983311038  5  5 c   k     f     -          730   10    0 
+Murphy    983311072  5  4 c   f     -     -          720   10    0 
+Murphy    983311115  5  3 c   cc    kc    b          710   70  220 Kd 5d
+Murphy    983311162  5  2 Bc  kc    kc    kf         860   60    0 
+Murphy    983311242  5  1 Bc  kc    kc    kc         800   60    0 3h 8d
+Murphy    983311317  4  4 cc  f     -     -          740   20    0 
+Murphy    983311346  5  4 c   kf    -     -          720   10    0 
+Murphy    983311364  5  3 cc  bc    brc   br         710  180    0 7s Tc
+Murphy    983311402  5  2 Bc  k     b     k          530   40  125 5d 4d
+Murphy    983311436  5  1 Bc  kc    brc   brc        615  180    0 Ac 9s
+Murphy    983311484  6  6 c   c     c     c          435   60  150 6h 8s
+Murphy    983311533  7  6 r   r     k     c          525   90    0 5d 5h
+Murphy    983311655  8  6 c   c     k     f          435   20    0 
+Murphy    983311723  7  4 c   kc    br    kc         415  100    0 9d Kh
+Murphy    983311792  8  3 c   kf    -     -          315   10    0 
+Murphy    983311884  8  2 Bk  kf    -     -          305   10    0 
+Murphy    983311932  9  1 Bc  b     kc    kf         295   50    0 
+Murphy    983311983  8  8 f   -     -     -          245    0    0 
+Murphy    983312019  7  6 cc  cc    cc    f          245  110    0 
+Murphy    983312085  7  5 cc  kc    kf    -          135   30    0 
+Murphy    983312158  8  5 c   br    b     r          105  100    0 8d 4h
+Murphy    983312237  8  4 cA  -     -     -            5    5    0 5d 4d
+Murphy    983318532 10  9 c   k     k     c         1000   30  115 Kh 8d
+Murphy    983318602 10  8 c   c     f     -         1085   20    0 
+Murphy    983318694 10  7 c   k     k     k         1065   10    0 As 9s
+Murphy    983318772 10  6 cc  kc    kc    f         1055   50    0 
+Murphy    983318891 10  5 cc  cf    -     -         1005   40    0 
+Murphy    983318966 10  4 cc  b     brc   b          965  160  735 Ac Qd
+Murphy    983319045 10  3 cc  rc    b     k         1540   80    0 Ts 4d
+Murphy    983319131 10  2 Bcc kcc   kf    -         1460   80    0 
+Murphy    983319278 10  1 Bc  k     k     kr        1380   50    0 Kd 4h
+Murphy    983319333 10 10 c   k     c     f         1330   30    0 
+Murphy    983319399 10  9 c   c     c     rr        1300  120  157 7s Ad
+Murphy    983319458 10  8 cc  r     cc    f         1337  170    0 
+Murphy    983319542 10  7 c   k     k     k         1167   10    0 2h 9c
+Murphy    983319594 10  6 f   -     -     -         1157    0    0 
+Murphy    983319695 10  5 c   rcc   r     r         1157  140    0 Js 9d
+Murphy    983319773 10  4 cc  c     k     f         1017   40    0 
+Murphy    983319845 10  3 r   rc    bc    rr         977  170  580 3h 3s
+Murphy    983319913 10  2 Bc  kf    -     -         1387   20    0 
+Murphy    983319990 10  1 Bc  kr    b     b         1367   70  170 9c Qh
+Murphy    983320055 10 10 c   c     f     -         1467   20    0 
+Murphy    983320109 10  9 c   kr    -     -         1447   50  215 
+Murphy    983320174 10  8 r   c     c     c         1612   80    0 Qc Qh
+Murphy    983320237 10  7 c   c     f     -         1532   20    0 
+Murphy    983320348  9  5 c   c     k     k         1512   20    0 5d Qc
+Murphy    983320416 10  5 cc  k     k     c         1492   60    0 9d Jh
+Murphy    983320466 10  4 c   f     -     -         1432   10    0 
+Murphy    983320510 10  3 rc  br    b     b         1422  100  550 Kh Kd
+Murphy    983320587 10  2 Bc  k     f     -         1872   20    0 
+Murphy    983320639  9  1 Bc  k     kr    b         1852   90  360 
+Murphy    983320693  9  9 c   k     c     f         2122   30    0 
+Murphy    983320753  8  7 c   r     b     k         2092   60  100 Kd 8d
+Murphy    983320846  9  7 r   k     c     k         2132   40    0 Tc Th
+Murphy    983320895  9  6 cc  c     c     c         2092   80  290 As 7h
+Murphy    983320952  7  4 c   k     k     kf        2302   10    0 
+Murphy    983321030  8  3 c   kc    k     kf        2292   20    0 
+Murphy    983321086  8  2 Bc  kf    -     -         2272   20    0 
+Murphy    983321172  8  1 Bc  kc    kc    br        2252  100  270 
+Murphy    983321256  8  8 c   k     k     k         2422   10    0 Ad 7h
+Murphy    983321297  8  5 Q   -     -     -         2412    0    0 
+Murphy    983328699  8  2 Bc  r     rr    rr        1192  200  620 8h Kd
+Murphy    983328777  8  1 Bc  k     k     k         1612   20    0 9h Kc
+Murphy    983328862 10 10 c   k     f     -         1592   10    0 
+Murphy    983328929 10  9 c   f     -     -         1582   20    0 
+Murphy    983329012 10  8 c   cc    c     c         1562   80  260 Jd 9h
+Murphy    983329110 10  7 rc  bc    br    b         1742  140  355 Kd Kc
+Murphy    983329171 10  6 cr  f     -     -         1957   30    0 
+Murphy    983329256 10  5 cc  c     k     c         1927   60  250 7h Kc
+Murphy    983329397  9  4 c   f     -     -         2117   20    0 
+Murphy    983329459  9  3 cc  kc    kc    kf        2097   50    0 
+Murphy    983329551 10  2 Bk  kc    bc    brc       2047  140    0 8s 8d
+Murphy    983329640 10  1 Bc  k     k     k         1907   30    0 9c 2c
+Murphy    983329776  8  8 c   brc   c     c         1877   90    0 Qc Kh
+Murphy    983329850  9  8 c   k     k     f         1787   20    0 
+Murphy    983329944  9  7 c   k     c     k         1767   30   75 5s Kc
+Murphy    983330029  8  5 c   kc    k     k         1812   30  150 Ts Ac
+Murphy    983330154  8  5 c   c     c     b         1932   60  110 
+Murphy    983330221  7  3 cc  f     -     -         1982   20    0 
+Murphy    983330265  7  2 Bc  bc    kc    kc        1962   80    0 5d Qs
+Murphy    983330310  8  1 Bc  b     k     b         1882   40    0 Kh 6s
+Murphy    983330362  8  8 c   f     -     -         1842   20    0 
+Murphy    983330421  9  7 cc  c     cc    kf        1822   90    0 
+Murphy    983330514  8  5 c   kr    kc    kf        1732   50    0 
+Murphy    983330605  7  4 c   k     b     -         1682   30   50 
+Murphy    983330643  8  3 r   k     k     k         1702   20    0 6s 7s
+Murphy    983330688  8  2 Bk  kc    kc    kf        1682   60    0 
+Murphy    983330766  8  1 Bc  kcc   kf    -         1622   80    0 
+Murphy    983330841  8  8 c   b     k     f         1542   20    0 
+Murphy    983330944  8  7 cc  b     b     b         1522   80  205 
+Murphy    983331042  9  7 c   c     c     c         1647   80    0 2h 2d
+Murphy    983331125  9  6 cc  kc    kc    kc        1567   70    0 9h 5h
+Murphy    983331216  7  3 cc  kc    kc    kc        1497   70    0 Js 9s
+Murphy    983331286  7  2 Bk  k     k     r         1427   50   80 
+Murphy    983331327  7  1 Bc  k     k     kf        1457   10    0 
+Murphy    983331409  7  7 cc  k     f     -         1447   40    0 
+Murphy    983331485  8  7 cc  c     c     f         1407   70    0 
+Murphy    983331610  9  7 cc  f     -     -         1337   20    0 
+Murphy    983331716  9  6 c   k     k     c         1317   30    0 8d Tc
+Murphy    983331781 10  5 c   c     cc    f         1287   70    0 
+Murphy    983331857 10  4 c   kc    rc    kc        1217  140    0 Ac 8d
+Murphy    983331943 10  3 c   b     kc    b         1077   60  255 9h 7h
+Murphy    983332045 10  2 Bk  c     kf    -         1272   20    0 
+Murphy    983332101 10  1 Bc  kc    k     kc        1252   40    0 7s 9s
+Murphy    983332167 10 10 c   c     c     f         1212   60    0 
+Murphy    983332260 10  3 Q   -     -     -         1152    0    0 
+Murphy    983335383 10  4 crc b     -     -         1152   50  160 
+Murphy    983335441  9  2 Bk  f     -     -         1262   10    0 
+Murphy    983335528  9  1 Bc  b     -     -         1252   20   40 
+Murphy    983335568 10 10 c   c     c     c         1272   60  170 Ts 9c
+Murphy    983336363 10  9 c   kf    -     -         1382   10    0 
+Murphy    983336497  6  5 cc  k     k     c         1372   40    0 3c Ts
+Murphy    983336531  6  4 c   b     k     b         1332   40   85 
+Murphy    983336577  7  3 c   c     r     c         1377   80    0 Ks Ts
+Murphy    983336641  8  2 Bc  kc    kc    kf        1297   60    0 
+Murphy    983336728  8  1 Bc  kr    krr   k         1237  110  390 Qd Ac
+Murphy    983336847  8  8 c   c     rr    k         1517  110  255 Ac 4s
+Murphy    983336898  8  7 c   b     c     c         1662   60    0 Ts Qc
+Murphy    983336956  9  7 c   c     c     c         1602   70    0 2s Th
+Murphy    983337010  9  6 cc  c     f     -         1532   30    0 
+Murphy    983337052  9  5 cc  k     kc    kr        1502   80  215 Ad 7h
+Murphy    983337112  9  4 c   kf    -     -         1637   10    0 
+Murphy    983337193 10  3 c   f     -     -         1627   10    0 
+Murphy    983337244 10  2 Br  kcr   kc    brc       1617  180  555 7s 7d
+Murphy    983337346 10  1 Bc  kr    kr    kc        1992   90    0 Kh Qc
+Murphy    983337441 10 10 c   c     c     k         1902   50  185 Kd Qs
+Murphy    983337491 10  9 c   c     c     r         2037   90  315 3s 2d
+Murphy    983337590 10  8 c   k     cc    rc        2262  150    0 Qc As
+Murphy    983337660 10  7 cc  Q     -     -         2112   20    0 
+Murphy    983338464  7  3 c   c     c     c         2092   60    0 9h Qc
+Murphy    983338498  8  2 Br  bcc   krc   kcc       2032  200    0 9h 9s
+Murphy    983338569  8  1 Bc  kc    kc    kc        1832   80    0 6s 7h
+Murphy    983338641  9  9 cc  cc    f     -         1752   70    0 
+Murphy    983338713  9  8 c   c     k     k         1682   20    0 4c Kd
+Murphy    983338763 10  8 cc  f     -     -         1662   20    0 
+Murphy    983338873 10  7 rc  cc    c     c         1642  110    0 7h 7s
+Murphy    983338929 10  6 c   ccc   cc    kc        1532  110    0 3d Th
+Murphy    983339068 10  5 r   kc    bc    b         1422   90  313 9c 9s
+Murphy    983339146  9  4 c   b     b     b         1645   60  155 Ac 3h
+Murphy    983339230 10  3 c   kcc   kc    kf        1740   50    0 
+Murphy    983339320 10  2 Bk  kf    -     -         1690   10    0 
+Murphy    983339357  8  1 Bc  kc    kc    kf        1680   60    0 
+Murphy    983339423 10 10 c   f     -     -         1620   10    0 
+Murphy    983339471  9  8 c   r     b     -         1610   50  120 
+Murphy    983339517 10  8 c   k     f     -         1680   10    0 
+Murphy    983339580 10  7 c   k     k     k         1670   10    0 6d Kh
+Murphy    983339631  9  5 c   k     c     f         1660   40    0 
+Murphy    983339692  9  4 c   kc    b     b         1620   60  170 
+Murphy    983339766 10  4 c   k     k     k         1730   10    0 8c 7d
+Murphy    983339840 10  3 f   -     -     -         1720    0    0 
+Murphy    983339886 10  2 Bf  -     -     -         1720   10    0 
+Murphy    983339944 10  1 Bc  kf    -     -         1710   20    0 
+Murphy    983340039 10 10 cc  k     c     f         1690   40    0 
+Murphy    983340169  9  8 c   k     k     k         1650   10    0 Ad 9s
+Murphy    983340237  8  6 f   -     -     -         1640    0    0 
+Murphy    983340312  8  5 c   c     f     -         1640   30    0 
+Murphy    983340340  8  4 cc  kc    br    -         1610  100  280 
+Murphy    983340408  7  3 c   r     b     b         1790   70    0 Ac 7h
+Murphy    983340452  7  2 Bc  c     k     k         1720   30    0 Ts Jd
+Murphy    983340510  8  1 Bc  k     k     b         1690   30   70 2s 3h
+Murphy    983340556  8  8 c   b     k     k         1730   20   55 5s Ac
+Murphy    983340644  8  7 c   k     k     c         1765   30    0 2s 3c
+Murphy    983340701  8  6 c   c     rc    c         1735  110    0 3d 3c
+Murphy    983340732  9  5 c   r     rc    krc       1625  160    0 Kh 8c
+Murphy    983340805 10  5 c   k     f     -         1465   10    0 
+Murphy    983340860 10  4 c   k     kc    kf        1455   30    0 
+Murphy    983340907 10  3 c   k     k     k         1425   10    0 3h 7c
+Murphy    983340983  9  2 Bk  kc    kc    kf        1415   50    0 
+Murphy    983341067 10  1 Bc  kc    kc    kf        1365   70    0 
+Murphy    983341151 10 10 c   f     -     -         1295   20    0 
+Murphy    983341180 10 10 c   k     k     k         1275   20    0 2h 6c
+Murphy    983341226 10  8 c   r     r     b         1255   90    0 8s 8h
+Murphy    983341302 10  7 c   k     f     -         1165   10    0 
+Murphy    983341378 10  6 c   k     k     k         1155   10    0 Js Qh
+Murphy    983341420 10  5 c   f     -     -         1145   10    0 
+Murphy    983341509 10  4 c   f     -     -         1135   10    0 
+Murphy    983341563  9  3 cc  cc    k     kf        1125   40    0 
+Murphy    983341634  9  2 Bc  c     c     c         1085   70  240 5d 6d
+Murphy    983341701  9  1 Bc  kc    kf    -         1255   20    0 
+Murphy    983341777  9  9 c   rc    c     f         1235   60    0 
+Murphy    983341851  9  4 Q   -     -     -         1175    0    0 
+Murphy    983342665  7  2 B   -     -     -         1175   10   15 
+Murphy    983342680  6  1 Bc  kc    kf    -         1180   20    0 
+Murphy    983342714  6  6 c   k     c     r         1160   80  170 
+Murphy    983342746  6  5 c   c     rc    c         1250  100    0 6s Jh
+Murphy    983342773  6  4 cc  c     r     b         1150   90  190 9d Qd
+Murphy    983342793  6  3 c   k     c     kc        1250   50    0 5s 6s
+Murphy    983342846  6  2 Bk  k     k     k         1200   10   35 3h 4s
+Murphy    983342878  6  1 Bc  k     kc    kf        1225   30    0 
+Murphy    983342907  6  6 r   c     rc    rc        1195  150    0 2h 2d
+Murphy    983342940  6  5 c   kf    -     -         1045   10    0 
+Murphy    983343002  6  4 c   c     f     -         1035   30    0 
+Murphy    983343029  6  3 f   -     -     -         1005    0    0 
+Murphy    983343056  6  2 Bc  kc    k     k         1005   30    0 6d 5c
+Murphy    983343097  6  1 Bf  -     -     -          975    5    0 
+Murphy    983343125  6  6 c   f     -     -          970   10    0 
+Murphy    983343155  6  5 c   f     -     -          960   20    0 
+Murphy    983343208  6  4 c   b     b     b          940   60  130 Ac Ks
+Murphy    983343236  6  3 rc  c     r     k         1010   80    0 3h Jh
+Murphy    983343270  6  2 B   -     -     -          930   10   15 
+Murphy    983343291  6  1 Bc  kf    -     -          935   10    0 
+Murphy    983343341  5  5 c   c     c     cc         925   90    0 3h 5c
+Murphy    983343395  5  4 c   k     k     f          835   10    0 
+Murphy    983343452  5  3 f   -     -     -          825    0    0 
+Murphy    983343522  5  2 Bk  f     -     -          825   10    0 
+Murphy    983343558  5  1 Br  -     -     -          815   20   30 
+Murphy    983343569  5  5 c   k     b     -          825   30   50 
+Murphy    983343592  5  4 r   -     -     -          845   20   35 
+Murphy    983343604  5  3 r   b     b     b          860   70  205 Kd 9c
+Murphy    983343631  5  2 Bk  k     kcc   kf         995   50    0 
+Murphy    983343678  5  1 Br  kc    kc    k          945   50    0 5c 7c
+Murphy    983343722  5  5 r   r     b     k          895   70    0 5h 5s
+Murphy    983343780  5  4 c   k     c     f          825   30    0 
+Murphy    983343930  3  3 r   c     c     f          795   50    0 
+Murphy    983343962  3  2 Br  b     br    b          745  110  225 Jh Js
+Murphy    983343986  3  1 Bc  b     b     -          860   40   70 
+Murphy    983344009  3  3 c   c     c     f          890   40    0 
+Murphy    983344027  3  2 Bk  f     -     -          850   10    0 
+Murphy    983344041  3  1 Br  b     b     br         840  110    0 Tc 7c
+Murphy    983344068  3  3 c   k     f     -          730   10    0 
+Murphy    983344094  3  2 Bk  k     f     -          720   10    0 
+Murphy    983344109  3  1 Bc  kc    kc    kf         710   40    0 
+Murphy    983344140  3  3 r   c     c     c          670   70    0 Qs Ac
+Murphy    983344163  3  2 Br  k     b     k          600   40   80 Ac Tc
+Murphy    983344187  3  1 Bc  k     b     -          640   30   40 
+Murphy    983344203  3  3 c   c     c     f          650   40    0 
+Murphy    983344225  3  2 Bk  k     k     k          610   10   30 8s Ac
+Murphy    983344242  3  1 Bc  b     brc   b          630  120    0 Kd 2c
+Murphy    983344276  3  3 c   f     -     -          510   10    0 
+Murphy    983344292  3  2 Bk  c     f     -          500   20    0 
+Murphy    983344306  3  1 Br  -     -     -          480   20   30 
+Murphy    983344311  3  3 c   b     -     -          490   20   40 
+Murphy    983344325  3  2 Bk  b     b     -          510   40   80 
+Murphy    983344342  3  1 Br  k     k     kf         550   20    0 
+Murphy    983344361  3  3 c   c     r     k          530   60  140 Qd Kc
+Murphy    983344386  3  2 Bk  k     k     c          610   30    0 7c Kh
+Murphy    983344412  4  1 Bc  kf    -     -          580   10    0 
+Murphy    983344493  3  3 c   k     c     f          570   30    0 
+Murphy    983344519  4  3 c   c     k     f          540   20    0 
+Murphy    983344554  5  2 Bk  b     b     b          520   60  185 As 2s
+Murphy    983344593  5  1 Br  b     bc    kf         645   70    0 
+Murphy    983344628  5  5 c   f     -     -          575   20    0 
+Murphy    983344659  5  4 cc  kf    -     -          555   20    0 
+Murphy    983344680  5  3 c   k     k     f          535   10    0 
+Murphy    983344716  5  2 Bcc kcc   kf    -          525   50    0 
+Murphy    983344752  5  1 Bc  k     k     kf         475   20    0 
+Murphy    983344789  5  5 cc  f     -     -          455   20    0 
+Murphy    983344825  5  4 r   b     b     k          435   50    0 4c 4d
+Murphy    983344852  5  3 c   kc    k     c          385   40    0 Kh 5s
+Murphy    983344912  5  2 Bk  b     br    b          345  100    0 7s Js
+Murphy    983344946  5  1 Br  b     b     b          245   80    0 4d 4c
+Murphy    983344985  5  5 cc  k     r     b          165   90  220 Th Kd
+Murphy    983345041  5  4 c   k     f     -          295   10    0 
+Murphy    983345071  5  3 f   -     -     -          285    0    0 
+Murphy    983345096  5  2 Bcc c     r     k          285   90  180 4d As
+Murphy    983345157  7  1 Bc  kc    kf    -          375   20    0 
+Murphy    983345204  7  7 c   c     f     -          355   30    0 
+Murphy    983345246  6  5 c   k     f     -          325   10    0 
+Murphy    983345279  6  4 c   r     b     b          315   70  140 
+Murphy    983345307  6  3 c   kf    -     -          385   10    0 
+Murphy    983345355  6  2 Bf  -     -     -          375   10    0 
+Murphy    983345369  6  1 Bc  kf    -     -          365   20    0 
+Murphy    983345407  6  6 c   f     -     -          345   20    0 
+Murphy    983345460  6  5 f   -     -     -          325    0    0 
+Murphy    983345488  7  5 c   kc    b     b          325   60  195 As 3s
+Murphy    983345553  7  4 r   f     -     -          460   20    0 
+Murphy    983345589  7  3 c   b     b     b          440   60  150 As 8d
+Murphy    983345627  7  2 Bk  kc    kc    kr         530   80  210 Th Jd
+Murphy    983345688  7  1 Bcc kf    -     -          660   30    0 
+Murphy    983345718  7  7 c   k     f     -          630   10    0 
+Murphy    983345742  7  6 f   -     -     -          620    0    0 
+Murphy    983345777  7  5 c   k     f     -          620   10    0 
+Murphy    983345811  7  4 cc  b     b     br         610  110    0 Ah Td
+Murphy    983345843  8  3 ccc kf    -     -          500   40    0 
+Murphy    983345948  8  2 Bk  kr    b     -          460   50  100 
+Murphy    983345980  8  1 Br  k     b     bc         510   80    0 8d 8c
+Murphy    983346063  8  8 c   k     f     -          430   20    0 
+Murphy    983346149  7  6 c   c     f     -          410   40    0 
+Murphy    983346211  8  6 f   -     -     -          370    0    0 
+Murphy    983346244  9  5 cc  bc    b     b          370   80  260 7d Ts
+Murphy    983346293  8  3 cc  k     k     k          550   20    0 9h Ac
+Murphy    983346337  8  2 Bc  k     c     f          530   40    0 
+Murphy    983346418  7  1 Brc krc   k     kf         490   80    0 
+Murphy    983346481  7  7 c   k     f     -          410   10    0 
+Murphy    983346540  7  6 r   b     c     c          400   80    0 4d Ad
+Murphy    983346620  6  5 c   r     brc   c          320  130    0 Jh Ah
+Murphy    983346669  6  4 c   c     rr    rr         190  180    0 3s 7s
+Murphy    983346722  6  3 Q   -     -     -           10    0    0 
+Murphy    983377106 10 10 cA  -     -     -           10   10    0 2h 4h
+Murphy    983377269  8  6 cc  f     -     -         1000   21    0 
+Murphy    983377329  8  5 ccc c     c     k          979   70    0 9d 5d
+Murphy    983377422  8  4 f   -     -     -          909    0    0 
+Murphy    983377469  8  3 cc  kf    -     -          909   40    0 
+Murphy    983377532  8  2 Bk  k     kf    -          869   10    0 
+Murphy    983377565  8  1 Bc  k     k     kr         859   50  130 8c Td
+Murphy    983377608  7  7 c   r     b     b          939   80  205 
+Murphy    983377661  7  6 f   -     -     -         1064    0    0 
+Murphy    983377725  6  4 c   kr    k     kc        1064   50   63 3h Jd
+Murphy    983377764  6  3 cc  kf    -     -         1077   20    0 
+Murphy    983377815  6  2 Bc  kf    -     -         1057   20    0 
+Murphy    983377855  6  1 Bcc kf    -     -         1037   20    0 
+Murphy    983377925  5  5 cc  c     f     -         1017   30    0 
+Murphy    983377964  5  4 cc  kc    kf    -          987   30    0 
+Murphy    983378026  6  4 r   kc    kf    -          957   30    0 
+Murphy    983378093  7  5 cc  k     k     f          927   20    0 
+Murphy    983378196  7  4 c   kf    -     -          907   10    0 
+Murphy    983378260  8  4 c   kf    -     -          897   10    0 
+Murphy    983378349  6  2 Bk  kf    -     -          887   10    0 
+Murphy    983378419  7  1 Bcc brc   bc    kc         877  120  448 Qc Th
+Murphy    983378534  6  6 f   -     -     -         1205    0    0 
+Murphy    983378639  7  6 c   c     c     f         1205   50    0 
+Murphy    983378695  7  4 c   k     c     f         1155   30    0 
+Murphy    983378755  7  4 c   bc    k     k         1125   30  100 Th Qd
+Murphy    983378809  7  3 c   k     kf    -         1195   10    0 
+Murphy    983378856  6  2 Bc  br    b     b         1185   90  255 Qh 8h
+Murphy    983378896  7  1 Bc  kf    -     -         1350   10    0 
+Murphy    983378977  9  9 c   f     -     -         1340   20    0 
+Murphy    983379022  9  8 c   c     f     -         1320   30    0 
+Murphy    983379061  9  7 c   r     k     b         1290   50  200 9s Kd
+Murphy    983379158  9  5 cf  -     -     -         1440   20    0 
+Murphy    983379246  9  5 cc  kc    k     k         1420   50  250 2s Kd
+Murphy    983379357  9  4 r   k     b     b         1620   60  125 
+Murphy    983379409  9  3 c   kf    -     -         1685   10    0 
+Murphy    983379458  9  2 Bk  b     b     k         1675   40  110 Ac Td
+Murphy    983379516  9  1 Bc  kcc   k     k         1745   30    0 4s Ad
+Murphy    983379573  9  9 c   c     c     f         1715   40    0 
+Murphy    983379626  9  8 c   k     k     b         1675   30   55 
+Murphy    983379681  9  7 c   k     k     k         1700   10    0 3s 9c
+Murphy    983379735  9  6 cc  c     c     f         1690   50    0 
+Murphy    983379800  9  5 cc  f     -     -         1640   20    0 
+Murphy    983379854 10  4 cc  kc    k     f         1620   30    0 
+Murphy    983379919  9  2 Bk  kf    -     -         1590   10    0 
+Murphy    983379965 10  1 Bc  k     kf    -         1580   10    0 
+Murphy    983380014 10 10 c   c     c     f         1570   40    0 
+Murphy    983380069 10  9 f   -     -     -         1530    0    0 
+Murphy    983380110 10  8 f   -     -     -         1530    0    0 
+Murphy    983380157 10  7 c   c     c     k         1530   50    0 Qh 7h
+Murphy    983380210 10  6 c   kf    -     -         1480   10    0 
+Murphy    983380257 10  5 c   kc    bc    k         1470   60    0 7s 4s
+Murphy    983380297 10  4 c   kf    -     Q         1410   10    0 
+Murphy    983380956  9  6 c   k     kc    k         1400   30    0 6d Td
+Murphy    983381032 10  5 cc  kc    kc    kf        1370   60    0 
+Murphy    983381161 10  4 cc  kf    -     -         1310   20    0 
+Murphy    983381240 10  3 c   c     k     f         1290   20    0 
+Murphy    983381305  8  2 Bc  c     f     -         1270   30    0 
+Murphy    983381381  8  1 Bc  kc    kf    -         1240   20    0 
+Murphy    983381433 10 10 c   f     -     -         1220   10    0 
+Murphy    983381541 10  3 Q   -     -     -         1210    0    0 
+Murphy    983382973  8  4 cc  kc    c     k         1210   50  210 7h 6s
+Murphy    983383028  6  3 c   kf    -     -         1370   10    0 
+Murphy    983383103  7  2 Bk  kc    kc    kf        1360   40    0 
+Murphy    983383181  8  1 Bc  kf    -     -         1320   20    0 
+Murphy    983383234  6  6 c   f     -     -         1300   10    0 
+Murphy    983383282  7  5 c   c     c     f         1290   40    0 
+Murphy    983383313  7  4 c   k     k     k         1250   10    0 Qs 2h
+Murphy    983383341  7  3 c   k     k     f         1240   10    0 
+Murphy    983383376  8  2 Bk  k     k     k         1230   10    0 7d 5s
+Murphy    983383402  8  1 Bc  kc    b     k         1220   40  110 2c Qc
+Murphy    983383455  8  8 c   k     k     k         1290   10    0 8h Ad
+Murphy    983383493  9  8 c   k     c     f         1280   30    0 
+Murphy    983383539  9  7 c   cc    kc    k         1250   50    0 6h 6d
+Murphy    983383585  8  5 c   kc    kf    -         1200   20    0 
+Murphy    983383633  8  5 c   f     -     -         1180   10    0 
+Murphy    983383681  8  4 f   -     -     -         1170    0    0 
+Murphy    983383727  8  3 c   k     kc    kc        1170   50    0 Tc 9h
+Murphy    983383781  8  2 Bcc c     k     b         1120   70    0 Ks 7d
+Murphy    983383859 10  1 Bcc kcc   kf    -         1050   70    0 
+Murphy    983383929 10 10 c   cc    c     c          980  100  385 6h 8s
+Murphy    983383995 10  9 f   -     -     -         1265    0    0 
+Murphy    983384076 10  8 cc  r     k     r         1265   80    0 7s Ac
+Murphy    983384179 10  7 f   -     -     -         1185    0    0 
+Murphy    983384249  9  5 c   c     f     -         1185   20    0 
+Murphy    983384336 10  4 cc  kc    k     kf        1165   30    0 
+Murphy    983384392 10  3 f   -     -     -         1135    0    0 
+Murphy    983384454 10  2 Bc  kcc   kccc  k         1135  130    0 6c 6h
+Murphy    983384543  9  1 Bc  kc    kc    kc        1005   70  170 7h 6d
+Murphy    983384640  8  8 c   c     f     -         1105   30    0 
+Murphy    983384704  8  7 cc  c     c     f         1075   70    0 
+Murphy    983384781  9  7 c   b     r     k         1005   60    0 Th 9d
+Murphy    983384831 10  6 c   c     r     b          945   90  295 Td 4s
+Murphy    983384884 10  5 cc  f     -     -         1150   20    0 
+Murphy    983384961  9  4 cc  kc    kc    b         1130   70  270 Jh Kd
+Murphy    983385031  9  3 rc  bc    kc    kf        1330   70    0 
+Murphy    983385079 10  2 Bc  k     kc    kc        1260   60    0 6d 9d
+Murphy    983385154 10  1 BQ  -     -     -         1200    5    0 
+Murphy    983385798 10  4 cc  cc    c     f         1195   60    0 
+Murphy    983385855  9  3 cc  kf    -     -         1135   20    0 
+Murphy    983385939  9  2 Bc  cc    kf    -         1115   40    0 
+Murphy    983386005  9  1 Bc  kc    krc   kc        1075  120    0 9s Td
+Murphy    983386073  9  9 c   f     -     -          955   10    0 
+Murphy    983386139  9  8 cc  rc    cc    cc         945  180    0 7c Kd
+Murphy    983386225  9  7 cc  kc    kf    -          765   30    0 
+Murphy    983386277  9  6 ccc kcc   c     f          735  110    0 
+Murphy    983386375  9  6 c   c     f     -          625   20    0 
+Murphy    983386434  8  4 r   k     f     -          605   20    0 
+Murphy    983386497  9  3 c   b     kr    bc         585  100    0 6c 6h
+Murphy    983386565  8  1 Bk  kc    kc    kf         485   40    0 
+Murphy    983386620  7  1 Bf  -     -     -          445    5    0 
+Murphy    983386653  7  7 rc  c     cc    f          440   80    0 
+Murphy    983386718  8  7 cc  k     c     b          360   60  150 
+Murphy    983386783  8  6 r   brc   kc    kf         450   90    0 
+Murphy    983386865  8  5 cc  c     c     c          360   70    0 3d Kd
+Murphy    983386908  9  5 c   b     k     k          290   20    0 9h 6d
+Murphy    983386948 10  5 f   -     -     -          270    0    0 
+Murphy    983387011 10  4 c   kf    -     Q          270   10    0 
+Murphy    983394178  9  4 c   kc    kf    -          260   20    0 
+Murphy    983394235  9  3 c   kr    br    b          240  110    0 Jc 7c
+Murphy    983394344  9  2 Bk  kf    -     -          130   10    0 
+Murphy    983394448 10  1 Bc  kc    kc    kcc        120  100    0 9s 7d
+Murphy    983394551 10 10 cA  -     -     -           20   20  100 3c 8s
+Murphy    983394705 10  9 c   kc    f     -          100   20    0 
+Murphy    983394788 10  8 c   rc    c     cA          80   80    0 6d 6c
+Murphy    983400390  9  8 Q   -     -     -          955    0    0 
+Murphy    983412299  7  2 Bf  -     -     -          865   10    0 
+Murphy    983412378  7  1 Br  b     b     br         855  110    0 Qh Ah
+Murphy    983412431  7  7 c   c     c     c          745   60    0 Kc Jc
+Murphy    983412510  7  6 f   -     Q     -          685    0    0 
+Murphy    983417680  7  3 c   k     k     k          685   10   12 Ac 4c
+Murphy    983417714  7  2 Bc  c     f     -          687   30    0 
+Murphy    983417774  7  1 Bf  -     -     -          657    5    0 
+Murphy    983417826  8  7 cc  kf    -     -          652   30    0 
+Murphy    983417871  8  6 c   c     b     c          622   60    0 3c 3s
+Murphy    983417949  9  6 c   k     kc    cc         562   70    0 7s Ac
+Murphy    983417998 10  6 c   r     b     -          492   50  125 
+Murphy    983418044 10  5 rr  k     b     k          567   60    0 5h Kd
+Murphy    983418095 10  4 r   rr    rr    rr         507  220    0 Kc Kh
+Murphy    983418154 10  3 c   k     b     -          287   30   65 
+Murphy    983418209 10  2 Bf  -     -     -          322   10    0 
+Murphy    983418259 10  1 Bf  -     -     -          312    5    0 
+Murphy    983418438 10 10 c   c     b     c          307   70    0 5s 9c
+Murphy    983418523 10  9 cc  kf    -     -          237   20    0 
+Murphy    983418587 10  8 f   -     -     -          217    0    0 
+Murphy    983418618 10  7 f   -     -     -          217    0    0 
+Murphy    983418674 10  6 cc  kf    -     -          217   20    0 
+Murphy    983418766 10  5 c   b     k     k          197   20   90 8h 8d
+Murphy    983418859 10  4 ccc f     -     -          267   40    0 
+Murphy    983418961 10  3 c   cc    kf    -          227   30    0 
+Murphy    983419058 10  2 Bk  kc    kc    cf         197   60    0 
+Murphy    983419153 10  1 Bc  kf    -     -          137   10    0 
+Murphy    983419185 10 10 f   -     -     -          127    0    0 
+Murphy    983419265 10  9 c   b     -     -          127   20   35 
+Murphy    983419328 10  8 cc  bc    b     kc         142   80    0 3d 3s
+Murphy    983419423 10  7 c   kc    bc    kcA         62   62    0 8s Ah
+Murphy    983420329 10  2 BQ  -     -     -         1000   10    0 
+Murphy    983422179 10  7 c   r     brc   ccc        990  200    0 5h Ac
+Murphy    983422259 10  6 f   -     -     -          790    0    0 
+Murphy    983422347 10  5 cc  k     kc    cc         790  120    0 4s 6h
+Murphy    983422469 10  5 c   cc    c     f          670   50    0 
+Murphy    983422552  9  3 c   kc    kf    -          620   30    0 
+Murphy    983422641  9  2 Bk  kc    kc    kf         590   40    0 
+Murphy    983422723  9  1 Br  bc    k     k          550   40    0 Ah Kd
+Murphy    983422799 10 10 f   -     -     -          510    0    0 

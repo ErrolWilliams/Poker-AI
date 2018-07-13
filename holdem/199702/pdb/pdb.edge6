@@ -1,0 +1,93 @@
+edge6     855389958  2  1 Br  -     -     -         1000   20   30 
+edge6     855389973  2  2 B   -     -     -         1010   10   15 
+edge6     855389983  2  1 Br  b     b     b         1015   70    0 5d 2s
+edge6     855390006  2  2 Br  b     b     b          945   80  160 Kh 8s
+edge6     855390040  2  1 Br  bf    -     -         1025   30    0 
+edge6     855390057  2  2 B   -     -     -          995   10   15 
+edge6     855390067  2  1 Br  -     -     -         1000   20   30 
+edge6     855390079  2  2 Brr b     b     b         1010  100    0 2d 4d
+edge6     855390110  2  1 Br  b     b     br         910  110  110 Th 7d
+edge6     855390139  2  2 B   -     -     -          910   10   15 
+edge6     855390150  2  1 Br  -     -     -          915   20   30 
+edge6     855390158  2  2 Bf  -     -     -          925   10    0 
+edge6     855390170  2  1 Brr b     b     b          915   90  180 5h Kd
+edge6     855390194  2  2 B   -     -     -         1005   10   15 
+edge6     855390203  2  1 Br  b     b     -         1010   50   80 
+edge6     855390219  2  2 Br  b     k     r         1040   70    0 8d Qd
+edge6     855390252  2  1 Br  b     b     bc         970   90  180 Qd 7c
+edge6     855390275  2  2 B   -     -     -         1060   10   15 
+edge6     855390284  2  1 Br  b     -     -         1065   30   50 
+edge6     855390298  2  2 Bf  -     -     -         1085   10    0 
+edge6     855390308  2  1 Br  b     b     bc        1075   90    0 Ac Th
+edge6     855390328  2  2 Br  b     b     b          985   70   70 9h 4c
+edge6     855390352  2  1 Br  b     b     b          985   70  140 3s Ah
+edge6     855390369  2  2 B   -     -     -         1055   10   15 
+edge6     855390378  2  1 Br  b     brrr  b         1060  190    0 6d 9s
+edge6     855390406  2  2 BQ  -     -     -          870   10    0 
+edge6     855637069  2  2 Bk  rc    c     f          860   60    0 
+edge6     855637157  3  1 Bc  b     b     bf         800   70    0 
+edge6     855637201  3  3 r   r     b     bc         730  100    0 Qs Jc
+edge6     855637236  3  2 Bk  k     b     -          630   30   45 
+edge6     855637260  3  1 Br  -     -     -          645   20   30 
+edge6     855637279  3  3 r   k     b     -          655   40   70 
+edge6     855637301  4  2 Br  b     br    -          685   75   20 8d Qh
+edge6     855637393  5  1 Br  b     b     b          630   70  150 
+edge6     855637438  5  5 r   b     k     b          710   50    0 Qd 8s
+edge6     855637490  5  4 r   b     bf    -          660   50    0 
+edge6     855637618  4  3 rc  k     k     r          610   70    0 6h 5s
+edge6     855637675  4  2 Bk  k     k     rc         540   70    0 Qd 4s
+edge6     855637711  4  1 Brrc kc    brr   br         470  230  470 4d 3s
+edge6     855637795  4  4 r   b     -     -          710   30   55 
+edge6     855637835  4  3 r   k     b     bf         735   60    0 
+edge6     855637878  4  2 Br  kc    kc    krc        675  110  113 Qh 3h
+edge6     855637931  4  1 Brc kc    bf    -          678   60    0 
+edge6     855637999  4  4 r   b     br    k          618   90  185 Tc 5h
+edge6     855638058  5  3 f   -     -     -          713    0    0 
+edge6     855638143  5  2 Bk  kf    -     -          713   10    0 
+edge6     855638163  5  1 Bc  kc    krr   b          703  130  310 7c 8d
+edge6     855638262  5  5 f   -     -     -          883    0    0 
+edge6     855638303  5  4 f   -     -     -          883    0    0 
+edge6     855638324  5  3 f   -     -     -          883    0    0 
+edge6     855638383  5  2 Bk  brrr  b     b          883  120  245 Ts 7s
+edge6     855638451  5  1 Bf  -     -     -         1008    5    0 
+edge6     855638510  5  5 c   b     -     -         1003   20   45 
+edge6     855638551  5  4 f   -     -     -         1028    0    0 
+edge6     855638593  5  3 f   -     -     -         1028    0    0 
+edge6     855638685  5  2 Bk  b     bc    krc       1028  120    0 6s 2s
+edge6     855638773  6  1 Bf  -     -     -          908    5    0 
+edge6     855638902  5  4 Q   -     -     -          903    0    0 
+edge6     855815489 10  8 r   br    b     rc         903  130    0 2c 5s
+edge6     855815582 10  7 r   rc    b     b          773  100  162 6d As
+edge6     855815665  9  6 r   b     b     r          835   90    0 Jh Ts
+edge6     855815728  8  5 r   b     r     b          745   90    0 4s 9d
+edge6     855815831  6  4 r   b     b     b          655   70    0 Qs 3h
+edge6     855815907  7  3 rr  br    b     b          585  110    0 Qs 4c
+edge6     855815984  5  2 Brc r     b     b          475  100    0 8d 3h
+edge6     855816041  5  1 Brc b     b     br         375  130    0 7d 7h
+edge6     855816098  4  4 r   brrrr rrrcA -          245  245    0 Jc Qh
+edge6     855817092  4  3 r   b     -     -         1000   30   75 
+edge6     855817123  4  2 Br  b     brrrrrrrrrrrrrrrrrrrrrrrrrA -         1045 1045    0 3s Ah
+edge6     856514139  2  1 Br  br    b     f         1000   70    0 
+edge6     856514206  2  2 BQ  -     -     -          930   10    0 
+edge6     856946496  6  2 Brc r     b     b          640  100  280 4c 7d
+edge6     856946551  5  1 Br  -     -     -          820   20   30 
+edge6     856946560  5  5 r   r     r     b          830  100    0 Kd 9h
+edge6     856946604  5  4 r   -     -     -          730   20   35 
+edge6     856946617  5  3 r   b     b     b          745   70  155 Ts 7s
+edge6     856946641  5  2 Brc b     b     b          830   90  220 5d 4s
+edge6     856946700  5  1 Brrrrr b     b     -          960  140  280 
+edge6     856946771  5  5 r   b     -     -         1100   40   85 
+edge6     856946782  5  4 rrrr b     b     -         1145  120  235 
+edge6     856946814  5  3 rc  br    b     b         1260  130    0 Ts Ad
+edge6     856946862  5  2 Brc rr    b     b         1130  120    0 2c Ac
+edge6     856946924  5  1 Br  b     b     b         1010   90  230 Ks 4s
+edge6     856946975  5  5 rr  rrrr  b     b         1150  160    0 3c 6c
+edge6     856947014  5  4 rc  rc    rr    r          990  210    0 6d 8c
+edge6     856947113  6  3 rr  rrrrrrrrrrrrrrrrrrrrKQ -     -          780  440    0 
+edge6     856947345  7  7 r   -     -     -          340   20   35 
+edge6     856947359  7  6 rr  b     b     b          355   90  255 Ks 5c
+edge6     856947395  7  5 r   b     b     -          520   50   85 
+edge6     856947427  7  4 rc  rc    rr    rr         555  240    0 6s 3h
+edge6     856947567  7  3 rr  rr    b     -          315  100  185 
+edge6     856947615  7  2 Br  r     rrr   b          400  180  380 7d 4c
+edge6     856947710  6  1 BrKQ -     -     -          600   30    0 

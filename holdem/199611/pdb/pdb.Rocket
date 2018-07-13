@@ -1,0 +1,1285 @@
+Rocket    846861391  9  5 c   br    b     bc        1000  100    0 3s Jc
+Rocket    846861467  9  4 cc  rc    c     c          900  100    0 4c Td
+Rocket    846861563  9  3 c   kc    kf    -          800   20    0 
+Rocket    846861645  9  2 Bf  -     -     -          780   10    0 
+Rocket    846861765 10  1 Br  bc    kc    kc         770   80    0 6s 6h
+Rocket    846861837 10 10 c   rc    c     b          690  120  375 8d 7s
+Rocket    846862044  7  7 c   rc    c     c          945  100    0 Kh 3s
+Rocket    846862125  8  7 Q   -     -     -          845    0    0 
+Rocket    846889544 11 11 c   f     -     -          845   10    0 
+Rocket    846889621 12 11 c   k     kc    kr         835   70  205 Jd Ks
+Rocket    846889707 11  4 Q   -     -     -          970    0    0 
+Rocket    846891749 11  2 Bk  f     -     -          970   10    0 
+Rocket    846891821 10  1 Br  kc    kc    kf         960   50    0 
+Rocket    846891909  9  9 rc  f     -     -          910   40    0 
+Rocket    846892001  9  8 r   f     -     -          870   20    0 
+Rocket    846892074  8  6 r   b     b     k          850   50    0 9c 3h
+Rocket    846892116  8  5 r   b     k     kc         800   50    0 2d Qh
+Rocket    846892175  8  4 r   r     k     k          750   40    0 7h Jc
+Rocket    846892239  8  3 r   bc    kc    kf         710   60    0 
+Rocket    846892355  8  2 Br  bc    b     kf         650   60    0 
+Rocket    846892434  8  1 Brc kc    kf    -          590   50    0 
+Rocket    846892506  6  6 r   b     -     -          540   30   50 
+Rocket    846892538  6  6 r   f     -     -          560   20    0 
+Rocket    846892612  5  5 r   -     -     -          540   20   35 
+Rocket    846892628  5  4 r   b     b     b          555   70  170 4c 4s
+Rocket    846892690  6  3 rr  f     -     -          655   40    0 
+Rocket    846892736  6  2 Bk  b     b     -          615   40   75 
+Rocket    846892769  6  1 Br  b     -     -          650   30   70 
+Rocket    846892794  5  5 r   b     b     -          690   50   90 
+Rocket    846892816  5  4 r   brc   fQ    -          730   60    0 
+Rocket    846899007  6  3 r   k     b     -          670   40  110 
+Rocket    846899059  6  1 Br  b     b     b          740   70  160 3c Ks
+Rocket    846899092  6  1 Brrc kc    br    b          830  150  290 
+Rocket    846899147  6  6 r   f     -     -          970   20    0 
+Rocket    846899183  6  5 r   b     k     k          950   30    0 Kd Qd
+Rocket    846899223  6  4 r   k     b     -          920   40   85 
+Rocket    846899261  6  3 f   -     -     -          965    0    0 
+Rocket    846899348  7  3 r   kf    -     -          965   20    0 
+Rocket    846899399  7  2 Bk  b     b     b          945   60  140 
+Rocket    846899463  7  1 Br  kc    b     k         1025   50    0 9h 6h
+Rocket    846899518  7  7 f   -     -     -          975    0    0 
+Rocket    846899563  7  6 cc  k     f     -          975   20    0 
+Rocket    846899602  7  5 r   b     b     -          955   50  125 
+Rocket    846899667  7  4 f   -     -     -         1030    0    0 
+Rocket    846899737  7  3 cc  f     -     -         1030   20    0 
+Rocket    846899799  7  2 Bk  k     k     f         1010   10    0 
+Rocket    846899841  8  1 Bc  kf    -     -         1000   10    0 
+Rocket    846899977  9  9 r   r     b     b          990   90  235 6d Kc
+Rocket    846900056  6  5 c   b     -     -         1135   20   40 
+Rocket    846900086  6  4 rc  c     c     r         1155  100  190 
+Rocket    846900120  6  3 rc  f     -     -         1245   30    0 
+Rocket    846900191  6  2 Br  rc    c     f         1215   80    0 
+Rocket    846900254  6  1 Bcc kc    kc    k         1135   70    0 6h 5c
+Rocket    846900321  6  6 r   b     -     -         1065   30   80 
+Rocket    846900357  6  5 r   bc    c     f         1115   60    0 
+Rocket    846900404  7  4 r   f     -     -         1055   20    0 
+Rocket    846900472  8  3 r   k     b     b         1035   60  150 
+Rocket    846900525  8  2 Br  kf    -     -         1125   20    0 
+Rocket    846900592  8  1 Bc  k     b     k         1105   40    0 3s 7h
+Rocket    846900694  9  9 rc  c     r     k         1065   90    0 6s 6h
+Rocket    846900766  9  9 r   rr    b     b          975  100  205 Qs Qc
+Rocket    846900833  9  8 rc  c     c     c         1080  100    0 9s 9d
+Rocket    846900898  9  7 cc  kf    -     -          980   20    0 
+Rocket    846900994 11  7 ccc kf    -     -          960   40    0 
+Rocket    846901103 11  6 rc  rc    c     c          920  110    0 4s 6s
+Rocket    846901176 10  6 cc  r     b     bf         810   80    0 
+Rocket    846901307  9  5 r   rr    bc    kf         730  110    0 
+Rocket    846901382  9  4 rr  rc    k     f          620   70    0 
+Rocket    846901464 12  3 rr  b     b     k          550   70    0 3c 3h
+Rocket    846901560 11  2 Br  rc    rr    k          480  160    0 4c As
+Rocket    846901691 11  1 Br  br    b     bc         320  130    0 Qs 9d
+Rocket    846901813 10 10 r   rc    f     -          190   90    0 
+Rocket    846901922 11 10 r   rr    k     bcA        100  100  325 Qc 4h
+Rocket    846902102 12 10 r   br    b     k          325   70    0 Kh 4h
+Rocket    846902253 12  9 r   r     b     b          255   80  175 
+Rocket    846902310 12  8 Q   -     -     -          350    0    0 
+Rocket    846979957 12 11 r   b     b     c          350   90    0 6d 7s
+Rocket    846980057 12 10 r   b     b     b          260   80  290 Kd Tc
+Rocket    846980182 12  9 rc  r     brrrr b          470  270    0 Jd Kh
+Rocket    846980289 12  8 r   b     b     b          200   70    0 Ad Jd
+Rocket    846980367 12  7 r   kc    kc    kf         130   60    0 
+Rocket    846980463 11  6 r   k     k     f           70   20    0 
+Rocket    846980569 11  5 rcA -     -     -           50   50    0 3h 2d
+Rocket    846980827 12  3 f   -     -     -         1000    0    0 
+Rocket    846980925 12  2 Bc  kf    -     -         1000   20    0 
+Rocket    846981073 12  1 Bf  -     -     -          980    5    0 
+Rocket    846981147 12 12 cc  c     c     f          975   70    0 
+Rocket    846981323 12 11 c   f     -     -          905   10    0 
+Rocket    846981451 12 10 f   -     -     -          895    0    0 
+Rocket    846981534 10  7 c   bc    c     b          895   70    0 Ah Jc
+Rocket    846981750 11  5 f   -     -     -          825    0    0 
+Rocket    846981861 12  4 r   b     k     c          825   50    0 3h 3c
+Rocket    846982146  9  2 Bc  kc    kf    -          775   30    0 
+Rocket    846982236  9  1 Bf  -     -     -          745    5    0 
+Rocket    846982320  8  8 f   -     -     -          740    0    0 
+Rocket    846982399  8  7 c   c     b     -          740   50   95 
+Rocket    846982468  8  6 r   c     f     -          785   30    0 
+Rocket    846982610  7  5 r   k     c     f          755   50    0 
+Rocket    846982723  7  4 f   -     -     -          705    0    0 
+Rocket    846982782  6  3 f   -     -     -          705    0    0 
+Rocket    846982800  6  2 Bc  bc    bc    kf         705   80    0 
+Rocket    846982966  6  1 Bc  k     k     kf         625   10    0 
+Rocket    846983098  6  6 r   bc    k     k          615   40    0 6s Td
+Rocket    846983173  6  5 c   c     c     f          575   50    0 
+Rocket    846983267  7  5 c   c     c     f          525   60    0 
+Rocket    846983398  8  5 r   b     r     b          465   90  185 
+Rocket    846983538  9  5 f   -     -     -          560    0    0 
+Rocket    846983607 11  6 f   -     -     -          560    0    0 
+Rocket    846983732  9  3 rr  b     b     b          560   90  255 Js Kd
+Rocket    846983796 10  2 Br  br    brc   br         725  230 1260 Tc 9s
+Rocket    846983938 10  1 Bc  bc    kc    kf        1755   50    0 
+Rocket    846984029  9  9 f   -     -     -         1705    0    0 
+Rocket    846984204  9  8 cc  k     r     k         1705   60    0 6h Tc
+Rocket    846984270 10  8 cc  f     -     -         1645   40    0 
+Rocket    846984350 10  7 cc  kf    -     -         1605   20    0 
+Rocket    846984431  9  5 rc  cc    kf    -         1585   70    0 
+Rocket    846984689  7  5 cc  f     -     -         1515   20    0 
+Rocket    846984736  6  3 c   f     -     -         1495   10    0 
+Rocket    846984813  6  2 Bk  k     b     bc        1485   70    0 Kc Js
+Rocket    846984867  7  1 Br  kf    -     -         1415   20    0 
+Rocket    846984963  8  8 c   bc    c     f         1395   60    0 
+Rocket    846985083 11  8 rc  f     -     -         1335   50    0 
+Rocket    846985261 12  7 r   kf    -     -         1285   20    0 
+Rocket    846985359 11  5 r   cc    f     -         1265   40    0 
+Rocket    846985463 10  5 fQ  -     -     -         1225    0    0 
+Rocket    847053614 10  6 r   r     c     c         1225   80    0 7c Tc
+Rocket    847053673 10  5 c   c     k     k         1145   20    0 5s 6h
+Rocket    847053763 10  4 c   k     c     k         1125   30    0 2s Jc
+Rocket    847053856 10  3 rc  r     brrrc c         1095  230    0 Jd Td
+Rocket    847053937  9  2 Bk  kc    kc    k          865   40    0 8d Tc
+Rocket    847054013  9  1 Br  b     b     b          825   80  320 Qc 9c
+Rocket    847054099 10 10 cc  f     -     -         1065   30    0 
+Rocket    847054172 11  9 f   -     -     -         1035    0    0 
+Rocket    847054226 12  8 c   kf    -     -         1035   10    0 
+Rocket    847054307 12  7 rc  r     c     c         1025   90    0 8h Kh
+Rocket    847054377 12  6 r   k     kc    k          935   40    0 4h Ah
+Rocket    847054485 12  6 f   -     -     -          895    0    0 
+Rocket    847054537 12  4 r   b     bc    kc         895   90    0 Qd Qs
+Rocket    847054663 12  4 c   kc    kf    -          805   20    0 
+Rocket    847054747  9  2 Br  k     kc    kf         785   40    0 
+Rocket    847054850  8  1 Br  kf    -     -          745   40    0 
+Rocket    847054984  8  8 c   k     k     k          705   10   11 Kh 7d
+Rocket    847055063  9  8 f   -     -     -          706    0    0 
+Rocket    847055134 11  9 c   k     k     k          706   10    0 Qh 2c
+Rocket    847055220 12  8 rc  cc    brc   f          696  140    0 
+Rocket    847055372 12  7 rc  bc    r     b          556  120  460 5c 5d
+Rocket    847055538 12  6 f   -     -     -          896    0    0 
+Rocket    847055636 12  5 rr  c     f     -          896   50    0 
+Rocket    847055781 12  4 cc  ccc   kc    kf         846   80    0 
+Rocket    847055912 12  3 f   -     -     -          766    0    0 
+Rocket    847055967 12  2 Bk  kf    -     -          766   10    0 
+Rocket    847056029 11  1 Br  kf    -     -          756   20    0 
+Rocket    847056170 10 10 f   Q     -     -          736    0    0 
+Rocket    847057246 10  4 f   -     -     -          736    0    0 
+Rocket    847057332  9  3 c   bc    brr   b          736  150  325 9d Ah
+Rocket    847057489 10  2 Bc  k     f     -          911   20    0 
+Rocket    847057579  9  1 Bc  b     b     b          891   60  110 
+Rocket    847057619  9  9 f   -     -     -          941    0    0 
+Rocket    847057656  9  8 rc  f     -     -          941   40    0 
+Rocket    847057768 10  7 r   k     k     k          901   20    0 9h 5h
+Rocket    847057860 10  6 r   b     b     b          881   80  215 9s 9c
+Rocket    847057938 11  5 r   cc    r     b         1016  100  325 Qd 9d
+Rocket    847058136 10  4 c   -     -     -         1241   10   25 
+Rocket    847058156  9  2 Bk  kf    -     -         1256   10    0 
+Rocket    847058244 11  1 Bc  br    kc    k         1246   60    0 Js 4h
+Rocket    847058390  9  9 f   -     -     -         1186    0    0 
+Rocket    847058448  7  3 Q   -     Q     -         1186    0    0 
+Rocket    847058541  7  5 f   -     -     -         1186    0    0 
+Rocket    847058583  7  5 c   c     c     k         1186   40  140 6s Ad
+Rocket    847058681  7  4 r   f     -     -         1286   20    0 
+Rocket    847058723  8  3 rc  kf    -     -         1266   30    0 
+Rocket    847058782  8  2 Bk  k     f     -         1236   10    0 
+Rocket    847058856  9  1 Bc  kf    -     -         1226   10    0 
+Rocket    847058941  9  9 cc  c     c     c         1216   90  175 Ac 6s
+Rocket    847059024  9  9 cc  cc    cc    cc        1301  190    0 Ah 2d
+Rocket    847059139  7  7 f   -     -     -         1111    0    0 
+Rocket    847059196  6  5 c   c     b     bc        1111   90    0 Ah 9s
+Rocket    847059251  8  5 f   -     -     -         1021    0    0 
+Rocket    847059319  8  4 cc  k     cf    -         1021   60    0 
+Rocket    847059473  9  3 c   k     f     -          961   10    0 
+Rocket    847059532  9  2 Bf  -     -     -          951   10    0 
+Rocket    847059618  9  1 Br  bc    kc    kc         941   80    0 8h 9h
+Rocket    847059685  9  9 rc  rc    brrc  c          861  210    0 Th Ah
+Rocket    847059816  9  8 cc  rc    b     kc         651   90    0 7d Ts
+Rocket    847059909 10  9 f   -     -     -          561    0    0 
+Rocket    847059972  9  7 r   rr    brc   rr         561  220    0 Ks 5h
+Rocket    847060096 10  6 rc  r     r     b          341  140    0 2d Tc
+Rocket    847060242 12  7 r   b     bc    kf         201   70    0 
+Rocket    847060314 12  7 rc  br    kc    kf         131   80    0 
+Rocket    847060425 11  5 rc  ccA   -     -           51   51    0 9d 2c
+Rocket    847062298  9  2 Bk  k     k     k         1000   10   20 Kc 5d
+Rocket    847062347  9  1 Bc  k     bfQ   -         1010   40    0 
+Rocket    847062502  6  6 f   -     -     -          970    0    0 
+Rocket    847062565  8  6 f   -     -     -          970    0    0 
+Rocket    847062637  8  4 r   bc    kc    kc         970   80    0 3s 3d
+Rocket    847062682  9  4 c   b     bc    k          890   60    0 6h Js
+Rocket    847062727  9  3 r   k     kf    -          830   20    0 
+Rocket    847062806  9  2 Br  b     kc    kf         810   70    0 
+Rocket    847062899 10  1 BfQ -     -     -          740    5    0 
+Rocket    847118668  3  2 Br  k     c     f          735   50    0 
+Rocket    847118709  3  1 Bc  k     k     k          685   10    0 Jh 8d
+Rocket    847118730  3  3 rc  c     f     -          675   40    0 
+Rocket    847118764  3  2 B   -     -     -          635   10   15 
+Rocket    847118776  3  1 Bf  -     -     -          640    5    0 
+Rocket    847118784  3  3 Q   -     -     -          635    0    0 
+Rocket    847120910  7  7 r   br    b     b          635   90  195 Kc Kd
+Rocket    847120990  8  7 r   f     -     -          740   20    0 
+Rocket    847121120  7  5 ccc f     -     -          720   40    0 
+Rocket    847121243  6  3 c   c     bc    c          680   80    0 7d Jc
+Rocket    847121319  7  2 Bk  kc    kc    kf         600   40    0 
+Rocket    847121413  8  1 Br  kc    kc    kc         560   80    0 5s 5h
+Rocket    847121470  8  8 r   k     f     -          480   20    0 
+Rocket    847121566  9  8 rc  cf    -     -          460   60    0 
+Rocket    847121691  8  7 r   f     -     -          400   30    0 
+Rocket    847121766  7  5 r   k     k     k          370   20    0 8d 9d
+Rocket    847121801  7  4 r   b     b     b          350   70  145 Ks Qs
+Rocket    847121856  8  4 rc  r     rr    r          425  190  540 2s 4s
+Rocket    847121947  9  3 r   b     bc    kc         775   90    0 Kd Ah
+Rocket    847122013  8  2 Bk  bc    kc    kf         685   50    0 
+Rocket    847122065  8  1 Bc  kc    kc    kf         635   60    0 
+Rocket    847122117  9  9 rc  rc    rc    rr         575  240  487 Js Ks
+Rocket    847122249  8  7 c   k     k     kf         822   10    0 
+Rocket    847122328  8  6 c   kf    -     -          812   10    0 
+Rocket    847122391  9  5 f   -     -     -          802    0    0 
+Rocket    847122455  9  4 r   c     k     rc         802   90    0 3d 4d
+Rocket    847122558 10  3 f   -     -     -          712    0    0 
+Rocket    847122606 10  2 Br  k     k     b          712   60  185 6d 6c
+Rocket    847122718  9  1 BQ  -     -     -          837    5    0 
+Rocket    847131648  9  2 Bc  bc    kc    k          832   80  265 Js 8c
+Rocket    847131752  9  1 Bcc b     bc    kc        1017   90  105 9c Ad
+Rocket    847131817 10  9 cf  -     -     -         1032   10    0 
+Rocket    847131907 11  8 rc  r     b     k         1022   70    0 Qh Th
+Rocket    847131983 11  8 r   f     -     -          952   20    0 
+Rocket    847132078 10  6 rc  f     -     -          932   30    0 
+Rocket    847132158 10  5 f   -     -     -          902    0    0 
+Rocket    847132195 10  4 f   -     -     -          902    0    0 
+Rocket    847132309 10  3 c   kf    -     -          902   10    0 
+Rocket    847132409 10  2 Br  kc    kf    -          892   40    0 
+Rocket    847132595 10  1 Br  bc    bc    kf         852   90    0 
+Rocket    847132770 10 10 rr  rr    r     c          762  140    0 2s Ts
+Rocket    847132897  8  5 Q   -     -     -          622    0    0 
+Rocket    847146574 12  2 Bk  kc    kf    -          622   20    0 
+Rocket    847146623 11  1 Br  k     bc    k          602   60    0 7c 7s
+Rocket    847146697 10 10 c   f     -     -          542   10    0 
+Rocket    847146763 11 10 c   b     b     b          532   60  130 
+Rocket    847146835 10  8 r   kc    Q     -          602   30    0 
+Rocket    847147226  9  9 cc  c     c     f          572   50    0 
+Rocket    847147377 10  9 c   k     kf    -          522   10    0 
+Rocket    847147564 10  6 rc  r     c     f          512   80    0 
+Rocket    847147673 12  6 rc  rr    b     b          432  120    0 Th Qh
+Rocket    847147771 12  5 rc  r     bc    k          312  100    0 4h Js
+Rocket    847147925 12  4 r   rr    r     k          212  100    0 Qh 9c
+Rocket    847148022 12  3 r   b     kf    -          112   30    0 
+Rocket    847148111 12  2 Br  bc    bc    kcA         82   82    0 8h 5c
+Rocket    847149183 10  2 Bk  kf    -     -         1000   10    0 
+Rocket    847149263 12  1 Bc  b     bc    k          990   60  290 3h Tc
+Rocket    847149476 11 11 r   f     -     -         1220   30    0 
+Rocket    847149562 12 11 rc  b     b     b         1190   90  305 
+Rocket    847149764 12 10 rc  c     f     -         1405   50    0 
+Rocket    847149873 12  9 r   k     k     f         1355   20    0 
+Rocket    847149982 12  8 r   k     b     -         1335   40  105 
+Rocket    847150066 12  7 rc  kf    -     -         1400   40    0 
+Rocket    847150400 10  5 f   -     -     -         1360    0    0 
+Rocket    847150486  8  4 f   -     -     -         1360    0    0 
+Rocket    847150579  8  3 f   -     -     -         1360    0    0 
+Rocket    847150659  9  2 Bf  -     -     Q         1360   10    0 
+Rocket    847157451 12  7 f   -     -     -         1350    0    0 
+Rocket    847157594 12  6 c   kc    kf    -         1350   20    0 
+Rocket    847157734 12  5 cc  kf    -     -         1330   20    0 
+Rocket    847157839 12  4 cc  f     -     -         1310   20    0 
+Rocket    847157965 12  3 cc  kf    -     -         1290   20    0 
+Rocket    847158025 12  2 Bf  -     -     -         1270   10    0 
+Rocket    847158089 12  1 Bc  kf    -     -         1260   20    0 
+Rocket    847158220 10 10 rc  c     c     f         1240   60    0 
+Rocket    847158439  9  8 c   rr    r     rc        1180  170  435 8c Ts
+Rocket    847158522 11  9 r   b     b     f         1445   50    0 
+Rocket    847158587 12  9 c   f     -     -         1395   10    0 
+Rocket    847158723 12  8 cc  c     c     kc        1385   70    0 Th 8c
+Rocket    847158782 12  7 c   c     c     f         1315   40    0 
+Rocket    847158852 12  6 c   f     -     -         1275   10    0 
+Rocket    847158932 12  5 c   f     -     -         1265   10    0 
+Rocket    847159016 12  4 rr  rc    brr   rc        1255  230  555 7h Qh
+Rocket    847159144 12  3 f   -     -     -         1580    0    0 
+Rocket    847159294 12  2 Br  kf    -     -         1580   40    0 
+Rocket    847159398 12  1 Bf  -     -     -         1540    5    0 
+Rocket    847159434 12 12 f   -     -     -         1535    0    0 
+Rocket    847159486 12 11 c   f     -     -         1535   10    0 
+Rocket    847159545 12 10 c   k     f     -         1525   10    0 
+Rocket    847159650 12  9 f   -     -     -         1515    0    0 
+Rocket    847159730 12  8 r   rc    c     r         1515  120    0 Ks Kh
+Rocket    847159860 12  7 r   b     b     kc        1395   70    0 9c 9s
+Rocket    847159961 12  6 r   b     b     -         1325   50  125 
+Rocket    847160026 12  5 f   -     -     -         1400    0    0 
+Rocket    847160149 12  4 c   bc    bc    kc        1400   90    0 As Td
+Rocket    847160261 12  3 f   -     -     -         1310    0    0 
+Rocket    847160327 12  2 Br  b     b     -         1310   50  100 
+Rocket    847160384 12  1 Bc  k     b     kc        1360   60    0 Ad 8c
+Rocket    847160462 12 12 f   -     -     -         1300    0    0 
+Rocket    847160520 12 11 rc  cc    rc    rr        1300  220    0 3h Qh
+Rocket    847160725 12 10 f   -     -     -         1080    0    0 
+Rocket    847160814  8  6 c   b     -     -         1080   20   40 
+Rocket    847160839  7  5 rc  rc    rr    rc        1100  210    0 7h 8h
+Rocket    847160940  7  5 c   c     c     f          890   50    0 
+Rocket    847160995  4  3 c   c     k     k          840   30    0 2d As
+Rocket    847161044  4  3 rc  rr    b     -          810   90  165 
+Rocket    847161084  4  2 Bk  b     b     b          885   60  100 
+Rocket    847161116  4  1 Br  bc    kc    kc         925   90    0 4s 7s
+Rocket    847161157  6  5 r   rc    rc    rr         835  240  775 Ah Qh
+Rocket    847161308  6  4 rc  c     c     f         1370   60    0 
+Rocket    847161370  6  4 f   -     -     -         1310    0    0 
+Rocket    847161415  6  3 f   -     -     -         1310    0    0 
+Rocket    847161442  7  2 Br  c     c     rrc       1310  170    0 4s 9s
+Rocket    847161526  7  1 Bc  kc    b     b         1140   60  130 3h 5d
+Rocket    847161576  9  9 r   f     -     -         1210   30    0 
+Rocket    847161641 11 10 c   f     -     -         1180   10    0 
+Rocket    847161727 10  8 c   r     rc    c         1170  110  172 Tc Ad
+Rocket    847161815 12  9 cc  c     c     c         1232   90  425 Ts Qh
+Rocket    847161957 11  7 f   -     -     -         1567    0    0 
+Rocket    847162057 11  6 f   -     -     -         1567    0    0 
+Rocket    847162140 11  5 cc  bc    ccc   cf        1567  170    0 
+Rocket    847162284 10  4 r   b     b     b         1397   70  155 
+Rocket    847162350 10  3 fQ  -     -     -         1482    0    0 
+Rocket    847218011  7  5 f   -     -     -         1482    0    0 
+Rocket    847218105  9  4 r   k     k     kf        1482   20    0 
+Rocket    847218246  7  3 r   kc    kc    kf        1462   50    0 
+Rocket    847218393  7  1 Bk  k     kf    -         1412   10    0 
+Rocket    847218486  8  1 Br  kc    kf    -         1402   30    0 
+Rocket    847218596  8  7 c   f     -     -         1372   10    0 
+Rocket    847218679  8  6 f   -     -     -         1362    0    0 
+Rocket    847218794  9  5 c   kc    c     f         1362   40    0 
+Rocket    847218924  9  3 r   kc    kf    -         1322   30    0 
+Rocket    847219014  9  2 Bk  f     -     -         1292   10    0 
+Rocket    847219101  9  1 Brc kc    kf    -         1282   50    0 
+Rocket    847219269 10 10 f   -     -     -         1232    0    0 
+Rocket    847219336 11 10 f   -     -     -         1232    0    0 
+Rocket    847219490 12 10 f   -     -     -         1232    0    0 
+Rocket    847219633 12 10 f   -     -     -         1232    0    0 
+Rocket    847219687 11  8 f   -     -     -         1232    0    0 
+Rocket    847219844 11  6 c   kc    k     kf        1232   20    0 
+Rocket    847219937 12  7 r   kc    kf    -         1212   30    0 
+Rocket    847220088 11  5 f   -     -     -         1182    0    0 
+Rocket    847220224 11  4 r   bc    k     kf        1182   40    0 
+Rocket    847220334 12  3 f   -     -     -         1142    0    0 
+Rocket    847220437 12  2 Bf  -     -     -         1142   10    0 
+Rocket    847220530 12  1 Bf  -     -     -         1132    5    0 
+Rocket    847220618 11 11 f   -     -     -         1127    0    0 
+Rocket    847220723 11 10 f   -     -     -         1127    0    0 
+Rocket    847220817 11  8 r   k     Q     -         1127   20    0 
+Rocket    847227121  9  4 f   -     -     -         1107    0    0 
+Rocket    847227182 11  3 rc  kc    kc    kf        1107   60    0 
+Rocket    847227241 11  2 Bk  k     b     kf        1047   30    0 
+Rocket    847227410 12  1 Bc  bc    kcc   kc        1017  100    0 8d As
+Rocket    847227552 12  3 Q   -     -     -          917    0    0 
+Rocket    847240035  6  3 f   -     -     -          917    0    0 
+Rocket    847240114  7  2 Br  kf    -     -          917   30    0 
+Rocket    847240176  8  1 Br  b     b     bc         887   90  270 Qs As
+Rocket    847240264  8  8 c   f     -     -         1067   10    0 
+Rocket    847240353 10  8 r   c     rrr   r         1057  190  465 2h Qh
+Rocket    847240465 10  7 rc  b     b     -         1332   70  300 
+Rocket    847240581 12  6 r   kf    -     -         1562   20    0 
+Rocket    847240671 12  5 rc  cc    kf    -         1542   50    0 
+Rocket    847240802 12  4 r   f     -     -         1492   20    0 
+Rocket    847240889 12  3 rcc cf    -     -         1472   50    0 
+Rocket    847241089 12  2 Bc  kcc   kc    k         1422   70    0 Ah 9c
+Rocket    847241172 11  1 Bf  -     -     -         1352    5    0 
+Rocket    847241241 11 11 f   -     -     -         1347    0    0 
+Rocket    847241356 11 10 rc  kc    cc    c         1347  100  245 7s 4s
+Rocket    847241512 11  9 f   -     -     -         1492    0    0 
+Rocket    847241607 11  8 cc  k     f     -         1492   20    0 
+Rocket    847241732  9  6 c   k     k     k         1472   20    0 9d 2d
+Rocket    847241941  7  4 Q   -     -     -         1452    0    0 
+Rocket    847242462  8  4 c   f     -     -         1452   10    0 
+Rocket    847242506  6  2 Bk  f     -     -         1442   10    0 
+Rocket    847242533  6  1 Bc  kf    -     -         1432   10    0 
+Rocket    847242583  6  6 c   k     f     -         1422   10    0 
+Rocket    847242639  6  5 f   -     -     -         1412    0    0 
+Rocket    847242683  6  4 c   ccc   c     c         1412   90    0 7c 7s
+Rocket    847242744  7  3 c   k     b     -         1322   30   55 
+Rocket    847242783  6  2 Br  kf    -     -         1347   40    0 
+Rocket    847242831  6  1 Bc  b     b     b         1307   60  160 Js Kd
+Rocket    847242882  6  6 f   -     -     -         1407    0    0 
+Rocket    847242930  6  5 c   k     c     k         1407   30    0 3s Kh
+Rocket    847242998  7  5 f   -     -     -         1377    0    0 
+Rocket    847243020  8  4 rc  k     k     k         1377   30    0 Ah Qh
+Rocket    847243109  8  3 r   k     r     b         1347   80  190 
+Rocket    847243183  9  2 Bc  k     kf    -         1457   20    0 
+Rocket    847243317  7  1 Bc  k     b     k         1437   30   70 5c Td
+Rocket    847243402  7  7 f   -     -     -         1477    0    0 
+Rocket    847243639  9  6 fQ  -     -     -         1477    0    0 
+Rocket    847244863  8  8 f   -     -     -         1477    0    0 
+Rocket    847244910  7  6 f   -     -     -         1477    0    0 
+Rocket    847244966  6  5 f   -     -     -         1477    0    0 
+Rocket    847245011  6  4 f   -     -     -         1477    0    0 
+Rocket    847245141  7  3 r   f     -     -         1477   20    0 
+Rocket    847245214  6  2 Br  k     k     k         1457   20    0 Ac 4c
+Rocket    847245291  5  1 Bf  -     -     -         1437    5    0 
+Rocket    847245305  5  4 Q   -     -     -         1432    0    0 
+Rocket    847297577  9  2 Br  b     b     bc        1432  100    0 6d Jd
+Rocket    847297676 10  1 Br  b     b     k         1332   50  115 Jc 7c
+Rocket    847297826 11 11 f   -     Q     -         1397    0    0 
+Rocket    847305090 12  6 f   -     -     -         1397    0    0 
+Rocket    847305174 12  5 f   -     -     -         1397    0    0 
+Rocket    847305247 12  4 f   -     -     -         1397    0    0 
+Rocket    847305361 12  3 rr  k     c     k         1397   60    0 7c 6c
+Rocket    847305498 12  2 Bk  bc    k     b         1337   50  150 
+Rocket    847305620 12  1 Bc  kf    -     -         1437   10    0 
+Rocket    847305688 12 12 r   c     c     c         1427   90    0 Ah 8h
+Rocket    847305819 12 11 f   -     -     -         1337    0    0 
+Rocket    847305885 12 10 f   -     -     -         1337    0    0 
+Rocket    847306001 12  9 f   -     -     -         1337    0    0 
+Rocket    847306097 12  9 r   c     c     b         1337   80    0 8c 8s
+Rocket    847306203 12  7 fQ  -     -     -         1257    0    0 
+Rocket    847314184 10 10 c   r     b     b         1257   90  300 
+Rocket    847314264  9  8 r   c     r     b         1467  100  345 5c Jc
+Rocket    847314385 10  8 f   -     -     -         1712    0    0 
+Rocket    847314526 12  9 f   -     -     -         1712    0    0 
+Rocket    847314652 12  8 r   c     c     c         1712   80    0 Ac Qc
+Rocket    847314726 12  7 f   -     -     -         1632    0    0 
+Rocket    847314843 12  6 f   -     -     -         1632    0    0 
+Rocket    847315050  8  2 Bk  k     k     k         1632   10    0 5c 3h
+Rocket    847315126  7  1 Br  b     b     kf        1622   50    0 
+Rocket    847315237  7  7 c   k     k     k         1572   10    0 Ad 8h
+Rocket    847315293  7  6 f   -     -     -         1562    0    0 
+Rocket    847315336  8  6 f   -     -     -         1562    0    0 
+Rocket    847315403  8  5 f   -     -     -         1562    0    0 
+Rocket    847315571  7  4 rc  b     -     -         1562   40  115 
+Rocket    847315607  8  3 r   kf    -     -         1637   20    0 
+Rocket    847315705  8  2 Bk  kc    kf    -         1617   20    0 
+Rocket    847315817  8  1 Bc  kf    -     -         1597   10    0 
+Rocket    847315871  8  8 cc  c     c     rc        1587  110    0 Qc Jd
+Rocket    847315931  7  6 cc  c     k     f         1477   30    0 
+Rocket    847315980  7  5 f   -     -     -         1447    0    0 
+Rocket    847316020  7  4 r   b     k     f         1447   30    0 
+Rocket    847316064  7  3 c   f     -     -         1417   10    0 
+Rocket    847316134  7  2 Bk  b     b     k         1407   40  100 Qd 3c
+Rocket    847316191  9  1 Bc  kf    -     -         1467   20    0 
+Rocket    847316266 10 10 cc  r     b     b         1447   80  240 
+Rocket    847316366 11 10 c   c     c     f         1607   60    0 
+Rocket    847316449 11  9 cc  kc    kc    c         1547   80    0 7h 8c
+Rocket    847316579 12 10 c   f     -     -         1467   20    0 
+Rocket    847316657 12  8 f   -     -     -         1447    0    0 
+Rocket    847316766 11  6 c   f     -     -         1447   10    0 
+Rocket    847316862 12  5 f   -     -     -         1437    0    0 
+Rocket    847316946 12  4 c   c     f     -         1437   20    0 
+Rocket    847317028 12  3 f   -     -     -         1417    0    0 
+Rocket    847317126 10  1 Bk  kc    kf    -         1417   20    0 
+Rocket    847317202  8  1 Brc kf    -     -         1397   40    0 
+Rocket    847317284  7  3 Q   -     -     -         1357    0    0 
+Rocket    847328510 10  6 f   Q     -     -         1357    0    0 
+Rocket    847328698 12  5 f   -     -     -         1357    0    0 
+Rocket    847328768 11  3 f   -     -     -         1357    0    0 
+Rocket    847328867 11  2 Bk  kf    -     -         1357   10    0 
+Rocket    847328969 10  1 Bc  b     b     bc        1347   80    0 7s Jd
+Rocket    847329041  9  9 r   r     k     k         1267   40  140 Kh Ah
+Rocket    847329099 10  9 c   rc    c     c         1367   80    0 6d Kh
+Rocket    847329169  9  7 c   k     kQ    -         1287   10    0 
+Rocket    847329484 12  6 cc  f     -     -         1277   20    0 
+Rocket    847329637 12  5 c   f     -     -         1257   10    0 
+Rocket    847329843 12  4 cc  f     -     -         1247   30    0 
+Rocket    847330038 12  3 ccc kf    -     -         1217   40    0 
+Rocket    847330171 12  2 Bk  kf    -     -         1177   10    0 
+Rocket    847330309 12  1 Bc  k     b     k         1167   50  180 As 5h
+Rocket    847330412 12 12 c   k     f     -         1297   20    0 
+Rocket    847330477 12 11 r   r     k     f         1277   60    0 
+Rocket    847330628 12 10 c   f     -     -         1217   24    0 
+Rocket    847330735 12  9 c   f     -     -         1193   10    0 
+Rocket    847330857 11  8 c   f     -     -         1183   20    0 
+Rocket    847330933 12  7 c   k     k     kf        1163   10    0 
+Rocket    847331049 12  6 r   rc    c     rr        1153  150    0 Jd 7d
+Rocket    847331207 11  7 c   f     -     -         1003   10    0 
+Rocket    847331357  9  3 r   bc    kc    kf         993   60    0 
+Rocket    847331471  9  2 Bc  kf    -     -          933   30    0 
+Rocket    847331536 10  1 Brr kf    -     -          903   40    0 
+Rocket    847331697 10 10 f   -     -     -          863    0    0 
+Rocket    847331719  9  8 c   c     f     -          863   30    0 
+Rocket    847331781  9  7 f   -     -     -          833    0    0 
+Rocket    847331841 10  7 c   c     c     k          833   50    0 5c Th
+Rocket    847331974  8  5 c   f     -     -          783   20    0 
+Rocket    847332031  7  3 rr  kc    kf    -          763   50    0 
+Rocket    847332120 12  2 Bk  kf    -     -          713   10    0 
+Rocket    847332206 12  1 Brc b     b     br         703  130  610 
+Rocket    847332396 12 12 r   r     r     b         1183  100    0 Kd Kh
+Rocket    847332531 12 11 r   k     f     -         1083   30    0 
+Rocket    847332692 11  9 r   b     b     br        1053  110  355 8s 3s
+Rocket    847332771 12  9 f   -     -     -         1298    0    0 
+Rocket    847332914 12  8 f   -     -     -         1298    0    0 
+Rocket    847333083 12  8 c   Q     -     -         1298   10    0 
+Rocket    847333358 12  9 c   b     b     b         1288   60  175 
+Rocket    847333438 11  7 r   k     b     -         1403   40   65 
+Rocket    847333511 11  6 r   k     b     k         1428   40    0 5s Ts
+Rocket    847333575 11  5 c   rr    kc    kc        1388   90    0 Kh Jc
+Rocket    847333662 11  4 rc  kcc   kc    c         1298  110    0 3h 9h
+Rocket    847333765 12  3 fQ  -     -     -         1188    0    0 
+Rocket    847413382  9  3 cc  f     -     -         1188   20    0 
+Rocket    847413553  9  4 cc  fQ    -     -         1168   20    0 
+Rocket    847414596  6  6 f   -     -     -         1148    0    0 
+Rocket    847414628  6  5 r   k     k     kf        1148   20    0 
+Rocket    847414688  7  4 r   c     r     b         1128   90  230 8d 3d
+Rocket    847414754  7  3 fQ  -     -     -         1268    0    0 
+Rocket    847416476  8  7 r   k     c     c         1268   70    0 7d 9d
+Rocket    847416532  8  6 rc  cc    cf    -         1198   90    0 
+Rocket    847416649 10  5 c   c     f     -         1108   20    0 
+Rocket    847416703 10  4 f   -     -     -         1088    0    0 
+Rocket    847416766 10  3 r   bc    kc    kc        1088   80    0 Td Th
+Rocket    847416853 11  2 Bk  k     b     b         1008   50  115 
+Rocket    847416962 11  1 Bc  kc    kf    -         1073   30    0 
+Rocket    847417052 11 11 f   -     -     -         1043    0    0 
+Rocket    847417258  9  8 c   bc    kc    k         1043   50   60 6c Td
+Rocket    847417329 11  7 f   -     -     -         1053    0    0 
+Rocket    847417434 11  7 c   b     b     br        1053  100  115 4h As
+Rocket    847417524 11  5 r   kc    kc    kf        1068   50    0 
+Rocket    847417613 12  5 r   b     bc    cf        1018   90    0 
+Rocket    847417782 12  4 c   kc    cc    k          928   80    0 8d 9h
+Rocket    847417961 10  3 c   r     r     c          848   90    0 6c 4h
+Rocket    847418133  8  2 Bc  kc    kf    -          758   30    0 
+Rocket    847418207  9  1 Brc kc    kc    kf         728   70    0 
+Rocket    847418299  9  9 r   r     r     k          658   90    0 9h 7h
+Rocket    847418440 11 10 r   k     k     k          568   20   75 6d Td
+Rocket    847418557 10  9 cc  k     c     b          623   60  125 
+Rocket    847418678 10  8 rc  kf    -     -          688   50    0 
+Rocket    847418812 11  8 cc  kf    Q     -          638   20    0 
+Rocket    847493385  9  6 rc  b     r     b          618  100  275 Kc 8c
+Rocket    847493462 10  5 r   c     f     -          793   30    0 
+Rocket    847493521  9  4 r   b     b     b          763   70  160 
+Rocket    847493600  9  3 c   k     f     -          853   10    0 
+Rocket    847493734 10  2 Bk  kc    kf    -          843   20    0 
+Rocket    847493854 10  1 Brc kf    -     -          823   40    0 
+Rocket    847494079 10 10 c   c     c     c          783   60    0 Qs 4c
+Rocket    847494192 10  9 r   k     f     -          723   20    0 
+Rocket    847494292  9  7 r   k     c     f          703   50    0 
+Rocket    847494357 10  7 c   f     -     -          653   10    0 
+Rocket    847494480 10  6 c   b     b     kc         643   60    0 Kd 7c
+Rocket    847494570 12  3 Q   -     -     -          583    0    0 
+Rocket    847495365 11  7 r   f     -     -          583   30    0 
+Rocket    847495458 12  6 c   c     f     -          553   20    0 
+Rocket    847495578 12  5 c   kf    -     -          533   10    0 
+Rocket    847495656 12  4 r   k     f     -          523   20    0 
+Rocket    847495707 12  3 cc  kc    kc    kf         503   50    0 
+Rocket    847495820 12  2 Bk  kc    kf    -          453   20    0 
+Rocket    847495967  8  1 Bc  b     -     -          433   20   30 
+Rocket    847496025 10 10 r   c     c     k          443   50  165 2c 5c
+Rocket    847496122 10  9 c   r     b     b          558   70  215 Ah Ts
+Rocket    847503911  7  7 r   f     -     -          703   20    0 
+Rocket    847503958  7  6 f   -     -     -          683    0    0 
+Rocket    847504013  8  6 c   b     b     c          683   60    0 9h 7c
+Rocket    847504092  8  5 c   f     -     -          623   10    0 
+Rocket    847504145  9  5 c   k     f     -          613   10    0 
+Rocket    847504224  9  4 c   c     c     c          603   70   94 3s 2h
+Rocket    847504309  9  3 cc  kc    kf    -          627   40    0 
+Rocket    847504455  9  2 Bf  -     -     -          587   10    0 
+Rocket    847504508  9  1 Bc  kf    -     -          577   10    0 
+Rocket    847504567 10 10 c   c     c     f          567   50    0 
+Rocket    847504689  9  9 c   c     c     c          517   70    0 4s Ah
+Rocket    847504753  9  8 cc  c     c     c          447   70    0 5c Qd
+Rocket    847504875 10  7 ccc f     -     -          377   40    0 
+Rocket    847505062 12  7 r   k     c     k          337   40    0 5c 3d
+Rocket    847505195 11  5 c   kf    -     -          297   10    0 
+Rocket    847505304  9  4 c   bc    k     bc         287   70    0 Qc Qh
+Rocket    847505380  8  2 Br  b     -     -          217   30   95 
+Rocket    847505423  8  1 Br  k     k     kf         282   20    0 
+Rocket    847505555  8  8 c   c     c     r          262   80  140 2d Qs
+Rocket    847505645  9  8 cc  c     c     f          322   70    0 
+Rocket    847505757 12 11 rc  c     c     f          252   70    0 
+Rocket    847505845 11  9 cc  c     f     -          182   40    0 
+Rocket    847505939 12  8 r   k     c     f          142   40    0 
+Rocket    847506071 12  7 cc  ccc   f     -          102   80    0 
+Rocket    847506226 10  6 c   c     cA    -           22   22    0 Js 7d
+Rocket    847642128  8  6 cc  kf    -     -         1000   20    0 
+Rocket    847642197  8  5 r   k     k     f          980   20    0 
+Rocket    847642254  8  4 cc  k     cc    KQ         960   60    0 
+Rocket    847642488  7  1 Bk  b     b     kf         900   40    0 
+Rocket    847642658  6  1 Bc  kf    -     -          860   10    0 
+Rocket    847642836  5  5 r   b     k     b          850   50  110 
+Rocket    847642955  4  4 rc  f     -     -          910   40    0 
+Rocket    847643026  4  3 f   -     -     -          870    0    0 
+Rocket    847643041  4  2 Bf  -     -     -          870   10    0 
+Rocket    847643075  3  1 Bcc kc    k     k          860   40  120 9h 2h
+Rocket    847643127  3  3 c   k     c     c          940   50   55 Ad 7s
+Rocket    847643171  3  2 Bk  kf    -     -          945   10    0 
+Rocket    847643209  3  1 Bc  b     b     -          935   40   60 
+Rocket    847643243  3  3 c   k     k     k          955   10   30 7h As
+Rocket    847643301  5  2 Bk  b     -     -          975   20   45 
+Rocket    847643325  5  1 Bc  k     kf    -         1000   10    0 
+Rocket    847643384  5  5 c   b     b     k          990   50    0 2h 2d
+Rocket    847643456  6  5 cr  r     b     b          940   90  245 Qh Ah
+Rocket    847643515  7  5 r   f     -     -         1095   20    0 
+Rocket    847643573  7  3 cc  kf    -     -         1075   20    0 
+Rocket    847643675  8  3 r   b     -     -         1055   30   60 
+Rocket    847643718  8  2 Bc  kf    -     -         1085   20    0 
+Rocket    847643896  6  1 Br  b     b     -         1065   50   90 
+Rocket    847643952  6  6 f   -     -     -         1105    0    0 
+Rocket    847644048  5  5 f   -     -     -         1105    0    0 
+Rocket    847644088  5  4 f   -     -     -         1105    0    0 
+Rocket    847644154  6  3 f   -     -     -         1105    0    0 
+Rocket    847644249  6  2 Bc  kf    -     -         1105   20    0 
+Rocket    847644308  6  1 Bc  bc    bc    k         1085   70  170 9h 6h
+Rocket    847644370  6  6 f   -     -     Q         1185    0    0 
+Rocket    848184424  9  3 cc  c     c     r         1185   90  190 7d 7c
+Rocket    848184460  8  2 Bk  kf    -     -         1285   10    0 
+Rocket    848184526  7  1 BQ  -     -     -         1275    5    0 
+Rocket    848192111  8  6 c   c     cf    -         1270   40    0 
+Rocket    848192170  8  6 cc  k     f     -         1230   20    0 
+Rocket    848192207  8  5 f   -     -     -         1210    0    0 
+Rocket    848192235  8  4 c   c     b     c         1210   70    0 Kc Td
+Rocket    848192282  8  3 c   b     b     -         1140   40   70 
+Rocket    848192368  8  2 Bk  k     k     k         1170   10    0 7h 2c
+Rocket    848192493  9  1 Brc kc    brc   brc       1160  200  640 3s As
+Rocket    848192583  8  8 f   -     -     -         1600    0    0 
+Rocket    848192622  8  7 cc  k     b     -         1600   40   95 
+Rocket    848192672  7  5 f   -     -     -         1655    0    0 
+Rocket    848192724  7  4 cc  k     rc    c         1655  100    0 Ts Kd
+Rocket    848192782  7  3 c   k     f     -         1555   10    0 
+Rocket    848192845  8  2 Br  k     bc    k         1545   90  305 3c Ac
+Rocket    848192929 10  1 Bf  -     -     -         1760    5    0 
+Rocket    848193009 10 10 f   -     -     -         1755    0    0 
+Rocket    848193069 10  9 f   -     -     -         1755    0    0 
+Rocket    848193155 11  9 f   -     -     -         1755    0    0 
+Rocket    848193284 11  8 rc  ccc   cf    -         1755   90    0 
+Rocket    848193413 12  8 c   c     c     c         1665   70    0 Js Tc
+Rocket    848193478 12  7 f   -     -     -         1595    0    0 
+Rocket    848193548 12  6 c   c     f     -         1595   40    0 
+Rocket    848193602 11  5 f   -     -     -         1555    0    0 
+Rocket    848193689 12  4 ccc kc    brc   kc        1555  150  490 Ac 4d
+Rocket    848193848 11  4 cc  kc    kf    -         1895   30    0 
+Rocket    848194033 10  2 Bf  -     -     -         1865   10    0 
+Rocket    848194095 10  1 Bc  k     b     b         1855   50  110 
+Rocket    848194188 11 11 f   -     -     -         1915    0    0 
+Rocket    848194252 12 11 f   -     -     -         1915    0    0 
+Rocket    848194337 11  9 f   -     -     -         1915    0    0 
+Rocket    848194450 10  7 c   c     cf    -         1915   50    0 
+Rocket    848194524 12  8 c   b     cc    r         1865  100  335 9h 8h
+Rocket    848194610 12  7 f   -     Q     -         2100    0    0 
+Rocket    848261520  6  2 Bc  c     f     -         2100   40    0 
+Rocket    848261571  7  1 Bf  -     -     -         2060    5    0 
+Rocket    848261582  6  6 rc  c     f     -         2055   50    0 
+Rocket    848261629  7  7 c   brc   c     c         2005  100    0 Kh 6c
+Rocket    848261681  7  6 c   c     bc    b         1905   90  250 Jd Tc
+Rocket    848261738  7  5 r   c     c     f         2065   50    0 
+Rocket    848261782  7  4 rc  r     b     b         2015   90  200 Qs 8s
+Rocket    848261838  7  3 rc  kc    b     b         2125   80  255 Td 3d
+Rocket    848261891  7  2 Bc  b     b     b         2300   70  145 
+Rocket    848261922  7  1 Bf  -     -     -         2375    5    0 
+Rocket    848261969  7  7 f   -     -     -         2370    0    0 
+Rocket    848261999  7  6 f   -     -     -         2370    0    0 
+Rocket    848262036  7  5 rc  f     -     -         2370   30    0 
+Rocket    848262090  7  4 cc  c     k     kf        2340   30    0 
+Rocket    848262172  7  3 f   -     -     -         2310    0    0 
+Rocket    848262222  7  2 Bk  c     f     -         2310   20    0 
+Rocket    848262256  7  1 Bf  -     -     -         2290    5    0 
+Rocket    848262302  6  6 r   bc    f     -         2285   40    0 
+Rocket    848262335  6  5 f   -     -     -         2245    0    0 
+Rocket    848262397  7  5 f   -     -     -         2245    0    0 
+Rocket    848262414  7  4 cc  c     f     -         2245   30    0 
+Rocket    848262462  7  3 f   -     -     -         2215    0    0 
+Rocket    848262495  7  2 Bc  kc    kc    kc        2215   70    0 9c Qd
+Rocket    848262548  7  1 Bf  -     -     -         2145    5    0 
+Rocket    848262600  8  7 f   -     -     -         2140    0    0 
+Rocket    848262645  8  6 f   -     -     -         2140    0    0 
+Rocket    848262663  8  5 f   -     -     -         2140    0    0 
+Rocket    848262707  8  4 f   -     -     -         2140    0    0 
+Rocket    848262734  8  3 cc  f     -     -         2140   40    0 
+Rocket    848262794  8  2 Bc  kc    brr   b         2100  150  330 Kc Td
+Rocket    848262856  8  1 Bc  kc    kf    -         2280   50    0 
+Rocket    848262946  8  8 f   -     -     -         2230    0    0 
+Rocket    848262992  8  7 f   -     -     -         2230    0    0 
+Rocket    848263029  8  6 f   -     -     -         2230    0    0 
+Rocket    848263050  8  5 cc  f     -     -         2230   20    0 
+Rocket    848263089  9  4 f   -     -     -         2210    0    0 
+Rocket    848263166  9  4 crc ccc   c     c         2210  120    0 Qh Qc
+Rocket    848263285  8  2 Bc  kc    bc    k         2090   70    0 8h 9d
+Rocket    848263355  8  1 Bc  brr   b     b         2020  110  240 
+Rocket    848263408  8  8 rc  r     b     -         2150   80  195 
+Rocket    848263458  8  7 rc  c     f     -         2265   50    0 
+Rocket    848263510  7  6 f   -     -     -         2215    0    0 
+Rocket    848263555  8  5 cc  f     -     -         2215   20    0 
+Rocket    848263601  8  4 f   -     -     -         2195    0    0 
+Rocket    848263663  9  3 cc  k     kf    -         2195   20    0 
+Rocket    848263745 10  2 BfQ -     -     -         2175   10    0 
+Rocket    848276599 12  9 f   -     -     -         2165    0    0 
+Rocket    848276655 12  8 f   -     -     -         2165    0    0 
+Rocket    848276698 12  7 f   -     -     -         2165    0    0 
+Rocket    848276761 12  6 fQ  -     -     -         2165    0    0 
+Rocket    848277056 11  4 r   bc    kc    k         2165   60    0 Ts Th
+Rocket    848277127 10  2 Br  kc    kc    kf        2105   60    0 
+Rocket    848277268  9  1 Bf  -     -     -         2045    5    0 
+Rocket    848277361  9  9 Q   -     -     -         2040    0    0 
+Rocket    848277679  9  3 r   f     -     -         2040   20    0 
+Rocket    848277750  9  2 Bf  -     -     -         2020   10    0 
+Rocket    848277798  8  1 Bf  Q     -     -         2010    5    0 
+Rocket    848277922  8  8 f   -     -     -         2005    0    0 
+Rocket    848277967  8  7 f   -     -     -         2005    0    0 
+Rocket    848278003 10  8 f   -     -     -         2005    0    0 
+Rocket    848278055 10  7 f   -     -     -         2005    0    0 
+Rocket    848278133 11  7 f   -     -     -         2005    0    0 
+Rocket    848278189 12  6 r   brc   kc    kf        2005   80    0 
+Rocket    848278262 12  5 f   -     -     -         1925    0    0 
+Rocket    848278351 12  4 r   bc    kc    f         1925   60    0 
+Rocket    848278473 12  3 f   -     -     -         1865    0    0 
+Rocket    848278575 12  2 Bf  -     -     -         1865   10    0 
+Rocket    848278680 12  1 Bf  -     -     -         1855    5    0 
+Rocket    848278763 12 12 rc  c     f     -         1850   60    0 
+Rocket    848278864 12 11 c   fQ    -     -         1790   10    0 
+Rocket    848279237 12  4 r   b     b     kf        1780   50    0 
+Rocket    848279293 11  3 r   b     br    b         1730  110    0 Td Qd
+Rocket    848279340 12  2 Bf  -     -     -         1620   10    0 
+Rocket    848279439 12  1 Brc kc    bc    kc        1610  110  280 6d 9d
+Rocket    848279549 12 12 r   c     f     -         1780   30    0 
+Rocket    848279655 12 11 r   k     b     b         1750   60  130 
+Rocket    848279749 11  9 c   kf    -     -         1820   20    0 
+Rocket    848279820 11  8 f   -     -     -         1800    0    0 
+Rocket    848279884 12  8 c   f     -     -         1800   10    0 
+Rocket    848279977 11  7 f   -     -     -         1790    0    0 
+Rocket    848280023 12  6 f   -     -     -         1790    0    0 
+Rocket    848280103 12  5 cc  kf    -     -         1790   20    0 
+Rocket    848280165  9  2 BQ  -     -     -         1770   10    0 
+Rocket    848340681 10 10 Q   -     -     -         1760    0    0 
+Rocket    848355283 11  2 r   bc    br    b         1760  120  400 7s 7h
+Rocket    848355363 12  2 Bk  c     fQ    -         2040   20    0 
+Rocket    848365282  8  2 Bc  c     c     f         2470   50    0 
+Rocket    848365364  8  1 Br  b     bc    k         2420   70  180 Qs 8s
+Rocket    848365407  8  8 f   -     -     -         2530    0    0 
+Rocket    848365450  9  8 f   -     -     -         2530    0    0 
+Rocket    848365492  9  7 c   c     c     f         2530   40    0 
+Rocket    848365545  9  6 c   k     c     f         2490   30    0 
+Rocket    848365620  9  5 f   -     -     -         2460    0    0 
+Rocket    848365654  9  4 c   b     bc    kc        2460   80    0 Ah Qh
+Rocket    848365734  9  4 f   -     -     -         2380    0    0 
+Rocket    848365784  9  2 Bc  k     kf    -         2380   20    0 
+Rocket    848365874 10  1 Bc  k     kf    -         2360   10    0 
+Rocket    848365964 10 10 r   c     c     f         2350   60    0 
+Rocket    848366038 11 10 f   -     -     -         2290    0    0 
+Rocket    848366095 10  8 f   -     -     -         2290    0    0 
+Rocket    848366213  9  6 c   c     cc    f         2290   70    0 
+Rocket    848366313  9  5 c   b     -     -         2220   20   40 
+Rocket    848366348  9  4 r   b     b     b         2240   70  250 Td Ad
+Rocket    848366407  9  3 r   kf    -     -         2420   20    0 
+Rocket    848366504  9  2 Bk  k     kf    -         2400   10    0 
+Rocket    848366697  8  1 BQ  -     -     -         2390    5    0 
+Rocket    848367078 10  4 Q   -     -     -         2385    0    0 
+Rocket    848367274 11 11 c   k     f     -         2385   10    0 
+Rocket    848367362 12 11 f   -     -     -         2375    0    0 
+Rocket    848367463 12 10 cc  b     b     k         2375   60    0 As 9h
+Rocket    848367578 12  9 f   -     -     -         2315    0    0 
+Rocket    848367695 11  8 f   -     -     -         2315    0    0 
+Rocket    848367762 12  7 f   -     -     -         2315    0    0 
+Rocket    848367850 12  6 f   -     -     -         2315    0    0 
+Rocket    848368025  8  5 f   -     -     -         2315    0    0 
+Rocket    848368112  7  4 f   -     -     -         2315    0    0 
+Rocket    848368136  8  3 f   -     -     -         2315    0    0 
+Rocket    848368171  9  2 Bk  kf    -     -         2315   10    0 
+Rocket    848368304 10  1 Br  bc    b     -         2305   70  190 
+Rocket    848368372 10 10 c   b     b     r         2425   80  180 
+Rocket    848368517 10  9 f   -     -     -         2525    0    0 
+Rocket    848368595  8  6 r   cc    c     k         2525   70    0 Qc Jc
+Rocket    848368718  8  5 c   k     kf    -         2455   10    0 
+Rocket    848368791  8  4 c   c     f     -         2445   20    0 
+Rocket    848368866  7  3 f   -     -     -         2425    0    0 
+Rocket    848368926  8  2 Bk  k     b     b         2425   50  105 2s Ac
+Rocket    848368976  9  1 Bc  kf    -     -         2480   10    0 
+Rocket    848369109  9  9 f   -     -     -         2470    0    0 
+Rocket    848369159 11 10 f   -     -     -         2470    0    0 
+Rocket    848369244  9  7 f   -     -     -         2470    0    0 
+Rocket    848369318  8  6 c   c     cc    f         2470   60    0 
+Rocket    848369428  8  5 f   -     -     -         2410    0    0 
+Rocket    848369511  9  4 f   -     -     -         2410    0    0 
+Rocket    848369641  8  2 Bk  kf    -     -         2410   10    0 
+Rocket    848369853 12  1 Bc  kcc   kc    kf        2400  102    0 
+Rocket    848370091 11 11 f   -     -     -         2298    0    0 
+Rocket    848370269 12 11 f   -     -     -         2298    0    0 
+Rocket    848370408 10  8 fQ  -     Q     -         2298    0    0 
+Rocket    848433926 10  7 cc  kf    -     -         2138   40    0 
+Rocket    848434111 10  5 c   cf    -     -         2098   20    0 
+Rocket    848434198  9  3 c   bc    kc    kc        2078   80  265 Ah 3c
+Rocket    848434295  9  2 Bk  bc    kc    kf        2263   50    0 
+Rocket    848434410 10  1 Bf  -     -     -         2213    5    0 
+Rocket    848434495 10 10 f   -     -     -         2208    0    0 
+Rocket    848434577 11 10 c   c     c     c         2208   70    0 6s 8s
+Rocket    848434736 11  7 Q   -     -     -         2138    0    0 
+Rocket    848455069  7  7 f   -     -     -         2138    0    0 
+Rocket    848455157  8  8 f   -     -     -         2138    0    0 
+Rocket    848455269  7  6 cc  c     c     f         2138   50    0 
+Rocket    848455365  6  3 f   -     -     -         2088    0    0 
+Rocket    848455407  6  2 Bk  k     b     b         2088   50  115 9c Tc
+Rocket    848455528  6  1 Bf  -     -     -         2153    5    0 
+Rocket    848455613  6  6 c   b     b     -         2148   40   85 
+Rocket    848455701  5  4 f   -     -     -         2193    0    0 
+Rocket    848455769  5  4 c   c     f     -         2193   20    0 
+Rocket    848455866  5  3 f   -     -     -         2173    0    0 
+Rocket    848455915  4  2 Bc  kc    kc    k         2173   50  150 7s 4d
+Rocket    848456003  3  1 Bc  b     -     -         2273   20   40 
+Rocket    848456029  2  2 Q   -     -     -         2293    0   10 
+Rocket    848524899  3  3 fQ  -     -     -         2023    0    0 
+Rocket    848699739 10 10 rc  r     br    b         3178  140    0 Kc Jc
+Rocket    848699825 12  9 rc  kf    Q     -         3038   40    0 
+Rocket    848700900  4  2 Bk  c     k     b         2998   40    0 9c 2s
+Rocket    848700938  4  1 Bc  b     br    b         2958  110  270 Ah 7c
+Rocket    848700997  5  4 f   -     -     -         3118    0    0 
+Rocket    848701015  5  5 c   c     c     k         3118   40    0 Ac 4d
+Rocket    848701075  3  2 Br  k     c     c         3078   60    0 7h 7c
+Rocket    848701104  3  1 Bc  k     kf    -         3018   10    0 
+Rocket    848701151  3  3 f   -     -     -         3008    0    0 
+Rocket    848701197  4  2 Bk  b     bc    b         3008   80  160 
+Rocket    848701245  4  1 Bc  k     kf    -         3088   10    0 
+Rocket    848701293  4  4 f   -     -     -         3078    0    0 
+Rocket    848701325  4  3 f   -     -     -         3078    0    0 
+Rocket    848701365  4  2 Bc  kf    -     -         3078   20    0 
+Rocket    848701419  5  1 Br  b     b     b         3058   70  105 Tc Kc
+Rocket    848701473  5  5 f   -     -     -         3093    0    0 
+Rocket    848701533  6  5 c   kc    k     f         3093   20    0 
+Rocket    848701618  7  5 c   b     b     b         3073   60  190 8c Ah
+Rocket    848701690  8  5 c   f     -     -         3203   10    0 
+Rocket    848701743  7  3 f   -     -     -         3193    0    0 
+Rocket    848701901  7  2 Bf  -     -     -         3193   10    0 
+Rocket    848701941  7  1 Bf  -     -     -         3183    5    0 
+Rocket    848701987  6  6 f   -     -     -         3178    0    0 
+Rocket    848702044  6  5 c   f     -     -         3178   10    0 
+Rocket    848702110  6  4 c   k     f     -         3168   10    0 
+Rocket    848702184  8  5 c   k     kf    -         3158   10    0 
+Rocket    848702277  9  5 f   -     -     -         3148    0    0 
+Rocket    848702357  8  4 c   brc   kc    kf        3148   70    0 
+Rocket    848702473  7  3 f   -     -     -         3078    0    0 
+Rocket    848702559  7  2 Bk  k     f     -         3078   10    0 
+Rocket    848702599  5  1 Bc  kf    -     -         3068   10    0 
+Rocket    848702628  5  5 c   c     c     b         3058   60  150 Ah 2s
+Rocket    848702674  5  4 f   -     -     -         3148    0    0 
+Rocket    848702746  5  3 c   k     c     c         3148   50  160 As 7h
+Rocket    848702810  6  2 Bk  k     k     k         3258   10   40 5h 5d
+Rocket    848702868  6  1 Bc  kc    kc    k         3288   40    0 8c 7c
+Rocket    848702953  6  6 f   -     -     -         3248    0    0 
+Rocket    848702996  6  5 r   bc    kc    kc        3248   80  195 Qs Qc
+Rocket    848703071  6  4 cf  -     Q     -         3363   10    0 
+Rocket    848703263  3  3 Q   -     -     -         3353    0    0 
+Rocket    848703312  4  4 f   -     -     -         3353    0    0 
+Rocket    848703318  4  3 f   -     -     -         3353    0    0 
+Rocket    848703349  4  2 Bk  b     b     b         3353   60  140 Ks Qd
+Rocket    848703406  4  1 Br  k     k     kf        3433   20    0 
+Rocket    848703446  5  5 c   c     c     r         3413   80    0 7h Ks
+Rocket    848703496  6  5 f   -     -     -         3333    0    0 
+Rocket    848703546  6  4 f   -     -     -         3333    0    0 
+Rocket    848703565  6  3 cc  kc    b     b         3333   70  205 Ad 6s
+Rocket    848703635  6  2 Bk  kc    kf    -         3468   20    0 
+Rocket    848703727  6  1 Bc  k     kc    b         3448   50   80 
+Rocket    848703767  6  6 f   -     -     -         3478    0    0 
+Rocket    848703840  6  5 c   c     k     kf        3478   20    0 
+Rocket    848703918  6  5 f   -     -     -         3458    0    0 
+Rocket    848703948  6  4 r   kc    kf    -         3458   30    0 
+Rocket    848704042  5  3 c   f     -     -         3428   10    0 
+Rocket    848704132  5  2 Bk  kc    k     kc        3418   40   48 Js Th
+Rocket    848704199  6  1 Bc  kc    kf    -         3426   30    0 
+Rocket    848704268  6  6 f   -     -     -         3396    0    0 
+Rocket    848704311  6  5 c   k     b     k         3396   30   70 8s 8c
+Rocket    848704351  6  4 c   c     f     -         3436   30    0 
+Rocket    848704424  7  3 c   b     bc    kc        3406   80  260 Td Ts
+Rocket    848704509  7  2 Bk  k     kf    -         3586   10    0 
+Rocket    848704547  8  1 Bc  k     bc    kf        3576   50    0 
+Rocket    848704639  9  9 c   b     b     b         3526   60  165 
+Rocket    848704754  7  7 c   f     -     -         3631   10    0 
+Rocket    848704821  6  5 f   -     -     -         3621    0    0 
+Rocket    848704876  6  4 c   k     c     k         3621   40    0 Qs 2s
+Rocket    848704945  7  3 c   c     c     bc        3581   80    0 6h As
+Rocket    848705001  8  3 f   -     -     -         3501    0    0 
+Rocket    848705080  7  2 Bf  -     -     -         3501   10    0 
+Rocket    848705151  8  1 Br  b     b     b         3491   70  240 9c Kc
+Rocket    848705216  8  8 f   -     -     -         3661    0    0 
+Rocket    848705286  7  6 f   Q     -     -         3661    0    0 
+Rocket    848756828 11  7 f   -     -     -         3661    0    0 
+Rocket    848756914 11  6 c   kc    r     r         3661  100  125 Th 7h
+Rocket    848757035 10  4 f   -     -     -         3686    0    0 
+Rocket    848757081 10  3 cc  cQ    -     -         3686   50    0 
+Rocket    848802984 12 10 f   -     -     -         3261    0    0 
+Rocket    848803055 12  9 f   -     -     -         3261    0    0 
+Rocket    848803143 12  8 cc  brc   b     b         3261  100  425 Ts 4s
+Rocket    848803301 11  6 cc  c     c     c         3586   70    0 Td 3d
+Rocket    848803464 11  5 ccc cc    kc    k         3516   70    0 9d Ah
+Rocket    848803645 11  3 f   -     -     -         3446    0    0 
+Rocket    848803889 12  5 f   -     -     -         3446    0    0 
+Rocket    848804056  9  2 Bf  -     -     -         3446   10    0 
+Rocket    848804189  9  1 BQ  -     -     -         3436    5    0 
+Rocket    848889705  8  6 rc  c     c     c          599   80  265 6c Th
+Rocket    848889777  8  5 c   c     k     k          774   20    0 5h Kc
+Rocket    848889840  8  4 c   b     b     b          754   60  160 7d Kc
+Rocket    848889966  9  3 cc  brc   kc    k          854   80    0 Jh 8s
+Rocket    848890143  9  2 Br  b     b     b          774   70  190 
+Rocket    848890203  9  1 Br  b     -     -          894   30   70 
+Rocket    848890226  8  8 r   c     c     f          934   50    0 
+Rocket    848890298  8  7 r   c     k     c          884   50    0 2s 7s
+Rocket    848890348  8  7 c   c     f     -          834   30    0 
+Rocket    848890397  9  6 rc  c     kc    kf         804   80    0 
+Rocket    848890599 12  5 cc  kc    kc    b          724   70    0 7h Ks
+Rocket    848890863  9  3 r   b     rrr   r          654  190    0 7c Ac
+Rocket    848890944 11  3 c   b     b     br         464  100    0 Ks 7c
+Rocket    848891075 11  2 Bk  b     br    kf         364   80    0 
+Rocket    848891179 12  1 Brc br    brc   k          284  160    0 Ac 8c
+Rocket    848891345 12 12 r   br    rcA   -          124  124    0 7d 2h
+Rocket    848972162  7  6 c   b     -     -         1000   20   40 
+Rocket    848972194  7  5 f   -     -     -         1020    0    0 
+Rocket    848972271  8  4 cc  bc    c     bc        1020  110    0 8s Js
+Rocket    848972439  8  3 c   c     f     -          910   20    0 
+Rocket    848972494  9  2 Bc  kcc   kc    kf         890   80    0 
+Rocket    848972586  8  1 Bcc kcc   kc    kf         810   70    0 
+Rocket    848972716  8  8 c   r     b     b          740   80  265 Ad 7c
+Rocket    848972831  8  7 r   Q     -     -          925   20    0 
+Rocket    848973272  9  2 Bk  kc    kc    kf         905   40    0 
+Rocket    848973342  9  1 Bc  kf    -     -          865   10    0 
+Rocket    848973443 10 10 rc  b     rr    c          855  150    0 9c 4c
+Rocket    848973535 10  9 cc  rr    b     k          705   80    0 4d Ad
+Rocket    848973619 10  8 cc  c     b     k          625   50    0 Jc Qh
+Rocket    848973714 11  7 c   b     brc   br         575  160    0 Qs Th
+Rocket    848973862 12  7 c   kcc   br    k          415  100    0 4s Qh
+Rocket    848974001 10  5 cc  k     c     k          315   50    0 Qc 7d
+Rocket    848974089 11  5 r   r     c     kf         265   80    0 
+Rocket    848974164 11  4 r   rc    c     c          185  110    0 5s 4s
+Rocket    848974276 12  3 r   kcc   kc    kcA         75   75    0 8d Ad
+Rocket    848975342 11  2 Bk  kc    kc    k          810   40    0 6c 7d
+Rocket    848975465 12  1 Br  bc    kcc   kcc        770  220  405 As Kh
+Rocket    848975627 10 10 f   -     -     -          955    0    0 
+Rocket    848975738 10  9 f   -     -     -          955    0    0 
+Rocket    848975837 11  9 f   -     -     -          955    0    0 
+Rocket    848975909 12  8 r   ccc   kf    -          955   60    0 
+Rocket    848976069 12  7 r   cc    kf    -          895   40    0 
+Rocket    848976200 12  6 f   -     -     -          855    0    0 
+Rocket    848976339 11  4 f   -     -     -          855    0    0 
+Rocket    848976603 11  4 f   -     -     -          855    0    0 
+Rocket    848976780 12  3 f   -     -     -          855    0    0 
+Rocket    848976914 12  2 Br  b     b     b          855   70  225 
+Rocket    848977069 11  1 Bf  -     -     -         1010    5    0 
+Rocket    848977162 11 11 f   -     -     -         1005    0    0 
+Rocket    848977343 10 10 r   b     b     b         1005   70  195 
+Rocket    848977422 11  9 f   -     -     -         1130    0    0 
+Rocket    848977549 10  8 c   f     -     -         1130   10    0 
+Rocket    848977607  9  6 cc  kc    kf    -         1120   30    0 
+Rocket    848977690  9  5 f   -     -     -         1090    0    0 
+Rocket    848977733  9  4 crc b     r     b         1090  110    0 Ac As
+Rocket    848977840 12  3 r   rc    ccc   k          980  140    0 9h 9c
+Rocket    848977949 12  2 Brc brc   br    b          840  160  785 Js Jc
+Rocket    848978131 12  1 Bf  -     -     -         1465    5    0 
+Rocket    848978326 12 12 c   f     -     -         1460   20    0 
+Rocket    848978391 12 11 c   f     -     -         1440   20    0 
+Rocket    848978469 12 10 c   rr    c     r         1420  130  500 5c 2c
+Rocket    848978612 12  9 c   k     b     bc        1790   70    0 Ah 7c
+Rocket    848978700 11  8 cc  rc    c     c         1720  100    0 4d 3d
+Rocket    848978815 11  6 cc  k     kc    kf        1620   40    0 
+Rocket    848978960 11  5 cc  kf    -     -         1580   20    0 
+Rocket    848979090 12  5 cc  kc    kc    kc        1560   90    0 9s Kd
+Rocket    848979233 12  4 rc  rr    b     b         1470  110  575 Ad As
+Rocket    848979345 11  3 cc  cc    kf    -         1935   40    0 
+Rocket    848979501 11  2 Bc  kQ    -     -         1895   30    0 
+Rocket    848980055  7  5 c   bc    kc    k         1855   50    0 Ah 2d
+Rocket    848980140  8  5 fQ  -     -     -         1805    0    0 
+Rocket    849018863 10  3 ccc cc    kc    kf        1805   80    0 
+Rocket    849019007 10  2 Br  kc    kc    kf        1725   70    0 
+Rocket    849019121 10  1 Br  bc    bc    b         1655  120  450 Js Jd
+Rocket    849019223 10 10 f   -     -     -         1985    0    0 
+Rocket    849019291 10  9 f   -     -     -         1985    0    0 
+Rocket    849019333 10  8 c   c     b     k         1985   50    0 Qs Jh
+Rocket    849019444 10  7 f   Q     -     -         1935    0    0 
+Rocket    849020379  6  6 f   -     -     -         1935    0    0 
+Rocket    849020402  6  5 c   bc    kc    kc        1935   70    0 8d Ad
+Rocket    849020468  7  5 c   k     b     b         1865   50  135 3h Ks
+Rocket    849020546  6  3 c   c     b     b         1950   60  165 8d Ks
+Rocket    849020613  8  2 Bc  f     -     -         2055   20    0 
+Rocket    849020684  8  1 Bf  -     -     -         2035    5    0 
+Rocket    849020782  9  9 c   c     f     -         2030   20    0 
+Rocket    849020860  8  7 f   -     -     -         2010    0    0 
+Rocket    849020949  8  6 f   -     -     -         2010    0    0 
+Rocket    849021007  8  5 c   cc    kc    kf        2010   70    0 
+Rocket    849021127  7  4 ccc kc    kc    kf        1940   70    0 
+Rocket    849021213  8  3 f   -     -     -         1870    0    0 
+Rocket    849021272  9  2 Bk  b     rc    c         1870  100    0 Kd Jc
+Rocket    849021324  9  1 Bc  kc    kc    k         1770   40  180 6d 6s
+Rocket    849021398  8  8 c   k     f     -         1910   10    0 
+Rocket    849021437  8  7 c   k     f     -         1900   10    0 
+Rocket    849021513  9  7 f   -     -     -         1890    0    0 
+Rocket    849021584  8  5 f   -     -     -         1890    0    0 
+Rocket    849021657  7  4 cc  kc    k     k         1890   30    0 4s Kd
+Rocket    849021721  7  3 f   -     -     -         1860    0    0 
+Rocket    849021809  7  2 Bf  -     -     -         1860   10    0 
+Rocket    849021889  8  1 Bf  -     -     -         1850    5    0 
+Rocket    849021923  8  8 f   -     -     -         1845    0    0 
+Rocket    849021990  8  7 c   c     cc    f         1845  100    0 
+Rocket    849022114  8  6 c   c     c     r         1745   90  250 Th 8h
+Rocket    849022169  8  5 c   kf    -     -         1905   10    0 
+Rocket    849022223  8  4 f   -     -     -         1895    0    0 
+Rocket    849022293  7  3 f   -     -     -         1895    0    0 
+Rocket    849022378  7  2 Bk  k     kf    -         1895   10    0 
+Rocket    849022425  7  1 Bc  kc    k     k         1885   30  100 Td 8d
+Rocket    849022518  8  8 f   -     -     -         1955    0    0 
+Rocket    849022542  8  7 cc  f     -     -         1955   40    0 
+Rocket    849022621  8  6 cc  c     c     f         1915   60    0 
+Rocket    849022715  8  5 cc  cc    kc    kc        1855   80    0 5s Qc
+Rocket    849022790  9  5 f   -     -     -         1775    0    0 
+Rocket    849022878 10  5 f   -     -     -         1775    0    0 
+Rocket    849022980 10  4 cc  Q     -     -         1775   20    0 
+Rocket    849045472  8  8 c   c     c     f         1755   40    0 
+Rocket    849045536  8  7 c   c     cc    c         1715  130    0 7s Ah
+Rocket    849045596  8  6 f   -     -     -         1585    0    0 
+Rocket    849045650  8  5 f   -     -     -         1585    0    0 
+Rocket    849045741  9  5 cc  c     c     c         1585   90    0 Js Ac
+Rocket    849045839  9  4 c   kf    -     -         1495   10    0 
+Rocket    849045962  9  3 r   kc    kc    k         1485   60    0 Ad 2d
+Rocket    849046041  9  2 Bk  cc    kc    cf        1425   70    0 
+Rocket    849046139 10  1 Bc  kf    -     -         1355   20    0 
+Rocket    849046213 12 12 rc  c     c     k         1335   70    0 Ad 8d
+Rocket    849046354  9  8 c   cc    c     f         1265   70    0 
+Rocket    849046419  7  5 cc  c     c     c         1195   80  290 9s 7c
+Rocket    849046492  9  5 f   -     -     -         1405    0    0 
+Rocket    849046544  9  4 f   -     -     -         1405    0    0 
+Rocket    849046678 11  2 Bcc kf    -     -         1405   40    0 
+Rocket    849046836 12  1 Bf  -     -     -         1365    5    0 
+Rocket    849046951 12 12 f   -     -     -         1360    0    0 
+Rocket    849047093 12 12 c   k     r     k         1360   60  135 5d Js
+Rocket    849047257  8  6 c   c     rr    -         1435  100  270 
+Rocket    849047351  9  6 c   rc    c     c         1605   80    0 7h 4s
+Rocket    849047408  9  5 c   c     b     b         1525   60  120 
+Rocket    849047500  9  4 cc  f     -     -         1585   20    0 
+Rocket    849047552 11  3 ccc k     f     -         1565   40    0 
+Rocket    849047682 12  2 Bc  kc    kf    -         1525   30    0 
+Rocket    849047755 12  1 Bc  kc    b     -         1495   40  130 
+Rocket    849047845 12 12 c   f     -     -         1585   10    0 
+Rocket    849047968 12 11 f   -     -     -         1575    0    0 
+Rocket    849048101 12 10 c   cc    f     -         1575   50    0 
+Rocket    849048189 12  9 f   -     -     -         1525    0    0 
+Rocket    849048329 12  8 c   c     c     f         1525   50    0 
+Rocket    849048473 12  7 cc  cc    kcc   br        1475  200    0 Kc 8h
+Rocket    849048658 11  5 c   b     b     b         1275   60  160 Jh 3c
+Rocket    849048754 11  5 c   c     c     f         1375   50    0 
+Rocket    849048909  9  5 cc  c     c     r         1325  100  335 5c 9d
+Rocket    849049028  9  3 cc  kc    bc    kc        1560   90    0 6h 8c
+Rocket    849049136 10  2 Bk  kf    -     -         1470   10    0 
+Rocket    849049190  9  1 Bc  kf    -     -         1460   20    0 
+Rocket    849049264  9  9 c   c     f     -         1440   30    0 
+Rocket    849049372 11 10 r   c     c     b         1410   70    0 3d Kd
+Rocket    849049529 10  8 r   b     b     -         1340   50  120 
+Rocket    849049649 11  8 f   -     -     -         1410    0    0 
+Rocket    849049755 10  8 cc  c     r     k         1410   70    0 8s 9d
+Rocket    849049857 11  7 c   f     -     -         1340   10    0 
+Rocket    849049958 12  6 rr  brc   b     b         1330  120  385 
+Rocket    849050051 11  6 c   kc    kc    c         1595   80    0 Ks Qc
+Rocket    849050139  9  4 rc  kc    kc    kc        1515   90    0 Qd Qs
+Rocket    849050236 10  3 cc  kf    -     -         1425   20    0 
+Rocket    849050341 10  2 Bk  k     b     c         1405   50    0 9s Kc
+Rocket    849050431 10  1 Br  b     b     b         1355   80    0 Qd Kh
+Rocket    849050552 10  5 Q   -     -     -         1275    0    0 
+Rocket    849060508  6  5 cc  k     f     -         1275   30    0 
+Rocket    849060608  6  4 c   rc    c     c         1245   90    0 8s Jd
+Rocket    849060677  6  3 r   -     -     -         1155   20   35 
+Rocket    849060691  6  2 B   -     -     -         1170   10   15 
+Rocket    849060717  6  1 Brc kc    kf    -         1175   50    0 
+Rocket    849060777  6  6 c   c     rc    c         1125  110    0 Tc 9d
+Rocket    849060849  6  5 c   c     r     c         1015   80  240 Qs Ah
+Rocket    849060959  7  4 c   c     b     -         1175   50  160 
+Rocket    849061080  7  3 c   c     f     -         1285   20    0 
+Rocket    849061116  7  2 Bf  -     -     -         1265   10    0 
+Rocket    849061174  7  1 Bc  bc    bc    k         1255   80    0 Jh 9c
+Rocket    849061266  8  8 r   b     -     -         1175   30   80 
+Rocket    849061318  8  7 cc  cf    -     -         1225   50    0 
+Rocket    849061461 10  8 c   rr    b     b         1175   90  235 Jc Qh
+Rocket    849061546 11  8 r   c     c     k         1320   60    0 Kc Kd
+Rocket    849061639 12  8 r   cc    kf    -         1260   40    0 
+Rocket    849061765 12  8 ccc kcc   kcc   f         1220  130    0 
+Rocket    849062030  9  4 cc  b     brc   bc        1090  150  475 4h 2d
+Rocket    849062162  9  3 crc c     c     r         1415  110  410 Ah 2h
+Rocket    849062272  9  2 Bcc f     -     -         1715   40    0 
+Rocket    849062407  9  1 Bcc kc    kf    -         1675   50    0 
+Rocket    849062533  9  9 f   -     -     -         1625    0    0 
+Rocket    849062625 10  9 f   Q     -     -         1625    0    0 
+Rocket    849129363 12  3 c   kc    kf    -         1625   20    0 
+Rocket    849129485 12  2 Bk  f     -     -         1605   10    0 
+Rocket    849129604 12  1 Bc  kf    -     -         1595   10    0 
+Rocket    849129742 12 12 f   -     -     -         1585    0    0 
+Rocket    849129853 12 11 f   -     -     -         1585    0    0 
+Rocket    849129987 12 10 c   bc    c     r         1585   90  245 6d Kc
+Rocket    849130149 12  9 c   c     k     bc        1740   60    0 3c 3s
+Rocket    849130280 12  8 c   k     k     k         1680   10   40 5h Qh
+Rocket    849130336  9  5 c   c     f     -         1710   20    0 
+Rocket    849130442  9  5 c   c     c     c         1690   60  150 Tc 8c
+Rocket    849130490  9  5 c   k     kf    -         1780   10    0 
+Rocket    849130571  8  3 c   kc    cc    kf        1770   60    0 
+Rocket    849130669  9  2 Bk  k     k     kc        1710   30    0 Qh 2h
+Rocket    849130737  9  1 Bc  kf    -     -         1680   10    0 
+Rocket    849130798  8  8 f   -     -     -         1670    0    0 
+Rocket    849130847  8  7 c   c     c     r         1670   80  175 3d 4d
+Rocket    849130932  9  7 cc  f     -     -         1765   20    0 
+Rocket    849130995  9  6 c   cc    c     k         1745   70    0 7d As
+Rocket    849131135  8  6 c   b     b     c         1675   60    0 3h Ac
+Rocket    849131196  5  3 c   kf    -     -         1615   10    0 
+Rocket    849131276  5  2 Bc  kc    b     b         1605   70  145 As Ah
+Rocket    849131328  5  1 Bc  bc    k     kc        1680   50    0 5d Kd
+Rocket    849131399  6  6 c   c     c     f         1630   50    0 
+Rocket    849131443  5  5 c   c     c     k         1580   40    0 5c 5s
+Rocket    849131495  5  3 cc  b     b     b         1540   70  160 9h Tc
+Rocket    849131606  5  2 c   f     -     -         1630   10    0 
+Rocket    849131641  5  2 Bc  kc    k     k         1620   30    0 Kh Qd
+Rocket    849131676  6  1 Bc  kf    -     -         1590   10    0 
+Rocket    849131714  6  6 f   -     -     -         1580    0    0 
+Rocket    849131768  7  6 c   cc    f     -         1580   30    0 
+Rocket    849131865  7  5 c   b     b     -         1550   50  140 
+Rocket    849131921  6  3 cc  f     -     -         1640   20    0 
+Rocket    849131957  6  2 Bc  kf    -     -         1620   20    0 
+Rocket    849132006  7  1 Bcc b     br    -         1600  110  327 6c 7h
+Rocket    849132073  6  6 c   c     c     k         1817   40    0 Kh 6c
+Rocket    849132130  5  4 c   r     br    -         1777   90  170 
+Rocket    849132165  8  6 cc  kf    -     -         1857   20    0 
+Rocket    849132322 10  7 f   -     -     -         1837    0    0 
+Rocket    849132393 10  6 f   -     -     -         1837    0    0 
+Rocket    849132562  9  6 c   k     r     b         1837   70  195 Ad Jc
+Rocket    849132626 10  5 f   -     -     -         1962    0    0 
+Rocket    849132764 10  5 f   -     -     -         1962    0    0 
+Rocket    849132867 11  4 f   -     -     -         1962    0    0 
+Rocket    849132955 12  3 f   -     -     -         1962    0    0 
+Rocket    849133022 12  2 Bc  kc    kf    -         1962   30    0 
+Rocket    849133130 11  1 Bc  kf    -     -         1932   10    0 
+Rocket    849133252 12 12 c   c     f     -         1922   30    0 
+Rocket    849133331 12 11 f   -     -     -         1892    0    0 
+Rocket    849133414 10  9 c   c     b     k         1892   40    0 Kc Td
+Rocket    849133519 10  8 f   -     -     -         1852    0    0 
+Rocket    849133564 10  7 f   -     -     -         1852    0    0 
+Rocket    849133641  9  5 c   f     -     -         1852   10    0 
+Rocket    849133696 11  5 f   -     -     -         1842    0    0 
+Rocket    849133786 11  4 f   -     -     -         1842    0    0 
+Rocket    849133867 11  3 f   -     -     -         1842    0    0 
+Rocket    849133939 11  2 Bk  kcc   kf    -         1842   50    0 
+Rocket    849134028 12  1 Br  b     -     -         1792   30   60 
+Rocket    849134070 12 12 cc  c     r     b         1822  100  340 Ks 8c
+Rocket    849134210 12 11 cc  c     cc    c         2062  130    0 6d 6h
+Rocket    849134327 11  9 f   -     -     -         1932    0    0 
+Rocket    849134391 11  9 f   -     -     -         1932    0    0 
+Rocket    849134501 11  8 c   k     f     -         1932   10    0 
+Rocket    849134577 11  7 c   c     c     f         1922   40    0 
+Rocket    849134681 10  5 cc  c     cc    b         1882   90  270 
+Rocket    849134801 10  5 c   c     cf    -         2062   40    0 
+Rocket    849134908 10  3 fQ  -     -     -         2022    0    0 
+Rocket    849191926  6  6 f   -     -     -         2022    0    0 
+Rocket    849191974  6  5 f   -     -     -         2022    0    0 
+Rocket    849192006  6  4 f   -     -     -         2022    0    0 
+Rocket    849192050  6  3 f   -     -     -         2022    0    0 
+Rocket    849192124  6  2 Bk  kf    -     -         2022   10    0 
+Rocket    849192179  6  1 Bc  b     bc    kc        2012  110    0 Jd 5d
+Rocket    849192232  6  6 f   -     -     -         1902    0    0 
+Rocket    849192272  7  5 c   k     k     b         1902   30   50 
+Rocket    849192310  7  4 f   -     -     -         1922    0    0 
+Rocket    849192336  7  3 cc  kcc   kc    b         1922   90  315 Qd 7d
+Rocket    849192455  7  2 Bf  -     -     -         2147   10    0 
+Rocket    849192511  8  1 Bc  kf    -     -         2137   10    0 
+Rocket    849192575  8  8 r   k     k     k         2127   20   45 4s 8s
+Rocket    849192624  8  7 cc  kf    -     -         2152   20    0 
+Rocket    849192702  8  6 f   -     -     -         2132    0    0 
+Rocket    849192813  7  4 c   k     f     -         2132   10    0 
+Rocket    849192875  7  4 f   -     -     -         2122    0    0 
+Rocket    849192914  7  3 cc  cf    -     -         2122   30    0 
+Rocket    849192959  8  2 Bc  c     c     c         2092   80    0 Jc Jh
+Rocket    849193035  8  1 Bc  bc    b     b         2012   70  230 Ac Kc
+Rocket    849193131  7  7 cc  f     -     -         2172   20    0 
+Rocket    849193163  6  5 c   k     k     k         2152   10    0 Js Ks
+Rocket    849193219  7  5 f   -     -     -         2142    0    0 
+Rocket    849193277  7  4 f   -     -     -         2142    0    0 
+Rocket    849193334  7  3 cc  f     -     -         2142   20    0 
+Rocket    849193392  7  2 Bk  kcc   kc    br        2122  130  440 Ah Qd
+Rocket    849193514  8  1 Bcc kf    -     -         2432   40    0 
+Rocket    849193607 10 10 c   cc    c     c         2392   70    0 Jd Jh
+Rocket    849193713  9  8 cc  cc    kc    kc        2322   90    0 Js Ad
+Rocket    849193887  8  6 c   k     r     b         2232   80  195 Kh 5h
+Rocket    849193984  8  5 f   -     -     -         2347    0    0 
+Rocket    849194100  8  4 f   -     -     -         2347    0    0 
+Rocket    849194163  8  3 c   k     k     bc        2347   50  140 Tc Ks
+Rocket    849194305  8  2 Bf  -     -     -         2437   10    0 
+Rocket    849194409  9  1 BQ  -     -     -         2427    5    0 
+Rocket    849195032 11  5 cc  b     b     b         2422   70  155 Ah Ac
+Rocket    849195119 11  6 f   -     -     -         2507    0    0 
+Rocket    849195217 10  5 c   kf    -     -         2507   10    0 
+Rocket    849195342 10  3 f   -     -     -         2497    0    0 
+Rocket    849195426 11  2 Bf  -     -     -         2497   10    0 
+Rocket    849195547  9  1 Bc  kc    kc    kc        2487   60  210 Js Qs
+Rocket    849195646 10 10 c   c     f     -         2637   30    0 
+Rocket    849195707 10  9 f   -     -     -         2607    0    0 
+Rocket    849195776 10  8 f   -     -     -         2607    0    0 
+Rocket    849195853  9  7 f   -     -     -         2607    0    0 
+Rocket    849195908  8  5 f   -     -     -         2607    0    0 
+Rocket    849195967  9  5 f   -     -     -         2607    0    0 
+Rocket    849196034  8  3 f   -     -     -         2607    0    0 
+Rocket    849196100  8  2 Bf  -     -     -         2607   10    0 
+Rocket    849196180  8  1 Bf  -     -     -         2597    5    0 
+Rocket    849196251  8  8 f   -     -     -         2592    0    0 
+Rocket    849196288  9  8 f   -     -     -         2592    0    0 
+Rocket    849196404 10  9 c   k     b     -         2592   30   55 
+Rocket    849196458  9  7 f   -     -     -         2617    0    0 
+Rocket    849196643  8  5 c   b     b     b         2617   60    0 Jc Jd
+Rocket    849196689  9  5 f   -     -     -         2557    0    0 
+Rocket    849196779 10  4 f   Q     -     -         2557    0    0 
+Rocket    849197999  9  5 c   k     k     k         2557   10    0 Ac 3d
+Rocket    849198067  9  4 cc  f     -     -         2547   30    0 
+Rocket    849198208  8  3 c   b     kc    k         2517   40   55 Qs Js
+Rocket    849198466 10  2 Bc  kf    -     -         2532   20    0 
+Rocket    849198740  9  1 Bcc kfQ   -     -         2512   20    0 
+Rocket    849212330  6  4 f   -     -     -         2492    0    0 
+Rocket    849212416  6  3 cc  cf    -     -         2492   30    0 
+Rocket    849212878  6  5 c   k     f     -         2427   20    0 
+Rocket    849212942  6  4 c   cc    b     b         2407   90  320 As Ad
+Rocket    849213048  6  3 f   -     -     -         2637    0    0 
+Rocket    849213116  6  2 Bk  kf    -     -         2637   10    0 
+Rocket    849213196  6  1 Bcc kQ    -     -         2627   40    0 
+Rocket    849227063 12 10 cc  k     k     k         2587   18    0 7s Kc
+Rocket    849227280 12  9 cc  r     c     c         2569   80    0 Kd 9d
+Rocket    849227429 12  8 c   cf    -     -         2489   20    0 
+Rocket    849227587 12  7 f   -     -     -         2469    0    0 
+Rocket    849227842 10  5 rc  kc    f     -         2469   50    0 
+Rocket    849227982 11  5 c   kf    -     -         2419   10    0 
+Rocket    849228115 11  4 cc  cc    kc    kf        2409   60    0 
+Rocket    849228224 11  3 fQ  -     -     -         2349    0    0 
+Rocket    849229952  9  2 Br  kcc   kf    -         2349   70    0 
+Rocket    849230087 10  1 Bf  -     -     -         2279    5    0 
+Rocket    849230155  9  9 cc  c     k     c         2274   50  210 7d As
+Rocket    849230301  9  9 rc  f     -     -         2434   30    0 
+Rocket    849230413  9  8 f   -     -     -         2404    0    0 
+Rocket    849230527  9  7 cc  k     f     -         2404   20    0 
+Rocket    849230637 10  6 f   -     -     -         2384    0    0 
+Rocket    849230783  8  3 f   -     -     -         2384    0    0 
+Rocket    849230898  7  2 Bk  k     kf    -         2384   10    0 
+Rocket    849231001  6  1 Bc  k     k     kc        2374   30   70 5h 2s
+Rocket    849231104  7  7 r   c     c     f         2414   50    0 
+Rocket    849231199  8  7 rc  rc    c     c         2364  110    0 Ad Jd
+Rocket    849231262  8  6 r   r     kc    r         2254  100  330 Jc As
+Rocket    849231358  9  6 fQ  -     -     -         2484    0    0 
+Rocket    849272246  4  2 Bc  kf    -     -         2484   20    0 
+Rocket    849272267  4  1 Bcf -     -     -         2464   10    0 
+Rocket    849272284  4  4 f   -     -     -         2454    0    0 
+Rocket    849272355  3  2 B   -     -     -         2454   10   15 
+Rocket    849272362  2  1 BQ  -     -     -         2459    5    0 
+Rocket    849279528  6  3 c   b     b     b         2454   60  115 
+Rocket    849279579  6  2 Bc  kf    -     -         2509   20    0 
+Rocket    849279598  6  1 Br  bc    kc    kc        2489   90  300 Jc Jd
+Rocket    849279649  6  6 cc  f     -     -         2699   30    0 
+Rocket    849279689  6  5 c   kf    -     -         2669   20    0 
+Rocket    849279733  6  4 f   -     -     -         2649    0    0 
+Rocket    849279765  6  3 c   b     b     b         2649   60  115 
+Rocket    849279806  6  2 Bk  kc    kf    -         2704   20    0 
+Rocket    849279837  6  1 Bc  kf    -     -         2684   20    0 
+Rocket    849279894  6  6 f   -     -     -         2664    0    0 
+Rocket    849279922  6  5 f   -     -     -         2664    0    0 
+Rocket    849279969  5  3 f   -     -     -         2664    0    0 
+Rocket    849279987  5  2 Bk  kc    kf    -         2664   20    0 
+Rocket    849280029  5  1 BfQ -     -     -         2644    5    0 
+Rocket    849282655  7  4 c   c     c     r         2639  100  225 
+Rocket    849282712  7  4 c   b     -     -         2764   20   45 
+Rocket    849282750  6  2 Bk  k     bc    kc        2789   70    0 5c Ts
+Rocket    849282808  6  1 Bf  -     -     -         2719    5    0 
+Rocket    849282904  6  6 cc  c     c     c         2714   70    0 Qc Jc
+Rocket    849283016  5  4 f   -     -     -         2644    0    0 
+Rocket    849283042  5  3 c   b     brc   kc        2644  120    0 9s Ah
+Rocket    849283094  5  2 Bk  kc    kc    k         2524   40  100 6d 7c
+Rocket    849283128  5  1 Bc  k     k     k         2584   10    0 8h Js
+Rocket    849283173  6  6 f   -     -     -         2574    0    0 
+Rocket    849283211  6  5 c   kc    kc    kf        2574   40    0 
+Rocket    849283272  6  5 cc  bc    c     r         2534  100  280 9h 5c
+Rocket    849283347  5  3 c   b     b     b         2714   60  120 
+Rocket    849283404  5  2 Bc  c     c     Q         2774   50    0 
+Rocket    849283877  8  2 Bf  -     -     -         2724   10    0 
+Rocket    849283921  8  1 Bc  kc    kc    kf        2714   40    0 
+Rocket    849283984  8  8 c   f     -     -         2674   10    0 
+Rocket    849284046  7  6 f   -     -     -         2664    0    0 
+Rocket    849284107  7  6 c   f     -     -         2664   10    0 
+Rocket    849284154  7  5 f   -     -     -         2654    0    0 
+Rocket    849284199  7  4 c   f     -     -         2654   10    0 
+Rocket    849284259  7  3 f   -     -     -         2644    0    0 
+Rocket    849284360  6  1 Bk  b     bc    kf        2644   60    0 
+Rocket    849284455  7  1 Bc  k     k     kf        2584   10    0 
+Rocket    849284561  7  7 f   -     -     -         2574    0    0 
+Rocket    849284615  7  6 c   k     f     -         2574   10    0 
+Rocket    849284670  8  6 c   k     f     -         2564   10    0 
+Rocket    849284721  8  5 f   -     -     -         2554    0    0 
+Rocket    849284776  8  4 c   kf    -     -         2554   10    0 
+Rocket    849284843  9  3 cc  fQ    -     -         2544   20    0 
+Rocket    849307644  8  8 c   k     b     k         3201   30   85 Tc 7c
+Rocket    849307727  9  7 f   -     -     -         3256    0    0 
+Rocket    849307820  9  6 f   -     -     -         3256    0    0 
+Rocket    849307912  9  5 f   -     -     -         3256    0    0 
+Rocket    849308013  9  4 cc  b     b     b         3256   70  175 
+Rocket    849308096  9  3 c   cc    f     -         3361   40    0 
+Rocket    849308179  8  2 Bc  kf    -     -         3321   20    0 
+Rocket    849308263  8  1 Bc  kc    b     b         3301   60  170 Js 4s
+Rocket    849308351  8  8 f   -     -     -         3411    0    0 
+Rocket    849308406  8  7 f   -     -     -         3411    0    0 
+Rocket    849308452  8  6 c   c     f     -         3411   20    0 
+Rocket    849308525  8  5 f   -     -     -         3391    0    0 
+Rocket    849308574  9  5 f   -     Q     -         3391    0    0 

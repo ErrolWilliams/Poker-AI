@@ -1,0 +1,908 @@
+roomie    857264652  2  2 B   -     -     -         1090   10   15 
+roomie    857264658  2  1 Bc  k     k     k         1095   10   20 Jh 7s
+roomie    857264690  2  2 Bk  k     k     k         1105   10   10 6c As
+roomie    857264716  3  1 Bf  -     -     -         1105    5    0 
+roomie    857264727  3  3 c   c     k     k         1100   20   50 5c 7s
+roomie    857264765  3  2 Br  -     -     -         1130   20   30 
+roomie    857264790  2  1 Bc  k     b     -         1140   30   40 
+roomie    857264806  2  2 Bk  b     -     -         1150   20   30 
+roomie    857264831  2  1 Bc  k     k     k         1160   10   20 7d 6s
+roomie    857264859  2  2 B   -     -     -         1170   10   15 
+roomie    857264864  2  1 Bc  k     kc    k         1175   30    0 Tc Qh
+roomie    857264896  2  2 B   -     -     -         1145   10   15 
+roomie    857264902  2  1 Bc  k     b     -         1150   30   40 
+roomie    857264919  2  2 Bk  c     f     -         1160   20    0 
+roomie    857264940  2  1 Bc  kc    kf    -         1140   20    0 
+roomie    857264978  2  2 Bk  f     -     -         1120   10    0 
+roomie    857264993  2  1 Bc  k     b     -         1110   30   40 
+roomie    857265019  2  2 Bk  k     b     -         1120   30   40 
+roomie    857265048  2  1 Bc  kf    -     -         1130   10    0 
+roomie    857265071  2  2 Bk  b     -     -         1120   20   30 
+roomie    857265089  2  1 Bc  k     kf    -         1130   10    0 
+roomie    857265122  2  2 Bk  f     -     -         1120   10    0 
+roomie    857265135  2  1 Bc  k     b     -         1110   30   40 
+roomie    857265157  3  2 Bk  kf    -     -         1120   10    0 
+roomie    857265179  3  1 Bc  kc    kc    k         1110   40   90 Ac 6d
+roomie    857265217  3  3 cc  k     c     c         1160   60    0 9s Ts
+roomie    857265255  3  2 Bk  k     k     k         1100   10   25 As 6d
+roomie    857265278  3  1 Bf  -     -     -         1115    5    0 
+roomie    857265287  3  3 r   b     bc    c         1110   90    0 9c 9h
+roomie    857265345  3  2 Bk  bc    kr    b         1020   90  190 8h Ad
+roomie    857265391  3  1 Bf  -     -     -         1120    5    0 
+roomie    857265399  3  3 c   k     k     k         1115   10   30 Kd 9s
+roomie    857265452  3  2 Bk  k     k     k         1135   10    0 Kh 4h
+roomie    857265481  3  1 Bc  kf    -     -         1125   10    0 
+roomie    857265513  3  3 c   c     c     c         1115   60    0 Qs Tc
+roomie    857265549  3  2 B   -     -     -         1055   10   15 
+roomie    857265554  3  1 Bc  kc    kc    kf        1060   40    0 
+roomie    857265587  3  3 c   b     -     -         1020   20   40 
+roomie    857265612  3  2 Bk  k     k     b         1040   30   65 6s 9s
+roomie    857265644  3  1 Bc  kc    kf    -         1075   20    0 
+roomie    857265684  3  3 cc  k     k     c         1055   40   90 8h Kh
+roomie    857265714  3  2 Bk  c     k     k         1105   20   40 Jh Kh
+roomie    857265751  3  1 Bc  k     bc    kc        1125   70    0 Ac Qs
+roomie    857265789  3  3 f   -     -     -         1055    0    0 
+roomie    857265805  3  2 Bk  k     kc    k         1055   30   65 5c Qc
+roomie    857265840  3  1 Bf  -     -     -         1090    5    0 
+roomie    857265851  3  3 c   b     b     k         1085   40    0 4s 4h
+roomie    857265886  3  2 Bc  f     -     -         1045   20    0 
+roomie    857265913  3  1 Bf  -     -     -         1025    5    0 
+roomie    857265920  3  3 c   c     b     b         1020   60  130 8s 6s
+roomie    857265957  3  2 Bk  k     k     k         1090   10    0 5c Qs
+roomie    857266007  3  1 Bf  -     -     -         1080    5    0 
+roomie    857266021  3  3 c   c     k     k         1075   20    0 9h 6d
+roomie    857266066  3  2 Bk  c     f     -         1055   20    0 
+roomie    857266106  3  1 Bcc kf    -     -         1035   20    0 
+roomie    857266126  4  4 f   -     -     -         1015    0    0 
+roomie    857266154  4  3 f   -     -     -         1015    0    0 
+roomie    857266186  4  2 Bk  k     k     k         1015   10   25 Ah 9h
+roomie    857266211  4  1 Bf  -     -     -         1030    5    0 
+roomie    857266228  4  4 f   -     -     -         1025    0    0 
+roomie    857266244  4  3 f   -     -     -         1025    0    0 
+roomie    857266263  4  2 Bk  k     kf    -         1025   10    0 
+roomie    857266311  5  1 Bc  kf    -     -         1015   10    0 
+roomie    857266342  5  5 f   -     -     -         1005    0    0 
+roomie    857266372  5  4 c   k     k     f         1005   10    0 
+roomie    857266426  5  3 c   f     -     -          995   10    0 
+roomie    857266495  4  2 Bk  k     k     k          985   10    0 Jd Qc
+roomie    857266532  5  1 Bc  kc    k     bc         975   60    0 Qc 5c
+roomie    857266612  6  6 f   -     -     -          915    0    0 
+roomie    857266637  6  5 c   kf    -     -          915   10    0 
+roomie    857266693  6  4 cc  f     -     -          905   30    0 
+roomie    857266744  8  3 Q   -     -     -          875    0    0 
+roomie    857324841  3  2 Bk  k     b     bf         875   50    0 
+roomie    857324885  3  1 Bc  k     k     k          825   10    0 8s 7d
+roomie    857324917  3  3 c   f     -     -          815   10    0 
+roomie    857324958  3  2 Bk  b     b     -          805   40   60 
+roomie    857324987  3  1 Bc  kf    -     -          825   10    0 
+roomie    857325018  3  3 c   b     b     -          815   40   65 
+roomie    857325046  3  2 Bc  kc    c     f          840   50    0 
+roomie    857325113  3  1 Bc  k     kf    -          790   10    0 
+roomie    857325153  3  3 f   -     -     -          780    0    0 
+roomie    857325167  3  2 Brc kc    kr    b          780  110  225 Ac Ad
+roomie    857325215  3  1 Bc  k     bQ    -          895   30   50 
+roomie    857326073  2  1 Bc  k     k     k          915   10   20 5c Th
+roomie    857326099  2  2 Bk  f     -     -          925   10    0 
+roomie    857326117  2  1 Bc  k     kf    -          915   10    0 
+roomie    857326134  3  3 c   f     -     -          905   10    0 
+roomie    857326155  5  4 c   f     -     -          895   10    0 
+roomie    857326190  5  3 f   -     -     -          885    0    0 
+roomie    857326242  5  2 Bf  -     -     -          885   10    0 
+roomie    857326287  4  1 Bf  -     -     -          875    5    0 
+roomie    857326321  4  4 c   k     c     c          870   50  105 4c Qc
+roomie    857326347  4  3 f   -     -     -          925    0    0 
+roomie    857326387  4  2 Bk  k     k     k          925   10   20 7h Ac
+roomie    857326415  4  1 Bc  kf    -     -          935   10    0 
+roomie    857326438  4  4 f   -     -     -          925    0    0 
+roomie    857326478  4  3 f   -     -     -          925    0    0 
+roomie    857326494  4  2 Bf  -     -     -          925   10    0 
+roomie    857326542  4  1 Bf  -     -     -          915    5    0 
+roomie    857326550  4  4 c   k     f     -          910   10    0 
+roomie    857326577  4  3 c   c     c     f          900   40    0 
+roomie    857326616  4  2 Bc  kc    kc    kc         860   70  145 Tc 8s
+roomie    857326654  4  1 Bc  k     kf    -          935   10    0 
+roomie    857326687  4  4 c   f     -     -          925   10    0 
+roomie    857326703  4  3 c   k     f     -          915   10    0 
+roomie    857326725  4  2 Bk  f     -     -          905   10    0 
+roomie    857326752  4  1 Bc  kf    -     -          895   10    0 
+roomie    857326773  4  4 c   k     c     c          885   50    0 6c 5s
+roomie    857326810  4  3 c   b     -     -          835   20   40 
+roomie    857326836  4  2 Bk  k     b     -          855   30   40 
+roomie    857326871  4  1 Bc  kr    b     b          865   70  160 Ac 7c
+roomie    857326912  5  5 f   -     -     -          955    0    0 
+roomie    857326943  4  3 c   k     f     -          955   10    0 
+roomie    857326963  4  2 Bk  kf    -     -          945   10    0 
+roomie    857326982  4  1 Bc  k     b     -          935   30   40 
+roomie    857327014  4  4 f   -     -     -          945    0    0 
+roomie    857327056  4  3 f   -     Q     -          945    0    0 
+roomie    857327179  4  3 c   b     b     k          945   40    0 Qh Jd
+roomie    857327210  4  2 Bf  -     -     -          905   10    0 
+roomie    857327244  4  1 Bc  kf    -     -          895   10    0 
+roomie    857327283  4  4 c   k     f     -          885   10    0 
+roomie    857327304  4  3 f   -     -     -          875    0    0 
+roomie    857327325  4  2 Bk  k     c     k          875   30    0 5c 2c
+roomie    857327354  4  1 Bc  kf    -     -          845   10    0 
+roomie    857327381  4  4 r   -     -     -          835   20   35 
+roomie    857327402  4  3 c   b     k     k          850   20    0 9h Jc
+roomie    857327442  4  2 Bf  -     -     -          830   10    0 
+roomie    857327459  4  1 Bf  -     -     -          820    5    0 
+roomie    857327466  4  4 c   c     f     -          815   20    0 
+roomie    857327487  4  3 cc  c     c     c          795   70  165 Js Qc
+roomie    857327512  4  2 Bk  kc    kf    -          890   20    0 
+roomie    857327578  4  1 Bf  -     -     -          870    5    0 
+roomie    857327582  4  4 f   -     -     -          865    0    0 
+roomie    857327607  4  3 c   b     b     k          865   40    0 9s Jc
+roomie    857327634  4  2 B   -     -     -          825   10   15 
+roomie    857327643  4  1 Bcc kf    -     -          830   20    0 
+roomie    857327673  4  4 f   -     -     -          810    0    0 
+roomie    857327689  4  3 f   -     -     -          810    0    0 
+roomie    857327714  4  2 Bk  k     b     -          810   30   50 
+roomie    857327737  4  1 Bf  -     -     -          830    5    0 
+roomie    857327764  4  4 f   -     -     -          825    0    0 
+roomie    857327780  4  3 f   -     -     -          825    0    0 
+roomie    857327797  4  2 Bk  b     b     -          825   40   60 
+roomie    857327822  4  1 Bf  -     -     -          845    5    0 
+roomie    857327853  4  4 f   -     -     -          840    0    0 
+roomie    857327869  4  3 f   -     -     -          840    0    0 
+roomie    857327888  4  2 Bk  k     b     b          840   50   95 
+roomie    857327917  4  1 Bc  k     kf    -          885   10    0 
+roomie    857327945  4  4 f   -     -     -          875    0    0 
+roomie    857327955  3  3 c   b     -     -          875   20   40 
+roomie    857327976  3  2 Bk  k     k     k          895   10   25 6c 8s
+roomie    857328005  3  1 Bc  k     k     k          910   10   30 Qh 2h
+roomie    857328033  3  3 f   -     -     -          930    0    0 
+roomie    857328058  4  2 Bc  kc    kc    kf         930   50    0 
+roomie    857328100  4  1 Bc  kf    -     -          880   10    0 
+roomie    857328184  5  5 c   k     b     -          870   30   50 
+roomie    857328217  4  3 c   b     -     -          890   20   35 
+roomie    857328244  4  2 Bc  c     c     f          905   50    0 
+roomie    857328278  4  1 Bf  -     -     -          855    5    0 
+roomie    857328284  4  4 c   f     -     -          850   10    0 
+roomie    857328313  4  3 cc  c     c     f          840   50    0 
+roomie    857328351  4  2 Br  b     b     -          790   50   85 
+roomie    857328374  5  1 Bc  kc    bc    k          825   60  160 4s 4h
+roomie    857328437  6  6 c   r     k     k          925   30    0 6d 4d
+roomie    857328480  6  5 cc  kc    kf    -          895   30    0 
+roomie    857328520  5  4 f   -     -     -          865    0    0 
+roomie    857328538  5  3 f   -     -     -          865    0    0 
+roomie    857328562  6  2 Bf  -     -     -          865   10    0 
+roomie    857328605  6  1 Bc  krc   kc    kc         855   90    0 Qd Ad
+roomie    857328650  6  6 f   -     -     -          765    0    0 
+roomie    857328710  6  5 rc  c     kc    kc         765   80    0 Qd Qs
+roomie    857328759  6  4 rc  bc    ccc   c          685  160    0 As Ad
+roomie    857328877  5  3 r   bc    k     kr         525   80  255 Ah Jc
+roomie    857329003  6  2 Bk  k     k     k          700   10    0 Qd 9h
+roomie    857329056  6  1 Bf  -     -     -          690    5    0 
+roomie    857329110  6  6 cc  f     -     -          685   20    0 
+roomie    857329184  6  5 f   -     -     -          665    0    0 
+roomie    857329194  6  4 f   -     -     -          665    0    0 
+roomie    857329250  6  3 f   -     Q     -          665    0    0 
+roomie    857362694  2  1 B   -     -     -          665   10   10 
+roomie    857362707  3  1 Bf  -     -     -          665    5    0 
+roomie    857362719  3  3 r   -     -     -          660   20   35 
+roomie    857362729  3  2 Bk  kf    -     -          675   10    0 
+roomie    857362757  2  1 Bf  -     -     -          665    5    0 
+roomie    857362766  2  2 Br  rc    c     c          660  100    0 Jd Kh
+roomie    857362811  2  1 Bc  b     -     -          560   20   30 
+roomie    857362828  2  2 Bk  b     -     -          570   20   30 
+roomie    857362852  2  1 Bc  b     b     -          580   40   60 
+roomie    857362878  2  2 Br  b     -     -          600   30   50 
+roomie    857362896  2  1 Bf  -     -     -          620    5    0 
+roomie    857362902  2  2 B   -     -     -          615   10   15 
+roomie    857362907  2  1 Bf  -     -     -          620    5    0 
+roomie    857362913  2  2 B   -     -     -          615   10   15 
+roomie    857362920  2  1 Bc  kr    b     b          620   70  120 
+roomie    857362965  3  3 rc  f     -     -          670   30    0 
+roomie    857362991  3  2 Bk  k     b     -          640   30   40 
+roomie    857363029  3  1 Br  bc    kr    bc         650  120    0 Th As
+roomie    857363088  3  3 r   k     k     k          530   20    0 6s 9s
+roomie    857363137  4  3 f   -     -     -          510    0    0 
+roomie    857363180  4  2 Bk  b     b     k          510   40   90 Qd 9s
+roomie    857363295  3  1 Bc  k     b     bc         560   70  140 Kc 8s
+roomie    857363344  3  3 c   k     f     -          630   10    0 
+roomie    857363392  3  2 Bk  k     k     k          620   10   25 9s 3d
+roomie    857363429  3  1 Bc  kf    -     -          635   10    0 
+roomie    857363455  4  3 f   -     -     -          625    0    0 
+roomie    857363490  4  2 Bk  k     b     kc         625   50  115 6c 6s
+roomie    857363553  5  1 Bf  -     -     -          690    5    0 
+roomie    857363589  5  5 f   -     -     -          685    0    0 
+roomie    857363647  5  4 f   -     -     -          685    0    0 
+roomie    857363728  7  5 c   krc   kf    -          685   50    0 
+roomie    857363830  9  6 cc  kf    -     -          635   50    0 
+roomie    857364013 10  6 f   -     -     -          585    0    0 
+roomie    857364114 10  5 c   kc    kcA   -           35   35    0 Jh 5d
+roomie    857364362  9  4 f   -     -     -         1000    0    0 
+roomie    857364485 11  3 cc  kf    -     -         1000   20    0 
+roomie    857364578 11  2 Bc  kr    b     -          980   60  140 
+roomie    857364653 11  1 Bf  -     -     -         1060    5    0 
+roomie    857364734 11 11 cc  c     f     -         1055   50    0 
+roomie    857364876 11 10 rc  brc   c     c         1005  110  400 Ah Qh
+roomie    857365008 11  9 cc  c     f     -         1295   30    0 
+roomie    857365183 11  8 f   -     -     -         1265    0    0 
+roomie    857365248 11  8 f   -     -     -         1265    0    0 
+roomie    857365345 10  7 cc  f     -     -         1265   30    0 
+roomie    857365442 12  6 cc  f     -     -         1235   40    0 
+roomie    857365597 12  5 c   f     -     -         1195   20    0 
+roomie    857365731 12  4 f   -     -     -         1175    0    0 
+roomie    857365822 12  4 f   -     -     -         1175    0    0 
+roomie    857365887 11  2 Bk  kf    -     -         1175   10    0 
+roomie    857365970 10  1 Bf  -     -     -         1165    5    0 
+roomie    857366113  8  8 f   -     -     -         1160    0    0 
+roomie    857366155  8  8 c   f     -     -         1160   10    0 
+roomie    857366219  7  5 c   f     -     -         1150   20    0 
+roomie    857366285  7  5 rc  b     c     c         1130   90    0 Js Jd
+roomie    857366360  8  4 rc  f     -     -         1040   40    0 
+roomie    857366442  8  3 rc  kf    -     -         1000   30    0 
+roomie    857366504  8  2 Bk  kc    kf    -          970   20    0 
+roomie    857366595 11  1 Bc  kf    -     -          950   20    0 
+roomie    857366664 11 11 r   k     r     c          930   80    0 Ks Ah
+roomie    857366771 10  9 cc  kf    -     -          850   20    0 
+roomie    857366857 10  9 rc  f     -     -          830   40    0 
+roomie    857366959 10  8 f   -     -     -          790    0    0 
+roomie    857367029 10  7 KQ  -     -     -          790    0    0 
+roomie    857428341  9  4 cc  f     -     -          790   20    0 
+roomie    857428480  9  3 f   -     -     -          770    0    0 
+roomie    857428571 10  2 Bk  k     k     kf         770   10    0 
+roomie    857428697 11  1 Bc  kc    kf    -          760   20    0 
+roomie    857429509  4  4 f   -     -     -          815    0    0 
+roomie    857429531  4  3 cc  kf    -     -          815   20    0 
+roomie    857429560  4  2 Bk  f     -     -          795   10    0 
+roomie    857429591  4  1 Bcc k     b     k          785   40  100 7c 4d
+roomie    857429657  4  4 c   f     -     -          845   10    0 
+roomie    857429731  4  3 f   -     -     -          835    0    0 
+roomie    857429756  4  2 Bc  k     r     k          835   60    0 7s 9d
+roomie    857429830  4  1 Bc  k     kc    kf         775   40    0 
+roomie    857429878  4  4 r   bc    c     k          735   60    0 Qc Jc
+roomie    857429949  4  3 cc  b     b     -          675   50   90 
+roomie    857429970  4  2 B   -     -     -          715   10   15 
+roomie    857429981  3  1 Bc  bc    kc    k          720   50    0 9s 7c
+roomie    857430375  3  3 cc  k     f     -          630   20    0 
+roomie    857430415  3  2 B   -     -     -          610   10   15 
+roomie    857430420  3  1 Bc  b     -     -          615   20   40 
+roomie    857430462  3  3 r   br    c     f          635   70    0 
+roomie    857430508  3  2 Bc  kc    kc    kc         565   70    0 8d 7h
+roomie    857430592  3  1 Bc  b     -     -          495   20   30 
+roomie    857430598  3  3 cc  k     f     -          505   20    0 
+roomie    857430630  3  2 Bc  kf    -     -          485   20    0 
+roomie    857430657  3  1 Bc  bA    -     -          465   15    0 3s 2c
+roomie    857529925  7  4 c   cc    kf    -         1000   30    0 
+roomie    857529988  9  5 f   -     -     -          970    0    0 
+roomie    857530029  9  4 cc  f     -     -          970   40    0 
+roomie    857530088  9  3 f   -     -     -          930    0    0 
+roomie    857530123  9  2 Bk  k     f     -          930   10    0 
+roomie    857530173  8  1 Bf  -     -     -          920    5    0 
+roomie    857530229  8  8 cc  c     b     b          915   70  140 
+roomie    857530278  7  6 f   -     -     -          985    0    0 
+roomie    857530332  8  5 f   -     -     -          985    0    0 
+roomie    857530394  9  5 f   -     -     -          985    0    0 
+roomie    857530427 10  6 f   -     -     -          985    0    0 
+roomie    857530536  9  5 f   -     -     -          985    0    0 
+roomie    857530586 10  4 f   -     -     -          985    0    0 
+roomie    857530666 10  3 f   -     -     -          985    0    0 
+roomie    857530747 10  2 Bk  kf    -     -          985   10    0 
+roomie    857530801  9  1 Bf  -     -     -          975    5    0 
+roomie    857530837  9  9 c   r     k     b          970   50  130 Jc 2c
+roomie    857530895  9  8 c   cc    f     -         1050   30    0 
+roomie    857531028  9  7 cc  kf    -     -         1020   20    0 
+roomie    857531106 10  7 f   -     -     -         1000    0    0 
+roomie    857531167 10  6 f   -     -     -         1000    0    0 
+roomie    857531213 10  5 c   kf    -     -         1000   10    0 
+roomie    857531289 10  4 f   -     -     -          990    0    0 
+roomie    857531371 10  3 f   -     -     -          990    0    0 
+roomie    857531492 12  2 Bf  -     -     -          990   10    0 
+roomie    857531553 12  1 Bcc kf    -     -          980   30    0 
+roomie    857531633 12 12 f   -     -     -          950    0    0 
+roomie    857531729 11 10 f   -     -     -          950    0    0 
+roomie    857531785 11  9 f   -     -     -          950    0    0 
+roomie    857531833 11  8 c   f     -     -          950   10    0 
+roomie    857531885 11  7 f   -     -     -          940    0    0 
+roomie    857531949 12  6 cc  krc   kf    -          940   50    0 
+roomie    857532063 12  5 KQ  -     -     -          890    0    0 
+roomie    857625264 10  4 f   -     -     -          890    0    0 
+roomie    857625330 12  3 f   -     -     -          890    0    0 
+roomie    857625531 12  2 Bf  -     -     -          890   10    0 
+roomie    857625711 12  1 Bf  -     -     -          880    5    0 
+roomie    857625805 12 12 f   -     -     -          875    0    0 
+roomie    857625943 12 11 f   -     -     -          875    0    0 
+roomie    857626067 12 10 f   -     -     -          875    0    0 
+roomie    857626156 10  7 f   -     -     -          875    0    0 
+roomie    857626269 12  7 f   -     -     -          875    0    0 
+roomie    857626354 12  6 f   -     -     -          875    0    0 
+roomie    857626456 12  5 Q   -     -     -          875    0    0 
+roomie    857627021  7  2 cc  c     f     -          875   40    0 
+roomie    857627070  8  2 Bk  kc    kf    -          835   20    0 
+roomie    857627171  8  1 Bf  -     -     -          815    5    0 
+roomie    857627244  9  9 f   -     -     -          810    0    0 
+roomie    857627311  9  8 r   cc    r     b          810  120    0 Kc Kh
+roomie    857627477 10  8 c   c     f     -          690   20    0 
+roomie    857627564 10  7 cc  KQ    -     -          670   20    0 
+roomie    857962797  9  2 Bcc r     c     c          650  100  420 Qc Kd
+roomie    857962895  9  1 Bc  kc    kc    b          970   60  210 Ts Qs
+roomie    857962986 10  5 Q   -     -     -         1120    0    0 
+roomie    857966004 10 10 c   k     f     -         1120   10    0 
+roomie    857966049 10  8 f   -     -     -         1110    0    0 
+roomie    857966118  9  8 f   -     -     -         1110    0    0 
+roomie    857966336  8  5 f   -     -     -         1110    0    0 
+roomie    857966366  8  4 c   rc    c     c         1110   80    0 8h Qh
+roomie    857966465  8  2 BQ  -     -     -         1030   10    0 
+roomie    857966957 10  6 f   -     -     -         1025    0    0 
+roomie    857967020 11  5 f   -     -     -         1025    0    0 
+roomie    857967172 10  3 f   -     -     -         1025    0    0 
+roomie    857967257 12  3 cc  kf    -     -         1025   20    0 
+roomie    857967351 12  2 Bf  -     -     -         1005   10    0 
+roomie    857967417 12  1 Bf  -     -     -          995    5    0 
+roomie    857967518 11 11 c   b     b     bf         990   60    0 
+roomie    857967598 12 11 c   f     -     -          930   20    0 
+roomie    857967697 12 11 f   -     -     -          910    0    0 
+roomie    857967751 11  9 f   -     -     -          910    0    0 
+roomie    857967815 11  7 f   -     -     -          910    0    0 
+roomie    857967889 10  5 f   -     -     -          910    0    0 
+roomie    857967940 11  4 f   -     -     -          910    0    0 
+roomie    857968002 11  3 c   kf    -     -          910   10    0 
+roomie    857968075 11  2 Bk  kc    bc    k          900   60    0 4h Ah
+roomie    857968170 11  1 BQ  -     -     -          840    5    0 
+roomie    857968310 10  7 c   c     c     c          835   70    0 9s 9c
+roomie    857968379 10  7 f   -     -     -          765    0    0 
+roomie    857968455 10  6 f   -     -     -          765    0    0 
+roomie    857968515 10  5 f   -     -     -          765    0    0 
+roomie    857968593  8  4 f   -     -     -          765    0    0 
+roomie    857968643  6  2 Bf  -     -     -          765   10    0 
+roomie    857968678  6  1 Bf  -     -     -          755    5    0 
+roomie    857968734  6  6 cA  -     -     -           10   10    0 Tc 2c
+roomie    858124883  5  5 f   -     -     -         1000    0    0 
+roomie    858124894  6  4 f   -     -     -         1000    0    0 
+roomie    858124930  6  3 f   -     -     -         1000    0    0 
+roomie    858124949  6  2 Bk  kf    -     -         1000   10    0 
+roomie    858124995  7  1 Bcc k     b     b          990   60  160 
+roomie    858125059  7  7 c   b     -     -         1090   20   45 
+roomie    858125092  7  6 c   b     -     -         1115   20   40 
+roomie    858125167  6  4 f   -     -     -         1135    0    0 
+roomie    858125242  7  3 cc  k     k     bc        1135   60    0 As Qd
+roomie    858125296  7  2 Bk  kf    -     -         1075   10    0 
+roomie    858125350  7  1 Bc  kr    kc    kf        1065   50    0 
+roomie    858125408  7  7 r   r     c     f         1015   70    0 
+roomie    858125463  7  6 c   f     -     -          945   10    0 
+roomie    858125563  8  7 c   k     c     k          935   40    0 Kc 5c
+roomie    858125638  7  5 f   -     -     -          895    0    0 
+roomie    858125680  7  4 f   -     -     -          895    0    0 
+roomie    858125762  6  2 f   -     -     -          895    0    0 
+roomie    858125819  6  2 Bk  b     -     -          895   20   45 
+roomie    858125854  7  1 Bf  -     -     -          920    5    0 
+roomie    858125890  8  8 c   r     b     b          915   80  185 Ac 7c
+roomie    858125976  8  8 c   b     k     k         1020   20   55 Qc Jd
+roomie    858126028  7  6 c   k     k     k         1055   10    0 Ac 4s
+roomie    858126074  7  5 f   -     -     -         1045    0    0 
+roomie    858126118  7  4 f   -     -     -         1045    0    0 
+roomie    858126161  7  3 f   -     -     -         1045    0    0 
+roomie    858126242  7  2 Bf  -     -     -         1045   10    0 
+roomie    858126286  6  1 Bf  -     -     -         1035    5    0 
+roomie    858126329  6  6 f   -     -     -         1030    0    0 
+roomie    858126393  7  6 f   -     -     -         1030    0    0 
+roomie    858126423  7  5 f   -     -     -         1030    0    0 
+roomie    858126457  7  4 f   -     -     -         1030    0    0 
+roomie    858126494  7  3 cc  kf    -     -         1030   20    0 
+roomie    858126563  6  2 Bc  kc    b     -         1010   50  115 
+roomie    858126613  7  1 Bc  b     kc    kc        1075   60    0 Ah 9d
+roomie    858126677  7  7 c   f     -     -         1015   10    0 
+roomie    858126738  7  6 f   -     -     -         1005    0    0 
+roomie    858126810  7  5 f   -     -     -         1005    0    0 
+roomie    858126856  8  4 f   -     -     -         1005    0    0 
+roomie    858126915  7  3 c   b     -     -         1005   20   40 
+roomie    858126946  7  2 Bf  -     -     -         1025   10    0 
+roomie    858126970  7  1 Bf  -     -     -         1015    5    0 
+roomie    858127003  7  7 f   -     -     -         1010    0    0 
+roomie    858127017  7  6 f   -     -     -         1010    0    0 
+roomie    858127032  7  5 f   -     -     -         1010    0    0 
+roomie    858127061  7  4 c   kc    kf    -         1010   20    0 
+roomie    858127135  6  3 Q   -     -     -          990    0    0 
+roomie    858143772 10  4 Q   -     -     -          990    0    0 
+roomie    858144062  9  8 f   -     -     -          990    0    0 
+roomie    858144199  8  6 c   f     -     -          990   10    0 
+roomie    858144261  7  4 c   k     kf    -          980   10    0 
+roomie    858144321  7  3 f   -     -     -          970    0    0 
+roomie    858144375  6  2 Bc  kr    b     b          970   80  225 
+roomie    858144426  5  1 Bf  -     -     -         1115    5    0 
+roomie    858144441  5  5 cf  -     -     -         1110   10    0 
+roomie    858144489  5  4 c   k     f     -         1100   10    0 
+roomie    858144564  5  3 cc  kc    kc    b         1090   70  180 7h Ad
+roomie    858144632  5  2 Bf  -     -     -         1200   10    0 
+roomie    858144667  5  1 Bf  -     -     -         1190    5    0 
+roomie    858144707  5  5 c   f     -     -         1185   10    0 
+roomie    858144740  5  4 f   -     -     -         1175    0    0 
+roomie    858144774  3  1 Bc  kc    kf    -         1175   30    0 
+roomie    858144820  3  1 Bf  -     -     -         1145    5    0 
+roomie    858144859  3  3 r   b     -     -         1140   30   70 
+roomie    858144887  3  2 Bk  b     k     k         1180   20   60 Th Tc
+roomie    858144928  3  1 Bc  kc    kc    kf        1220   40    0 
+roomie    858144977  3  3 f   -     -     -         1180    0    0 
+roomie    858145006  3  2 Bk  k     b     -         1180   30   50 
+roomie    858145028  3  1 Bc  k     k     b         1200   30   50 
+roomie    858145049  3  3 f   -     -     -         1220    0    0 
+roomie    858145071  3  2 Br  r     b     k         1220   60  120 Qc Ad
+roomie    858145105  3  1 Bf  -     -     -         1280    5    0 
+roomie    858145118  3  3 f   -     -     -         1275    0    0 
+roomie    858145144  3  2 Bk  k     f     -         1275   10    0 
+roomie    858145169  3  1 Bc  kf    -     -         1265   10    0 
+roomie    858145187  3  3 f   -     -     -         1255    0    0 
+roomie    858145216  3  2 Bk  f     -     -         1255   10    0 
+roomie    858145241  3  1 Bf  -     -     -         1245    5    0 
+roomie    858145253  3  3 cc  c     c     f         1240   50    0 
+roomie    858145297  2  1 Bf  -     -     -         1190   10    0 
+roomie    858145322  2  1 Bcc k     b     kc        1180   60  120 4c Ac
+roomie    858145358  2  2 Bk  k     k     k         1240   10    0 Tc 4c
+roomie    858145388  2  1 Bc  k     -     -         1230   10   20 
+roomie    858145405  2  2 Bk  c     c     r         1240   80  160 Qd Kc
+roomie    858145443  3  1 Bc  kc    kf    -         1320   20    0 
+roomie    858145479  3  3 c   c     c     k         1300   40    0 Qd Js
+roomie    858145512  3  2 Bc  f     -     -         1260   20    0 
+roomie    858145582  3  1 Bc  b     b     -         1240   40   70 
+roomie    858145606  3  3 f   -     -     -         1270    0    0 
+roomie    858145613  3  2 Bk  kf    -     -         1270   10    0 
+roomie    858145629  3  1 Bf  -     -     -         1260    5    0 
+roomie    858145648  3  3 f   -     -     -         1255    0    0 
+roomie    858145666  3  2 Bf  -     -     -         1255   10    0 
+roomie    858145710  3  1 Bc  k     k     k         1245   10    0 Td 8s
+roomie    858145792  3  3 f   -     -     -         1235    0    0 
+roomie    858145813  3  2 Bk  b     b     b         1235   60  120 Kc Qh
+roomie    858145848  3  1 Bf  -     -     -         1295    5    0 
+roomie    858145883  3  3 f   -     -     -         1290    0    0 
+roomie    858145899  3  2 Bk  b     b     -         1290   40   70 
+roomie    858145919  3  1 Bf  -     -     -         1320    5    0 
+roomie    858145926  3  3 f   -     -     -         1315    0    0 
+roomie    858145933  3  2 Bk  f     -     -         1315   10    0 
+roomie    858145953  3  1 Bc  k     k     kf        1305   10    0 
+roomie    858145987  3  3 c   b     -     -         1295   20   40 
+roomie    858146010  3  2 Bf  -     -     -         1315   10    0 
+roomie    858146018  3  1 Bc  b     b     kf        1305   40    0 
+roomie    858146053  4  4 c   c     f     -         1265   20    0 
+roomie    858146118  4  3 fQ  -     -     -         1245    0    0 
+roomie    858218219  6  5 f   -     -     -         1245    0    0 
+roomie    858218346  7  3 cc  c     k     b         1245   50  150 
+roomie    858218462  7  2 Bf  -     -     -         1345   10    0 
+roomie    858218503  7  1 Bc  k     kf    -         1335   10    0 
+roomie    858218615  7  7 f   -     -     -         1325    0    0 
+roomie    858218716  8  7 f   -     -     -         1325    0    0 
+roomie    858218831  9  7 f   -     -     -         1325    0    0 
+roomie    858218965  9  6 c   f     -     -         1325   20    0 
+roomie    858219101 10  6 f   -     -     -         1305    0    0 
+roomie    858219336 12  7 f   -     -     -         1305    0    0 
+roomie    858219481 11  5 f   -     -     -         1305    0    0 
+roomie    858219718 10  3 f   -     -     -         1305    0    0 
+roomie    858219859 11  4 f   -     -     -         1305    0    0 
+roomie    858219987 12  3 f   -     -     -         1305    0    0 
+roomie    858220195 11  1 Bk  brc   bc    kc        1305  110  610 8d Ad
+roomie    858220402 10  1 Bc  kc    bc    kf        1805   60    0 
+roomie    858220606 10  4 Q   -     -     -         1745    0    0 
+roomie    858223399 12  9 c   f     -     -         1745   10    0 
+roomie    858223516 11  7 f   -     -     -         1735    0    0 
+roomie    858223601 11  7 cc  f     -     -         1735   40    0 
+roomie    858223720 10  5 f   -     -     -         1695    0    0 
+roomie    858223796 10  4 KQ  -     -     -         1695    0    0 
+roomie    858461588  9  2 Bc  kc    kf    -         1695   30    0 
+roomie    858461670  9  1 Bf  -     -     -         1665    5    0 
+roomie    858461739  8  8 c   b     b     b         1660   60  130 
+roomie    858461826 10  8 cc  f     -     -         1730   20    0 
+roomie    858461925 10  7 f   -     -     -         1710    0    0 
+roomie    858461968 10  6 f   -     -     -         1710    0    0 
+roomie    858462007 10  5 ccc ccc   f     -         1710   70    0 
+roomie    858462155 10  4 ccc kc    b     b         1640   80  275 Qs 9h
+roomie    858462269 10  3 c   f     -     -         1835   10    0 
+roomie    858462326  9  2 Bf  -     -     -         1825   10    0 
+roomie    858462414  9  1 Bc  kc    kf    -         1815   20    0 
+roomie    858462512  9  9 rc  cf    -     -         1795   50    0 
+roomie    858462619  9  8 cc  c     c     c         1745   90    0 9d Jh
+roomie    858462775 11  7 c   r     b     b         1655   80  285 
+roomie    858462895  7  3 Q   -     -     -         1860    0    0 
+roomie    858494059  5  5 c   k     f     -         1860   10    0 
+roomie    858494170  4  4 f   -     -     -         1850    0    0 
+roomie    858494199  4  3 r   r     b     k         1850   60  170 Qs As
+roomie    858494234  5  2 Bf  -     -     -         1960   10    0 
+roomie    858494376  5  1 Bc  kc    b     -         1950   50   90 
+roomie    858494446  3  3 f   -     -     -         1990    0    0 
+roomie    858494455  3  3 c   k     k     b         1990   30   70 As 4c
+roomie    858494535  4  2 B   -     -     -         2030   10   25 
+roomie    858494635  3  1 BKQ -     -     -         2045    5    0 
+roomie    858500140  4  2 Bc  kf    -     -         2040   20    0 
+roomie    858500164  4  1 Bc  b     b     -         2020   50  120 
+roomie    858500185  4  4 c   b     bf    -         2090   40    0 
+roomie    858500209  4  3 f   -     -     -         2050    0    0 
+roomie    858500219  4  2 Bc  cc    kf    -         2050   50    0 
+roomie    858500256  4  1 Bc  krc   kf    -         2000   60    0 
+roomie    858500294  4  4 r   c     r     b         1940   90    0 Ah Th
+roomie    858500330  4  3 f   -     -     -         1850    0    0 
+roomie    858500356  4  2 Bk  b     -     -         1850   20   45 
+roomie    858500374  4  1 Bc  kc    k     b         1875   50  140 3c 4h
+roomie    858500407  3  3 r   b     k     f         1965   30    0 
+roomie    858500438  3  2 Bc  kf    -     -         1935   20    0 
+roomie    858500470  3  1 Bcc kc    kr    br        1915  130    0 7s Ts
+roomie    858500508  3  3 f   -     -     -         1785    0    0 
+roomie    858500536  3  2 Bf  -     -     -         1785   10    0 
+roomie    858500652  2  1 Bf  -     -     -         1775    5    0 
+roomie    858500659  2  2 Bc  c     c     c         1770   70    0 5h 9d
+roomie    858500679  2  1 Bc  kc    k     k         1700   20   40 2s Ah
+roomie    858500712  3  2 Bc  c     c     c         1720   70    0 Kh Ad
+roomie    858500733  3  1 Bf  -     -     -         1650    5    0 
+roomie    858500744  3  3 cc  c     c     r         1645   90  165 
+roomie    858500778  3  2 Bc  k     kc    kf        1720   40    0 
+roomie    858500814  3  1 Bc  bc    bc    b         1680   90    0 Ac 5d
+roomie    858500850  3  3 c   c     k     f         1590   20    0 
+roomie    858500886  3  2 Bc  kc    k     b         1570   50    0 Kd 7c
+roomie    858500910  3  1 Bcc kf    -     -         1520   30    0 
+roomie    858500937  3  3 cc  k     r     b         1490   80   90 Ad 7s
+roomie    858500964  3  2 B   -     -     -         1500   10   15 
+roomie    858500971  3  1 Bf  -     -     -         1505    5    0 
+roomie    858500978  3  3 cc  c     r     k         1500   90    0 Kd 8h
+roomie    858501016  3  2 Br  bc    kf    -         1410   50    0 
+roomie    858501044  3  1 Bc  kc    kc    brr       1360  150    0 6s 7d
+roomie    858501097  3  3 f   -     -     -         1210    0    0 
+roomie    858501109  3  2 Bf  -     -     -         1210   10    0 
+roomie    858501158  3  1 Bc  b     kc    kc        1200   60  120 7c 5h
+roomie    858501192  3  3 cc  k     c     c         1260   60    0 8d Ah
+roomie    858501232  3  2 Br  b     kf    -         1200   40    0 
+roomie    858501263  3  1 Bcc kc    kc    kc        1160   70    0 Th Jc
+roomie    858501298  3  3 cc  k     f     -         1090   20    0 
+roomie    858501326  3  2 Bc  kf    -     -         1070   20    0 
+roomie    858501349  3  1 Bc  kc    kc    kc        1050   70    0 9d 9h
+roomie    858501377  3  3 c   k     k     f          980   10    0 
+roomie    858501402  3  2 Bc  kf    -     -          970   20    0 
+roomie    858501418  3  1 Bc  kc    kc    k          950   50    0 7d Ts
+roomie    858501450  3  3 c   b     -     -          900   20   40 
+roomie    858501469  3  2 Bk  kc    kc    k          920   40    0 Ts Jh
+roomie    858501497  3  1 Bf  -     -     -          880    5    0 
+roomie    858501527  3  3 f   -     -     -          875    0    0 
+roomie    858501541  3  2 Bf  -     -     -          875   10    0 
+roomie    858501549  4  1 Bcc kc    kc    kc         865   80  140 Td Js
+roomie    858501603  4  4 f   -     -     -          925    0    0 
+roomie    858501635  4  3 cc  c     r     r          925  110    0 Td Js
+roomie    858501687  4  2 Bc  f     -     -          815   30    0 
+roomie    858501735  4  1 Bf  -     -     -          785    5    0 
+roomie    858501765  4  4 f   -     -     -          780    0    0 
+roomie    858501773  4  3 cc  bc    kc    k          780   60    0 8d 6s
+roomie    858501811  4  2 Bc  c     f     -          720   30    0 
+roomie    858501837  5  1 Bc  kf    -     -          690   20    0 
+roomie    858501860  5  5 rc  c     f     -          670   50    0 
+roomie    858501898  5  4 cc  r     b     r          620  120  400 
+roomie    858501980  5  3 cc  f     -     -          900   20    0 
+roomie    858502024  5  2 Bf  -     -     -          880   10    0 
+roomie    858502040  5  1 Bc  kc    kc    kc         870   70    0 Kh Jd
+roomie    858502091  5  5 c   f     -     -          800   20    0 
+roomie    858502119  5  4 c   b     -     -          780   20   50 
+roomie    858502149  5  3 cc  c     c     c          810   80    0 8h 7d
+roomie    858502182  5  2 Bcc rr    rr    b          730  180    0 9c Jh
+roomie    858502238  5  1 Br  br    b     b          550  110  330 Js 7h
+roomie    858502306  5  5 r   brc   rc    rc         770  230  695 9h Qh
+roomie    858502381  4  3 f   -     -     -         1235    0    0 
+roomie    858502422  4  2 Bk  k     b     k         1235   30   45 3c 4c
+roomie    858502472  4  1 Bf  -     -     -         1250    5    0 
+roomie    858502500  4  4 f   -     -     -         1245    0    0 
+roomie    858502537  3  3 r   -     -     -         1245   20   35 
+roomie    858502548  3  2 Bc  f     -     -         1260   20    0 
+roomie    858502580  3  1 Bc  kf    -     -         1240   10    0 
+roomie    858502599  3  3 c   c     f     -         1230   20    0 
+roomie    858502625  2  1 Bc  kc    k     b         1210   50   80 
+roomie    858502653  2  1 Bcc b     b     -         1240   50   80 
+roomie    858502673  2  2 B   -     -     -         1270   10   15 
+roomie    858502676  2  1 Br  b     b     b         1275   70  140 9s 9d
+roomie    858502695  2  2 B   -     -     -         1345   10   15 
+roomie    858502700  2  1 Bcc kc    kr    b         1350   90  180 7h Jh
+roomie    858502735  2  2 B   -     -     -         1440   10   15 
+roomie    858502739  2  1 Bf  -     -     -         1445    5    0 
+roomie    858502745  2  2 Bc  f     -     -         1440   20    0 
+roomie    858502754  2  1 Bf  -     -     -         1420    5    0 
+roomie    858502758  2  2 Bc  c     c     b         1415   70  140 Tc 9c
+roomie    858502780  2  1 Bf  -     -     -         1485    5    0 
+roomie    858502785  2  2 Bc  k     c     c         1480   60  120 9d Kh
+roomie    858502805  2  1 Bf  -     -     -         1540    5    0 
+roomie    858502810  2  2 Bc  c     c     c         1535   70    0 9s Ah
+roomie    858502827  2  1 Bcc k     b     -         1465   40   60 
+roomie    858502844  2  2 B   -     -     -         1485   10   15 
+roomie    858502847  2  1 Bcc kc    b     -         1490   50   80 
+roomie    858502866  2  2 Bc  c     rc    c         1520  110    0 Qc Jd
+roomie    858502891  2  1 Bc  bc    b     b         1410   70  140 2c 4c
+roomie    858502911  2  2 B   -     -     -         1480   10   15 
+roomie    858502917  2  1 Br  b     kc    kc        1485   70    0 Qh Kh
+roomie    858502939  2  2 B   -     -     -         1415   10   15 
+roomie    858502942  2  1 Bcc kf    -     -         1420   20    0 
+roomie    858502955  2  2 Br  bc    r     r         1400  120  240 Qh Kc
+roomie    858502979  2  1 Bc  k     kf    -         1520   10    0 
+roomie    858503028  2  2 Bc  c     f     -         1510   30    0 
+roomie    858503041  2  1 Bc  k     kf    -         1480   10    0 
+roomie    858503057  2  2 Bc  c     f     -         1470   30    0 
+roomie    858503070  2  1 Br  b     -     -         1440   30   50 
+roomie    858503081  2  2 Bc  c     r     -         1460   70  120 
+roomie    858503096  2  1 Br  -     -     -         1510   20   30 
+roomie    858503103  2  2 Bf  -     -     -         1520   10    0 
+roomie    858503108  2  1 Bc  kc    k     k         1510   20   40 8s Jc
+roomie    858503133  2  2 Bk  b     r     b         1530   80    0 Kc 2s
+roomie    858503158  2  1 Bcc kc    kc    kc        1450   70    0 9h Jc
+roomie    858503182  2  2 Bf  -     -     -         1380   10    0 
+roomie    858503190  2  1 Brc k     kr    -         1370   70  120 
+roomie    858503216  2  2 Br  b     b     -         1420   60  100 
+roomie    858503233  2  1 Br  k     b     -         1460   40   60 
+roomie    858503249  2  2 B   -     -     -         1480   10   15 
+roomie    858503251  2  1 Bf  -     -     -         1485    5    0 
+roomie    858503257  2  2 Br  b     -     -         1480   40   70 
+roomie    858503270  2  1 Bf  -     -     -         1510    5    0 
+roomie    858503275  2  2 Bc  c     rc    c         1505  110    0 Ah 5c
+roomie    858503296  2  1 Bcc kr    b     b         1395   80  160 7d Jd
+roomie    858503329  2  2 Bc  f     -     -         1475   20    0 
+roomie    858503343  2  1 Bcc kc    k     bc        1455   70    0 2s Ac
+roomie    858503368  2  2 Bc  f     -     -         1385   20    0 
+roomie    858503380  2  1 Bcc b     b     b         1365   70  140 2s 5d
+roomie    858503406  2  2 Bc  c     r     b         1435   90    0 7d 6c
+roomie    858503427  2  1 Bc  kr    -     -         1345   30   50 
+roomie    858503447  2  2 Bc  f     -     -         1365   20    0 
+roomie    858503460  2  1 Br  b     b     b         1345   70    0 9h 3h
+roomie    858503479  2  2 B   -     -     -         1275   10   15 
+roomie    858503484  2  1 Br  k     kf    -         1280   20    0 
+roomie    858503502  2  2 B   -     -     -         1260   10   15 
+roomie    858503503  2  1 Bc  kf    -     -         1265   10    0 
+roomie    858503516  2  2 Bf  -     -     -         1255   10    0 
+roomie    858503522  2  1 Br  b     kc    kc        1245   70    0 Td As
+roomie    858503550  2  2 Bc  f     -     -         1175   20    0 
+roomie    858503561  2  1 Br  b     b     k         1155   50   50 8h Js
+roomie    858503583  2  2 Bf  -     -     -         1155   10    0 
+roomie    858503591  2  1 Br  b     b     b         1145   70    0 Qc Qh
+roomie    858503609  2  2 Br  r     b     b         1075   90  180 Th Ah
+roomie    858503628  2  1 Br  b     -     -         1165   30   50 
+roomie    858503638  2  2 Bc  f     -     -         1185   20    0 
+roomie    858503649  2  1 Bf  -     -     -         1165    5    0 
+roomie    858503654  2  2 Bk  c     r     -         1160   60  100 
+roomie    858503670  2  1 Bc  bc    k     k         1200   30   60 Kh 7d
+roomie    858503696  2  2 Bc  c     rc    c         1230  110    0 Qh 9s
+roomie    858503719  2  1 Bc  kf    -     -         1120   10    0 
+roomie    858503736  2  2 Bk  c     b     -         1110   40   60 
+roomie    858503752  2  1 Br  b     b     -         1130   50   80 
+roomie    858503765  2  2 Bc  c     c     k         1160   50  100 6c 2d
+roomie    858503785  3  1 Bc  k     b     bc        1210   70    0 6h 7s
+roomie    858503817  3  3 f   -     -     -         1140    0    0 
+roomie    858503831  3  2 Bf  -     -     -         1140   10    0 
+roomie    858503850  3  1 Bc  kc    b     b         1130   80  220 Kd 9d
+roomie    858503884  3  3 rc  rc    k     c         1270   80  165 Ac Jc
+roomie    858503925  3  2 B   -     -     -         1355   10   15 
+roomie    858503932  2  1 Br  brc   krrc  kc        1360  180    0 3h 3d
+roomie    858503982  2  2 Bc  f     -     -         1180   20    0 
+roomie    858504001  2  1 Bcc kc    k     k         1160   30   60 Ah 2s
+roomie    858504023  2  2 Bk  c     c     c         1190   60  120 9c 9s
+roomie    858504111  2  1 Bc  k     kc    k         1250   30    0 3h 4s
+roomie    858504112  2  2 Bc  b     -     -         1220   30   50 
+roomie    858504114  2  1 Br  bf    -     -         1240   30    0 
+roomie    858504115  2  2 Bf  -     -     -         1210   10    0 
+roomie    858504116  2  1 Bcc b     b     -         1200   50   80 
+roomie    858504117  2  2 B   -     -     -         1230   10   15 
+roomie    858504118  2  1 Brr br    b     b         1235  110    0 9c 9d
+roomie    858504130  2  2 Br  b     -     -         1125   30   50 
+roomie    858504144  2  1 Br  -     -     -         1145   20   30 
+roomie    858504148  2  2 B   -     -     -         1155   10   15 
+roomie    858504150  2  1 Brc k     bc    kc        1160   90    0 Ts Ac
+roomie    858504177  3  3 cc  c     c     c         1070   70    0 7s Js
+roomie    858504203  3  2 Br  b     kc    kf        1000   60    0 
+roomie    858504261  3  1 Bc  kc    b     -          940   40   60 
+roomie    858504285  3  3 cc  f     -     -          960   20    0 
+roomie    858504315  4  3 rc  rf    -     -          940   50    0 
+roomie    858504346  4  2 Bk  c     f     -          890   20    0 
+roomie    858504368  4  1 Bc  kc    kr    -          870   60  110 
+roomie    858504400  4  4 c   k     c     k          920   30    0 5s 3h
+roomie    858504664  3  2 c   k     k     b          890   30   40 
+roomie    858504714  4  2 Bk  f     -     -          900   10    0 
+roomie    858504743  4  1 Bcc krc   kc    kc         890  100    0 6h 9d
+roomie    858504864  4  4 c   k     b     -          790   30   60 
+roomie    858504932  5  3 ccc brc   br    b          820  150  380 9c 5c
+roomie    858505010  5  2 Bc  kf    -     -         1050   20    0 
+roomie    858505044  5  1 Bc  k     kf    -         1030   10    0 
+roomie    858505089  5  5 c   f     -     -         1020   20    0 
+roomie    858505140  5  4 cc  c     c     k         1000   50    0 9c Kd
+roomie    858505203  5  3 c   kf    -     -          950   10    0 
+roomie    858505278  5  2 Bc  bc    bc    kc         940  100    0 9s 9h
+roomie    858505331  5  1 BQ  -     -     -          840    5    0 
+roomie    858548524  4  3 KQ  -     -     -          835    0    0 
+roomie    858548654  5  5 cc  f     -     -          835   30    0 
+roomie    858548743  6  5 KQ  -     -     -          805    0    0 
+roomie    858548956  8  2 Bc  kc    kf    -          805   30    0 
+roomie    858549051  6  1 Bc  bc    k     b          775   50  130 Ah 7s
+roomie    858549111  7  7 c   c     c     KQ         855   50    0 
+roomie    858630622  8  6 cc  kf    -     -          805   20    0 
+roomie    858630676  6  4 rc  kc    kc    kc         785   80    0 Ks Ad
+roomie    858630767  6  3 f   -     -     -          705    0    0 
+roomie    858630805  6  1 B   -     -     -          705   10   10 
+roomie    858630829  6  1 Bf  -     -     -          705    5    0 
+roomie    858630892  6  6 f   -     -     -          700    0    0 
+roomie    858630948  8  7 c   k     kKQ   -          700   10    0 
+roomie    858862045  2  1 Bc  b     -     -          690   20   30 
+roomie    858862069  2  2 B   -     -     -          700   10   15 
+roomie    858862080  2  1 Bc  k     k     k          705   10   20 8h 2s
+roomie    858862167  2  2 Br  b     -     -          715   30   50 
+roomie    858862183  2  1 Bc  k     kf    -          735   10    0 
+roomie    858862203  2  2 B   -     -     -          725   10   15 
+roomie    858862209  2  1 Bc  kf    -     -          730   10    0 
+roomie    858862225  2  2 Bk  k     c     c          720   50    0 6s Qc
+roomie    858862259  2  1 Bc  k     k     k          670   10   20 Ks 2d
+roomie    858862284  2  2 Bk  k     b     b          680   50   80 
+roomie    858862313  2  1 Bc  k     k     kf         710   10    0 
+roomie    858862396  2  2 B   -     -     -          700   10   15 
+roomie    858862401  2  1 Bc  kf    -     -          705   10    0 
+roomie    858862414  2  2 B   -     -     -          695   10   15 
+roomie    858862418  2  1 Bc  b     kc    k          700   40   80 4d Ah
+roomie    858862453  2  2 B   -     -     -          740   10   15 
+roomie    858862459  2  1 Bc  k     kf    -          745   10    0 
+roomie    858862476  2  2 B   -     -     -          735   10   15 
+roomie    858862480  2  1 Bc  k     k     b          740   30   40 
+roomie    858862504  2  2 Bk  k     b     -          750   30   40 
+roomie    858862524  2  1 Br  -     -     -          760   20   30 
+roomie    858862532  2  2 B   -     -     -          770   10   15 
+roomie    858862538  2  1 BQ  -     -     -          775    5   15 
+roomie    858863104  2  1 BKQ -     -     -          785    5    0 
+roomie    859238185  4  4 f   -     -     -          780    0    0 
+roomie    859238200  2  1 BQ  -     -     -          780   10   10 
+roomie    859241696  2  1 Br  -     -     -          780   20   30 
+roomie    859241711  3  3 c   b     b     b          790   60  120 
+roomie    859241754  4  3 f   -     -     -          850    0    0 
+roomie    859241814  4  2 Bc  kf    -     -          850   20    0 
+roomie    859241860  5  1 Bc  k     bc    krc        830  110    0 8c Kh
+roomie    859241962  7  7 cc  f     -     -          720   20    0 
+roomie    859242024  7  6 c   f     -     -          700   20    0 
+roomie    859242083  6  6 cA  -     -     -          680   10    0 5s 3c
+roomie    859552539  4  2 Bf  -     -     -         1000   10    0 
+roomie    859552550  4  1 Bf  -     -     -          990    5    0 
+roomie    859552565  3  3 f   -     -     -          985    0    0 
+roomie    859552571  3  2 B   -     -     -          985   10   15 
+roomie    859552575  3  1 Bf  -     -     -          990    5    0 
+roomie    859552580  3  3 cc  c     c     b          985   70  130 
+roomie    859552602  3  2 Bk  b     k     f         1045   20    0 
+roomie    859552625  3  1 Bc  kf    -     -         1025   10    0 
+roomie    859552639  3  3 r   -     -     -         1015   20   35 
+roomie    859552646  3  2 Bk  k     kc    k         1030   30   65 Qs Th
+roomie    859552666  3  1 Bf  -     -     -         1065    5    0 
+roomie    859552673  3  3 f   -     -     -         1060    0    0 
+roomie    859552681  3  2 Bc  c     c     r         1060   90  180 8h 8d
+roomie    859552701  3  1 Bf  -     -     -         1150    5    0 
+roomie    859552724  3  3 f   -     -     -         1145    0    0 
+roomie    859552733  3  2 Bc  kf    -     -         1145   20    0 
+roomie    859552747  3  1 Bf  -     -     -         1125    5    0 
+roomie    859552759  3  3 f   -     -     -         1120    0    0 
+roomie    859552768  3  2 Bc  kf    -     -         1120   20    0 
+roomie    859552780  4  1 Bc  kc    kf    -         1100   30    0 
+roomie    859552814  4  4 c   c     r     b         1070  110    0 Tc Jh
+roomie    859552852  4  3 f   -     -     -          960    0    0 
+roomie    859552871  4  2 Bc  kf    -     -          960   20    0 
+roomie    859552894  3  1 Bcc bc    k     kc         940   60    0 Kh Js
+roomie    859552941  3  3 cc  c     c     c          880   70    0 9d 6c
+roomie    859552968  3  2 Bc  b     b     k          810   50  100 Jh 9c
+roomie    859552996  3  1 Bf  -     -     -          860    5    0 
+roomie    859553007  3  3 c   k     f     -          855   10    0 
+roomie    859553027  4  2 Bc  k     f     -          845   20    0 
+roomie    859553050  4  1 Bf  -     -     -          825    5    0 
+roomie    859553059  4  4 f   -     -     -          820    0    0 
+roomie    859553077  4  3 f   -     -     -          820    0    0 
+roomie    859553108  4  2 Bk  k     k     k          820   10   10 2s 7s
+roomie    859553130  4  1 Bf  -     -     -          820    5    0 
+roomie    859553158  4  4 f   -     -     -          815    0    0 
+roomie    859553180  4  3 c   f     -     -          815   10    0 
+roomie    859553202  4  2 B   -     -     -          805   10   15 
+roomie    859553210  4  1 Bf  -     -     -          810    5    0 
+roomie    859553221  4  4 f   -     -     -          805    0    0 
+roomie    859553245  4  3 f   -     -     -          805    0    0 
+roomie    859553267  3  2 Bk  b     bc    kc         805   80    0 Kh 9s
+roomie    859553306  4  1 Bcc kf    -     -          725   20    0 
+roomie    859553362  4  4 c   k     k     k          705   10    0 6h 3c
+roomie    859553395  4  3 f   -     -     -          695    0    0 
+roomie    859553400  4  2 Bf  -     -     -          695   10    0 
+roomie    859553422  4  1 Bc  b     -     -          685   20   40 
+roomie    859553498  2  2 Q   -     -     -          705    0   10 
+roomie    859553635  2  1 BcA -     -     -           10   10    0 Qh 4s
+roomie    859553683  2  1 Bc  kc    k     kc         705   40    0 3c Ah
+roomie    859553709  2  2 B   -     -     -          665   10   15 
+roomie    859553711  2  1 Bc  b     -     -          670   20   30 
+roomie    859553723  2  2 B   -     -     -          680   10   15 
+roomie    859553727  2  1 Bc  kf    -     -          685   10    0 
+roomie    859553742  2  2 Bf  -     -     -          675   10    0 
+roomie    859553747  2  1 Bc  k     kc    k          665   30   60 9d 7h
+roomie    859553774  2  2 Br  b     -     -          695   30   50 
+roomie    859553821  2  1 Bf  -     -     -          715    5    0 
+roomie    859553830  2  2 Bc  rc    b     b          710   90  180 Qs Qh
+roomie    859553864  2  1 Bc  b     -     -          800   20   30 
+roomie    859553876  2  2 Bc  f     -     -          810   20    0 
+roomie    859553884  2  1 Bcc kf    -     -          790   20    0 
+roomie    859553897  2  2 Bk  b     -     -          770   20   30 
+roomie    859553908  2  1 Br  -     -     -          780   20   30 
+roomie    859553914  2  2 Bk  b     -     -          790   20   30 
+roomie    859553925  2  1 Bc  b     -     -          800   20   30 
+roomie    859553934  2  2 Bc  f     -     -          810   20    0 
+roomie    859553946  2  1 Bf  -     -     -          790    5    0 
+roomie    859553950  2  2 B   -     -     -          785   10   15 
+roomie    859553953  2  1 Bc  k     kc    k          790   30    0 6s 7c
+roomie    859553971  2  2 Bc  f     -     -          760   20    0 
+roomie    859553984  2  1 Bf  -     -     -          740    5    0 
+roomie    859553988  2  2 Bk  c     f     -          735   20    0 
+roomie    859554011  2  1 Bf  -     -     -          715    5    0 
+roomie    859554016  2  2 B   -     -     -          710   10   15 
+roomie    859554017  2  1 Bc  k     b     -          715   30   40 
+roomie    859554032  2  2 Bc  c     c     c          725   70  140 9s 6d
+roomie    859554052  2  1 Bc  kf    -     -          795   10    0 
+roomie    859554064  2  2 B   -     -     -          785   10   15 
+roomie    859554069  2  1 Bf  -     -     -          790    5    0 
+roomie    859554070  2  2 Br  b     bf    -          785   50    0 
+roomie    859554093  2  1 Bc  kf    -     -          735   10    0 
+roomie    859554105  2  2 Br  k     c     c          725   60  120 7h Ah
+roomie    859554128  2  1 Bcc k     k     k          785   20   20 4h 6h
+roomie    859554149  2  2 Bk  f     -     -          785   10    0 
+roomie    859554160  2  1 Bc  k     kf    -          775   10    0 
+roomie    859554177  2  2 Bc  f     -     -          765   20    0 
+roomie    859554187  2  1 Bc  kf    -     -          745   10    0 
+roomie    859554199  2  2 Bk  k     b     -          735   30   40 
+roomie    859554216  2  1 Br  -     -     -          745   20   30 
+roomie    859554221  2  2 Bc  f     -     -          755   20    0 
+roomie    859554231  2  1 Bcc k     kf    -          735   20    0 
+roomie    859554252  2  2 B   -     -     -          715   10   15 
+roomie    859554254  2  1 Bc  kf    -     -          720   10    0 
+roomie    859554267  2  2 Bc  b     b     -          710   50   80 
+roomie    859554287  2  1 Bc  kf    -     -          740   10    0 
+roomie    859554305  2  2 B   -     -     -          730   10   15 
+roomie    859554309  2  1 Bcc kf    -     -          735   20    0 
+roomie    859554326  2  2 Br  r     c     b          715   80  160 Ad 5d
+roomie    859554356  2  1 Br  -     -     -          795   20   30 
+roomie    859554362  2  2 B   -     -     -          805   10   15 
+roomie    859554364  2  1 Bcc kf    -     -          810   20    0 
+roomie    859554381  3  3 f   -     -     -          790    0    0 
+roomie    859554386  3  2 Bc  c     f     -          790   30    0 
+roomie    859554410  3  1 Bc  b     -     -          760   20   30 
+roomie    859554425  3  3 c   b     -     -          770   20   40 
+roomie    859554447  3  2 Bk  kf    -     -          790   10    0 
+roomie    859554464  3  1 Bc  kc    kcc   k          780  100  300 7s Ts
+roomie    859554507  3  3 f   -     -     -          980    0    0 
+roomie    859554519  3  2 Br  b     -     -          980   30   50 
+roomie    859554532  3  1 Bf  -     -     -         1000    5    0 
+roomie    859554538  3  3 f   -     -     -          995    0    0 
+roomie    859554544  3  2 Bc  f     -     -          995   20    0 
+roomie    859554557  3  1 Bcc bf    -     -          975   30    0 
+roomie    859554573  3  3 c   f     -     -          945   10    0 
+roomie    859554595  3  2 Br  bc    k     k          935   40   85 Ah 9s
+roomie    859554635  3  1 Bc  k     kf    -          980   10    0 
+roomie    859554657  3  3 c   f     -     -          970   10    0 
+roomie    859554676  3  2 Bc  b     b     -          960   50  100 
+roomie    859554703  3  1 Bc  k     k     k         1010   10   30 Ah 6c
+roomie    859554738  3  3 f   -     -     -         1030    0    0 
+roomie    859554748  3  2 B   -     -     -         1030   10   15 
+roomie    859554761  3  1 Br  -     -     -         1035   20   30 
+roomie    859554768  3  3 cc  f     -     -         1045   20    0 
+roomie    859554789  3  2 B   -     -     -         1025   10   15 
+roomie    859554791  3  1 Bc  k     b     -         1030   30   40 
+roomie    859554808  4  4 r   k     r     k         1040   60  145 Qh Kh
+roomie    859554862  5  4 c   k     b     -         1125   30   45 
+roomie    859554890  4  2 Bc  kf    -     -         1140   20    0 
+roomie    859554909  5  1 Bc  kf    -     -         1120   20    0 
+roomie    859554929  5  5 cc  Q     -     -         1100   20    0 
+roomie    859675246  7  3 c   kf    -     -         1080   10    0 
+roomie    859675299  7  2 Bk  kc    kc    kf        1070   40    0 
+roomie    859675365  7  1 Bc  kf    -     -         1030   10    0 
+roomie    859675443  8  7 c   bc    k     k         1020   30  120 8d Qd
+roomie    859675528  8  6 f   -     -     -         1110    0    0 
+roomie    859675592  8  5 cc  f     -     -         1110   20    0 
+roomie    859675632  8  4 f   -     -     -         1090    0    0 
+roomie    859675665  8  3 c   kc    kf    -         1090   20    0 
+roomie    859675751  8  2 Bk  k     kf    -         1070   10    0 
+roomie    859675834  8  1 Bf  -     -     -         1060    5    0 
+roomie    859675897  8  8 c   c     k     f         1055   20    0 
+roomie    859675959  8  7 r   r     c     b         1035   80  265 Ad Qd
+roomie    859676051  8  6 f   -     -     -         1220    0    0 
+roomie    859676098  8  5 c   k     k     f         1220   10    0 
+roomie    859676176  8  4 f   -     -     -         1210    0    0 
+roomie    859676248  8  3 fQ  -     -     -         1210    0    0 
+roomie    859842470  9  7 c   kf    -     -         1210   10    0 
+roomie    859842520  8  5 c   k     k     f         1200   10    0 
+roomie    859842587  9  4 c   f     -     -         1190   20    0 
+roomie    859842625 10  3 f   -     -     -         1170    0    0 
+roomie    859842674 10  2 Bk  kf    -     -         1170   10    0 
+roomie    859842799 12  1 Bf  -     -     -         1160    5    0 
+roomie    859842913 11 11 c   c     f     -         1155   20    0 
+roomie    859843019 12 11 f   -     -     -         1135    0    0 
+roomie    859843098 12 10 f   -     -     -         1135    0    0 
+roomie    859843240 12  9 cc  rc    kf    -         1135   50    0 
+roomie    859843389 12  8 r   b     c     f         1085   50    0 
+roomie    859843540 11  6 c   f     -     -         1035   10    0 
+roomie    859843612 11  5 cc  kf    -     -         1025   20    0 
+roomie    859843744  9  4 c   kf    -     -         1005   10    0 
+roomie    859843802 10  4 cc  ccc   cc    kf         995  110    0 
+roomie    859843913 10  3 c   kf    -     -          885   10    0 
+roomie    859844035  9  2 Bf  -     -     -          875   10    0 
+roomie    859844127  8  1 BcA -     -     -           10   10    0 3d 6s

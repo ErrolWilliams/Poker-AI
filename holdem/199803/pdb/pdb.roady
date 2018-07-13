@@ -1,0 +1,456 @@
+roady     890276329 10  9 f   -     -     -         1000    0    0 
+roady     890276376  9  8 f   -     -     -         1000    0    0 
+roady     890276419 10  7 f   -     -     -         1000    0    0 
+roady     890276468 10  6 cc  r     b     b         1000   80  230 Qs Qd
+roady     890276516 10  5 f   -     -     -         1150    0    0 
+roady     890276594 10  4 cc  kf    -     -         1150   40    0 
+roady     890276664 10  3 cc  k     kf    -         1110   15    0 
+roady     890276738  9  1 Bk  kc    kf    -         1095   20    0 
+roady     890276785 10  1 Bf  -     -     -         1075    5    0 
+roady     890276851 10 10 c   r     c     k         1070   60   66 8h 6h
+roady     890276959 10  9 f   -     -     -         1076    0    0 
+roady     890277041 10  8 c   k     cc    c         1076  120    0 Qh Jh
+roady     890277128 10  7 f   -     -     -          956    0    0 
+roady     890277191 10  6 c   c     c     c          956   60    0 6d 4d
+roady     890277251 10  5 f   -     -     -          896    0    0 
+roady     890277322 10  4 rc  bc    kcc   kc         896  120    0 Ad Ah
+roady     890277384 10  3 cc  f     -     -          776   20    0 
+roady     890277441 10  2 Bk  kf    -     -          756   10    0 
+roady     890277475 10  1 Bc  kcc   kf    -          746   50    0 
+roady     890277571 10 10 cc  r     b     k          696   70    0 9d 6c
+roady     890277627 10  9 c   c     c     c          626   60  165 Qc Tc
+roady     890277668 10  8 c   k     c     f          731   30    0 
+roady     890277712 10  7 cc  rc    c     k          701   70  145 Ah Td
+roady     890277759 10  6 c   f     -     -          776   10    0 
+roady     890277800 10  5 c   f     -     -          766   20    0 
+roady     890277844 10  4 c   k     b     b          746   50  170 4c Ah
+roady     890277915 10  3 c   k     k     k          866   10   50 7c 8c
+roady     890278007 10  2 Bc  kc    kc    kf         906   50    0 
+roady     890278046 10  1 Bc  kc    kf    -          856   30    0 
+roady     890278087 10 10 c   k     k     k          826   20    0 Ts Jc
+roady     890278131 10  9 c   b     bc    k          806   70  285 Jc Ah
+roady     890278200 10  8 cc  ccc   kcc   c         1021  180    0 Qh 7s
+roady     890278283 10  7 rr  b     b     b          841   90  175 
+roady     890278319 10  6 f   -     -     -          926    0    0 
+roady     890278393 10  5 c   k     k     f          926   20    0 
+roady     890278455 10  4 cc  r     b     k          906   60    0 6d 9h
+roady     890278518 10  3 cc  kc    kf    -          846   40    0 
+roady     890278603 10  2 Bf  -     -     -          806   10    0 
+roady     890278670 10  1 Bc  k     k     kf         796   10    0 
+roady     890278733 10 10 c   c     c     rc         786  110    0 Kd Jd
+roady     890278780 10  9 c   k     c     f          676   40    0 
+roady     890278821 10  8 fQQ -     -     -          636    0    0 
+roady     890437263  8  6 c   f     -     -          636   10    0 
+roady     890437323 10  7 c   k     k     f          626   10    0 
+roady     890437385 10  6 c   rc    kcc   bc         616  160  775 9c Qs
+roady     890437456  9  5 cc  kc    kcc   kc        1231   90    0 Jd 8d
+roady     890437567  9  4 f   -     -     -         1141    0    0 
+roady     890437633 10  3 cc  kc    kc    bc        1141   90  290 4s 4d
+roady     890437699  9  2 Bcc kcc   f     -         1341   70    0 
+roady     890437783  9  1 Bcc bc    kc    kf        1271  100    0 
+roady     890437860  9  9 c   c     c     c         1171   70    0 Ts Kh
+roady     890437903  9  8 f   -     -     -         1101    0    0 
+roady     890437946  9  7 cc  cc    c     f         1101   60    0 
+roady     890437999  9  6 cc  c     c     bc        1041   90  173 6s Kh
+roady     890438058 10  5 cc  kc    kc    kc        1124   80  125 Ad 3h
+roady     890438140 10  4 cc  kf    -     -         1169   20    0 
+roady     890438211 10  3 cc  kcc   kc    kf        1149   70    0 
+roady     890438319 10  2 Bcc kcc   k     kf        1079   80    0 
+roady     890438419 10  1 Bc  kc    kf    -          999   30    0 
+roady     890438473 10 10 c   cc    k     k          969   50    0 Qh Js
+roady     890438532 10  9 f   -     -     -          919    0    0 
+roady     890438610 10  8 cc  cc    c     f          919   70    0 
+roady     890438683 10  7 cc  bc    kc    bc         849  110  405 7s 3h
+roady     890438751 10  6 cc  ccc   f     -         1144   60    0 
+roady     890438866 10  5 cc  kc    kf    -         1084   30    0 
+roady     890438963 10  4 rr  brc   bc    kc        1054  140    0 9s Ad
+roady     890439005  9  2 QQ  -     -     -          914    0    0 
+roady     890614010 10  7 cc  cc    c     cf         914   90    0 
+roady     890614148 10  6 ccc kc    kc    k          824   70  375 3c 2s
+roady     890614257 10  5 c   k     kf    -         1129   10    0 
+roady     890614341 10  4 f   -     -     -         1119    0    0 
+roady     890614411 10  3 c   bc    b     bf        1119   70    0 
+roady     890614477 10  2 Bk  kf    -     -         1049   10    0 
+roady     890614566 10  1 Bf  -     -     -         1039    5    0 
+roady     890614640 10 10 f   -     -     -         1034    0    0 
+roady     890614721  8  8 cc  c     f     -         1034   30    0 
+roady     890614792 10  8 cc  rc    c     b         1004   90    0 3s 7s
+roady     890614856 10  7 cc  kf    -     -          914   20    0 
+roady     890614951 10  6 cc  kc    k     kc         894   50    0 Ah 3s
+roady     890615048 10  5 ccc kc    kf    -          844   50    0 
+roady     890615182 10  4 f   -     -     -          794    0    0 
+roady     890615286  8  3 f   -     -     -          794    0    0 
+roady     890615326 10  2 Bk  kc    f     -          794   20    0 
+roady     890615394 10  1 Bf  -     -     -          774    5    0 
+roady     890615436 10 10 f   -     -     -          769    0    0 
+roady     890615515 10  9 cc  cc    c     f          769   90    0 
+roady     890615632 10  8 c   c     c     cc         679  130    0 8h 6s
+roady     890615756 10  7 c   c     c     f          549   40    0 
+roady     890615869 10  6 f   -     -     -          509    0    0 
+roady     890615928 10  5 cc  cc    c     c          509  120  630 7c Jc
+roady     890616045 10  3 Q   -     -     -         1019    0    0 
+roady     890671400  7  6 f   -     -     -         1019    0    0 
+roady     890671470  6  5 c   kc    f     -         1019   20    0 
+roady     890671554  7  4 c   k     QQ    -          999   10    0 
+roady     890696715  9  9 c   c     b     c          989   60    0 5d Js
+roady     890696837 10  9 cc  cc    f     -          929   80    0 
+roady     890696939 10  8 f   -     -     -          849    0    0 
+roady     890696999 10  7 f   -     -     -          849    0    0 
+roady     890697072 10  6 cc  f     -     -          849   40    0 
+roady     890697160 10  3 Q   -     -     -          809    0    0 
+roady     890763949  9  7 c   c     c     cc         809   90    0 As 6c
+roady     890764027 10  6 f   QQ    -     -          719    0    0 
+roady     890777607 10  2 Bcc kf    -     -          719   40    0 
+roady     890777757  7  1 Bc  kf    -     -          679   10    0 
+roady     890777800  8  8 c   k     f     -          669   10    0 
+roady     890777849  7  6 c   c     r     c          659   80    0 Qs 2c
+roady     890777898  8  6 c   c     c     c          579   60  135 Jd Ks
+roady     890777940  7  4 c   bc    b     b          654   80  205 Kh Ah
+roady     890778021  8  4 c   c     b     b          779   70    0 9s 8h
+roady     890778097  8  3 f   Q     Q     -          709    0    0 
+roady     890785377  9  9 cc  r     b     b          709   90  215 9h 9c
+roady     890785422  9  8 c   c     f     -          834   20    0 
+roady     890785497 10  8 f   -     -     -          814    0    0 
+roady     890785573 10  7 cc  kc    kf    -          814   30    0 
+roady     890785635 10  6 f   -     -     -          784    0    0 
+roady     890785723 10  5 f   -     -     -          784    0    0 
+roady     890785910  9  4 f   -     -     -          784    0    0 
+roady     890786004  9  3 c   b     -     -          784   20   35 
+roady     890786020  9  2 Bf  -     -     -          799   10    0 
+roady     890786076  8  1 Bc  br    b     b          789   80  160 5c Qh
+roady     890786107  9  9 f   -     -     -          869    0    0 
+roady     890786172  9  8 c   c     rc    r          869  120  250 
+roady     890786224  8  6 cc  kc    kc    kf         999   50    0 
+roady     890786274  8  5 cc  krc   kc    kf         949   70    0 
+roady     890786319  9  4 f   -     -     -          879    0    0 
+roady     890786378 10  3 r   b     b     bc         879   90    0 Tc Td
+roady     890786426  9  2 Bk  kc    k     kf         789   20    0 
+roady     890786495  9  1 Bc  kc    kf    -          769   50    0 
+roady     890786557  8  8 f   -     -     -          719    0    0 
+roady     890786615  9  8 c   kf    -     -          719   10    0 
+roady     890786641  9  7 c   c     b     r          709   80  160 
+roady     890786687  9  6 cc  kc    kc    kf         789   50    0 
+roady     890786756  9  4 f   -     -     -          739    0    0 
+roady     890786814  9  3 c   r     b     b          739   70  190 
+roady     890786867 10  2 Bc  kf    -     -          859   20    0 
+roady     890786927  9  1 Bc  bc    kf    -          839   40    0 
+roady     890786989  9  9 f   -     -     -          799    0    0 
+roady     890787036  9  8 c   b     -     -          799   20   70 
+roady     890787094  8  7 cc  kc    kc    kc         849   70    0 Kd 6c
+roady     890787169  9  6 c   b     r     b          779   90  195 Qh Ad
+roady     890787206  9  5 cc  r     rc    k          884  120    0 9c Th
+roady     890787307  9  4 f   -     -     -          764    0    0 
+roady     890787371  9  3 c   cc    k     c          764   50    0 5h 5s
+roady     890787447  9  2 BQQ -     -     -          714   10    0 
+roady     890868649  9  4 cc  kc    kc    k          704   60  265 Kh 6s
+roady     890868760  8  2 cc  cc    kf    -          909   40    0 
+roady     890868816 10  2 Bc  kc    kc    kf         869   90    0 
+roady     890868872 10  1 Bf  -     -     -          779    5    0 
+roady     890868961 10 10 cc  c     cc    f          774  130    0 
+roady     890869054 10  9 f   -     -     -          644    0    0 
+roady     890869136 10  8 f   -     -     -          644    0    0 
+roady     890869227 10  7 c   c     rc    rc         644  150  425 Ac 5c
+roady     890869340 10  6 f   -     -     -          919    0    0 
+roady     890869417 10  5 c   c     bc    f          919   70    0 
+roady     890869490 10  4 f   -     -     -          849    0    0 
+roady     890869565 10  3 f   -     -     -          849    0    0 
+roady     890869652 10  2 Bc  c     c     f          849   50    0 
+roady     890869725 10  1 Bf  -     -     -          799    5    0 
+roady     890869759 10 10 r   rr    r     c          794  120    0 Ks 5s
+roady     890869824 10  9 c   c     k     k          674   20    0 Jd Ad
+roady     890869890 10  8 f   -     -     -          654    0    0 
+roady     890869951 10  7 f   -     -     -          654    0    0 
+roady     890869994  9  5 cc  c     k     c          654   60    0 Kh 7h
+roady     890870047  9  5 f   -     -     -          594    0    0 
+roady     890870101  9  3 cc  kc    kc    k          594   50  185 Tc 6h
+roady     890870181 10  2 Bc  k     k     k          729   20    0 Qc Ts
+roady     890870237 10  1 Bc  kc    kc    kf         709   60    0 
+roady     890870315 10 10 cc  k     f     -          649   20    0 
+roady     890870421 10 10 c   c     f     -          629   20    0 
+roady     890870486  9  8 fQQ -     -     -          609    0    0 
+roady     890954602 10  7 f   -     -     -          609    0    0 
+roady     890954672 10  6 f   -     -     -          609    0    0 
+roady     890954725 10  5 cc  kc    kc    kf         609   60    0 
+roady     890954800 10  4 c   f     -     -          549   10    0 
+roady     890954877 10  3 c   c     c     c          539   60    0 3h 4c
+roady     890954959  9  2 Brc b     brc   br         479  190  495 As Ac
+roady     890955029 10  1 Bc  kf    -     -          784   20    0 
+roady     890955104 10 10 c   b     b     b          764   60  175 Kc Th
+roady     890955198 10  9 f   -     -     -          879    0    0 
+roady     890955267 10  8 c   k     c     k          879   40    0 Ah Ts
+roady     890955348 10  7 c   kc    c     f          839   40    0 
+roady     890955455 10  6 f   -     -     -          799    0    0 
+roady     890955505 10  5 c   cc    kc    k          799   50    0 2c Tc
+roady     890955602 10  4 c   b     b     b          749   60  110 
+roady     890955647 10  3 f   -     -     -          799    0    0 
+roady     890955696 10  2 Bk  kc    kc    kf         799   40    0 
+roady     890955758 10  1 Bc  bc    kc    kc         759   70    0 Ts Jc
+roady     890955813 10 10 f   -     -     -          689    0    0 
+roady     890955937 10  9 f   -     -     -          689    0    0 
+roady     890956036 10  8 c   f     -     -          689   20    0 
+roady     890956077 10  7 f   -     -     -          669    0    0 
+roady     890956194 10  6 fQQ -     -     -          669    0    0 
+roady     890962181  9  8 f   -     -     -          669    0    0 
+roady     890962261  7  6 c   c     c     f          669   50    0 
+roady     890962308  8  4 cc  c     f     -          619   30    0 
+roady     890962377 10  4 f   -     -     -          589    0    0 
+roady     890962421 10  3 ccc cf    -     -          589   50    0 
+roady     890962569 10  2 Bk  kc    kf    -          539   30    0 
+roady     890962646 10  1 Bf  -     -     -          509    5    0 
+roady     890962720 10 10 c   c     c     c          504   70  245 Tc 7h
+roady     890962773 10  9 f   -     -     -          679    0    0 
+roady     890962851 10  8 f   -     -     -          679    0    0 
+roady     890962907 10  7 c   k     k     f          679   10    0 
+roady     890962965 10  6 f   -     -     -          669    0    0 
+roady     890963010 10  5 f   -     -     -          669    0    0 
+roady     890963067 10  4 f   -     -     -          669    0    0 
+roady     890963152 10  3 c   kQQ   -     -          669   10    0 
+roady     890970297  9  4 cc  c     c     c          659   70    0 Jh Ad
+roady     890970325  9  3 cc  kc    kc    f          589   70    0 
+roady     890970403 10  2 Bk  kf    -     -          519   10    0 
+roady     890970435  9  1 Bc  k     k     k          509   10    0 5c Kd
+roady     890970470  9  9 f   -     -     -          499    0    0 
+roady     890970491  9  8 KQ  -     -     -          499    0    0 
+roady     891035133 10  6 f   -     -     -          499    0    0 
+roady     891035160 10  5 c   kc    kf    -          499   20    0 
+roady     891035199 10  4 f   -     -     -          479    0    0 
+roady     891035255 10  4 c   b     b     -          479   40   90 
+roady     891035285 10  2 Bc  kc    kc    kc         529   70  195 6d Ts
+roady     891035327 10  1 Bf  -     -     -          654    5    0 
+roady     891035392  9  9 c   k     k     f          649   10    0 
+roady     891035440  9  8 r   k     b     b          639   70  180 Td Tc
+roady     891035470  9  7 c   r     b     b          749   90  285 Td Kh
+roady     891035513  9  6 c   c     c     c          944   60   90 4s Ad
+roady     891035560  9  5 c   c     c     f          974   50    0 
+roady     891035601  9  4 c   k     c     f          924   30    0 
+roady     891035630  9  3 c   b     b     b          894   60    0 8h As
+roady     891035664 10  2 Bk  k     kcc   b          834   90  300 8c Th
+roady     891035735 10  1 Bc  kf    -     -         1044   10    0 
+roady     891035777 10 10 c   b     b     b         1034   60  125 
+roady     891035825 10  9 c   c     f     -         1099   30    0 
+roady     891035862 10  8 f   -     -     -         1069    0    0 
+roady     891035907 10  7 cc  c     c     k         1069   50    0 3d Td
+roady     891035971 10  6 c   k     f     Q         1019   30    0 
+roady     891055279 10  2 Bc  kf    -     -          989   20    0 
+roady     891055351 10  1 Bc  kf    -     -          969   20    0 
+roady     891055430 10 10 f   -     -     -          949    0    0 
+roady     891055554  9  8 c   k     k     k          949   10   50 Qs 4s
+roady     891055656 10  8 cc  kc    k     c          989   50  135 Qs Qh
+roady     891055698 10  7 f   -     -     -         1074    0    0 
+roady     891055753 10  6 cc  k     c     k         1074   40    0 4c 5c
+roady     891055815 10  5 f   -     -     -         1034    0    0 
+roady     891055844 10  4 f   -     -     -         1034    0    0 
+roady     891055908 10  3 c   c     c     f         1034   40    0 
+roady     891055954 10  2 Bk  kf    -     -          994   10    0 
+roady     891055977 10  1 Bc  kcc   k     kc         984   70    0 Ks Kd
+roady     891056037  9  9 c   cc    c     c          914   80    0 7s Ad
+roady     891056109  8  7 rc  c     c     c          834   80  160 Ad Kd
+roady     891056141 10  8 f   -     -     -          914    0    0 
+roady     891056213 10  7 f   -     -     -          914    0    0 
+roady     891056260 10  6 c   c     f     -          914   20    0 
+roady     891056299 10  5 f   -     -     -          894    0    0 
+roady     891056362 10  4 cc  b     bc    c          894   90    0 Ah 7s
+roady     891056425 10  3 f   -     -     -          804    0    0 
+roady     891056510 10  2 Bk  k     kf    -          804   10    0 
+roady     891056572 10  1 Bc  kc    bc    k          794   80  220 Th Qh
+roady     891056622 10 10 c   c     b     k          934   40    0 6h 6c
+roady     891056684 10  9 c   f     -     -          894   10    0 
+roady     891056746 10  8 f   -     -     -          884    0    0 
+roady     891056822 10  7 c   brc   b     b          884   90  275 7h 5h
+roady     891056956 10  6 c   f     -     -         1069   10    0 
+roady     891057020  9  4 c   kf    -     -         1059   10    0 
+roady     891057090  8  4 f   -     -     -         1049    0    0 
+roady     891057128 10  3 cc  kc    kc    kc        1049   70  185 Jd Ac
+roady     891057182 10  2 Bc  cf    -     -         1164   30    0 
+roady     891057250 10  1 Bc  kf    -     -         1134   10    0 
+roady     891057304  9  9 f   -     -     -         1124    0    0 
+roady     891057340 10  9 c   k     kc    k         1124   30    0 Tc 8c
+roady     891057399 10  8 f   -     -     -         1094    0    0 
+roady     891057451 10  8 f   -     -     -         1094    0    0 
+roady     891057513  8  5 c   k     kc    kf        1094   30    0 
+roady     891057570 10  5 r   b     b     b         1064   70  190 Ks Ad
+roady     891057631 10  4 c   c     f     -         1184   20    0 
+roady     891057699 10  3 cc  kc    kf    -         1164   30    0 
+roady     891057752  9  2 Bk  bc    b     bc        1134   90  185 Ac 8d
+roady     891057800  9  1 Bc  k     kf    QQ        1229   10    0 
+roady     891098649 10 10 c   f     -     -         1219   10    0 
+roady     891098679 10  9 cc  c     c     f         1209   50    0 
+roady     891098703  9  7 c   f     -     -         1159   10    0 
+roady     891098744  8  5 c   k     k     k         1149   10   35 Kc Qs
+roady     891098785  9  4 f   -     -     -         1174    0    0 
+roady     891098794  9  3 f   -     -     -         1174    0    0 
+roady     891098831 10  3 c   b     k     k         1174   20   60 7d 5d
+roady     891098866 10  2 Bk  kc    kc    k         1214   40    0 7c Jh
+roady     891098904  9  1 Bc  kf    -     -         1174   10    0 
+roady     891098959  9  9 c   k     k     k         1164   10    0 Qc Jh
+roady     891099011  9  8 c   b     b     b         1154   60  155 6c 5s
+roady     891099090  9  7 c   c     c     c         1249   90    0 Ks Jc
+roady     891099149  9  6 c   c     c     f         1159   40    0 
+roady     891099209  9  5 ccc c     c     f         1119  100    0 
+roady     891099270 10  4 cc  kc    k     kf        1019   30    0 
+roady     891099332 10  3 f   -     -     -          989    0    0 
+roady     891099369 10  2 Bc  c     kc    kc         989   80  390 Ac Qh
+roady     891099441 10  1 Bc  kcc   kf    -         1299   50    0 
+roady     891099516 10 10 f   -     -     -         1249    0    0 
+roady     891099584  7  7 f   -     -     -         1249    0    0 
+roady     891099643  8  6 c   f     -     -         1249   10    0 
+roady     891099735  8  6 c   k     k     k         1239   10    0 4c 5d
+roady     891099769  8  5 c   c     c     f         1229   40    0 
+roady     891099813  8  4 c   kc    kf    -         1189   20    0 
+roady     891099871  8  3 cc  kc    kc    k         1169   50    0 7c 5c
+roady     891099916  8  2 Bf  -     -     -         1119   10    0 
+roady     891099936  8  1 Bc  kc    kc    kc        1109   70  240 4c Jc
+roady     891099980  8  8 c   c     c     f         1279   40    0 
+roady     891100020  8  7 f   -     -     -         1239    0    0 
+roady     891100092  8  6 c   c     b     b         1239   60  200 8h Jh
+roady     891100154  8  5 c   k     f     -         1379   10    0 
+roady     891100210  9  4 c   r     r     rc        1369  130    0 Qc 5c
+roady     891100250  9  3 c   kc    kc    kc        1239   60  200 Ad Jc
+roady     891100295  9  2 Bk  k     k     k         1379   10    0 9h 3d
+roady     891100342  9  1 Bf  -     -     -         1369    5    0 
+roady     891100363 10 10 c   f     -     -         1364   10    0 
+roady     891100471  9  9 c   f     -     -         1354   10    0 
+roady     891100538  9  8 c   c     c     f         1344   40    0 
+roady     891100605  9  7 f   -     -     -         1304    0    0 
+roady     891100644 10  6 c   k     c     kf        1304   30    0 
+roady     891100699 10  5 c   f     -     -         1274   10    0 
+roady     891100746  9  4 f   -     -     -         1264    0    0 
+roady     891100799  9  3 cc  kc    kc    kc        1264   70    0 9s Ah
+roady     891100841 10  2 Bc  kc    c     f         1194   50    0 
+roady     891100934  9  1 Bc  k     k     kf        1144   10    0 
+roady     891100981  7  7 f   -     -     -         1134    0    0 
+roady     891100997  8  7 f   -     -     -         1134    0    0 
+roady     891101022  8  6 cc  k     k     k         1134   20   80 8d Jc
+roady     891101075  7  5 c   k     r     -         1194   50  100 
+roady     891101110  7  4 c   k     k     c         1244   30    0 9c Jd
+roady     891101152  7  4 c   b     b     b         1214   60  115 
+roady     891101193  6  2 Bk  fQQ   -     -         1269   10    0 
+roady     891213991  9  7 c   cc    kc    f         1259   50    0 
+roady     891214064 10  6 f   -     -     -         1209    0    0 
+roady     891214120 10  5 c   c     c     f         1209   40    0 
+roady     891214163 10  4 f   -     -     -         1169    0    0 
+roady     891214217 10  3 c   kc    kr    b         1169   80  255 Kd 7c
+roady     891214289 10  2 Bf  -     -     -         1344   10    0 
+roady     891214327 10  1 Bc  kc    kc    kc        1334   60  240 7c 2c
+roady     891214393 10 10 c   c     k     f         1514   30    0 
+roady     891214447 10 10 c   k     k     b         1484   30   45 
+roady     891214495  8  7 c   b     -     -         1499   20   35 
+roady     891214518 10  7 f   -     -     -         1514    0    0 
+roady     891214570 10  3 QQ  -     -     -         1514    0    0 
+roady     891216186 10  7 c   k     c     f         1514   30    0 
+roady     891216239 10  6 f   -     -     -         1484    0    0 
+roady     891216303  9  5 c   c     c     c         1484   70    0 As 6c
+roady     891216390  9  4 f   -     -     -         1414    0    0 
+roady     891216428  9  3 f   -     -     -         1414    0    0 
+roady     891216480  9  2 Bk  k     k     b         1414   30    0 As Kh
+roady     891216522 10  1 Bf  -     -     -         1384    5    0 
+roady     891216576 10 10 c   c     c     r         1379  110    0 9s 5s
+roady     891216612 10  9 c   c     f     -         1269   20    0 
+roady     891216656 10  8 f   -     -     -         1249    0    0 
+roady     891216721  8  6 f   -     -     -         1249    0    0 
+roady     891216738  9  4 c   c     f     -         1249   20    0 
+roady     891216783  9  3 f   -     -     -         1229    0    0 
+roady     891216825 10  2 Bk  k     kc    kc        1229   50    0 Ks 2d
+roady     891216889  9  1 Bf  -     -     -         1179    5    0 
+roady     891216941  9  9 c   k     b     c         1174   50    0 6s 4s
+roady     891217038  9  8 f   -     -     -         1124    0    0 
+roady     891217088  9  7 c   k     k     k         1124   20   55 6c 7h
+roady     891217134  8  5 f   -     -     -         1159    0    0 
+roady     891217178 10  5 c   c     c     c         1159   60    0 9c 9d
+roady     891217216 10  4 f   -     -     -         1099    0    0 
+roady     891217263  8  3 c   cc    k     fQ        1099   30    0 
+roady     891219403 10  4 f   -     -     -         1069    0    0 
+roady     891219452 10  3 f   -     -     -         1069    0    0 
+roady     891219490  9  2 Bk  kc    k     kf        1069   20    0 
+roady     891219524  9  1 Bf  -     -     -         1049    5    0 
+roady     891219573 10 10 f   -     -     -         1044    0    0 
+roady     891219640  9  8 f   -     -     -         1044    0    0 
+roady     891219695 10  7 cc  kc    kc    k         1044   50    0 Jc Kc
+roady     891219770 10  6 f   -     -     -          994    0    0 
+roady     891219833 10  5 f   -     -     -          994    0    0 
+roady     891219867 10  4 c   r     r     b          994  100    0 2c As
+roady     891219924 10  3 f   -     -     -          894    0    0 
+roady     891219981 10  2 Bk  k     kc    kf         894   30    0 
+roady     891220036 10  1 Bf  -     -     -          864    5    0 
+roady     891220060 10 10 c   k     f     -          859   10    0 
+roady     891220107 10  9 f   -     -     -          849    0    0 
+roady     891220168 10  8 c   c     c     r          849   80  210 
+roady     891220250 10  7 f   -     -     -          979    0    0 
+roady     891220325 10  6 c   c     b     -          979   50   95 
+roady     891220383 10  5 cc  kf    -     -         1024   20    0 
+roady     891220455 10  4 f   -     -     -         1004    0    0 
+roady     891220525 10  3 QQ  -     -     -         1004    0    0 
+roady     891226845 10  3 cc  kc    kf    -         1004   30    0 
+roady     891226903 10  2 Bk  rc    cc    f          974  100    0 
+roady     891226963  9  1 Bc  kf    -     -          874   10    0 
+roady     891227079 10 10 c   c     c     f          864   50    0 
+roady     891227161 10  9 c   rc    c     r          814  100  320 3d 4h
+roady     891227240 10  8 f   -     -     -         1034    0    0 
+roady     891227308 10  7 cc  c     cc    kf        1034   70    0 
+roady     891227438 10  6 f   -     -     -          964    0    0 
+roady     891227491 10  5 cc  c     f     -          964   30    0 
+roady     891227556 10  4 f   -     -     -          934    0    0 
+roady     891227598  9  3 r   b     b     b          934   70  160 
+roady     891227639 10  2 Bc  kcc   k     kf        1024   50    0 
+roady     891227756  9  1 Bc  kf    -     -          974   20    0 
+roady     891227797 10 10 f   -     -     -          954    0    0 
+roady     891227832 10  9 f   -     -     -          954    0    0 
+roady     891227914 10  8 f   -     -     -          954    0    0 
+roady     891227958 10  7 r   b     b     b          954   70  185 Ac Kd
+roady     891227988 10  6 c   c     b     b         1069   60  180 Ac Jh
+roady     891228057 10  5 c   f     -     -         1189   10    0 
+roady     891228127 10  5 f   -     -     -         1179    0    0 
+roady     891228180 10  3 f   -     -     -         1179    0    0 
+roady     891228286 10  2 Bc  kc    kcc   kf        1179   80    0 
+roady     891228370 10  1 Bf  -     -     -         1099    5    0 
+roady     891228456 10 10 c   c     c     cc        1094  120    0 Kd 4d
+roady     891228517 10  9 c   k     k     k          974   10    0 2s 3c
+roady     891228593 10  8 r   c     c     cc         964  130    0 Tc Th
+roady     891228700  9  6 c   k     c     f          834   30    0 
+roady     891228744 10  5 f   -     -     -          804    0    0 
+roady     891228786 10  3 QQ  -     -     -          804    0    0 
+roady     891276617  8  5 f   -     -     -          804    0    0 
+roady     891276641  9  5 c   f     -     -          804   10    0 
+roady     891276741  9  4 f   -     -     -          794    0    0 
+roady     891276769  8  3 f   -     -     -          794    0    0 
+roady     891276803  8  2 Bf  -     -     -          794   10    0 
+roady     891276815  8  1 Bf  -     -     -          784    5    0 
+roady     891276834  8  8 f   -     -     -          779    0    0 
+roady     891276840  8  7 f   -     -     -          779    0    0 
+roady     891276872  8  6 f   -     -     -          779    0    0 
+roady     891276903  8  5 c   k     b     -          779   30   85 Ts Ah
+roady     891276932  7  3 f   -     -     -          834    0    0 
+roady     891276968  6  3 c   kc    kc    kf         834   40    0 
+roady     891277004  6  2 Bk  b     -     -          794   20   30 
+roady     891277033  6  1 Bc  k     b     -          804   30   50 
+roady     891277091  6  6 f   -     -     -          824    0    0 
+roady     891277178  8  6 c   c     c     k          824   60    0 8s 4s
+roady     891277215  8  6 c   rr    bc    c          764  120    0 As 3h
+roady     891277255  7  4 f   -     -     -          644    0    0 
+roady     891277311  9  4 cc  kc    kcc   kf         644   70    0 
+roady     891277377  9  3 QQ  -     -     -          574    0    0 
+roady     891388284  9  5 cc  c     c     f          574   50    0 
+roady     891388377  9  4 c   kc    kf    -          524   20    0 
+roady     891388460  9  2 Bf  -     -     -          504   10    0 
+roady     891388527 10  1 Bc  kf    -     -          494   20    0 
+roady     891388585 10 10 f   -     -     -          474    0    0 
+roady     891388677 10  9 cc  f     -     -          474   50    0 
+roady     891388858 10  8 f   -     -     -          424    0    0 
+roady     891388941 10  7 cc  c     cc    kf         424  130    0 
+roady     891389069 10  6 f   -     -     -          294    0    0 
+roady     891389201 10  5 f   -     -     -          294    0    0 
+roady     891389333 10  4 cc  krc   brc   brc        294  210  705 Jd Kc
+roady     891389435 10  3 f   -     -     -          789    0    0 
+roady     891389530 10  2 Bcc kc    kf    -          789   50    0 
+roady     891389606 10  1 Bf  -     -     -          739    5    0 
+roady     891389667 10 10 cc  c     r     c          734  100    0 2s 3d
+roady     891389725 10  9 cc  ccc   c     k          634  100    0 Ad 5s
+roady     891389817 10  8 c   c     c     f          534   40    0 
+roady     891389873 10  7 f   -     -     -          494    0    0 
+roady     891389925 10  6 c   kf    -     -          494   10    0 
+roady     891389979 10  5 f   -     -     -          484    0    0 
+roady     891390052  9  4 rc  bcc   kc    kcc        484  180    0 Ts Th
+roady     891390121  9  3 ccc kf    -     -          304   40    0 
+roady     891390202  9  2 Bcc kcc   kc    kc         264  110    0 As 9s
+roady     891390345  9  1 Bf  -     -     -          154    5    0 
+roady     891390399  9  9 KQ  -     -     -          149    0    0 

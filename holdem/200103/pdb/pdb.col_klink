@@ -1,0 +1,711 @@
+col_klink 984275217  8  5 c   bc    rc    rr        2275  170  480 Kh Tc
+col_klink 984275330  9  5 f   -     -     -         2585    0    0 
+col_klink 984275427  9  4 f   -     -     -         2585    0    0 
+col_klink 984275484 10  4 f   -     -     -         2585    0    0 
+col_klink 984275581 10  3 c   kc    kf    -         2585   20    0 
+col_klink 984275645 10  2 Bk  b     b     b         2565   60    0 Qs Kc
+col_klink 984275717 10  1 Bf  -     -     -         2505    5    0 
+col_klink 984275759 10 10 f   -     -     -         2500    0    0 
+col_klink 984275833 10  9 f   -     -     -         2500    0    0 
+col_klink 984275908 10  8 f   -     -     -         2500    0    0 
+col_klink 984275958 10  7 r   bc    f     -         2500   40    0 
+col_klink 984276061 10  6 f   -     -     -         2460    0    0 
+col_klink 984276116 10  5 c   c     f     -         2460   20    0 
+col_klink 984276151 10  4 cc  kf    -     -         2440   20    0 
+col_klink 984276232 10  3 ccc k     k     b         2420   50  170 
+col_klink 984276370 10  2 Bf  -     -     -         2540   10    0 
+col_klink 984276416 10  1 Bf  -     -     -         2530    5    0 
+col_klink 984276472 10 10 f   -     -     -         2525    0    0 
+col_klink 984276547 10  9 f   -     -     -         2525    0    0 
+col_klink 984276599 10  8 f   -     -     -         2525    0    0 
+col_klink 984276680 10  7 f   -     -     -         2525    0    0 
+col_klink 984276726 10  6 r   bc    brc   rr        2525  200    0 Qh Kh
+col_klink 984276799 10  5 f   -     -     -         2325    0    0 
+col_klink 984276890 10  4 rc  b     b     bc        2325  100    0 Jd Qs
+col_klink 984276945 10  3 c   kc    c     f         2225   50    0 
+col_klink 984277042 10  2 Bk  kf    -     -         2175   10    0 
+col_klink 984277091 10  1 Bc  k     kf    -         2165   10    0 
+col_klink 984277190 10 10 f   -     -     -         2155    0    0 
+col_klink 984277309 10  9 f   -     -     -         2155    0    0 
+col_klink 984277380 10  8 r   b     b     -         2155   50  115 
+col_klink 984277424 10  7 f   -     -     -         2220    0    0 
+col_klink 984277489 10  6 f   -     -     -         2220    0    0 
+col_klink 984277546 10  5 f   -     -     -         2220    0    0 
+col_klink 984277633 10  4 f   -     -     -         2220    0    0 
+col_klink 984277691 10  3 f   -     -     -         2220    0    0 
+col_klink 984277748 10  2 Bf  -     -     -         2220   10    0 
+col_klink 984277811 10  1 Br  brc   k     b         2210   80  220 
+col_klink 984277887 10 10 f   -     -     -         2350    0    0 
+col_klink 984277987 10  9 f   -     -     -         2350    0    0 
+col_klink 984278056 10  8 c   c     c     f         2350   50    0 
+col_klink 984278103 10  7 f   -     -     -         2300    0    0 
+col_klink 984278189 10  6 f   -     -     -         2300    0    0 
+col_klink 984278237 10  5 f   -     -     -         2300    0    0 
+col_klink 984278317 10  4 f   -     -     -         2300    0    0 
+col_klink 984278398 10  3 f   -     -     -         2300    0    0 
+col_klink 984278497 10  2 Bf  -     -     -         2300   10    0 
+col_klink 984278520 10  1 Bc  k     k     k         2290   10    0 Kc 5c
+col_klink 984278599 10 10 f   -     -     -         2280    0    0 
+col_klink 984278698 10  9 r   r     c     f         2280   70    0 
+col_klink 984278774 10  8 fQ  -     -     -         2210    0    0 
+col_klink 984339047  9  5 c   k     b     k         2210   30   85 8h Kh
+col_klink 984339100  9  5 fQ  -     -     -         2265    0    0 
+col_klink 984365080  4  3 f   -     -     -         2265    0    0 
+col_klink 984365112  5  2 Bf  -     -     -         2265   10    0 
+col_klink 984365178  5  1 Bf  -     -     -         2255    5    0 
+col_klink 984365232  5  5 f   -     -     -         2250    0    0 
+col_klink 984365328  5  4 r   b     b     -         2250   50  105 
+col_klink 984365361  5  3 f   -     -     -         2305    0    0 
+col_klink 984365412  5  2 Bc  kf    -     -         2305   20    0 
+col_klink 984365455  5  1 Bcf -     -     -         2285   10    0 
+col_klink 984365505  6  6 c   c     b     b         2275   60    0 9h Kc
+col_klink 984365632  6  6 f   -     -     -         2215    0    0 
+col_klink 984365666  5  5 c   b     b     b         2215   60  140 Jh 6h
+col_klink 984365716  5  4 c   b     r     b         2295   80  255 Qs Ad
+col_klink 984365764  5  3 cc  rr    cc    c         2470  140    0 Ad Js
+col_klink 984365840  5  2 Bc  kc    kf    -         2330   30    0 
+col_klink 984365872  3  1 Bc  kf    -     -         2300   10    0 
+col_klink 984365886  3  3 f   -     -     -         2290    0    0 
+col_klink 984365895  3  2 Br  b     k     c         2290   50    0 5h 4c
+col_klink 984365926  3  1 Bc  k     kf    -         2240   10    0 
+col_klink 984365956  3  3 fQ  -     -     -         2230    0    0 
+col_klink 984440007  9  4 f   -     -     -         1790    0    0 
+col_klink 984440041 10  3 f   -     -     -         1790    0    0 
+col_klink 984440066 10  2 Bk  bc    bcc   kc        1790  130    0 Ad 8c
+col_klink 984440155 10  1 Bc  kf    -     -         1660   10    0 
+col_klink 984440201 10 10 c   k     b     k         1650   40    0 8h 9h
+col_klink 984440257 10  9 c   f     -     -         1610   20    0 
+col_klink 984440297 10  8 c   c     b     k         1590   40  145 7d Td
+col_klink 984440339 10  7 f   -     -     -         1695    0    0 
+col_klink 984440379 10  6 c   k     f     -         1695   10    0 
+col_klink 984440410 10  5 c   k     b     b         1685   60  195 
+col_klink 984440465 10  4 c   b     r     b         1820   80    0 Js Ad
+col_klink 984440504 10  3 f   -     -     -         1740    0    0 
+col_klink 984440535 10  2 Bc  k     f     -         1740   20    0 
+col_klink 984440565 10  1 Bc  k     k     kc        1720   30    0 8h Ac
+col_klink 984440633 10 10 r   c     f     -         1690   30    0 
+col_klink 984440699 10  9 f   -     -     -         1660    0    0 
+col_klink 984440742  9  8 f   -     -     -         1660    0    0 
+col_klink 984440780  9  7 c   f     -     -         1660   10    0 
+col_klink 984440810  9  6 crc kc    b     b         1650   90  245 Kc Js
+col_klink 984440866  9  5 c   kf    -     -         1805   10    0 
+col_klink 984440930  9  4 f   -     -     -         1795    0    0 
+col_klink 984440963  9  3 f   -     -     -         1795    0    0 
+col_klink 984441022  9  2 Bc  kf    -     -         1795   20    0 
+col_klink 984441044 10  1 Bc  kc    kf    -         1775   20    0 
+col_klink 984441128  9  9 c   f     -     -         1755   10    0 
+col_klink 984441157  9  8 c   kf    -     -         1745   10    0 
+col_klink 984441216  9  7 r   f     -     -         1735   20    0 
+col_klink 984441258  8  6 f   -     -     -         1715    0    0 
+col_klink 984441310  9  6 c   kf    -     -         1715   10    0 
+col_klink 984441368  9  5 f   -     -     -         1705    0    0 
+col_klink 984441415  9  4 f   -     -     -         1705    0    0 
+col_klink 984441436  9  3 crc rc    c     c         1705  110    0 Jc Kh
+col_klink 984441488  9  2 Bk  k     b     -         1595   30   40 
+col_klink 984441516  8  1 Bf  -     -     -         1605    5    0 
+col_klink 984441560  7  7 f   -     -     -         1600    0    0 
+col_klink 984441584  6  5 f   -     -     -         1600    0    0 
+col_klink 984441629  7  5 f   -     -     -         1600    0    0 
+col_klink 984441651  6  4 f   -     -     -         1600    0    0 
+col_klink 984441677  6  3 c   b     b     b         1600   60  130 
+col_klink 984441734  6  2 Br  k     k     b         1670   40  100 9c Qd
+col_klink 984441765  6  1 Bf  -     -     -         1730    5    0 
+col_klink 984441793  6  6 f   -     -     -         1725    0    0 
+col_klink 984441827  6  5 f   -     -     -         1725    0    0 
+col_klink 984441851  5  3 c   b     -     -         1725   20   35 
+col_klink 984441864  4  2 B   -     -     -         1740   10   15 
+col_klink 984441870  4  1 Bc  k     b     -         1745   30   50 
+col_klink 984441895  3  3 rr  c     c     rc        1765  130  270 Kh Qh
+col_klink 984441927  3  2 cf  -     -     -         1905   10    0 
+col_klink 984441959  3  2 B   -     -     -         1895   10   15 
+col_klink 984441969  2  1 Bc  kf    -     -         1900   10    0 
+col_klink 984441988  2  2 Bk  b     -     -         1890   20   30 
+col_klink 984442008  3  1 Bc  kf    -     -         1900   10    0 
+col_klink 984442043  3  3 f   -     -     -         1890    0    0 
+col_klink 984442065  4  2 Bk  kc    kf    -         1890   20    0 
+col_klink 984442090  4  1 Bf  -     -     -         1870    5    0 
+col_klink 984442104  5  5 f   -     -     -         1865    0    0 
+col_klink 984442146  6  5 cc  f     -     -         1865   20    0 
+col_klink 984442195  7  5 f   -     -     -         1845    0    0 
+col_klink 984442248  6  4 f   -     -     -         1845    0    0 
+col_klink 984442314  7  3 f   -     -     -         1845    0    0 
+col_klink 984442366  6  2 Bk  k     b     kf        1845   30    0 
+col_klink 984442444  6  1 Bf  -     -     -         1815    5    0 
+col_klink 984442492  6  6 c   c     k     c         1810   40    0 Ah 7h
+col_klink 984442539  6  5 f   -     -     -         1770    0    0 
+col_klink 984442573  6  4 r   b     b     b         1770   70  195 As Ks
+col_klink 984442613  6  3 c   f     -     -         1895   10    0 
+col_klink 984442652  6  2 Bk  kf    -     -         1885   10    0 
+col_klink 984442710  6  1 Bf  -     -     -         1875    5    0 
+col_klink 984442778  6  6 c   b     b     bc        1870   90  240 Js Qs
+col_klink 984442835  6  5 c   f     -     -         2020   20    0 
+col_klink 984442872  6  4 f   -     -     -         2000    0    0 
+col_klink 984442905  6  3 fQ  -     -     -         2000    0    0 
+col_klink 984461400  9  3 cf  -     -     -         2000   10    0 
+col_klink 984461457  9  2 Bf  -     -     -         1990   10    0 
+col_klink 984461512 10  1 Bf  -     -     -         1980    5    0 
+col_klink 984461607 10 10 f   -     -     -         1975    0    0 
+col_klink 984461643  9  8 c   f     -     -         1975   20    0 
+col_klink 984461740  9  7 f   -     -     -         1955    0    0 
+col_klink 984461791  9  6 f   -     -     -         1955    0    0 
+col_klink 984461885  9  5 f   -     -     -         1955    0    0 
+col_klink 984461980  9  4 r   b     krc   b         1955  110  275 Ks Qh
+col_klink 984462033  9  3 f   -     -     -         2120    0    0 
+col_klink 984462103  8  2 Bk  kf    -     -         2120   10    0 
+col_klink 984462170  8  1 Bf  -     -     -         2110    5    0 
+col_klink 984462251  7  7 rc  r     b     b         2105  100    0 Kc As
+col_klink 984462313  8  7 r   c     b     b         2005   70  220 Kc Kh
+col_klink 984462393  8  6 f   -     -     -         2155    0    0 
+col_klink 984462469  8  5 cc  c     c     k         2155   50    0 6s 7s
+col_klink 984462514  9  3 c   b     k     b         2105   40  105 Ad 8d
+col_klink 984462558 10  2 Bk  kf    -     -         2170   10    0 
+col_klink 984462607  9  1 Bc  k     k     k         2160   10   40 Tc 7d
+col_klink 984462660  9  9 f   -     -     -         2190    0    0 
+col_klink 984462696  9  8 c   c     c     b         2190   60  200 Kd 6d
+col_klink 984462771  9  7 f   -     -     -         2330    0    0 
+col_klink 984462862  9  6 c   r     b     b         2330   70  102 Jd Ac
+col_klink 984462928 10  5 f   -     -     -         2362    0    0 
+col_klink 984463015  9  3 c   kc    kc    kc        2362   60    0 Qd As
+col_klink 984463081  9  2 Bk  r     c     c         2302   70    0 3h 8s
+col_klink 984463140 10  1 Bc  kf    -     -         2232   10    0 
+col_klink 984463213 10 10 c   b     b     -         2222   40   85 
+col_klink 984463253  9  8 f   -     -     -         2267    0    0 
+col_klink 984463322  9  7 f   -     -     -         2267    0    0 
+col_klink 984463364  9  6 c   b     rc    c         2267  100    0 3d Ad
+col_klink 984463418  9  5 f   -     -     -         2167    0    0 
+col_klink 984463516  8  3 f   -     -     -         2167    0    0 
+col_klink 984463568  8  2 Bk  k     f     -         2167   10    0 
+col_klink 984463612  8  1 Bf  -     -     -         2157    5    0 
+col_klink 984463676  8  8 f   -     -     -         2152    0    0 
+col_klink 984463729  8  7 f   -     -     -         2152    0    0 
+col_klink 984463781  8  6 f   -     -     -         2152    0    0 
+col_klink 984463834  8  5 f   -     -     -         2152    0    0 
+col_klink 984463871  8  4 f   -     -     -         2152    0    0 
+col_klink 984463932  7  2 Br  k     b     b         2152   60  125 2c Qd
+col_klink 984463975  7  1 Bf  -     -     -         2217    5    0 
+col_klink 984464025  7  7 f   -     -     -         2212    0    0 
+col_klink 984464061  7  6 r   r     b     b         2212   90  245 Kc Kh
+col_klink 984464106  7  5 f   -     -     -         2367    0    0 
+col_klink 984464161  7  4 f   -     -     -         2367    0    0 
+col_klink 984464218  6  3 f   -     -     -         2367    0    0 
+col_klink 984464263  6  2 Bf  -     -     -         2367   10    0 
+col_klink 984464306  6  1 Bf  -     -     -         2357    5    0 
+col_klink 984464334  6  6 f   -     -     -         2352    0    0 
+col_klink 984464373  6  5 rc  cc    rc    r         2352  180    0 Ad Td
+col_klink 984464444  5  3 f   -     -     -         2172    0    0 
+col_klink 984464471  4  3 f   -     -     -         2172    0    0 
+col_klink 984464505  4  2 Bf  -     -     -         2172   10    0 
+col_klink 984464546  4  1 Bc  kf    -     -         2162   10    0 
+col_klink 984464602  4  4 c   c     f     -         2152   20    0 
+col_klink 984464634  4  3 f   -     -     -         2132    0    0 
+col_klink 984464657  4  2 Bf  -     -     -         2132   10    0 
+col_klink 984464679  4  1 Bf  -     -     -         2122    5    0 
+col_klink 984464715  4  4 c   b     b     k         2117   50  155 Qs Td
+col_klink 984464746  4  3 f   -     -     -         2222    0    0 
+col_klink 984464767  4  2 Bf  -     -     -         2222   10    0 
+col_klink 984464788  4  1 Bc  kf    -     -         2212   10    0 
+col_klink 984464810  4  4 f   -     -     -         2202    0    0 
+col_klink 984464821  4  3 cc  f     -     -         2202   20    0 
+col_klink 984464851  4  2 Bc  c     b     bc        2182   90    0 4d Kd
+col_klink 984464894  4  1 Bf  -     -     -         2092    5    0 
+col_klink 984464934  4  4 f   -     -     -         2087    0    0 
+col_klink 984464961  4  3 cc  f     -     -         2087   20    0 
+col_klink 984464985  4  2 Bf  -     -     -         2067   10    0 
+col_klink 984465012  4  1 Brc kc    kc    kf        2057   70    0 
+col_klink 984465052  4  4 f   -     -     -         1987    0    0 
+col_klink 984465072  4  3 f   -     -     -         1987    0    0 
+col_klink 984465092  4  2 Bk  k     kf    -         1987   10    0 
+col_klink 984465133  4  1 Bc  b     b     kc        1977   60    0 Qc 5c
+col_klink 984465162  5  5 c   r     b     r         1917  100  245 8d 8s
+col_klink 984465212  5  4 f   -     -     -         2062    0    0 
+col_klink 984465270  6  4 f   -     -     -         2062    0    0 
+col_klink 984465326  6  3 cc  c     c     r         2062   90  250 Ac Ts
+col_klink 984465368  6  2 Bc  kcc   kf    -         2222   40    0 
+col_klink 984465416  7  1 Brc b     b     b         2182   80  240 Ad Qh
+col_klink 984465470  6  6 f   -     -     -         2342    0    0 
+col_klink 984465496  6  5 f   -     -     -         2342    0    0 
+col_klink 984465541  5  3 c   b     b     k         2342   40    0 9c 8c
+col_klink 984465595  6  2 Bk  k     kf    -         2302   10    0 
+col_klink 984465656  7  1 Bc  kf    -     -         2292   10    0 
+col_klink 984465696  7  7 r   b     f     -         2282   30    0 
+col_klink 984465751  7  6 c   b     b     b         2252   60  125 Ad 7d
+col_klink 984465795  7  5 f   -     -     -         2317    0    0 
+col_klink 984465843  6  3 c   kc    bc    k         2317   60    0 As Jc
+col_klink 984465883  6  2 Bk  bc    kc    bc        2257   90  185 Th 9h
+col_klink 984465917  6  1 Bc  k     b     -         2352   30   60 
+col_klink 984465952  6  6 c   bc    f     -         2382   30    0 
+col_klink 984465990  6  4 c   b     k     c         2352   40    0 Kh 9s
+col_klink 984466040  6  3 f   -     -     -         2312    0    0 
+col_klink 984466086  6  2 Br  k     k     b         2312   40    0 Qh Ac
+col_klink 984466151  6  1 Bc  kf    -     -         2272   10    0 
+col_klink 984466181  6  6 c   c     c     f         2262   40    0 
+col_klink 984466240  6  5 f   -     -     -         2222    0    0 
+col_klink 984466309  7  5 c   kf    -     -         2222   10    0 
+col_klink 984466383  6  3 f   -     -     -         2212    0    0 
+col_klink 984466492  6  3 c   kf    -     -         2212   10    0 
+col_klink 984466591  8  2 Bk  k     kf    -         2202   10    0 
+col_klink 984466650  9  1 Bc  kf    -     -         2192   10    0 
+col_klink 984466731  9  9 f   -     -     -         2182    0    0 
+col_klink 984466786 10  9 c   b     c     b         2182   60    0 2h Ah
+col_klink 984466848 10  8 c   f     -     -         2122   10    0 
+col_klink 984466913 10  7 c   b     b     b         2112   60  250 4h 4c
+col_klink 984467006 10  6 f   -     -     -         2302    0    0 
+col_klink 984467115 10  5 c   kf    -     -         2302   10    0 
+col_klink 984467227  9  3 f   -     -     -         2292    0    0 
+col_klink 984467303  9  3 f   -     -     -         2292    0    0 
+col_klink 984467372  9  2 Bk  k     k     k         2292   10    0 Ks 3d
+col_klink 984467441  9  1 Bc  kf    -     -         2282   10    0 
+col_klink 984467571  9  9 c   c     b     k         2272   50    0 Js Td
+col_klink 984467623  9  8 f   -     -     -         2222    0    0 
+col_klink 984467721  8  6 f   -     -     -         2222    0    0 
+col_klink 984467766  7  4 f   -     -     -         2222    0    0 
+col_klink 984467836  8  3 r   b     b     b         2222   70  150 
+col_klink 984467863  8  2 Br  k     b     b         2302   60  240 Td Ad
+col_klink 984468008  8  1 Bc  br    br    b         2482  130    0 Jh 9s
+col_klink 984468082  9  9 c   k     f     -         2352   10    0 
+col_klink 984468181  9  8 r   b     r     b         2342   90  340 As Ad
+col_klink 984468284 10  7 f   -     -     -         2592    0    0 
+col_klink 984468379  9  5 f   -     -     -         2592    0    0 
+col_klink 984468456  9  4 r   b     b     bc        2592   90    0 Ah Ks
+col_klink 984468528  9  3 f   -     -     -         2502    0    0 
+col_klink 984468605  9  1 Bk  b     kc    k         2502   40    0 6s Kd
+col_klink 984468665  9  1 Bc  k     bc    kf        2462   60    0 
+col_klink 984468743  8  8 f   -     -     -         2402    0    0 
+col_klink 984468834  8  7 f   -     -     -         2402    0    0 
+col_klink 984468877  8  6 r   b     bc    c         2402   90    0 Kc Kh
+col_klink 984468954  8  5 f   -     -     -         2312    0    0 
+col_klink 984469034  9  5 cc  kf    -     -         2312   20    0 
+col_klink 984469100  9  4 f   -     -     -         2292    0    0 
+col_klink 984469205  9  3 f   -     -     -         2292    0    0 
+col_klink 984469275  9  2 Bk  k     kf    -         2292   10    0 
+col_klink 984469341  9  1 Bf  -     -     -         2282    5    0 
+col_klink 984469436  9  9 c   k     f     -         2277   30    0 
+col_klink 984469585 10  9 f   -     -     -         2247    0    0 
+col_klink 984469656  9  8 f   -     -     -         2247    0    0 
+col_klink 984469696  9  7 f   -     -     -         2247    0    0 
+col_klink 984469782 10  6 f   -     -     -         2247    0    0 
+col_klink 984469849  9  4 f   -     -     -         2247    0    0 
+col_klink 984469910  7  3 f   -     -     -         2247    0    0 
+col_klink 984469968  7  2 Bk  kf    -     -         2247   10    0 
+col_klink 984470035  7  1 Bc  b     kc    b         2237   60  150 Jd Qc
+col_klink 984470086  7  7 f   -     -     -         2327    0    0 
+col_klink 984470166  7  6 cc  k     k     k         2327   20    0 Jd As
+col_klink 984470203  7  5 f   -     -     -         2307    0    0 
+col_klink 984470263  7  4 c   b     b     b         2307   60  110 
+col_klink 984470299  7  3 cf  -     -     -         2357   10    0 
+col_klink 984470356  7  2 Bk  k     bf    -         2347   30    0 
+col_klink 984470397  7  1 Bc  kf    -     -         2317   10    0 
+col_klink 984470436  8  8 f   -     -     -         2307    0    0 
+col_klink 984470509  9  7 c   c     f     -         2307   20    0 
+col_klink 984470553  9  6 f   -     -     -         2287    0    0 
+col_klink 984470635  9  5 cc  kf    -     -         2287   20    0 
+col_klink 984470708  9  4 f   -     -     -         2267    0    0 
+col_klink 984470758  7  1 Bf  -     -     -         2267   10    0 
+col_klink 984470868  7  1 Bc  kf    -     -         2257   10    0 
+col_klink 984470996  8  8 r   b     b     b         2247   70  245 Kh Ad
+col_klink 984471107  8  8 f   -     Q     -         2422    0    0 
+col_klink 984529368  8  7 f   -     -     -         2422    0    0 
+col_klink 984529407  7  5 f   -     -     -         2422    0    0 
+col_klink 984529449  7  4 f   -     -     -         2422    0    0 
+col_klink 984529478  6  2 Bk  brc   br    b         2422  130  265 Jc 9c
+col_klink 984529526  6  1 Bc  bc    b     b         2557   70  200 8d 6s
+col_klink 984529587  6  6 r   rr    rc    b         2687  140  365 Kc Kh
+col_klink 984529654  6  5 f   -     -     -         2912    0    0 
+col_klink 984529699  8  5 f   -     -     -         2912    0    0 
+col_klink 984529779  9  5 f   -     -     -         2912    0    0 
+col_klink 984529853  9  4 c   kf    -     -         2912   10    0 
+col_klink 984529946  7  2 Bk  kf    -     -         2902   10    0 
+col_klink 984530049  6  1 Bc  kc    kc    kf        2892   40    0 
+col_klink 984530109  7  7 c   f     -     -         2852   10    0 
+col_klink 984530165  7  6 r   r     k     f         2842   40    0 
+col_klink 984530229  8  5 f   -     -     -         2802    0    0 
+col_klink 984530263  9  5 r   b     r     b         2802   90  310 Ad Ac
+col_klink 984530324  9  4 f   -     -     -         3022    0    0 
+col_klink 984530379 10  4 f   -     -     -         3022    0    0 
+col_klink 984530464 10  3 c   kQ    -     -         3022   10    0 
+col_klink 984552797  6  6 ccc c     br    b         3012  120  350 Qs Th
+col_klink 984552884  6  4 Q   -     -     -         3242    0    0 
+col_klink 984553018  7  3 f   -     -     -         3242    0    0 
+col_klink 984553074  7  2 Bk  k     b     -         3242   30   55 
+col_klink 984553107  7  1 Bc  k     b     -         3267   30   50 
+col_klink 984553129  7  7 c   r     brc   rr        3287  190    0 Ac 8s
+col_klink 984553191  7  6 f   -     -     -         3097    0    0 
+col_klink 984553240  6  5 f   -     -     -         3097    0    0 
+col_klink 984553260  6  4 c   r     b     b         3097   70  200 
+col_klink 984553312  6  3 cc  kc    kf    -         3227   40    0 
+col_klink 984553375  6  2 Bf  -     -     -         3187   10    0 
+col_klink 984553432  6  1 Bcf -     -     -         3177   10    0 
+col_klink 984553497  7  7 f   -     -     -         3167    0    0 
+col_klink 984553535  7  6 f   -     -     -         3167    0    0 
+col_klink 984553573  7  5 f   -     -     -         3167    0    0 
+col_klink 984553637  7  4 f   -     -     -         3167    0    0 
+col_klink 984553724  7  3 cf  -     -     -         3167   10    0 
+col_klink 984553807  8  2 Bf  -     -     -         3157   10    0 
+col_klink 984553851  9  1 Bf  -     -     -         3147    5    0 
+col_klink 984553960  9  9 f   -     -     -         3142    0    0 
+col_klink 984554085  8  7 f   -     -     -         3142    0    0 
+col_klink 984554187 10  8 f   -     -     -         3142    0    0 
+col_klink 984554229 10  7 f   -     -     -         3142    0    0 
+col_klink 984554292 10  6 c   r     k     b         3142   50  155 Ac Jd
+col_klink 984554343 10  5 f   -     -     -         3247    0    0 
+col_klink 984554463 10  4 c   rc    b     k         3247   60    0 7s As
+col_klink 984554523 10  3 cc  bc    kc    kc        3187   80    0 Qc Ks
+col_klink 984554576 10  2 Bc  kf    -     -         3107   20    0 
+col_klink 984554673 10  1 Bc  k     b     -         3087   30   70 
+col_klink 984554708 10 10 f   -     -     -         3127    0    0 
+col_klink 984554756 10  9 f   -     -     -         3127    0    0 
+col_klink 984554831 10  8 cc  rc    b     b         3127  110  470 4s Ks
+col_klink 984554953 10  7 f   -     -     -         3487    0    0 
+col_klink 984554999 10  6 f   -     -     -         3487    0    0 
+col_klink 984555042 10  5 f   -     -     -         3487    0    0 
+col_klink 984555084 10  4 f   -     -     -         3487    0    0 
+col_klink 984555152 10  3 rc  bcc   kc    k         3487  100    0 9d 9s
+col_klink 984555257 10  2 Bk  b     -     -         3387   20   35 
+col_klink 984555336  9  1 Bc  k     kf    -         3402   10    0 
+col_klink 984555434  9  9 c   b     b     c         3392   60    0 6h 5h
+col_klink 984555558  9  8 c   c     f     -         3332   20    0 
+col_klink 984555604  9  7 f   -     -     -         3312    0    0 
+col_klink 984555643  9  6 c   b     b     -         3312   40  120 
+col_klink 984555713  9  5 cc  k     bc    kc        3392   80    0 Ah 4h
+col_klink 984555774  9  4 c   bc    kc    k         3312   50    0 Qd 3d
+col_klink 984555826  8  2 Bk  kf    -     -         3262   10    0 
+col_klink 984555850  8  1 Bc  kc    b     b         3252   60    0 Jd 9d
+col_klink 984555917  8  8 f   -     -     -         3192    0    0 
+col_klink 984555966  8  7 f   -     -     -         3192    0    0 
+col_klink 984556011  8  6 f   -     -     -         3192    0    0 
+col_klink 984556047  8  5 cc  b     b     b         3192   70  155 
+col_klink 984556095  8  4 f   -     -     -         3277    0    0 
+col_klink 984556130  8  3 f   -     -     -         3277    0    0 
+col_klink 984556166  8  2 Bk  bc    k     k         3277   30    0 6c Jc
+col_klink 984556210  8  1 Bc  kf    -     -         3247   10    0 
+col_klink 984556258  9  9 f   -     -     -         3237    0    0 
+col_klink 984556322  9  8 f   -     -     -         3237    0    0 
+col_klink 984556381  9  7 c   c     f     -         3237   40    0 
+col_klink 984556430  8  5 f   -     -     -         3197    0    0 
+col_klink 984556462  9  5 f   -     -     -         3197    0    0 
+col_klink 984556505  9  4 r   k     bc    c         3197   80    0 Kc As
+col_klink 984556557  9  3 f   -     -     -         3117    0    0 
+col_klink 984556613  9  2 Bk  k     kc    k         3117   30    0 Jd 5h
+col_klink 984556647  9  1 Bf  -     -     -         3087    5    0 
+col_klink 984556693  9  9 f   -     -     -         3082    0    0 
+col_klink 984556726  9  8 f   -     -     -         3082    0    0 
+col_klink 984556793  9  7 c   f     -     -         3082   10    0 
+col_klink 984556831  9  6 c   b     b     k         3072   40    0 Qs Td
+col_klink 984556920  8  4 f   -     -     -         3032    0    0 
+col_klink 984556947  8  3 c   f     -     -         3032   10    0 
+col_klink 984556984  8  2 Br  b     -     -         3022   30   55 
+col_klink 984557001  8  1 Bc  k     b     b         3047   50    0 Kh 9d
+col_klink 984557042  8  8 f   -     -     -         2997    0    0 
+col_klink 984557070  7  6 c   b     bc    c         2997   80    0 8s 8d
+col_klink 984557120  7  5 f   -     -     -         2917    0    0 
+col_klink 984557144  7  4 f   -     -     -         2917    0    0 
+col_klink 984557175  7  3 f   -     -     -         2917    0    0 
+col_klink 984557202  7  2 Br  b     b     b         2917   80  185 
+col_klink 984557229  7  1 Bc  kc    k     b         3022   40  100 
+col_klink 984557277  7  7 c   b     -     -         3082   20   35 
+col_klink 984557292  6  5 f   -     -     -         3097    0    0 
+col_klink 984557322  6  4 c   k     b     -         3097   30   55 
+col_klink 984557364  6  3 c   b     b     k         3122   40   85 Jd Ac
+col_klink 984557411  6  2 Br  kc    kf    -         3167   30    0 
+col_klink 984557462  6  1 Bc  kf    -     -         3137   10    0 
+col_klink 984557480  6  6 f   -     -     -         3127    0    0 
+col_klink 984557497  6  5 c   c     c     c         3127   60  140 Kc 9c
+col_klink 984557528  6  4 c   b     -     -         3207   20   40 
+col_klink 984557564  5  2 B   -     -     -         3227   10   15 
+col_klink 984557568  5  1 Bf  -     -     -         3232    5    0 
+col_klink 984557592  6  6 f   -     -     -         3227    0    0 
+col_klink 984557622  5  4 f   -     -     -         3227    0    0 
+col_klink 984557649  5  3 f   -     -     -         3227    0    0 
+col_klink 984557687  5  2 Bc  k     kf    -         3227   20    0 
+col_klink 984557707  5  1 Bc  kf    -     -         3207   10    0 
+col_klink 984557751  5  5 f   -     -     -         3197    0    0 
+col_klink 984557775  5  5 fQ  -     -     -         3197    0    0 
+col_klink 984643120  3  2 Br  rc    c     c         3197   90    0 Ah Kh
+col_klink 984643145  3  1 Bf  -     -     -         3107    5    0 
+col_klink 984643153  3  3 f   -     -     -         3102    0    0 
+col_klink 984643163  3  2 Bc  kf    -     -         3102   20    0 
+col_klink 984643173  3  1 Bcc kc    br    brc       3082  170  340 8c Jc
+col_klink 984643197  3  3 cc  b     -     -         3252   30   60 
+col_klink 984643212  3  2 Bc  k     bc    k         3282   60    0 Jd 8h
+col_klink 984643234  3  1 Bcc kf    -     -         3222   20    0 
+col_klink 984643251  3  3 f   -     -     -         3202    0    0 
+col_klink 984643264  3  2 Bf  -     -     -         3202   10    0 
+col_klink 984643274  3  1 Bf  -     -     -         3192    5    0 
+col_klink 984643281  3  3 cc  b     b     brc       3187  130    0 9h Qs
+col_klink 984643310  3  2 Bc  b     b     -         3057   50  110 
+col_klink 984643336  3  1 Bf  -     -     -         3117    5    0 
+col_klink 984643353  3  3 f   -     -     -         3112    0    0 
+col_klink 984643357  3  2 Bf  -     -     -         3112   10    0 
+col_klink 984643372  3  1 Bf  -     -     -         3102    5    0 
+col_klink 984643395  3  3 f   -     -     -         3097    0    0 
+col_klink 984643400  3  2 Brc kc    kc    k         3097   70  145 Th Qc
+col_klink 984643420  3  1 Bc  kf    -     -         3172   10    0 
+col_klink 984643435  3  3 f   -     -     -         3162    0    0 
+col_klink 984643445  3  2 Brc b     b     b         3162   90  180 
+col_klink 984643461  3  1 Bcc b     b     bc        3252   90    0 7h Ad
+col_klink 984643486  3  3 f   -     -     -         3162    0    0 
+col_klink 984643491  3  2 Bf  -     -     -         3162   10    0 
+col_klink 984643497  3  1 Bf  -     -     -         3152    5    0 
+col_klink 984643506  3  3 rr  r     c     c         3147  100    0 Qs Ks
+col_klink 984643536  3  2 Bf  -     -     -         3047   10    0 
+col_klink 984643544  3  1 Bf  -     -     -         3037    5    0 
+col_klink 984643556  3  3 f   -     -     -         3032    0    0 
+col_klink 984643560  3  2 Bk  kf    -     -         3032   10    0 
+col_klink 984643577  3  1 Bf  -     -     -         3022    5    0 
+col_klink 984643599  3  3 c   b     c     f         3017   40    0 
+col_klink 984643639  3  2 Br  b     b     -         2977   50   80 
+col_klink 984643659  3  1 Bf  -     -     -         3007    5    0 
+col_klink 984643673  3  3 c   b     -     -         3002   20   35 
+col_klink 984643684  3  2 B   -     -     -         3017   10   15 
+col_klink 984643687  3  1 Bcf -     -     -         3022   10    0 
+col_klink 984643705  3  3 f   -     -     -         3012    0    0 
+col_klink 984643709  3  2 Bc  b     b     -         3012   50  100 
+col_klink 984643720  3  1 Bc  kf    -     -         3062   10    0 
+col_klink 984643731  3  3 rr  b     br    bc        3052  150    0 Ac Ks
+col_klink 984643757  3  2 B   -     -     -         2902   10   15 
+col_klink 984643764  3  1 Bf  -     -     -         2907    5    0 
+col_klink 984643777  3  3 r   bc    rr    r         2902  160  162 Jh Qs
+col_klink 984643814  3  2 B   -     -     -         2904   10   15 
+col_klink 984643828  3  1 Bf  -     -     -         2909    5    0 
+col_klink 984643845  3  3 cc  c     r     b         2904   90  180 
+col_klink 984643867  3  2 Br  k     b     -         2994   40   60 
+col_klink 984643883  3  1 Bc  bc    kf    -         3014   30    0 
+col_klink 984643898  3  3 f   -     -     -         2984    0    0 
+col_klink 984643900  3  2 Bf  -     -     -         2984   10    0 
+col_klink 984643903  3  1 Br  bc    kc    kc        2974   90    0 Ac Kh
+col_klink 984643924  3  3 f   -     -     -         2884    0    0 
+col_klink 984643933  3  2 Br  r     b     b         2884   80    0 4s 2s
+col_klink 984643974  3  1 Bc  k     b     b         2804   50  110 6h 8d
+col_klink 984644003  4  3 f   -     -     -         2864    0    0 
+col_klink 984644033  4  2 Bc  kc    kf    -         2864   30    0 
+col_klink 984644066  4  1 Brc br    b     b         2834  100  200 Td Qd
+col_klink 984644090  4  4 r   b     -     -         2934   30   55 
+col_klink 984644105  4  3 f   -     -     -         2959    0    0 
+col_klink 984644124  4  2 Bf  -     -     -         2959   10    0 
+col_klink 984644133  4  1 Bf  -     -     -         2949    5    0 
+col_klink 984644153  4  4 f   -     -     -         2944    0    0 
+col_klink 984644177  5  3 c   b     -     -         2944   20   45 
+col_klink 984644195  5  2 Bc  f     -     -         2969   20    0 
+col_klink 984644233  5  1 Br  b     b     -         2949   50  100 
+col_klink 984644255  5  5 f   -     -     -         2999    0    0 
+col_klink 984644280  5  4 f   -     -     -         2999    0    0 
+col_klink 984644293  5  3 f   -     -     -         2999    0    0 
+col_klink 984644309  5  2 B   -     -     -         2999   10   15 
+col_klink 984644314  5  1 Bf  -     -     -         3004    5    0 
+col_klink 984644337  5  5 f   -     -     -         2999    0    0 
+col_klink 984644360  5  4 f   -     -     -         2999    0    0 
+col_klink 984644372  5  3 f   -     -     -         2999    0    0 
+col_klink 984644378  6  2 Bc  b     -     -         2999   30   55 
+col_klink 984644406  6  1 Bc  bc    kc    b         3024   70  140 5s 8c
+col_klink 984644434  6  6 f   -     -     -         3094    0    0 
+col_klink 984644466  6  5 c   kc    kc    kc        3094   60    0 8s As
+col_klink 984644496  6  4 f   -     -     -         3034    0    0 
+col_klink 984644513  6  3 c   k     b     -         3034   30   55 
+col_klink 984644549  6  2 Bc  kf    -     -         3059   20    0 
+col_klink 984644573  6  1 Bc  b     brc   brc       3039  180  380 5c Ah
+col_klink 984644620  6  6 r   k     k     b         3239   40  100 
+col_klink 984644682  6  5 cc  b     cc    k         3299   70    0 Qs 9c
+col_klink 984644729  5  4 f   -     -     -         3229    0    0 
+col_klink 984644748  5  3 rc  rc    c     b         3229  100  245 
+col_klink 984644794  5  2 Br  kc    bc    k         3374   70    0 Qd 7c
+col_klink 984644820  5  1 Bc  k     k     k         3304   10    0 8d Jh
+col_klink 984644845  5  5 c   f     -     -         3294   10    0 
+col_klink 984644871  5  4 c   b     b     b         3284   60    0 3h Ad
+col_klink 984644900  5  3 f   -     -     -         3224    0    0 
+col_klink 984644906  5  2 Bk  brc   b     b         3224   90  210 4s 9s
+col_klink 984644953  5  1 Bf  -     -     -         3344    5    0 
+col_klink 984644977  5  5 c   b     bc    c         3339   90    0 As 9s
+col_klink 984645017  5  4 r   k     b     -         3249   40   75 
+col_klink 984645035  5  3 cc  rc    b     b         3284   90  185 Ac 7h
+col_klink 984645062  5  2 Bcc bc    brc   b         3379  160  485 7d 6d
+col_klink 984645109  5  1 Br  k     k     b         3704   40   80 
+col_klink 984645140  5  5 f   -     -     -         3744    0    0 
+col_klink 984645163  5  4 f   -     -     -         3744    0    0 
+col_klink 984645180  5  3 f   -     -     -         3744    0    0 
+col_klink 984645184  5  2 Br  b     -     -         3744   30   50 
+col_klink 984645199  5  1 Bf  -     -     -         3764    5    0 
+col_klink 984645234  5  4 Q   -     -     -         3759    0    0 
+col_klink 984645413  3  2 B   -     -     -         3759   10   15 
+col_klink 984645415  3  1 Bf  -     -     -         3764    5    0 
+col_klink 984645446  3  3 f   -     -     -         3759    0    0 
+col_klink 984645465  4  3 f   -     -     -         3759    0    0 
+col_klink 984645481  4  2 Brc brc   brc   kc        3759  180    0 Ks Ad
+col_klink 984645562  4  1 Bf  -     -     -         3579    5    0 
+col_klink 984645574  4  4 f   -     -     -         3574    0    0 
+col_klink 984645587  4  3 f   -     -     -         3574    0    0 
+col_klink 984645601  4  2 Br  b     -     -         3574   30   50 
+col_klink 984645615  4  1 Bc  kc    kf    -         3594   20    0 
+col_klink 984645638  4  4 f   -     -     -         3574    0    0 
+col_klink 984645647  4  3 f   -     -     -         3574    0    0 
+col_klink 984645663  4  2 Br  cc    f     -         3574   40    0 
+col_klink 984645745  4  1 Bf  -     -     -         3534    5    0 
+col_klink 984645767  4  4 f   -     -     -         3529    0    0 
+col_klink 984645790  4  3 cc  kf    -     -         3529   20    0 
+col_klink 984645825  4  2 Bf  -     -     -         3509   10    0 
+col_klink 984645848  4  1 Bc  k     k     k         3499   10    0 2s 5h
+col_klink 984645886  4  4 f   -     -     -         3489    0    0 
+col_klink 984645912  4  3 f   -     -     -         3489    0    0 
+col_klink 984645948  4  2 Br  k     b     -         3489   40   60 
+col_klink 984645963  4  1 Bf  -     -     -         3509    5    0 
+col_klink 984645981  4  4 r   b     b     b         3504   70  155 6h 6c
+col_klink 984645996  4  3 f   -     -     -         3589    0    0 
+col_klink 984646015  4  2 Bk  k     b     b         3589   50   90 
+col_klink 984646034  4  1 Br  b     b     b         3629   70  130 
+col_klink 984646049  4  4 f   -     -     -         3689    0    0 
+col_klink 984646083  4  3 c   r     bf    -         3689   50    0 
+col_klink 984646108  4  2 Bf  -     -     -         3639   10    0 
+col_klink 984646135  3  1 Bc  b     -     -         3629   20   30 
+col_klink 984646148  3  3 r   b     -     -         3639   30   60 
+col_klink 984646156  3  2 B   -     -     -         3669   10   15 
+col_klink 984646158  3  1 Br  -     -     -         3674   20   30 
+col_klink 984646163  3  3 c   b     -     -         3684   20   35 
+col_klink 984646171  3  2 Br  b     -     -         3699   30   50 
+col_klink 984646178  3  1 Br  -     -     -         3719   20   30 
+col_klink 984646181  3  3 f   -     -     -         3729    0    0 
+col_klink 984646192  3  2 B   -     -     -         3729   10   15 
+col_klink 984646194  3  1 Br  k     b     -         3734   40   80 
+col_klink 984646213  3  3 c   b     -     -         3774   20   40 
+col_klink 984646224  4  3 r   rr    brc   rr        3794  220  222 9d 8c
+col_klink 984646274  4  2 Bc  cc    kc    kc        3796   80    0 Jh 6h
+col_klink 984646312  4  1 Bcc b     b     -         3716   50  100 
+col_klink 984646334  4  4 c   c     f     -         3766   20    0 
+col_klink 984646352  4  3 r   b     -     -         3746   30   70 
+col_klink 984646364  4  2 Br  c     f     -         3786   30    0 
+col_klink 984646382  4  1 Bf  -     -     -         3756    5    0 
+col_klink 984646389  4  4 f   -     -     -         3751    0    0 
+col_klink 984646392  4  3 f   -     -     -         3751    0    0 
+col_klink 984646411  4  2 Bf  -     -     -         3751   10    0 
+col_klink 984646419  4  1 Bcr b     -     -         3741   40   70 
+col_klink 984646433  4  4 f   -     -     -         3771    0    0 
+col_klink 984646458  4  3 f   -     -     -         3771    0    0 
+col_klink 984646461  4  2 B   -     -     -         3771   10   15 
+col_klink 984646465  4  1 Bf  -     -     -         3776    5    0 
+col_klink 984646483  4  4 f   -     -     -         3771    0    0 
+col_klink 984646505  4  3 f   -     -     -         3771    0    0 
+col_klink 984646510  4  2 Bf  -     -     -         3771   10    0 
+col_klink 984646531  4  1 Bf  -     -     -         3761    5    0 
+col_klink 984646557  4  4 f   -     -     -         3756    0    0 
+col_klink 984646576  4  3 f   -     -     -         3756    0    0 
+col_klink 984646617  4  2 Br  b     b     -         3756   50   80 
+col_klink 984646634  4  1 Bf  -     -     -         3786    5    0 
+col_klink 984646640  4  4 r   b     -     -         3781   30   55 
+col_klink 984646654  4  3 f   -     -     -         3806    0    0 
+col_klink 984646660  4  2 Bf  -     -     -         3806   10    0 
+col_klink 984646675  4  1 Bc  bc    bc    kc        3796   90    0 5s Qs
+col_klink 984646700  4  4 f   -     -     -         3706    0    0 
+col_klink 984646706  4  3 f   -     -     -         3706    0    0 
+col_klink 984646723  4  2 Br  b     -     -         3706   30   50 
+col_klink 984646735  4  1 Bcc k     k     b         3726   40   60 
+col_klink 984646761  4  4 f   -     -     -         3746    0    0 
+col_klink 984646780  4  3 f   -     -     -         3746    0    0 
+col_klink 984646787  4  2 Bk  k     k     b         3746   30   50 
+col_klink 984646815  4  1 Bf  -     -     -         3766    5    0 
+col_klink 984646839  4  4 f   -     -     -         3761    0    0 
+col_klink 984646861  4  3 f   -     -     -         3761    0    0 
+col_klink 984646886  4  2 Br  kcc   kf    -         3761   80    0 
+col_klink 984646938  4  1 Brc kc    kf    -         3681   50    0 
+col_klink 984646973  4  4 f   -     -     -         3631    0    0 
+col_klink 984647002  4  3 KQ  -     -     -         3631    0    0 
+col_klink 985681140  4  4 c   b     k     b         3601   40   80 
+col_klink 985681161  4  4 f   -     -     -         3641    0    0 
+col_klink 985681174  5  3 r   b     k     b         3641   50   85 
+col_klink 985681194  5  2 Bk  k     k     k         3676   10    0 7d 9c
+col_klink 985681212  5  1 Bc  k     k     b         3666   30   50 
+col_klink 985681237  5  5 f   -     -     -         3686    0    0 
+col_klink 985681260  5  4 f   -     -     -         3686    0    0 
+col_klink 985681272  5  3 c   b     -     -         3686   20   50 
+col_klink 985681289  5  2 B   -     -     -         3716   10   15 
+col_klink 985681300  5  1 Bf  -     -     -         3721    5    0 
+col_klink 985681327  5  5 cc  b     f     -         3716   30    0 
+col_klink 985681350  5  4 cc  k     b     c         3686   60    0 8d Kd
+col_klink 985681382  5  3 f   -     -     -         3626    0    0 
+col_klink 985681390  5  2 Bc  kf    -     -         3626   20    0 
+col_klink 985681402  5  1 Br  b     b     b         3606   70  200 Js Qd
+col_klink 985681418  5  5 f   -     -     -         3736    0    0 
+col_klink 985681438  5  4 c   f     -     -         3736   10    0 
+col_klink 985681454  5  3 f   -     -     -         3726    0    0 
+col_klink 985681472  5  2 Bk  k     b     k         3726   30    0 Jd 9s
+col_klink 985681488  5  1 Bf  -     -     -         3696    5    0 
+col_klink 985681506  6  6 r   r     r     rc        3691  140    0 Kd Ac
+col_klink 985681581  5  5 c   b     b     b         3551   60  150 9c Jd
+col_klink 985681637  5  4 f   -     -     -         3641    0    0 
+col_klink 985681675  6  3 f   -     -     -         3641    0    0 
+col_klink 985681774  6  2 Bk  k     kf    -         3641   10    0 
+col_klink 985681800  6  1 Br  k     b     -         3631   40   90 
+col_klink 985681898  7  7 f   -     -     -         3681    0    0 
+col_klink 985681962  7  6 f   -     -     -         3681    0    0 
+col_klink 985681996  7  6 f   -     -     -         3681    0    0 
+col_klink 985682017  7  5 r   krc   kf    -         3681   50    0 
+col_klink 985682070  8  5 f   -     -     -         3631    0    0 
+col_klink 985682113  7  3 f   -     -     -         3631    0    0 
+col_klink 985682150  4  1 Bf  -     -     -         3631   10    0 
+col_klink 985682158  4  1 Bf  -     -     -         3621    5    0 
+col_klink 985682174  5  5 f   -     -     -         3616    0    0 
+col_klink 985682203  5  4 f   -     -     -         3616    0    0 
+col_klink 985682217  5  3 f   -     -     -         3616    0    0 
+col_klink 985682235  6  3 f   -     -     -         3616    0    0 
+col_klink 985682239  6  2 Bk  b     b     b         3616   60  190 Kd 9c
+col_klink 985682263  6  1 Br  k     k     b         3746   50    0 Jh As
+col_klink 985682296  6  6 f   -     -     -         3696    0    0 
+col_klink 985682329  7  5 f   -     -     -         3696    0    0 
+col_klink 985682382  6  3 c   kf    -     -         3696   10    0 
+col_klink 985682421  8  2 Bc  kc    kf    -         3686   30    0 
+col_klink 985682452  7  1 Bf  -     -     -         3656    5    0 
+col_klink 985682475  7  7 f   -     -     -         3651    0    0 
+col_klink 985682494  7  6 f   -     -     -         3651    0    0 
+col_klink 985682525  7  5 f   -     -     -         3651    0    0 
+col_klink 985682554  7  4 f   -     -     -         3651    0    0 
+col_klink 985682580  7  3 f   -     -     -         3651    0    0 
+col_klink 985682608  7  2 Br  b     b     b         3651   70    0 Kc Ac
+col_klink 985682635  7  1 Bf  -     -     -         3581    5    0 
+col_klink 985682675  7  7 r   rc    c     c         3576   90    0 Kc Kh
+col_klink 985682725  7  6 f   -     -     -         3486    0    0 
+col_klink 985682751  8  6 f   -     -     -         3486    0    0 
+col_klink 985682774  8  5 f   -     -     -         3486    0    0 
+col_klink 985682812  9  5 c   r     brc   kf        3486  110    0 
+col_klink 985682902  9  4 f   -     -     -         3376    0    0 
+col_klink 985682970  9  3 f   -     -     -         3376    0    0 
+col_klink 985683003  8  2 Bk  kf    -     -         3376   10    0 
+col_klink 985683036  7  1 Bc  k     b     b         3366   60  150 
+col_klink 985683067  7  7 c   b     -     -         3456   20   65 
+col_klink 985683097  8  7 f   -     -     -         3501    0    0 
+col_klink 985683132  8  6 f   -     -     -         3501    0    0 
+col_klink 985683155  8  5 f   -     -     -         3501    0    0 
+col_klink 985683194  8  4 f   -     -     -         3501    0    0 
+col_klink 985683250  7  2 Br  kc    kc    kc        3501   70    0 Kd Ah
+col_klink 985683280  7  1 Bf  -     -     -         3431    5    0 
+col_klink 985683292  7  7 f   -     -     -         3426    0    0 
+col_klink 985683306  7  6 f   -     -     -         3426    0    0 
+col_klink 985683328  7  5 f   -     -     -         3426    0    0 
+col_klink 985683350  8  5 f   -     -     -         3426    0    0 
+col_klink 985683383  8  4 f   -     -     -         3426    0    0 
+col_klink 985683413  8  3 f   -     -     -         3426    0    0 
+col_klink 985683465  8  2 Bc  kf    -     -         3426   20    0 
+col_klink 985683495  8  1 Bc  kf    -     -         3406   10    0 
+col_klink 985683532  8  8 f   -     -     -         3396    0    0 
+col_klink 985683569  8  7 c   c     f     -         3396   20    0 
+col_klink 985683603  8  6 f   -     -     -         3376    0    0 
+col_klink 985683627  7  4 f   -     -     -         3376    0    0 
+col_klink 985683656  7  3 f   -     -     -         3376    0    0 
+col_klink 985683689  7  2 Bk  kf    -     -         3376   10    0 
+col_klink 985683732  7  1 Bf  -     -     -         3366    5    0 
+col_klink 985683753  7  7 f   -     -     -         3361    0    0 
+col_klink 985683799  7  6 f   -     -     -         3361    0    0 
+col_klink 985683839  7  5 f   -     -     -         3361    0    0 
+col_klink 985683893  7  4 fQ  -     -     -         3361    0    0 
+col_klink 985916451  7  5 f   -     -     -         3751    0    0 
+col_klink 985916547  8  4 f   -     -     -         3751    0    0 
+col_klink 985916579  7  3 f   -     -     -         3751    0    0 
+col_klink 985916644  7  2 Bk  kf    -     -         3751   10    0 
+col_klink 985916691  8  1 Bf  -     -     -         3741    5    0 
+col_klink 985916779 10 10 r   b     b     c         3736   70    0 Js Qd
+col_klink 985916821 10 10 c   b     k     b         3666   40    0 As 7s
+col_klink 985916878  9  8 c   kf    -     -         3626   10    0 
+col_klink 985916911  9  7 r   f     -     -         3616   20    0 
+col_klink 985916985  8  6 f   -     -     -         3596    0    0 
+col_klink 985917029  8  5 f   -     -     -         3596    0    0 
+col_klink 985917061  8  4 f   -     -     -         3596    0    0 
+col_klink 985917088  9  3 f   -     -     -         3596    0    0 
+col_klink 985917127  9  2 Bk  kf    -     -         3596   10    0 
+col_klink 985917203  9  1 Bf  -     -     -         3586    5    0 
+col_klink 985917289  8  8 f   Q     -     -         3581    0    0 

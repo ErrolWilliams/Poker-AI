@@ -1,0 +1,424 @@
+NormanC   954731615  7  3 rc  f     -     -          447   30    0 
+NormanC   954731683  6  2 Br  r     f     -          417   40    0 
+NormanC   954731763  6  1 Bf  -     -     -          377    5    0 
+NormanC   954731803  7  7 f   -     -     -          372    0    0 
+NormanC   954731881  7  6 cc  c     rc    k          372  110  345 5d 5c
+NormanC   954731962  7  5 f   -     -     -          607    0    0 
+NormanC   954732021  9  4 f   -     -     -          607    0    0 
+NormanC   954732105  9  3 f   -     -     -          607    0    0 
+NormanC   954732147  9  2 Bf  -     -     -          607   10    0 
+NormanC   954732216 10  1 Bf  -     -     -          597    5    0 
+NormanC   954732266  8  8 f   -     -     -          592    0    0 
+NormanC   954732336  9  8 f   -     -     -          592    0    0 
+NormanC   954732399 10  7 f   -     -     -          592    0    0 
+NormanC   954732468  9  5 fQ  -     -     -          592    0    0 
+NormanC   954748375  9  7 f   -     -     -          592    0    0 
+NormanC   954748426  8  5 rc  kf    -     -          592   30    0 
+NormanC   954748508 10  4 r   b     r     b          562   90    0 Ac Ah
+NormanC   954748626 10  3 f   -     -     -          472    0    0 
+NormanC   954748732  9  2 Br  bf    -     -          472   30    0 
+NormanC   954748863  9  1 Bf  -     -     -          442    5    0 
+NormanC   954748932  9  9 r   c     c     k          437   70    0 Ac Jd
+NormanC   954749017  9  8 f   -     -     -          367    0    0 
+NormanC   954749133  8  6 f   -     -     -          367    0    0 
+NormanC   954749195  8  6 f   -     -     -          367    0    0 
+NormanC   954749242  7  4 f   -     -     -          367    0    0 
+NormanC   954749278  7  3 f   -     -     -          367    0    0 
+NormanC   954749325  7  2 Bk  k     b     b          367   50    0 Qc Kd
+NormanC   954749402  7  1 Bc  kf    -     -          317   10    0 
+NormanC   954749487  7  7 f   -     -     -          307    0    0 
+NormanC   954749559  7  6 f   -     -     -          307    0    0 
+NormanC   954749631  7  5 f   -     -     -          307    0    0 
+NormanC   954749725  8  5 f   -     -     -          307    0    0 
+NormanC   954749755  8  4 f   -     -     -          307    0    0 
+NormanC   954749848  8  3 c   b     -     -          307   20   50 
+NormanC   954749902  7  2 Bc  br    b     k          337   70    0 6h 5d
+NormanC   954749966  7  1 Bcc kf    -     -          267   20    0 
+NormanC   954750032  8  8 c   r     b     b          247   80  175 
+NormanC   954750105  8  7 f   -     -     -          342    0    0 
+NormanC   954750139  8  6 f   -     -     -          342    0    0 
+NormanC   954750179  8  5 f   -     -     -          342    0    0 
+NormanC   954750240  8  4 f   -     -     -          342    0    0 
+NormanC   954750302  7  3 f   -     -     -          342    0    0 
+NormanC   954750374  8  2 Br  b     kf    -          342   30    0 
+NormanC   954750466  8  1 Bf  -     -     -          312    5    0 
+NormanC   954750538  7  7 f   -     -     -          307    0    0 
+NormanC   954750571  7  6 f   -     -     -          307    0    0 
+NormanC   954750646  8  6 f   -     -     -          307    0    0 
+NormanC   954750696  7  4 r   kc    kr    b          307   90  225 Ac Ah
+NormanC   954750746  7  3 f   -     -     -          442    0    0 
+NormanC   954750812  6  2 Bk  kf    -     -          442   10    0 
+NormanC   954750890  6  1 Bc  b     k     kf         432   30    0 
+NormanC   954750970  6  6 f   -     -     -          402    0    0 
+NormanC   954751015  6  5 f   -     -     -          402    0    0 
+NormanC   954751056  7  5 f   -     -     -          402    0    0 
+NormanC   954751082  7  4 c   b     kc    kf         402   40    0 
+NormanC   954751126  7  3 r   k     rc    k          362   80    0 Js Jh
+NormanC   954751178  7  2 Bf  -     -     -          282   10    0 
+NormanC   954751207  7  1 Bf  -     -     -          272    5    0 
+NormanC   954751246  8  8 f   -     -     -          267    0    0 
+NormanC   954751287  8  7 f   -     -     -          267    0    0 
+NormanC   954751308  8  6 c   k     f     -          267   10    0 
+NormanC   954751386  8  5 f   -     -     -          257    0    0 
+NormanC   954751440  8  4 f   -     -     -          257    0    0 
+NormanC   954751515  8  3 f   -     -     -          257    0    0 
+NormanC   954751556  7  2 Bk  c     k     r          257   60  120 
+NormanC   954751612  7  1 Bf  -     -     -          317    5    0 
+NormanC   954751652  7  7 r   k     r     b          312   80  155 
+NormanC   954751701  7  4 Q   -     -     -          387    0    0 
+NormanC   954755992  4  3 c   bf    -     -          387   20    0 
+NormanC   954756037  3  2 Bf  -     -     -          367   10    0 
+NormanC   954756041  3  1 Br  b     b     b          357   70  120 
+NormanC   954756081  2  2 Br  b     rc    k          407   90    0 7s Ks
+NormanC   954756121  2  1 Br  -     -     -          317   20   30 
+NormanC   954756128  2  2 Bf  -     -     -          327   10    0 
+NormanC   954756136  2  1 Bf  -     -     -          317    5    0 
+NormanC   954756141  2  2 B   -     -     -          312   10   15 
+NormanC   954756146  2  1 Bf  -     -     -          317    5    0 
+NormanC   954756151  2  2 Bk  k     k     k          312   10    0 2h 8s
+NormanC   954756170  3  1 Br  b     b     b          302   70    0 6h Kd
+NormanC   954756187  3  3 f   -     -     -          232    0    0 
+NormanC   954756206  3  2 Br  k     b     -          232   40   80 
+NormanC   954756228  3  1 Br  b     brc   bc         272  150  450 Th Kh
+NormanC   954756274  3  3 f   -     -     -          572    0    0 
+NormanC   954756297  3  2 Br  b     b     k          572   50  100 4s 4d
+NormanC   954756328  3  1 Br  b     b     b          622   70  170 
+NormanC   954756359  3  3 r   b     b     b          722   70  160 Td Th
+NormanC   954756379  3  2 Bk  b     b     k          812   40    0 Kd 4c
+NormanC   954756405  3  1 Bf  -     -     -          772    5    0 
+NormanC   954756419  3  3 r   c     c     f          767   50    0 
+NormanC   954756465  3  2 Bf  -     -     -          717   10    0 
+NormanC   954756470  3  1 Bc  k     b     b          707   50   90 
+NormanC   954756493  4  4 r   b     b     b          747   70  165 9c 9d
+NormanC   954756526  4  3 f   -     -     -          842    0    0 
+NormanC   954756601  4  2 Bf  -     -     -          842   10    0 
+NormanC   954756626  3  1 Bcc kf    -     -          832   20    0 
+NormanC   954756653  3  3 r   r     b     b          812   80  145 
+NormanC   954756676  3  2 Bk  f     -     -          877   10    0 
+NormanC   954756689  3  1 Bc  b     -     -          867   20   40 
+NormanC   954756700  3  3 r   r     k     k          887   40    0 3h Ac
+NormanC   954756717  3  2 Bk  b     b     b          847   60    0 8c 3c
+NormanC   954756743  4  1 Bf  -     -     -          787    5    0 
+NormanC   954756775  5  5 f   -     -     -          782    0    0 
+NormanC   954756869  6  6 f   -     -     -          782    0    0 
+NormanC   954756907  7  5 f   -     -     -          782    0    0 
+NormanC   954756961  7  4 f   -     -     -          782    0    0 
+NormanC   954756998  7  3 r   bc    kcc   b          782  140  600 Js Ad
+NormanC   954757062  8  2 Bf  -     -     -         1242   10    0 
+NormanC   954757131  8  1 Bf  -     -     -         1232    5    0 
+NormanC   954757188  8  8 f   -     -     -         1227    0    0 
+NormanC   954757239  9  8 f   -     -     -         1227    0    0 
+NormanC   954757294  9  7 r   k     k     k         1227   20    0 Ah Js
+NormanC   954757343  9  6 f   -     -     -         1207    0    0 
+NormanC   954757385  9  5 f   -     -     -         1207    0    0 
+NormanC   954757453 10  5 f   -     -     -         1207    0    0 
+NormanC   954757522  9  4 cc  f     -     -         1207   20    0 
+NormanC   954757604 10  3 f   -     -     -         1187    0    0 
+NormanC   954757666 10  2 Bf  -     -     -         1187   10    0 
+NormanC   954757750 10  1 Bf  -     -     -         1177    5    0 
+NormanC   954757835 10 10 cc  c     ccc   f         1172  120    0 
+NormanC   954757977 10  9 c   b     ccc   cc        1052  167    0 Kh 9c
+NormanC   954758120 10  8 f   -     -     -          885    0    0 
+NormanC   954758232 10  7 f   -     -     -          885    0    0 
+NormanC   954758295 10  7 f   -     -     -          885    0    0 
+NormanC   954758395 10  5 f   -     -     -          885    0    0 
+NormanC   954758502 10  4 c   r     b     b          885   70  240 Qh Jd
+NormanC   954758595 10  3 f   -     -     -         1055    0    0 
+NormanC   954758658 10  2 Bk  k     kf    -         1055   10    0 
+NormanC   954758753 10  1 Bc  kf    -     -         1045   10    0 
+NormanC   954758857 10 10 c   rc    c     c         1035   80  225 Kh Qd
+NormanC   954758930  9  9 c   k     f     -         1180   10    0 
+NormanC   954759004  9  8 f   -     -     -         1170    0    0 
+NormanC   954759106  9  7 cc  f     -     -         1170   20    0 
+NormanC   954759174  9  6 f   -     -     -         1150    0    0 
+NormanC   954759253  9  5 f   -     -     -         1150    0    0 
+NormanC   954759344 10  4 rc  f     Q     -         1150   30    0 
+NormanC   954761431  9  4 f   -     -     -         1120    0    0 
+NormanC   954761494  8  3 c   f     -     -         1120   10    0 
+NormanC   954761541  8  2 Bk  kf    -     -         1110   10    0 
+NormanC   954761591  8  1 Bf  -     -     -         1100    5    0 
+NormanC   954761643  9  8 f   -     -     -         1095    0    0 
+NormanC   954761782  8  6 f   -     -     -         1095    0    0 
+NormanC   954761849  8  5 f   -     -     -         1095    0    0 
+NormanC   954761907  7  4 f   -     -     -         1095    0    0 
+NormanC   954761944  7  3 c   kf    -     -         1095   10    0 
+NormanC   954761984  7  2 Bk  kf    -     -         1085   10    0 
+NormanC   954762044  7  1 Bf  -     -     -         1075    5    0 
+NormanC   954762091  6  6 f   -     -     -         1070    0    0 
+NormanC   954762120  6  5 f   -     -     -         1070    0    0 
+NormanC   954762182  7  4 f   -     -     -         1070    0    0 
+NormanC   954762237  7  3 f   -     -     -         1070    0    0 
+NormanC   954762268  7  2 Bc  kf    -     -         1070   20    0 
+NormanC   954762318  6  1 Bc  k     kf    -         1050   10    0 
+NormanC   954762411  6  6 f   -     -     -         1040    0    0 
+NormanC   954762449  5  4 f   -     -     -         1040    0    0 
+NormanC   954762523  5  3 cf  -     -     -         1040   10    0 
+NormanC   954762563  5  2 Bc  k     kf    -         1030   20    0 
+NormanC   954762619  5  1 Bcc b     b     -         1010   50  100 
+NormanC   954762699  5  5 f   -     -     -         1060    0    0 
+NormanC   954762783  6  5 f   -     -     -         1060    0    0 
+NormanC   954762815  6  4 r   -     -     -         1060   20   35 
+NormanC   954762827  6  3 f   -     -     -         1075    0    0 
+NormanC   954762842  6  2 Bk  k     k     k         1075   10   25 5d 8c
+NormanC   954762868  6  1 Bc  k     bc    kf        1090   60    0 
+NormanC   954762923  6  6 f   -     -     -         1030    0    0 
+NormanC   954762971  6  5 f   -     -     -         1030    0    0 
+NormanC   954763046  8  4 c   f     -     -         1030   10    0 
+NormanC   954763149  8  3 f   -     -     -         1020    0    0 
+NormanC   954763217  8  2 Bc  kc    kf    -         1020   30    0 
+NormanC   954763299  8  1 Bf  -     -     -          990    5    0 
+NormanC   954763379  9  9 f   -     -     -          985    0    0 
+NormanC   954763467  9  8 f   -     -     -          985    0    0 
+NormanC   954763565  9  7 f   -     -     -          985    0    0 
+NormanC   954763639  9  5 f   -     -     -          985    0    0 
+NormanC   954763708  8  4 f   -     -     -          985    0    0 
+NormanC   954763763  7  3 f   -     -     -          985    0    0 
+NormanC   954763826  8  2 Br  k     k     b          985   40    0 Th Ah
+NormanC   954763903  8  1 Bf  -     -     -          945    5    0 
+NormanC   954763969  6  6 f   -     -     -          940    0    0 
+NormanC   954763989  6  5 f   -     -     -          940    0    0 
+NormanC   954764055  6  4 f   -     -     -          940    0    0 
+NormanC   954764107  6  3 cf  -     -     -          940   10    0 
+NormanC   954764146  6  2 Bk  kc    kc    kc         930   60    0 3h 8h
+NormanC   954764216  6  1 Bf  -     -     -          870    5    0 
+NormanC   954764287  7  7 f   -     -     -          865    0    0 
+NormanC   954764442  7  7 r   c     f     -          865   40    0 
+NormanC   954764506  8  6 c   k     c     f          825   30    0 
+NormanC   954764572  8  5 c   r     k     k          795   30    0 3d 3s
+NormanC   954764634  8  4 f   -     -     -          765    0    0 
+NormanC   954764698  9  3 f   -     -     -          765    0    0 
+NormanC   954764769  8  2 Bf  -     -     -          765   10    0 
+NormanC   954764813  8  1 Bf  -     -     -          755    5    0 
+NormanC   954764899  9  9 f   -     -     -          750    0    0 
+NormanC   954764955  9  8 f   -     -     -          750    0    0 
+NormanC   954765013  9  7 f   -     -     -          750    0    0 
+NormanC   954765103  9  6 f   -     -     -          750    0    0 
+NormanC   954765164  9  5 f   -     -     -          750    0    0 
+NormanC   954765264 10  5 rc  b     -     -          750   40  115 
+NormanC   954765323 10  4 r   f     -     -          825   20    0 
+NormanC   954765376 10  3 f   -     -     -          805    0    0 
+NormanC   954765458  9  2 Bk  bc    k     b          805   50  100 
+NormanC   954765535  9  1 Bc  k     k     k          855   10    0 Ah 4h
+NormanC   954765625  8  8 f   -     -     -          845    0    0 
+NormanC   954765693  9  8 cc  c     c     c          845   70    0 7h Ah
+NormanC   954765739 10  8 f   -     -     -          775    0    0 
+NormanC   954765802 10  7 f   -     -     -          775    0    0 
+NormanC   954765936 10  7 f   -     -     -          775    0    0 
+NormanC   954766050  9  5 f   -     -     -          775    0    0 
+NormanC   954766113  8  4 f   -     -     -          775    0    0 
+NormanC   954766171  8  3 f   -     -     -          775    0    0 
+NormanC   954766231  9  2 Bf  -     -     -          775   10    0 
+NormanC   954766305  9  1 Bf  -     -     -          765    5    0 
+NormanC   954766394  9  9 f   -     -     -          760    0    0 
+NormanC   954766457 10  9 f   -     -     -          760    0    0 
+NormanC   954766539  9  8 f   -     -     -          760    0    0 
+NormanC   954766589  7  5 f   -     -     -          760    0    0 
+NormanC   954766601  8  4 f   -     -     -          760    0    0 
+NormanC   954766663  8  3 f   -     -     -          760    0    0 
+NormanC   954766736  8  2 Bf  -     -     -          760   10    0 
+NormanC   954766838  7  1 Bf  -     -     -          750    5    0 
+NormanC   954766897  7  7 f   -     -     -          745    0    0 
+NormanC   954767052  6  6 c   f     -     -          745   20    0 
+NormanC   954767114  6  4 c   k     r     -          725   50  110 
+NormanC   954767155  6  3 f   -     -     -          785    0    0 
+NormanC   954767209  6  2 cc  kc    kf    -          785   30    0 
+NormanC   954767297  6  2 Bk  kf    -     -          755   10    0 
+NormanC   954767351  6  1 Bc  kf    -     -          745   20    0 
+NormanC   954767401  6  6 f   -     -     -          725    0    0 
+NormanC   954767467  6  5 f   -     -     -          725    0    0 
+NormanC   954767514  6  4 c   k     krf   -          725   50    0 
+NormanC   954767641  6  3 f   -     -     -          675    0    0 
+NormanC   954767746  7  2 Bc  k     kc    kr         675   80  165 4h Ah
+NormanC   954767809  7  1 Bc  kf    -     -          760   20    0 
+NormanC   954767907  7  7 f   -     -     -          740    0    0 
+NormanC   954767979  7  6 c   k     f     -          740   10    0 
+NormanC   954768027  8  5 f   -     -     -          730    0    0 
+NormanC   954768058  8  4 c   b     -     -          730   20   50 
+NormanC   954768114  8  3 cf  -     -     -          760   10    0 
+NormanC   954768186  8  2 Br  kf    -     -          750   20    0 
+NormanC   954768304  8  1 Bf  -     -     -          730    5    0 
+NormanC   954768405  7  7 f   -     -     -          725    0    0 
+NormanC   954768477  8  7 f   -     -     -          725    0    0 
+NormanC   954768643  9  7 f   -     -     -          725    0    0 
+NormanC   954768712  9  6 f   -     -     -          725    0    0 
+NormanC   954768783  9  5 f   -     -     -          725    0    0 
+NormanC   954768856 10  5 f   -     -     -          725    0    0 
+NormanC   954768965 10  4 f   -     -     -          725    0    0 
+NormanC   954769063 10  3 f   -     -     -          725    0    0 
+NormanC   954769120 10  2 Bf  -     -     -          725   10    0 
+NormanC   954769198 10  1 Bf  -     -     -          715    5    0 
+NormanC   954769288 10 10 c   f     -     -          710   10    0 
+NormanC   954769363 10  9 f   -     -     -          700    0    0 
+NormanC   954769455 10  8 f   -     -     -          700    0    0 
+NormanC   954769538 10  7 f   -     -     -          700    0    0 
+NormanC   954769591 10  6 f   -     -     -          700    0    0 
+NormanC   954769630 10  5 KQ  -     -     -          700    0    0 
+NormanC   954769801 10  3 f   -     -     -          700    0    0 
+NormanC   954769902  9  2 Bk  b     b     b          700   60  125 
+NormanC   954769957  8  1 BQ  -     -     -          765    5    0 
+NormanC   954835011  7  5 f   -     -     -          668    0    0 
+NormanC   954835069  7  4 f   -     -     -          668    0    0 
+NormanC   954835116  8  3 r   bc    kc    kf         668   60    0 
+NormanC   954835191  8  2 Bf  -     -     -          608   10    0 
+NormanC   954835247  9  1 Bf  -     -     -          598    5    0 
+NormanC   954835292  9  9 f   -     -     -          593    0    0 
+NormanC   954835354  9  8 f   -     -     -          593    0    0 
+NormanC   954835419 10  8 c   k     r     b          593   70  185 Ad 8d
+NormanC   954835491 10  7 r   bc    kr    bc         708  120    0 Ad Ks
+NormanC   954835564 10  6 f   -     -     -          588    0    0 
+NormanC   954835645 10  5 cc  f     -     -          588   20    0 
+NormanC   954835730 10  4 f   -     -     -          568    0    0 
+NormanC   954835826  9  3 f   -     -     -          568    0    0 
+NormanC   954835898 10  2 Bk  f     -     -          568   10    0 
+NormanC   954835963 10  1 Br  kr    b     b          558   90    0 Js Ah
+NormanC   954836045 10 10 f   -     -     -          468    0    0 
+NormanC   954836148 10  9 f   -     -     -          468    0    0 
+NormanC   954836214 10  8 c   r     b     bc         468   90    0 8d 7d
+NormanC   954836347  9  6 f   -     -     -          378    0    0 
+NormanC   954836406  9  5 c   c     f     -          378   20    0 
+NormanC   954836489 10  4 f   -     -     -          358    0    0 
+NormanC   954836573 10  3 f   -     -     -          358    0    0 
+NormanC   954836670 10  2 Bk  rr    b     b          358   90    0 Qs 4h
+NormanC   954836739 10  1 Bc  Q     -     -          268   10    0 
+NormanC   954836937 10  9 f   -     -     -          258    0    0 
+NormanC   954837045  8  6 f   -     -     -          258    0    0 
+NormanC   954837103  7  4 f   -     -     -          258    0    0 
+NormanC   954837177  7  3 f   -     -     -          258    0    0 
+NormanC   954837216  7  2 Bk  b     -     -          258   20   60 
+NormanC   954837256  7  1 Brr k     b     b          298   80    0 Qc As
+NormanC   954837353  7  7 f   -     -     -          218    0    0 
+NormanC   954837403  7  6 r   r     b     b          218   80    0 As 6c
+NormanC   954837522  6  5 r   -     -     -          138   20   35 
+NormanC   954837535  7  5 r   b     -     -          153   30   65 
+NormanC   954837554  7  4 r   br    b     -          188   70  135 
+NormanC   954837633  7  3 rr  r     br    b          253  140    0 Js 5h
+NormanC   954837705  7  2 Brc br    b     bA         113  113    0 2h 3s
+NormanC   954837867  7  7 c   b     b     -         1000   40   90 
+NormanC   954837978  8  6 f   -     -     -         1050    0    0 
+NormanC   954838087  8  5 f   -     -     -         1050    0    0 
+NormanC   954838138  9  5 f   -     -     -         1050    0    0 
+NormanC   954838242  9  3 f   -     -     -         1050    0    0 
+NormanC   954838284  9  2 Bcc kf    -     -         1050   40    0 
+NormanC   954838374  8  1 Bf  -     -     -         1010    5    0 
+NormanC   954838472  7  7 c   k     b     b         1005   50   85 
+NormanC   954838559  9  7 f   -     -     -         1040    0    0 
+NormanC   954838605  9  6 f   -     -     -         1040    0    0 
+NormanC   954838647  9  5 c   b     b     k         1040   40    0 9h 8c
+NormanC   954838720  9  4 r   b     b     b         1000   70    0 8s Ad
+NormanC   954838761  9  3 f   -     -     -          930    0    0 
+NormanC   954838847  9  2 Bf  -     -     -          930   10    0 
+NormanC   954838910  9  1 Br  b     b     b          920   70  180 
+NormanC   954838975  9  9 r   k     c     f         1030   40    0 
+NormanC   954839048  9  8 f   -     -     -          990    0    0 
+NormanC   954839111  9  7 f   -     -     -          990    0    0 
+NormanC   954839175  9  6 r   b     -     -          990   30   65 
+NormanC   954839214  9  5 rr  br    b     b         1025  110  295 
+NormanC   954839293  8  4 f   -     -     -         1210    0    0 
+NormanC   954839310  8  3 r   b     b     bc        1210   90    0 Ts Tc
+NormanC   954839344  8  2 Bk  k     brc   kr        1120  130  265 As 4d
+NormanC   954839409  8  1 Bf  -     -     -         1255    5    0 
+NormanC   954839488  8  8 c   brc   rr    c         1250  150    0 Kc 9c
+NormanC   954839596  8  7 f   -     -     -         1100    0    0 
+NormanC   954839660  8  6 f   -     -     -         1100    0    0 
+NormanC   954839708  8  5 r   b     b     -         1100   50   85 
+NormanC   954839775  8  4 c   bc    kc    f         1135   50    0 
+NormanC   954839882  8  3 c   b     -     -         1085   20   60 
+NormanC   954839937  8  2 Brr k     kc    k         1125   60    0 Qd As
+NormanC   954840012  8  1 Bf  -     -     -         1065    5    0 
+NormanC   954840032  8  8 f   -     -     -         1060    0    0 
+NormanC   954840040  7  6 c   f     -     -         1060   20    0 
+NormanC   954840108  7  5 f   -     -     -         1040    0    0 
+NormanC   954840138  7  4 f   -     -     -         1040    0    0 
+NormanC   954840198  7  3 cc  b     -     -         1040   30   80 
+NormanC   954840231  7  2 Bf  -     -     -         1090   10    0 
+NormanC   954840251  7  1 Bc  bc    kc    kf        1080   60    0 
+NormanC   954840316  8  8 f   -     -     -         1020    0    0 
+NormanC   954840412  8  6 r   b     b     -         1020   50  115 
+NormanC   954840464  8  5 r   brc   rr    b         1085  160    0 Jh Ad
+NormanC   954840538 10  5 cc  Q     -     -          925   20    0 
+NormanC   954844221  8  7 c   f     -     -          905   20    0 
+NormanC   954844270  8  6 f   -     -     -          885    0    0 
+NormanC   954844348  8  5 f   -     -     -          885    0    0 
+NormanC   954844414  8  4 c   f     -     -          885   10    0 
+NormanC   954844486  8  3 cc  br    rc    cc         875  200    0 Kc Qd
+NormanC   954844621  8  2 Bf  -     -     -          675   10    0 
+NormanC   954844733  8  1 Brc b     br    b          665  130  270 
+NormanC   954844797  8  8 f   -     -     -          805    0    0 
+NormanC   954844840  8  7 f   -     -     -          805    0    0 
+NormanC   954844930  8  6 r   r     b     b          805   80  260 8s Kc
+NormanC   954845082  8  5 f   -     -     -          985    0    0 
+NormanC   954845139  7  4 f   -     -     -          985    0    0 
+NormanC   954845204  7  3 f   -     -     -          985    0    0 
+NormanC   954845253  9  2 Bf  -     -     -          985   10    0 
+NormanC   954845322  9  1 Br  kf    -     -          975   20    0 
+NormanC   954845396  9  9 f   -     -     -          955    0    0 
+NormanC   954845433  9  8 c   b     b     b          955   60  170 
+NormanC   954845550  8  6 c   b     b     b         1065   60    0 9d 7d
+NormanC   954845584  8  5 c   kc    kc    f         1005   40    0 
+NormanC   954845656  7  3 f   -     -     -          965    0    0 
+NormanC   954845709  6  2 Bf  -     -     -          965   10    0 
+NormanC   954845780  6  1 Bc  b     -     -          955   20   50 
+NormanC   954845847  6  6 cc  r     b     b          985   80  180 
+NormanC   954845929  7  6 f   -     -     -         1085    0    0 
+NormanC   954846024  8  6 f   -     -     -         1085    0    0 
+NormanC   954846131  8  5 r   br    b     b         1085   90    0 Jc Kc
+NormanC   954846195  8  4 f   -     -     -          995    0    0 
+NormanC   954846301  9  3 f   -     -     -          995    0    0 
+NormanC   954846363  9  2 Bf  -     -     -          995   10    0 
+NormanC   954846445  9  1 Bc  k     kc    kf         985   50    0 
+NormanC   954846519  9  9 rr  rr    b     bc         935  140    0 Ks Ah
+NormanC   954846612 10  9 f   -     -     Q          795    0    0 
+NormanC   954846878  8  3 cc  k     kf    Q          795   20    0 
+NormanC   954850160  8  8 f   -     -     -          775    0    0 
+NormanC   954850193  8  7 c   b     brc   r          775  140  300 Qc Js
+NormanC   954850294  9  7 r   kf    -     Q          935   20    0 
+NormanC   954860499  2  2 Brc rr    rr    rr         765  240  480 3d Qh
+NormanC   954870699  4  1 BKQ -     -     -         1005    5    0 
+NormanC   955357210  9  5 cc  f     -     -         1000   20    0 
+NormanC   955357300 10  4 f   -     -     -          980    0    0 
+NormanC   955357358 10  3 f   -     -     -          980    0    0 
+NormanC   955357412 10  2 Brc kf    -     -          980   40    0 
+NormanC   955357483 10  1 BQ  -     -     -          940    5    0 
+NormanC   955613741  5  4 r   b     b     b          770   70    0 Qs Qd
+NormanC   955613803  8  6 f   -     -     -          700    0    0 
+NormanC   955613857  8  5 f   -     -     -          700    0    0 
+NormanC   955613899  9  5 f   -     -     -          700    0    0 
+NormanC   955613951 10  6 f   -     -     -          700    0    0 
+NormanC   955614027 10  4 f   -     -     -          700    0    0 
+NormanC   955614061 10  3 cc  kc    k     b          700   50  160 Kh Qc
+NormanC   955614135 10  2 Bc  f     -     -          810   20    0 
+NormanC   955614187 10  1 Bc  kf    -     -          790   10    0 
+NormanC   955614219 10 10 f   -     -     -          780    0    0 
+NormanC   955614280 10  9 f   -     -     -          780    0    0 
+NormanC   955614330 10  8 cc  kf    -     -          780   20    0 
+NormanC   955614391 10  7 f   -     -     -          760    0    0 
+NormanC   955614451 10  6 c   r     c     c          760   70  160 Qh Jd
+NormanC   955614492  9  4 c   k     f     -          850   10    0 
+NormanC   955614534  9  3 f   -     -     -          840    0    0 
+NormanC   955614554  9  2 Bc  kc    kf    -          840   50    0 
+NormanC   955614614  9  1 Bf  -     Q     -          790    5    0 
+NormanC   955789862 10  5 cc  kf    -     -          775   40    0 
+NormanC   955789997  3  2 c   k     kf    -          735   10    0 
+NormanC   955790034  4  1 BfQ -     -     -          725   10    0 
+NormanC   956378368  9  3 f   -     -     -         2345    0    0 
+NormanC   956378404 10  3 cc  b     b     k         2345   50  170 Js Kc
+NormanC   956378460 10  2 Bc  kf    -     -         2465   20    0 
+NormanC   956378505 10  1 Bf  -     -     -         2445    5    0 
+NormanC   956378541 10 10 f   -     -     -         2440    0    0 
+NormanC   956378580 10  9 f   -     -     -         2440    0    0 
+NormanC   956378631 10  8 c   c     c     rr        2440  120  400 2d Kd
+NormanC   956378695 10  7 c   c     bc    c         2720   80  180 Ts Qs
+NormanC   956378751 10  6 c   rc    c     k         2820   70    0 9h Th
+NormanC   956378797 10  5 f   -     -     -         2750    0    0 
+NormanC   956378842 10  4 c   k     b     b         2750   50  150 9d 3s
+NormanC   956378897  9  3 f   -     -     -         2850    0    0 
+NormanC   956378934  9  2 Bk  kc    kf    -         2850   20    0 
+NormanC   956378981  9  1 Bf  -     -     -         2830    5    0 
+NormanC   956379067  9  9 cc  f     -     -         2825   20    0 
+NormanC   956379105  8  7 c   k     c     k         2805   30    0 9d Qh
+NormanC   956379168  8  6 c   b     -     -         2775   20   40 
+NormanC   956379206  8  4 f   -     -     -         2795    0    0 
+NormanC   956379259  8  3 f   -     -     -         2795    0    0 
+NormanC   956379303  8  2 Bc  kc    kc    k         2795   50    0 Qd 5d
+NormanC   956379336  8  1 Bf  -     -     -         2745    5    0 
+NormanC   956379410  8  8 c   KQ    -     -         2740   40    0 

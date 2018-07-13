@@ -1,0 +1,413 @@
+MarineDr  999345930  6  2 Bf  -     -     -         1000   10    0 
+MarineDr  999345970  6  1 Bf  -     -     -          990    5    0 
+MarineDr  999346007  5  5 f   -     -     -          985    0    0 
+MarineDr  999346062  5  4 f   -     -     -          985    0    0 
+MarineDr  999346102  5  3 rr  b     bc    kf         985   90    0 
+MarineDr  999346130  5  2 Bf  -     -     -          895   10    0 
+MarineDr  999346164  5  1 Brc kcc   k     b          885   90  230 
+MarineDr  999346199  4  4 rc  f     -     -         1025   30    0 
+MarineDr  999346231  4  3 f   -     -     -          995    0    0 
+MarineDr  999346237  4  2 Bc  b     b     -          995   50   85 
+MarineDr  999346260  4  1 Br  b     b     b         1030   70  190 5d 5s
+MarineDr  999346284  4  4 cc  f     -     -         1150   20    0 
+MarineDr  999346297  4  3 rc  brc   br    b         1130  150  340 Qs Ah
+MarineDr  999346333  4  2 Bf  -     -     -         1320   10    0 
+MarineDr  999346375  4  1 BQ  -     -     -         1310    5    0 
+MarineDr  999400824  7  2 Bc  c     kc    kc        1305   80  310 5h 5c
+MarineDr  999400892  8  1 BQ  -     -     -         1535    5    0 
+MarineDr  999415315  5  5 f   -     -     -         1530    0    0 
+MarineDr  999415335  5  4 f   -     -     -         1530    0    0 
+MarineDr  999415364  5  3 cc  c     Q     -         1530   30    0 
+MarineDr  999431404  3  2 Bc  kc    kc    kc        1500   70  145 4d Qd
+MarineDr  999431599  4  1 Bc  kc    -     -         1575   25    0 Ts Qs
+MarineDr  999431614  4  4 f   -     -     -         1550    0    0 
+MarineDr  999431640  3  2 c   b     -     -         1550   20   30 
+MarineDr  999431652  4  2 Bf  -     -     -         1560   10    0 
+MarineDr  999431668  4  1 Br  b     -     -         1550   40   80 
+MarineDr  999431677  4  4 r   -     -     -         1590   20   35 
+MarineDr  999431683  4  3 cc  c     c     c         1605   70  160 Ts 3s
+MarineDr  999431700  4  2 Bc  k     k     b         1695   40   65 
+MarineDr  999431718  4  1 Bc  k     k     b         1720   40   80 
+MarineDr  999431742  4  4 cc  bc    c     f         1760   70    0 
+MarineDr  999431784  4  3 Q   -     -     -         1690    0    0 
+MarineDr  999496599  2  2 Bk  k     f     -         1690   10    0 
+MarineDr  999496612  2  1 Bc  k     b     -         1680   30   40 
+MarineDr  999496625  2  2 Br  b     -     -         1690   30   50 
+MarineDr  999496634  2  1 Br  -     -     -         1710   20   30 
+MarineDr  999496638  2  2 Bc  f     -     -         1720   20    0 
+MarineDr  999496645  2  1 Br  -     -     -         1700   20   30 
+MarineDr  999496649  2  2 Bk  b     -     -         1710   20   30 
+MarineDr  999496656  2  1 Br  -     -     -         1720   20   30 
+MarineDr  999496660  2  2 Bk  k     f     -         1730   10    0 
+MarineDr  999496674  2  1 Br  -     -     -         1720   20   30 
+MarineDr  999496679  2  2 B   -     -     -         1730   10   15 
+MarineDr  999496681  2  1 Br  -     -     -         1735   20   30 
+MarineDr  999496686  2  2 Bf  -     -     -         1745   10    0 
+MarineDr  999496693  3  1 Br  b     b     b         1735   70  140 Ks Jc
+MarineDr  999496715  3  3 cc  f     -     -         1805   20    0 
+MarineDr  999496737  3  2 Bf  -     -     -         1785   10    0 
+MarineDr  999496766  3  1 Bc  kf    -     -         1775   20    0 
+MarineDr  999496793  3  3 c   c     c     b         1755   60  130 9h Kd
+MarineDr  999496822  3  2 Bk  k     b     -         1825   30   40 
+MarineDr  999496848  3  1 Bcc kc    kc    kc        1835   70    0 5d As
+MarineDr  999496874  3  3 f   -     -     -         1765    0    0 
+MarineDr  999496926  3  2 Bk  kc    kr    b         1765   80  165 9h 9d
+MarineDr  999496983  3  1 Bc  kQ    -     -         1850   10    0 
+MarineDr  999982035  4  4 f   -     -     -         2423    0    0 
+MarineDr  999982065  4  3 f   -     -     -         2423    0    0 
+MarineDr  999982077  4  2 Bc  f     -     -         2423   20    0 
+MarineDr  999982104  4  1 Bcc k     k     b         2403   40    0 8h Jc
+MarineDr  999982122  5  5 f   -     -     -         2363    0    0 
+MarineDr  999982138  5  4 f   -     -     -         2363    0    0 
+MarineDr  999982171  5  3 f   -     -     -         2363    0    0 
+MarineDr  999982197  5  2 Bc  kc    kc    kc        2363   70    0 Kc 4c
+MarineDr  999982224  5  1 Bf  -     -     -         2293    5    0 
+MarineDr  999982244  5  5 f   -     -     -         2288    0    0 
+MarineDr  999982249  5  4 c   k     k     bc        2288   50   60 Ac 5h
+MarineDr  999982290  5  3 f   -     -     -         2298    0    0 
+MarineDr  999982309  5  2 Bk  kf    -     -         2298   10    0 
+MarineDr  999982320  5  1 Bc  bc    kc    k         2288   50    0 8c Ad
+MarineDr  999982348  5  5 c   k     b     b         2238   50  130 Qs 9d
+MarineDr  999982389  5  5 f   -     -     -         2318    0    0 
+MarineDr  999982405  4  3 f   -     -     -         2318    0    0 
+MarineDr  999982409  4  2 Bk  kf    -     -         2318   10    0 
+MarineDr  999982423  5  1 Br  k     k     k         2308   20   60 4d Ah
+MarineDr  999982452  5  5 c   k     f     -         2348   10    0 
+MarineDr  999982472  5  4 c   r     b     k         2338   50  110 Qd Td
+MarineDr  999982498  6  3 c   k     f     -         2398   10    0 
+MarineDr  999982526  6  2 Bc  b     -     -         2388   30   50 
+MarineDr  999982551  6  1 Br  b     -     -         2408   30   70 
+MarineDr  999982573  6  6 f   -     -     -         2448    0    0 
+MarineDr  999982615  6  5 f   -     -     -         2448    0    0 
+MarineDr  999982683  6  3 Q   -     -     -         2448    0    0 
+MarineDr  999984140  2  2 Bk  c     b     b         2448   60    0 7s 8d
+MarineDr  999984167  2  1 Br  -     -     -         2388   20   30 
+MarineDr  999984172  2  2 B   -     -     -         2398   10   15 
+MarineDr  999984177  2  1 Bc  kf    -     -         2403   10    0 
+MarineDr  999984185  2  2 Bk  k     b     -         2393   30   40 
+MarineDr  999984198  2  1 Br  b     kf    -         2403   30    0 
+MarineDr  999984214  2  2 Bk  k     b     -         2373   30   40 
+MarineDr  999984228  2  1 Bf  -     -     -         2383    5    0 
+MarineDr  999984231  2  2 Bk  k     k     k         2378   10    0 2h Td
+MarineDr  999984245  2  1 Br  -     -     -         2368   20   30 
+MarineDr  999984250  2  2 B   -     -     -         2378   10   15 
+MarineDr  999984253  2  1 Bc  k     k     b         2383   30   40 
+MarineDr  999984265  2  2 Bk  f     -     -         2393   10    0 
+MarineDr  999984274  2  1 Bc  k     kf    -         2383   10    0 
+MarineDr  999984288  2  2 B   -     -     -         2373   10   15 
+MarineDr  999984291  2  1 Bf  -     -     -         2378    5    0 
+MarineDr  999984295  2  2 Bk  f     -     -         2373   10    0 
+MarineDr  999984304  2  1 Bc  b     k     k         2363   20    0 Jh Th
+MarineDr  999984319  2  2 B   -     -     -         2343   10   15 
+MarineDr  999984323  2  1 Br  -     -     -         2348   20   30 
+MarineDr  999984329  2  2 Bk  b     k     k         2358   20    0 4c 7c
+MarineDr  999984346  2  1 Br  -     -     -         2338   20   30 
+MarineDr  999984352  2  2 Bk  k     k     f         2348   10    0 
+MarineDr  999984369  2  1 Bc  k     k     kc        2338   30   30 7s Qs
+MarineDr  999984392  3  2 Bc  b     -     -         2338   30   70 
+MarineDr  999984407  3  1 Bc  k     k     k         2378   10   30 4c 2s
+MarineDr  999984441  3  3 f   -     -     -         2398    0    0 
+MarineDr  999984450  3  2 Bc  k     k     b         2398   40   65 
+MarineDr  999984463  3  1 Bc  k     k     k         2423   10    0 6c 7d
+MarineDr  999984487  3  3 f   -     -     -         2413    0    0 
+MarineDr  999984506  3  2 Br  b     -     -         2413   40   75 
+MarineDr  999984518  3  1 Bc  k     krc   kf        2448   70    0 
+MarineDr  999984561  5  5 f   -     -     -         2378    0    0 
+MarineDr  999984608  6  5 f   -     -     -         2378    0    0 
+MarineDr  999984630  6  4 r   kc    br    b         2378  110  310 Ad Ah
+MarineDr  999984684  6  3 f   -     -     -         2578    0    0 
+MarineDr  999984710  6  2 Bc  b     b     -         2578   50  130 
+MarineDr  999984760  6  1 Bc  kc    k     k         2658   20   80 As Jh
+MarineDr  999984801  6  6 f   -     -     -         2718    0    0 
+MarineDr  999984838  6  5 cc  c     c     rr        2718  130  295 Kh 2h
+MarineDr  999984865  6  4 cc  f     -     -         2883   20    0 
+MarineDr  999984897  6  3 f   -     -     -         2863    0    0 
+MarineDr  999984920  6  2 Bf  -     -     -         2863   10    0 
+MarineDr  999984979  7  1 Bc  kc    kc    kc        2853   70    0 5s Ah
+MarineDr  999985021  7  7 f   -     -     -         2783    0    0 
+MarineDr  999985128  8  7 cc  c     c     c         2783   70  230 Js Jc
+MarineDr  999985169  7  6 cc  rr    rr    rr        2943  220  515 Jc Td
+MarineDr  999985217  6  3 Q   -     -     -         3238    0    0 
+MarineDr  1000188902  7  7 f   -     -     -         1000    0    0 
+MarineDr  1000188977  6  5 f   Q     -     -         1000    0    0 
+MarineDr  1000190118 10  3 Q   -     -     -         1000    0    0 
+MarineDr  1000191436 10  1 BKQ -     -     -         1000    5    0 
+MarineDr  1000438592  8  2 BKQ -     -     -          995   10    0 
+MarineDr  1000446324  8  2 Br  bc    bc    kf         985   80    0 
+MarineDr  1000446368  8  1 Br  brc   kc    kf         905   80    0 
+MarineDr  1000446436  8  8 r   br    k     f          825   50    0 
+MarineDr  1000446496  7  7 r   b     br    rf         775  150    0 
+MarineDr  1000446595  7  5 f   -     -     -          625    0    0 
+MarineDr  1000446640  7  4 f   -     -     -          625    0    0 
+MarineDr  1000446748  8  3 f   -     -     -          625    0    0 
+MarineDr  1000446798  9  3 f   -     -     -          625    0    0 
+MarineDr  1000446882  9  2 Bf  -     -     -          625   10    0 
+MarineDr  1000446932  9  1 Bf  -     -     -          615    5    0 
+MarineDr  1000446972  9  9 f   -     -     -          610    0    0 
+MarineDr  1000447064  8  7 f   -     -     -          610    0    0 
+MarineDr  1000447125  8  6 f   -     -     -          610    0    0 
+MarineDr  1000447168  8  5 f   -     -     -          610    0    0 
+MarineDr  1000447235  7  4 f   -     -     -          610    0    0 
+MarineDr  1000447310  8  3 f   -     -     -          610    0    0 
+MarineDr  1000447380  8  2 Bk  f     -     -          610   10    0 
+MarineDr  1000447407  8  1 Bf  -     -     -          600    5    0 
+MarineDr  1000447458  8  8 f   -     -     -          595    0    0 
+MarineDr  1000447501  7  6 f   -     -     -          595    0    0 
+MarineDr  1000447577  7  5 f   -     -     -          595    0    0 
+MarineDr  1000447656  7  4 f   -     -     -          595    0    0 
+MarineDr  1000447739  7  3 f   -     -     -          595    0    0 
+MarineDr  1000447808  7  2 Bk  kf    -     -          595   10    0 
+MarineDr  1000447830  6  1 Bf  -     -     -          585    5    0 
+MarineDr  1000447873  6  6 f   -     -     -          580    0    0 
+MarineDr  1000447898  6  5 f   -     -     -          580    0    0 
+MarineDr  1000447930  6  4 f   -     -     -          580    0    0 
+MarineDr  1000447977  6  3 f   -     -     -          580    0    0 
+MarineDr  1000448030  6  2 Br  b     -     -          580   30  110 
+MarineDr  1000448064  6  1 Br  b     brc   brc        660  190    0 Td 2h
+MarineDr  1000448095  7  7 r   b     k     f          470   40    0 
+MarineDr  1000448150  7  6 r   b     b     b          430   70    0 6d 5c
+MarineDr  1000448189  7  5 r   b     -     -          360   30  100 
+MarineDr  1000448214  7  4 r   k     k     f          430   20    0 
+MarineDr  1000448260  7  3 r   b     b     b          410   70    0 Jc Tc
+MarineDr  1000448291  8  2 Br  KQ    -     -          340   30    0 
+MarineDr  1000530647  7  4 rr  b     -     -          310   50  135 
+MarineDr  1000530684  7  3 r   rr    rr    rf         395  180    0 
+MarineDr  1000530737  7  2 Br  b     b     f          215   50    0 
+MarineDr  1000530773  8  1 Br  bf    -     -          165   40    0 
+MarineDr  1000530823  8  8 rc  b     k     f          125   50    0 
+MarineDr  1000530937  8  7 f   -     -     -           75    0    0 
+MarineDr  1000530978  8  6 r   b     -     -           75   30   60 
+MarineDr  1000531035  7  4 r   b     k     k          105   30  110 Ts Ah
+MarineDr  1000531084  7  3 r   b     brf   -          185   90    0 
+MarineDr  1000531120  6  2 Br  b     k     k           95   30   85 6s 7s
+MarineDr  1000531192  4  3 r   br    rr    bA         150  150    0 3c Kc
+MarineDr  1000586337  3  3 r   r     b     rf        1000  100    0 
+MarineDr  1000586366  2  2 Bf  -     -     -          900   10    0 
+MarineDr  1000586374  2  1 Br  bc    kc    kc         890   80    0 7d 8d
+MarineDr  1000586390  2  2 B   -     -     -          810   10   15 
+MarineDr  1000586396  3  1 Brc bcc   brc   kc         815  180    0 Ts Ah
+MarineDr  1000586432  3  3 rr  c     rc    r          635  150  310 7c 9c
+MarineDr  1000586465  3  2 Bc  brc   k     k          795   60  180 3d Qc
+MarineDr  1000586497  3  1 Bcc bc    bc    kc         915  100    0 7c 8c
+MarineDr  1000586515  3  3 cc  c     rc    c          815  130    0 4d 3d
+MarineDr  1000586543  3  2 Bf  -     -     -          685   10    0 
+MarineDr  1000586567  3  1 Bcc brc   bc    kc         675  120  240 9s 8c
+MarineDr  1000586589  3  3 rc  rr    rr    r          795  190  470 Js Ts
+MarineDr  1000586622  3  2 Bc  kf    -     -         1075   20    0 
+MarineDr  1000586634  4  1 Bf  -     -     -         1055    5    0 
+MarineDr  1000586658  4  4 f   -     -     -         1050    0    0 
+MarineDr  1000586686  4  3 cc  rr    r     b         1050  120  380 
+MarineDr  1000586743  4  2 Bcc kcc   bcc   kcc       1310  240    0 Tc Ac
+MarineDr  1000586793  4  1 Bf  -     -     -         1070    5    0 
+MarineDr  1000586813  4  4 cc  rc    rc    r         1065  180  480 
+MarineDr  1000586852  4  3 f   -     -     -         1365    0    0 
+MarineDr  1000586864  3  2 Bc  kc    kf    -         1365   30    0 
+MarineDr  1000586884  3  1 Bcc kc    kc    kf        1335   60    0 
+MarineDr  1000586904  3  3 f   -     -     -         1275    0    0 
+MarineDr  1000586922  3  2 Bc  kc    kc    kc        1275   70    0 Qh 7s
+MarineDr  1000586950  3  1 Bf  -     -     -         1205    5    0 
+MarineDr  1000586955  3  3 cc  f     -     -         1200   20    0 
+MarineDr  1000586973  4  2 Bc  br    br    b         1180  130  245 
+MarineDr  1000586993  4  1 Bcc kf    -     -         1295   40    0 
+MarineDr  1000587028  3  3 f   -     -     -         1255    0    0 
+MarineDr  1000587035  3  3 f   -     -     -         1255    0    0 
+MarineDr  1000587075  3  2 Bf  -     -     -         1255   10    0 
+MarineDr  1000587108  3  1 Bf  -     -     -         1245    5    0 
+MarineDr  1000587113  3  3 f   -     -     -         1240    0    0 
+MarineDr  1000587134  3  2 Br  c     c     rf        1240   90    0 
+MarineDr  1000587160  4  1 Bc  bc    kf    -         1150   40    0 
+MarineDr  1000587188  4  4 cc  r     r     b         1110  100  220 2s Ac
+MarineDr  1000587213  4  3 f   -     -     -         1230    0    0 
+MarineDr  1000587234  4  2 Bf  -     -     -         1230   10    0 
+MarineDr  1000587258  4  1 Bc  kf    -     -         1220   20    0 
+MarineDr  1000587290  4  4 rr  r     r     -         1200  100  185 
+MarineDr  1000587312  4  3 f   -     -     -         1285    0    0 
+MarineDr  1000587335  4  2 Bf  -     -     -         1285   10    0 
+MarineDr  1000587350  4  1 Bf  -     -     -         1275    5    0 
+MarineDr  1000587369  5  5 f   -     -     -         1270    0    0 
+MarineDr  1000587414  5  4 f   -     -     -         1270    0    0 
+MarineDr  1000587446  5  3 cc  c     c     f         1270   50    0 
+MarineDr  1000587481  5  2 Bc  kc    kc    kc        1220   70    0 8s Tc
+MarineDr  1000587515  5  1 Bf  -     -     -         1150    5    0 
+MarineDr  1000587538  5  5 rc  c     c     c         1145   90    0 Jd Kc
+MarineDr  1000587559  6  5 f   -     -     -         1055    0    0 
+MarineDr  1000587579  6  4 f   -     -     -         1055    0    0 
+MarineDr  1000587612  6  3 cc  c     c     c         1055   70  125 Ts 9d
+MarineDr  1000587644  6  2 Bf  -     -     -         1110   10    0 
+MarineDr  1000587700  5  1 Bf  -     -     -         1100    5    0 
+MarineDr  1000587738  4  4 rc  r     r     b         1095  120    0 Kh As
+MarineDr  1000587770  4  4 r   cc    c     f          975  100    0 
+MarineDr  1000587807  4  3 rr  r     b     b          875  100  250 9s 9d
+MarineDr  1000587838  4  2 Brc kc    kc    kc        1025   90  225 Kh 8h
+MarineDr  1000587866  4  1 Bc  kf    Q     -         1160   20    0 
+MarineDr  1000592013  3  3 rc  f     -     -         1140   30    0 
+MarineDr  1000592042  3  2 Br  -     -     -         1110   30   50 
+MarineDr  1000592051  3  1 Bf  -     -     -         1130    5    0 
+MarineDr  1000592056  3  3 r   c     c     c         1125   70    0 Kh As
+MarineDr  1000592070  3  2 Bc  f     -     -         1055   20    0 
+MarineDr  1000592091  3  1 Bf  -     -     -         1035    5    0 
+MarineDr  1000592097  3  3 f   -     -     -         1030    0    0 
+MarineDr  1000592101  3  2 Bc  r     b     b         1030   80    0 Ad 6h
+MarineDr  1000592115  3  1 Brc kc    kf    -          950   50    0 
+MarineDr  1000592132  3  3 rr  rr    f     -          900   80    0 
+MarineDr  1000592157  3  2 Bk  b     -     -          820   20   35 
+MarineDr  1000592168  3  1 Brc brc   br    bc         835  180    0 Ac Qc
+MarineDr  1000592197  3  3 rr  c     c     c          655   90    0 Js Qd
+MarineDr  1000592218  3  2 Bc  c     f     -          565   30    0 
+MarineDr  1000592230  3  1 Bc  br    b     b          535   90  180 
+MarineDr  1000592247  3  3 r   b     b     k          625   50    0 As Js
+MarineDr  1000592263  3  2 Bc  c     c     r          575   90  180 
+MarineDr  1000592279  3  1 Bc  kf    -     -          665   20    0 
+MarineDr  1000592290  3  3 cc  f     -     -          645   20    0 
+MarineDr  1000592308  3  2 Br  b     -     -          625   40  100 
+MarineDr  1000592325  3  1 Bf  -     -     -          685    5    0 
+MarineDr  1000592344  3  3 f   -     -     -          680    0    0 
+MarineDr  1000592350  3  2 Brc c     c     c          680   90    0 Kd Td
+MarineDr  1000592364  3  1 Bf  -     -     -          590    5    0 
+MarineDr  1000592370  3  3 r   b     -     -          585   30   55 
+MarineDr  1000592381  3  2 Bc  r     rc    c          610  120  240 9s 8h
+MarineDr  1000592398  3  1 Bc  brc   brc   kc         730  160  330 Js Qh
+MarineDr  1000592422  3  3 cc  f     -     -          900   20    0 
+MarineDr  1000592446  3  2 Bc  c     r     -          880   70  150 
+MarineDr  1000592469  3  1 Bf  -     -     -          960    5    0 
+MarineDr  1000592473  3  3 cc  f     -     -          955   20    0 
+MarineDr  1000592482  4  2 Bf  -     -     -          935   10    0 
+MarineDr  1000592512  4  1 Bc  br    -     -          925   50  100 
+MarineDr  1000592527  4  4 f   -     -     -          975    0    0 
+MarineDr  1000592552  4  3 cc  c     b     b          975   70  155 
+MarineDr  1000592580  4  2 Bc  f     -     -         1060   20    0 
+MarineDr  1000592588  4  1 Bc  kc    b     -         1040   50   90 
+MarineDr  1000592606  4  4 c   f     -     -         1080   20    0 
+MarineDr  1000592625  4  3 cc  c     c     r         1060   90  235 2s As
+MarineDr  1000592653  4  2 BQ  -     -     -         1205   10    0 
+MarineDr  1000592912  3  3 c   b     -     -         1195   20   35 
+MarineDr  1000592922  3  2 B   -     -     -         1210   10   15 
+MarineDr  1000592930  3  1 Bf  -     -     -         1215    5    0 
+MarineDr  1000592940  3  3 f   -     -     -         1210    0    0 
+MarineDr  1000592943  4  2 Bk  k     kf    -         1210   10    0 
+MarineDr  1000592986  4  1 BQ  -     -     -         1200    5    0 
+MarineDr  1000593116  5  3 cc  k     c     c         1195   60    0 Jc Qs
+MarineDr  1000593171  6  2 Bc  kQ    -     -         1135   20    0 
+MarineDr  1001312749  8  3 f   -     -     -         1115    0    0 
+MarineDr  1001312764  8  2 Bf  -     -     -         1115   10    0 
+MarineDr  1001312797  8  1 Bc  k     kf    -         1105   10    0 
+MarineDr  1001312857  8  8 f   -     -     -         1095    0    0 
+MarineDr  1001312919  8  7 f   -     -     -         1095    0    0 
+MarineDr  1001312979  8  6 r   b     bc    bc        1095  110    0 Ac Ah
+MarineDr  1001313065  8  5 rc  kc    c     cf         985   80    0 
+MarineDr  1001313152  7  3 f   -     -     -          905    0    0 
+MarineDr  1001313226  7  3 r   b     b     k          905   50    0 Ac Ks
+MarineDr  1001313295  7  2 Br  b     b     b          855   70  210 Tc Th
+MarineDr  1001313354  7  1 Bf  -     -     -          995    5    0 
+MarineDr  1001313401  6  6 rr  rr    c     c          990  120    0 Ts Qs
+MarineDr  1001313440  7  6 r   k     f     -          870   20    0 
+MarineDr  1001380916  7  3 r   br    b     bf         850   90    0 
+MarineDr  1001380978  8  2 Br  b     b     brc        760  130    0 9h 3h
+MarineDr  1001381045  8  1 Brc brc   b     b          630  120    0 Jc Jh
+MarineDr  1001381110  8  8 f   -     -     -          510    0    0 
+MarineDr  1001381230  8  7 r   r     b     b          510   80    0 4c Ah
+MarineDr  1001381308  8  6 rc  r     b     k          430   80    0 Qh 8h
+MarineDr  1001381409  8  5 f   -     -     -          350    0    0 
+MarineDr  1001381532  8  4 f   -     -     -          350    0    0 
+MarineDr  1001381584  8  3 f   -     -     -          350    0    0 
+MarineDr  1001381712  8  3 f   -     -     -          350    0    0 
+MarineDr  1001381769  8  2 Bf  -     -     -          350   10    0 
+MarineDr  1001381813  8  1 Br  br    krr   b          340  160  620 9s Kc
+MarineDr  1001381913  8  8 r   r     c     Q          800   60    0 
+MarineDr  1001389814  7  2 Br  b     r     b          740   90  210 
+MarineDr  1001389860  7  1 Bc  b     b     b          860   70  180 
+MarineDr  1001389899  7  7 c   fQ    -     -          970   20    0 
+MarineDr  1001656664  7  3 r   k     c     c          950   60    0 6h 5h
+MarineDr  1001656696  7  2 B   -     -     -          890   10   15 
+MarineDr  1001656741  7  1 Bf  -     -     -          895    5    0 
+MarineDr  1001656769  8  7 r   b     bc    kf         890   70    0 
+MarineDr  1001656827  7  5 r   b     rc    f          820  100    0 
+MarineDr  1001656892  7  4 r   b     b     b          720   70    0 Jh 8s
+MarineDr  1001656924  7  3 r   -     -     -          650   20   35 
+MarineDr  1001656939  7  2 Br  b     b     bc         665   90    0 Ah 5d
+MarineDr  1001656989  7  1 Bf  -     -     -          575    5    0 
+MarineDr  1001657057  7  7 r   br    b     k          570   80    0 9c 7d
+MarineDr  1001657149  7  6 r   rc    f     -          490   60    0 
+MarineDr  1001657209  6  4 r   b     b     b          430   70    0 5h Th
+MarineDr  1001657248  6  3 rr  b     -     -          360   50  105 
+MarineDr  1001657289  6  2 Bk  k     br    k          415   70    0 8h Td
+MarineDr  1001657317  6  1 Bc  kc    kf    -          345   30    0 
+MarineDr  1001657359  6  6 c   rr    b     b          315   90  290 6s 7d
+MarineDr  1001657422  5  5 c   b     b     b          515   60  140 6c 4s
+MarineDr  1001657489  4  3 r   k     c     f          595   40    0 
+MarineDr  1001657519  4  2 Br  kc    kf    -          555   40    0 
+MarineDr  1001657586  5  1 Bf  -     -     -          515    5    0 
+MarineDr  1001657614  4  4 f   -     -     -          510    0    0 
+MarineDr  1001657633  4  3 f   -     -     -          510    0    0 
+MarineDr  1001657648  4  2 Br  b     b     b          510   80  220 Jd Ts
+MarineDr  1001657678  4  1 Bf  -     -     -          650    5    0 
+MarineDr  1001657707  4  4 c   k     k     b          645   30   45 
+MarineDr  1001657726  4  3 f   -     -     -          660    0    0 
+MarineDr  1001657749  5  3 cc  b     k     b          660   50  120 
+MarineDr  1001657780  5  2 Br  b     b     bc         730   90  180 Ah Js
+MarineDr  1001657804  5  1 Bc  k     kf    -          820   10    0 
+MarineDr  1001657836  5  5 c   c     r     k          810   60    0 9h Qc
+MarineDr  1001657864  5  4 c   c     b     k          750   40    0 8c 8h
+MarineDr  1001657910  5  3 cc  kf    -     -          710   20    0 
+MarineDr  1001657957  5  2 Br  b     b     b          690   70  140 
+MarineDr  1001657980  5  1 Bc  kf    -     -          760   20    0 
+MarineDr  1001658012  5  5 f   -     -     -          740    0    0 
+MarineDr  1001658045  5  4 f   -     -     -          740    0    0 
+MarineDr  1001658107  5  3 r   -     -     -          740   20   35 
+MarineDr  1001658116  5  2 Bk  kf    -     -          755   10    0 
+MarineDr  1001658150  5  1 Br  b     b     -          745   50   90 
+MarineDr  1001658167  5  5 f   -     -     -          785    0    0 
+MarineDr  1001658193  5  4 rr  b     k     k          785   50    0 As 4d
+MarineDr  1001658240  5  3 f   -     -     -          735    0    0 
+MarineDr  1001658270  5  2 Brc krr   brc   k          735  160  325 Ad As
+MarineDr  1001658301  5  1 Bc  b     bc    kc         900   90    0 9s 9d
+MarineDr  1001658332  5  5 c   f     -     -          810   20    0 
+MarineDr  1001658376  5  4 rc  c     c     c          790   80  195 Ad 2s
+MarineDr  1001658405  5  3 f   -     -     -          905    0    0 
+MarineDr  1001658439  5  2 Bc  cf    -     -          905   30    0 
+MarineDr  1001658474  6  1 Bf  -     -     -          875    5    0 
+MarineDr  1001658522  7  7 rc  rr    rr    rr         870  240    0 Ks Ah
+MarineDr  1001658596  7  6 cc  c     c     f          630   60    0 
+MarineDr  1001658647  7  5 c   k     f     -          570   10    0 
+MarineDr  1001658695  7  4 r   b     b     -          560   50  115 
+MarineDr  1001658724  7  3 r   k     b     k          625   40    0 Qh Jh
+MarineDr  1001658765  7  2 Bk  kc    bc    kf         585   60    0 
+MarineDr  1001658792  7  1 Br  b     -     -          525   30   60 
+MarineDr  1001658807  7  7 f   -     -     -          555    0    0 
+MarineDr  1001658836  7  6 c   r     b     c          555   70    0 9h 8d
+MarineDr  1001658882  7  5 cc  kf    -     -          485   20    0 
+MarineDr  1001658941  8  4 f   -     -     -          465    0    0 
+MarineDr  1001659008  8  3 f   -     -     -          465    0    0 
+MarineDr  1001659049  8  2 Bf  -     -     -          465   10    0 
+MarineDr  1001659103  8  1 Bf  -     -     -          455    5    0 
+MarineDr  1001659150  8  8 f   -     -     -          450    0    0 
+MarineDr  1001659217  8  7 f   -     -     -          450    0    0 
+MarineDr  1001659260  8  6 f   -     -     -          450    0    0 
+MarineDr  1001659326  8  5 c   k     r     b          450   70  150 
+MarineDr  1001659374  9  4 r   cc    c     f          530   70    0 
+MarineDr  1001659419 10  3 f   -     -     -          460    0    0 
+MarineDr  1001659491  9  2 Brc br    br    bc         460  200    0 8h 5d
+MarineDr  1001659580  9  1 Brc b     b     b          260   90  250 
+MarineDr  1001659641  9  9 r   r     b     b          420   80   97 Ah 3s
+MarineDr  1001659685  9  8 r   br    brc   f          437  130    0 
+MarineDr  1001659785  9  7 rr  cc    f     -          307   80    0 
+MarineDr  1001659877  8  5 r   b     b     b          227   70  195 6s 5s
+MarineDr  1001659936  7  4 rr  r     bf    -          352   80    0 
+MarineDr  1001660002  7  3 r   b     b     -          272   50  120 
+MarineDr  1001660043  7  2 Br  b     b     b          342   70  154 4h Ac
+MarineDr  1001660069  6  1 Br  b     b     -          426   50   90 
+MarineDr  1001660099  6  6 r   b     b     -          466   50  135 
+MarineDr  1001660156  6  5 f   -     -     -          551    0    0 
+MarineDr  1001660214  6  4 r   k     f     -          551   20    0 
+MarineDr  1001660263  6  3 r   b     b     -          531   50   90 
+MarineDr  1001660300  6  2 Bk  k     b     -          571   30   45 
+MarineDr  1001660313  6  1 Bc  k     kf    -          586   10    0 
+MarineDr  1001660350  6  6 r   b     rc    f          576   90    0 
+MarineDr  1001660386  6  5 r   r     r     b          486  100  142 Ks Jh
+MarineDr  1001660461  6  4 r   k     b     b          528   70  155 Qs 9d
+MarineDr  1001660497  6  3 c   b     -     -          613   20   45 
+MarineDr  1001660530  6  2 BfQ -     -     -          638   10    0 
+MarineDr  1001736062  6  3 f   -     -     -          628    0    0 
+MarineDr  1001736109  6  1 Bf  -     -     -          628   10    0 
+MarineDr  1001736147  6  1 Br  kf    -     -          618   20    0 
+MarineDr  1001736189  5  5 Q   -     -     -          598    0    0 

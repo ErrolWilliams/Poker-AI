@@ -1,0 +1,939 @@
+schooner  988749222  4  4 c   b     b     k         1200   40  140 Qh 9h
+schooner  988749282  4  4 cc  cc    c     cc        1300  140    0 8s 8d
+schooner  988749346  4  3 c   cc    kf    -         1160   30    0 
+schooner  988749407  5  2 Bk  kc    f     -         1130   30    0 
+schooner  988749436  6  1 Bc  b     k     b         1100   40   80 
+schooner  988749467  6  6 cc  k     f     -         1140   40    0 
+schooner  988749510  6  5 c   kc    kc    kf        1100   40    0 
+schooner  988749547  6  4 ccc f     -     -         1060   40    0 
+schooner  988749589  6  3 cc  f     -     -         1020   20    0 
+schooner  988749617  6  2 Bk  k     k     k         1000   10    0 2h Td
+schooner  988749644  6  1 Bcc kcc   kf    -          990   80    0 
+schooner  988749712  5  5 c   c     c     k          910   40    0 Kh Tc
+schooner  988749751  5  4 cc  kf    -     -          870   20    0 
+schooner  988749784  5  3 cc  f     -     -          850   20    0 
+schooner  988749815  5  2 Bcc kc    kc    f          830   70    0 
+schooner  988749873  5  1 Bcc kfQ   -     -          760   30    0 
+schooner  988768761  7  3 cc  k     kf    -          730   20    0 
+schooner  988768810  7  2 Bc  c     k     kf         710   30    0 
+schooner  988768858  6  1 Bc  b     kc    b          680   70  180 2c 2d
+schooner  988768918  6  6 f   -     -     -          790    0    0 
+schooner  988768964  6  5 c   k     f     -          790   10    0 
+schooner  988769025  6  4 c   f     -     -          780   20    0 
+schooner  988769053  6  3 c   b     k     b          760   40   75 
+schooner  988769081  6  2 Bc  kc    f     -          795   30    0 
+schooner  988769125  6  1 Bc  kf    -     -          765   10    0 
+schooner  988769172  6  6 c   f     -     -          755   10    0 
+schooner  988769216  6  5 c   f     -     -          745   20    0 
+schooner  988769282  6  4 c   b     c     c          725   60    0 6s 8s
+schooner  988769323  7  3 c   kc    c     cf         665   60    0 
+schooner  988769414  9  2 Bf  -     -     -          605   10    0 
+schooner  988769472  9  1 Bc  kfQ   -     -          595   10    0 
+schooner  988852736  7  7 cc  c     c     f          585   70    0 
+schooner  988852779  7  6 c   k     b     -          515   30   60 
+schooner  988852823  8  5 c   k     k     k          545   10    0 9d 2h
+schooner  988852853  8  4 cc  bc    b     k          535   60  170 Qh 6c
+schooner  988852894  8  3 cc  k     f     -          645   20    0 
+schooner  988852930  8  2 Bc  kc    bc    kc         625   90    0 4c Tc
+schooner  988852969  9  1 Bc  k     b     b          535   60  130 
+schooner  988853004  8  8 c   f     -     -          605   10    0 
+schooner  988853033  8  7 c   f     -     -          595   20    0 
+schooner  988853050  8  6 cc  c     c     f          575   70    0 
+schooner  988853118  9  5 cc  bc    b     -          505   60  170 
+schooner  988853196  9  4 cc  b     k     b          615   50  160 
+schooner  988853258  9  3 cc  k     kc    c          725   60    0 3s 7d
+schooner  988853298 10  2 Bk  kc    kf    -          665   20    0 
+schooner  988853338 10  1 Bf  -     -     -          645    5    0 
+schooner  988853364 10 10 c   c     cf    -          640   50    0 
+schooner  988853462 10  9 c   r     b     b          590   80  175 Qh 9h
+schooner  988853508 10  8 c   c     cc    c          685  100    0 Jc 8h
+schooner  988853569  9  6 c   c     f     -          585   20    0 
+schooner  988853628 10  5 c   k     Q     -          565   10    0 
+schooner  988920271  9  2 Bcc bc    kc    k          555   80    0 5c Js
+schooner  988920338 10  1 Bf  Q     -     -          475    5    0 
+schooner  988998833  8  5 c   k     k     k          420   10    0 Ks Jh
+schooner  988998920 10  4 c   k     kf    -          410   10    0 
+schooner  988998988 10  3 cc  kf    -     -          400   20    0 
+schooner  988999071 10  2 Bk  k     k     k          380   10    0 5s Ad
+schooner  988999134  9  1 Bf  Q     -     -          370    5    0 
+schooner  989107648  7  3 cf  -     -     -          480   10    0 
+schooner  989107671  7  2 Bc  kf    -     -          470   20    0 
+schooner  989107709  7  1 Bcc bcc   kc    kc         450  120    0 3h Qd
+schooner  989107769  7  7 cc  cc    cc    r          330  193    0 Kh 6d
+schooner  989107815  7  5 c   c     c     c          137   70  150 Ad 8s
+schooner  989107848  8  5 c   f     -     -          217   20    0 
+schooner  989107877  8  4 f   -     -     -          197    0    0 
+schooner  989107900  9  3 cc  f     -     -          197   20    0 
+schooner  989107937  9  2 Bc  kf    -     -          177   20    0 
+schooner  989107988  9  1 Bc  bc    b     kc         157   80  250 5c Kh
+schooner  989108054  8  8 c   f     -     -          327   10    0 
+schooner  989108098  8  7 c   f     -     -          317   20    0 
+schooner  989108138  8  6 c   c     f     -          297   20    0 
+schooner  989108178  8  5 f   -     -     Q          277    0    0 
+schooner  989112253  9  6 c   b     -     -          277   20   35 
+schooner  989112284  9  5 cc  k     kf    -          292   20    0 
+schooner  989112390 10  4 KQ  -     -     -          272    0    0 
+schooner  989172615 10  5 c   k     k     f          272   10    0 
+schooner  989172650 10  4 c   f     -     -          262   10    0 
+schooner  989172686 10  3 c   k     k     f          252   10    0 
+schooner  989172726 10  2 Bk  k     kc    kf         242   30    0 
+schooner  989172765 10  1 Bc  kf    -     -          212   10    0 
+schooner  989172797 10 10 cc  k     c     b          202   60  180 Kd 4c
+schooner  989172846 10  9 c   c     c     f          322   40    0 
+schooner  989172898 10  8 c   k     k     f          282   10    0 
+schooner  989172946 10  7 c   b     -     -          272   20   45 
+schooner  989172966 10  6 c   f     -     -          297   10    0 
+schooner  989173011 10  5 cc  c     f     -          287   30    0 
+schooner  989173052 10  4 c   kf    -     -          257   10    0 
+schooner  989173103 10  3 c   k     b     -          247   30   80 
+schooner  989173142 10  2 Bc  k     k     b          297   40  105 Ts 7s
+schooner  989173168 10  1 Bc  k     k     k          362   20    0 Kc As
+schooner  989173222 10 10 c   c     k     k          342   20    0 Ac Jd
+schooner  989173258 10  9 c   c     f     -          322   30    0 
+schooner  989173312 10  8 c   f     -     -          292   10    0 
+schooner  989173354 10  7 c   c     f     -          282   20    0 
+schooner  989173394 10  6 c   b     c     c          262   60  175 3d 3c
+schooner  989173439 10  5 c   kf    -     -          377   10    0 
+schooner  989173491 10  4 cc  kc    kf    -          367   30    0 
+schooner  989173543 10  3 c   kc    b     kc         337   60    0 5c 9c
+schooner  989173606 10  2 Bk  f     -     -          277   10    0 
+schooner  989173644 10  1 Bc  kc    kf    -          267   30    0 
+schooner  989173697 10 10 c   f     -     -          237   10    0 
+schooner  989173794 10  9 c   f     -     -          227   10    0 
+schooner  989173839 10  8 c   c     c     c          217   70    0 7c 7d
+schooner  989173863 10  7 cc  kf    -     -          147   20    0 
+schooner  989173920 10  6 c   kc    b     b          127   60  210 Kc 4d
+schooner  989174003  9  4 cc  c     c     c          277   70    0 2s Kh
+schooner  989174039  9  4 c   kf    -     -          207   10    0 
+schooner  989174085  9  3 c   c     c     k          197   40   95 8c 8s
+schooner  989174121  8  2 Bk  kc    kf    -          252   20    0 
+schooner  989174168  8  1 Bc  k     kf    -          232   10    0 
+schooner  989174216  8  8 c   k     f     -          222   10    0 
+schooner  989174250  8  7 c   c     f     -          212   20    0 
+schooner  989174277  8  6 c   k     c     f          192   30    0 
+schooner  989174319  8  5 c   kf    -     -          162   10    0 
+schooner  989174347  8  4 c   b     -     -          152   20   45 
+schooner  989174362  8  3 ccc kc    k     b          177   70    0 Jd 2h
+schooner  989174406  8  2 Bf  -     -     -          107   10    0 
+schooner  989174426  8  1 Bf  -     -     -           97    5    0 
+schooner  989174446  8  8 c   c     f     -           92   30    0 
+schooner  989174475  8  7 c   c     k     f           62   20    0 
+schooner  989174503  8  6 c   c     c     bA          42   42    0 Kh Jh
+schooner  989174921  7  5 c   c     f     -         1000   20    0 
+schooner  989174946  7  4 c   c     c     k          980   50  165 9d 9s
+schooner  989174980  7  3 c   f     -     -         1095   10    0 
+schooner  989175005  7  2 Bk  kf    -     -         1085   10    0 
+schooner  989175042  8  1 Bc  kf    -     -         1075   10    0 
+schooner  989175062  8  8 c   c     c     c         1065   60    0 Qh 2d
+schooner  989175097  8  7 c   c     b     b         1005   60  160 9s 4h
+schooner  989175140  8  6 c   k     k     f         1105   10    0 
+schooner  989175179  8  5 c   b     b     -         1095   50  145 
+schooner  989175208  8  4 c   k     k     f         1190   10    0 
+schooner  989175228  8  3 c   k     kc    cc        1180   70    0 Ah 9h
+schooner  989175269  9  2 Bk  Q     -     -         1110   10    0 
+schooner  989175981 10  7 f   -     -     -         1100    0    0 
+schooner  989176005 10  6 cc  bc    b     -         1100   60  165 
+schooner  989176044 10  5 cc  kf    -     -         1205   20    0 
+schooner  989176144 10  4 c   f     -     -         1185   10    0 
+schooner  989176233 10  3 c   kf    -     -         1175   10    0 
+schooner  989176270 10  2 Bk  kf    -     -         1165   10    0 
+schooner  989176290 10  1 Bc  b     k     b         1155   40  110 
+schooner  989176338 10 10 c   c     c     f         1225   50    0 
+schooner  989176399 10  9 f   -     -     -         1175    0    0 
+schooner  989176420 10  8 c   kf    -     -         1175   10    0 
+schooner  989176502 10  7 c   c     c     f         1165   40    0 
+schooner  989176551  9  6 c   c     c     c         1125   60  130 Qs Qd
+schooner  989176575  9  5 c   k     k     f         1195   10    0 
+schooner  989176611  9  4 cc  k     kf    -         1185   20    0 
+schooner  989176690 10  3 c   k     f     -         1165   10    0 
+schooner  989176724  9  2 Bk  k     kf    -         1155   10    0 
+schooner  989176764  8  1 Bcc kf    -     -         1145   20    0 
+schooner  989176801  9  9 c   k     f     -         1125   10    0 
+schooner  989176858  9  8 c   kc    k     f         1115   20    0 
+schooner  989176905  9  7 c   c     f     -         1095   30    0 
+schooner  989176952  9  6 c   kc    kf    -         1065   20    0 
+schooner  989177005  9  5 c   kf    -     -         1045   10    0 
+schooner  989177029  9  4 f   -     -     -         1035    0    0 
+schooner  989177064 10  3 c   k     kf    -         1035   10    0 
+schooner  989177114 10  2 Bk  kf    -     -         1025   10    0 
+schooner  989177173 10  1 Bc  b     kc    kc        1015   60    0 5c 5d
+schooner  989177214 10  6 Q   -     -     -          955    0    0 
+schooner  989355755 10  2 Bc  kf    -     -         1290   20    0 
+schooner  989355829 10  1 Bc  kf    -     -         1270   10    0 
+schooner  989355878 10 10 c   k     k     b         1260   40   82 2c 3h
+schooner  989355956 10  9 cc  kc    f     -         1302   30    0 
+schooner  989356022 10  8 f   -     -     -         1272    0    0 
+schooner  989356086 10  7 c   c     k     k         1272   20    0 2h Qs
+schooner  989356147 10  6 cc  c     c     f         1252   50    0 
+schooner  989356207 10  6 c   f     -     -         1202   10    0 
+schooner  989356273 10  5 cc  kf    -     -         1192   20    0 
+schooner  989356364  9  3 c   c     c     cc        1172   80    0 4c Ts
+schooner  989356419  9  2 Bk  b     k     b         1092   40  110 
+schooner  989356466  9  1 Bc  kc    kf    -         1162   30    0 
+schooner  989356507  9  9 c   f     -     -         1132   10    0 
+schooner  989356543  9  8 c   c     b     k         1122   50    0 4h Qc
+schooner  989356591  9  7 cc  fQ    -     -         1072   20    0 
+schooner  989429103  5  5 c   k     f     -         1052   10    0 
+schooner  989429146  5  4 c   f     -     -         1042   10    0 
+schooner  989429195  6  3 c   kc    kf    -         1032   20    0 
+schooner  989429259  6  2 Bc  k     k     kf        1012   20    0 
+schooner  989429350  8  1 Bc  kf    -     -          992   10    0 
+schooner  989429396  9  9 f   -     -     -          982    0    0 
+schooner  989429441  8  7 c   f     -     -          982   10    0 
+schooner  989429502  6  5 c   c     c     f          972   40    0 
+schooner  989429545  6  4 c   c     c     c          932   60    0 8d 7h
+schooner  989429597  7  3 cc  b     k     KQ         872   40    0 
+schooner  989441177  7  4 cc  kf    -     -          832   20    0 
+schooner  989441224  7  4 cc  kc    kf    -          812   40    0 
+schooner  989441290  7  2 Bc  kf    -     -          772   20    0 
+schooner  989441316  6  1 Bc  kf    -     -          752   10    0 
+schooner  989441358  6  6 c   c     c     c          742   60    0 9d Qs
+schooner  989441402  7  6 c   c     c     c          682   60  130 Qc Td
+schooner  989441437  6  5 c   c     f     -          752   20    0 
+schooner  989441514  6  3 c   c     c     c          732   60    0 2d 9d
+schooner  989441587  4  2 Bc  kc    kf    -          672   30    0 
+schooner  989441636  7  1 BQ  -     -     -          642    5    0 
+schooner  989520238  9  4 cf  -     -     -          509   10    0 
+schooner  989520340 10  3 ccc kc    f     -          499   40    0 
+schooner  989520397 10  2 Bk  k     kf    -          459   10    0 
+schooner  989520471 10  1 Bcc bc    kr    b          449  120  610 Jh Td
+schooner  989520668 10 10 c   c     k     k          939   70    0 Kh Qh
+schooner  989520740 10  9 f   -     -     -          869    0    0 
+schooner  989520797  9  8 c   k     k     k          869   20   95 9h 9s
+schooner  989520832  8  6 f   -     -     -          944    0    0 
+schooner  989520858  9  5 cc  kf    -     -          944   40    0 
+schooner  989520929  9  4 f   -     -     -          904    0    0 
+schooner  989521004  9  3 cc  f     -     -          904   30    0 
+schooner  989521083  9  2 Bk  kf    -     -          874   10    0 
+schooner  989521142  8  1 Bc  kc    kf    -          864   20    0 
+schooner  989521189  9  9 c   f     -     -          844   20    0 
+schooner  989521241  9  8 c   f     -     -          824   10    0 
+schooner  989521314  8  6 f   -     -     -          814    0    0 
+schooner  989521369  8  6 cc  f     -     -          814   40    0 
+schooner  989521457  7  4 c   Q     -     -          774   10    0 
+schooner  989539659  5  3 cc  c     c     c          764   70  150 Kh 2d
+schooner  989539684  5  2 Bc  kc    kf    -          844   30    0 
+schooner  989539723  5  1 Bf  -     -     -          814    5    0 
+schooner  989539749  6  6 cc  f     -     -          809   20    0 
+schooner  989539785  6  5 cc  ccc   c     cc         789  170    0 5s Ah
+schooner  989539846  7  4 c   k     k     k          619   10    0 Th 6c
+schooner  989539882  9  3 c   k     k     k          609   10    0 3d Jd
+schooner  989539923  9  2 Bk  kf    -     -          599   10    0 
+schooner  989539954  9  1 Bc  bc    kc    kc         589   70    0 6c Kh
+schooner  989540012 10 10 c   f     -     -          519   10    0 
+schooner  989540054 10  9 c   b     -     -          509   20   35 
+schooner  989540094 10  8 c   kc    kc    kf         524   40    0 
+schooner  989540156 10  7 cc  kf    -     -          484   30    0 
+schooner  989540237 10  6 cc  kc    k     b          454   50  145 Ac Qd
+schooner  989540296 10  5 cc  b     k     br         549   90  245 8h Ks
+schooner  989540353 10  4 cc  kf    -     -          704   20    0 
+schooner  989540401 10  3 c   kc    kc    kf         684   40    0 
+schooner  989540464 10  2 Bk  k     k     bc         644   50    0 Ks 3d
+schooner  989540508 10  1 Bc  kc    k     k          594   30   90 3d Tc
+schooner  989540586  9  9 c   c     c     f          654   40    0 
+schooner  989540629  9  8 c   b     b     k          614   40    0 4c 4h
+schooner  989540683  9  7 cc  c     f     -          574   40    0 
+schooner  989540727 10  7 f   -     -     -          534    0    0 
+schooner  989540781 10  6 c   c     c     b          534   60  210 9d Qd
+schooner  989540861 10  5 c   kc    kf    -          684   30    0 
+schooner  989540903 10  4 c   k     f     -          654   10    0 
+schooner  989540939 10  3 c   kc    bc    b          644   80  100 8d As
+schooner  989540998 10  2 Bk  k     kf    -          664   10    0 
+schooner  989541042 10  1 Bc  kc    kcf   -          654   50    0 
+schooner  989541104  9  9 c   c     c     b          604   70  220 3c 3h
+schooner  989541162 10  9 c   f     -     -          754   10    0 
+schooner  989541188 10  8 c   k     f     -          744   10    0 
+schooner  989541276 10  7 c   c     r     b          734   80  200 Ah Ad
+schooner  989541334  9  6 cc  kf    -     -          854   20    0 
+schooner  989541358  8  4 c   kf    -     Q          834   10    0 
+schooner  989579741  4  3 cc  c     f     -         1054   30    0 
+schooner  989579759  4  2 Bc  kf    -     -         1024   20    0 
+schooner  989579769  4  1 Bc  kc    kf    -         1004   30    0 
+schooner  989579799  4  4 cc  c     cf    -          974   50    0 
+schooner  989579834  4  3 f   -     -     -          924    0    0 
+schooner  989579844  4  2 Bc  b     -     -          924   30   55 
+schooner  989579857  4  1 Bc  bc    bc    bc         949  120  270 3s 9d
+schooner  989579876  4  4 cc  f     -     -         1099   20    0 
+schooner  989579890  4  3 cc  rc    c     c         1079   90    0 Kc Kh
+schooner  989579910  4  2 Bc  kf    -     -          989   20    0 
+schooner  989579924  4  1 Bf  -     -     -          969    5    0 
+schooner  989579939  4  4 c   c     c     c          964   60   70 7c Qs
+schooner  989579958  4  3 cc  f     -     -          974   20    0 
+schooner  989579978  4  2 Bc  bc    bc    kc         954  100    0 Qd As
+schooner  989579999  4  1 Bc  k     kf    -          854   20    0 
+schooner  989580024  4  4 f   -     -     -          834    0    0 
+schooner  989580043  4  3 cc  c     c     c          834   70  150 8h Kh
+schooner  989580068  4  2 Bc  kf    -     -          914   20    0 
+schooner  989580079  4  1 Bc  kf    -     -          894   20    0 
+schooner  989580090  4  4 cc  f     -     -          874   20    0 
+schooner  989580112  4  3 cc  f     -     -          854   20    0 
+schooner  989580124  4  2 Bc  bc    k     b          834   60  125 9c 8s
+schooner  989580145  4  1 Bc  b     b     b          899   70  130 
+schooner  989580170  4  4 cc  c     f     -          959   30    0 
+schooner  989580190  4  3 cc  f     -     -          929   20    0 
+schooner  989580211  4  2 Bc  bc    kc    kc         909   80  165 Kd Kh
+schooner  989580231  4  1 Bc  kc    kc    kf         994   50    0 
+schooner  989580257  4  4 c   k     k     k          944   10   25 Ah 8h
+schooner  989580274  4  3 cc  c     f     -          959   30    0 
+schooner  989580295  4  2 Bc  f     -     -          929   20    0 
+schooner  989580307  4  1 Bf  -     -     -          909    5    0 
+schooner  989580322  4  4 cc  f     -     -          904   20    0 
+schooner  989580342  4  3 cc  f     -     -          884   20    0 
+schooner  989580353  4  2 Bc  kf    -     -          864   20    0 
+schooner  989580363  4  1 Bc  kf    -     -          844   20    0 
+schooner  989580382  4  4 cc  c     c     c          824   70    0 7c 8h
+schooner  989580401  4  3 f   -     -     -          754    0    0 
+schooner  989580417  4  2 Bc  kf    -     -          754   30    0 
+schooner  989580443  4  1 Bf  -     -     -          724    5    0 
+schooner  989580466  3  3 c   b     -     -          719   20   35 
+schooner  989580477  3  2 Bk  k     k     b          734   30   40 
+schooner  989580488  3  1 Br  k     k     k          744   20   40 3s 3d
+schooner  989580507  3  3 cc  f     -     -          764   20    0 
+schooner  989580519  3  2 Bk  k     k     b          744   30   40 
+schooner  989580532  3  1 Bc  b     kc    kf         754   40    0 
+schooner  989580553  3  3 f   -     -     -          714    0    0 
+schooner  989580557  3  2 B   -     -     -          714   10   15 
+schooner  989580560  3  1 Bc  b     -     -          719   30   70 
+schooner  989580569  3  3 c   k     b     k          759   30    0 4h Qh
+schooner  989580586  3  2 Bk  k     b     b          729   50   85 
+schooner  989580608  4  1 Bc  kf    -     -          764   20    0 
+schooner  989580621  4  4 rc  c     c     c          744   80  170 9c 9s
+schooner  989580637  4  3 cc  c     c     f          834   50    0 
+schooner  989580662  5  2 Bk  kf    -     -          784   10    0 
+schooner  989580684  5  1 Bf  -     -     -          774    5    0 
+schooner  989580693  5  5 c   f     -     -          769   10    0 
+schooner  989580704  5  4 c   k     k     f          759   10    0 
+schooner  989580728  6  3 c   k     k     k          749   10   30 9d 2s
+schooner  989580754  6  2 Bk  kc    kf    -          769   30    0 
+schooner  989580792  6  1 Bcf -     -     -          739   10    0 
+schooner  989580804  6  6 f   -     -     -          729    0    0 
+schooner  989580823  6  5 f   -     -     -          729    0    0 
+schooner  989580857  6  4 c   c     c     k          729   50    0 Ks 4c
+schooner  989580884  6  3 c   c     c     b          679   60  170 5d 5c
+schooner  989580915  6  2 Bc  bc    bc    kc         789  100    0 Tc 6d
+schooner  989580948  5  1 Bc  k     b     -          689   30   50 
+schooner  989580971  5  5 c   k     k     k          709   20   70 7s 5s
+schooner  989580996  5  4 cc  kc    kc    b          759   70  155 Ks 3s
+schooner  989581026  6  4 c   k     c     f          844   30    0 
+schooner  989581064  6  3 f   -     -     -          814    0    0 
+schooner  989581086  6  2 Br  b     -     -          814   30   70 
+schooner  989581123  6  1 Bc  k     kf    -          854   10    0 
+schooner  989581149  6  6 c   k     f     -          844   10    0 
+schooner  989581179  6  5 cc  b     k     kc         834   50    0 Kd Ts
+schooner  989581234  6  4 c   k     f     -          784   10    0 
+schooner  989581278  7  3 cc  f     -     -          774   20    0 
+schooner  989581347  6  2 Bc  b     bc    kc         754   90  185 Ks 5h
+schooner  989581379  6  1 Bcc b     k     bc         849   70  170 7h 9s
+schooner  989581418  6  6 c   k     c     c          949   50    0 7h Qc
+schooner  989581453  6  5 c   c     c     f          899   50    0 
+schooner  989581495  6  4 f   -     -     -          849    0    0 
+schooner  989581544  5  2 c   k     k     k          849   10    0 3h Ah
+schooner  989581563  5  2 Bc  kf    -     -          839   20    0 
+schooner  989581579  5  1 Bc  k     kf    -          819   20    0 
+schooner  989581595  5  5 c   c     k     b          799   50  105 
+schooner  989581617  5  4 c   k     c     c          854   50  110 2h 9h
+schooner  989581668  4  2 c   k     k     k          914   10    0 2h 9d
+schooner  989581686  4  2 Bk  f     -     -          904   10    0 
+schooner  989581695  4  1 Bc  k     b     -          894   30   40 
+schooner  989581707  4  4 c   f     -     -          904   10    0 
+schooner  989581718  4  3 c   k     k     k          894   10    0 5c 3s
+schooner  989581731  4  2 B   -     -     -          884   10   15 
+schooner  989581737  4  1 Bc  b     k     b          889   50  110 3h Ts
+schooner  989581758  5  5 c   k     f     -          949   10    0 
+schooner  989581774  5  4 c   k     k     b          939   30   45 
+schooner  989581796  5  3 c   b     -     -          954   20   35 
+schooner  989581804  5  2 Bk  c     bc    k          969   60  140 4c Ac
+schooner  989581822  5  1 Bc  bc    k     k         1049   30   70 Tc Jh
+schooner  989581846  5  5 c   k     k     k         1089   10    0 8c 5h
+schooner  989581869  6  4 c   c     f     -         1079   20    0 
+schooner  989581893  7  3 c   kc    b     b         1059   70  195 Th 7d
+schooner  989581925  7  2 Bk  kf    -     -         1184   10    0 
+schooner  989581959  7  1 Bc  k     k     k         1174   10   30 8h 9c
+schooner  989581979  7  7 c   c     f     -         1194   20    0 
+schooner  989582007  7  6 c   kf    -     -         1174   10    0 
+schooner  989582023  7  5 cc  b     -     -         1164   40  115 
+schooner  989582041  7  4 cc  b     b     k         1239   50  170 9s 9d
+schooner  989582073  7  3 cc  k     f     -         1359   20    0 
+schooner  989582091  7  2 Bk  kf    -     -         1339   10    0 
+schooner  989582108  6  1 Bc  k     k     k         1329   10   30 Kc As
+schooner  989582131  6  6 c   k     b     -         1349   30   45 
+schooner  989582145  6  5 c   k     k     f         1364   10    0 
+schooner  989582166  6  4 c   k     k     k         1354   10    0 6h 5h
+schooner  989582183  6  3 c   f     -     -         1344   10    0 
+schooner  989582204  6  2 Bk  b     -     -         1334   20   30 
+schooner  989582219  6  1 Bc  b     -     -         1344   20   40 
+schooner  989582235  6  6 c   c     c     c         1364   60    0 2c 2s
+schooner  989582266  6  5 c   c     f     -         1304   20    0 
+schooner  989582289  6  4 c   k     f     -         1284   10    0 
+schooner  989582317  6  3 c   c     f     -         1274   20    0 
+schooner  989582340  6  2 Bk  k     k     k         1254   10    0 Ah Th
+schooner  989582353  6  1 Bc  b     -     -         1244   20   40 
+schooner  989582371  7  7 f   -     -     -         1264    0    0 
+schooner  989582385  7  6 c   c     c     c         1264   60    0 Qd 9s
+schooner  989582406  7  5 f   -     -     -         1204    0    0 
+schooner  989582439  7  4 c   b     b     b         1204   60  130 
+schooner  989582476  7  3 c   c     c     k         1274   40    0 Ac Jc
+schooner  989582504  7  2 Bk  kf    -     -         1234   10    0 
+schooner  989582528  7  1 Bc  kf    -     -         1224   10    0 
+schooner  989582543  7  7 f   -     -     -         1214    0    0 
+schooner  989582558  7  6 c   b     -     -         1214   20   35 
+schooner  989582570  7  5 cc  c     f     -         1229   30    0 
+schooner  989582601  6  4 f   -     -     -         1199    0    0 
+schooner  989582642  6  3 c   cc    k     r         1199   70  190 6s Jh
+schooner  989582673  6  2 Bk  k     k     k         1319   10    0 Ad Ts
+schooner  989582690  5  1 Bc  k     k     b         1309   30   50 
+schooner  989582711  5  5 c   k     f     -         1329   10    0 
+schooner  989582733  5  4 c   k     f     -         1319   10    0 
+schooner  989582753  5  3 c   kf    -     -         1309   10    0 
+schooner  989582765  5  2 Bk  kc    k     kf        1299   20    0 
+schooner  989582788  5  1 Bc  kf    -     -         1279   10    0 
+schooner  989582802  5  5 c   b     -     -         1269   20   35 
+schooner  989582813  5  4 c   k     f     -         1284   10    0 
+schooner  989582824  5  3 c   k     f     -         1274   10    0 
+schooner  989582846  6  2 Bc  kcc   kc    kf        1264   70    0 
+schooner  989582881  6  1 Bc  b     k     k         1194   30    0 Tc 2h
+schooner  989582919  6  6 c   k     b     -         1164   30   45 
+schooner  989582974  5  4 c   f     -     -         1179   10    0 
+schooner  989583007  5  3 cc  kc    kf    -         1169   30    0 
+schooner  989583031  5  2 Bc  kf    -     -         1139   20    0 
+schooner  989583046  5  1 Bc  k     b     -         1119   30   40 
+schooner  989583059  5  5 c   f     -     -         1129   10    0 
+schooner  989583073  5  4 f   -     -     -         1119    0    0 
+schooner  989583077  5  3 f   -     -     -         1119    0    0 
+schooner  989583099  5  2 B   -     -     -         1119   10   15 
+schooner  989583102  5  1 Bc  b     -     -         1124   20   40 
+schooner  989583112  5  5 c   c     k     k         1144   20    0 4h Kh
+schooner  989583130  5  4 f   -     -     -         1124    0    0 
+schooner  989583153  5  3 c   b     -     -         1124   20   35 
+schooner  989583163  5  2 B   -     -     -         1139   10   15 
+schooner  989583166  5  1 Bc  kc    k     k         1144   20   50 2s Js
+schooner  989583198  5  5 c   f     -     -         1174   10    0 
+schooner  989583212  5  4 c   c     c     c         1164   60    0 5c Ac
+schooner  989583244  5  3 c   k     k     k         1104   10    0 Ts 2s
+schooner  989583265  5  2 B   -     -     -         1094   10   15 
+schooner  989583276  5  1 Bc  b     -     -         1099   20   30 
+schooner  989583291  5  5 c   k     k     k         1109   10    0 3d 8h
+schooner  989583309  5  4 c   k     k     b         1099   30   50 
+schooner  989583336  5  3 c   f     -     -         1119   10    0 
+schooner  989583349  5  2 B   -     -     -         1109   10   15 
+schooner  989583352  5  1 Bc  k     b     -         1114   30   40 
+schooner  989583366  5  5 c   f     -     -         1124   10    0 
+schooner  989583384  5  4 f   -     -     -         1114    0    0 
+schooner  989583411  5  3 c   k     f     -         1114   10    0 
+schooner  989583432  6  2 Bk  b     b     -         1104   40   80 
+schooner  989583483  6  1 Bc  k     kf    -         1144   10    0 
+schooner  989583536  6  6 c   f     -     -         1134   20    0 
+schooner  989583554  6  5 c   c     c     b         1114   70  107 Qs 5c
+schooner  989583580  6  4 c   k     k     k         1151   10    0 4c Js
+schooner  989583614  6  3 cc  kf    -     -         1141   20    0 
+schooner  989583644  7  2 Bk  b     kc    kc        1121   60    0 8h 6d
+schooner  989583680  7  1 Bc  kf    -     -         1061   20    0 
+schooner  989583719  7  7 c   b     k     b         1041   40   70 
+schooner  989583751  7  6 c   f     -     -         1071   10    0 
+schooner  989583792  7  5 f   -     -     -         1061    0    0 
+schooner  989583843  7  4 c   k     f     -         1061   10    0 
+schooner  989583874  7  3 c   kf    -     -         1051   10    0 
+schooner  989583925  7  2 Bc  bc    b     k         1041   60  125 Kc 2d
+schooner  989583982  6  1 Bc  b     kc    kc        1106   60    0 6s Ac
+schooner  989584074  5  5 c   k     k     k         1046   10    0 Qs 2d
+schooner  989584091  5  4 f   -     -     -         1036    0    0 
+schooner  989584097  5  3 c   b     b     k         1036   40  145 As 9s
+schooner  989584120  5  2 B   -     -     -         1141   10   15 
+schooner  989584127  5  1 Bc  kf    -     -         1146   10    0 
+schooner  989584152  5  5 c   b     c     c         1136   60    0 Ah 8s
+schooner  989584179  5  4 f   -     -     -         1076    0    0 
+schooner  989584205  5  3 c   f     -     -         1076   10    0 
+schooner  989584228  5  2 Bk  kc    bc    kc        1066   80    0 3d 6s
+schooner  989584258  5  1 Bc  k     kf    -          986   10    0 
+schooner  989584276  5  5 c   k     c     k          976   30    0 4s 2s
+schooner  989584300  5  4 c   k     k     k          946   10    0 5s Td
+schooner  989584320  5  3 f   -     -     -          936    0    0 
+schooner  989584338  5  2 B   -     -     -          936   10   15 
+schooner  989584345  5  1 Bc  k     k     kf         941   20    0 
+schooner  989584369  5  5 c   c     c     f          921   40    0 
+schooner  989584389  5  4 c   c     k     k          881   20    0 Ah 9c
+schooner  989584403  5  3 cc  kf    -     -          861   20    0 
+schooner  989584419  5  2 Bk  k     k     k          841   10    0 7s 6s
+schooner  989584439  5  1 Bc  k     k     k          831   10   20 Jc Ah
+schooner  989584457  5  5 c   k     k     k          841   10   30 Kh 6s
+schooner  989584492  5  4 c   b     c     c          861   60    0 Ad 6h
+schooner  989584513  5  3 c   b     b     k          801   40  105 5s Kc
+schooner  989584536  5  2 Bk  kf    -     -          866   10    0 
+schooner  989584553  5  1 Bc  kf    -     -          856   10    0 
+schooner  989584569  5  5 c   b     b     -          846   40   75 
+schooner  989584583  5  4 cc  kf    -     -          881   20    0 
+schooner  989584599  5  3 f   -     -     -          861    0    0 
+schooner  989584608  5  2 Bc  brc   b     b          861  100  205 Qh Th
+schooner  989584628  5  1 Bf  -     -     -          966    5    0 
+schooner  989584637  6  6 c   c     f     -          961   30    0 
+schooner  989584664  6  5 c   c     c     f          931   40    0 
+schooner  989584705  7  4 c   c     kf    -          891   20    0 
+schooner  989584753  6  3 cc  kc    kc    k          871   50  135 4c 4h
+schooner  989584777  7  2 Bcc kc    bc    kc         956  130    0 2s Th
+schooner  989584837  8  1 Bc  b     b     -          826   40   70 
+schooner  989584868  8  8 cc  c     k     f          856   30    0 
+schooner  989584924  8  7 c   c     c     c          826   60  185 Jc Tc
+schooner  989584953  8  6 cc  f     -     -          951   20    0 
+schooner  989584997  7  5 cc  k     k     f          931   20    0 
+schooner  989585093  6  3 f   -     -     -          911    0    0 
+schooner  989585140  6  2 Bk  kf    -     -          911   10    0 
+schooner  989585167  6  1 Bc  k     kc    kc         901   80    0 Jd Ts
+schooner  989585219  6  6 c   b     k     k          821   20   55 Jc 5c
+schooner  989585261  4  4 f   -     -     -          856    0    0 
+schooner  989585269  4  4 c   c     c     c          856   60  125 9d Ac
+schooner  989585283  4  3 c   k     k     k          921   10   25 9d 3d
+schooner  989585297  4  2 B   -     -     -          936   10   15 
+schooner  989585303  4  1 Bc  k     k     k          941   10    0 9c 3s
+schooner  989585322  4  4 c   f     -     -          931   10    0 
+schooner  989585336  4  3 c   f     -     -          921   10    0 
+schooner  989585350  4  2 Bc  k     kf    -          911   20    0 
+schooner  989585367  4  1 Bf  -     -     -          891    5    0 
+schooner  989585373  4  4 c   k     k     k          886   10   25 4c Kc
+schooner  989585385  4  3 cc  kf    -     -          901   20    0 
+schooner  989585399  4  2 Bk  k     b     k          881   30  120 Th Kh
+schooner  989585415  4  1 Bc  k     k     k          971   10    0 8s Ks
+schooner  989585433  4  4 f   -     -     -          961    0    0 
+schooner  989585445  4  3 c   f     -     -          961   10    0 
+schooner  989585462  4  2 Bc  kc    kc    kf         951   50    0 
+schooner  989585483  4  1 Bc  b     k     b          901   40   60 
+schooner  989585501  4  4 c   k     b     k          921   30   70 Js Kh
+schooner  989585515  4  3 f   -     -     -          961    0    0 
+schooner  989585526  4  2 Bk  k     k     k          961   10    0 9s 5d
+schooner  989585540  4  1 Bc  k     b     -          951   30   50 
+schooner  989585552  4  4 f   -     -     -          971    0    0 
+schooner  989585555  4  3 c   b     -     -          971   20   35 
+schooner  989585561  4  2 Bc  k     kc    b          986   60  125 5h 5d
+schooner  989585575  4  1 Bc  b     b     -         1051   40   60 
+schooner  989585589  4  4 f   -     -     -         1071    0    0 
+schooner  989585598  4  3 c   k     k     c         1071   30   80 3c 7h
+schooner  989585617  4  2 Bf  -     -     -         1121   10    0 
+schooner  989585636  4  1 Bf  -     -     -         1111    5    0 
+schooner  989585654  4  4 c   k     k     k         1106   10    0 9d 5d
+schooner  989585670  4  3 c   kf    -     -         1096   10    0 
+schooner  989585682  4  2 Bc  k     kf    -         1086   20    0 
+schooner  989585700  4  1 Bc  kc    kf    -         1066   20    0 
+schooner  989585719  4  4 f   -     -     -         1046    0    0 
+schooner  989585731  4  3 c   k     k     k         1046   10    0 4s 7d
+schooner  989585748  4  2 Bc  kc    kf    -         1036   30    0 
+schooner  989585765  4  1 Bc  kc    kf    -         1006   30    0 
+schooner  989585777  4  4 cc  f     -     -          976   20    0 
+schooner  989585792  4  3 c   k     f     -          956   10    0 
+schooner  989585813  4  2 Bk  k     k     c          946   30    0 Ts 4c
+schooner  989585831  4  1 Bc  b     -     -          916   20   40 
+schooner  989585845  4  4 cc  k     f     -          936   20    0 
+schooner  989585854  5  4 c   f     -     -          916   10    0 
+schooner  989585875  5  3 cc  k     kf    -          906   20    0 
+schooner  989585906  5  2 Bc  kf    -     -          886   20    0 
+schooner  989585940  5  1 Bc  k     kf    -          866   20    0 
+schooner  989585977  5  5 f   -     -     -          846    0    0 
+schooner  989585993  5  4 c   b     -     -          846   20   40 
+schooner  989586004  4  2 c   f     -     -          866   10    0 
+schooner  989586011  4  2 Bk  k     kf    -          856   10    0 
+schooner  989586025  4  1 Bc  kf    -     -          846   10    0 
+schooner  989586035  4  4 c   b     b     k          836   40   85 Qd 5h
+schooner  989586050  4  3 c   k     k     k          881   10    0 5c Th
+schooner  989586064  4  2 Bc  kf    -     -          871   20    0 
+schooner  989586076  4  1 Bc  b     b     k          851   50    0 Ks Kh
+schooner  989586088  4  4 f   -     -     -          801    0    0 
+schooner  989586094  4  3 c   k     k     k          801   10    0 Th 8s
+schooner  989586112  4  2 Bf  -     -     -          791   10    0 
+schooner  989586121  4  1 Bc  b     b     k          781   40  100 Ac 7d
+schooner  989586135  4  4 f   -     -     -          841    0    0 
+schooner  989586141  3  2 c   k     k     k          841   10    0 6h Qd
+schooner  989586151  4  2 B   -     -     -          831   10   15 
+schooner  989586157  4  1 Bf  -     -     -          836    5    0 
+schooner  989586169  4  4 f   -     -     -          831    0    0 
+schooner  989586183  5  4 c   b     b     k          831   40  100 Qd Qc
+schooner  989586207  5  3 c   b     b     k          891   40    0 9h Kd
+schooner  989586227  6  2 Bk  b     k     k          851   20    0 Kh Th
+schooner  989586251  6  1 Bc  kc    kc    k          831   40  100 9d Tc
+schooner  989586276  6  6 c   f     -     -          891   10    0 
+schooner  989586302  6  5 c   k     k     k          881   10    0 2h 3c
+schooner  989586326  6  4 cc  kc    kc    b          871   70  210 6c 5d
+schooner  989586363  6  3 cc  k     b     b         1011   60  160 Jc 9h
+schooner  989586391  5  2 Bk  c     f     -         1111   20    0 
+schooner  989586422  5  1 Bc  kf    -     -         1091   10    0 
+schooner  989586439  5  5 c   k     k     f         1081   10    0 
+schooner  989586460  5  4 c   k     k     k         1071   10    0 8s Js
+schooner  989586479  5  3 cc  kf    -     -         1061   20    0 
+schooner  989586514  5  2 Bk  c     f     -         1041   20    0 
+schooner  989586526  5  1 Bc  kf    -     -         1021   20    0 
+schooner  989586538  5  5 cc  f     -     -         1001   20    0 
+schooner  989586551  5  4 c   b     b     -          981   40   70 
+schooner  989586570  5  3 c   k     k     k         1011   10   40 9c Tc
+schooner  989586606  5  2 Bk  k     k     b         1041   30   50 
+schooner  989586644  5  1 Bcc k     kf    -         1061   20    0 
+schooner  989586670  5  5 cc  f     -     -         1041   20    0 
+schooner  989586689  6  4 c   k     f     -         1021   10    0 
+schooner  989586717  6  3 cc  k     k     k         1011   20    0 2d 9d
+schooner  989586750  6  2 Bk  k     b     k          991   30   75 2s 4s
+schooner  989586776  6  1 Bc  k     k     k         1036   10   20 Kh 6c
+schooner  989586801  7  7 c   c     c     k         1046   50    0 Kh 9d
+schooner  989586846  7  6 c   k     k     f          996   10    0 
+schooner  989586890  7  5 c   kc    b     k          986   40  125 7d Qd
+schooner  989586927  7  4 c   c     c     k         1071   40    0 Kd 4c
+schooner  989586959  7  3 c   k     k     b         1031   30   95 4d 8s
+schooner  989586999  7  2 Bk  k     k     k         1096   10    0 6c Td
+schooner  989587035  6  1 Bc  k     k     b         1086   30  100 9d 3d
+schooner  989587083  5  5 c   f     -     -         1156   10    0 
+schooner  989587111  5  5 c   k     f     -         1146   10    0 
+schooner  989587137  5  4 f   -     -     -         1136    0    0 
+schooner  989587152  5  3 c   kc    kc    kf        1136   40    0 
+schooner  989587178  5  2 Bk  k     k     k         1096   10    0 3c 8s
+schooner  989587194  5  1 Bc  k     kf    -         1086   20    0 
+schooner  989587215  6  5 c   k     b     kc        1066   50    0 3s 4s
+schooner  989587251  7  4 c   c     b     k         1016   40  115 Ac 5h
+schooner  989587280  7  3 c   k     kc    bc        1091   70  165 4d Kd
+schooner  989587312  7  2 Bk  kc    kc    k         1186   50    0 Tc 7c
+schooner  989587351  7  1 Bc  k     b     -         1136   30   60 
+schooner  989587378  7  7 c   c     f     -         1166   20    0 
+schooner  989587404  7  6 c   k     k     k         1146   10   30 Ks Qc
+schooner  989587430  7  5 c   f     -     -         1166   10    0 
+schooner  989587446  7  4 c   k     k     k         1156   10   35 Jh Ah
+schooner  989587472  7  3 c   c     k     k         1181   20    0 Ad Jc
+schooner  989587488  7  2 Bk  b     k     kf        1161   20    0 
+schooner  989587525  7  1 Bc  k     b     -         1141   30   40 
+schooner  989587543  7  7 c   k     k     c         1151   30    0 9s 4d
+schooner  989587581  7  6 c   k     f     -         1121   10    0 
+schooner  989587608  7  5 c   k     b     -         1111   30   45 
+schooner  989587626  7  4 c   c     c     f         1126   50    0 
+schooner  989587654  7  3 c   b     b     k         1076   40  100 Tc 9d
+schooner  989587687  7  2 Bk  kc    kf    -         1136   20    0 
+schooner  989587714  7  1 Bc  k     kc    k         1116   40    0 9h 6h
+schooner  989587742  7  7 c   b     k     k         1076   30   90 Ad Qh
+schooner  989587763  7  6 c   k     k     r         1136   50  155 Qh Jc
+schooner  989587797  7  5 c   k     k     f         1241   10    0 
+schooner  989587836  5  3 c   c     k     k         1231   20    0 7h Ad
+schooner  989587869  5  2 Bk  kc    kc    kc        1211   60    0 Kd 4d
+schooner  989587911  6  1 Bc  bc    bc    b         1151   90  210 7s 8s
+schooner  989587950  6  6 c   c     k     k         1271   30    0 Jh 8c
+schooner  989587983  6  5 c   kf    -     -         1241   10    0 
+schooner  989588013  6  4 c   c     k     f         1231   20    0 
+schooner  989588047  6  3 c   c     f     -         1211   20    0 
+schooner  989588097  6  2 Bk  bc    kc    kc        1191   70  145 9c Qs
+schooner  989588128  6  1 Bc  b     kc    k         1266   40    0 9s 3s
+schooner  989588168  6  6 c   f     -     -         1226   10    0 
+schooner  989588203  6  5 c   b     -     -         1216   20   50 
+schooner  989588222  6  4 c   r     b     c         1246   70    0 Ac Ah
+schooner  989588251  6  3 cc  kf    -     -         1176   20    0 
+schooner  989588285  6  2 Bk  k     kc    k         1156   30   35 2c 7h
+schooner  989588314  5  1 Bc  k     k     k         1161   20    0 Ac Jd
+schooner  989588347  5  5 c   c     c     b         1141   60  175 6s Th
+schooner  989588383  5  4 c   c     c     k         1256   40    0 9h 5s
+schooner  989588404  4  2 c   k     k     k         1216   10   20 Qc 8h
+schooner  989588418  4  2 B   -     -     -         1226   10   15 
+schooner  989588425  4  1 Bc  bc    k     b         1231   60  130 Qc Jc
+schooner  989588444  6  5 c   k     f     -         1301   10    0 
+schooner  989588469  6  4 c   b     b     b         1291   70  220 Ad Kc
+schooner  989588502  6  3 f   -     Q     -         1441    0    0 
+schooner  989598927  8  2 Bc  kf    -     -         1441   20    0 
+schooner  989598978  8  1 Bcf -     -     -         1421   20    0 
+schooner  989599077  8  8 c   f     -     -         1401   20    0 
+schooner  989599151 10  9 KQ  -     -     -         1381    0    0 
+schooner  989608661 10  4 f   -     -     -         1381    0    0 
+schooner  989608722 10  3 c   f     -     -         1381   10    0 
+schooner  989608770 10  2 Bk  cc    kc    c         1371   70    0 8s 6s
+schooner  989608867 10  1 Bc  kc    bc    b         1301   90  220 Td 7c
+schooner  989608916 10 10 cc  f     -     -         1431   40    0 
+schooner  989608978 10  9 c   c     f     -         1391   30    0 
+schooner  989609020 10  8 f   -     -     -         1361    0    0 
+schooner  989609121 10  7 c   kc    kc    kc        1361   60    0 8s Kc
+schooner  989609192 10  6 c   c     f     -         1301   30    0 
+schooner  989609245 10  5 c   b     b     bc        1271   80    0 Qd Kh
+schooner  989609279 10  4 c   c     c     f         1191   40    0 
+schooner  989609337 10  3 f   -     -     -         1151    0    0 
+schooner  989609386 10  2 BKQ -     -     -         1151   10    0 
+schooner  989613055  9  2 Bc  kf    -     -         1141   20    0 
+schooner  989613119  9  1 Bc  kf    -     -         1121   20    0 
+schooner  989613164  9  9 c   c     c     r         1101   80    0 8s 4h
+schooner  989613268  7  7 cc  c     f     -         1021   30    0 
+schooner  989613316  9  6 c   kc    kf    -          991   20    0 
+schooner  989613372 10  6 c   f     -     -          971   10    0 
+schooner  989613424 10  4 f   -     -     -          961    0    0 
+schooner  989613496 10  3 f   -     -     -          961    0    0 
+schooner  989613541 10  2 Bf  -     -     -          961   10    0 
+schooner  989613618 10  1 Bf  -     -     -          951    5    0 
+schooner  989613691 10 10 f   -     -     -          946    0    0 
+schooner  989613735 10  9 f   -     -     -          946    0    0 
+schooner  989613786  7  5 f   -     -     -          946    0    0 
+schooner  989613827  7  4 f   -     -     -          946    0    0 
+schooner  989613881  7  3 f   -     -     -          946    0    0 
+schooner  989613913  7  2 Bk  f     -     -          946   10    0 
+schooner  989613948  7  1 Bf  -     -     -          936    5    0 
+schooner  989613984  7  7 f   -     -     -          931    0    0 
+schooner  989614074  8  7 f   -     -     -          931    0    0 
+schooner  989614128  8  6 f   -     -     -          931    0    0 
+schooner  989614150  8  5 f   -     -     -          931    0    0 
+schooner  989614173  7  3 f   -     -     -          931    0    0 
+schooner  989614224  7  2 Bk  kf    -     -          931   10    0 
+schooner  989614257  8  1 Bf  -     -     -          921    5    0 
+schooner  989614278  7  7 f   -     -     -          916    0    0 
+schooner  989614313  7  6 f   -     -     -          916    0    0 
+schooner  989614334  7  5 f   -     -     -          916    0    0 
+schooner  989614356  6  4 f   -     -     -          916    0    0 
+schooner  989614387  6  3 f   -     -     -          916    0    0 
+schooner  989614410  7  2 Bk  k     f     -          916   10    0 
+schooner  989614430  8  1 Bf  -     -     -          906    5    0 
+schooner  989614461  9  9 f   -     -     -          901    0    0 
+schooner  989614486  9  8 f   -     -     -          901    0    0 
+schooner  989614523  9  7 f   -     -     -          901    0    0 
+schooner  989614582  9  6 f   -     -     -          901    0    0 
+schooner  989614637  9  5 f   -     -     Q          901    0    0 
+schooner  989624988 10  4 f   -     -     -          901    0    0 
+schooner  989625043 10  3 c   kf    -     -          901   10    0 
+schooner  989625125  9  2 Bk  kc    kf    -          891   20    0 
+schooner  989625167  9  1 Bc  bc    kc    kc         871   80    0 Jc Kd
+schooner  989625215  9  5 Q   -     -     -          791    0    0 
+schooner  989687938  7  4 cc  k     f     -          791   20    0 
+schooner  989687977  7  3 r   c     c     c          771   70  145 Qc Qh
+schooner  989688006  7  2 Bc  bc    kc    kf         846   60    0 
+schooner  989688090  7  1 Bc  k     k     kf         786   10    0 
+schooner  989688147  8  8 cc  k     k     f          776   20    0 
+schooner  989688207  7  6 f   -     -     -          756    0    0 
+schooner  989688223  6  4 c   k     b     -          756   30   55 
+schooner  989688245  6  3 cc  f     -     -          781   20    0 
+schooner  989688337  7  2 Bc  c     cc    c          761  110  290 Td Kd
+schooner  989688398  7  1 Bcc kc    kc    kc         941  107    0 5c Qh
+schooner  989688519  6  6 c   b     c     c          834   60    0 Th 2h
+schooner  989688592  7  3 Q   -     -     -          774    0    0 
+schooner  989767084  6  5 c   f     -     -         1175   10    0 
+schooner  989767098  6  4 c   f     -     -         1165   10    0 
+schooner  989767121  6  3 c   k     f     -         1155   10    0 
+schooner  989767159  7  2 Bk  kf    -     -         1145   10    0 
+schooner  989767181  7  1 Bcc br    b     k         1135   80  270 Kc 2d
+schooner  989767251  7  7 c   cc    cc    c         1325  120    0 9d 6s
+schooner  989767316  7  6 c   k     f     -         1205   10    0 
+schooner  989767351  8  5 cc  f     -     -         1195   40    0 
+schooner  989767405  7  4 cc  kc    c     k         1155   50    0 3s Jh
+schooner  989767472  8  3 c   kf    -     -         1105   10    0 
+schooner  989767525  8  2 Bk  kc    kf    -         1095   20    0 
+schooner  989767559  8  1 Bf  -     -     -         1075    5    0 
+schooner  989767572  8  8 f   -     -     -         1070    0    0 
+schooner  989767626  9  8 cc  ccc   f     Q         1070   80    0 
+schooner  989892236 10 10 c   c     c     c          647   60  230 7d Kd
+schooner  989892269 10  9 c   c     f     -          817   40    0 
+schooner  989892328 10  8 c   c     f     -          777   20    0 
+schooner  989892422  8  5 c   c     k     f          757   20    0 
+schooner  989892479  8  4 cc  kf    -     -          737   20    0 
+schooner  989892541  9  3 c   k     kc    f          717   30    0 
+schooner  989892634 10  2 Bk  kc    b     b          687   60  185 7c Qc
+schooner  989892675 10  1 Bc  kf    -     -          812   10    0 
+schooner  989892722  8  8 c   c     f     -          802   20    0 
+schooner  989892752  9  8 c   k     f     -          782   20    0 
+schooner  989892833  6  5 c   k     c     f          762   30    0 
+schooner  989892865  6  4 c   k     c     k          732   40    0 3h Ah
+schooner  989892899  6  3 c   c     cc    k          692   70    0 8h 4h
+schooner  989892950  8  2 Bc  f     -     -          622   20    0 
+schooner  989892970  8  1 Bf  -     -     -          602    5    0 
+schooner  989893019  8  8 f   -     -     -          597    0    0 
+schooner  989893055  8  7 c   k     k     k          597   10    0 3d Td
+schooner  989893093  8  6 c   ccc   kf    -          587   60    0 
+schooner  989893151  8  5 c   b     k     b          527   50  175 Jd 9s
+schooner  989893207  8  4 c   kc    k     ccc        652  110    0 6c 6h
+schooner  989893286  8  3 cf  -     -     -          542   10    0 
+schooner  989893356  8  2 Bc  kf    -     -          532   20    0 
+schooner  989893416  7  1 Bc  kf    -     -          512   10    0 
+schooner  989893483  7  7 c   c     c     c          502   60    0 6d 2h
+schooner  989893514  7  6 c   k     k     k          442   10    0 Kc 8c
+schooner  989893552  7  5 c   b     k     b          432   40   80 
+schooner  989893589  8  4 c   k     k     f          472   10    0 
+schooner  989893639  8  3 c   kc    kf    -          462   20    0 
+schooner  989893683  8  2 Bc  b     b     b          442   70  160 2d Jh
+schooner  989893750  9  1 Bc  kc    kc    k          532   40   60 4h 9d
+schooner  989893852  8  8 c   c     f     -          552   20    0 
+schooner  989893905  8  7 f   -     -     -          532    0    0 
+schooner  989893963 10  7 c   c     c     c          532   60  135 8h 4h
+schooner  989894004 10  6 c   k     k     f          607   10    0 
+schooner  989894062 10  5 c   k     f     -          597   10    0 
+schooner  989894103 10  4 cc  k     c     c          587   60    0 8h Kc
+schooner  989894161 10  3 c   kc    b     -          527   40  105 
+schooner  989894218 10  2 Bk  b     b     -          592   40   90 
+schooner  989894254 10  1 Bc  kf    -     -          642   20    0 
+schooner  989894305 10 10 c   k     f     -          622   10    0 
+schooner  989894360  9  9 c   c     f     -          612   40    0 
+schooner  989894416  9  7 c   k     b     b          572   50  130 6s 8d
+schooner  989894463  9  6 c   f     -     -          652   20    0 
+schooner  989894515 10  5 c   fQ    -     -          632   10    0 
+schooner  989963574  5  5 c   k     f     -          622   10    0 
+schooner  989963598  5  4 c   c     c     c          612   70  195 8c Tc
+schooner  989963625  6  4 c   k     b     k          737   30   90 Ac 5s
+schooner  989963693  6  3 cc  b     b     b          797   70  175 4s 4c
+schooner  989963748  6  2 Bk  bc    bc    kc         902   90  185 8d 6s
+schooner  989963780  6  1 Bc  bc    kcc   kcc        997  220    0 Kh Qh
+schooner  989963843  6  6 c   b     b     c          777   58  136 3c Ts
+schooner  989963895  4  3 c   k     k     f          855   10    0 
+schooner  989963947  6  3 c   kf    -     -          845   10    0 
+schooner  989964014  5  1 Bk  kc    b     kc         835   60  180 7c 6c
+schooner  989964059  5  1 Bc  kf    -     -          955   10    0 
+schooner  989964092  6  6 c   f     -     -          945   10    0 
+schooner  989964126  6  5 c   c     f     -          935   20    0 
+schooner  989964159  6  4 c   kf    -     -          915   10    0 
+schooner  989964204  7  4 c   kf    -     -          905   10    0 
+schooner  989964303  8  4 c   k     k     f          895   10    0 
+schooner  989964366  8  3 c   kcc   kf    -          885   30    0 
+schooner  989964430  7  2 Bk  k     k     f          855   10    0 
+schooner  989964473  7  1 Bc  k     kc    b          845   50  170 7s 6c
+schooner  989964512  7  7 c   c     c     b          965   60  140 
+schooner  989964565  7  6 c   c     c     c         1045   80    0 Kc 9h
+schooner  989964600  6  4 c   b     k     b          965   40   90 
+schooner  989964657  7  3 c   k     k     b         1015   30    0 9s Ks
+schooner  989964696  7  2 Bk  k     b     b          985   50   90 
+schooner  989964735  7  1 Bc  b     kf    -         1025   20    0 
+schooner  989964770  7  7 cc  f     -     -         1005   20    0 
+schooner  989964812  8  7 cc  kf    -     -          985   20    0 
+schooner  989964887 10  8 cc  f     -     -          965   20    0 
+schooner  989965030 10  7 c   kc    kf    -          945   20    0 
+schooner  989965106  7  4 c   k     kf    -          925   10    0 
+schooner  989965178  7  4 c   f     -     -          915   10    0 
+schooner  989965220  8  3 cc  kc    kf    -          905   30    0 
+schooner  989965265  8  2 Bk  b     k     b          875   40    0 2d Js
+schooner  989965308  8  1 Bc  k     b     -          835   30   40 
+schooner  989965354  9  9 c   c     f     -          845   20    0 
+schooner  989965398  9  8 c   k     f     -          825   10    0 
+schooner  989965435 10  9 cc  b     k     c          815   50    0 Kd As
+schooner  989965498  9  7 cc  kf    -     -          765   20    0 
+schooner  989965539  9  6 c   fQ    -     -          745   10    0 
+schooner  990041466  9  8 c   f     -     -          635   10    0 
+schooner  990041492  8  6 cc  kf    -     -          625   20    0 
+schooner  990041539  8  5 c   kc    kc    c          605   80  205 Ad 7h
+schooner  990041603  8  4 c   bc    k     b          730   50  190 Kd Ah
+schooner  990041698  8  3 c   c     c     bc         870   80    0 5h 5c
+schooner  990041736  8  2 Bk  bc    b     k          790   50    0 2h Tc
+schooner  990041784  9  1 Bf  -     -     -          740    5    0 
+schooner  990041798  9  9 c   c     f     -          735   40    0 
+schooner  990041866  9  8 c   f     -     -          695   10    0 
+schooner  990041908  9  7 c   b     c     k          685   50  140 7c As
+schooner  990041950  9  6 cc  kf    -     -          775   20    0 
+schooner  990042003  9  5 c   b     b     -          755   40  110 
+schooner  990042047  9  4 c   c     f     -          825   20    0 
+schooner  990042091  9  3 c   k     k     k          805   10   25 8d 6h
+schooner  990042124  9  2 Bc  kf    -     -          820   20    0 
+schooner  990042167 10  1 Bc  kc    k     k          800   20   90 4s 7d
+schooner  990042241 10 10 c   c     f     -          870   20    0 
+schooner  990042273 10  9 c   k     f     -          850   10    0 
+schooner  990042327 10  8 f   -     -     -          840    0    0 
+schooner  990042394  9  6 c   b     b     k          840   40    0 7d Qs
+schooner  990042435  9  5 c   k     c     b          800   50  190 9h Jh
+schooner  990042549  9  4 c   k     f     -          940   10    0 
+schooner  990042608 10  3 c   cQ    -     -          930   20    0 
+schooner  990135766  4  3 c   b     -     -          910   20   50 
+schooner  990135789  4  2 Bc  c     k     k          940   30    0 Th 7d
+schooner  990135809  4  1 Bc  kf    -     -          910   20    0 
+schooner  990135878  6  4 cc  ccc   kf    -          890   60    0 
+schooner  990135930  5  3 f   -     -     -          830    0    0 
+schooner  990135950  6  2 Bcc kcc   kc    kc         830  120    0 7d 7h
+schooner  990136029  7  1 Bcc bc    kc    kc         710   80    0 9h 9d
+schooner  990136058  6  6 c   k     k     k          630   10    0 7s 8s
+schooner  990136113  5  4 Q   -     -     -          620    0    0 
+schooner  990566547  9  7 c   kf    -     -          620   10    0 
+schooner  990566606  8  5 c   k     k     c          610   30    0 As Td
+schooner  990566650  8  4 c   kc    kc    kc         580   60    0 5c 2d
+schooner  990566710  8  3 c   kcc   kf    -          520   30    0 
+schooner  990566793  9  2 Bc  kc    kc    b          490   70  180 3c 6s
+schooner  990566838  8  1 Bf  -     -     -          600    5    0 
+schooner  990566929  8  8 f   -     -     -          595    0    0 
+schooner  990566992  8  7 c   k     f     -          595   10    0 
+schooner  990567021  8  6 c   c     c     c          585   60    0 5s 8d
+schooner  990567068  8  5 c   b     b     -          525   40   75 
+schooner  990567139  8  4 c   c     k     kf         560   20    0 
+schooner  990567252  8  4 cc  k     cc    kc         540   80    0 9h Ks
+schooner  990567352 10  3 cc  fQ    -     -          460   20    0 
+schooner  990804960 10  5 KQ  -     -     -          265    0    0 
+schooner  990806161 10  6 c   b     c     b          265   60  125 
+schooner  990806219 10  5 cc  kf    -     -          330   20    0 
+schooner  990806327 10  5 c   k     kf    -          310   10    0 
+schooner  990806384  8  2 Bk  kc    f     -          300   20    0 
+schooner  990806454  8  1 Bc  k     kc    kf         280   30    0 
+schooner  990806521  7  7 c   k     k     k          250   10   25 Ah 9d
+schooner  990806551  7  6 c   c     c     k          265   50    0 7c 9d
+schooner  990806593  7  5 c   k     f     -          215   10    0 
+schooner  990806642  7  4 c   c     k     f          205   20    0 
+schooner  990806701  7  3 c   k     f     -          185   10    0 
+schooner  990806759  6  2 Bc  kc    kc    kf         175   50    0 
+schooner  990806807  6  1 Bc  kf    -     -          125   20    0 
+schooner  990806854  7  7 c   f     -     -          105   10    0 
+schooner  990806916  7  6 c   c     c     c           95   60    0 Kc 6d
+schooner  990806966  7  5 c   k     k     k           35   10    0 6h Td
+schooner  990807054  6  3 c   f     -     -           25   10    0 
+schooner  990807097  6  3 ccA -     -     -           15   15    0 Jh 8c
+schooner  990810543  5  5 c   k     k     k         1000   10   25 Kd Qc
+schooner  990810573  5  4 cc  k     k     k         1015   20    0 4s 2h
+schooner  990810602  5  3 c   c     c     k          995   40    0 5s Kd
+schooner  990810630  5  2 Bc  kc    kf    -          955   30    0 
+schooner  990810652  5  1 Bc  kf    -     -          925   10    0 
+schooner  990810720  5  5 c   c     k     f          915   30    0 
+schooner  990810748  5  4 c   b     k     c          885   40   90 Jd Kc
+schooner  990810778  5  3 c   k     f     -          935   10    0 
+schooner  990810805  5  2 B   -     -     -          925   10   15 
+schooner  990810812  5  1 Bc  kc    k     k          930   20    0 9d Jd
+schooner  990810856  5  5 c   k     k     k          910   10   30 8s As
+schooner  990810898  5  4 c   k     f     -          930   10    0 
+schooner  990810939  5  3 c   c     c     c          920   60    0 7c Kd
+schooner  990810978  5  2 Bk  b     b     -          860   40   75 
+schooner  990811012  6  1 Bcc b     kc    kc         895   90  410 Ah Ac
+schooner  990811072  6  6 c   k     k     b         1215   30   70 5c 3s
+schooner  990811116  6  5 c   b     b     -         1255   40   75 
+schooner  990811225  6  4 c   r     bc    c         1290   90  195 Qh Qs
+schooner  990811261  6  3 c   b     -     -         1395   20   50 
+schooner  990811283  7  2 Bc  kc    kf    -         1425   30    0 
+schooner  990811335  8  1 Bc  k     k     b         1395   40  100 
+schooner  990811387  8  8 c   c     c     k         1455   40    0 5d 7s
+schooner  990811413  8  7 c   f     -     -         1415   10    0 
+schooner  990811507  8  6 c   c     f     -         1405   30    0 
+schooner  990811546  8  5 cc  c     kf    -         1375   30    0 
+schooner  990811623  7  4 c   b     -     -         1345   20   35 
+schooner  990811644  7  3 cc  kc    kf    -         1360   30    0 
+schooner  990811704  6  2 Bk  b     k     b         1330   40   65 
+schooner  990811728  6  1 Bc  k     kf    -         1355   10    0 
+schooner  990811749  6  6 cc  c     c     f         1345   60    0 
+schooner  990811805  6  3 Q   -     -     -         1285    0    0 
+schooner  990811900  5  5 c   c     c     c         1285   70  180 Th 8c
+schooner  990811933  6  5 c   b     k     c         1395   40   85 4d Ts
+schooner  990811962  5  3 Q   -     -     -         1440    0    0 
+schooner  991102915  9  9 cc  c     c     k         1175   70    0 Js Qc
+schooner  991102965  9  8 c   c     c     b         1105   60  300 8d Js
+schooner  991103036 10  7 c   kc    kf    -         1345   20    0 
+schooner  991103170  9  5 cf  -     -     -         1325   10    0 
+schooner  991103228 10  5 cc  bcc   kcc   kc        1315  160    0 Kd 4d
+schooner  991103308 10  4 ccc fQ    -     -         1155   40    0 
+schooner  991108654 10  6 KQ  -     -     -         1115    0    0 
+schooner  991168061  9  6 cf  -     -     -         1115   10    0 
+schooner  991168151  8  5 c   f     -     -         1105   10    0 
+schooner  991168200  7  3 c   k     k     b         1095   30   70 
+schooner  991168254  7  2 Bf  -     -     -         1135   10    0 
+schooner  991168277  7  1 Bcc kc    kf    -         1125   30    0 
+schooner  991168311  7  7 c   k     f     -         1095   20    0 
+schooner  991168337  7  6 c   f     -     -         1075   20    0 
+schooner  991168403  5  4 c   c     f     -         1055   20    0 
+schooner  991168434  5  3 cc  k     k     k         1035   20    0 2s Ks
+schooner  991168469  4  2 Bc  kf    -     -         1015   20    0 
+schooner  991168495  4  1 Bcc kf    -     -          995   20    0 
+schooner  991168533  4  4 c   c     f     -          975   20    0 
+schooner  991168568  4  3 cc  f     -     -          955   20    0 
+schooner  991168596  4  2 Bk  b     -     -          935   20   35 
+schooner  991168611  4  1 Bcc k     kf    -          950   20    0 
+schooner  991168636  5  5 f   -     -     -          930    0    0 
+schooner  991168662  5  4 cc  cc    kc    kc         930   80    0 Jh Td
+schooner  991168704  5  3 f   -     -     -          850    0    0 
+schooner  991168746  5  2 Bc  kc    k     b          850   50   85 
+schooner  991168771  5  1 Bc  bc    b     -          885   50   80 
+schooner  991168793  5  5 c   k     k     k          915   10    0 5c Qh
+schooner  991168830  5  4 c   c     c     k          905   40    0 Th 8d
+schooner  991168858  5  3 c   kc    kf    -          865   30    0 
+schooner  991168919  5  2 Bk  kf    -     -          835   10    0 
+schooner  991168939  5  1 Bc  kc    kf    -          825   30    0 
+schooner  991168985  4  4 cc  b     c     c          795   70    0 Jh 9c
+schooner  991169033  4  3 fQ  -     -     -          725    0    0 
+schooner  991180962  4  2 Bc  kcc   kf    -          725   50    0 
+schooner  991181011  5  1 Bc  k     b     k          675   40  110 6s Ks
+schooner  991181042  6  6 c   f     -     -          745   10    0 
+schooner  991181067  7  6 cc  c     f     -          735   50    0 
+schooner  991181133  7  5 cc  f     -     -          685   20    0 
+schooner  991181164  7  4 c   b     bc    kc         665   90  290 Ah Ac
+schooner  991181235  8  4 c   b     -     -          865   20   40 
+schooner  991181304  6  1 Bc  kf    -     -          885   20    0 
+schooner  991181352  7  1 Bc  k     k     kf         865   10    0 
+schooner  991181441  8  8 c   bc    b     b          855   70   87 Ah 6h
+schooner  991181502  9  8 c   k     f     -          872   10    0 
+schooner  991181593 10  8 cc  c     c     f          862   50    0 
+schooner  991181666 10  7 c   kf    Q     -          812   10    0 

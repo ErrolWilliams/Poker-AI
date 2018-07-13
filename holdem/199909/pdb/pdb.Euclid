@@ -1,0 +1,616 @@
+Euclid    936219429  8  7 c   c     c     c          785   70    0 8s Tc
+Euclid    936219487 10  7 r   crc   kf    -          715   70    0 
+Euclid    936219581 10  6 c   c     c     f          645   40    0 
+Euclid    936219700 10  5 f   -     -     -          605    0    0 
+Euclid    936219773 10  4 f   Q     -     -          605    0    0 
+Euclid    936221490  2  2 c   f     -     -          605   10    0 
+Euclid    936221521  2  2 B   -     -     -          595   10   15 
+Euclid    936221524  2  1 Br  b     -     -          600   30   50 
+Euclid    936221530  2  2 B   -     -     -          620   10   15 
+Euclid    936221533  2  1 Bc  kc    kc    kc         625   60    0 4s Jd
+Euclid    936221556  2  2 B   -     -     -          565   10   15 
+Euclid    936221563  2  1 Br  -     -     -          570   20   30 
+Euclid    936221569  2  2 B   -     -     -          580   10   15 
+Euclid    936221572  2  1 Bf  -     -     -          585    5    0 
+Euclid    936221575  2  2 Br  f     -     -          580   20    0 
+Euclid    936221590  2  1 Br  -     -     -          560   20   30 
+Euclid    936221595  2  2 Br  brc   c     c          570  110    0 Ad 7d
+Euclid    936221618  2  1 Bc  b     kc    kc         460   60    0 7d Js
+Euclid    936221649  2  2 Bf  -     -     -          400   10    0 
+Euclid    936221658  2  1 Bf  -     -     -          390    5    0 
+Euclid    936221665  2  2 Bk  k     k     k          385   10   20 3s Qs
+Euclid    936221690  2  1 Bc  k     k     b          395   30   40 
+Euclid    936221707  2  2 Bk  k     k     b          405   30   40 
+Euclid    936221726  2  1 Bc  k     k     kf         415   10    0 
+Euclid    936221753  2  2 Bk  r     b     b          405   70    0 2c Th
+Euclid    936221775  2  1 Br  -     -     -          335   20   30 
+Euclid    936221785  2  2 B   -     -     -          345   10   15 
+Euclid    936221788  2  1 Br  k     k     kf         350   20    0 
+Euclid    936221810  2  2 B   -     -     -          330   10   15 
+Euclid    936221814  2  1 Bc  b     -     -          335   20   30 
+Euclid    936221820  2  2 Br  br    b     b          345  100    0 Jd Ts
+Euclid    936221840  2  1 Bc  k     k     k          245   10    0 7c 6h
+Euclid    936221875  2  2 Bk  f     -     -          235   10    0 
+Euclid    936221886  2  1 Br  b     -     -          225   30   50 
+Euclid    936221894  2  2 B   -     -     -          245   10   15 
+Euclid    936221899  2  1 Br  k     k     k          250   20   40 4h 4c
+Euclid    936221912  2  2 Bc  c     c     c          270   70    0 8c 7c
+Euclid    936221938  2  1 Bcf -     -     -          200   10    0 
+Euclid    936221953  2  2 Bf  -     -     -          190   10    0 
+Euclid    936221959  2  1 Bc  k     k     b          180   30   40 
+Euclid    936221973  2  2 B   -     -     -          190   10   15 
+Euclid    936221975  2  1 Bc  kc    kf    -          195   20    0 
+Euclid    936221997  2  2 B   -     -     -          175   10   15 
+Euclid    936221999  2  1 Bc  kc    k     b          180   40    0 5d 6c
+Euclid    936222021  2  2 Bc  c     c     b          140   70    0 2s 3c
+Euclid    936222054  2  1 Bf  -     -     -           70    5    0 
+Euclid    936222060  2  2 Bk  k     k     b           65   30   40 
+Euclid    936222097  2  1 Bcf -     -     -           75   10    0 
+Euclid    936222110  2  2 Bf  -     -     -           65   10    0 
+Euclid    936222116  2  1 Bf  -     -     -           55    5    0 
+Euclid    936222119  2  2 B   -     -     -           50   10   15 
+Euclid    936222123  2  1 Br  -     -     -           55   20   30 
+Euclid    936222131  2  2 Br  b     -     -           65   30   50 
+Euclid    936222141  2  1 Bc  kf    -     -           85   10    0 
+Euclid    936222160  2  2 Bf  -     -     -           75   10    0 
+Euclid    936222170  2  1 Bf  -     -     -           65    5    0 
+Euclid    936222174  2  2 Br  r     k     cA          60   60   60 Qs 7d
+Euclid    936222200  2  1 Brr b     bA    -           60   60  120 Qs Ac
+Euclid    936222238  2  2 B   -     -     -          120   10   15 
+Euclid    936222245  2  1 Br  -     -     -          125   20   30 
+Euclid    936222250  3  2 Bf  -     -     -          135   10    0 
+Euclid    936222260  3  1 Brr k     b     b          125   80    0 4s 4d
+Euclid    936222296  3  3 r   b     bA    -           45   45   95 
+Euclid    936222369  3  2 Br  b     b     b           95   90  210 
+Euclid    936222416  4  1 Br  br    b     b          215  100  230 Qc As
+Euclid    936222449  4  4 f   -     -     -          345    0    0 
+Euclid    936222480  6  5 c   f     -     -          345   10    0 
+Euclid    936222516  6  4 c   k     kf    -          335   10    0 
+Euclid    936222568  6  3 f   -     -     -          325    0    0 
+Euclid    936222602  6  2 Bk  f     -     -          325   10    0 
+Euclid    936222626  6  1 Bc  bf    -     -          315   40    0 
+Euclid    936222671  8  8 r   b     brc   c          275  130    0 6d Jc
+Euclid    936222744  7  7 f   -     -     -          145    0    0 
+Euclid    936222803  7  6 c   c     c     c          145   80    0 8c Ah
+Euclid    936222856  6  3 c   b     c     f           65   40    0 
+Euclid    936222920  7  2 Br  bA    -     -           25   25    0 6h 4s
+Euclid    936222974  8  8 f   -     -     -         1000    0    0 
+Euclid    936222982  8  7 c   c     c     c         1000   70    0 6c 6h
+Euclid    936223047  8  6 f   -     -     -          930    0    0 
+Euclid    936223107  8  5 KQ  -     -     -          930    0    0 
+Euclid    936377688  9  2 Br  b     b     b         1330   70  125 
+Euclid    936377723 10  1 Bc  kf    -     -         1385   10    0 
+Euclid    936377802 10 10 f   -     -     -         1375    0    0 
+Euclid    936377857  8  7 c   k     b     -         1375   30   55 
+Euclid    936377912 10  7 c   f     -     -         1400   10    0 
+Euclid    936377953 10  6 f   -     -     -         1390    0    0 
+Euclid    936378011 10  5 f   -     -     -         1390    0    0 
+Euclid    936378052 10  4 c   k     kc    k         1390   30    0 Ad 7d
+Euclid    936378126 10  3 f   -     -     -         1360    0    0 
+Euclid    936378181 10  2 Bk  kc    kc    br        1360  100  235 2c 2s
+Euclid    936378240 10  1 Bc  k     kf    -         1495   10    0 
+Euclid    936378425  9  9 f   -     -     -         1485    0    0 
+Euclid    936378516 10  9 c   c     c     k         1485   50    0 Td Js
+Euclid    936378586 10  8 f   Q     -     -         1435    0    0 
+Euclid    936384401  3  2 c   k     b     -         1321   30   50 
+Euclid    936384438  3  2 Bk  kf    -     -         1341   10    0 
+Euclid    936384457  3  1 Bc  kf    -     -         1331   10    0 
+Euclid    936384477  3  3 f   -     -     -         1321    0    0 
+Euclid    936384497  3  2 Bf  -     -     -         1321   10    0 
+Euclid    936384507  3  1 Bf  -     -     -         1311    5    0 
+Euclid    936384521  3  3 f   -     -     -         1306    0    0 
+Euclid    936384557  3  2 Brc bc    kc    kf        1306   80    0 
+Euclid    936384604  4  1 Bc  br    krc   kc        1226  120    0 Td Qc
+Euclid    936384656  7  7 r   rc    f     -         1106   50    0 
+Euclid    936384737  8  7 r   b     c     c         1056   70    0 9d 9h
+Euclid    936384795  9  7 cc  cc    kc    rc         986  140    0 Ac Th
+Euclid    936384946  8  5 Q   -     -     -          846    0    0 
+Euclid    936388886 10 10 c   c     c     f          846   40    0 
+Euclid    936388931 10  9 c   k     b     b          806   50    0 Td Jh
+Euclid    936389020  9  7 f   -     -     -          756    0    0 
+Euclid    936389087 10  7 f   -     -     -          756    0    0 
+Euclid    936389148 10  6 f   -     -     -          756    0    0 
+Euclid    936389177  9  4 f   -     -     -          756    0    0 
+Euclid    936389206 10  3 f   -     -     -          756    0    0 
+Euclid    936389271 10  2 Br  br    brc   bc         756  170  238 7h 9s
+Euclid    936389340  9  1 Bc  kf    -     -          824   10    0 
+Euclid    936389450 10 10 f   -     -     -          814    0    0 
+Euclid    936389504 10  9 rc  cc    f     -          814   60    0 
+Euclid    936389590 10  8 r   c     c     rr         754  130  315 7c Kc
+Euclid    936389694  9  6 f   -     -     -          939    0    0 
+Euclid    936389737 10  6 rc  f     -     -          939   40    0 
+Euclid    936389777  9  5 c   b     bc    f          899   60    0 
+Euclid    936389842  9  4 cc  rc    f     -          839   50    0 
+Euclid    936389921 10  3 f   -     -     -          789    0    0 
+Euclid    936389952 10  2 Bc  br    kf    -          789   70    0 
+Euclid    936390032 10  1 Bc  k     kc    bf         719   70    0 
+Euclid    936390163  9  9 f   -     -     -          649    0    0 
+Euclid    936390270 10  9 r   k     r     k          649   60    0 3c 3h
+Euclid    936390339 10  8 f   -     -     -          589    0    0 
+Euclid    936390403  9  6 c   kc    k     rr         589  100    0 Ks 5h
+Euclid    936390484  9  5 f   -     -     -          489    0    0 
+Euclid    936390524  9  4 f   -     -     -          489    0    0 
+Euclid    936390552 10  3 f   -     -     -          489    0    0 
+Euclid    936390587  9  2 Bk  b     b     b          489   60  140 9h Ts
+Euclid    936390636 10  1 Bf  -     -     -          569    5    0 
+Euclid    936390692 10 10 r   f     -     -          564   20    0 
+Euclid    936390802 10  9 rc  c     c     c          544  110    0 Qh 9d
+Euclid    936390884 10  8 c   r     b     rr         434  130  280 8h Jh
+Euclid    936390956 10  7 r   bcc   kf    -          584   60    0 
+Euclid    936391060 10  6 f   -     -     -          524    0    0 
+Euclid    936391084 10  5 rf  -     -     -          524   20    0 
+Euclid    936391109 10  4 rr  br    br    b          504  150  365 
+Euclid    936391193 10  3 cc  kKQ   -     -          719   20    0 
+Euclid    936410794  8  3 f   -     -     -         1576    0    0 
+Euclid    936410868 10  2 Bc  b     b     b         1576   70  210 5s Ad
+Euclid    936410968 10  1 Brc k     k     kc        1716   60    0 5s 5c
+Euclid    936411049 10 10 f   -     -     -         1656    0    0 
+Euclid    936411114  9  8 f   -     -     -         1656    0    0 
+Euclid    936411139  8  6 f   -     -     -         1656    0    0 
+Euclid    936411177  9  6 f   -     -     -         1656    0    0 
+Euclid    936411233  9  5 f   -     -     -         1656    0    0 
+Euclid    936411283  9  4 f   -     -     -         1656    0    0 
+Euclid    936411330  9  3 f   -     -     -         1656    0    0 
+Euclid    936411401  9  2 Bk  kf    -     -         1656   10    0 
+Euclid    936411489 10  1 Bc  kf    -     -         1646   10    0 
+Euclid    936411568 10 10 c   f     -     -         1636   10    0 
+Euclid    936411641 10  9 cc  cc    f     -         1626   60    0 
+Euclid    936411749  9  7 f   -     -     -         1566    0    0 
+Euclid    936411823  9  6 c   k     b     b         1566   50  130 Qc Ad
+Euclid    936411885  9  5 f   -     -     -         1646    0    0 
+Euclid    936411935  7  2 Bk  kc    kcKQ  -         1646   60    0 
+Euclid    936412252  5  2 Bk  Q     -     -         1586   10    0 
+Euclid    936416842  8  3 f   -     -     -         1576    0    0 
+Euclid    936416882  8  2 Brc rc    c     f         1576   90    0 
+Euclid    936416943  9  1 Brc k     br    b         1486  120  580 2s 2c
+Euclid    936417035  9  9 rc  f     -     -         1946   40    0 
+Euclid    936417114  9  8 f   -     -     -         1906    0    0 
+Euclid    936417189  9  7 f   -     -     -         1906    0    0 
+Euclid    936417264  8  5 f   -     -     -         1906    0    0 
+Euclid    936417327  8  4 f   -     -     -         1906    0    0 
+Euclid    936417356  8  3 crc kc    bc    brc       1906  170  605 9d Ks
+Euclid    936417443  8  2 Bf  Q     -     -         2341   10    0 
+Euclid    936417641  9  4 cf  -     -     -         2331   10    0 
+Euclid    936417727 10  3 c   kc    kf    -         2321   20    0 
+Euclid    936417824  9  2 Bk  kc    kr    k         2301   60  230 6c 9s
+Euclid    936417938  8  1 Bf  -     -     -         2471    5    0 
+Euclid    936418002 10 10 c   k     k     f         2466   10    0 
+Euclid    936418111  8  8 c   c     c     r         2456   80  230 Ac 5s
+Euclid    936418182  8  7 cc  rc    k     c         2606   90  450 8c Tc
+Euclid    936418267  9  7 c   c     c     b         2966   60  220 Kh 6d
+Euclid    936418338  9  6 f   -     -     -         3126    0    0 
+Euclid    936418413  9  5 f   -     -     -         3126    0    0 
+Euclid    936418462  9  4 r   kc    kf    -         3126   30    0 
+Euclid    936418576  9  3 f   -     -     -         3096    0    0 
+Euclid    936418622  9  2 Bf  -     -     -         3096   10    0 
+Euclid    936418673  9  1 Bc  kf    -     -         3086   20    0 
+Euclid    936418747  9  9 f   -     -     -         3066    0    0 
+Euclid    936418793  9  8 f   -     -     -         3066    0    0 
+Euclid    936418831  9  7 c   kf    -     -         3066   20    0 
+Euclid    936418890 10  6 f   -     -     -         3046    0    0 
+Euclid    936418952  9  4 f   -     -     -         3046    0    0 
+Euclid    936419008 10  4 f   -     -     -         3046    0    0 
+Euclid    936419067 10  3 fQ  -     -     -         3046    0    0 
+Euclid    936419349 10  9 KQ  -     -     -         1000    0    0 
+Euclid    936519546  8  5 cc  kc    kc    k         1000   50    0 Ks Qc
+Euclid    936519586  9  5 f   -     Q     -          950    0    0 
+Euclid    936519806  9  9 cf  -     -     -          950   10    0 
+Euclid    936519870  9  8 cc  f     -     -          940   20    0 
+Euclid    936519900  9  7 f   -     -     -          920    0    0 
+Euclid    936519973  9  6 f   -     -     -          920    0    0 
+Euclid    936520056  9  5 f   -     -     -          920    0    0 
+Euclid    936520138 10  5 f   -     -     -          920    0    0 
+Euclid    936520199 10  4 f   -     -     -          920    0    0 
+Euclid    936520230 10  3 f   -     -     -          920    0    0 
+Euclid    936520329 10  2 Bc  c     f     -          920   30    0 
+Euclid    936520391  9  1 Bc  kf    -     -          890   10    0 
+Euclid    936520455 10 10 cc  c     c     c          880   70  170 4h 6h
+Euclid    936520529  8  7 fQ  -     -     -          980    0    0 
+Euclid    936522052  9  3 f   -     -     -          980    0    0 
+Euclid    936522106  9  2 Bf  -     -     Q          980   10    0 
+Euclid    936536871  5  4 cc  k     c     k          970   40  105 Th 6s
+Euclid    936536906  5  2 Br  kc    b     -         1035   50  130 
+Euclid    936536967  6  1 Br  k     k     kc        1115   40   90 Qs Kh
+Euclid    936537016  6  6 c   cc    f     -         1165   30    0 
+Euclid    936537082  6  5 f   -     -     -         1135    0    0 
+Euclid    936537124  5  4 f   -     -     -         1135    0    0 
+Euclid    936537163  5  3 c   f     -     -         1135   10    0 
+Euclid    936537210  5  2 Br  b     k     b         1125   50  120 Qc Qs
+Euclid    936537263  5  1 Bc  k     k     kf        1195   10    0 
+Euclid    936537362  6  6 cc  k     k     k         1185   20    0 9d 4d
+Euclid    936537423  6  5 f   -     -     -         1165    0    0 
+Euclid    936537484  6  4 f   -     -     -         1165    0    0 
+Euclid    936537533  6  3 f   -     -     -         1165    0    0 
+Euclid    936537594  6  2 Bk  k     kf    -         1165   10    0 
+Euclid    936537672  6  1 Bf  -     -     -         1155    5    0 
+Euclid    936537742  6  6 c   k     k     k         1150   10    0 Tc 6h
+Euclid    936537789  6  5 c   bc    kc    kc        1140   70    0 8c 9h
+Euclid    936537893  6  4 cc  k     b     b         1070   60  180 6c Kc
+Euclid    936537963  6  3 c   bc    b     b         1190   80    0 Kh Js
+Euclid    936538033  6  2 Br  b     k     b         1110   50  150 Qh Kc
+Euclid    936538102  6  1 Bf  -     -     -         1210    5    0 
+Euclid    936538145  6  6 f   -     -     -         1205    0    0 
+Euclid    936538215  6  5 c   f     -     -         1205   10    0 
+Euclid    936538335  5  3 f   -     -     -         1195    0    0 
+Euclid    936538353  5  2 Bk  k     b     -         1195   30   50 
+Euclid    936538381  5  1 Bc  kc    kc    kc        1215   60    0 5s Qc
+Euclid    936538427  6  6 c   b     c     c         1155   60    0 Ks As
+Euclid    936538487  6  5 f   -     -     -         1095    0    0 
+Euclid    936538559  8  4 f   -     -     -         1095    0    0 
+Euclid    936538573  8  3 c   f     -     -         1095   10    0 
+Euclid    936538611  9  2 Bk  cc    kc    kc        1085   70    0 3d Ac
+Euclid    936538688 10  1 Bc  kcf   -     -         1015   40    0 
+Euclid    936538781 10 10 cc  c     c     f          975   50    0 
+Euclid    936538853  9  8 r   b     b     r          925  100  240 As Th
+Euclid    936538919 10  8 c   f     -     -         1065   10    0 
+Euclid    936538965 10  7 cc  brc   r     b         1055  120    0 Jc 9h
+Euclid    936539022 10  6 r   rc    rr    b          935  150  305 6c 6h
+Euclid    936539092 10  5 rr  rc    rc    rc        1090  240    0 Kc Kh
+Euclid    936539198 10  4 f   Q     -     -          850    0    0 
+Euclid    936643707  9  6 f   -     -     -          990    0    0 
+Euclid    936643746 10  6 c   k     k     kcf        990   50    0 
+Euclid    936643908 10  5 c   c     r     b          940   80  195 Th Jc
+Euclid    936643996 10  4 f   -     -     -         1055    0    0 
+Euclid    936644093 10  3 Q   -     -     -         1055    0    0 
+Euclid    936644244 10 10 c   k     f     -         1055   10    0 
+Euclid    936644289 10  9 r   b     f     -         1045   30    0 
+Euclid    936644407  8  6 c   k     f     Q         1015   10    0 
+Euclid    936999514  9  4 f   -     -     -          625    0    0 
+Euclid    936999587  9  3 cc  kc    kr    b          625   90    0 9c Kc
+Euclid    936999618  9  2 Br  brc   krc   b          535  140    0 Ah 5h
+Euclid    936999714  9  1 Br  bc    br    b          395  140    0 4d Qh
+Euclid    936999827  8  8 r   b     -     -          255   30   85 
+Euclid    936999904  8  6 r   bc    k     k          310   40    0 Kh 2c
+Euclid    937000017  8  5 f   -     -     -          270    0    0 
+Euclid    937000057  9  4 f   -     -     -          270    0    0 
+Euclid    937000104  9  3 f   -     -     -          270    0    0 
+Euclid    937000154  9  2 Br  kc    kc    kr         270  150  600 
+Euclid    937000241 10  1 Brr kc    krr   bc         720  170    0 Ts Tc
+Euclid    937000313  9  9 f   -     -     -          550    0    0 
+Euclid    937000376  9  8 cc  f     -     -          550   40    0 
+Euclid    937000440 10  8 f   -     -     -          510    0    0 
+Euclid    937000512 10  7 cc  rc    b     b          510  110  510 Js 7s
+Euclid    937000615  8  5 f   -     -     -          910    0    0 
+Euclid    937000658  8  4 c   c     rr    rr         910  180  375 Kh Kd
+Euclid    937000705  8  3 f   -     -     -         1105    0    0 
+Euclid    937000757 10  2 Brc kf    -     -         1105   30    0 
+Euclid    937000826 10  1 Bcc bc    br    bcf       1075  220    0 
+Euclid    937000925 10 10 f   -     -     -          855    0    0 
+Euclid    937001002 10  9 c   c     f     -          855   40    0 
+Euclid    937001073 10  8 f   Q     -     -          815    0    0 
+Euclid    937246669  9  8 r   b     b     -          815   50  100 
+Euclid    937246706  9  7 cc  f     -     -          865   20    0 
+Euclid    937246776 10  6 f   -     -     -          845    0    0 
+Euclid    937246848 10  5 f   -     -     -          845    0    0 
+Euclid    937246950 10  4 f   -     -     -          845    0    0 
+Euclid    937247047 10  3 f   -     -     -          845    0    0 
+Euclid    937247097 10  2 Bf  -     -     -          845   10    0 
+Euclid    937247162 10  1 Bf  -     -     -          835    5    0 
+Euclid    937247233 10 10 c   f     -     -          830   20    0 
+Euclid    937247320  9  8 cc  f     -     -          810   30    0 
+Euclid    937247431 10  8 cc  c     c     k          780   50    0 Qc 5c
+Euclid    937247532 10  7 cc  cc    f     -          730   50    0 
+Euclid    937247645 10  6 f   -     -     -          680    0    0 
+Euclid    937247689 10  5 f   -     -     -          680    0    0 
+Euclid    937247735 10  4 f   -     -     -          680    0    0 
+Euclid    937247845  9  3 cc  r     b     bc         680  100    0 5d 5s
+Euclid    937247944  9  2 Brc brc   brc   b          580  180    0 Jh Kh
+Euclid    937248078 10  1 Bf  -     -     -          400    5    0 
+Euclid    937248171 10 10 c   bc    rc    b          395  120  265 Qs Jd
+Euclid    937248241 10  9 cr  rc    c     f          540   90    0 
+Euclid    937248379 10  8 f   -     -     -          450    0    0 
+Euclid    937248500 10  7 cc  c     c     r          450  110  460 4c 6c
+Euclid    937248654 10  6 f   -     -     -          800    0    0 
+Euclid    937248802  9  4 f   -     -     -          800    0    0 
+Euclid    937248909  9  2 Br  kc    kc    b          800   90  311 Td Ah
+Euclid    937249052  9  1 Br  b     bc    k         1021   80    0 8s 6d
+Euclid    937249121  8  8 r   c     c     r          941  100  290 6c Ah
+Euclid    937249191  8  7 f   -     -     -         1131    0    0 
+Euclid    937249263  7  5 r   kQ    -     -         1131   20    0 
+Euclid    937249354  7  7 f   -     -     -         1111    0    0 
+Euclid    937249396  7  6 r   b     k     f         1111   30    0 
+Euclid    937249438  8  6 f   -     -     -         1081    0    0 
+Euclid    937249485  9  6 rc  k     f     -         1081   30    0 
+Euclid    937249523 10  6 f   -     -     -         1051    0    0 
+Euclid    937249581 10  5 rr  kcc   cc    kf        1051  120    0 
+Euclid    937249691 10  4 f   -     -     -          931    0    0 
+Euclid    937249764 10  3 f   -     -     -          931    0    0 
+Euclid    937249842  9  2 Bc  b     b     b          931   70  240 7d 6s
+Euclid    937249912  9  1 Br  b     -     -         1101   30   80 
+Euclid    937249937  9  9 f   -     -     -         1151    0    0 
+Euclid    937249991  9  8 f   -     -     -         1151    0    0 
+Euclid    937250055 10  8 f   -     -     -         1151    0    0 
+Euclid    937250101 10  7 c   c     c     f         1151   40    0 
+Euclid    937250159 10  6 f   -     -     -         1111    0    0 
+Euclid    937250195 10  5 f   -     -     -         1111    0    0 
+Euclid    937250250 10  4 f   -     -     -         1111    0    0 
+Euclid    937250277 10  3 c   cf    -     -         1111   20    0 
+Euclid    937250333 10  2 Br  b     b     b         1091   70  200 
+Euclid    937250404 10  1 Bf  -     -     -         1221    5    0 
+Euclid    937250482 10 10 c   f     -     -         1216   10    0 
+Euclid    937250519 10  9 f   -     -     -         1206    0    0 
+Euclid    937250610 10  8 f   -     -     -         1206    0    0 
+Euclid    937250630 10  7 c   cc    rr    rr        1206  190    0 9s Ah
+Euclid    937250742 10  6 f   -     -     -         1016    0    0 
+Euclid    937250792 10  5 f   -     -     -         1016    0    0 
+Euclid    937250858 10  4 f   -     -     -         1016    0    0 
+Euclid    937250938 10  3 c   k     k     kf        1016   10    0 
+Euclid    937251025 10  2 Bk  kf    -     -         1006   10    0 
+Euclid    937251066 10  1 Bc  kf    -     -          996   20    0 
+Euclid    937251189 10 10 f   -     -     -          976    0    0 
+Euclid    937251269 10  9 f   -     -     -          976    0    0 
+Euclid    937251351  9  8 c   r     kf    -          976   30    0 
+Euclid    937251424 10  7 f   Q     -     -          946    0    0 
+Euclid    937760306  6  5 f   -     -     -          530    0    0 
+Euclid    937760335  6  4 c   k     k     b          530   30    0 Ah Jc
+Euclid    937760364  6  3 f   -     -     -          500    0    0 
+Euclid    937760395  6  2 Bk  kc    kc    kr         500   80    0 Ac 4c
+Euclid    937760427  4  1 Br  -     -     -          420   20   30 
+Euclid    937760436  4  4 rc  rr    rr    rc         430  210    0 7c 5d
+Euclid    937760496  4  3 rr  k     b     b          220   80    0 5d Kd
+Euclid    937760524  4  2 Brc brc   brA   -          140  140    0 Qs Ts
+Euclid    937760569  4  4 r   -     -     -         1000   20   35 
+Euclid    937760576  4  3 r   rc    c     c         1015   90  200 9c Ah
+Euclid    937760607  4  2 Bk  bc    kc    k         1125   50    0 Jd 5c
+Euclid    937760628  4  1 Bf  -     -     -         1075    5    0 
+Euclid    937760651  4  4 f   -     -     -         1070    0    0 
+Euclid    937760665  4  3 c   k     k     b         1070   30   45 
+Euclid    937760689  4  2 Bf  -     -     -         1085   10    0 
+Euclid    937760699  4  1 Bc  kr    b     -         1075   60  110 
+Euclid    937760722  4  4 f   -     -     -         1125    0    0 
+Euclid    937760731  4  3 rc  c     c     c         1125   80   85 Jc Ks
+Euclid    937760750  4  2 Bk  k     f     -         1130   10    0 
+Euclid    937760768  4  1 Bf  -     -     -         1120    5    0 
+Euclid    937760781  4  4 rc  c     c     k         1115   70    0 Qs Th
+Euclid    937760809  4  3 f   -     -     -         1045    0    0 
+Euclid    937760821  5  2 Bf  -     -     -         1045   10    0 
+Euclid    937760828  5  1 Bf  -     -     -         1035    5    0 
+Euclid    937760837  5  5 rc  rr    r     rr        1030  200  445 Kc Ac
+Euclid    937760874  5  4 r   f     -     -         1275   20    0 
+Euclid    937760892  6  3 rr  bc    k     k         1255   60    0 As Qc
+Euclid    937760927  6  2 Br  bc    kf    -         1195   40    0 
+Euclid    937760958  6  1 Bc  kc    kc    kc        1155   60    0 3d 5c
+Euclid    937760982  6  6 f   -     -     -         1095    0    0 
+Euclid    937761000  6  5 rc  rr    r     b         1095  140    0 2c Ac
+Euclid    937761042  6  4 f   -     -     -          955    0    0 
+Euclid    937761055  6  3 f   -     -     -          955    0    0 
+Euclid    937761065  6  2 Bc  kf    -     -          955   20    0 
+Euclid    937761112  6  1 Bf  -     -     -          935    5    0 
+Euclid    937761135  6  6 r   rr    r     b          930  130    0 6h 4h
+Euclid    937761164  6  5 r   k     b     b          800   60    0 8s 7c
+Euclid    937761195  6  4 c   k     f     -          740   10    0 
+Euclid    937761242  6  3 c   c     r     c          730   80    0 2s 3s
+Euclid    937761281  5  2 Br  rr    rr    rr         650  230  500 7d 7h
+Euclid    937761315  5  1 Bc  kf    -     -          920   20    0 
+Euclid    937761364  5  5 r   rr    rc    rc         900  190    0 Jh Jc
+Euclid    937761395  6  4 f   -     -     -          710    0    0 
+Euclid    937761409  6  3 r   b     b     r          710   90  230 Kd 9d
+Euclid    937761451  6  2 Bk  k     kf    -          850   10    0 
+Euclid    937761481  7  1 Bc  b     -     -          840   20   40 
+Euclid    937761500  8  8 f   -     -     -          860    0    0 
+Euclid    937761541  8  7 f   -     -     -          860    0    0 
+Euclid    937761573  8  6 f   -     -     -          860    0    0 
+Euclid    937761628  9  6 f   -     -     -          860    0    0 
+Euclid    937761689  9  5 f   -     -     -          860    0    0 
+Euclid    937761741 10  5 f   -     -     -          860    0    0 
+Euclid    937761794 10  5 f   -     -     -          860    0    0 
+Euclid    937761839  8  2 Bk  kf    -     -          860   10    0 
+Euclid    937761892  9  1 Bf  -     -     -          850    5    0 
+Euclid    937761908  8  8 r   b     b     -          845   50   90 
+Euclid    937761945  8  7 rc  k     f     -          885   30    0 
+Euclid    937762003  9  7 r   -     -     -          855   20   35 
+Euclid    937762010  9  6 f   -     -     -          870    0    0 
+Euclid    937762032  9  5 r   k     f     -          870   20    0 
+Euclid    937762177 10  5 fQ  -     -     -          850    0    0 
+Euclid    937763589  5  2 Bf  -     -     -          850   10    0 
+Euclid    937763601  5  1 Bc  kf    -     -          840   30    0 
+Euclid    937763630  5  5 rc  c     c     r          810  110  305 9c As
+Euclid    937763671  5  4 rc  c     c     c         1005   90    0 Kd Ts
+Euclid    937763733  5  3 rr  rr    rr    rc         915  220  445 5c 5s
+Euclid    937763776  5  2 Bc  f     -     -         1140   20    0 
+Euclid    937763808  6  1 Bf  -     -     -         1120    5    0 
+Euclid    937763836  6  6 f   -     -     -         1115    0    0 
+Euclid    937763853  6  5 f   -     -     -         1115    0    0 
+Euclid    937763887  5  4 r   r     b     -         1115   60  105 
+Euclid    937763903  5  3 r   b     k     k         1160   30   95 7c Ac
+Euclid    937763938  6  3 c   k     c     r         1225   70  160 8c 8d
+Euclid    937763981  6  2 Bk  k     k     k         1315   10    0 Kd 5h
+Euclid    937764002  6  1 Bf  -     -     -         1305    5    0 
+Euclid    937764028  6  6 c   f     -     -         1300   20    0 
+Euclid    937764043  6  5 r   r     r     b         1280  100  215 Qh Ks
+Euclid    937764071  6  4 cc  k     f     -         1395   20    0 
+Euclid    937764112  7  3 f   -     -     -         1375    0    0 
+Euclid    937764166  8  2 Bc  kf    -     -         1375   20    0 
+Euclid    937764269  8  1 Bc  kf    -     -         1355   10    0 
+Euclid    937764324  9  9 f   -     -     -         1345    0    0 
+Euclid    937764383  8  7 f   -     -     -         1345    0    0 
+Euclid    937764402  9  7 f   -     -     -         1345    0    0 
+Euclid    937764434  9  6 f   -     -     -         1345    0    0 
+Euclid    937764474  8  4 c   c     f     -         1345   20    0 
+Euclid    937764562  9  3 c   c     b     b         1325   60  125 
+Euclid    937764610  9  2 Brc bc    kc    kr        1390  120  335 Qs Qh
+Euclid    937764673  9  1 Bf  -     -     -         1605    5    0 
+Euclid    937764751  9  9 c   c     f     -         1600   20    0 
+Euclid    937764822 10  9 f   -     -     -         1580    0    0 
+Euclid    937764870 10  8 f   -     -     -         1580    0    0 
+Euclid    937764921 10  7 c   r     r     k         1580   70    0 9h Jd
+Euclid    937764991 10  6 c   f     -     -         1510   20    0 
+Euclid    937765060 10  5 r   c     bc    kc        1490   90    0 8c 8d
+Euclid    937765150  9  4 c   k     f     -         1400   10    0 
+Euclid    937765212 10  3 f   -     -     -         1390    0    0 
+Euclid    937765282 10  2 Bk  k     kc    br        1390   90  190 
+Euclid    937765405  9  1 Bc  kc    kf    -         1490   20    0 
+Euclid    937765462 10 10 f   -     -     -         1470    0    0 
+Euclid    937765509  8  7 c   f     -     -         1470   20    0 
+Euclid    937765531  8  6 f   -     -     -         1450    0    0 
+Euclid    937765567  8  5 c   c     c     k         1450   50  160 Jd Ts
+Euclid    937765625  8  4 f   -     -     -         1560    0    0 
+Euclid    937765723  9  3 c   kc    kf    -         1560   20    0 
+Euclid    937765778 10  2 Bc  kf    -     -         1540   20    0 
+Euclid    937765828 10  1 Bc  kf    -     -         1520   10    0 
+Euclid    937765892  8  8 r   k     b     -         1510   40   75 
+Euclid    937765951  9  8 f   -     -     -         1545    0    0 
+Euclid    937765977  9  7 c   f     -     -         1545   10    0 
+Euclid    937766011  9  7 f   -     -     -         1535    0    0 
+Euclid    937766041  8  5 f   -     -     -         1535    0    0 
+Euclid    937766062  8  4 f   -     -     -         1535    0    0 
+Euclid    937766099  8  3 f   -     -     -         1535    0    0 
+Euclid    937766212  7  2 Bk  k     kf    -         1535   10    0 
+Euclid    937766293  9  1 Bc  kc    k     k         1525   20    0 4h 7s
+Euclid    937766361  9  9 c   r     c     c         1505   70    0 5c Ks
+Euclid    937766448  9  8 c   k     f     -         1435   10    0 
+Euclid    937766512  9  7 f   -     -     -         1425    0    0 
+Euclid    937766569  9  6 c   k     f     -         1425   10    0 
+Euclid    937766620  9  5 c   kc    kf    -         1415   20    0 
+Euclid    937766674 10  4 cc  bc    kcc   br        1395  160  500 7s Ks
+Euclid    937766761 10  3 fQ  -     -     -         1735    0    0 
+Euclid    938365664  2  2 Bk  k     c     f         1515   30    0 
+Euclid    938365692  2  1 Br  b     b     b         1485   70    0 3c 4d
+Euclid    938365713  2  2 B   -     -     -         1415   10   15 
+Euclid    938365719  2  1 Bc  b     -     -         1420   20   30 
+Euclid    938365730  2  2 B   -     -     -         1430   10   15 
+Euclid    938365733  2  1 Br  -     -     -         1435   20   30 
+Euclid    938365736  2  2 Bk  k     f     -         1445   10    0 
+Euclid    938365752  2  1 Bc  k     b     kc        1435   50   50 Qh 5s
+Euclid    938365779  2  2 Bk  k     c     k         1435   30    0 9h 2h
+Euclid    938365806  2  1 Br  k     k     k         1405   20    0 9c Jc
+Euclid    938365824  2  2 Bf  -     -     -         1385   10    0 
+Euclid    938365831  2  1 Br  -     -     -         1375   20   30 
+Euclid    938365835  2  2 B   -     -     -         1385   10   15 
+Euclid    938365839  2  1 Bf  -     -     -         1390    5    0 
+Euclid    938365843  2  2 B   -     -     -         1385   10   15 
+Euclid    938365845  2  1 Bcc kc    kc    kc        1390   70    0 8d Qh
+Euclid    938365868  2  2 B   -     -     -         1320   10   15 
+Euclid    938365873  2  1 Bc  b     b     b         1325   60  120 5c 3c
+Euclid    938365888  2  2 B   -     -     -         1385   10   15 
+Euclid    938365894  2  1 Bf  -     -     -         1390    5    0 
+Euclid    938365897  2  2 Br  c     c     r         1385   90  180 Qs Qc
+Euclid    938365924  2  1 Bf  -     -     -         1475    5    0 
+Euclid    938365931  2  2 Bk  k     k     k         1470   10   20 8c 9s
+Euclid    938365955  2  1 Bf  -     -     -         1480    5    0 
+Euclid    938365959  2  2 Br  -     -     -         1475   20   30 
+Euclid    938365966  2  1 Br  -     -     -         1485   20   30 
+Euclid    938365968  2  2 Br  k     b     k         1495   40   80 9c 9s
+Euclid    938365999  3  1 Bf  -     -     -         1535    5    0 
+Euclid    938366009  3  3 f   -     -     -         1530    0    0 
+Euclid    938366012  3  2 Bk  k     k     k         1530   10    0 6d 3d
+Euclid    938366037  3  1 Bc  kf    -     -         1520   10    0 
+Euclid    938366053  3  3 f   -     -     -         1510    0    0 
+Euclid    938366065  3  2 Bk  k     k     k         1510   10    0 Th 3c
+Euclid    938366083  3  1 Br  -     -     -         1500   20   40 
+Euclid    938366094  3  3 f   -     -     -         1520    0    0 
+Euclid    938366100  3  2 Bk  k     f     -         1520   10    0 
+Euclid    938366119  3  1 Bf  -     -     -         1510    5    0 
+Euclid    938366132  3  3 r   b     b     b         1505   70    0 Js 6s
+Euclid    938366150  3  2 Br  b     b     k         1435   50    0 8h As
+Euclid    938366171  3  1 Bc  k     k     kf        1385   10    0 
+Euclid    938366203  3  3 r   b     c     c         1375   70    0 Qh Jh
+Euclid    938366226  3  2 Br  kc    kc    kf        1305   50    0 
+Euclid    938366276  3  1 Bf  -     -     -         1255    5    0 
+Euclid    938366284  3  3 f   -     -     -         1250    0    0 
+Euclid    938366300  3  2 Bk  k     f     -         1250   10    0 
+Euclid    938366314  3  1 Bc  b     b     -         1240   40   70 
+Euclid    938366333  3  3 r   b     k     k         1270   30   35 2d Kd
+Euclid    938366352  3  2 Bk  k     c     c         1275   50  110 Ah 6d
+Euclid    938366382  3  1 Bf  -     -     -         1335    5    0 
+Euclid    938366427  4  4 f   -     -     -         1330    0    0 
+Euclid    938366462  4  3 f   -     -     -         1330    0    0 
+Euclid    938366471  4  2 B   -     -     -         1330   10   15 
+Euclid    938366476  4  1 Bf  -     -     -         1335    5    0 
+Euclid    938366501  5  5 c   k     c     f         1330   30    0 
+Euclid    938366532  6  5 rc  rr    r     b         1300  140    0 Ah Qc
+Euclid    938366586  5  4 c   f     -     -         1160   10    0 
+Euclid    938366641  5  3 f   -     -     -         1150    0    0 
+Euclid    938366677  5  2 Bk  b     b     b         1150   60  130 8c Kd
+Euclid    938366711  6  1 Bc  krc   kr    b         1220  110  350 
+Euclid    938366768  6  6 f   -     -     -         1460    0    0 
+Euclid    938366804  5  4 c   k     b     -         1460   30   50 
+Euclid    938366881  4  2 f   -     -     -         1480    0    0 
+Euclid    938366887  4  2 Bk  kf    -     -         1480   10    0 
+Euclid    938366915  4  1 Bc  kf    -     -         1470   10    0 
+Euclid    938366928  4  4 r   b     -     -         1460   30   55 
+Euclid    938366941  4  3 rc  brc   rc    c         1485  160    0 7c Ac
+Euclid    938366975  4  2 Bk  brc   b     brc       1325  150    0 6d Jd
+Euclid    938367044  5  1 Bf  -     -     -         1175    5    0 
+Euclid    938367068  5  5 c   b     b     -         1170   40   80 
+Euclid    938367096  5  4 f   -     -     -         1210    0    0 
+Euclid    938367113  5  3 c   k     f     -         1210   10    0 
+Euclid    938367127  4  2 Bk  k     b     -         1200   30   40 
+Euclid    938367146  4  1 Bf  -     -     -         1210    5    0 
+Euclid    938367153  4  4 c   f     -     -         1205   10    0 
+Euclid    938367171  5  4 c   c     bc    f         1195   60    0 
+Euclid    938367262  6  4 f   -     -     -         1135    0    0 
+Euclid    938367376  5  3 f   -     -     -         1135    0    0 
+Euclid    938367419  5  3 c   k     rr    rr        1135  170    0 Ad 8d
+Euclid    938367462  5  2 Bcc kc    kc    kf         965   90    0 
+Euclid    938367568  5  1 Bf  -     -     -          875    5    0 
+Euclid    938367636  4  4 cc  c     c     bc         870   90    0 5h 4h
+Euclid    938367661  5  3 f   -     -     -          780    0    0 
+Euclid    938367710  5  2 Bc  f     -     -          780   20    0 
+Euclid    938367726  4  1 Bc  k     kf    -          760   10    0 
+Euclid    938367743  4  4 r   b     k     f          750   30    0 
+Euclid    938367774  4  3 f   -     -     -          720    0    0 
+Euclid    938367795  4  2 Bc  k     k     bc         720   60  185 2c Kh
+Euclid    938367818  4  1 Bc  kc    kc    b          845   60  140 6d Td
+Euclid    938367843  3  3 c   f     -     -          925   10    0 
+Euclid    938367862  3  2 Bk  k     k     k          915   10    0 3d Jd
+Euclid    938367875  2  1 Bf  -     -     -          905    5    0 
+Euclid    938367884  2  2 Br  b     b     k          900   50  100 4d Ad
+Euclid    938367903  3  1 Bf  -     -     -          950    5    0 
+Euclid    938367923  3  3 c   k     k     b          945   30   45 
+Euclid    938367947  4  2 Bf  -     -     -          960   10    0 
+Euclid    938367976  5  1 Bc  kc    kc    b          950   70    0 5d Ac
+Euclid    938368013  5  5 f   -     -     -          880    0    0 
+Euclid    938368035  5  4 r   k     bc    b          880   80    0 Ts Kh
+Euclid    938368071  4  2 cc  kc    k     k          800   30    0 7s Ks
+Euclid    938368121  6  2 Bf  -     -     -          770   10    0 
+Euclid    938368170  5  1 Bc  kc    krr   bc         760  140    0 6d Tc
+Euclid    938368215  4  4 f   -     -     -          620    0    0 
+Euclid    938368236  4  4 c   rr    r     r          620  150    0 8c Th
+Euclid    938368278  5  4 f   -     -     -          470    0    0 
+Euclid    938368309  5  3 f   -     -     -          470    0    0 
+Euclid    938368347  6  2 Brr b     b     -          470   70  170 
+Euclid    938368384  6  1 Br  b     bc    b          570   90    0 Ah Ks
+Euclid    938368419  6  6 r   rc    c     r          480  130    0 Tc Ac
+Euclid    938368483  6  5 r   -     -     -          350   20   35 
+Euclid    938368496  6  4 crc rc    rr    c          365  180    0 2c 4h
+Euclid    938368594  6  3 r   b     b     k          185   50  140 Td 7s
+Euclid    938368635  6  2 Brc b     b     brc        275  150    0 Ks Jc
+Euclid    938368687  6  1 Brr brc   brA   -          125  125  260 6c Qc
+Euclid    938368727  6  6 r   rr    rc    c          260  150    0 8d 3c
+Euclid    938368771  6  5 rc  ccc   c     f          110  100    0 
+Euclid    938368827  6  4 cA  -     -     -           10   10    0 9d Qh
+Euclid    938375070  3  2 Bk  k     k     b         1000   30   40 
+Euclid    938375102  2  1 Br  -     -     -         1010   20   30 
+Euclid    938375106  2  2 Bf  -     -     -         1020   10    0 
+Euclid    938375112  2  1 Bc  kf    -     -         1010   10    0 
+Euclid    938375125  2  2 B   -     -     -         1000   10   15 
+Euclid    938375127  2  1 Br  b     b     bf        1005   70    0 
+Euclid    938375145  2  2 B   -     -     -          935   10   15 
+Euclid    938375159  2  1 Bc  k     k     k          940   10    0 5s 7c
+Euclid    938375201  2  2 B   -     -     -          930   10   15 
+Euclid    938375207  2  1 Br  -     -     -          935   20   30 
+Euclid    938375230  2  2 B   -     -     -          945   10   15 
+Euclid    938375234  2  1 Bf  -     -     -          950    5    0 
+Euclid    938375244  2  2 Bk  c     f     -          945   20    0 
+Euclid    938375260  2  1 Br  k     k     k          925   20    0 Jh Kh
+Euclid    938375293  4  2 Bk  kf    -     -          905   10    0 
+Euclid    938375311  5  1 Br  kc    k     kc         895   50  130 Ah 4h
+Euclid    938375361  6  6 f   -     -     -          975    0    0 
+Euclid    938375395  6  5 c   b     -     -          975   20   35 
+Euclid    938375464  5  4 f   -     -     -          990    0    0 
+Euclid    938375482  5  3 c   k     k     k          990   10   12 Td Ks
+Euclid    938375497  5  2 Bk  kf    -     -          992   10    0 
+Euclid    938375555  5  1 Bc  kc    kc    kf         982   40    0 
+Euclid    938375586  5  5 r   -     -     -          942   20   35 
+Euclid    938375617  5  4 f   -     -     -          957    0    0 
+Euclid    938375629  5  3 f   -     -     -          957    0    0 
+Euclid    938375652  6  2 Bk  kc    kf    -          957   20    0 
+Euclid    938375715  7  1 Bf  -     -     -          937    5    0 
+Euclid    938375744  7  7 r   r     b     c          932   80    0 8h 7h
+Euclid    938375772  7  6 f   -     -     -          852    0    0 
+Euclid    938375813  8  6 c   k     c     f          852   30    0 
+Euclid    938375865  8  5 f   -     -     -          822    0    0 
+Euclid    938375917  7  3 f   -     -     -          822    0    0 
+Euclid    938375939  7  2 Bcc k     kf    -          822   40    0 
+Euclid    938375981  7  1 BQ  -     -     -          782    5    0 

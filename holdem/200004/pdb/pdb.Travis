@@ -1,0 +1,618 @@
+Travis    954569970  4  2 Bk  k     k     k        10774   10    0 2c 9h
+Travis    954569994  4  1 Bf  -     -     -        10764    5    0 
+Travis    954570029  4  4 f   -     -     -        10759    0    0 
+Travis    954570043  4  4 cc  c     rc    b        10759  110  230 
+Travis    954570068  3  2 Bk  k     b     b        10879   50   80 
+Travis    954570090  3  1 Bc  kf    -     -        10909   10    0 
+Travis    954570114  3  3 f   -     -     -        10899    0    0 
+Travis    954570132  3  2 Bk  b     -     -        10899   20   30 
+Travis    954570143  3  1 Brr b     kc    kf       10909   70    0 
+Travis    954570171  3  3 r   bc    r     b        10839  100  220 Ah Jh
+Travis    954570197  3  2 Bc  bc    kc    k        10959   60  180 8h Ad
+Travis    954570229  3  1 Bc  k     bc    kc       11079   70  190 4h 2h
+Travis    954570253  3  3 f   -     -     -        11199    0    0 
+Travis    954570263  3  2 Br  b     k     c        11199   60    0 9s 9d
+Travis    954570286  3  1 Bcc kc    k     k        11139   30   90 As 6s
+Travis    954570307  3  3 cc  k     c     f        11199   40    0 
+Travis    954570328  3  2 Bk  k     c     r        11159   70  140 Jh Qh
+Travis    954570344  3  1 Bf  -     -     -        11229    5    0 
+Travis    954570362  3  3 c   k     b     b        11224   50  105 Jd Th
+Travis    954570386  3  2 Bk  k     k     f        11279   10    0 
+Travis    954570407  3  1 Bf  -     -     -        11269    5    0 
+Travis    954570426  3  3 c   k     c     c        11264   50  105 4s Ac
+Travis    954570446  3  2 Bk  k     k     f        11319   10    0 
+Travis    954570467  3  1 Bf  -     -     -        11309    5    0 
+Travis    954570495  4  4 crc rr    b     b        11304  120  330 Ad Ac
+Travis    954570539  4  3 f   -     -     -        11514    0    0 
+Travis    954570567  4  2 Bf  -     -     -        11514   10    0 
+Travis    954570590  4  1 Bf  -     -     -        11504    5    0 
+Travis    954570618  4  4 cc  f     -     -        11499   20    0 
+Travis    954570642  3  3 f   -     -     -        11479    0    0 
+Travis    954570658  3  2 Bf  -     -     -        11479   10    0 
+Travis    954570678  3  1 Bc  k     b     b        11469   50  110 6d Td
+Travis    954570696  3  3 c   k     k     f        11529   10    0 
+Travis    954570715  3  2 Br  k     k     k        11519   20   20 Ah Ks
+Travis    954570739  3  1 Bf  -     -     -        11519    5    0 
+Travis    954570765  3  3 f   -     -     -        11514    0    0 
+Travis    954570782  3  2 Bc  k     k     k        11514   20   60 Jd Tc
+Travis    954570802  3  1 Bf  -     -     -        11554    5    0 
+Travis    954570818  3  3 c   k     b     -        11549   30   45 
+Travis    954570833  3  2 Bk  k     k     b        11564   30   70 6c Ac
+Travis    954570852  3  1 Bf  -     -     -        11604    5    0 
+Travis    954570867  3  3 f   -     -     -        11599    0    0 
+Travis    954570879  3  2 Br  k     kc    kc       11599   60    0 Jd Js
+Travis    954570905  3  1 Bf  -     -     -        11539    5    0 
+Travis    954570921  3  3 cc  k     k     k        11534   20    0 Qd Js
+Travis    954570939  3  2 Bk  k     k     c        11514   30    0 8c 3d
+Travis    954570961  3  1 Bf  -     -     -        11484    5    0 
+Travis    954571006  2  2 Bk  b     -     -        11479   20   30 
+Travis    954571013  2  1 Bc  k     b     -        11489   30   40 
+Travis    954571023  2  2 Bf  -     -     -        11499   10    0 
+Travis    954571026  2  1 Br  b     b     b        11489   70  140 Kc Ah
+Travis    954571038  2  2 Bk  c     k     k        11559   20    0 Tc Qc
+Travis    954571050  2  1 Bcc k     kf    -        11539   20    0 
+Travis    954571066  2  2 Bc  c     f     -        11519   30    0 
+Travis    954571073  2  1 Bcc k     kc    kc       11489   60    0 Ac 5d
+Travis    954571091  2  2 Bk  k     k     f        11429   10    0 
+Travis    954571105  2  1 Bf  -     -     -        11419    5    0 
+Travis    954571108  2  2 B   -     -     -        11414   10   15 
+Travis    954571112  2  1 Bf  -     -     -        11419    5    0 
+Travis    954571115  2  2 B   -     -     -        11414   10   15 
+Travis    954571116  2  1 Bc  b     b     b        11419   60  100 
+Travis    954571125  2  2 B   -     -     -        11459   10   15 
+Travis    954571128  2  1 Bc  k     k     k        11464   10   20 Qh 2h
+Travis    954571138  2  2 Bk  b     -     -        11474   20   30 
+Travis    954571146  2  1 Bf  -     -     -        11484    5    0 
+Travis    954571149  2  2 B   -     -     -        11479   10   15 
+Travis    954571151  2  1 Bc  kf    -     -        11484   10    0 
+Travis    954571161  2  2 Bf  -     -     -        11474   10    0 
+Travis    954571163  2  1 Bf  -     -     -        11464    5    0 
+Travis    954571166  2  2 Bk  k     c     k        11459   30    0 Td Ks
+Travis    954571182  2  1 Bcc k     b     b        11429   60  120 8s 2s
+Travis    954571205  2  2 Bk  k     k     f        11489   10    0 
+Travis    954571222  2  1 Bc  k     k     b        11479   30   60 9c 4c
+Travis    954571235  2  2 Bk  k     c     c        11509   50    0 Qd Th
+Travis    954571252  2  1 Bc  k     k     k        11459   10    0 3c 2c
+Travis    954571266  2  2 Bk  k     k     b        11449   30   40 
+Travis    954571279  2  1 Bf  -     -     -        11459    5    0 
+Travis    954571282  2  2 Bk  b     -     -        11454   20   30 
+Travis    954571289  2  1 Bf  -     -     -        11464    5    0 
+Travis    954571291  2  2 Bf  -     -     -        11459   10    0 
+Travis    954571294  2  1 Bf  -     -     -        11449    5    0 
+Travis    954571296  2  2 B   -     -     -        11444   10   15 
+Travis    954571299  2  1 Bc  bc    kc    kc       11449   70    0 5s 9s
+Travis    954571319  2  2 Bk  k     k     k        11379   10    0 5s Ad
+Travis    954571332  2  1 Bc  k     b     -        11369   30   40 
+Travis    954571350  2  2 Bk  f     -     -        11379   10    0 
+Travis    954571357  2  1 Bc  k     k     k        11369   10    0 8s 6d
+Travis    954571368  2  2 Br  k     b     -        11359   40   60 
+Travis    954571381  2  1 Brc br    -     -        11379   60  110 
+Travis    954571392  2  2 Bk  k     k     b        11429   30   60 5c 2h
+Travis    954571404  2  1 Bc  k     b     b        11459   50   50 6c Ah
+Travis    954571422  2  2 B   -     -     -        11459   10   15 
+Travis    954571425  2  1 Bcc kc    kc    k        11464   50  100 Qd 4d
+Travis    954571445  2  2 Bk  b     -     -        11514   20   30 
+Travis    954571454  2  1 Bf  -     -     -        11524    5    0 
+Travis    954571455  2  2 Bf  -     -     -        11519   10    0 
+Travis    954571458  2  1 Bcc k     bc    brc      11509  140    0 Qh Kd
+Travis    954571477  2  2 Bk  k     rc    k        11369   70    0 Qd Ac
+Travis    954571496  2  1 Bc  k     kf    -        11299   10    0 
+Travis    954571511  2  2 B   -     -     -        11289   10   15 
+Travis    954571513  2  1 Bcc k     k     k        11294   20    0 5s Kd
+Travis    954571527  2  2 Bk  b     -     -        11274   20   30 
+Travis    954571537  2  1 Bc  kf    -     -        11284   10    0 
+Travis    954571544  2  2 Bk  k     k     k        11274   10    0 8c 9s
+Travis    954571554  2  1 Br  -     -     -        11264   20   30 
+Travis    954571559  2  2 Bk  b     -     -        11274   20   30 
+Travis    954571568  2  1 Bcc kc    kc    k        11284   50    0 Ac 6d
+Travis    954571593  2  2 Bk  b     -     -        11234   20   30 
+Travis    954571605  2  1 Bf  -     -     -        11244    5    0 
+Travis    954571608  2  2 Bf  -     -     -        11239   10    0 
+Travis    954571613  2  1 Br  b     k     k        11229   30    0 5d Ad
+Travis    954571625  2  2 Bk  b     -     -        11199   20   30 
+Travis    954571634  2  1 Bc  b     -     -        11209   20   30 
+Travis    954571639  2  2 B   -     -     -        11219   10   15 
+Travis    954571641  2  1 Bf  -     -     -        11224    5    0 
+Travis    954571643  2  2 B   -     -     -        11219   10   15 
+Travis    954571644  2  1 Bcf -     -     -        11224   10    0 
+Travis    954571648  2  2 B   -     -     -        11214   10   15 
+Travis    954571650  2  1 Br  -     -     -        11219   20   30 
+Travis    954571653  2  2 B   -     -     -        11229   10   15 
+Travis    954571657  2  1 Bc  b     -     -        11234   20   30 
+Travis    954571665  3  2 Bk  k     k     b        11244   30   40 
+Travis    954571677  3  1 Bf  -     -     -        11254    5    0 
+Travis    954571680  3  3 f   -     -     -        11249    0    0 
+Travis    954571689  3  2 Bc  b     b     r        11249   90  200 2h 9h
+Travis    954571705  3  1 Bc  b     k     b        11359   40   70 
+Travis    954571726  3  3 f   -     -     -        11389    0    0 
+Travis    954571733  3  2 B   -     -     -        11389   10   15 
+Travis    954571735  3  1 Bc  k     k     b        11394   30   35 Qd 9s
+Travis    954571764  3  3 f   -     -     -        11399    0    0 
+Travis    954571777  3  2 B   -     -     -        11399   10   15 
+Travis    954571780  3  1 Bf  -     -     -        11404    5    0 
+Travis    954571788  3  3 f   -     -     -        11399    0    0 
+Travis    954571791  3  2 Bf  -     -     -        11399   10    0 
+Travis    954571798  3  1 Bf  -     -     -        11389    5    0 
+Travis    954571800  3  3 c   k     k     k        11384   10   25 Jh 7h
+Travis    954571814  3  2 Bc  kc    k     k        11399   30   33 3c Ah
+Travis    954571831  3  1 Bf  -     -     -        11402    5    0 
+Travis    954571836  4  4 f   -     -     -        11397    0    0 
+Travis    954571854  5  3 cc  kc    kc    k        11397   50    0 9c 2c
+Travis    954571899  4  2 Bf  -     -     -        11347   10    0 
+Travis    954571947  4  1 Bf  -     -     -        11337    5    0 
+Travis    954571990  4  4 f   -     -     -        11332    0    0 
+Travis    954572015  4  3 f   -     -     -        11332    0    0 
+Travis    954572038  4  2 Bf  -     -     -        11332   10    0 
+Travis    954572067  4  1 Bf  -     -     -        11322    5    0 
+Travis    954572100  4  4 r   b     b     -        11317   50  110 Kd Ac
+Travis    954572128  3  2 Bf  -     -     -        11377   10    0 
+Travis    954572150  4  1 Bf  -     -     -        11367    5    0 
+Travis    954572197  4  4 f   -     -     -        11362    0    0 
+Travis    954572226  4  3 cc  f     -     -        11362   20    0 
+Travis    954572245  4  2 Bk  kc    kc    kc       11342   60    0 3s Kc
+Travis    954572271  4  1 Bf  -     -     -        11282    5    0 
+Travis    954572291  4  4 f   -     -     -        11277    0    0 
+Travis    954572316  4  3 f   -     -     -        11277    0    0 
+Travis    954572347  4  2 Bk  c     cc    kf       11277   60    0 
+Travis    954572380  4  1 Bcc kf    -     -        11217   20    0 
+Travis    954572406  4  4 f   -     -     -        11197    0    0 
+Travis    954572439  4  3 f   -     -     -        11197    0    0 
+Travis    954572458  4  2 Bk  kf    -     -        11197   10    0 
+Travis    954572472  4  1 Bf  -     -     -        11187    5    0 
+Travis    954572489  4  4 f   -     -     -        11182    0    0 
+Travis    954572512  4  3 f   -     -     -        11182    0    0 
+Travis    954572527  5  3 cc  k     k     k        11182   20    0 8h 5h
+Travis    954572557  5  2 Bf  -     -     -        11162   10    0 
+Travis    954572585  5  1 Bf  -     -     -        11152    5    0 
+Travis    954572595  5  5 f   -     -     -        11147    0    0 
+Travis    954572624  5  4 f   -     -     -        11147    0    0 
+Travis    954572652  5  3 f   -     -     -        11147    0    0 
+Travis    954572682  5  2 Bf  -     -     -        11147   10    0 
+Travis    954572702  5  1 Bf  -     -     -        11137    5    0 
+Travis    954572734  5  5 c   k     f     -        11132   20    0 
+Travis    954572766  5  4 c   k     b     -        11112   40   85 
+Travis    954572788  5  3 f   -     -     -        11157    0    0 
+Travis    954572817  5  2 Bk  f     -     -        11157   10    0 
+Travis    954572841  5  1 Bc  kc    kc    kc       11147   60  120 5d 6d
+Travis    954572865  5  5 f   -     -     -        11207    0    0 
+Travis    954572905  5  4 cc  kc    kc    k        11207   50  155 Ac 3c
+Travis    954572956  5  3 cc  kf    -     -        11312   20    0 
+Travis    954572995  5  2 Bc  c     c     f        11292   50    0 
+Travis    954573021  5  1 Bc  k     k     k        11242   10    0 8c 7c
+Travis    954573050  5  5 f   -     -     -        11232    0    0 
+Travis    954573068  5  4 fQ  -     -     -        11232    0    0 
+Travis    954584161  9  5 c   k     f     -        11232   10    0 
+Travis    954584236  9  4 f   -     -     -        11222    0    0 
+Travis    954584298  8  3 f   -     -     -        11222    0    0 
+Travis    954584333  9  2 Bk  k     krr   b        11222  110  235 As Jc
+Travis    954584380  9  1 Bc  kf    -     -        11347   10    0 
+Travis    954584430  9  9 f   -     -     -        11337    0    0 
+Travis    954584554  8  7 f   -     -     -        11337    0    0 
+Travis    954584620  8  6 c   kf    -     -        11337   10    0 
+Travis    954584676  9  5 c   k     c     c        11327   50  155 Ac Qs
+Travis    954584756  8  4 c   k     b     b        11432   50    0 5c Tc
+Travis    954584807  8  3 f   -     -     -        11382    0    0 
+Travis    954584860  8  2 Br  b     kc    kc       11382   80  195 As Kh
+Travis    954584909  9  1 Bc  kf    -     -        11497   20    0 
+Travis    954584977 10 10 f   -     -     -        11477    0    0 
+Travis    954585057 10  9 c   c     c     c        11477   60    0 Ah Qd
+Travis    954585106 10  8 f   Q     -     -        11417    0    0 
+Travis    954739990 10 10 c   k     f     -        11557   20    0 
+Travis    954740055 10  9 c   c     f     -        11537   20    0 
+Travis    954740139 10  8 f   -     -     -        11517    0    0 
+Travis    954740189 10  7 cc  f     -     -        11517   20    0 
+Travis    954740254 10  6 cc  kf    -     -        11497   20    0 
+Travis    954740316 10  5 f   -     -     -        11477    0    0 
+Travis    954740372 10  4 cc  kc    kc    kcc      11477  110    0 6c 5c
+Travis    954740472 10  3 c   kf    -     -        11367   10    0 
+Travis    954740548 10  2 Bk  kc    kf    -        11357   20    0 
+Travis    954740636 10  1 Br  brc   br    b        11337  140  340 Ac Ad
+Travis    954740727  9  9 c   f     -     -        11537   10    0 
+Travis    954740772  9  8 f   -     -     -        11527    0    0 
+Travis    954740814  9  7 f   -     -     -        11527    0    0 
+Travis    954740883 10  6 c   k     f     -        11527   10    0 
+Travis    954740920 10  5 f   -     -     -        11517    0    0 
+Travis    954741015 10  4 f   -     -     -        11517    0    0 
+Travis    954741071 10  3 ccc kf    -     -        11517   40    0 
+Travis    954741174 10  2 Bf  -     -     -        11477   10    0 
+Travis    954741218 10  1 Bf  -     -     -        11467    5    0 
+Travis    954741265 10 10 r   b     b     b        11462   70  195 Ks Kd
+Travis    954741322 10  9 f   -     -     -        11587    0    0 
+Travis    954741409  9  7 f   -     -     -        11587    0    0 
+Travis    954741457  9  6 c   k     f     -        11587   10    0 
+Travis    954741537  8  5 f   -     Q     -        11577    0    0 
+Travis    954777537  9  7 f   -     -     -        11577    0    0 
+Travis    954777615  8  5 f   -     -     -        11577    0    0 
+Travis    954777642  8  4 c   kc    k     kc       11577   40    0 Kh Tc
+Travis    954777692  8  3 c   kc    kc    kf       11537   40    0 
+Travis    954777756  8  2 Bk  k     k     bc       11497   50    0 2c 2h
+Travis    954777792  8  1 Bc  kc    k     k        11447   20    0 2d Td
+Travis    954777845  8  8 f   -     -     -        11427    0    0 
+Travis    954777894  8  7 r   k     f     -        11427   30    0 
+Travis    954777974  8  6 c   kc    kf    -        11397   20    0 
+Travis    954778058 10  6 f   -     -     -        11377    0    0 
+Travis    954778122 10  5 f   -     -     -        11377    0    0 
+Travis    954778194 10  4 c   k     k     k        11377   10    0 5s Qs
+Travis    954778237 10  3 f   -     -     -        11367    0    0 
+Travis    954778300 10  2 Bk  k     cc    kf       11367   70    0 
+Travis    954778420 10  1 Bf  -     -     -        11297    5    0 
+Travis    954778474 10 10 f   -     -     -        11292    0    0 
+Travis    954778518 10  9 f   -     -     -        11292    0    0 
+Travis    954778550 10  8 f   -     -     -        11292    0    0 
+Travis    954778590 10  7 c   c     c     b        11292   70  280 Ad 3d
+Travis    954778673 10  6 rc  f     -     -        11502   40    0 
+Travis    954778717 10  5 f   -     -     -        11462    0    0 
+Travis    954778761 10  4 f   -     -     -        11462    0    0 
+Travis    954778813 10  3 r   c     r     b        11462   90    0 Kc Ah
+Travis    954778858 10  2 Bf  -     -     -        11372   10    0 
+Travis    954778955 10  1 Bc  kf    -     -        11362   10    0 
+Travis    954779052 10 10 f   -     -     -        11352    0    0 
+Travis    954779104 10  9 f   -     -     -        11352    0    0 
+Travis    954779172 10  8 f   -     -     -        11352    0    0 
+Travis    954779219 10  7 f   -     -     -        11352    0    0 
+Travis    954779253 10  6 f   -     -     -        11352    0    0 
+Travis    954779302 10  5 c   k     c     f        11352   50    0 
+Travis    954779387  9  4 c   k     k     k        11302   10   45 9h Ac
+Travis    954779454  9  3 cc  c     k     k        11337   30  120 9c Ks
+Travis    954779499  8  2 Bc  cc    kf    -        11427   40    0 
+Travis    954779610 10  1 BQ  -     -     -        11387    5    0 
+Travis    955168817  9  6 c   c     c     c         9972   60  230 Ad Qc
+Travis    955168891  9  5 f   -     -     -        10142    0    0 
+Travis    955168948  8  4 f   -     -     -        10142    0    0 
+Travis    955168984  8  4 f   -     -     -        10142    0    0 
+Travis    955169037  8  3 cc  f     -     -        10142   20    0 
+Travis    955169111  9  2 Bk  kf    -     -        10122   10    0 
+Travis    955169195  8  1 Bc  k     k     k        10112   10    0 Kd 6d
+Travis    955169253  8  7 c   f     -     -        10102   10    0 
+Travis    955169289  7  6 cc  k     c     c        10092   60    0 Jh Tc
+Travis    955169342  7  5 c   c     f     -        10032   30    0 
+Travis    955169396  6  5 f   -     -     -        10002    0    0 
+Travis    955169460  8  4 c   f     -     -        10002   10    0 
+Travis    955169502  8  3 cc  k     f     -         9992   20    0 
+Travis    955169593  8  1 Bf  -     -     -         9962    5    0 
+Travis    955169644  8  7 c   f     -     -         9957   10    0 
+Travis    955169703  8  6 c   bc    c     c         9947   70    0 Qc 7c
+Travis    955169753  7  5 f   -     -     -         9877    0    0 
+Travis    955169782  7  4 c   k     c     f         9877   30    0 
+Travis    955169820  7  3 cc  c     c     c         9847   70  140 Ac 8s
+Travis    955169857  8  2 Bc  kf    -     -         9917   20    0 
+Travis    955169941  8  1 BKQ -     -     -         9897    5    0 
+Travis    955172151  7  5 cc  k     c     f         9892   50    0 
+Travis    955172197  7  4 c   kf    -     -         9842   20    0 
+Travis    955172269  8  2 Bk  c     c     c         9822   60    0 Ac Qd
+Travis    955172327  8  1 Bf  -     -     -         9762    5    0 
+Travis    955172371  7  6 f   -     -     -         9757    0    0 
+Travis    955172438  7  6 f   -     -     -         9757    0    0 
+Travis    955172453  6  4 f   -     -     -         9757    0    0 
+Travis    955172509  6  4 rr  c     cf    -         9757   70    0 
+Travis    955172570  7  3 cc  f     -     -         9687   20    0 
+Travis    955172629  8  2 Bk  ccc   kf    -         9667   40    0 
+Travis    955172700  9  1 Bf  -     -     -         9627    5    0 
+Travis    955172802  9  8 c   f     -     -         9622   10    0 
+Travis    955173015 10  7 c   f     -     -         9542   20    0 
+Travis    955173141 10  6 cc  k     f     -         9522   20    0 
+Travis    955173334 10  4 c   k     b     -         9492   30   60 
+Travis    955173401 10  3 f   -     -     -         9522    0    0 
+Travis    955173458 10  2 Bf  -     -     -         9522   10    0 
+Travis    955173519 10  1 Bc  kc    k     k         9512   20    0 4s 3s
+Travis    955173593 10  9 r   c     b     bc        9492   90    0 Ts Td
+Travis    955173731  9  7 f   -     -     -         9402    0    0 
+Travis    955173783  7  5 c   k     kc    kf        9402   30    0 
+Travis    955173843  7  5 cc  f     -     -         9372   20    0 
+Travis    955173907  8  4 cc  kf    -     -         9352   20    0 
+Travis    955173998  8  2 BQ  -     -     -         9332   10    0 
+Travis    956378198 10  5 f   -     -     -         8445    0    0 
+Travis    956378237 10  4 f   -     -     -         8445    0    0 
+Travis    956378280 10  4 f   -     -     -         8445    0    0 
+Travis    956378323  9  2 Bk  cc    kf    -         8445   30    0 
+Travis    956378368  9  1 Bc  k     kf    -         8415   10    0 
+Travis    956378404 10 10 f   -     -     -         8405    0    0 
+Travis    956378460 10  9 f   -     -     -         8405    0    0 
+Travis    956378505 10  8 c   c     c     k         8405   50  115 Jd Ah
+Travis    956378541 10  7 c   c     c     f         8470   40    0 
+Travis    956378580 10  6 cc  cc    c     c         8430   80    0 9c Ac
+Travis    956378631 10  5 f   -     -     -         8350    0    0 
+Travis    956378695 10  4 f   -     -     -         8350    0    0 
+Travis    956378751 10  3 f   -     -     -         8350    0    0 
+Travis    956378797 10  2 Bc  k     k     k         8350   20    0 6s Tc
+Travis    956378842 10  1 Bc  k     kc    kc        8330   50    0 Ad 4c
+Travis    956378897  9  9 c   b     b     b         8280   60  105 
+Travis    956378934  9  8 c   c     f     -         8325   20    0 
+Travis    956378981  9  7 cc  cf    -     -         8305   30    0 
+Travis    956379067  9  6 cc  c     k     k         8275   30    0 9s Js
+Travis    956379105  8  5 f   -     -     -         8245    0    0 
+Travis    956379168  8  4 f   -     -     -         8245    0    0 
+Travis    956379206  8  2 Bk  kf    -     -         8245   10    0 
+Travis    956379259  8  1 Bf  -     -     -         8235    5    0 
+Travis    956379303  8  8 c   f     -     -         8230   20    0 
+Travis    956379336  8  7 c   r     rc    brc       8210  220  665 Ks Qc
+Travis    956379410  8  6 rc  c     c     ccc       8655  150    0 8d 8c
+Travis    956379535  5  3 c   kc    kc    kr        8505   80  170 Tc 4c
+Travis    956379574  5  3 c   f     -     -         8595   10    0 
+Travis    956379614  5  2 Bk  kc    kc    kc        8585   60    0 As 9c
+Travis    956379640  6  1 Bf  -     -     -         8525    5    0 
+Travis    956379681  7  7 f   -     -     -         8520    0    0 
+Travis    956379714  6  5 c   f     -     -         8520   20    0 
+Travis    956379743  6  5 cc  f     -     -         8500   20    0 
+Travis    956379802  5  3 f   -     -     -         8480    0    0 
+Travis    956379840  5  2 Bc  c     c     c         8480   70    0 5s Ad
+Travis    956379867  6  1 Bc  k     k     k         8410   10    0 8c 4c
+Travis    956379907  6  6 c   f     -     -         8400   10    0 
+Travis    956379953  5  4 c   k     k     k         8390   10    0 8c 9h
+Travis    956380023  5  3 c   c     r     -         8380   60  100 
+Travis    956380075  5  3 c   k     f     -         8420   10    0 
+Travis    956380115  5  2 Bk  k     f     -         8410   10    0 
+Travis    956380156  5  1 Bf  -     -     -         8400    5    0 
+Travis    956380201  6  6 r   bc    c     c         8395   80    0 9d 9s
+Travis    956380257  5  4 f   -     -     -         8315    0    0 
+Travis    956380311  5  3 f   -     -     -         8315    0    0 
+Travis    956380330  5  2 B   -     -     -         8315   10   15 
+Travis    956380339  5  1 Bf  -     -     -         8320    5    0 
+Travis    956380379  6  6 f   -     -     -         8315    0    0 
+Travis    956380429  6  5 f   -     -     -         8315    0    0 
+Travis    956380463  6  5 c   kc    kc    b         8315   60  150 Qc Ts
+Travis    956380509  5  4 f   -     -     -         8405    0    0 
+Travis    956380530  4  2 Bk  kc    kc    k         8405   40    0 4d 7s
+Travis    956380570  4  1 Bcc kf    -     -         8365   20    0 
+Travis    956380610  4  4 c   f     -     -         8345   10    0 
+Travis    956380648  4  3 f   -     -     -         8335    0    0 
+Travis    956380688  4  2 Bk  kc    cf    -         8335   40    0 
+Travis    956380728  4  1 Bc  kf    -     -         8295   10    0 
+Travis    956380765  4  4 r   -     -     -         8285   20   35 
+Travis    956380776  4  3 c   kc    kc    kf        8300   40    0 
+Travis    956380817  4  2 Bc  c     cc    kf        8260   70    0 
+Travis    956380859  4  1 Bc  k     kc    kc        8190   50    0 Ac 2s
+Travis    956380891  4  4 c   k     f     -         8140   10    0 
+Travis    956380916  4  3 c   kc    kc    kc        8130   60    0 3c Ac
+Travis    956380948  4  2 Bc  kc    k     b         8070   50   85 
+Travis    956380976  4  1 Bc  k     kf    -         8105   10    0 
+Travis    956381016  4  4 c   k     k     k         8095   10    0 Th 7d
+Travis    956381038  4  3 f   -     -     -         8085    0    0 
+Travis    956381091  4  2 Bk  kf    -     -         8085   10    0 
+Travis    956381126  4  1 Bc  kc    kc    k         8075   40    0 5d 6s
+Travis    956381160  4  4 c   f     -     -         8035   10    0 
+Travis    956381211  4  3 f   -     -     -         8025    0    0 
+Travis    956381244  4  2 Bk  k     k     b         8025   30   45 
+Travis    956381275  4  1 Bc  b     k     k         8040   20    0 8h Qh
+Travis    956381303  4  4 f   -     -     -         8020    0    0 
+Travis    956381336  4  3 c   c     c     c         8020   60    0 4h Qc
+Travis    956381358  4  2 Bk  kf    -     -         7960   10    0 
+Travis    956381375  4  1 Bf  -     -     -         7950    5    0 
+Travis    956381387  4  4 f   -     -     -         7945    0    0 
+Travis    956381404  4  3 c   k     k     k         7945   10    0 8s 7d
+Travis    956381449  4  2 Bk  k     k     k         7935   10   25 6c 5h
+Travis    956381491  5  1 Bc  kc    k     kc        7950   40    0 5c Th
+Travis    956381537  5  5 c   k     f     -         7910   10    0 
+Travis    956381595  5  4 f   -     -     -         7900    0    0 
+Travis    956381636  5  3 f   -     -     -         7900    0    0 
+Travis    956381672  5  2 Bk  kc    k     kf        7900   20    0 
+Travis    956381708  5  1 Bf  -     -     -         7880    5    0 
+Travis    956381742  5  5 f   -     -     -         7875    0    0 
+Travis    956381755  5  4 cc  kf    -     -         7875   20    0 
+Travis    956381792  5  3 f   -     -     -         7855    0    0 
+Travis    956381834  5  2 Bk  k     kc    kf        7855   30    0 
+Travis    956381864  5  1 Bf  -     -     -         7825    5    0 
+Travis    956381871  5  5 f   -     -     -         7820    0    0 
+Travis    956381903  5  4 f   -     -     -         7820    0    0 
+Travis    956381929  5  3 c   cc    kc    kc        7820   70  180 9s 9d
+Travis    956381990  5  2 Bk  kc    k     bc        7930   60    0 Js Qd
+Travis    956382026  5  1 Bf  -     -     -         7870    5    0 
+Travis    956382046  5  5 c   c     k     f         7865   20    0 
+Travis    956382078  5  4 f   -     -     -         7845    0    0 
+Travis    956382088  5  3 f   -     -     -         7845    0    0 
+Travis    956382124  5  2 Bk  b     bc    c         7845   80    0 8c 9d
+Travis    956382161  5  1 Bc  b     b     k         7765   40   90 8s Js
+Travis    956382191  4  4 c   k     c     k         7815   30   60 Jh Qc
+Travis    956382210  4  4 c   f     -     -         7845   10    0 
+Travis    956382232  4  3 cc  f     -     -         7835   20    0 
+Travis    956382255  5  2 Bc  kf    -     -         7815   20    0 
+Travis    956382300  5  1 Bc  kf    -     -         7795   10    0 
+Travis    956382339  4  4 f   -     -     -         7785    0    0 
+Travis    956382370  4  3 c   k     k     c         7785   30    0 Ah 8d
+Travis    956382394  5  2 Bc  kc    k     b         7755   50  125 Qc Th
+Travis    956382420  5  1 Bf  -     -     -         7830    5    0 
+Travis    956382448  5  5 f   -     -     -         7825    0    0 
+Travis    956382473  5  4 c   b     -     -         7825   20   45 
+Travis    956382489  4  2 Bc  kf    -     -         7850   20    0 
+Travis    956382508  4  1 Bc  b     b     b         7830   60  120 
+Travis    956382538  4  4 c   f     -     -         7890   10    0 
+Travis    956382554  4  3 r   b     b     k         7880   50  150 Jc Jh
+Travis    956382578  4  2 Bk  b     kc    k         7980   40    0 9c 5c
+Travis    956382606  4  1 Bc  kc    kf    -         7940   30    0 
+Travis    956382636  4  4 c   k     k     k         7910   10    0 4s 2s
+Travis    956382656  4  3 c   k     r     b         7900   70  180 
+Travis    956382678  4  2 Bk  bc    k     k         8010   30    0 7c 9s
+Travis    956382700  4  1 Bc  kf    -     -         7980   10    0 
+Travis    956382724  4  4 c   c     c     k         7970   40   50 Ks 6d
+Travis    956382743  4  3 f   -     -     -         7980    0    0 
+Travis    956382768  4  2 Bf  -     -     -         7980   10    0 
+Travis    956382790  4  1 Bf  -     -     -         7970    5    0 
+Travis    956382807  4  4 f   -     -     -         7965    0    0 
+Travis    956382824  5  4 c   b     -     -         7965   20   35 
+Travis    956382855  5  3 c   kc    rr    b         7980  130  325 7c 9h
+Travis    956382902  5  2 Bc  bc    kc    kf        8175   60    0 
+Travis    956382935  5  1 Bf  -     -     -         8115    5    0 
+Travis    956382952  5  5 f   -     -     -         8110    0    0 
+Travis    956382975  5  4 f   -     -     -         8110    0    0 
+Travis    956383011  4  3 f   -     -     -         8110    0    0 
+Travis    956383053  4  2 Bf  -     -     -         8110   10    0 
+Travis    956383082  4  1 Bc  -     -     -         8100   10   20 
+Travis    956383088  3  3 cc  c     k     k         8110   30   60 Ah 9s
+Travis    956383100  3  3 r   -     -     -         8140   20   35 
+Travis    956383107  3  2 Bc  bc    b     b         8155   80  145 
+Travis    956383128  3  1 Bf  -     -     -         8220    5    0 
+Travis    956383155  3  3 f   -     -     -         8215    0    0 
+Travis    956383173  3  2 B   -     -     -         8215   10   15 
+Travis    956383177  3  1 Bf  -     -     -         8220    5    0 
+Travis    956383196  3  3 c   c     c     c         8215   60    0 8d Kh
+Travis    956383219  3  2 Bf  -     -     -         8155   10    0 
+Travis    956383227  3  1 Bf  -     -     -         8145    5    0 
+Travis    956383230  3  3 c   c     k     k         8140   20   45 2s 2d
+Travis    956383254  3  2 B   -     -     -         8165   10   15 
+Travis    956383262  3  1 Bc  b     -     -         8170   20   30 
+Travis    956383271  3  3 cc  k     k     b         8180   40   85 8s Kc
+Travis    956383296  3  2 B   -     -     -         8225   10   15 
+Travis    956383303  3  1 Bc  k     k     k         8230   10   20 8s Kc
+Travis    956383317  3  3 f   -     -     -         8240    0    0 
+Travis    956383337  3  2 Bk  b     b     -         8240   40   60 
+Travis    956383359  3  1 Bc  kc    kc    kc        8260   60    0 Kh Qc
+Travis    956383383  3  3 cc  f     -     -         8200   20    0 
+Travis    956383395  3  2 Br  -     -     -         8180   20   30 
+Travis    956383403  3  1 Bf  -     -     -         8190    5    0 
+Travis    956383405  3  3 c   c     c     f         8185   40    0 
+Travis    956383425  3  2 B   -     -     -         8145   10   15 
+Travis    956383430  3  1 Bcc k     kf    -         8150   20    0 
+Travis    956383445  3  3 cc  c     k     c         8130   50    0 8d 5d
+Travis    956383459  3  2 Bc  kf    -     -         8080   20    0 
+Travis    956383471  3  1 Bf  -     -     -         8060    5    0 
+Travis    956383474  3  3 cc  f     -     -         8055   20    0 
+Travis    956383483  3  2 Br  k     b     -         8035   40   65 
+Travis    956383496  3  1 Bc  b     -     -         8060   30   60 
+Travis    956383508  3  3 r   -     -     -         8090   20   35 
+Travis    956383513  3  2 Br  b     b     bc        8105   90    0 6h Ah
+Travis    956383532  3  1 Bcc kf    -     -         8015   20    0 
+Travis    956383548  4  3 f   -     -     -         7995    0    0 
+Travis    956383591  4  2 Bk  k     k     c         7995   30    0 6h 7c
+Travis    956383617  4  1 Bc  b     b     b         7965   60  110 
+Travis    956383638  3  3 f   -     -     -         8015    0    0 
+Travis    956383675  3  2 Bk  c     c     b         8015   60  120 6s 6d
+Travis    956383717  3  1 Bcc k     k     k         8075   20   40 Qd Jd
+Travis    956383741  3  3 c   k     k     b         8095   30   50 
+Travis    956383811  2  2 B   -     -     -         8115   10   15 
+Travis    956383816  2  1 Bc  kc    kc    kc        8120   60  120 Kd 8c
+Travis    956383836  2  2 Bc  b     c     c         8180   70    0 Ac 3d
+Travis    956383857  2  1 Bc  k     k     b         8110   30   60 Js 8c
+Travis    956383888  3  2 B   -     -     -         8140   10   15 
+Travis    956383896  3  1 Bcc bc    kc    b         8145   80  140 
+Travis    956383917  3  3 f   -     -     -         8205    0    0 
+Travis    956383934  3  2 Bf  -     -     -         8205   10    0 
+Travis    956383941  3  1 Bc  b     -     -         8195   20   30 
+Travis    956383949  3  3 f   -     -     -         8205    0    0 
+Travis    956383954  3  2 B   -     -     -         8205   10   15 
+Travis    956383958  3  1 Bf  -     -     -         8210    5    0 
+Travis    956383963  3  3 rc  c     c     c         8205   80    0 Ts Ah
+Travis    956383975  3  2 Bc  kf    -     -         8125   20    0 
+Travis    956383989  3  1 Bf  -     -     -         8105    5    0 
+Travis    956383992  3  3 c   k     c     f         8100   30    0 
+Travis    956384020  3  2 B   -     -     -         8070   10   15 
+Travis    956384024  3  1 Bc  bc    br    b         8075  120  340 7d Jd
+Travis    956384050  3  3 cc  k     b     -         8295   40   70 
+Travis    956384079  3  2 B   -     -     -         8325   10   15 
+Travis    956384083  3  1 Bc  kc    kc    kf        8330   40    0 
+Travis    956384109  3  3 c   c     c     c         8290   60    0 Tc 9h
+Travis    956384133  3  2 Bc  kf    -     -         8230   20    0 
+Travis    956384163  3  1 Bf  -     -     -         8210    5    0 
+Travis    956384170  3  3 f   -     -     -         8205    0    0 
+Travis    956384198  3  2 Bc  kf    -     -         8205   20    0 
+Travis    956384216  3  1 Bcc kc    kr    b         8185   90  160 
+Travis    956384234  3  3 cc  c     f     -         8255   30    0 
+Travis    956384255  3  2 Bf  -     -     -         8225   10    0 
+Travis    956384263  3  1 Bc  b     bc    kc        8215   80    0 7c 8c
+Travis    956384285  4  4 c   f     -     -         8135   10    0 
+Travis    956384309  4  3 c   kc    k     c         8125   40    0 3h 8h
+Travis    956384335  4  2 Bc  kf    -     -         8085   20    0 
+Travis    956384366  4  1 Bf  -     -     -         8065    5    0 
+Travis    956384387  4  4 r   b     -     -         8060   30   70 
+Travis    956384402  5  4 c   f     -     -         8100   10    0 
+Travis    956384449  6  4 c   k     k     b         8090   30   90 Js Kc
+Travis    956384530  6  3 c   c     f     -         8150   20    0 
+Travis    956384585  6  2 Bk  kf    -     -         8130   10    0 
+Travis    956384645  6  1 Bf  -     -     -         8120    5    0 
+Travis    956384711  5  5 cc  c     r     b         8115   90  230 Qh 8h
+Travis    956384751  5  4 cc  cc    c     c         8255  100  480 3h Th
+Travis    956384832  5  3 c   k     k     b         8635   30   50 
+Travis    956384902  2  1 Bf  -     -     -         8655   10    0 
+Travis    956384906  2  1 Bc  k     kf    -         8645   10    0 
+Travis    956384924  2  2 Bc  bc    c     b         8635   80  160 5c Qc
+Travis    956384949  2  1 Bf  -     -     -         8715    5    0 
+Travis    956384954  2  2 Bf  -     -     -         8710   10    0 
+Travis    956384960  2  1 Bc  b     -     -         8700   20   30 
+Travis    956384970  2  2 Bk  k     k     k         8710   10   10 3d 7h
+Travis    956384986  2  1 Bf  -     -     -         8710    5    0 
+Travis    956384991  2  2 Bf  -     -     -         8705   10    0 
+Travis    956384994  2  1 Bf  -     -     -         8695    5    0 
+Travis    956384997  2  2 Bf  -     -     -         8690   10    0 
+Travis    956385001  2  1 Bc  b     b     -         8680   40   60 
+Travis    956385016  2  2 Bc  k     k     -         8700   20   40 
+Travis    957059646 10  8 f   -     -     -         5060    0    0 
+Travis    957059777 10  7 f   -     -     -         5060    0    0 
+Travis    957059906 10  6 c   k     k     k         5060   10    0 As Jd
+Travis    957059976 10  5 f   -     -     -         5050    0    0 
+Travis    957060108 10  4 c   kc    kf    -         5050   20    0 
+Travis    957060190 10  3 f   -     -     -         5030    0    0 
+Travis    957060283 10  2 Bk  c     kf    -         5030   20    0 
+Travis    957060351 10  1 Bf  -     -     -         5010    5    0 
+Travis    957060462 10 10 cc  f     -     -         5005   20    0 
+Travis    957060533  9  8 cc  f     -     -         4985   20    0 
+Travis    957060613 10  8 f   -     -     -         4965    0    0 
+Travis    957060702 10  7 f   -     -     -         4965    0    0 
+Travis    957060760 10  6 f   -     -     -         4965    0    0 
+Travis    957060827 10  5 c   k     kf    -         4965   10    0 
+Travis    957060908 10  4 r   kc    kf    -         4955   40    0 
+Travis    957060985 10  3 f   -     -     -         4915    0    0 
+Travis    957061062 10  2 Bf  -     -     Q         4915   10    0 
+Travis    957061309  9  9 c   f     -     -         4905   20    0 
+Travis    957061435  9  8 c   kc    kc    kf        4885   40    0 
+Travis    957061526  8  6 f   -     -     -         4845    0    0 
+Travis    957061577  8  5 cc  kf    -     -         4845   40    0 
+Travis    957061655  7  4 c   k     k     kf        4805   10    0 
+Travis    957061795  7  3 f   -     -     -         4795    0    0 
+Travis    957061879  7  2 Bc  k     k     f         4795   20    0 
+Travis    957061942  7  1 Bf  -     -     -         4775    5    0 
+Travis    957062006  7  7 c   k     b     -         4770   30   50 
+Travis    957062049  8  7 f   -     -     -         4790    0    0 
+Travis    957062125  9  7 c   c     k     f         4790   20    0 
+Travis    957062170  9  6 f   -     -     -         4770    0    0 
+Travis    957062226  9  5 f   -     -     -         4770    0    0 
+Travis    957062297 10  4 c   bc    b     b         4770   70  230 5h Kh
+Travis    957062361 10  3 c   f     -     -         4930   10    0 
+Travis    957062463 10  2 Bk  k     kf    -         4920   10    0 
+Travis    957062496 10  1 Bc  kc    kc    kc        4910   60   95 8s Qh
+Travis    957062545 10 10 c   cc    c     f         4945   90    0 
+Travis    957062602 10  9 c   cc    f     -         4855   60    0 
+Travis    957062648 10  8 c   cf    -     -         4795   40    0 
+Travis    957062754 10  7 f   -     -     -         4755    0    0 
+Travis    957062800 10  6 cc  kc    kc    kf        4755   60    0 
+Travis    957062881 10  5 c   k     f     -         4695   10    0 
+Travis    957062953 10  4 c   c     k     k         4685   30    0 Ah Jd
+Travis    957063007 10  3 c   k     k     f         4655   10    0 
+Travis    957063128  9  2 Bk  k     kc    k         4645   30    0 4d 5h
+Travis    957063223  9  1 Br  kc    kc    kf        4615   60    0 
+Travis    957063337  9  9 c   k     f     -         4555   10    0 
+Travis    957063408  9  8 f   -     -     -         4545    0    0 
+Travis    957063472  9  7 c   c     c     f         4545   50    0 
+Travis    957063547  9  6 f   -     -     -         4495    0    0 
+Travis    957063689  9  5 f   -     -     -         4495    0    0 
+Travis    957063865  9  4 cc  kf    -     -         4495   20    0 
+Travis    957063981  9  3 c   k     kf    Q         4475   10    0 
+Travis    957065534  6  5 f   -     -     -         4465    0    0 
+Travis    957065594  6  4 f   -     -     -         4465    0    0 
+Travis    957065607  6  3 f   -     -     -         4465    0    0 
+Travis    957065675  6  2 Bk  k     k     brc       4465   90  215 7h 8c
+Travis    957065756  4  1 Bc  b     -     -         4590   20   40 
+Travis    957065832  3  3 c   k     f     -         4610   10    0 
+Travis    957065846  4  3 f   -     -     -         4600    0    0 
+Travis    957065849  3  2 Bf  -     -     -         4600   10    0 
+Travis    957065862  3  1 Bf  -     -     -         4590    5    0 
+Travis    957065869  3  3 c   b     b     f         4585   40    0 
+Travis    957065900  3  2 Bc  f     -     -         4545   20    0 
+Travis    957065910  3  1 Bc  k     k     k         4525   10    0 Js Kc
+Travis    957065927  3  3 c   k     k     b         4515   30   65 5s 5h
+Travis    957065952  3  2 Bk  f     -     -         4550   10    0 
+Travis    957065959  3  1 Bf  -     -     -         4540    5    0 
+Travis    957065968  3  3 cc  f     -     -         4535   20    0 
+Travis    957065980  3  2 Bc  k     k     k         4515   20    0 Td 6d
+Travis    957065994  3  1 Bf  -     -     -         4495    5    0 
+Travis    957065999  3  3 cc  k     b     b         4490   60  120 
+Travis    957066015  3  2 Bc  k     kc    kf        4550   40    0 
+Travis    957066043  3  1 Bc  b     b     b         4510   60  130 Th 4h
+Travis    957066055  3  3 c   b     b     -         4580   40   65 
+Travis    957066073  3  2 Brc b     b     b         4605   90  180 Th Td
+Travis    957066087  3  1 Br  b     k     k         4695   30    0 6d 6h
+Travis    957066100  3  3 f   -     -     -         4665    0    0 
+Travis    957066112  3  2 Br  b     b     b         4665   70  140 As Js
+Travis    957066127  3  1 Bc  bc    b     b         4735   80  150 
+Travis    957066142  3  3 c   f     -     -         4805   10    0 
+Travis    957066148  3  2 B   -     -     -         4795   10   15 
+Travis    957066151  3  1 Bc  k     k     k         4800   10    0 Jh Qd
+Travis    957066161  2  2 B   -     -     -         4790   10   15 

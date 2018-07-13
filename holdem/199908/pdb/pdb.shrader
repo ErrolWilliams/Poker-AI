@@ -1,0 +1,669 @@
+shrader   933737819 10  4 f   -     -     -         1000    0    0 
+shrader   933737864 10  3 f   -     -     -         1000    0    0 
+shrader   933737938 10  2 Bc  kc    k     kf        1000   30    0 
+shrader   933737972 10  1 Bc  kc    b     b          970   60  105 Jh 9h
+shrader   933738060  9  9 c   f     -     -         1015   10    0 
+shrader   933738083  9  9 c   f     -     -         1005   10    0 
+shrader   933738125  9  7 f   -     -     -          995    0    0 
+shrader   933738192  9  6 c   f     -     -          995   10    0 
+shrader   933738246  9  5 f   -     -     -          985    0    0 
+shrader   933738285  9  4 cc  kc    kf    -          985   30    0 
+shrader   933738347 10  3 f   -     -     -          955    0    0 
+shrader   933738426 10  2 Bk  kc    kf    -          955   20    0 
+shrader   933738476 10  1 Bc  kf    -     -          935   10    0 
+shrader   933738555 10 10 f   -     -     -          925    0    0 
+shrader   933738611 10  9 c   k     f     -          925   20    0 
+shrader   933738666 10  8 cc  c     k     c          905   50    0 Tc Ts
+shrader   933738719 10  7 cc  kc    kf    -          855   30    0 
+shrader   933738806 10  6 cc  kc    kc    bc         825   90    0 9d 3d
+shrader   933738884 10  5 cc  cc    kf    -          735   60    0 
+shrader   933739041 10  5 c   kf    -     -          675   10    0 
+shrader   933739115  9  3 f   -     -     -          665    0    0 
+shrader   933739207  7  1 Bk  kc    kf    -          665   20    0 
+shrader   933739267  8  1 Bc  k     k     k          645   10    0 7s 7c
+shrader   933739327 10 10 c   f     -     -          635   10    0 
+shrader   933739372  9  8 c   cc    c     kc         625   90    0 Ts Tc
+shrader   933739461  8  6 c   c     c     c          535   60    0 Ah Ts
+shrader   933739566  6  3 f   -     -     -          475    0    0 
+shrader   933739582  6  3 f   -     -     -          475    0    0 
+shrader   933739609  6  2 Bc  c     f     -          475   30    0 
+shrader   933739668  5  1 Bc  kf    -     -          445   10    0 
+shrader   933739700  5  5 c   f     -     -          435   10    0 
+shrader   933739727  5  4 f   -     -     -          425    0    0 
+shrader   933739781  6  3 f   -     -     -          425    0    0 
+shrader   933739816  6  2 Bc  k     k     k          425   20    0 2d Ad
+shrader   933739845  6  1 Bc  kc    k     kf         405   20    0 
+shrader   933739941  4  4 c   bc    k     k          385   30   65 Qh 9h
+shrader   933739966  4  3 c   k     b     b          420   50   85 
+shrader   933739978  4  2 Bc  kc    kc    k          455   50    0 6c 7s
+shrader   933740003  5  1 Bcc kc    k     kc         405   50  150 9h Kd
+shrader   933740024  5  5 c   c     k     c          505   40  130 Tc Jh
+shrader   933740044  5  4 cc  kc    c     rr         595  130  295 8h Th
+shrader   933740066  5  3 f   -     -     -          760    0    0 
+shrader   933740094  5  2 Bk  b     b     b          760   60    0 9c 8d
+shrader   933740106  5  1 Bc  kc    k     kf         700   20    0 
+shrader   933740126  5  5 c   b     -     -          680   20   50 
+shrader   933740139  5  4 cc  c     k     b          710   60    0 8c 7s
+shrader   933740173  4  2 Bk  k     b     c          650   50    0 6h 6d
+shrader   933740188  4  1 Bc  kc    b     b          600   70  170 9s 8h
+shrader   933740211  4  4 f   -     -     -          700    0    0 
+shrader   933740231  4  3 f   -     -     -          700    0    0 
+shrader   933740247  4  2 Bc  kf    -     -          700   20    0 
+shrader   933740264  4  1 Bc  kc    kc    kc         680   60    0 4h 4c
+shrader   933740289  6  6 f   -     -     -          620    0    0 
+shrader   933740323  6  5 cc  kc    kf    -          620   30    0 
+shrader   933740368  7  5 cc  f     -     -          590   20    0 
+shrader   933740422  7  4 c   f     -     -          570   20    0 
+shrader   933740464  8  4 f   -     -     -          550    0    0 
+shrader   933740520  9  2 Bc  f     -     -          550   20    0 
+shrader   933740596 10  1 Bf  -     -     -          530    5    0 
+shrader   933740699  9  9 f   -     -     -          525    0    0 
+shrader   933740756  8  7 c   f     -     -          525   20    0 
+shrader   933740803  8  6 f   -     -     -          505    0    0 
+shrader   933740864 10  5 c   k     f     -          505   20    0 
+shrader   933740927 10  4 f   -     -     -          485    0    0 
+shrader   933740994 10  3 f   -     -     -          485    0    0 
+shrader   933741073 10  2 Bf  -     -     -          485   10    0 
+shrader   933741150 10  1 Bf  -     -     -          475    5    0 
+shrader   933741236 10 10 f   -     -     -          470    0    0 
+shrader   933741355 10  9 f   -     -     -          470    0    0 
+shrader   933741512  9  7 f   -     -     -          470    0    0 
+shrader   933741639 10  7 f   -     -     -          470    0    0 
+shrader   933741721 10  6 f   -     -     -          470    0    0 
+shrader   933741820 10  5 ccc kf    -     -          470   40    0 
+shrader   933741957 10  4 cc  ccc   kf    -          430   80    0 
+shrader   933742093  9  3 cc  cc    f     -          350   80    0 
+shrader   933742190  8  2 Bcc ccc   f     -          270   80    0 
+shrader   933742291 10  1 Bf  -     -     -          190    5    0 
+shrader   933742423 10 10 f   -     -     -          185    0    0 
+shrader   933742550 10  9 cc  k     f     -          185   30    0 
+shrader   933742612  9  7 f   -     -     -          155    0    0 
+shrader   933742685  9  6 cc  ccc   cccA  -          155  155  560 9h 5h
+shrader   933742788  8  5 f   -     -     -          560    0    0 
+shrader   933742824  8  4 f   -     -     -          560    0    0 
+shrader   933742886  9  4 f   -     -     -          560    0    0 
+shrader   933743009  8  2 f   -     -     -          560    0    0 
+shrader   933743071  8  2 Brc rc    b     b          560  120  450 As Ah
+shrader   933743201  9  1 Bcc kf    -     -          890   40    0 
+shrader   933743318 10 10 f   -     -     -          850    0    0 
+shrader   933743415  9  8 f   -     -     -          850    0    0 
+shrader   933743472  9  7 cc  ccc   cc    cc         850  220    0 Kh Ah
+shrader   933743594  9  6 c   c     cc    c          630  140    0 Qd Kh
+shrader   933743660  9  5 cc  f     -     -          490   40    0 
+shrader   933743754  8  5 cc  kc    kf    -          450   30    0 
+shrader   933743814  7  3 c   -     -     -          420   10   25 
+shrader   933743883  5  1 Bc  kc    kc    b          435   70  140 Qh Ah
+shrader   933743913  6  1 Bcc kc    kc    kf         505   80    0 
+shrader   933743970  6  6 cc  c     c     c          425   90    0 8c Ac
+shrader   933744007  6  5 f   -     -     -          335    0    0 
+shrader   933744058  6  4 f   -     -     -          335    0    0 
+shrader   933744088  6  3 f   -     -     -          335    0    0 
+shrader   933744121  6  2 Bf  -     -     -          335   10    0 
+shrader   933744153  7  1 Bc  kf    -     -          325   20    0 
+shrader   933744193  6  6 f   -     -     -          305    0    0 
+shrader   933744262  5  4 cc  f     -     -          305   20    0 
+shrader   933744301  4  3 f   -     -     -          285    0    0 
+shrader   933744321  4  2 Bf  -     -     -          285   10    0 
+shrader   933744362  4  1 Bc  kc    kf    -          275   30    0 
+shrader   933744394  4  4 r   -     -     -          245   20   35 
+shrader   933744399  3  2 Bc  kc    kc    kc         260   70    0 5c 3c
+shrader   933744462  4  1 Bc  br    brc   brA        190  190    0 Kh Kc
+shrader   934088496 10  5 c   c     b     c         1000   60    0 Ah Td
+shrader   934088534 10  4 cc  kc    k     k          940   50    0 Qh 8h
+shrader   934088605 10  3 cc  ccc   rc    bc         890  190    0 7s 7c
+shrader   934088684 10  2 Bcc c     c     f          700   70    0 
+shrader   934088766 10  1 Bf  -     -     -          630    5    0 
+shrader   934088834  9  9 cc  f     -     -          625   40    0 
+shrader   934088901  9  8 f   -     -     -          585    0    0 
+shrader   934088941  9  7 cc  f     -     -          585   40    0 
+shrader   934088987  9  6 f   -     -     -          545    0    0 
+shrader   934089045 10  6 f   -     -     -          545    0    0 
+shrader   934089089 10  5 f   -     -     -          545    0    0 
+shrader   934089106 10  4 cc  c     c     c          545   70    0 Jd Qs
+shrader   934089132  9  2 f   -     -     -          475    0    0 
+shrader   934089185  9  2 Bf  -     -     -          475   10    0 
+shrader   934089232  9  1 Bc  kf    -     -          465   20    0 
+shrader   934089258  9  9 f   -     -     -          445    0    0 
+shrader   934089285  9  8 cc  c     c     c          445   70  165 9s Ts
+shrader   934089321  9  7 c   c     c     c          540   70    0 Th Td
+shrader   934089363  9  6 c   f     -     -          470   10    0 
+shrader   934089409 10  6 c   f     -     -          460   10    0 
+shrader   934089468 10  5 c   rr    b     brc        450  150  315 Ts Td
+shrader   934089510 10  4 f   -     -     -          615    0    0 
+shrader   934089584 10  3 f   -     -     -          615    0    0 
+shrader   934089675  9  2 Bk  k     k     k          615   10    0 2c 3d
+shrader   934089777  9  1 Bc  kf    -     -          605   10    0 
+shrader   934089836 10 10 f   -     -     -          595    0    0 
+shrader   934089913 10  9 f   -     -     -          595    0    0 
+shrader   934089950 10  8 f   -     -     -          595    0    0 
+shrader   934090008 10  7 f   -     -     -          595    0    0 
+shrader   934090051 10  6 f   -     -     -          595    0    0 
+shrader   934090101 10  5 f   -     -     -          595    0    0 
+shrader   934090132 10  4 f   -     -     -          595    0    0 
+shrader   934090177  9  3 cc  f     -     -          595   20    0 
+shrader   934090236  9  2 Bk  k     kc    kf         575   30    0 
+shrader   934090280  9  1 Bf  -     -     -          545    5    0 
+shrader   934090319  9  9 f   -     -     -          540    0    0 
+shrader   934090372  9  8 c   c     c     c          540   60    0 Ks Kc
+shrader   934090414  9  7 c   kf    -     -          480   10    0 
+shrader   934090464  8  5 c   k     b     k          470   30   80 9s Ts
+shrader   934090502  9  4 f   -     -     -          520    0    0 
+shrader   934090536  9  3 c   kf    -     -          520   10    0 
+shrader   934090588  9  2 Bk  k     f     -          510   10    0 
+shrader   934090607  9  1 Bf  -     -     -          500    5    0 
+shrader   934090630  9  9 c   c     c     f          495   40    0 
+shrader   934090681  9  8 f   -     -     -          455    0    0 
+shrader   934090717  9  7 f   -     -     -          455    0    0 
+shrader   934090758  9  6 f   -     -     -          455    0    0 
+shrader   934090818  8  5 cc  kcc   kf    -          455   50    0 
+shrader   934090865  8  4 cc  kc    k     b          405   50    0 Ts 7s
+shrader   934090921 10  3 c   f     -     -          355   10    0 
+shrader   934090965  9  2 Bk  c     f     -          345   20    0 
+shrader   934091016  9  1 Bf  -     -     -          325    5    0 
+shrader   934091037  9  9 c   c     k     k          320   20    0 6h 6d
+shrader   934091083  9  8 f   -     -     -          300    0    0 
+shrader   934091132  8  6 f   -     -     -          300    0    0 
+shrader   934091172  8  5 c   b     b     b          300   60  150 
+shrader   934091216  8  4 c   kc    k     kf         390   20    0 
+shrader   934091274  8  3 cc  f     -     -          370   20    0 
+shrader   934091305  8  2 Bk  kc    k     bc         350   60    0 Tc 4d
+shrader   934091355  8  1 Bc  kc    kc    kc         290   60    0 As 9c
+shrader   934091406  8  8 c   c     b     b          230   60  160 
+shrader   934091457  8  7 c   k     c     f          330   30    0 
+shrader   934091505  9  7 c   k     f     -          300   10    0 
+shrader   934091554  9  6 c   kc    kf    -          290   20    0 
+shrader   934091656 10  6 f   -     -     -          270    0    0 
+shrader   934091693 10  7 c   c     c     k          270   40    0 Ah Qd
+shrader   934091741  8  4 cc  kc    kc    kc         230   70    0 Qd 3d
+shrader   934091802  8  3 cc  kc    kf    -          160   30    0 
+shrader   934091854  8  2 Bk  k     k     k          130   10    0 3d 6d
+shrader   934091899  8  1 Bf  -     -     -          120    5    0 
+shrader   934091969  8  8 c   c     r     k          115   80  175 8s Ad
+shrader   934092025  9  8 f   -     -     -          210    0    0 
+shrader   934092055  7  5 cc  kc    kf    -          210   30    0 
+shrader   934092075  7  4 c   c     k     b          180   50  145 Ah 8d
+shrader   934092103  7  3 cc  f     -     -          275   20    0 
+shrader   934092164  7  2 B   -     -     -          255   10   15 
+shrader   934092175  7  1 Bc  kf    -     -          260   20    0 
+shrader   934092221  7  7 f   -     -     -          240    0    0 
+shrader   934092250  7  6 f   -     -     -          240    0    0 
+shrader   934092277  6  5 f   -     -     -          240    0    0 
+shrader   934092317  6  4 f   -     -     -          240    0    0 
+shrader   934092349  6  3 f   -     -     -          240    0    0 
+shrader   934092396  6  2 Bk  b     bc    br         240  120  270 5h Tc
+shrader   934092426  6  1 Bc  k     k     k          390   10    0 4s 6s
+shrader   934092460  6  6 cc  c     f     -          380   30    0 
+shrader   934092489  6  5 cc  kf    -     -          350   20    0 
+shrader   934092514  6  4 c   c     f     -          330   20    0 
+shrader   934092543  6  3 cc  c     b     b          310   70  160 Js Qs
+shrader   934092569  6  2 Bk  kc    kf    -          400   20    0 
+shrader   934092596  6  1 Bf  -     -     -          380    5    0 
+shrader   934092629  5  5 f   -     -     -          375    0    0 
+shrader   934092672  5  4 c   c     f     -          375   20    0 
+shrader   934092692  5  3 c   c     c     c          355   60    0 Tc 9d
+shrader   934092718  5  2 Bk  b     -     -          295   20   30 
+shrader   934092731  5  1 Bc  kf    -     -          305   10    0 
+shrader   934092765  6  5 f   -     -     -          295    0    0 
+shrader   934092815  6  4 c   r     b     b          295   70  190 Kd Qs
+shrader   934092923  8  3 cf  -     -     -          415   10    0 
+shrader   934092971  8  2 Bk  kf    -     -          405   10    0 
+shrader   934092996  8  1 Bf  -     -     -          395    5    0 
+shrader   934093054  8  8 f   -     -     -          390    0    0 
+shrader   934093131  9  8 f   -     -     -          390    0    0 
+shrader   934093179  9  7 f   -     -     -          390    0    0 
+shrader   934093216  9  6 c   k     k     k          390   10    0 Ts Qc
+shrader   934093244  9  5 f   -     -     -          380    0    0 
+shrader   934093319  9  4 f   -     -     -          380    0    0 
+shrader   934093404  9  3 c   f     -     -          380   10    0 
+shrader   934093434  9  2 Bf  -     -     -          370   10    0 
+shrader   934093471 10  1 Bf  -     -     -          360    5    0 
+shrader   934093523 10 10 c   k     b     r          355   70  130 
+shrader   934093566 10  9 c   b     b     b          415   60  190 Ks Td
+shrader   934093610 10  8 f   -     -     -          545    0    0 
+shrader   934093639 10  7 f   -     -     -          545    0    0 
+shrader   934093677 10  7 f   -     -     -          545    0    0 
+shrader   934093724  9  5 f   -     -     -          545    0    0 
+shrader   934093749  9  4 f   -     -     -          545    0    0 
+shrader   934093785  9  3 f   -     -     -          545    0    0 
+shrader   934093820  9  2 Bf  -     -     -          545   10    0 
+shrader   934093865  8  1 Bc  k     b     b          535   50  110 As 7d
+shrader   934093902  8  8 c   f     -     -          595   20    0 
+shrader   934093940  8  7 f   -     -     -          575    0    0 
+shrader   934093981  8  6 f   -     -     -          575    0    0 
+shrader   934094005  8  5 f   -     -     -          575    0    0 
+shrader   934094029  8  4 f   -     -     -          575    0    0 
+shrader   934094079  8  3 f   -     -     -          575    0    0 
+shrader   934094102  8  2 Bf  -     -     -          575   10    0 
+shrader   934094135  7  1 Bf  -     -     -          565    5    0 
+shrader   934094164  8  7 f   -     -     -          560    0    0 
+shrader   934094199  8  6 cc  k     kf    -          560   20    0 
+shrader   934094232  8  5 c   c     c     k          540   40  135 9d Ad
+shrader   934094307  7  4 f   -     -     -          635    0    0 
+shrader   934094349  7  3 f   -     -     -          635    0    0 
+shrader   934094380  7  2 Bf  -     -     -          635   10    0 
+shrader   934094410  7  1 Bf  -     -     -          625    5    0 
+shrader   934094443  7  7 f   -     -     -          620    0    0 
+shrader   934094474  7  6 f   -     -     -          620    0    0 
+shrader   934094510  7  5 cc  kf    -     -          620   20    0 
+shrader   934094544  7  4 f   -     -     -          600    0    0 
+shrader   934094590  7  3 f   -     -     -          600    0    0 
+shrader   934094620  7  2 Bf  -     -     -          600   10    0 
+shrader   934094639  7  1 Bf  -     -     -          590    5    0 
+shrader   934094666  6  6 f   -     -     -          585    0    0 
+shrader   934094714  7  5 c   c     k     c          585   40  120 Td Kd
+shrader   934094750  6  4 ccc c     f     -          665   50    0 
+shrader   934094794  6  3 cc  f     -     -          615   20    0 
+shrader   934094837  6  2 Bc  kf    -     -          595   20    0 
+shrader   934094864  7  1 Bc  kf    -     -          575   20    0 
+shrader   934094894  7  7 c   f     -     -          555   10    0 
+shrader   934094930  7  6 ccc kc    kf    -          545   50    0 
+shrader   934094977  6  4 ccc kc    c     b          495  100  405 Tc As
+shrader   934095041  7  3 c   cc    kc    kc         800   70    0 As Qs
+shrader   934095087  7  2 Bk  kc    kf    -          730   20    0 
+shrader   934095145  6  1 Bf  -     -     -          710    5    0 
+shrader   934095169  7  7 f   -     -     -          705    0    0 
+shrader   934095202  7  6 f   -     -     -          705    0    0 
+shrader   934095227  7  5 c   f     -     -          705   10    0 
+shrader   934095282  7  4 f   -     -     -          695    0    0 
+shrader   934095313  7  3 f   -     -     -          695    0    0 
+shrader   934095366  8  2 Bk  k     kf    -          695   10    0 
+shrader   934095409 10  1 Bf  -     -     -          685    5    0 
+shrader   934095442 10 10 c   k     f     -          680   10    0 
+shrader   934095505 10  9 f   -     -     -          670    0    0 
+shrader   934095593 10  8 f   -     -     -          670    0    0 
+shrader   934095656  9  6 f   -     -     -          670    0    0 
+shrader   934095700  9  6 f   -     -     -          670    0    0 
+shrader   934095783  9  5 f   -     -     -          670    0    0 
+shrader   934095896 10  4 cc  k     k     f          670   20    0 
+shrader   934095977  8  1 Bk  kc    kf    -          650   20    0 
+shrader   934096070  7  1 Bc  kf    -     -          630   10    0 
+shrader   934096130  7  7 cc  f     -     -          620   30    0 
+shrader   934096200  7  6 c   c     f     -          590   20    0 
+shrader   934096259  7  5 f   -     -     -          570    0    0 
+shrader   934096321  7  4 f   -     -     -          570    0    0 
+shrader   934096389  7  3 fQ  -     -     -          570    0    0 
+shrader   934096537  7  4 f   -     -     -          570    0    0 
+shrader   934096604  7  3 f   -     -     -          570    0    0 
+shrader   934096668  7  2 Bf  -     -     -          570   10    0 
+shrader   934096754  7  1 Bc  kc    kc    bc         560   90    0 Qh Jd
+shrader   934096881  7  7 c   f     -     -          470   20    0 
+shrader   934097018  7  6 f   -     -     -          450    0    0 
+shrader   934097064  8  5 f   -     -     -          450    0    0 
+shrader   934097159  9  4 f   -     -     -          450    0    0 
+shrader   934097225 10  3 cc  f     -     -          450   40    0 
+shrader   934097314  9  2 Bc  b     b     b          410   70  240 Tc 8c
+shrader   934097380  7  1 Bc  kccc  brc   kc         580  160    0 Ks 8s
+shrader   934097479  7  7 f   -     -     -          420    0    0 
+shrader   934097547  6  6 c   c     c     r          420   90  235 6c 4c
+shrader   934097583  7  6 f   -     -     -          565    0    0 
+shrader   934097651  7  5 cc  kf    -     -          565   20    0 
+shrader   934097700  8  4 f   -     -     -          545    0    0 
+shrader   934097758  8  3 c   k     kf    -          545   10    0 
+shrader   934097879  8  2 Bk  br    b     b          535   80  180 
+shrader   934097928  8  1 Bc  k     kf    -          635   10    0 
+shrader   934097993  5  5 cc  c     f     -          625   30    0 
+shrader   934098024  5  4 f   -     -     -          595    0    0 
+shrader   934098040  5  4 f   -     -     -          595    0    0 
+shrader   934098082  6  3 cc  kf    -     -          595   20    0 
+shrader   934098139  5  2 Bk  b     -     -          575   20   40 
+shrader   934098159  5  1 Bf  -     -     -          595    5    0 
+shrader   934098210  5  5 cc  c     c     f          590   60    0 
+shrader   934098250  4  4 c   k     r     br         530  110  230 Qs 4s
+shrader   934098284  4  3 c   f     -     -          650   10    0 
+shrader   934098314  5  2 Bcc f     -     -          640   40    0 
+shrader   934098353  6  1 Bf  -     -     -          600    5    0 
+shrader   934098389  6  6 f   -     -     -          595    0    0 
+shrader   934098444  7  6 f   -     -     -          595    0    0 
+shrader   934098473  7  5 cc  c     c     c          595   90    0 5c 5d
+shrader   934098506  7  4 cc  f     -     -          505   20    0 
+shrader   934098600  5  3 cc  k     f     -          485   30    0 
+shrader   934098639  6  2 Bk  kf    -     -          455   10    0 
+shrader   934098683  7  1 Bc  kc    kf    -          445   40    0 
+shrader   934098734  7  7 f   -     -     -          405    0    0 
+shrader   934098773  8  7 cc  c     f     -          405   50    0 
+shrader   934098808  8  6 f   -     -     -          355    0    0 
+shrader   934098866  8  5 cc  kf    -     -          355   20    0 
+shrader   934098907  9  4 f   -     -     -          335    0    0 
+shrader   934098951  6  2 Bf  -     -     -          335   10    0 
+shrader   934098997  8  1 Bc  kc    kc    k          325   50    0 9c 2c
+shrader   934099056  8  8 f   -     -     -          275    0    0 
+shrader   934099107  8  7 c   c     f     -          275   20    0 
+shrader   934099160  9  7 f   -     -     -          255    0    0 
+shrader   934099188  9  6 f   -     -     -          255    0    0 
+shrader   934099234 10  6 f   -     -     -          255    0    0 
+shrader   934099319  8  3 f   -     -     -          255    0    0 
+shrader   934099392  8  3 cc  bc    cc    kc         255  100    0 Kd Kh
+shrader   934099453  8  2 Bk  k     k     k          155   10    0 9s 7d
+shrader   934099482  8  1 Bc  kf    -     -          145   20    0 
+shrader   934099510  8  8 cc  c     c     c          125   90    0 Ks 8d
+shrader   934099547  8  7 c   f     -     -           35   20    0 
+shrader   934099573  8  6 f   -     -     -           15    0    0 
+shrader   934099603  8  5 f   -     -     -           15    0    0 
+shrader   934099646  9  5 f   -     -     -           15    0    0 
+shrader   934099693  9  4 f   -     -     -           15    0    0 
+shrader   934099724  9  3 f   -     -     -           15    0    0 
+shrader   934099757  9  2 Bk  k     kcA   -           15   15    0 6c 5h
+shrader   935129570  9  5 f   -     -     -         1000    0    0 
+shrader   935129627  9  4 f   -     -     -         1000    0    0 
+shrader   935129712  9  3 f   -     -     -         1000    0    0 
+shrader   935129830 10  2 Bf  -     -     -         1000   10    0 
+shrader   935129900 10  1 Bf  -     -     -          990    5    0 
+shrader   935129975  9  9 cc  f     -     -          985   20    0 
+shrader   935130047 10  9 f   -     -     -          965    0    0 
+shrader   935130058 10  8 f   -     -     -          965    0    0 
+shrader   935130081  9  6 cc  k     f     -          965   40    0 
+shrader   935130113 10  6 f   -     -     -          925    0    0 
+shrader   935130200 10  5 f   -     -     -          925    0    0 
+shrader   935130303  9  4 f   -     -     -          925    0    0 
+shrader   935130403  9  3 f   -     -     -          925    0    0 
+shrader   935130499  8  2 Bk  kc    kc    b          925   60  145 4c 9c
+shrader   935130559  8  1 Bc  kf    -     -         1010   20    0 
+shrader   935130638  8  8 f   -     -     -          990    0    0 
+shrader   935130696  8  7 f   -     -     -          990    0    0 
+shrader   935130740  8  6 c   c     f     -          990   20    0 
+shrader   935130819  8  5 c   k     kf    -          970   10    0 
+shrader   935130898  8  4 c   f     -     -          960   10    0 
+shrader   935130947 10  3 cc  kf    -     -          950   20    0 
+shrader   935131048 10  2 Bc  kc    kc    br         930  110  275 9c Qs
+shrader   935131122  9  1 Bf  -     -     -         1095    5    0 
+shrader   935131226 10 10 cc  f     -     -         1090   20    0 
+shrader   935131301 10  9 f   -     -     -         1070    0    0 
+shrader   935131366  9  7 f   -     -     -         1070    0    0 
+shrader   935131424 10  7 cc  cc    cc    kc        1070  120    0 Kh 7h
+shrader   935131585  9  5 f   -     -     -          950    0    0 
+shrader   935131626  9  5 c   kc    kf    -          950   20    0 
+shrader   935131679  9  4 f   -     -     -          930    0    0 
+shrader   935131748  9  3 f   -     -     -          930    0    0 
+shrader   935131770  9  2 Bc  kc    kc    kc         930   70  175 Td Ts
+shrader   935131821  9  1 Bcc kf    -     -         1035   20    0 
+shrader   935131887  9  9 rr  c     r     r         1015  130  270 Kc As
+shrader   935131942  9  8 f   -     -     -         1155    0    0 
+shrader   935132021  9  7 cc  bc    kc    kc        1155   80  205 Td Kh
+shrader   935132102  9  6 cc  cc    br    b         1280  140  450 4d 8d
+shrader   935132196  8  5 cc  cc    c     brc       1590  150    0 Kh Qd
+shrader   935132329  8  4 f   -     -     -         1440    0    0 
+shrader   935132385  8  3 f   -     -     -         1440    0    0 
+shrader   935132398  8  2 Bc  kc    kc    br        1440  110    0 7h 2h
+shrader   935132446  7  1 Bc  k     b     -         1330   40   90 
+shrader   935132491  7  7 f   -     -     -         1380    0    0 
+shrader   935132515  7  6 cc  k     kc    kf        1380   40    0 
+shrader   935132572  7  5 c   kc    k     k         1340   20    0 Jh 8h
+shrader   935132620  7  4 f   -     -     -         1320    0    0 
+shrader   935132687  7  3 f   -     -     -         1320    0    0 
+shrader   935132719  6  2 Bf  -     -     -         1320   10    0 
+shrader   935132750  6  1 Bf  -     -     -         1310    5    0 
+shrader   935132787  5  5 f   -     -     -         1305    0    0 
+shrader   935132804  4  3 f   -     -     -         1305    0    0 
+shrader   935132813  3  1 Bk  kc    b     -         1305   40   70 
+shrader   935132847  3  1 Bf  -     -     -         1335    5    0 
+shrader   935132873  3  3 c   b     -     -         1330   20   40 
+shrader   935132886  3  2 Bc  kf    -     -         1350   20    0 
+shrader   935132901  3  1 Bcc k     k     k         1330   20   40 2h 9d
+shrader   935132927  3  3 c   k     k     b         1350   30   50 
+shrader   935132958  3  2 Bc  k     b     b         1370   60  105 
+shrader   935132990  3  1 Bcc kc    b     b         1415   90  230 Qh Jh
+shrader   935133022  3  3 c   c     c     k         1555   40    0 2c Tc
+shrader   935133044  3  2 Bk  k     b     -         1515   30   50 
+shrader   935133076  3  1 Bc  k     k     k         1535   10    0 Js 4s
+shrader   935133103  3  3 c   k     k     k         1525   10   30 Kc 8d
+shrader   935133125  3  2 B   -     -     -         1545   10   15 
+shrader   935133138  3  1 Bc  bc    kc    kc        1550   70  150 Ks Qh
+shrader   935133175  3  3 c   b     -     -         1630   20   35 
+shrader   935133190  3  2 Bk  c     c     b         1645   60  100 
+shrader   935133212  3  1 Bf  -     -     -         1685    5    0 
+shrader   935133233  3  3 cc  c     c     r         1680   90  210 Qh 4h
+shrader   935133277  3  2 Bk  k     b     b         1800   50    0 Ks 5s
+shrader   935133308  2  1 Bc  b     -     -         1750   20   30 
+shrader   935819652 10  2 Bf  -     -     -         4196   10    0 
+shrader   935819748  9  1 Bc  b     b     b         4186   60    0 Th Jd
+shrader   935819772 10 10 c   k     k     k         4126   10    0 Ks 4s
+shrader   935819799  9  8 c   c     k     k         4116   20   80 Ad Td
+shrader   935819847  8  6 f   -     -     -         4176    0    0 
+shrader   935819868  8  5 cc  k     k     k         4176   20    0 Jh 9s
+shrader   935819905  8  4 f   -     -     -         4156    0    0 
+shrader   935819978  7  3 f   -     -     -         4156    0    0 
+shrader   935820005  7  2 Bk  kf    -     -         4156   10    0 
+shrader   935820058  6  1 Bc  kc    kc    k         4146   40   80 Qd 9d
+shrader   935820086  6  6 f   -     -     -         4186    0    0 
+shrader   935820121  6  5 f   -     -     -         4186    0    0 
+shrader   935820152  6  4 c   c     f     -         4186   20    0 
+shrader   935820180  6  3 cc  kc    b     -         4166   50   95 
+shrader   935820195  6  2 Bk  kf    -     -         4211   10    0 
+shrader   935820245  6  1 Bc  kf    -     -         4201   20    0 
+shrader   935820260  6  6 c   f     -     -         4181   20    0 
+shrader   935820287  6  5 f   -     -     -         4161    0    0 
+shrader   935820311  6  4 f   -     -     -         4161    0    0 
+shrader   935820379  7  3 cc  f     -     -         4161   20    0 
+shrader   935820402  7  2 Bf  -     -     -         4141   10    0 
+shrader   935820411  7  1 Bf  -     -     -         4131    5    0 
+shrader   935820460  8  8 f   -     -     -         4126    0    0 
+shrader   935820506  8  7 cc  kf    -     -         4126   30    0 
+shrader   935820536  8  6 c   f     -     -         4096   20    0 
+shrader   935820557  8  5 c   kc    k     k         4076   20    0 5c 5d
+shrader   935820649  9  5 c   bc    b     b         4056   70  170 Tc Kd
+shrader   935820698 10  4 f   -     -     -         4156    0    0 
+shrader   935820734 10  3 f   -     -     -         4156    0    0 
+shrader   935820764 10  2 Bc  kc    k     k         4156   30   65 5d 5h
+shrader   935820788 10  1 Bc  brc   bc    b         4191  120    0 Kh Ks
+shrader   935820825 10 10 c   f     -     -         4071   20    0 
+shrader   935820860 10  9 c   c     c     f         4051   50    0 
+shrader   935820903 10  8 f   -     -     -         4001    0    0 
+shrader   935820963 10  7 f   -     -     -         4001    0    0 
+shrader   935821015 10  6 r   k     b     k         4001   40  110 Kh Ah
+shrader   935821067 10  5 f   -     -     -         4071    0    0 
+shrader   935821088 10  4 c   k     bc    kc        4071   70  170 Ad Qc
+shrader   935821189 10  3 f   -     -     -         4171    0    0 
+shrader   935821227 10  2 Bf  -     -     -         4171   10    0 
+shrader   935821260  9  1 Bf  -     -     -         4161    5    0 
+shrader   935821274  9  9 c   c     c     f         4156   50    0 
+shrader   935821314  8  7 c   cc    c     b         4106   80  175 
+shrader   935821368  8  6 f   -     -     -         4201    0    0 
+shrader   935821387  8  5 f   -     -     -         4201    0    0 
+shrader   935821413  7  3 cc  f     -     -         4201   20    0 
+shrader   935821447  8  2 Bf  -     -     -         4181   10    0 
+shrader   935821486  8  1 Bc  kc    k     k         4171   20   50 3d Td
+shrader   935821525  8  8 c   c     c     r         4201   90  195 7d 9d
+shrader   935821550  9  8 r   -     -     -         4306   20   35 
+shrader   935821565  9  7 c   c     c     c         4321   70    0 9c Kd
+shrader   935821599  9  6 f   -     -     -         4251    0    0 
+shrader   935821609  9  5 c   kf    -     -         4251   10    0 
+shrader   935821657  8  4 c   f     -     -         4241   10    0 
+shrader   935821674  9  3 f   -     -     -         4231    0    0 
+shrader   935821698  8  2 Bc  kc    kc    k         4231   50    0 Kh 6h
+shrader   935821722  8  1 Bf  -     -     -         4181    5    0 
+shrader   935821780  8  8 c   c     f     -         4176   30    0 
+shrader   935821807  9  8 c   f     -     -         4146   20    0 
+shrader   935821864  9  7 c   c     f     -         4126   20    0 
+shrader   935821889  9  6 cc  c     c     f         4106   50    0 
+shrader   935821915  8  4 cc  kc    kc    b         4056   70  130 
+shrader   935821966  9  4 f   -     -     -         4116    0    0 
+shrader   935822014  9  3 f   -     -     -         4116    0    0 
+shrader   935822045  8  2 Bf  -     -     -         4116   10    0 
+shrader   935822062  8  1 Bf  -     -     -         4106    5    0 
+shrader   935822084  8  8 f   -     -     -         4101    0    0 
+shrader   935822119  8  7 cc  kf    -     -         4101   20    0 
+shrader   935822162  8  6 c   c     k     k         4081   30    0 Ac 9h
+shrader   935822196  6  4 cc  f     -     -         4051   20    0 
+shrader   935822226  4  2 Bk  b     -     -         4031   20   30 
+shrader   935822239  5  1 Bc  kf    -     -         4041   10    0 
+shrader   935822257  5  5 c   b     -     -         4031   20   50 
+shrader   935822277  5  4 c   b     k     c         4061   40    0 Qh 6h
+shrader   935822305  5  3 c   k     b     b         4021   50  130 6h As
+shrader   935822343  7  2 Bk  k     f     -         4101   10    0 
+shrader   935822385  9  1 Bf  -     -     -         4091    5    0 
+shrader   935822445 10  9 cc  c     c     c         4086   90  245 7h As
+shrader   935822481 10  8 c   kf    -     -         4241   20    0 
+shrader   935822530 10  7 f   -     -     -         4221    0    0 
+shrader   935822584 10  6 f   -     -     -         4221    0    0 
+shrader   935822616 10  5 ccc kc    f     -         4221   50    0 
+shrader   935822687 10  4 f   -     -     -         4171    0    0 
+shrader   935822742 10  3 f   -     -     -         4171    0    0 
+shrader   935822797 10  2 Bk  kc    kc    kf        4171   40    0 
+shrader   935822841 10  1 Bc  k     k     bc        4131   50    0 Ah 3d
+shrader   935822881 10 10 f   -     -     -         4081    0    0 
+shrader   935822938 10  9 f   -     -     -         4081    0    0 
+shrader   935822979 10  8 f   -     -     -         4081    0    0 
+shrader   935822994 10  7 cc  cc    c     k         4081   90  315 5s As
+shrader   935823045 10  6 f   -     -     -         4306    0    0 
+shrader   935823080 10  5 f   -     -     -         4306    0    0 
+shrader   935823135 10  4 f   -     -     -         4306    0    0 
+shrader   935823203 10  3 f   -     -     -         4306    0    0 
+shrader   935823277 10  2 Bf  -     -     -         4306   10    0 
+shrader   935823448 10  1 Bf  -     -     -         4296    5    0 
+shrader   935823534 10 10 f   -     -     -         4291    0    0 
+shrader   935823585 10  9 c   c     f     -         4291   30    0 
+shrader   935823644 10  8 f   -     -     -         4261    0    0 
+shrader   935823685 10  7 f   -     -     -         4261    0    0 
+shrader   935823705 10  6 c   cc    c     c         4261   80  270 8d Ah
+shrader   935823753 10  5 f   -     -     -         4451    0    0 
+shrader   935823791 10  4 f   -     -     -         4451    0    0 
+shrader   935823814 10  3 f   -     -     -         4451    0    0 
+shrader   935823847 10  2 Bk  f     -     -         4451   10    0 
+shrader   935823893 10  1 Bc  kf    -     -         4441   10    0 
+shrader   935823952 10 10 c   k     b     -         4431   30   45 
+shrader   935823982 10  9 f   -     -     -         4446    0    0 
+shrader   935823995 10  8 f   -     -     -         4446    0    0 
+shrader   935824023 10  7 f   -     -     -         4446    0    0 
+shrader   935824095  9  5 f   -     -     -         4446    0    0 
+shrader   935824119  9  4 c   f     -     -         4446   20    0 
+shrader   935824142  9  3 f   -     -     -         4426    0    0 
+shrader   935824181 10  2 Bf  -     -     -         4426   10    0 
+shrader   935824248 10  1 Bc  kc    k     k         4416   20    0 Kc As
+shrader   935824307 10 10 f   -     -     -         4396    0    0 
+shrader   935824365 10  9 cc  f     -     -         4396   20    0 
+shrader   935824415 10  8 c   b     -     -         4376   30   65 
+shrader   935824476 10  7 c   c     f     -         4411   20    0 
+shrader   935824541 10  6 f   -     -     -         4391    0    0 
+shrader   935824619 10  5 f   -     -     -         4391    0    0 
+shrader   935824645 10  4 f   -     -     -         4391    0    0 
+shrader   935824711 10  3 f   -     -     -         4391    0    0 
+shrader   935824764 10  2 Bf  -     -     -         4391   10    0 
+shrader   935824787 10  1 Bf  -     -     -         4381    5    0 
+shrader   935824814 10 10 f   -     -     -         4376    0    0 
+shrader   935824853 10  9 f   -     -     -         4376    0    0 
+shrader   935824924 10  8 c   b     b     b         4376   60    0 3d 5d
+shrader   935824961 10  7 c   b     b     b         4316   60  130 Kc 9c
+shrader   935824996 10  6 f   -     -     -         4386    0    0 
+shrader   935825042 10  5 c   kf    -     -         4386   10    0 
+shrader   935825078 10  4 c   b     -     -         4376   20   40 
+shrader   935825160 10  3 cc  kf    -     -         4396   20    0 
+shrader   935825205  9  2 Bk  k     k     f         4376   10    0 
+shrader   935825251  8  1 Bc  kc    kc    kf        4366   40    0 
+shrader   935825299  8  8 c   c     c     b         4326   70  245 Qd 3d
+shrader   935825333  9  7 f   -     -     -         4501    0    0 
+shrader   935825398 10  7 c   k     cc    kf        4501   50    0 
+shrader   935825444 10  6 c   f     -     -         4451   20    0 
+shrader   935825461 10  5 cc  f     -     -         4431   20    0 
+shrader   935825498 10  4 f   -     -     -         4411    0    0 
+shrader   935825533  9  2 c   bc    bc    bc        4411  110    0 Qd Ah
+shrader   935825572  9  2 Bc  k     kf    -         4301   20    0 
+shrader   935825606 10  1 Bf  -     -     -         4281    5    0 
+shrader   935825623 10 10 c   cc    r     b         4276  120  480 Qc Tc
+shrader   935825687 10  9 c   f     -     -         4636   20    0 
+shrader   935825724  9  8 c   f     -     -         4616   20    0 
+shrader   935825759  9  7 c   k     k     k         4596   20   55 6d Ah
+shrader   935825839  9  6 f   -     -     -         4631    0    0 
+shrader   935825867  7  4 cc  kf    -     -         4631   20    0 
+shrader   935825889  7  3 cc  kf    -     -         4611   20    0 
+shrader   935825929  7  2 Bc  kc    bc    kc        4591   90  185 Ks Kh
+shrader   935825959  7  1 Bc  k     k     kf        4686   10    0 
+shrader   935825986  7  7 c   c     c     k         4676   50    0 Ts Kd
+shrader   935826017  7  6 f   -     -     -         4626    0    0 
+shrader   935826071  6  4 f   -     -     -         4626    0    0 
+shrader   935826082  6  3 f   -     -     -         4626    0    0 
+shrader   935826096  6  2 Bc  kcc   kc    k         4626   70    0 2s Qs
+shrader   935826134  6  1 Bc  kc    kc    kc        4556   60    0 Kd Jc
+shrader   935826161  6  6 c   c     c     c         4496   70  170 Ah Ad
+shrader   935826199  6  5 f   -     -     -         4596    0    0 
+shrader   935826247  7  5 c   b     -     -         4596   20   40 
+shrader   935826271  7  4 f   -     -     -         4616    0    0 
+shrader   935826285  7  3 f   -     -     -         4616    0    0 
+shrader   935826295  7  2 Bc  kf    -     -         4616   30    0 
+shrader   935826317  7  1 Bf  -     -     -         4586    5    0 
+shrader   935826334  8  8 c   c     c     f         4581   50    0 
+shrader   935826381  8  7 f   -     -     -         4531    0    0 
+shrader   935826397  8  6 c   k     c     k         4531   30   65 Ts Ks
+shrader   935826416  8  5 f   -     -     -         4566    0    0 
+shrader   935826476  8  4 cc  kc    kc    k         4566   50  130 Ad Js
+shrader   935826510  8  3 f   -     -     -         4646    0    0 
+shrader   935826541  8  2 Bc  kc    kf    -         4646   30    0 
+shrader   935826561  8  1 Bc  kf    -     -         4616   10    0 
+shrader   935826595  8  8 c   k     c     k         4606   30   75 8c 8d
+shrader   935826613  8  7 f   -     -     -         4651    0    0 
+shrader   935826657  8  6 f   -     -     -         4651    0    0 
+shrader   935826668  8  5 cc  c     c     f         4651   60    0 
+shrader   935826712  8  4 c   c     c     k         4591   40   85 9h Ah
+shrader   935826736  8  3 f   -     -     -         4636    0    0 
+shrader   935826796  9  3 c   c     c     c         4636   60    0 5d Qd
+shrader   935826814  9  2 Bk  k     c     c         4576   50    0 Ad 2s
+shrader   935826846  8  1 Bf  -     -     -         4526    5    0 
+shrader   935826889  8  8 c   c     c     k         4521   60  175 2s Js
+shrader   935826938  9  8 c   k     k     k         4636   10   35 Qd Kc
+shrader   935826978 10  7 f   -     -     -         4661    0    0 
+shrader   935827041 10  6 cc  f     -     -         4661   30    0 
+shrader   935827073  9  5 c   b     b     b         4631   60  205 Tc As
+shrader   935827162  9  4 f   -     -     -         4776    0    0 
+shrader   935827212 10  3 f   -     -     -         4776    0    0 
+shrader   935827251 10  2 Bf  -     -     -         4776   10    0 
+shrader   935827291 10  1 Bc  kc    kc    kf        4766   50    0 
+shrader   935827385 10 10 c   f     -     -         4716   20    0 
+shrader   935827488 10  9 f   -     -     -         4696    0    0 
+shrader   935827520 10  8 f   -     -     -         4696    0    0 
+shrader   935827545 10  7 f   -     -     -         4696    0    0 
+shrader   935827599 10  6 c   cc    c     c         4696   90    0 Qh Ah
+shrader   935827660 10  5 c   cc    kf    -         4606   30    0 
+shrader   935827736 10  4 c   f     -     -         4576   10    0 
+shrader   935827798 10  3 f   -     -     -         4566    0    0 
+shrader   935827855 10  2 Bk  k     k     b         4566   30    0 Kh 7c
+shrader   935827900 10  1 Bf  -     -     -         4536    5    0 
+shrader   935827995 10 10 c   k     c     f         4531   40    0 
+shrader   935828055 10  9 f   -     -     -         4491    0    0 
+shrader   935828084  9  7 c   f     -     -         4491   10    0 
+shrader   935828122  9  6 f   -     -     -         4481    0    0 
+shrader   935828170  9  5 f   -     -     -         4481    0    0 
+shrader   935828218  9  4 c   f     -     -         4481   10    0 
+shrader   935828272  9  3 f   -     -     -         4471    0    0 
+shrader   935828309  9  2 Bc  k     k     kf        4471   20    0 
+shrader   935828335  9  1 Bf  -     -     -         4451    5    0 
+shrader   935828388 10 10 c   f     -     -         4446   20    0 
+shrader   935828414 10  9 c   kc    kc    b         4426   60  195 Jc 7c
+shrader   935828465 10  8 c   k     f     -         4561   20    0 
+shrader   935828497  9  6 f   -     -     -         4541    0    0 
+shrader   935828530  9  5 f   -     -     -         4541    0    0 
+shrader   935828546  9  4 cc  f     -     -         4541   30    0 
+shrader   935828593 10  4 cc  c     c     f         4511   60    0 
+shrader   935828629  9  3 f   -     -     -         4451    0    0 
+shrader   935828654  9  2 Bc  kc    kc    kc        4451   70    0 4c 7c
+shrader   935828675  9  1 Bf  -     -     -         4381    5    0 
+shrader   935828694  9  9 f   -     -     -         4376    0    0 
+shrader   935828712  9  8 f   -     -     -         4376    0    0 
+shrader   935828741  9  7 c   f     -     -         4376   10    0 
+shrader   935828842  7  5 cc  c     cc    k         4366   80    0 6h As
+shrader   935828876  8  4 f   -     -     -         4286    0    0 
+shrader   935828902  8  3 cc  kf    -     -         4286   20    0 
+shrader   935828937  8  2 Bk  k     k     k         4266   10    0 7s 8s
+shrader   935828957  8  1 Bc  k     kf    -         4256   20    0 
+shrader   935828984  8  8 f   -     -     -         4236    0    0 
+shrader   935829001  8  7 f   -     -     -         4236    0    0 
+shrader   935829013  8  6 f   -     -     -         4236    0    0 
+shrader   935829022  8  5 f   -     -     -         4236    0    0 
+shrader   935829040  8  4 f   -     -     -         4236    0    0 
+shrader   935829059  8  3 c   b     b     kc        4236   60  280 5c Kc
+shrader   935829103  8  2 Bf  -     -     -         4456   10    0 
+shrader   935829127  8  1 Bf  -     -     -         4446    5    0 
+shrader   935829136  8  8 f   -     -     -         4441    0    0 
+shrader   935829152  8  7 f   -     -     -         4441    0    0 
+shrader   935829171  9  7 f   -     -     -         4441    0    0 
+shrader   935829204 10  7 f   -     -     -         4441    0    0 
+shrader   935829230 10  6 f   -     -     -         4441    0    0 
+shrader   935829257 10  5 cc  kc    kf    -         4441   30    0 
+shrader   935829275 10  4 f   -     -     -         4411    0    0 
+shrader   935829319  9  2 Bk  b     b     bc        4411   80    0 As Ac
+shrader   935829362  9  1 Bf  -     -     -         4331    5    0 
+shrader   935829403  9  9 c   k     f     -         4326   10    0 
+shrader   935829446  9  8 c   c     b     b         4316   70  230 8s As
+shrader   935829488  9  7 c   k     kf    -         4476   10    0 
+shrader   935829556 10  7 cc  f     -     -         4466   40    0 
+shrader   935829626 10  6 c   k     k     f         4426   10    0 
+shrader   935829686 10  5 f   -     -     -         4416    0    0 
+shrader   935829729 10  4 fQ  -     -     -         4416    0    0 

@@ -1,0 +1,224 @@
+TruPower  945372951  9  9 f   -     -     -         1000    0    0 
+TruPower  945373037  9  8 c   f     -     -         1000   10    0 
+TruPower  945373093  8  6 f   -     -     -          990    0    0 
+TruPower  945373150  9  6 c   k     b     -          990   30   50 
+TruPower  945373240  8  5 f   -     -     -         1010    0    0 
+TruPower  945373333 10  4 f   -     -     -         1010    0    0 
+TruPower  945373386 10  3 f   -     -     -         1010    0    0 
+TruPower  945373458 10  2 Bk  kf    -     -         1010   10    0 
+TruPower  945373528 10  1 Bc  kf    -     -         1000   20    0 
+TruPower  945373603 10 10 f   -     -     -          980    0    0 
+TruPower  945373650 10  9 f   -     -     -          980    0    0 
+TruPower  945373714 10  8 f   -     -     -          980    0    0 
+TruPower  945373762 10  8 f   -     -     -          980    0    0 
+TruPower  945373798  9  6 f   -     -     -          980    0    0 
+TruPower  945373852  9  5 f   -     -     -          980    0    0 
+TruPower  945373914  8  4 cc  k     kf    -          980   20    0 
+TruPower  945373948  8  3 f   -     -     -          960    0    0 
+TruPower  945373967  8  2 Bk  b     brc   kc         960  120    0 Kh Tc
+TruPower  945373998  8  1 Bf  -     -     -          840    5    0 
+TruPower  945374040  8  8 f   -     -     -          835    0    0 
+TruPower  945374095  8  7 f   -     -     -          835    0    0 
+TruPower  945374137  8  6 f   -     -     -          835    0    0 
+TruPower  945374170  8  5 f   -     -     -          835    0    0 
+TruPower  945374211  8  4 f   -     -     -          835    0    0 
+TruPower  945374229  7  2 f   -     -     -          835    0    0 
+TruPower  945374260  7  2 Bc  kc    kc    k          835   50    0 As 3s
+TruPower  945374309  8  1 Bf  -     -     -          785    5    0 
+TruPower  945374336  7  7 f   -     -     -          780    0    0 
+TruPower  945374364  7  6 f   -     -     -          780    0    0 
+TruPower  945374401  7  5 f   -     -     -          780    0    0 
+TruPower  945374442  7  4 f   -     -     -          780    0    0 
+TruPower  945374470  7  3 cc  f     -     -          780   20    0 
+TruPower  945374535  7  2 Bk  k     b     b          760   50  100 
+TruPower  945374571  7  1 Bc  k     k     b          810   30   50 
+TruPower  945374596  7  7 f   -     -     -          830    0    0 
+TruPower  945374628  7  6 f   -     -     -          830    0    0 
+TruPower  945374662  7  5 c   b     -     -          830   20   45 
+TruPower  945374680  6  4 f   -     -     -          855    0    0 
+TruPower  945374685  6  3 f   -     -     -          855    0    0 
+TruPower  945374719  6  2 Bk  b     b     b          855   60    0 Qs 9h
+TruPower  945374747  6  1 Bc  kc    kc    k          795   50    0 Ah 7d
+TruPower  945374786  6  6 f   -     -     -          745    0    0 
+TruPower  945374799  5  4 f   -     -     -          745    0    0 
+TruPower  945374807  5  3 f   -     -     -          745    0    0 
+TruPower  945374828  5  2 Bc  kf    -     -          745   20    0 
+TruPower  945374848  6  1 Bf  -     -     -          725    5    0 
+TruPower  945374861  7  7 f   -     -     -          720    0    0 
+TruPower  945374898  7  6 c   c     r     b          720   80  185 
+TruPower  945374927  7  5 f   -     -     -          825    0    0 
+TruPower  945374952  8  5 f   -     -     -          825    0    0 
+TruPower  945375019  9  5 cc  bc    kc    k          825   60  235 Th Qh
+TruPower  945375071  9  4 f   -     -     -         1000    0    0 
+TruPower  945375100  9  3 f   -     -     -         1000    0    0 
+TruPower  945375128 10  2 Bf  -     -     -         1000   10    0 
+TruPower  945375157 10  1 Bc  b     k     b          990   40    0 8c 8s
+TruPower  945375184 10 10 f   -     -     -          950    0    0 
+TruPower  945375211 10  9 f   -     -     -          950    0    0 
+TruPower  945375238 10  8 f   -     -     -          950    0    0 
+TruPower  945375272 10  7 f   -     -     -          950    0    0 
+TruPower  945375308 10  6 c   b     kc    k          950   40  130 2s Ks
+TruPower  945375352 10  5 f   -     -     -         1040    0    0 
+TruPower  945375381 10  4 f   -     -     -         1040    0    0 
+TruPower  945375432 10  3 f   -     -     -         1040    0    0 
+TruPower  945375478 10  2 Br  k     k     k         1040   20    0 As Th
+TruPower  945375516 10  1 Bc  kf    -     -         1020   10    0 
+TruPower  945375556 10 10 r   b     -     -         1010   30   80 
+TruPower  945375577 10  9 c   c     f     -         1060   30    0 
+TruPower  945375616 10  8 f   -     -     -         1030    0    0 
+TruPower  945375648 10  7 f   -     -     -         1030    0    0 
+TruPower  945375688 10  6 f   -     -     -         1030    0    0 
+TruPower  945375733 10  5 f   -     -     -         1030    0    0 
+TruPower  945375779 10  4 c   kr    b     b         1030   70    0 Tc Jc
+TruPower  945375828 10  3 f   -     -     -          960    0    0 
+TruPower  945375894 10  2 Bf  -     -     -          960   10    0 
+TruPower  945375931 10  1 Bf  -     -     -          950    5    0 
+TruPower  945375942 10 10 f   -     -     -          945    0    0 
+TruPower  945375975 10  9 f   -     -     -          945    0    0 
+TruPower  945376008  9  8 f   -     -     -          945    0    0 
+TruPower  945376066  9  7 f   -     -     -          945    0    0 
+TruPower  945376114  9  6 f   -     -     -          945    0    0 
+TruPower  945376154  9  5 f   -     -     -          945    0    0 
+TruPower  945376173  9  4 f   -     -     -          945    0    0 
+TruPower  945376198  9  3 f   -     -     -          945    0    0 
+TruPower  945376234  9  2 Bf  -     -     -          945   10    0 
+TruPower  945376251  9  1 Bc  krc   kf    -          935   60    0 
+TruPower  945376284  9  9 f   -     -     -          875    0    0 
+TruPower  945376314  8  7 c   b     k     c          875   40    0 Qc 9c
+TruPower  945376344  9  7 f   -     -     -          835    0    0 
+TruPower  945376378  9  6 f   -     -     -          835    0    0 
+TruPower  945376446  9  5 rr  kc    kr    b          835  110  415 
+TruPower  945376510  9  4 f   -     -     -         1140    0    0 
+TruPower  945376576 10  3 f   -     -     -         1140    0    0 
+TruPower  945376642 10  2 Bc  kf    -     -         1140   20    0 
+TruPower  945376690 10  1 Bc  b     b     -         1120   40   90 
+TruPower  945376715 10 10 c   c     c     b         1170   70  185 
+TruPower  945376793 10  9 f   -     -     -         1285    0    0 
+TruPower  945376834 10  8 r   b     -     -         1285   30   65 
+TruPower  945376853 10  7 c   f     -     -         1320   10    0 
+TruPower  945376938  9  5 f   -     -     -         1310    0    0 
+TruPower  945376976 10  4 f   -     -     -         1310    0    0 
+TruPower  945377033 10  3 f   -     -     -         1310    0    0 
+TruPower  945377078 10  2 Bf  -     -     -         1310   10    0 
+TruPower  945377160 10  1 Bf  -     -     -         1300    5    0 
+TruPower  945377203 10 10 f   -     -     -         1295    0    0 
+TruPower  945377274 10  9 f   -     -     -         1295    0    0 
+TruPower  945377321 10  8 c   f     -     -         1295   10    0 
+TruPower  945377379 10  7 f   -     -     -         1285    0    0 
+TruPower  945377419 10  6 f   -     -     -         1285    0    0 
+TruPower  945377549 10  5 f   -     -     -         1285    0    0 
+TruPower  945377631 10  4 f   -     -     -         1285    0    0 
+TruPower  945377668 10  3 f   -     -     Q         1285    0    0 
+TruPower  945402313  4  4 c   f     -     -         1608   10    0 
+TruPower  945402326  4  3 f   -     -     -         1598    0    0 
+TruPower  945402356  4  2 Bk  rr    rf    -         1598   90    0 
+TruPower  945402378  4  1 Bc  b     b     b         1508   60  110 
+TruPower  945402407  4  4 c   k     k     k         1558   10   40 Kh 3c
+TruPower  945402427  5  3 cc  f     -     -         1588   20    0 
+TruPower  945402469  6  2 Bk  kc    kr    bc        1568  100    0 3d 8d
+TruPower  945402513  7  1 Bc  kf    -     -         1468   10    0 
+TruPower  945402586  8  8 c   f     -     -         1458   10    0 
+TruPower  945402684  8  7 f   -     -     -         1448    0    0 
+TruPower  945402744  8  6 f   -     -     -         1428    0    0 
+TruPower  945402811  7  4 f   -     -     -         1428    0    0 
+TruPower  945402928  8  4 f   -     -     -         1578    0    0 
+TruPower  945402982  7  3 r   b     b     b         1578   70  150 
+TruPower  945403020  7  2 Bk  kf    -     -         1658   10    0 
+TruPower  945403063  7  1 Bc  kf    -     -         1648   10    0 
+TruPower  945403115  6  6 c   c     f     -         1638   20    0 
+TruPower  945403174  6  5 r   c     c     c         1618   70  165 Tc Ac
+TruPower  945403220  5  3 c   f     -     -         1713   10    0 
+TruPower  945403245  5  2 Br  b     c     k         1703   60  120 Td 9h
+TruPower  945403268  5  1 Bf  -     -     -         1763    5    0 
+TruPower  945403294  5  5 c   r     f     -         1758   30    0 
+TruPower  945403313  5  4 f   -     -     -         1728    0    0 
+TruPower  945403325  5  3 c   k     k     f         1728   10    0 
+TruPower  945403354  5  2 Bk  k     k     b         1718   30   45 
+TruPower  945403377  5  1 Bf  -     -     -         1733    5    0 
+TruPower  945403404  6  5 f   -     -     -         1728    0    0 
+TruPower  945403440  7  4 f   -     -     -         1728    0    0 
+TruPower  945403507  8  4 f   -     -     -         1728    0    0 
+TruPower  945403526  7  3 f   -     -     -         1728    0    0 
+TruPower  945403566  5  1 Bk  kf    -     -         1728   10    0 
+TruPower  945403587  4  1 Br  b     b     -         1708   50   90 
+TruPower  945403606  4  4 f   -     -     -         1748    0    0 
+TruPower  945403618  4  3 c   k     b     -         1748   30   45 
+TruPower  945403635  4  2 Bc  kr    bf    -         1763   60    0 
+TruPower  945403649  4  1 Bf  -     -     -         1693    5    0 
+TruPower  945403655  3  3 f   -     -     -         1688    0    0 
+TruPower  945403664  3  3 cc  r     f     -         1688   40    0 
+TruPower  945403684  3  2 Bk  f     -     -         1648   10    0 
+TruPower  945403697  3  1 Bc  b     b     b         1638   60  110 
+TruPower  945403717  3  3 c   f     -     -         1688   10    0 
+TruPower  945403728  3  2 B   -     -     -         1678   10   15 
+TruPower  945403731  3  1 Br  kf    -     -         1683   20    0 
+TruPower  945403747  4  3 cc  kf    Q     -         1663   20    0 
+TruPower  945464005  3  3 r   -     -     -         1023   20   35 
+TruPower  945464015  3  2 Bk  b     -     -         1038   20   35 
+TruPower  945464035  4  1 Bc  kc    k     bc        1053   70    0 Kd Js
+TruPower  945464069  5  5 f   -     -     -          983    0    0 
+TruPower  945464112  8  8 Q   -     -     -          983    0    0 
+TruPower  945552484 10  6 r   c     c     f          703   50    0 
+TruPower  945552538 10  5 rc  f     -     -          653   40    0 
+TruPower  945552626 10  4 c   f     -     -          613   10    0 
+TruPower  945552700 10  3 c   kf    -     -          603   10    0 
+TruPower  945552779 10  2 Bk  f     -     -          593   10    0 
+TruPower  945552825 10  1 Bc  kc    kc    kc         583   70    0 Qs 7h
+TruPower  945552866 10 10 c   c     f     -          513   20    0 
+TruPower  945552917 10  9 f   -     -     -          493    0    0 
+TruPower  945552969 10  8 f   -     -     -          493    0    0 
+TruPower  945553038 10  7 c   k     k     f          493   10    0 
+TruPower  945553112 10  6 f   -     -     -          483    0    0 
+TruPower  945553163 10  5 f   -     -     -          483    0    0 
+TruPower  945553244 10  4 f   -     -     -          483    0    0 
+TruPower  945553315  9  3 rr  kc    kr    b          483  110  265 Ts Ks
+TruPower  945553360  9  2 Bf  -     -     -          638   10    0 
+TruPower  945553390  9  1 Bc  kf    -     -          628   10    0 
+TruPower  945553453  9  9 f   -     -     -          618    0    0 
+TruPower  945553502  9  8 f   -     -     -          618    0    0 
+TruPower  945553573  8  6 f   -     -     -          618    0    0 
+TruPower  945553625  9  6 f   -     -     -          618    0    0 
+TruPower  945553668  9  5 f   -     -     -          618    0    0 
+TruPower  945553720  9  4 f   -     -     -          618    0    0 
+TruPower  945553803  9  3 f   -     -     Q          618    0    0 
+TruPower  945619194  5  2 Bf  -     -     -          618   10    0 
+TruPower  945619248  5  1 Bf  -     -     -          608    5    0 
+TruPower  945619270  5  5 c   f     -     -          603   20    0 
+TruPower  945619301  5  4 f   -     -     -          583    0    0 
+TruPower  945619348  5  3 f   -     -     -          583    0    0 
+TruPower  945619400  5  2 Bk  k     f     -          583   10    0 
+TruPower  945619429  5  1 Bc  kc    kc    krr        573  130  320 Kc 4s
+TruPower  945619498  5  5 f   -     -     -          763    0    0 
+TruPower  945619560  5  4 f   -     -     -          763    0    0 
+TruPower  945619635  5  3 c   c     rr    bc         763  140  300 Qs 9c
+TruPower  945619704  5  2 Br  kf    -     -          923   20    0 
+TruPower  945619776  5  1 Bc  kf    -     -          903   10    0 
+TruPower  945619813  5  5 f   -     -     -          893    0    0 
+TruPower  945619899  6  4 cf  -     -     -          893   10    0 
+TruPower  945619960  6  3 ccc k     kf    -          883   40    0 
+TruPower  945620009  6  2 Bk  k     k     rc         843   73    0 As 6h
+TruPower  945620062  6  1 Bcc kc    kc    kc         770   70  180 6d 7c
+TruPower  945620100  6  6 c   b     b     c          880   60    0 9d 9s
+TruPower  945620178  6  5 f   -     -     -          820    0    0 
+TruPower  945620224  8  4 f   -     -     -          820    0    0 
+TruPower  945620306  8  3 f   -     -     -          820    0    0 
+TruPower  945620378  8  2 Bc  f     -     -          820   20    0 
+TruPower  945620417  9  1 Bc  kf    -     -          800   20    0 
+TruPower  945620480  9  9 f   -     -     -          780    0    0 
+TruPower  945620586 10  9 cc  c     f     -          780   40    0 
+TruPower  945620653  9  7 f   -     -     -          740    0    0 
+TruPower  945620700  9  6 f   -     -     -          740    0    0 
+TruPower  945620793  9  5 f   -     -     -          740    0    0 
+TruPower  945620859  9  4 f   -     -     -          740    0    0 
+TruPower  945620978  9  3 f   -     -     -          740    0    0 
+TruPower  945621026  9  2 Bf  -     -     -          740   10    0 
+TruPower  945621095  9  1 Bf  -     -     -          730    5    0 
+TruPower  945621141  9  9 f   -     -     -          725    0    0 
+TruPower  945621245  9  8 f   -     -     -          725    0    0 
+TruPower  945621276  8  6 f   -     -     -          725    0    0 
+TruPower  945621303  9  6 cc  c     f     -          725   40    0 
+TruPower  945621380  9  5 f   -     -     -          685    0    0 
+TruPower  945621438  9  4 f   -     -     -          685    0    0 
+TruPower  945621517 10  3 f   -     -     -          685    0    0 
+TruPower  945621601 10  2 Br  kf    -     -          685   20    0 
+TruPower  945621663 10  1 Bc  kf    Q     -          665   10    0 

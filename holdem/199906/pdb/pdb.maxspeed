@@ -1,0 +1,40 @@
+maxspeed  928558433 10  2 Bc  f     -     -         1000   20    0 
+maxspeed  928558497 10  1 Bf  -     -     -          980    5    0 
+maxspeed  928558543 10 10 f   -     -     -          975    0    0 
+maxspeed  928558592 10  9 c   f     -     -          975   10    0 
+maxspeed  928558680  9  7 c   f     -     -          965   10    0 
+maxspeed  928558726 10  6 f   -     -     -          955    0    0 
+maxspeed  928558803 10  5 f   -     -     -          955    0    0 
+maxspeed  928558851 10  4 c   br    kc    r          955  140  545 2c 6c
+maxspeed  928558947 10  3 f   -     -     -         1360    0    0 
+maxspeed  928558994 10  2 Bf  -     -     -         1360   10    0 
+maxspeed  928559081 10  1 Bcc kcc   krc   kc        1350  180    0 Qc 8s
+maxspeed  928559189 10 10 f   -     -     -         1170    0    0 
+maxspeed  928559255 10  9 f   -     -     -         1170    0    0 
+maxspeed  928559345 10  8 f   -     -     -         1170    0    0 
+maxspeed  928559429 10  7 c   c     c     f         1170   50    0 
+maxspeed  928559514 10  6 cc  f     -     -         1120   20    0 
+maxspeed  928559599 10  5 cc  c     c     c         1100   90    0 3h 3c
+maxspeed  928559644 10  4 ccc kf    -     -         1010   40    0 
+maxspeed  928559726 10  3 f   -     -     -          970    0    0 
+maxspeed  928559775 10  2 Bk  kc    c     c          970   60    0 5s Qd
+maxspeed  928559847 10  1 Bf  -     -     -          910    5    0 
+maxspeed  928559913 10 10 c   c     f     -          905   20    0 
+maxspeed  928559966 10  9 f   -     -     -          885    0    0 
+maxspeed  928560026 10  8 c   r     bc    c          885   90    0 9c Qs
+maxspeed  928560095 10  7 f   -     -     -          795    0    0 
+maxspeed  928560135 10  6 f   -     -     -          795    0    0 
+maxspeed  928560177 10  5 f   -     -     -          795    0    0 
+maxspeed  928560236 10  4 f   -     -     -          795    0    0 
+maxspeed  928560282 10  3 cr  kc    kc    b          795   80    0 Qh Ad
+maxspeed  928560369  9  2 Br  kc    kc    kf         715   50    0 
+maxspeed  928560440  9  1 Bc  kf    -     -          665   10    0 
+maxspeed  928560494  9  9 c   k     c     c          655   50    0 7h 7s
+maxspeed  928560544  9  8 c   kc    kc    c          605   60    0 Kd Jh
+maxspeed  928560627  9  7 r   c     f     -          545   40    0 
+maxspeed  928560678  9  6 c   c     f     -          505   20    0 
+maxspeed  928560726  9  5 f   -     -     -          485    0    0 
+maxspeed  928560760  8  4 r   bc    bc    kc         485  110    0 Ah Qh
+maxspeed  928560824  8  3 r   b     b     r          375   90  230 
+maxspeed  928560864  8  2 Bcc cf    -     -          515   50    0 
+maxspeed  928560928  8  1 BfQ -     -     -          465    5    0 

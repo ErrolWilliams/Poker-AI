@@ -1,0 +1,616 @@
+Gravlax   862608283  8  3 f   -     -     -         5003    0    0 
+Gravlax   862608333  8  2 Bc  kc    bc    kc        5003  100    0 7s Jc
+Gravlax   862608402  7  1 Bf  -     -     -         4903    5    0 
+Gravlax   862608455  7  7 f   -     -     -         4898    0    0 
+Gravlax   862608504  7  6 f   -     -     -         4898    0    0 
+Gravlax   862608567  7  5 f   -     -     -         4898    0    0 
+Gravlax   862608626  7  4 f   -     -     -         4898    0    0 
+Gravlax   862608663  7  3 c   kc    kc    kcc       4898  120    0 Td 9s
+Gravlax   862608750  8  2 Bk  kc    kc    k         4778   40    0 9c 6c
+Gravlax   862608872 12  1 BQ  -     -     -         4738    5    0 
+Gravlax   862758727  6  6 cc  c     c     k         5723   50  140 4c Qc
+Gravlax   862758789  6  5 cc  c     c     fQ        5813   50    0 
+Gravlax   862773884  8  3 c   f     -     -         5553   10    0 
+Gravlax   862773973  8  2 Bc  kc    kc    kf        5543   60    0 
+Gravlax   862774062  7  1 Bcc kf    -     -         5483   40    0 
+Gravlax   862774106  6  6 c   k     f     -         5443   10    0 
+Gravlax   862774147  6  5 c   f     -     -         5433   20    0 
+Gravlax   862774193  5  3 Q   -     -     -         5423    0    0 
+Gravlax   862808495  9  3 c   k     r     -         1000   50  135 
+Gravlax   862808539  9  2 Bcc kcc   kc    kc        1085  140    0 8c 5s
+Gravlax   862808609 11  1 Bf  -     -     -          945    5    0 
+Gravlax   862808665 11 11 c   c     k     k          940   30    0 Ad 6c
+Gravlax   862808734 11 10 c   c     r     kc         910  110  125 Jd Ac
+Gravlax   862808829 11  9 f   -     -     -          925    0    0 
+Gravlax   862808929 11  8 cc  cc    c     f          925   70    0 
+Gravlax   862809038 11  7 rc  c     c     rc         855  150    0 Ad Td
+Gravlax   862809155 10  6 c   cc    kc    kc         705   70   95 2c Ah
+Gravlax   862809238 10  5 f   -     -     -          730    0    0 
+Gravlax   862809278 11  4 f   -     -     -          730    0    0 
+Gravlax   862809336 11  3 c   bc    kcc   kr         730  120  400 Qh Jh
+Gravlax   862809397 11  2 Bcc kf    -     -         1010   40    0 
+Gravlax   862809523  9  1 Bc  kc    kf    -          970   30    0 
+Gravlax   862809637  9  9 c   Q     -     -          940   10    0 
+Gravlax   862841296  3  3 f   -     -     -          930    0    0 
+Gravlax   862841348  3  2 Bcc f     -     -          930   40    0 
+Gravlax   862841389  4  1 Bf  -     -     -          890    5    0 
+Gravlax   862841463  4  4 r   b     rc    c          885  110    0 As 5d
+Gravlax   862841541  3  3 cc  c     r     b          775   90  185 Qh 9d
+Gravlax   862841565  3  2 Bk  k     k     k          870   10    0 3h 5d
+Gravlax   862841598  3  1 Bc  b     -     -          860   20   40 
+Gravlax   862841616  3  3 r   rc    r     b          880  110  225 9s Ks
+Gravlax   862841642  3  2 Bc  kc    kc    kc         995   70  145 Kd 9d
+Gravlax   862841665  3  1 Bcc k     b     -         1070   40   80 
+Gravlax   862841693  3  3 c   k     k     k         1110   10    0 7c 6d
+Gravlax   862841709  3  2 Bk  b     k     b         1100   40   80 2d 9c
+Gravlax   862841742  3  1 Bcc kc    kc    kc        1140   70    0 Kd Js
+Gravlax   862841778  3  3 c   k     b     b         1070   50  105 Qh 6h
+Gravlax   862841811  3  2 Bk  c     c     f         1125   40    0 
+Gravlax   862841838  3  1 Bf  -     -     -         1085    5    0 
+Gravlax   862841843  3  3 cc  c     k     k         1080   40    0 9c As
+Gravlax   862841877  4  2 Bf  -     -     -         1040   10    0 
+Gravlax   862841903  4  1 Bf  -     -     -         1030    5    0 
+Gravlax   862841941  5  5 f   -     -     -         1025    0    0 
+Gravlax   862842005  5  4 cc  k     f     -         1025   40    0 
+Gravlax   862842087  6  3 cc  k     k     b          985   40   85 9c Kc
+Gravlax   862842124  6  2 Bc  kc    kc    kc        1030   70    0 5c 6s
+Gravlax   862842167  6  1 Bf  -     -     -          960    5    0 
+Gravlax   862842198  6  6 c   k     c     f          955   30    0 
+Gravlax   862842245  6  5 f   -     -     -          925    0    0 
+Gravlax   862842286  6  4 f   -     -     -          925    0    0 
+Gravlax   862842338  6  3 cc  f     -     -          925   30    0 
+Gravlax   862842368  6  2 Bc  kc    k     c          895   50    0 8h 8d
+Gravlax   862842420  7  1 Bc  k     k     k          845   10    0 7d Qd
+Gravlax   862842456  8  8 c   c     f     -          835   30    0 
+Gravlax   862842501  8  7 crc b     bc    kf         805   90    0 
+Gravlax   862842597  8  6 cc  kc    kf    -          715   30    0 
+Gravlax   862842657  7  5 c   k     b     b          685   60    0 As Js
+Gravlax   862842721  7  4 cc  rc    rc    f          625  120    0 
+Gravlax   862842816  6  2 Bk  kc    b     brc        505  120    0 6s Ad
+Gravlax   862842919  5  1 Bc  kc    b     kf         385   40    0 
+Gravlax   862842970  7  7 cc  f     -     -          345   20    0 
+Gravlax   862843004  6  5 r   b     -     -          325   30   55 
+Gravlax   862843040  6  4 c   b     -     -          350   20   50 
+Gravlax   862843082  8  4 f   -     -     -          380    0    0 
+Gravlax   862843138  7  2 Bf  -     -     -          380   10    0 
+Gravlax   862843161  6  1 Bf  -     -     -          370    5    0 
+Gravlax   862843234  6  6 rc  r     bA    -           65   65  145 9h Tc
+Gravlax   862843322  5  4 cc  c     k     k          145   50    0 8h 2h
+Gravlax   862843409  5  3 c   k     c     k           95   30    0 2h 8c
+Gravlax   862843457  5  2 Br  k     k     b           65   40  100 Tc 4c
+Gravlax   862843506  5  1 Br  kc    k     kc         125   50    0 7s 5d
+Gravlax   862843564  6  5 cA  -     -     -           75    5    0 3h Th
+Gravlax   862843705  6  3 cc  c     c     c         1000   70    0 Ks 5c
+Gravlax   862843796  5  2 Bc  f     -     -          930   20    0 
+Gravlax   862843818  4  1 Bf  -     -     -          910    5    0 
+Gravlax   862843896  3  3 Q   -     -     -          905    0    0 
+Gravlax   863199018 11  9 cc  cc    kc    kf        1175   80    0 
+Gravlax   863199095  9  6 c   c     c     Q         1095   50    0 
+Gravlax   863199237  8  5 cc  f     -     -         1045   20    0 
+Gravlax   863199342  8  4 cc  r     b     k         1025   60  100 4h 7h
+Gravlax   863199398  8  3 cc  f     -     -         1065   20    0 
+Gravlax   863199453  7  2 Bc  k     f     -         1045   20    0 
+Gravlax   863199499  7  1 Bc  k     kf    -         1025   30    0 
+Gravlax   863199606  6  6 c   c     c     f          995   50    0 
+Gravlax   863199682  7  7 f   -     -     -          945    0    0 
+Gravlax   863199758  7  6 c   c     c     b          945   70  195 5s 4h
+Gravlax   863199804  7  5 cc  f     -     -         1070   30    0 
+Gravlax   863199903  7  4 f   -     -     -         1040    0    0 
+Gravlax   863200004 10  3 cr  kcc   kf    -         1040   70    0 
+Gravlax   863200155 11  2 Bc  kf    -     -          970   20    0 
+Gravlax   863200339 12  1 Bc  b     kf    -          950   30    0 
+Gravlax   863200439 12 12 cc  cc    cc    f          920  160    0 
+Gravlax   863200570  8  7 cc  kc    br    kc         760  110  255 9h Kh
+Gravlax   863200727  5  4 f   -     -     -          905    0    0 
+Gravlax   863200783  6  4 cc  cc    b     c          905   80    0 Qc 4c
+Gravlax   863200864  6  3 cc  kf    -     -          825   40    0 
+Gravlax   863200966  6  2 Bk  k     k     k          785   10   35 Qs 3s
+Gravlax   863201054  6  1 Bf  -     -     -          810    5    0 
+Gravlax   863201105  6  6 c   c     c     f          805   50    0 
+Gravlax   863201169  6  5 f   -     -     -          755    0    0 
+Gravlax   863201211  6  4 f   -     -     -          755    0    0 
+Gravlax   863201233  6  3 c   k     kc    f          755   50    0 
+Gravlax   863201299  6  2 Bc  kc    k     b          705   50  125 
+Gravlax   863201356  6  1 Bf  -     -     -          780    5    0 
+Gravlax   863201371  6  6 r   k     b     c          775   60    0 5d 5h
+Gravlax   863201417  5  4 f   -     -     -          715    0    0 
+Gravlax   863201429  5  3 f   -     -     -          715    0    0 
+Gravlax   863201470  5  2 Bk  b     c     c          715   60    0 3h Qc
+Gravlax   863201510  5  1 Bf  -     -     -          655    5    0 
+Gravlax   863201561  6  6 f   -     -     -          650    0    0 
+Gravlax   863201590  5  4 f   -     -     -          650    0    0 
+Gravlax   863201632  5  3 f   -     -     -          650    0    0 
+Gravlax   863201698  7  4 c   f     -     -          650   10    0 
+Gravlax   863201812  9  3 f   -     -     -          640    0    0 
+Gravlax   863201914  9  2 Bk  bc    c     c          640   70    0 2s Qd
+Gravlax   863201995  9  1 Bc  Q     -     -          570   10    0 
+Gravlax   864052959  3  3 f   -     -     -          560    0    0 
+Gravlax   864052985  3  2 Bc  k     r     b          560   80  160 
+Gravlax   864053019  3  1 Bc  b     b     -          640   40   60 
+Gravlax   864053038  3  3 f   -     -     -          660    0    0 
+Gravlax   864053057  3  2 Bk  kc    kc    k          660   40    0 2h 4c
+Gravlax   864053090  3  1 Bc  k     k     kf         620   10    0 
+Gravlax   864053117  3  3 f   -     -     -          610    0    0 
+Gravlax   864053136  3  2 Bk  f     -     -          610   10    0 
+Gravlax   864053152  3  1 Bc  k     kc    kc         600   50   55 Qs 6d
+Gravlax   864053180  3  3 f   -     -     -          605    0    0 
+Gravlax   864053212  3  2 Bk  b     -     -          605   20   30 
+Gravlax   864053229  3  1 Bc  b     -     -          615   20   30 
+Gravlax   864053243  3  3 c   k     k     b          625   30   45 
+Gravlax   864053273  3  2 Bf  -     -     -          640   10    0 
+Gravlax   864053286  3  1 Bc  k     b     -          630   30   40 
+Gravlax   864053317  3  3 f   -     -     -          640    0    0 
+Gravlax   864053326  3  2 Bc  kc    kc    k          640   50  105 Ks Ah
+Gravlax   864053379  3  1 Bc  k     b     -          695   40   70 
+Gravlax   864053407  3  3 c   k     f     -          725   10    0 
+Gravlax   864053441  3  2 Bk  f     -     -          715   10    0 
+Gravlax   864053464  3  1 Bf  -     -     -          705    5    0 
+Gravlax   864053471  3  3 r   b     -     -          700   30   55 
+Gravlax   864053491  3  2 Bc  f     -     -          725   20    0 
+Gravlax   864053536  3  1 Bc  kf    -     -          705   20    0 
+Gravlax   864053579  3  3 c   k     k     b          685   30   50 
+Gravlax   864053620  4  2 Bc  b     r     b          705   90  200 As Kh
+Gravlax   864053664  6  1 Bc  kc    kf    -          815   30    0 
+Gravlax   864053735  6  6 c   k     f     -          785   10    0 
+Gravlax   864053757  6  5 c   c     r     b          775  100  335 Kh Kd
+Gravlax   864053819  5  3 f   Q     -     -         1010    0    0 
+Gravlax   864081097 12 12 f   -     -     -         1010    0    0 
+Gravlax   864081146 12 11 cc  f     -     -         1010   40    0 
+Gravlax   864081254 12 10 f   -     -     -          970    0    0 
+Gravlax   864081343 12  9 f   -     -     -          970    0    0 
+Gravlax   864081452 11  8 f   -     -     -          970    0    0 
+Gravlax   864081571 12  8 c   rr    b     b          970   90  200 2s 4s
+Gravlax   864081637 10  5 c   k     c     f         1080   30    0 
+Gravlax   864081697 12  5 c   bc    kc    kc        1050   70    0 Kd Qd
+Gravlax   864081812 11  4 c   k     k     b          980   30   60 
+Gravlax   864081988 11  2 r   kc    k     k         1010   30    0 5c 6c
+Gravlax   864082091 12  2 Bk  kf    -     -          980   10    0 
+Gravlax   864082145 12  1 Bc  kc    kc    kf         970   40    0 
+Gravlax   864082212 12 12 f   -     -     -          930    0    0 
+Gravlax   864082255 12 11 f   -     -     -          930    0    0 
+Gravlax   864082332 12 10 f   -     -     -          930    0    0 
+Gravlax   864082399 12  9 cc  f     -     -          930   20    0 
+Gravlax   864082460 12  8 c   c     c     k          910   40    0 3d 4d
+Gravlax   864082518 12  7 f   -     -     -          870    0    0 
+Gravlax   864082552 10  5 cc  kc    kc    kf         870   50    0 
+Gravlax   864082628 12  4 f   -     -     -          820    0    0 
+Gravlax   864082725 12  3 r   r     b     bc         820  100    0 Kc Td
+Gravlax   864082847 12  2 Bf  -     -     -          720   10    0 
+Gravlax   864082896 12  1 Br  b     k     k          710   30    0 Ac Qd
+Gravlax   864082981 11 11 f   -     -     -          680    0    0 
+Gravlax   864083048 11 10 c   k     k     f          680   10    0 
+Gravlax   864083100 11  9 f   -     -     -          670    0    0 
+Gravlax   864083150 11  8 f   -     -     -          670    0    0 
+Gravlax   864083203  9  5 r   k     cc    f          670   90    0 
+Gravlax   864083278 11  4 f   -     -     -          580    0    0 
+Gravlax   864083341 11  3 cc  f     -     -          580   20    0 
+Gravlax   864083400 11  2 Bk  b     b     b          560   60  160 As 7d
+Gravlax   864083451 11  1 Bc  b     b     bc         660   80    0 Kc 9c
+Gravlax   864083528  9  9 rQ  -     -     -          580   20    0 
+Gravlax   864140680  8  6 c   k     c     f          560   40    0 
+Gravlax   864140717  8  5 c   c     f     -          520   20    0 
+Gravlax   864140769  7  3 f   -     -     -          500    0    0 
+Gravlax   864140812  7  3 c   c     c     k          500   40    0 Qs Jd
+Gravlax   864140860  7  2 Bk  bc    kc    k          460   70    0 8d Th
+Gravlax   864140927  6  1 Bf  -     -     -          390    5    0 
+Gravlax   864140954  5  5 f   -     -     -          385    0    0 
+Gravlax   864140992  6  6 c   c     k     f          385   40    0 
+Gravlax   864141036  6  5 r   bc    kc    kc         345   80    0 Qs Jd
+Gravlax   864141107  6  4 rc  r     b     b          265   90    0 Qh 2h
+Gravlax   864141170  6  3 f   -     -     -          175    0    0 
+Gravlax   864141247  7  2 Br  b     b     -          175   50   85 
+Gravlax   864141278  7  1 Bf  -     -     -          210    5    0 
+Gravlax   864141306  7  7 f   -     -     -          205    0    0 
+Gravlax   864141351  8  7 c   c     k     k          205   30    0 3d Ac
+Gravlax   864141415  9  6 rc  k     kc    b          175   80  295 9c Ah
+Gravlax   864141510 10  5 c   c     k     k          390   20    0 4c 9c
+Gravlax   864141577 10  4 f   -     -     -          370    0    0 
+Gravlax   864141665 10  3 c   c     b     b          370   60    0 6h Jh
+Gravlax   864141749 10  2 Bk  k     k     k          310   10   18 6s Ad
+Gravlax   864141788 11  1 Bc  kcc   k     kf         318   50    0 
+Gravlax   864141915 10 10 c   b     bc    k          268   60    0 3d 5d
+Gravlax   864142010 10  9 cc  f     -     -          208   40    0 
+Gravlax   864142130 11  9 Q   -     -     -          168    0    0 
+Gravlax   864158371  6  4 cc  kf    -     -          168   20    0 
+Gravlax   864158448  6  3 f   -     -     -          148    0    0 
+Gravlax   864158486  6  2 BA  -     -     -            8    8   40 6h 9d
+Gravlax   864158560  9  1 Bc  bcA   -     -           40   40    0 3c Jc
+Gravlax   864158702  7  3 c   kf    -     -         1000   10    0 
+Gravlax   864158822 10  2 Br  b     bc    kc         990   90    0 9h 9s
+Gravlax   864158941  9  1 Bc  kc    kc    kc         900   70    0 6d 6h
+Gravlax   864159041  8  8 c   f     -     -          830   10    0 
+Gravlax   864159126  9  8 rc  kc    kf    -          820   40    0 
+Gravlax   864159224  9  7 f   -     -     -          780    0    0 
+Gravlax   864159284 10  7 cc  cf    -     -          780   30    0 
+Gravlax   864159550  9  6 c   cc    c     r          750  120    0 2s As
+Gravlax   864160083  7  1 Bf  -     -     -          470   10    0 
+Gravlax   864160142  6  1 Bf  -     -     -          460    5    0 
+Gravlax   864160185  6  6 c   c     k     k          455   20    0 9d 7d
+Gravlax   864160253  7  6 f   -     -     -          435    0    0 
+Gravlax   864160385  6  4 c   b     b     b          435   60  140 
+Gravlax   864160459  7  4 c   c     r     kc         515   80    0 Kh Ad
+Gravlax   864160586  7  3 c   kc    k     f          435   20    0 
+Gravlax   864160694  4  1 Bf  -     -     -          415   10    0 
+Gravlax   864160722  4  1 Bf  -     Q     -          405    5    0 
+Gravlax   864246835 11 11 c   cA    -     -          400   20   50 8h Tc
+Gravlax   864247060  9  8 cA  -     -     -           50   10    0 7h 4d
+Gravlax   864247150 10  7 c   k     k     k         1000   10    0 Ts 7s
+Gravlax   864247263 10  6 c   c     c     c          990   60    0 8c Ac
+Gravlax   864247342 10  5 f   -     -     -          930    0    0 
+Gravlax   864247505 10  4 c   c     r     bc         930  100    0 As Ac
+Gravlax   864247594 11  3 c   k     c     f          830   30    0 
+Gravlax   864247786  9  2 Bk  k     b     -          800   30   40 
+Gravlax   864247915  7  1 Bc  b     bc    k          810   60    0 5d 4c
+Gravlax   864247983  7  7 f   -     -     -          750    0    0 
+Gravlax   864248040  8  7 c   r     k     b          750   50  145 Ks Qs
+Gravlax   864248167  7  5 r   b     b     b          845   70  125 
+Gravlax   864248238  6  3 c   f     -     -          900   10    0 
+Gravlax   864248345  5  2 Bc  kf    -     -          890   20    0 
+Gravlax   864248370  5  1 Bc  b     -     -          870   20   30 
+Gravlax   864248385  5  5 c   c     f     -          880   20    0 
+Gravlax   864248417  5  4 c   f     -     -          860   10    0 
+Gravlax   864248462  5  3 f   -     -     -          850    0    0 
+Gravlax   864248492  5  2 Bc  c     b     b          850   70    0 2s Ts
+Gravlax   864248518  5  1 Bf  -     -     -          780    5    0 
+Gravlax   864248550  5  5 c   c     c     rc         775  100    0 Ad 4h
+Gravlax   864248598  6  5 c   b     b     -          675   50  115 
+Gravlax   864248651  6  4 f   -     -     -          740    0    0 
+Gravlax   864248697  7  4 f   -     -     -          740    0    0 
+Gravlax   864248746  7  3 f   -     -     -          740    0    0 
+Gravlax   864248815  7  2 Bf  -     -     -          740   10    0 
+Gravlax   864248881  7  1 Bc  k     k     k          730   10    0 8s 5c
+Gravlax   864248923  7  7 f   -     Q     -          720    0    0 
+Gravlax   864354104 11  4 f   -     -     -          720    0    0 
+Gravlax   864354133 12  3 c   kc    k     b          720   40  130 9d Kh
+Gravlax   864354197 12  2 Bk  kf    -     -          810   10    0 
+Gravlax   864354266 12  1 Bc  kc    b     b          800   60  130 
+Gravlax   864354312 12 12 c   k     k     b          870   30   45 
+Gravlax   864354353 12 11 f   -     -     -          885    0    0 
+Gravlax   864354425 12 10 c   c     cf    -          885   50    0 
+Gravlax   864354494 12  9 c   r     r     c          835   90  400 5s 2s
+Gravlax   864354621 12  8 f   -     -     -         1145    0    0 
+Gravlax   864354657 12  7 f   -     -     -         1145    0    0 
+Gravlax   864354717 12  6 f   -     -     -         1145    0    0 
+Gravlax   864354773 12  5 f   -     -     -         1145    0    0 
+Gravlax   864354855 12  4 cc  bc    k     kc        1145   60    0 8c 8h
+Gravlax   864354911 12  3 cc  kf    -     -         1085   20    0 
+Gravlax   864355002 11  2 Bk  kf    -     -         1065   10    0 
+Gravlax   864355044 12  1 Bc  kc    kf    -         1055   30    0 
+Gravlax   864355130 12 12 f   -     -     -         1025    0    0 
+Gravlax   864355187 12 11 f   -     -     -         1025    0    0 
+Gravlax   864355237 12 10 c   c     c     f         1025   40    0 
+Gravlax   864355273 12  9 c   c     r     -          985   60  150 
+Gravlax   864355319 12  8 ccc cc    r     b         1075  130  515 2s 7s
+Gravlax   864355427 12  7 f   -     -     -         1460    0    0 
+Gravlax   864355486 12  6 c   kf    -     -         1460   10    0 
+Gravlax   864355552  9  3 c   k     b     -         1450   30   40 
+Gravlax   864355577  9  3 cc  kf    -     -         1460   20    0 
+Gravlax   864355621 10  2 Bf  -     -     -         1440   10    0 
+Gravlax   864355672 10  1 Bc  kc    kc    kr        1430   90    0 Ah Qs
+Gravlax   864355740 10 10 f   -     -     -         1340    0    0 
+Gravlax   864355777 10  9 c   b     k     k         1340   20   80 Tc Ac
+Gravlax   864355834  9  7 c   c     f     -         1400   30    0 
+Gravlax   864355888  9  6 f   -     -     -         1370    0    0 
+Gravlax   864355914  9  5 c   b     b     b         1370   60  160 7c As
+Gravlax   864355988  8  3 cc  k     kc    kf        1470   70    0 
+Gravlax   864356071  8  2 Bc  kf    -     -         1400   20    0 
+Gravlax   864356138  7  1 Bc  kc    kc    kc        1380   60    0 Ts 9s
+Gravlax   864356180  7  7 f   -     -     -         1320    0    0 
+Gravlax   864356202  8  7 c   c     c     f         1320   40    0 
+Gravlax   864356248  8  6 f   -     -     -         1280    0    0 
+Gravlax   864356303  8  5 f   -     -     -         1280    0    0 
+Gravlax   864356371  8  4 c   f     -     -         1280   10    0 
+Gravlax   864356390  8  3 rc  k     kc    kc        1270   70    0 Ts Tc
+Gravlax   864356435  9  2 Bf  -     -     -         1200   10    0 
+Gravlax   864356549  7  1 Bc  kcc   kr    b         1190  100  230 As Kd
+Gravlax   864356705  7  7 f   -     -     -         1320    0    0 
+Gravlax   864356764  7  6 f   -     -     -         1320    0    0 
+Gravlax   864356804  8  6 c   k     b     -         1320   30   55 
+Gravlax   864356829  8  5 cc  k     rc    rc        1345  160    0 3d Ac
+Gravlax   864356899  8  4 f   -     -     -         1185    0    0 
+Gravlax   864356953  8  3 f   -     -     -         1185    0    0 
+Gravlax   864357071  9  2 Bc  k     kc    kf        1185   40    0 
+Gravlax   864357193  9  1 Bf  -     -     -         1145    5    0 
+Gravlax   864357234  9  9 cc  f     -     -         1140   20    0 
+Gravlax   864357287 10  9 f   -     -     -         1120    0    0 
+Gravlax   864357375 11  9 f   -     -     -         1120    0    0 
+Gravlax   864357430 11  8 c   f     -     -         1120   10    0 
+Gravlax   864357462 11  7 cc  k     kc    kf        1110   40    0 
+Gravlax   864357543 11  6 f   -     -     -         1070    0    0 
+Gravlax   864357585 11  5 cc  kc    kr    b         1070   90    0 9h Jh
+Gravlax   864357694 12  5 c   kc    k     b          980   40  170 Ts 9s
+Gravlax   864357784 12  4 f   -     -     -         1110    0    0 
+Gravlax   864357853 12  3 f   -     -     -         1110    0    0 
+Gravlax   864357938 12  2 Bk  kf    -     -         1110   10    0 
+Gravlax   864358059 12  1 Bf  -     -     -         1100    5    0 
+Gravlax   864358088 12 12 f   -     -     -         1095    0    0 
+Gravlax   864358130 11 10 c   k     k     k         1095   10    0 Ad 4d
+Gravlax   864358264 11  9 f   -     -     -         1085    0    0 
+Gravlax   864358361  9  6 f   -     -     -         1085    0    0 
+Gravlax   864358391  8  4 f   -     -     -         1085    0    0 
+Gravlax   864358422  8  3 f   -     -     -         1085    0    0 
+Gravlax   864358451  8  2 Bk  kc    kf    -         1085   20    0 
+Gravlax   864358520  9  1 Bcc kf    -     -         1065   30    0 
+Gravlax   864358588  9  9 c   c     c     f         1035   60    0 
+Gravlax   864358633  9  8 r   b     bc    c          975  100    0 Ad Ts
+Gravlax   864358703 10  8 c   Q     -     -          875   10    0 
+Gravlax   864446969  7  7 c   c     c     c          865   60    0 Kd Qc
+Gravlax   864447016  7  6 c   kf    -     -          805   10    0 
+Gravlax   864447078  7  5 c   k     f     -          795   10    0 
+Gravlax   864447114  7  4 rc  k     c     c          785   70    0 4c 4h
+Gravlax   864447152  7  3 f   -     -     -          715    0    0 
+Gravlax   864447184  7  2 Bc  k     b     c          715   60    0 3d Th
+Gravlax   864447247  7  1 Bc  k     f     -          655   10    0 
+Gravlax   864447284  7  7 c   c     c     f          645   40    0 
+Gravlax   864447332  7  6 r   c     f     -          605   30    0 
+Gravlax   864447403  8  5 c   r     c     k          575   50  140 8h Qh
+Gravlax   864447470  8  4 f   -     -     -          665    0    0 
+Gravlax   864447539  8  3 c   b     c     f          665   40    0 
+Gravlax   864447607 10  2 Bk  kf    -     -          625   10    0 
+Gravlax   864447723  9  1 Bf  -     -     -          615    5    0 
+Gravlax   864447784  8  8 c   f     -     -          610   10    0 
+Gravlax   864447848  8  7 f   -     -     -          600    0    0 
+Gravlax   864447875  8  6 f   -     -     -          600    0    0 
+Gravlax   864447899  8  5 f   -     -     -          600    0    0 
+Gravlax   864447953 10  6 f   -     -     -          600    0    0 
+Gravlax   864448010  9  5 c   kc    bc    k          600   60  170 2h 2s
+Gravlax   864448070  8  3 c   f     -     -          710   10    0 
+Gravlax   864448132  8  2 Bk  k     k     b          700   30   70 
+Gravlax   864448219  9  1 Bc  kccc  kf    -          740   50    0 
+Gravlax   864448292 11 11 f   -     -     -          690    0    0 
+Gravlax   864448337 11 10 f   -     -     -          690    0    0 
+Gravlax   864448427 12 10 f   -     -     -          690    0    0 
+Gravlax   864448505 12  9 c   kc    kc    kf         690   40    0 
+Gravlax   864448609 12  8 f   -     -     -          650    0    0 
+Gravlax   864448659 12  7 cc  kc    kc    b          650   70  128 Qd Qc
+Gravlax   864448753 12  6 f   -     -     -          708    0    0 
+Gravlax   864448800 12  5 f   -     -     -          708    0    0 
+Gravlax   864448845 12  5 f   -     -     -          708    0    0 
+Gravlax   864448900 11  3 cc  f     -     -          708   20    0 
+Gravlax   864448961 12  2 Bf  -     -     -          688   10    0 
+Gravlax   864449026 12  1 Bc  kf    -     -          678   20    0 
+Gravlax   864449112 12 12 c   k     k     k          658   20    0 7s 8s
+Gravlax   864449191 12 11 c   c     k     k          638   50    0 7c Ah
+Gravlax   864449267 12 10 c   c     r     b          588   90  265 Ad Qc
+Gravlax   864449331 12  9 f   -     -     -          763    0    0 
+Gravlax   864449421 12  8 f   -     -     -          763    0    0 
+Gravlax   864449475 12  7 c   c     r     k          763   70    0 Kc Ac
+Gravlax   864449556 12  6 f   -     -     -          693    0    0 
+Gravlax   864449602 12  5 c   cc    c     k          693   60    0 Qc 9c
+Gravlax   864449674 12  4 c   kcc   kc    kf         633   60    0 
+Gravlax   864449782 12  3 cc  k     c     c          573   60    0 Tc Ts
+Gravlax   864449860 12  2 Br  b     k     b          513   50  160 Jh Jd
+Gravlax   864449948 12  1 Bc  k     kc    kc         623   60    0 6c 9c
+Gravlax   864450042 12 12 c   c     k     b          563   50    0 9c Qc
+Gravlax   864450164 12 11 f   -     -     -          513    0    0 
+Gravlax   864450220 11  9 c   k     k     kf         513   10    0 
+Gravlax   864450293 12 10 c   c     rrr   rrrc       503  290    0 7d Kd
+Gravlax   864450412 12  8 f   -     -     -          213    0    0 
+Gravlax   864450547 12  7 c   f     -     -          213   20    0 
+Gravlax   864450626 12  6 f   -     -     -          193    0    0 
+Gravlax   864450728 10  5 f   -     -     -          193    0    0 
+Gravlax   864450842 10  3 cc  kf    -     -          193   20    0 
+Gravlax   864450975 12  2 Bf  -     -     -          173   10    0 
+Gravlax   864451078 12  1 Bf  -     -     -          163    5    0 
+Gravlax   864451174 12 12 c   k     k     k          158   10   55 Jh Ac
+Gravlax   864451277 12 11 ccc c     c     f          203   70    0 
+Gravlax   864451407 12 10 cc  c     c     k          133   70    0 6h 9h
+Gravlax   864451525 12  9 f   -     -     -           63    0    0 
+Gravlax   864451689 12  8 f   -     -     -           63    0    0 
+Gravlax   864451773 12  7 f   -     -     -           63    0    0 
+Gravlax   864451944 10  5 cA  -     -     -           63    3   24 8c Qc
+Gravlax   864452014 11  4 r   cA    -     -           24   24    0 Ah 7c
+Gravlax   864452635 10 10 cc  k     f     -         1145   20    0 
+Gravlax   864452746 12 11 c   c     f     -         1125   20    0 
+Gravlax   864452885 11  9 cc  c     c     c         1105   70  315 Td 8d
+Gravlax   864453026 12  9 f   -     -     -         1350    0    0 
+Gravlax   864453098 12  8 cc  bc    kc    b         1350  100  405 Qs As
+Gravlax   864453200 12  7 c   f     -     -         1655   10    0 
+Gravlax   864453307 12  6 ccc f     -     -         1645   40    0 
+Gravlax   864453444 12  6 f   -     -     -         1605    0    0 
+Gravlax   864453543 10  3 f   -     -     -         1605    0    0 
+Gravlax   864453584 11  2 Bf  -     -     -         1605   10    0 
+Gravlax   864453661 10  1 Bf  -     -     -         1595    5    0 
+Gravlax   864453722 10 10 c   c     f     -         1590   20    0 
+Gravlax   864453790 11  9 f   -     -     -         1570    0    0 
+Gravlax   864453847 11  8 f   -     -     -         1570    0    0 
+Gravlax   864453909 11  7 cc  cc    cc    c         1570  120    0 Jd Js
+Gravlax   864454000 11  6 f   -     -     -         1450    0    0 
+Gravlax   864454125 10  5 f   -     -     -         1450    0    0 
+Gravlax   864454221 10  4 cc  f     -     -         1450   20    0 
+Gravlax   864454301 12  3 cc  kr    k     kf        1430   50    0 
+Gravlax   864454403 12  2 Bf  -     -     -         1380   10    0 
+Gravlax   864454467 12  1 Bf  -     -     -         1370    5    0 
+Gravlax   864454587 12 12 f   -     -     -         1365    0    0 
+Gravlax   864454669 12 11 f   -     -     -         1365    0    0 
+Gravlax   864454768 12 10 f   -     -     -         1365    0    0 
+Gravlax   864454846 11 10 f   -     -     -         1365    0    0 
+Gravlax   864454922 10  8 f   -     -     -         1365    0    0 
+Gravlax   864455046 10  8 f   -     -     -         1365    0    0 
+Gravlax   864455102  9  6 c   f     -     -         1365   20    0 
+Gravlax   864455142  9  5 c   k     c     r         1345   70  250 5h Ac
+Gravlax   864455235 11  4 f   -     -     -         1525    0    0 
+Gravlax   864455311 11  3 f   -     -     -         1525    0    0 
+Gravlax   864455397 11  2 Bc  k     kc    k         1525   60    0 2h Qh
+Gravlax   864455512 11  1 Bc  kc    kf    -         1465   20    0 
+Gravlax   864455586 11 11 f   -     -     -         1445    0    0 
+Gravlax   864455645 11 10 c   k     b     b         1445   70  195 
+Gravlax   864455711 11  9 f   -     -     -         1570    0    0 
+Gravlax   864455763 12 10 f   -     -     -         1570    0    0 
+Gravlax   864455826 11  8 f   -     -     -         1570    0    0 
+Gravlax   864455883 11  7 f   -     -     -         1570    0    0 
+Gravlax   864455939 11  6 c   c     c     k         1570   40    0 4c As
+Gravlax   864456002 10  4 f   -     -     -         1530    0    0 
+Gravlax   864456043 11  4 c   c     c     c         1530   60  170 Js Ac
+Gravlax   864456102 11  3 f   -     -     -         1640    0    0 
+Gravlax   864456211 10  2 Bk  k     b     b         1640   50  105 Ks Ad
+Gravlax   864456254 10  1 Bc  k     kc    bc        1695   70  230 9s 9h
+Gravlax   864456318 10 10 f   -     -     -         1855    0    0 
+Gravlax   864456354  9  8 c   c     f     -         1855   20    0 
+Gravlax   864456404 10  7 f   -     -     -         1835    0    0 
+Gravlax   864456519 10  6 f   -     -     -         1835    0    0 
+Gravlax   864456585 10  5 f   -     -     -         1835    0    0 
+Gravlax   864456650 10  4 c   b     r     rc        1835  120    0 Ad 3d
+Gravlax   864456764 11  3 f   -     -     -         1715    0    0 
+Gravlax   864456942 10  2 Bc  kf    -     -         1715   20    0 
+Gravlax   864457053 10  1 Bc  kc    krrc  kc        1695  140  290 Qd 7d
+Gravlax   864457096 10 10 f   -     -     -         1845    0    0 
+Gravlax   864457144  9  9 c   f     -     -         1845   10    0 
+Gravlax   864457177 11  8 f   -     -     -         1835    0    0 
+Gravlax   864457235 11  7 c   fQ    -     -         1835   10    0 
+Gravlax   864595555  7  6 cc  f     -     -         1825   40    0 
+Gravlax   864595586  7  5 f   -     -     -         1785    0    0 
+Gravlax   864595616  7  4 f   -     -     -         1785    0    0 
+Gravlax   864595644  7  3 cc  kc    b     b         1785   70    0 Kh Ac
+Gravlax   864595744  7  2 B   -     -     -         1715   10   15 
+Gravlax   864595755  7  1 Bc  kc    k     b         1720   50  170 5h Kh
+Gravlax   864595820  7  7 c   f     -     -         1840   10    0 
+Gravlax   864595846  7  6 cc  b     k     bc        1830   70    0 Jh Ts
+Gravlax   864595903  7  6 f   -     -     -         1760    0    0 
+Gravlax   864595930  6  4 cc  f     -     -         1760   20    0 
+Gravlax   864595992  7  3 c   k     b     b         1740   50  170 As 5h
+Gravlax   864596048  7  2 Bk  kf    -     -         1860   10    0 
+Gravlax   864596076  7  1 Bf  -     -     -         1850    5    0 
+Gravlax   864596100  7  7 c   k     b     -         1845   40   75 
+Gravlax   864596126  7  6 c   b     k     kf        1880   30    0 
+Gravlax   864596169  7  5 cc  f     -     -         1850   20    0 
+Gravlax   864596233  7  4 f   -     -     -         1830    0    0 
+Gravlax   864596247  7  3 f   -     -     -         1830    0    0 
+Gravlax   864596266  6  2 Bc  c     b     -         1830   50   80 
+Gravlax   864596290  6  1 Bf  -     -     -         1860    5    0 
+Gravlax   864596297  6  6 f   -     -     -         1855    0    0 
+Gravlax   864596332  6  5 f   -     -     -         1855    0    0 
+Gravlax   864596364  6  4 f   -     -     -         1855    0    0 
+Gravlax   864596394  6  3 c   k     k     c         1855   30  105 8s Ac
+Gravlax   864596439  6  2 Bk  k     kf    -         1930   10    0 
+Gravlax   864596474  6  1 Bc  k     k     b         1920   30   40 
+Gravlax   864596502  5  5 cc  k     k     f         1930   20    0 
+Gravlax   864596541  5  4 f   -     -     -         1910    0    0 
+Gravlax   864596551  5  3 f   -     -     -         1910    0    0 
+Gravlax   864596582  5  2 Bf  -     -     -         1910   10    0 
+Gravlax   864596595  5  1 Bf  -     -     -         1900    5    0 
+Gravlax   864596625  5  5 c   f     -     -         1895   10    0 
+Gravlax   864596653  6  5 f   -     -     -         1885    0    0 
+Gravlax   864596696  6  4 f   -     -     -         1885    0    0 
+Gravlax   864596728  6  3 c   k     b     bc        1885   70    0 5d Ac
+Gravlax   864596762  6  2 Bk  k     k     k         1815   10   25 Jh Ks
+Gravlax   864596800  6  1 Bc  k     k     k         1830   10    0 9c Th
+Gravlax   864596830  6  6 f   -     -     -         1820    0    0 
+Gravlax   864596854  6  5 c   k     f     -         1820   10    0 
+Gravlax   864596889  6  4 r   b     b     bc        1810   90    0 Ad 2d
+Gravlax   864596936  6  3 cc  f     -     -         1720   20    0 
+Gravlax   864597060  6  2 Bk  b     k     k         1700   20    0 4h 2c
+Gravlax   864597132  6  1 Bf  -     -     -         1680    5    0 
+Gravlax   864597144  6  6 f   -     -     -         1675    0    0 
+Gravlax   864597193  7  6 f   -     -     -         1675    0    0 
+Gravlax   864597242  7  5 f   -     -     -         1675    0    0 
+Gravlax   864597280  7  4 f   -     -     -         1675    0    0 
+Gravlax   864597341  8  3 cc  kf    -     -         1675   20    0 
+Gravlax   864597410  8  2 Bk  kc    kc    kc        1655   60    0 7s 8s
+Gravlax   864597453  8  1 Bf  -     -     -         1595    5    0 
+Gravlax   864597481  9  9 f   -     -     -         1590    0    0 
+Gravlax   864597618  9  8 c   k     c     k         1590   30    0 Tc Ac
+Gravlax   864597670  9  7 cQ  -     -     -         1560   10    0 
+Gravlax   864610533 12  2 Bc  kf    -     -         1550   20    0 
+Gravlax   864610633 12  1 Bc  kf    -     -         1530   20    0 
+Gravlax   864610733 12 12 f   -     -     -         1510    0    0 
+Gravlax   864610853 12 11 f   -     -     -         1510    0    0 
+Gravlax   864610910 12 11 f   -     -     -         1510    0    0 
+Gravlax   864611000 12  9 c   f     -     -         1510   10    0 
+Gravlax   864611071 12  8 f   -     -     -         1500    0    0 
+Gravlax   864611137 12  7 cc  kc    k     f         1500   40    0 
+Gravlax   864611294 12  6 c   rc    kc    kf        1460   62    0 
+Gravlax   864611404 11  4 c   bc    b     k         1398   50  103 Ad 9h
+Gravlax   864611477 11  3 f   -     -     -         1451    0    0 
+Gravlax   864611545 11  2 Bk  kc    kf    -         1451   20    0 
+Gravlax   864611590 11  1 Bc  kcr   k     b         1431   80    0 Kh Kc
+Gravlax   864611695 11 11 f   -     -     -         1351    0    0 
+Gravlax   864611799 11 10 f   -     -     -         1351    0    0 
+Gravlax   864611876 10  8 cc  f     -     -         1351   20    0 
+Gravlax   864611938 10  7 cc  c     crc   bc        1331  160    0 9s Th
+Gravlax   864612015 11  8 ccc cc    kf    -         1171   60    0 
+Gravlax   864612153  9  6 f   -     -     -         1111    0    0 
+Gravlax   864612202  9  5 f   -     -     -         1111    0    0 
+Gravlax   864612236  9  4 cc  rc    kc    k         1111   80    0 Jh 9h
+Gravlax   864612319  9  3 c   kf    -     -         1031   10    0 
+Gravlax   864612406  9  2 Bk  bc    b     bc        1021   90    0 Ad Js
+Gravlax   864612450  9  1 Bf  -     -     -          931    5    0 
+Gravlax   864612489 11 11 c   k     c     f          926   40    0 
+Gravlax   864612571 12 11 f   -     -     -          886    0    0 
+Gravlax   864612627 10  9 f   -     -     -          886    0    0 
+Gravlax   864612655 11  9 f   -     -     -          886    0    0 
+Gravlax   864612749 12  8 c   k     b     b          886   50  115 
+Gravlax   864612832 12  7 f   -     -     -          951    0    0 
+Gravlax   864612987 12  6 f   -     -     -          951    0    0 
+Gravlax   864613069 12  5 c   bc    kc    kf         951   50    0 
+Gravlax   864613153 12  4 c   cc    f     -          901   30    0 
+Gravlax   864613256 11  3 cc  kf    -     -          871   20    0 
+Gravlax   864613333 12  2 Bf  -     -     -          851   10    0 
+Gravlax   864613402 12  1 Bf  -     -     -          841    5    0 
+Gravlax   864613488 12 12 c   b     b     b          836   60  155 
+Gravlax   864613595 11 11 cc  c     c     f          931   50    0 
+Gravlax   864613673 10  8 r   c     c     r          881   90    0 6c Ac
+Gravlax   864613729 10  8 cc  f     Q     -          791   20    0 
+Gravlax   864619755  8  2 Bk  k     b     -          771   30   50 
+Gravlax   864619793  8  1 Bf  -     -     -          791    5    0 
+Gravlax   864619857  8  8 c   c     c     f          786   50    0 
+Gravlax   864619915  8  7 cc  f     -     -          736   20    0 
+Gravlax   864619954  8  6 fQ  -     -     -          716    0    0 
+Gravlax   864662750  4  3 f   -     -     -          716    0    0 
+Gravlax   864662764  4  2 Bc  c     r     c          716   90    0 3s 7s
+Gravlax   864662790  4  1 Bf  -     -     -          626    5    0 
+Gravlax   864662811  4  4 cc  c     c     b          621   70  150 7c 7h
+Gravlax   864662836  4  3 f   -     -     -          701    0    0 
+Gravlax   864662857  4  2 Bc  kc    k     bc         701   70    0 5s 2d
+Gravlax   864662887  4  1 Bf  -     -     -          631    5    0 
+Gravlax   864662914  4  4 f   -     -     -          626    0    0 
+Gravlax   864662923  4  3 r   kc    kc    kf         626   50    0 
+Gravlax   864662951  4  2 Br  r     c     r          576  110  300 
+Gravlax   864662987  4  1 Bc  b     b     b          766   60  160 8h 8d
+Gravlax   864663012  4  4 f   -     -     -          866    0    0 
+Gravlax   864663022  4  3 cc  kf    -     -          866   20    0 
+Gravlax   864663039  4  2 Bc  k     k     b          846   40   65 
+Gravlax   864663056  4  1 Bc  kc    k     k          871   20   60 Ac Qs
+Gravlax   864663083  4  4 f   -     -     -          911    0    0 
+Gravlax   864663094  4  3 cc  kc    kf    -          911   30    0 
+Gravlax   864663130  5  2 Bk  bc    k     k          881   30    0 7s 6d
+Gravlax   864663182  5  1 Bf  -     -     -          851    5    0 
+Gravlax   864663274  3  3 f   -     -     -          846    0    0 
+Gravlax   864663295  5  2 Bk  kf    -     -          846   10    0 
+Gravlax   864663341  6  1 Bc  bc    bc    bc         836  110    0 Td Tc
+Gravlax   864663412  7  7 f   -     -     -          726    0    0 
+Gravlax   864663448  7  6 c   f     -     -          726   10    0 
+Gravlax   864663498  7  5 f   -     -     -          716    0    0 
+Gravlax   864663521  7  4 cc  kf    -     -          716   20    0 
+Gravlax   864663551  7  3 c   c     f     -          696   20    0 
+Gravlax   864663591  7  2 Bc  kc    kc    k          676   50    0 4d 5h
+Gravlax   864663640  6  1 Bf  -     -     -          626    5    0 
+Gravlax   864663670  6  6 f   -     -     -          621    0    0 
+Gravlax   864663684  5  4 f   -     -     -          621    0    0 
+Gravlax   864663700  4  2 c   c     r     c          621   80  160 Th Ad
+Gravlax   864663741  4  2 Bc  kf    -     -          701   20    0 
+Gravlax   864663774  4  1 Bc  kc    k     k          681   40    0 As 4c
+Gravlax   864663833  4  4 f   -     -     -          641    0    0 
+Gravlax   864663844  4  3 f   -     -     -          641    0    0 
+Gravlax   864663853  4  2 Bk  k     k     k          641   10    0 Js Qs
+Gravlax   864663877  4  1 Bf  -     -     -          631    5    0 
+Gravlax   864663885  4  4 c   c     k     c          626   40    0 3h 5h
+Gravlax   864663920  4  3 f   -     -     -          586    0    0 
+Gravlax   864663951  4  2 Bf  -     -     -          586   10    0 
+Gravlax   864663990  5  1 Bf  -     -     -          576    5    0 
+Gravlax   864664072  4  4 c   c     k     b          571   40    0 6s 6c
+Gravlax   864664112  4  3 f   -     -     -          531    0    0 
+Gravlax   864664122  4  2 Bf  -     -     -          531   10    0 
+Gravlax   864664129  4  1 Bf  -     -     -          521    5    0 
+Gravlax   864664148  4  4 f   -     -     -          516    0    0 
+Gravlax   864664174  4  3 f   -     -     -          516    0    0 
+Gravlax   864664221  5  2 Bf  -     -     -          516   10    0 
+Gravlax   864664233  5  1 Bc  b     k     bc         506   70    0 Qc Qd
+Gravlax   864664302  5  5 c   k     k     c          436   30    0 7s 7h
+Gravlax   864664361  5  4 c   k     c     b          406   50  120 4c Qh
+Gravlax   864664422  5  3 cc  bc    bc    k          476   80    0 Js Tc
+Gravlax   864664476  5  2 B   -     -     -          396   10   15 
+Gravlax   864664492  4  1 Bc  f     -     -          401   20    0 
+Gravlax   864664515  4  4 f   -     -     -          381    0    0 
+Gravlax   864664549  4  3 f   -     -     -          381    0    0 
+Gravlax   864664559  4  2 Bc  bc    kcA   -          381   60    0 Js Ac

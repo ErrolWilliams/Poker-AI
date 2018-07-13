@@ -1,0 +1,105 @@
+bandit    925695874  2  1 Bf  -     -     -         2757    5    0 
+bandit    925695880  2  2 Bk  c     c     c         2752   60    0 Jd 4s
+bandit    925695902  2  1 Bc  k     k     k         2692   10    0 5s 2s
+bandit    925695916  2  2 B   -     -     -         2682   10   15 
+bandit    925695923  2  1 Bf  -     -     -         2687    5    0 
+bandit    925695926  2  2 Bf  -     -     -         2682   10    0 
+bandit    925695929  2  1 Bf  -     -     -         2672    5    0 
+bandit    925695933  2  2 B   -     -     -         2667   10   15 
+bandit    925695935  2  1 Bc  k     k     b         2672   30   40 
+bandit    925695950  2  2 B   -     -     -         2682   10   15 
+bandit    925695953  2  1 Bf  -     -     -         2687    5    0 
+bandit    925695955  2  2 B   -     -     -         2682   10   15 
+bandit    925695957  2  1 Bc  k     k     k         2687   10   20 Qs 5s
+bandit    925695975  2  2 Bk  c     b     b         2697   60  100 
+bandit    925695997  3  1 Bf  -     -     -         2737    5    0 
+bandit    925696001  3  3 f   -     -     -         2732    0    0 
+bandit    925696005  3  2 Bk  kf    -     -         2732   10    0 
+bandit    925696035  3  1 Bc  k     kc    kf        2722   30    0 
+bandit    925696058  3  3 c   c     k     k         2692   20   45 Qh 9h
+bandit    925696079  3  2 Bk  k     b     -         2717   30   40 
+bandit    925696098  3  1 Bc  k     k     k         2727   10    0 As 5h
+bandit    925696125  4  4 f   -     -     -         2717    0    0 
+bandit    925696145  4  3 f   -     -     -         2717    0    0 
+bandit    925696171  4  2 Bk  b     b     -         2717   40   80 
+bandit    925696198  4  1 Bf  -     -     -         2757    5    0 
+bandit    925696219  4  4 cc  c     f     -         2752   30    0 
+bandit    925696248  4  3 c   f     -     -         2722   10    0 
+bandit    925696277  4  2 Bk  kf    -     -         2712   10    0 
+bandit    925696290  4  1 Bf  -     -     -         2702    5    0 
+bandit    925696321  4  4 c   k     k     f         2697   10    0 
+bandit    925696363  5  4 c   c     c     b         2687   60  220 6c 7d
+bandit    925696416  6  4 c   kf    -     -         2847   10    0 
+bandit    925696462  6  3 f   -     -     -         2837    0    0 
+bandit    925696496  6  2 Bk  kc    kf    -         2837   20    0 
+bandit    925696518  7  1 Bf  -     -     -         2817    5    0 
+bandit    925696550  7  7 c   f     -     -         2812   20    0 
+bandit    925696597  8  7 f   -     -     -         2792    0    0 
+bandit    925696644  8  6 f   -     -     -         2792    0    0 
+bandit    925696747  7  5 c   f     -     -         2792   20    0 
+bandit    925696782  6  4 c   kf    -     -         2772   10    0 
+bandit    925696818  6  3 f   -     -     -         2762    0    0 
+bandit    925696864  6  2 Bc  bc    kc    kc        2762  110    0 9s 8h
+bandit    925696928  6  1 Bf  -     -     -         2652    5    0 
+bandit    925696988  7  7 c   k     f     -         2647   10    0 
+bandit    925697027  7  6 f   -     -     -         2637    0    0 
+bandit    925697073  7  5 c   c     cf    -         2637   50    0 
+bandit    925697112  6  4 f   -     -     -         2587    0    0 
+bandit    925697131  6  3 c   kf    -     -         2587   10    0 
+bandit    925697177  7  2 Bk  kc    kc    k         2577   40    0 5d Qd
+bandit    925697242  7  1 Bc  kcc   kc    kc        2537   90  260 Js Qc
+bandit    925697296  8  8 f   -     -     -         2707    0    0 
+bandit    925697344  8  7 c   ccc   c     f         2707   70    0 
+bandit    925697432  8  6 f   -     -     -         2637    0    0 
+bandit    925697485  9  6 cc  kf    -     -         2637   30    0 
+bandit    925697559 10  6 f   -     -     -         2607    0    0 
+bandit    925697627 10  5 f   -     -     -         2607    0    0 
+bandit    925697691 10  4 cc  kc    kc    kf        2607   50    0 
+bandit    925697749 10  3 cc  kf    -     -         2557   20    0 
+bandit    925697814  9  2 Bk  kc    kc    kc        2537   60    0 8d Jh
+bandit    925697860  9  1 Bf  -     -     -         2477    5    0 
+bandit    925697895  8  8 f   -     -     -         2472    0    0 
+bandit    925697935  8  7 c   c     f     -         2472   30    0 
+bandit    925697979  8  6 cc  f     -     -         2442   20    0 
+bandit    925698055  8  5 f   -     -     -         2422    0    0 
+bandit    925698095  8  4 f   -     -     -         2422    0    0 
+bandit    925698141  8  3 f   -     -     -         2422    0    0 
+bandit    925698168  7  2 Bk  kc    kc    k         2422   40   85 8h Ah
+bandit    925698211  7  1 Br  b     b     bc        2467   90    0 Kc Ac
+bandit    925698251  7  7 f   -     -     -         2377    0    0 
+bandit    925698293  7  6 c   f     -     -         2377   20    0 
+bandit    925698308  7  5 c   k     k     b         2357   30   90 9s Qc
+bandit    925698358  6  3 r   bc    b     b         2417   80  180 
+bandit    925698391  7  2 Bf  -     -     -         2517   10    0 
+bandit    925698435  7  1 Bc  kc    kc    kc        2507   60    0 Th As
+bandit    925698474  7  7 c   c     c     f         2447   40    0 
+bandit    925698531  9  8 f   -     -     -         2407    0    0 
+bandit    925698564  9  7 c   c     b     b         2407   60  180 5s 9s
+bandit    925698603  9  6 f   -     -     -         2527    0    0 
+bandit    925698634  8  4 f   -     -     -         2527    0    0 
+bandit    925698673 10  5 f   -     -     -         2527    0    0 
+bandit    925698742 10  4 f   -     -     -         2527    0    0 
+bandit    925698773 10  3 f   -     -     -         2527    0    0 
+bandit    925698845 10  2 Bk  kf    -     -         2527   10    0 
+bandit    925698914 10  1 Bf  -     -     -         2517    5    0 
+bandit    925698989 10 10 f   -     -     -         2512    0    0 
+bandit    925699060 10  5 Q   -     -     -         2512    0    0 
+bandit    925954931  9  2 Bc  b     b     bcc       5782  130    0 Ks As
+bandit    925954994 10  1 Bf  -     -     -         5652    5    0 
+bandit    925955027 10 10 f   -     -     -         5647    0    0 
+bandit    925955091 10  9 f   -     -     -         5647    0    0 
+bandit    925955158  8  6 c   c     k     c         5647   40  110 Ad 4h
+bandit    925955202  9  5 f   -     -     -         5717    0    0 
+bandit    925955224  9  4 ccc kc    k     k         5717   50    0 2h 6h
+bandit    925955281  9  3 f   -     -     -         5667    0    0 
+bandit    925955326  9  2 Bk  kc    kf    -         5667   20    0 
+bandit    925955363  9  1 Bf  -     -     -         5647    5    0 
+bandit    925955391  9  9 f   -     -     -         5642    0    0 
+bandit    925955439  9  8 c   k     f     -         5642   10    0 
+bandit    925955465 10  7 f   -     -     -         5632    0    0 
+bandit    925955509 10  6 f   -     -     -         5632    0    0 
+bandit    925955543 10  5 c   kc    kc    kf        5632   40    0 
+bandit    925955594 10  4 cc  kf    -     -         5592   20    0 
+bandit    925955620 10  3 r   br    brc   bc        5572  170  505 2c 2s
+bandit    925955680 10  2 Bk  kc    k     kf        5907   20    0 
+bandit    925955723 10  1 Bc  kQ    -     -         5887   10    0 

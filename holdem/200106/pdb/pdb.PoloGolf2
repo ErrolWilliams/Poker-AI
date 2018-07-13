@@ -1,0 +1,706 @@
+PoloGolf2 991403337  6  3 c   k     f     -          493   10    0 
+PoloGolf2 991403380  6  2 Bf  -     -     -          483   10    0 
+PoloGolf2 991403471  6  1 Bf  -     -     -          473    5    0 
+PoloGolf2 991403533  6  6 r   b     b     b          468   70  155 Kd Kh
+PoloGolf2 991403561  6  5 c   b     b     k          553   40  140 Qc Jc
+PoloGolf2 991403621  6  4 f   -     -     -          653    0    0 
+PoloGolf2 991403656  6  3 r   b     b     b          653   70  155 Kh Qh
+PoloGolf2 991403694  6  2 Bk  k     k     k          738   10    0 3d Qs
+PoloGolf2 991403841  7  1 Bc  k     b     b          728   50  160 7h 9h
+PoloGolf2 991403904  8  8 f   -     Q     -          838    0    0 
+PoloGolf2 991597731 10  1 Bf  -     -     -          535    5    0 
+PoloGolf2 991597777  9  9 c   f     -     -          530   10    0 
+PoloGolf2 991597821  9  9 f   -     -     -          520    0    0 
+PoloGolf2 991597869  9  8 c   rr    rr    brc        520  210  680 2s 2h
+PoloGolf2 991597941 10  7 c   b     brc   kc         990  120  290 4d 4h
+PoloGolf2 991598027 10  6 cc  kf    -     -         1160   20    0 
+PoloGolf2 991598130 10  5 f   -     -     -         1140    0    0 
+PoloGolf2 991598192 10  4 f   -     -     -         1140    0    0 
+PoloGolf2 991598249 10  3 f   -     -     -         1140    0    0 
+PoloGolf2 991598344 10  2 Bc  k     r     b         1140   80  290 5s 4d
+PoloGolf2 991598428 10  1 Bf  -     -     -         1350    5    0 
+PoloGolf2 991598543 10 10 f   -     -     -         1345    0    0 
+PoloGolf2 991598584  9  8 f   -     -     -         1345    0    0 
+PoloGolf2 991598659  9  7 f   -     -     -         1345    0    0 
+PoloGolf2 991598702  9  6 f   -     -     -         1345    0    0 
+PoloGolf2 991598736  9  5 f   -     -     -         1345    0    0 
+PoloGolf2 991598778  9  4 f   -     -     -         1345    0    0 
+PoloGolf2 991598819  9  3 f   -     -     -         1345    0    0 
+PoloGolf2 991598866  9  2 Bf  -     -     -         1345   10    0 
+PoloGolf2 991598934 10  1 Bf  -     -     -         1335    5    0 
+PoloGolf2 991599001 10 10 f   -     -     -         1330    0    0 
+PoloGolf2 991599081  9  8 c   f     -     -         1330   10    0 
+PoloGolf2 991599133  9  7 c   c     f     -         1320   30    0 
+PoloGolf2 991599197  9  7 f   -     -     -         1290    0    0 
+PoloGolf2 991599258  8  6 c   k     f     -         1290   10    0 
+PoloGolf2 991599322  9  5 f   -     -     -         1280    0    0 
+PoloGolf2 991599356  9  4 f   -     -     -         1280    0    0 
+PoloGolf2 991599466 10  3 f   -     -     -         1280    0    0 
+PoloGolf2 991599565 10  2 Bf  -     -     -         1280   10    0 
+PoloGolf2 991599615 10  1 Bc  k     kf    -         1270   20    0 
+PoloGolf2 991599710 10 10 f   -     -     -         1250    0    0 
+PoloGolf2 991599764 10  9 c   k     k     f         1250   30    0 
+PoloGolf2 991599818 10  8 c   c     cc    f         1220   80    0 
+PoloGolf2 991599908 10  7 f   -     -     -         1140    0    0 
+PoloGolf2 991599949 10  6 f   -     -     -         1140    0    0 
+PoloGolf2 991600014 10  5 f   -     -     -         1140    0    0 
+PoloGolf2 991600073 10  4 f   -     -     -         1140    0    0 
+PoloGolf2 991600128 10  3 f   -     -     -         1140    0    0 
+PoloGolf2 991600205 10  2 Bf  -     -     -         1140   10    0 
+PoloGolf2 991600274 10  1 Bf  -     -     -         1130    5    0 
+PoloGolf2 991600333 10 10 f   -     -     -         1125    0    0 
+PoloGolf2 991600423 10  9 f   -     -     -         1125    0    0 
+PoloGolf2 991600446 10  8 f   -     -     -         1125    0    0 
+PoloGolf2 991600521  9  6 f   -     -     -         1125    0    0 
+PoloGolf2 991600550  9  5 f   -     -     -         1125    0    0 
+PoloGolf2 991600649  9  4 f   -     -     -         1125    0    0 
+PoloGolf2 991600738  9  3 f   -     -     -         1125    0    0 
+PoloGolf2 991600792  8  2 Bk  kf    -     -         1125   10    0 
+PoloGolf2 991600843  9  1 Bf  -     -     -         1115    5    0 
+PoloGolf2 991600900  9  9 f   -     -     -         1110    0    0 
+PoloGolf2 991600932 10  8 f   -     -     -         1110    0    0 
+PoloGolf2 991600975 10  7 f   -     -     -         1110    0    0 
+PoloGolf2 991601041 10  6 f   -     -     -         1110    0    0 
+PoloGolf2 991601139  8  4 f   -     -     -         1110    0    0 
+PoloGolf2 991601196  8  3 f   -     -     -         1110    0    0 
+PoloGolf2 991601278  7  2 Bc  kf    -     -         1110   30    0 
+PoloGolf2 991601328  6  1 Bc  kc    kf    -         1080   30    0 
+PoloGolf2 991601367  5  5 f   -     -     -         1050    0    0 
+PoloGolf2 991601412  5  4 f   -     -     -         1050    0    0 
+PoloGolf2 991601442  5  3 f   -     -     -         1050    0    0 
+PoloGolf2 991601491  5  2 Bf  -     -     -         1050   10    0 
+PoloGolf2 991601512  4  1 Bf  -     -     -         1040    5    0 
+PoloGolf2 991601578  4  4 c   k     k     k         1035   10    0 6c 3c
+PoloGolf2 991601622  3  2 f   -     -     -         1025    0    0 
+PoloGolf2 991601641  3  2 Bk  f     -     -         1025   10    0 
+PoloGolf2 991601664  3  1 Bf  -     -     -         1015    5    0 
+PoloGolf2 991601671  3  3 f   -     -     -         1010    0    0 
+PoloGolf2 991601677  3  2 Bk  k     f     -         1010   10    0 
+PoloGolf2 991601691  3  1 Bf  -     -     -         1000    5    0 
+PoloGolf2 991601715  4  4 f   -     -     -          995    0    0 
+PoloGolf2 991601736  4  3 f   -     -     -          995    0    0 
+PoloGolf2 991601742  4  2 Bk  f     -     -          995   10    0 
+PoloGolf2 991601762  4  1 Bf  -     -     -          985    5    0 
+PoloGolf2 991601770  4  4 f   -     -     -          980    0    0 
+PoloGolf2 991601801  4  3 f   -     -     -          980    0    0 
+PoloGolf2 991601833  4  2 Bk  k     k     k          980   10   30 7s Ah
+PoloGolf2 991601861  4  1 Bf  -     -     -         1000    5    0 
+PoloGolf2 991601869  4  4 f   -     -     -          995    0    0 
+PoloGolf2 991601891  5  4 f   -     -     -          995    0    0 
+PoloGolf2 991601910  5  3 f   -     -     -          995    0    0 
+PoloGolf2 991601930  6  2 Bk  kf    -     -          995   10    0 
+PoloGolf2 991601987  6  1 Bf  -     -     -          985    5    0 
+PoloGolf2 991602027  6  6 cc  f     -     -          980   30    0 
+PoloGolf2 991602057  6  5 f   -     -     -          950    0    0 
+PoloGolf2 991602090  6  4 cc  c     k     f          950   30    0 
+PoloGolf2 991602138  7  4 cc  kf    -     -          920   20    0 
+PoloGolf2 991602188  7  3 f   -     -     -          900    0    0 
+PoloGolf2 991602228  7  2 Bf  -     -     -          900   10    0 
+PoloGolf2 991602269  7  1 Bf  -     -     -          890    5    0 
+PoloGolf2 991602299  8  8 f   -     -     -          885    0    0 
+PoloGolf2 991602345  7  7 f   -     -     -          885    0    0 
+PoloGolf2 991602378  7  6 f   -     -     -          885    0    0 
+PoloGolf2 991602424  7  5 f   -     -     -          885    0    0 
+PoloGolf2 991602441  7  4 f   -     -     -          885    0    0 
+PoloGolf2 991602459  7  3 f   -     -     -          885    0    0 
+PoloGolf2 991602508  7  2 Bf  -     -     -          885   10    0 
+PoloGolf2 991602549  7  1 Bf  -     -     -          875    5    0 
+PoloGolf2 991602601  6  6 f   -     -     -          870    0    0 
+PoloGolf2 991602648  5  4 f   -     -     -          870    0    0 
+PoloGolf2 991602705  5  3 f   -     -     -          870    0    0 
+PoloGolf2 991602714  5  2 Bf  -     -     -          870   10    0 
+PoloGolf2 991602741  5  1 Bf  -     -     -          860    5    0 
+PoloGolf2 991602763  5  5 f   -     -     -          855    0    0 
+PoloGolf2 991602771  5  4 f   -     -     -          855    0    0 
+PoloGolf2 991602812  5  3 f   -     -     -          855    0    0 
+PoloGolf2 991602823  5  2 Bk  kf    -     -          855   10    0 
+PoloGolf2 991602864  5  1 Bf  -     -     -          845    5    0 
+PoloGolf2 991602891  5  5 f   -     -     -          840    0    0 
+PoloGolf2 991602923  5  4 f   -     -     -          840    0    0 
+PoloGolf2 991602990  4  3 f   -     -     -          840    0    0 
+PoloGolf2 991602998  4  2 Bk  k     k     k          840   10    0 Kd 9s
+PoloGolf2 991603022  4  1 Bf  -     -     -          830    5    0 
+PoloGolf2 991603056  4  4 f   -     -     -          825    0    0 
+PoloGolf2 991603072  4  3 f   -     -     -          825    0    0 
+PoloGolf2 991603107  4  2 Bf  -     -     -          825   10    0 
+PoloGolf2 991603141  4  1 Bf  -     -     -          815    5    0 
+PoloGolf2 991603149  4  4 f   -     -     -          810    0    0 
+PoloGolf2 991603154  5  3 f   -     -     -          810    0    0 
+PoloGolf2 991603190  5  2 Bf  -     -     -          810   10    0 
+PoloGolf2 991603213  5  1 Bf  -     -     -          800    5    0 
+PoloGolf2 991603235  5  5 f   -     -     -          795    0    0 
+PoloGolf2 991603287  5  4 f   -     -     -          795    0    0 
+PoloGolf2 991603299  5  3 f   -     -     -          795    0    0 
+PoloGolf2 991603322  5  2 B   -     -     -          795   10   15 
+PoloGolf2 991603334  5  1 Bf  -     -     -          800    5    0 
+PoloGolf2 991603364  5  5 f   -     -     -          795    0    0 
+PoloGolf2 991603396  7  6 f   -     -     -          795    0    0 
+PoloGolf2 991603450  7  5 f   -     -     -          795    0    0 
+PoloGolf2 991603510  8  4 f   -     -     -          795    0    0 
+PoloGolf2 991603561  7  3 f   -     -     -          795    0    0 
+PoloGolf2 991603618  8  2 Bk  k     kf    -          795   10    0 
+PoloGolf2 991603659  9  1 Bf  -     -     -          785    5    0 
+PoloGolf2 991603716  9  9 f   -     -     -          780    0    0 
+PoloGolf2 991603760  9  8 f   -     -     -          780    0    0 
+PoloGolf2 991603790  9  7 f   -     -     -          780    0    0 
+PoloGolf2 991603826 10  6 f   -     -     -          780    0    0 
+PoloGolf2 991603909 10  5 f   -     -     -          780    0    0 
+PoloGolf2 991603957 10  4 f   -     -     -          780    0    0 
+PoloGolf2 991604012 10  3 f   -     -     -          780    0    0 
+PoloGolf2 991604054 10  2 Bf  -     -     -          780   10    0 
+PoloGolf2 991604117 10  1 Bf  -     -     -          770    5    0 
+PoloGolf2 991604156 10 10 f   -     -     -          765    0    0 
+PoloGolf2 991604203 10  9 f   -     -     -          765    0    0 
+PoloGolf2 991604256 10  8 f   -     -     -          765    0    0 
+PoloGolf2 991604300 10  7 r   bc    kr    b          765  100    0 Qh Ks
+PoloGolf2 991604361 10  6 f   -     -     -          665    0    0 
+PoloGolf2 991604412 10  5 f   -     -     -          665    0    0 
+PoloGolf2 991604465 10  4 f   -     -     -          665    0    0 
+PoloGolf2 991604513 10  3 rr  k     br    k          665  100  215 Ad Jd
+PoloGolf2 991604563 10  2 Bc  kf    -     -          780   20    0 
+PoloGolf2 991604632 10  1 Bcc br    k     k          760   60    0 Ac 9h
+PoloGolf2 991604675 10 10 f   -     -     -          700    0    0 
+PoloGolf2 991604705 10  9 c   k     r     -          700   50  100 
+PoloGolf2 991604757 10  8 f   -     -     -          750    0    0 
+PoloGolf2 991604805 10  7 f   -     -     -          750    0    0 
+PoloGolf2 991604831 10  6 f   -     -     -          750    0    0 
+PoloGolf2 991604892  8  5 rr  k     k     f          750   40    0 
+PoloGolf2 991604964  8  3 f   -     -     -          710    0    0 
+PoloGolf2 991605053 10  3 c   k     k     c          710   30    0 Ks 7s
+PoloGolf2 991605115 10  2 Bk  kf    -     -          680   10    0 
+PoloGolf2 991605201 10  1 Bf  -     -     -          670    5    0 
+PoloGolf2 991605269 10 10 f   -     -     -          665    0    0 
+PoloGolf2 991605302 10  9 f   -     -     -          665    0    0 
+PoloGolf2 991605333 10  8 f   -     -     -          665    0    0 
+PoloGolf2 991605353 10  7 f   -     -     -          665    0    0 
+PoloGolf2 991605398 10  6 f   -     -     -          665    0    0 
+PoloGolf2 991605467 10  5 f   -     -     -          665    0    0 
+PoloGolf2 991605543 10  4 cr  kc    kf    -          665   40    0 
+PoloGolf2 991605603 10  3 c   kf    -     -          625   10    0 
+PoloGolf2 991605702 10  2 Br  kc    kc    kc         615   70  180 Kd Kh
+PoloGolf2 991605756 10  1 Bf  -     -     -          725    5    0 
+PoloGolf2 991605781 10 10 f   -     -     -          720    0    0 
+PoloGolf2 991605827 10  9 r   b     b     b          720   70  165 
+PoloGolf2 991605880  9  7 c   kf    -     -          815   20    0 
+PoloGolf2 991605918  9  6 c   f     -     -          795   20    0 
+PoloGolf2 991605989  9  5 rc  rr    rr    k          775  160  335 6d 6c
+PoloGolf2 991606035  8  5 cc  f     -     -          950   20    0 
+PoloGolf2 991606088  6  3 f   -     -     -          930    0    0 
+PoloGolf2 991606110  6  2 B   -     -     -          930   10   15 
+PoloGolf2 991606116  6  1 Bf  -     -     -          935    5    0 
+PoloGolf2 991606133  6  6 c   k     f     -          930   10    0 
+PoloGolf2 991606181  6  5 c   f     -     -          920   10    0 
+PoloGolf2 991606213  5  3 f   -     -     -          910    0    0 
+PoloGolf2 991606253  5  2 Bk  k     f     -          910   10    0 
+PoloGolf2 991606286  5  1 Bc  kf    -     -          900   20    0 
+PoloGolf2 991606330  5  5 f   -     -     -          880    0    0 
+PoloGolf2 991606379  5  4 f   -     -     -          880    0    0 
+PoloGolf2 991606403  5  3 f   -     -     -          880    0    0 
+PoloGolf2 991606419  5  2 Bf  -     -     -          880   10    0 
+PoloGolf2 991606446  4  1 Bf  -     -     -          870    5    0 
+PoloGolf2 991606450  4  4 f   -     -     -          865    0    0 
+PoloGolf2 991606453  4  3 c   c     c     c          865   60    0 7h 8h
+PoloGolf2 991606478  4  2 B   -     -     -          805   10   15 
+PoloGolf2 991606485  4  1 Bc  kf    -     -          810   10    0 
+PoloGolf2 991606523  4  4 c   c     k     k          800   30    0 6d 3d
+PoloGolf2 991606566  4  3 c   k     Q     -          770   10    0 
+PoloGolf2 991608530  9  4 f   -     -     -          760    0    0 
+PoloGolf2 991608600 10  4 f   -     -     -          760    0    0 
+PoloGolf2 991608649  9  2 Bf  -     -     -          760   10    0 
+PoloGolf2 991608703  9  1 Bf  -     -     -          750    5    0 
+PoloGolf2 991608725  9  9 f   -     -     -          745    0    0 
+PoloGolf2 991608781 10  9 f   -     -     -          745    0    0 
+PoloGolf2 991608815 10  8 f   -     -     -          745    0    0 
+PoloGolf2 991608851 10  7 f   -     -     -          745    0    0 
+PoloGolf2 991608898 10  6 f   -     -     -          745    0    0 
+PoloGolf2 991608949 10  5 f   -     -     -          745    0    0 
+PoloGolf2 991608986 10  4 f   -     -     -          745    0    0 
+PoloGolf2 991609019  9  3 f   -     -     -          745    0    0 
+PoloGolf2 991609074  9  2 Bk  kf    -     -          745   10    0 
+PoloGolf2 991609129  9  1 Bf  -     -     -          735    5    0 
+PoloGolf2 991609236 10 10 f   -     -     -          730    0    0 
+PoloGolf2 991609283 10  9 f   -     -     -          730    0    0 
+PoloGolf2 991609341  9  7 f   -     -     -          730    0    0 
+PoloGolf2 991609397  9  6 f   -     -     -          730    0    0 
+PoloGolf2 991609452 10  5 f   -     -     -          730    0    0 
+PoloGolf2 991609488 10  4 f   -     -     -          730    0    0 
+PoloGolf2 991609582 10  3 f   -     -     -          730    0    0 
+PoloGolf2 991609638 10  2 Bk  kf    -     -          730   10    0 
+PoloGolf2 991609824 10  1 Bf  -     -     -          720    5    0 
+PoloGolf2 991609888  8  8 f   -     -     -          715    0    0 
+PoloGolf2 991609904  9  8 f   -     -     -          715    0    0 
+PoloGolf2 991609946 10  8 f   -     -     -          715    0    0 
+PoloGolf2 991609997 10  7 f   -     -     -          715    0    0 
+PoloGolf2 991610055 10  6 f   -     -     -          715    0    0 
+PoloGolf2 991610095 10  5 f   -     -     -          715    0    0 
+PoloGolf2 991610163  9  4 f   -     -     -          715    0    0 
+PoloGolf2 991610185  9  3 f   -     -     -          715    0    0 
+PoloGolf2 991610216  9  2 Bc  kc    kf    -          715   30    0 
+PoloGolf2 991610259  9  1 Bf  -     -     -          685    5    0 
+PoloGolf2 991610291  9  9 f   -     -     -          680    0    0 
+PoloGolf2 991610363 10  9 c   c     f     -          680   30    0 
+PoloGolf2 991610421 10  8 c   f     -     -          650   10    0 
+PoloGolf2 991610477 10  7 f   -     -     -          640    0    0 
+PoloGolf2 991610531 10  6 f   -     -     -          640    0    0 
+PoloGolf2 991610583 10  5 f   -     -     -          640    0    0 
+PoloGolf2 991610637 10  4 f   -     -     -          640    0    0 
+PoloGolf2 991610685 10  3 r   k     k     k          640   20   65 Jc As
+PoloGolf2 991610747 10  2 Bk  f     -     -          685   10    0 
+PoloGolf2 991610790 10  1 Bf  -     -     -          675    5    0 
+PoloGolf2 991610844 10 10 c   k     k     f          670   10    0 
+PoloGolf2 991610884 10  9 f   -     -     -          660    0    0 
+PoloGolf2 991610956 10  8 f   -     -     -          660    0    0 
+PoloGolf2 991611023 10  7 cc  k     f     -          660   20    0 
+PoloGolf2 991611076 10  6 f   -     -     -          640    0    0 
+PoloGolf2 991611124 10  5 cc  kf    -     -          640   20    0 
+PoloGolf2 991611191 10  5 f   -     -     -          620    0    0 
+PoloGolf2 991611247 10  3 c   br    b     k          620   60    0 Qc Ac
+PoloGolf2 991611312 10  2 Bk  k     kc    k          560   30   80 4h Kh
+PoloGolf2 991611373 10  1 Bf  -     -     -          610    5    0 
+PoloGolf2 991611406 10 10 c   r     brc   c          605  140  335 Th Td
+PoloGolf2 991611467 10  9 c   f     -     -          800   10    0 
+PoloGolf2 991611534 10  8 f   -     -     -          790    0    0 
+PoloGolf2 991611568  9  6 f   -     -     -          790    0    0 
+PoloGolf2 991611617  8  5 f   -     -     -          790    0    0 
+PoloGolf2 991611672  8  4 c   k     kf    -          790   10    0 
+PoloGolf2 991611734  8  3 f   -     -     -          780    0    0 
+PoloGolf2 991611754  8  2 Bk  kf    -     -          780   10    0 
+PoloGolf2 991611805  9  1 Bf  -     -     -          770    5    0 
+PoloGolf2 991611855 10 10 c   k     c     f          765   50    0 
+PoloGolf2 991611919 10  9 f   -     -     -          715    0    0 
+PoloGolf2 991611957 10  8 f   -     -     -          715    0    0 
+PoloGolf2 991611998 10  7 c   k     k     k          715   10    0 5s 6d
+PoloGolf2 991612099 10  6 f   -     -     -          705    0    0 
+PoloGolf2 991612140 10  5 f   -     -     -          705    0    0 
+PoloGolf2 991612166 10  4 f   -     -     -          705    0    0 
+PoloGolf2 991612231 10  3 f   -     -     -          705    0    0 
+PoloGolf2 991612240 10  2 Bk  kr    b     b          705   80  220 
+PoloGolf2 991612311 10  1 Bc  k     b     -          845   30   50 
+PoloGolf2 991612385 10 10 f   -     -     -          865    0    0 
+PoloGolf2 991612436 10  9 f   -     -     -          865    0    0 
+PoloGolf2 991612532 10  8 c   f     -     -          865   10    0 
+PoloGolf2 991612581 10  8 f   -     -     -          855    0    0 
+PoloGolf2 991612615  9  6 r   b     b     b          855   70  155 
+PoloGolf2 991612660 10  5 c   k     c     c          940   50    0 Qh Th
+PoloGolf2 991612732 10  4 f   -     -     -          890    0    0 
+PoloGolf2 991612804 10  3 f   -     -     -          890    0    0 
+PoloGolf2 991612888 10  2 Bk  kf    -     -          890   10    0 
+PoloGolf2 991612937 10  1 Bf  -     -     -          880    5    0 
+PoloGolf2 991612984 10 10 f   -     -     -          875    0    0 
+PoloGolf2 991613060 10  9 f   -     -     -          875    0    0 
+PoloGolf2 991613117 10  8 f   -     -     -          875    0    0 
+PoloGolf2 991613181 10  7 f   -     -     -          875    0    0 
+PoloGolf2 991613260 10  6 f   -     -     -          875    0    0 
+PoloGolf2 991613321 10  5 c   kf    -     -          875   10    0 
+PoloGolf2 991613395 10  4 f   -     -     -          865    0    0 
+PoloGolf2 991613502 10  3 f   -     -     -          865    0    0 
+PoloGolf2 991613615 10  2 Bf  -     -     -          865   10    0 
+PoloGolf2 991613668  9  1 Bf  -     -     -          855    5    0 
+PoloGolf2 991613737  9  9 f   -     -     -          850    0    0 
+PoloGolf2 991613788  8  7 f   -     -     -          850    0    0 
+PoloGolf2 991613827  9  7 f   -     -     -          850    0    0 
+PoloGolf2 991613885 10  6 f   -     -     -          850    0    0 
+PoloGolf2 991613977 10  5 f   -     -     -          850    0    0 
+PoloGolf2 991614067 10  4 f   -     -     -          850    0    0 
+PoloGolf2 991614174 10  3 f   -     -     -          850    0    0 
+PoloGolf2 991614225  9  2 Bk  k     f     -          850   10    0 
+PoloGolf2 991614306 10  1 Bf  -     -     -          840    5    0 
+PoloGolf2 991614347 10 10 f   -     -     -          835    0    0 
+PoloGolf2 991614397 10  9 f   -     -     -          835    0    0 
+PoloGolf2 991614466 10  8 f   -     -     -          835    0    0 
+PoloGolf2 991614536 10  7 f   -     -     -          835    0    0 
+PoloGolf2 991614620  9  5 f   -     -     -          835    0    0 
+PoloGolf2 991614683  7  3 f   -     -     -          835    0    0 
+PoloGolf2 991614729  7  2 Bk  kf    -     -          835   10    0 
+PoloGolf2 991614763  7  1 Bf  -     -     -          825    5    0 
+PoloGolf2 991614799  7  7 f   -     -     -          820    0    0 
+PoloGolf2 991614825  7  6 f   -     -     -          820    0    0 
+PoloGolf2 991614883  8  6 f   -     -     -          820    0    0 
+PoloGolf2 991614942  8  5 f   -     -     -          820    0    0 
+PoloGolf2 991615038 10  6 f   -     -     -          820    0    0 
+PoloGolf2 991615107 10  5 c   c     f     -          820   20    0 
+PoloGolf2 991615202  9  3 f   -     -     -          800    0    0 
+PoloGolf2 991615275  9  2 Bf  -     -     -          800   10    0 
+PoloGolf2 991615337  9  1 Bf  -     -     -          790    5    0 
+PoloGolf2 991615407 10 10 f   -     -     -          785    0    0 
+PoloGolf2 991615466 10  9 f   -     -     -          785    0    0 
+PoloGolf2 991615513 10  8 f   -     -     -          785    0    0 
+PoloGolf2 991615570 10  7 f   -     -     -          785    0    0 
+PoloGolf2 991615643 10  6 f   -     -     -          785    0    0 
+PoloGolf2 991615712  9  4 f   -     -     -          785    0    0 
+PoloGolf2 991615759  9  3 f   -     -     -          785    0    0 
+PoloGolf2 991615839  9  2 Bk  kf    -     -          785   10    0 
+PoloGolf2 991615890  9  1 Bf  -     -     -          775    5    0 
+PoloGolf2 991615976  9  9 f   -     -     -          770    0    0 
+PoloGolf2 991616035 10  9 c   c     c     cc         770   90  420 8h 9s
+PoloGolf2 991616117 10  8 f   -     -     -         1100    0    0 
+PoloGolf2 991616204 10  7 f   -     -     -         1100    0    0 
+PoloGolf2 991616266 10  6 f   -     -     -         1100    0    0 
+PoloGolf2 991616334  9  5 c   f     -     -         1100   10    0 
+PoloGolf2 991616413  9  4 r   c     rr    b         1090  130  350 Ah Ks
+PoloGolf2 991616463  9  3 f   -     -     -         1310    0    0 
+PoloGolf2 991616606  7  1 Bf  -     -     -         1310   10    0 
+PoloGolf2 991616630  7  1 Bf  -     -     -         1300    5    0 
+PoloGolf2 991616664  7  7 f   -     -     -         1295    0    0 
+PoloGolf2 991616708  7  6 c   k     k     k         1295   10    0 7c 3c
+PoloGolf2 991616758  7  5 f   -     -     -         1285    0    0 
+PoloGolf2 991616779  6  4 f   -     -     -         1285    0    0 
+PoloGolf2 991616811  4  2 Bk  k     k     k         1285   10   25 4c Kc
+PoloGolf2 991616848  4  1 Bc  kf    -     -         1300   10    0 
+PoloGolf2 991616876  4  4 c   k     c     f         1290   40    0 
+PoloGolf2 991616925  4  3 f   -     -     -         1250    0    0 
+PoloGolf2 991616955  4  2 Brc brc   kc    kc        1250  120  260 Ac Ad
+PoloGolf2 991616999  4  1 Bc  k     k     kf        1390   10    0 
+PoloGolf2 991617032  4  4 cc  c     c     rr        1380  140  195 Js Ah
+PoloGolf2 991617080  5  4 f   -     -     -         1435    0    0 
+PoloGolf2 991617105  5  3 f   -     -     -         1435    0    0 
+PoloGolf2 991617136  5  2 Bf  -     -     -         1435   10    0 
+PoloGolf2 991617186  5  1 Bf  -     -     -         1425    5    0 
+PoloGolf2 991617230  4  4 f   -     -     -         1420    0    0 
+PoloGolf2 991617255  4  4 f   -     -     -         1420    0    0 
+PoloGolf2 991617287  5  4 cc  f     -     -         1420   20    0 
+PoloGolf2 991617333  5  3 cc  c     c     c         1400   70    0 Ac 2c
+PoloGolf2 991617364  5  2 Bf  -     -     -         1330   10    0 
+PoloGolf2 991617398  4  1 Bf  -     -     -         1320    5    0 
+PoloGolf2 991617475  4  4 f   -     -     -         1315    0    0 
+PoloGolf2 991617502  4  3 c   k     k     k         1315   10   35 Kc 3c
+PoloGolf2 991617538  4  2 Bk  kf    -     -         1340   10    0 
+PoloGolf2 991617569  5  1 Bc  kf    -     -         1330   20    0 
+PoloGolf2 991617634  4  4 f   -     -     -         1310    0    0 
+PoloGolf2 991617669  4  3 c   k     f     -         1310   10    0 
+PoloGolf2 991617710  4  2 Bc  k     c     f         1300   40    0 
+PoloGolf2 991617759  4  1 Bc  k     k     k         1260   10    0 Ks 9c
+PoloGolf2 991617791  4  4 f   -     -     -         1250    0    0 
+PoloGolf2 991617808  4  3 cc  k     c     c         1250   60    0 3c Qc
+PoloGolf2 991617880  4  2 Bk  k     f     -         1190   10    0 
+PoloGolf2 991617920  4  1 Bf  -     -     -         1180    5    0 
+PoloGolf2 991617940  4  4 f   -     -     -         1175    0    0 
+PoloGolf2 991617967  5  3 f   -     -     -         1175    0    0 
+PoloGolf2 991618036  5  2 Bcc k     c     k         1175   60    0 6d 6c
+PoloGolf2 991618107  5  1 Bf  -     -     -         1115    5    0 
+PoloGolf2 991618143  5  5 f   -     -     -         1110    0    0 
+PoloGolf2 991618182  5  4 f   -     -     -         1110    0    0 
+PoloGolf2 991618201  5  3 c   k     k     k         1110   10    0 Td Js
+PoloGolf2 991618247  5  2 Bk  f     -     -         1100   10    0 
+PoloGolf2 991618282  4  1 Bc  k     k     kf        1090   20    0 
+PoloGolf2 991618335  4  4 f   -     -     -         1070    0    0 
+PoloGolf2 991618373  4  3 f   -     -     -         1070    0    0 
+PoloGolf2 991618408  4  2 Bk  k     b     -         1070   30   55 
+PoloGolf2 991618434  4  1 Bc  kc    kc    kf        1095   40    0 
+PoloGolf2 991618484  4  4 cc  c     k     k         1055   30   65 9c Js
+PoloGolf2 991618526  4  3 cc  k     k     f         1090   30    0 
+PoloGolf2 991618582  4  2 Bk  k     k     k         1060   10    0 4s 7h
+PoloGolf2 991618617  5  1 Bc  kf    -     -         1050   20    0 
+PoloGolf2 991618649  5  5 f   -     -     Q         1030    0    0 
+PoloGolf2 991621307  6  6 c   f     -     -         1030   20    0 
+PoloGolf2 991621351  6  5 c   k     k     k         1010   10   40 Tc Ad
+PoloGolf2 991621407  6  4 f   -     -     -         1040    0    0 
+PoloGolf2 991621462  6  3 c   kc    kc    kc        1040   60  150 Ac Js
+PoloGolf2 991621495  6  2 Bk  kc    k     k         1130   20    0 4s Ac
+PoloGolf2 991621545  6  1 Bf  -     -     -         1110    5    0 
+PoloGolf2 991621584  6  6 f   -     -     -         1105    0    0 
+PoloGolf2 991621651  8  6 c   k     k     b         1105   30  100 Qc 9d
+PoloGolf2 991621721  8  5 c   b     bc    kc        1175   80    0 9d 7d
+PoloGolf2 991621784  9  4 cr  brc   kc    kc        1095  120    0 Qd Qc
+PoloGolf2 991621871  9  3 c   k     k     f          975   10    0 
+PoloGolf2 991621928 10  2 Bk  kf    -     -          965   10    0 
+PoloGolf2 991622013 10  1 Bc  kf    -     -          955   20    0 
+PoloGolf2 991622061 10 10 f   -     -     -          935    0    0 
+PoloGolf2 991622099 10  9 f   -     -     -          935    0    0 
+PoloGolf2 991622213  9  7 f   -     -     -          935    0    0 
+PoloGolf2 991622320 10  7 f   -     -     -          935    0    0 
+PoloGolf2 991622372 10  6 cc  kc    kc    kf         935   60    0 
+PoloGolf2 991622480 10  5 c   f     -     -          875   10    0 
+PoloGolf2 991622534 10  4 c   cc    kc    kf         865   60    0 
+PoloGolf2 991622640 10  3 f   -     -     -          805    0    0 
+PoloGolf2 991622704 10  2 Bf  -     -     -          805   10    0 
+PoloGolf2 991622802 10  1 Bf  -     -     -          795    5    0 
+PoloGolf2 991622892 10 10 c   k     k     f          790   10    0 
+PoloGolf2 991622986 10  9 f   -     -     -          780    0    0 
+PoloGolf2 991623073 10  8 f   -     -     -          780    0    0 
+PoloGolf2 991623133 10  7 cc  cr    b     br         780  140  520 7h 7s
+PoloGolf2 991623257 10  6 f   -     -     -         1160    0    0 
+PoloGolf2 991623334 10  5 c   kc    kc    kf        1160   40    0 
+PoloGolf2 991623433 10  4 cc  c     kf    -         1120   40    0 
+PoloGolf2 991623551 10  3 f   -     -     -         1080    0    0 
+PoloGolf2 991623614 10  2 Bk  kf    -     -         1080   10    0 
+PoloGolf2 991623716 10  1 Bf  -     -     -         1070    5    0 
+PoloGolf2 991623769 10 10 f   -     -     -         1065    0    0 
+PoloGolf2 991623844 10  9 rc  c     cc    f         1065  100    0 
+PoloGolf2 991623973 10  8 f   -     -     -          965    0    0 
+PoloGolf2 991624036 10  7 f   -     -     -          965    0    0 
+PoloGolf2 991624123  9  6 f   -     -     -          965    0    0 
+PoloGolf2 991624173 10  5 f   -     -     -          965    0    0 
+PoloGolf2 991624258 10  4 f   -     -     -          965    0    0 
+PoloGolf2 991624358 10  3 f   -     -     -          965    0    0 
+PoloGolf2 991624427 10  2 Bk  f     -     -          965   10    0 
+PoloGolf2 991624495 10  1 BQ  -     -     -          955    5    0 
+PoloGolf2 991677693  8  6 f   -     -     -          950    0    0 
+PoloGolf2 991677752  8  4 f   -     -     -          950    0    0 
+PoloGolf2 991677789  7  3 cc  kf    -     -          950   20    0 
+PoloGolf2 991677825  7  2 Bk  k     k     k          930   10    0 8d 9c
+PoloGolf2 991677867  7  1 Bc  kc    kf    -          920   20    0 
+PoloGolf2 991677912  7  7 c   f     -     -          900   10    0 
+PoloGolf2 991677944  7  6 f   -     -     -          890    0    0 
+PoloGolf2 991677983  7  5 c   k     k     k          890   10    0 9h 8s
+PoloGolf2 991678029  7  4 c   kc    kf    -          880   20    0 
+PoloGolf2 991678081  8  3 f   -     -     -          860    0    0 
+PoloGolf2 991678116  9  2 Bk  kf    -     -          860   10    0 
+PoloGolf2 991678158 10  1 Bf  -     -     -          850    5    0 
+PoloGolf2 991678197  9  9 f   -     -     -          845    0    0 
+PoloGolf2 991678251 10  9 f   -     -     -          845    0    0 
+PoloGolf2 991678322  9  7 c   c     b     k          845   50  102 Qh Kh
+PoloGolf2 991678374 10  6 cc  kc    kc    f          897   60    0 
+PoloGolf2 991678475 10  5 cc  kf    -     -          837   30    0 
+PoloGolf2 991678567 10  4 f   -     -     -          807    0    0 
+PoloGolf2 991678598 10  3 f   -     -     -          807    0    0 
+PoloGolf2 991678649 10  2 Bf  -     -     -          807   10    0 
+PoloGolf2 991678674  8  1 Bc  k     k     kf         797   10    0 
+PoloGolf2 991678756 10  9 f   -     -     -          787    0    0 
+PoloGolf2 991678839 10  8 f   -     -     -          787    0    0 
+PoloGolf2 991678872 10  7 f   -     -     -          787    0    0 
+PoloGolf2 991678911 10  6 cc  cc    cc    f          787  150    0 
+PoloGolf2 991679012 10  5 c   b     b     rr         637  120  375 3c 3s
+PoloGolf2 991679085 10  4 cc  kf    -     -          892   20    0 
+PoloGolf2 991679154 10  3 cc  k     c     f          872   50    0 
+PoloGolf2 991679203 10  2 Bf  -     -     -          822   10    0 
+PoloGolf2 991679312 10  1 Bf  -     -     -          812    5    0 
+PoloGolf2 991679376 10 10 f   -     -     -          807    0    0 
+PoloGolf2 991679396 10  9 f   -     -     -          807    0    0 
+PoloGolf2 991679423 10  8 f   -     -     -          807    0    0 
+PoloGolf2 991679460 10  7 f   -     -     -          807    0    0 
+PoloGolf2 991679536 10  6 f   -     -     -          807    0    0 
+PoloGolf2 991679599 10  5 f   -     -     -          807    0    0 
+PoloGolf2 991679684 10  4 f   -     -     -          807    0    0 
+PoloGolf2 991679759 10  3 f   -     -     -          807    0    0 
+PoloGolf2 991679813 10  2 Bf  -     -     -          807   10    0 
+PoloGolf2 991679904 10  1 Bf  -     -     -          797    5    0 
+PoloGolf2 991679999 10 10 f   -     -     -          792    0    0 
+PoloGolf2 991680054 10  9 f   -     -     -          792    0    0 
+PoloGolf2 991680127 10  8 f   -     -     -          792    0    0 
+PoloGolf2 991680177 10  7 f   -     -     -          792    0    0 
+PoloGolf2 991680250 10  6 f   -     -     -          792    0    0 
+PoloGolf2 991680337 10  5 f   -     -     -          792    0    0 
+PoloGolf2 991680385 10  4 f   -     -     -          792    0    0 
+PoloGolf2 991680449 10  3 f   -     -     -          792    0    0 
+PoloGolf2 991680500 10  2 Bf  -     -     -          792   10    0 
+PoloGolf2 991680585 10  1 Bf  -     -     -          782    5    0 
+PoloGolf2 991680607 10 10 f   -     -     -          777    0    0 
+PoloGolf2 991680657 10  9 f   -     -     -          777    0    0 
+PoloGolf2 991680754  9  7 f   -     -     -          777    0    0 
+PoloGolf2 991680818  8  5 f   -     -     -          777    0    0 
+PoloGolf2 991680837  8  4 f   -     -     -          777    0    0 
+PoloGolf2 991680868  8  3 f   -     -     -          777    0    0 
+PoloGolf2 991680896  8  2 Bf  -     -     -          777   10    0 
+PoloGolf2 991680915  7  1 Bf  -     -     -          767    5    0 
+PoloGolf2 991680940  7  7 f   -     -     -          762    0    0 
+PoloGolf2 991680954  7  6 fQ  -     -     -          762    0    0 
+PoloGolf2 991684568  9  7 f   -     -     -          762    0    0 
+PoloGolf2 991684628  8  5 f   -     -     -          762    0    0 
+PoloGolf2 991684657  8  4 f   -     -     -          762    0    0 
+PoloGolf2 991684704  9  3 f   -     -     -          762    0    0 
+PoloGolf2 991684773  8  2 Bk  k     kf    -          762   10    0 
+PoloGolf2 991684825  8  1 Bf  -     -     -          752    5    0 
+PoloGolf2 991684863  8  8 f   -     -     -          747    0    0 
+PoloGolf2 991684942  7  6 f   -     -     -          747    0    0 
+PoloGolf2 991684971  7  6 f   -     -     -          747    0    0 
+PoloGolf2 991685005  7  5 f   -     -     -          747    0    0 
+PoloGolf2 991685040  7  4 f   -     -     -          747    0    0 
+PoloGolf2 991685083  6  2 Bf  -     -     -          747   10    0 
+PoloGolf2 991685143  5  1 Bf  -     -     -          737    5    0 
+PoloGolf2 991685175  5  5 f   -     -     -          732    0    0 
+PoloGolf2 991685182  5  4 f   -     -     -          732    0    0 
+PoloGolf2 991685209  5  3 f   -     -     -          732    0    0 
+PoloGolf2 991685235  5  2 Bk  k     f     -          732   10    0 
+PoloGolf2 991685264  5  1 Bf  -     -     -          722    5    0 
+PoloGolf2 991685295  6  6 f   -     -     -          717    0    0 
+PoloGolf2 991685329  6  5 f   -     -     -          717    0    0 
+PoloGolf2 991685356  7  5 f   -     -     -          717    0    0 
+PoloGolf2 991685365  7  4 f   -     -     -          717    0    0 
+PoloGolf2 991685403  7  3 f   -     -     -          717    0    0 
+PoloGolf2 991685454  7  2 Bk  kf    -     -          717   10    0 
+PoloGolf2 991685489  8  1 Bf  -     -     -          707    5    0 
+PoloGolf2 991685557  9  9 f   -     -     -          702    0    0 
+PoloGolf2 991685623  9  8 f   -     -     -          702    0    0 
+PoloGolf2 991685705  8  6 f   -     -     -          702    0    0 
+PoloGolf2 991685771 10  5 f   -     -     -          702    0    0 
+PoloGolf2 991685813 10  4 f   -     -     -          702    0    0 
+PoloGolf2 991685881 10  3 f   -     -     -          702    0    0 
+PoloGolf2 991685912  9  2 Bk  kf    -     -          702   10    0 
+PoloGolf2 991685983 10  1 Bf  -     -     -          692    5    0 
+PoloGolf2 991686060 10 10 f   -     -     -          687    0    0 
+PoloGolf2 991686170  9  8 f   -     -     -          687    0    0 
+PoloGolf2 991686256 10  8 c   r     c     c          687   70  310 Tc Ad
+PoloGolf2 991686332 10  3 Q   -     -     -          927    0    0 
+PoloGolf2 991696912 10  1 Bf  -     -     -          927    5    0 
+PoloGolf2 991696982 10 10 c   f     -     -          922   20    0 
+PoloGolf2 991697023  9  8 f   -     -     -          902    0    0 
+PoloGolf2 991697132  9  7 f   -     -     -          902    0    0 
+PoloGolf2 991697215 10  7 cc  k     f     -          902   20    0 
+PoloGolf2 991697280 10  6 f   -     -     -          882    0    0 
+PoloGolf2 991697339 10  5 f   -     -     -          882    0    0 
+PoloGolf2 991697417 10  4 f   -     -     -          882    0    0 
+PoloGolf2 991697501 10  3 f   -     -     -          882    0    0 
+PoloGolf2 991697579 10  2 Bk  k     k     k          882   10    0 9c Jc
+PoloGolf2 991697624 10  1 Bf  -     -     -          872    5    0 
+PoloGolf2 991697677 10 10 c   c     c     c          867   70    0 Qh Kc
+PoloGolf2 991697760 10  9 f   -     -     -          797    0    0 
+PoloGolf2 991697799 10  8 f   -     -     -          797    0    0 
+PoloGolf2 991697829 10  7 f   -     -     -          797    0    0 
+PoloGolf2 991697898 10  6 c   f     -     -          797   10    0 
+PoloGolf2 991697977 10  5 f   -     -     -          787    0    0 
+PoloGolf2 991698073 10  4 f   -     -     -          787    0    0 
+PoloGolf2 991698168  9  3 f   -     -     -          787    0    0 
+PoloGolf2 991698330  9  1 Bcc kf    -     -          787   40    0 
+PoloGolf2 991698431  9  1 Bf  -     -     -          747    5    0 
+PoloGolf2 991698490  9  9 f   -     -     -          742    0    0 
+PoloGolf2 991698561  9  8 f   -     -     -          742    0    0 
+PoloGolf2 991698645 10  8 f   -     -     -          742    0    0 
+PoloGolf2 991698710 10  7 f   -     -     -          742    0    0 
+PoloGolf2 991698835 10  6 crc krr   kc    k          742  100  445 Qd Qs
+PoloGolf2 991698982 10  5 f   -     -     -         1087    0    0 
+PoloGolf2 991699041 10  4 f   -     -     -         1087    0    0 
+PoloGolf2 991699079 10  3 c   c     f     -         1087   20    0 
+PoloGolf2 991699151 10  2 Bf  -     -     -         1067   10    0 
+PoloGolf2 991699220 10  1 Bc  kf    -     -         1057   20    0 
+PoloGolf2 991699336 10 10 f   -     -     -         1037    0    0 
+PoloGolf2 991699531 10  9 cc  f     -     -         1037   40    0 
+PoloGolf2 991699633 10  8 cc  f     -     -          997   40    0 
+PoloGolf2 991699717 10  7 f   -     -     -          957    0    0 
+PoloGolf2 991699796 10  6 cc  kf    -     -          957   30    0 
+PoloGolf2 991699903 10  5 f   -     -     -          927    0    0 
+PoloGolf2 991700026 10  5 f   -     -     -          927    0    0 
+PoloGolf2 991700169 10  3 c   k     kc    kc         927   50  140 Ks Jc
+PoloGolf2 991700280 10  2 Bk  f     -     -         1017   10    0 
+PoloGolf2 991700359 10  1 Bc  k     k     k         1007   10   30 9s 9c
+PoloGolf2 991700431 10 10 f   -     -     -         1027    0    0 
+PoloGolf2 991700538 10  9 f   -     -     -         1027    0    0 
+PoloGolf2 991700641 10  8 f   -     -     -         1027    0    0 
+PoloGolf2 991700774  8  5 f   -     -     -         1027    0    0 
+PoloGolf2 991700843  8  5 c   f     -     -         1027   10    0 
+PoloGolf2 991700928  8  4 f   -     -     -         1017    0    0 
+PoloGolf2 991700997  8  3 f   -     -     -         1017    0    0 
+PoloGolf2 991701085  8  2 Bc  c     k     kf        1017   30    0 
+PoloGolf2 991701173  9  1 Bc  kcc   k     kf         987   50    0 
+PoloGolf2 991701279 10 10 f   -     -     -          937    0    0 
+PoloGolf2 991701359 10  9 f   -     -     -          937    0    0 
+PoloGolf2 991701448 10  8 f   -     -     -          937    0    0 
+PoloGolf2 991701535 10  7 f   -     -     -          937    0    0 
+PoloGolf2 991701606 10  6 cr  kc    kc    b          937   90  435 Js Jc
+PoloGolf2 991701761 10  6 f   -     -     -         1282    0    0 
+PoloGolf2 991701794 10  4 f   -     -     -         1282    0    0 
+PoloGolf2 991701898 10  3 f   -     -     -         1282    0    0 
+PoloGolf2 991701987 10  2 Bk  kf    -     -         1282   10    0 
+PoloGolf2 991702110 10  1 Bf  -     -     -         1272    5    0 
+PoloGolf2 991702176 10 10 f   -     -     -         1267    0    0 
+PoloGolf2 991702267 10  9 c   cc    f     -         1267   60    0 
+PoloGolf2 991702352 10  8 f   -     -     -         1207    0    0 
+PoloGolf2 991702430 10  7 f   -     -     -         1207    0    0 
+PoloGolf2 991702517 10  6 f   -     -     -         1207    0    0 
+PoloGolf2 991702611  9  4 f   -     -     -         1207    0    0 
+PoloGolf2 991702661 10  4 f   -     -     -         1207    0    0 
+PoloGolf2 991702737 10  3 f   -     -     -         1207    0    0 
+PoloGolf2 991702827 10  2 Bk  kf    -     -         1207   10    0 
+PoloGolf2 991702872 10  1 Bf  -     -     -         1197    5    0 
+PoloGolf2 991702999 10 10 f   -     -     -         1192    0    0 
+PoloGolf2 991703159 10  9 f   -     -     -         1192    0    0 
+PoloGolf2 991703238  9  7 f   -     -     -         1192    0    0 
+PoloGolf2 991703348 10  6 f   -     -     -         1192    0    0 
+PoloGolf2 991703437 10  5 f   -     -     -         1192    0    0 
+PoloGolf2 991703532 10  5 c   ccc   kr    b         1192  110  460 Td 9c
+PoloGolf2 991703656 10  3 f   -     -     -         1542    0    0 
+PoloGolf2 991703720 10  2 Bk  k     k     k         1542   10   70 8c 8d
+PoloGolf2 991703824 10  1 Bc  kc    kc    b         1602   60  210 Td 9s
+PoloGolf2 991703919 10 10 f   -     -     -         1752    0    0 
+PoloGolf2 991703981 10  9 f   -     -     -         1752    0    0 
+PoloGolf2 991704099 10  8 f   -     -     -         1752    0    0 
+PoloGolf2 991704152  9  6 f   -     -     -         1752    0    0 
+PoloGolf2 991704196  9  5 c   f     -     -         1752   10    0 
+PoloGolf2 991704270  9  4 f   -     -     -         1742    0    0 
+PoloGolf2 991704331  9  3 c   kc    kf    -         1742   20    0 
+PoloGolf2 991704422 10  2 Bf  -     -     -         1722   10    0 
+PoloGolf2 991704465 10  1 Bc  kf    -     -         1712   10    0 
+PoloGolf2 991704537 10 10 f   -     -     -         1702    0    0 
+PoloGolf2 991704618 10  9 c   c     f     -         1702   30    0 
+PoloGolf2 991704694 10  8 f   -     Q     -         1672    0    0 
+PoloGolf2 991797148 10  5 f   -     -     -         1672    0    0 
+PoloGolf2 991797195 10  4 c   kr    b     k         1672   50  145 Ks Ad
+PoloGolf2 991797289  9  3 c   kf    -     -         1767   10    0 
+PoloGolf2 991797327  9  2 Bk  kf    -     -         1757   10    0 
+PoloGolf2 991797370  9  1 Bf  -     -     -         1747    5    0 
+PoloGolf2 991797433  9  9 f   -     -     -         1742    0    0 
+PoloGolf2 991797462  9  8 f   -     -     -         1742    0    0 
+PoloGolf2 991797491  9  7 f   -     -     -         1742    0    0 
+PoloGolf2 991797537  9  6 f   -     -     -         1742    0    0 
+PoloGolf2 991797561  9  5 r   b     b     b         1742   70  185 Ah Ac
+PoloGolf2 991797591  9  4 f   -     -     -         1857    0    0 
+PoloGolf2 991797611  9  3 c   kc    kcf   -         1857   40    0 
+PoloGolf2 991797680  9  2 Bk  b     b     b         1817   60   68 4c 6h
+PoloGolf2 991797718  9  1 Bc  kc    k     kf        1825   20    0 
+PoloGolf2 991797830  9  4 Q   -     -     -         1805    0    0 
+PoloGolf2 991884455 10  1 Bf  -     -     -         1805    5    0 
+PoloGolf2 991884490 10 10 f   -     -     -         1800    0    0 
+PoloGolf2 991884584  9  8 crc kc    kc    kc        1800   90  275 Kh Ks
+PoloGolf2 991884671  9  7 f   -     -     -         1985    0    0 
+PoloGolf2 991884749  9  6 f   -     -     -         1985    0    0 
+PoloGolf2 991884833 10  5 cc  kf    -     -         1985   20    0 
+PoloGolf2 991884951 10  4 f   -     -     -         1965    0    0 
+PoloGolf2 991884991 10  3 c   c     f     -         1965   20    0 
+PoloGolf2 991885051 10  2 Bf  -     -     -         1945   10    0 
+PoloGolf2 991885088 10  1 Bc  kf    -     -         1935   10    0 
+PoloGolf2 991885157 10 10 cc  c     r     f         1925   80    0 
+PoloGolf2 991885251 10  9 f   -     -     -         1845    0    0 
+PoloGolf2 991885331 10  8 f   -     -     -         1845    0    0 
+PoloGolf2 991885375 10  7 f   -     -     -         1845    0    0 
+PoloGolf2 991885465 10  6 c   c     cc    kc        1845   80    0 8d 8c
+PoloGolf2 991885590 10  5 cc  kf    -     -         1765   20    0 
+PoloGolf2 991885689 10  4 c   kf    -     -         1745   10    0 
+PoloGolf2 991885796 10  3 cc  kc    kc    kf        1735   50    0 
+PoloGolf2 991885880 10  2 Bf  -     -     -         1685   10    0 
+PoloGolf2 991885968 10  1 Bc  kf    -     -         1675   10    0 
+PoloGolf2 991886082 10 10 f   -     -     -         1665    0    0 
+PoloGolf2 991886135 10  9 f   -     -     -         1665    0    0 
+PoloGolf2 991886201 10  8 f   -     -     -         1665    0    0 
+PoloGolf2 991886272 10  7 c   f     -     -         1665   20    0 
+PoloGolf2 991886328 10  6 f   -     -     -         1645    0    0 
+PoloGolf2 991886383 10  5 f   -     -     -         1645    0    0 
+PoloGolf2 991886438  9  3 cc  k     bc    kc        1645   80    0 Qs Jd
+PoloGolf2 991886490  9  1 Bk  kc    k     kf        1565   20    0 
+PoloGolf2 991886548  9  1 Bf  -     -     -         1545    5    0 
+PoloGolf2 991886593 10 10 f   -     -     -         1540    0    0 
+PoloGolf2 991886617 10  9 c   f     -     -         1540   10    0 
+PoloGolf2 991886666 10  8 f   -     -     -         1530    0    0 
+PoloGolf2 991886699 10  7 f   -     -     -         1530    0    0 
+PoloGolf2 991886755 10  6 f   -     -     -         1530    0    0 
+PoloGolf2 991886803 10  5 f   -     -     -         1530    0    0 
+PoloGolf2 991886858 10  4 c   bc    k     b         1530   50  135 Ks Ah
+PoloGolf2 991886972  9  3 f   -     -     -         1615    0    0 
+PoloGolf2 991887012  9  2 Bk  f     -     -         1615   10    0 
+PoloGolf2 991887067  8  1 Bc  k     k     k         1605   10    0 Kc 8c
+PoloGolf2 991887425  9  8 r   c     c     c         1595   70  180 Jh Jc
+PoloGolf2 991887473  9  8 c   f     -     -         1705   20    0 
+PoloGolf2 991887533  9  7 f   -     -     -         1685    0    0 
+PoloGolf2 991887572  8  5 f   -     -     -         1685    0    0 
+PoloGolf2 991887604  8  4 f   -     -     -         1685    0    0 
+PoloGolf2 991887626  8  3 f   -     -     -         1685    0    0 
+PoloGolf2 991887655  8  2 Bk  k     k     k         1685   10    0 8d Tc
+PoloGolf2 991887687  8  1 Bc  kc    k     k         1675   30  100 Kh Ts
+PoloGolf2 991887743  9  9 f   -     -     -         1745    0    0 
+PoloGolf2 991887796  9  7 c   f     -     -         1745   10    0 
+PoloGolf2 991887831 10  7 c   f     -     -         1735   20    0 
+PoloGolf2 991887917  9  5 f   -     -     -         1715    0    0 
+PoloGolf2 991887989  9  5 f   -     -     -         1715    0    0 
+PoloGolf2 991888060 10  4 f   -     -     -         1715    0    0 
+PoloGolf2 991888104 10  3 f   -     -     -         1715    0    0 
+PoloGolf2 991888180 10  2 Bc  kc    kc    kf        1715   60    0 
+PoloGolf2 991888247 10  1 Bc  kf    -     -         1655   20    0 
+PoloGolf2 991888337 10 10 f   -     -     -         1635    0    0 
+PoloGolf2 991888354 10  9 f   -     -     -         1635    0    0 
+PoloGolf2 991888447 10  8 f   -     -     -         1635    0    0 
+PoloGolf2 991888516 10  7 cc  ccc   c     rr        1635  180  600 9s 9h
+PoloGolf2 991888609 10  6 Q   -     -     -         2055    0    0 
+PoloGolf2 992996549  3  3 c   k     cc    f         1210   50    0 
+PoloGolf2 992996625  3  2 Bk  k     f     -         1160   10    0 
+PoloGolf2 992996658  3  1 Bc  k     kf    -         1150   10    0 
+PoloGolf2 992996709  3  3 f   -     -     -         1140    0    0 
+PoloGolf2 992996720  3  2 BQ  -     -     -         1140   10    0 

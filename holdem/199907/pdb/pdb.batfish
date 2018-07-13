@@ -1,0 +1,53 @@
+batfish   931556628  4  4 c   Q     -     -         1000   20    0 
+batfish   931818582  9  7 f   -     -     -         1065    0    0 
+batfish   931818595  9  6 r   b     b     -         1065   60  115 
+batfish   931818623  9  5 cc  kc    kc    kf        1120   60    0 
+batfish   931818677  9  4 cc  kf    -     -         1060   20    0 
+batfish   931818740  9  3 cc  kf    -     -         1040   20    0 
+batfish   931818779  9  2 Bk  kc    kc    kf        1020   40    0 
+batfish   931818834  9  1 Bcc kf    -     -          980   20    0 
+batfish   931818871  9  9 c   c     f     -          960   30    0 
+batfish   931818928  9  8 rc  f     -     -          930   40    0 
+batfish   931818991  9  7 f   -     -     -          890    0    0 
+batfish   931819028  9  6 r   rc    kc    kc         890   90    0 Ad Ac
+batfish   931819074  9  5 c   b     b     k          800   40  135 9d As
+batfish   931819120  9  4 cc  cc    ccc   kf         895  140    0 
+batfish   931819168  9  3 f   -     -     -          755    0    0 
+batfish   931819207  9  2 Bk  b     b     b          755   60  105 
+batfish   931819267 10  1 Bf  -     -     -          800    5    0 
+batfish   931819312 10 10 c   f     -     -          795   20    0 
+batfish   931819341 10  9 r   b     k     k          775   30    0 Ah 6c
+batfish   931819407 10  8 c   r     b     b          745   80    0 7h Ad
+batfish   931819469 10  7 r   kc    kc    kc         665   70    0 Ad Tc
+batfish   931819506  9  6 fQ  -     -     -          595    0    0 
+batfish   932342880  5  4 c   c     c     c         1055   70  170 8s 7c
+batfish   932342917  5  2 f   -     -     -         1155    0    0 
+batfish   932342932  5  2 Bc  c     cc    kc        1155   90    0 9h Td
+batfish   932342966  4  1 Bc  kf    -     -         1065   20    0 
+batfish   932342978  3  3 c   b     -     -         1045   30   70 
+batfish   932342988  3  3 cc  f     -     -         1085   20    0 
+batfish   932343010  3  2 Bc  c     r     -         1065   70  120 
+batfish   932343023  4  1 Bcc kc    kf    -         1115   50    0 
+batfish   932343047  4  4 cc  rc    b     b         1065  100  245 2s Qc
+batfish   932343070  4  3 cc  c     c     f         1210   90    0 
+batfish   932343095  4  2 Bf  -     -     -         1120   10    0 
+batfish   932343111  4  1 Bcc kc    kc    kf        1110   70    0 
+batfish   932343139  4  4 rc  rc    b     b         1040  120  325 8h 8d
+batfish   932343165  4  3 cc  r     bc    f         1245   90    0 
+batfish   932343190  5  2 Bf  -     -     -         1155   10    0 
+batfish   932343204  5  1 Bc  kf    -     -         1145   20    0 
+batfish   932343241  4  4 c   c     c     f         1125   50    0 
+batfish   932343256  3  3 cc  c     r     b         1075   90  190 Qd 3c
+batfish   932343282  4  2 Bf  -     -     -         1175   10    0 
+batfish   932343300  4  1 Bc  kc    krr   kc        1165  140    0 7s Ah
+batfish   932343336  4  4 cc  rc    rc    c         1025  130  265 4d Jd
+batfish   932343362  4  3 c   b     -     -         1160   20   35 
+batfish   932343377  4  2 Br  rc    rr    rr        1175  230    0 Td Qh
+batfish   932343425  4  1 Bf  -     -     -          945    5    0 
+batfish   932343434  4  4 c   c     k     b          940   50    0 4c Ac
+batfish   932343477  4  3 r   fQ    -     -          890   20    0 
+batfish   933377713 10  1 Bc  k     kc    kc        1340   80    0 Jc 8d
+batfish   933377763 10 10 c   f     -     -         1260   10    0 
+batfish   933377865  8  7 c   f     -     -         1250   20    0 
+batfish   933377919  8  6 cc  f     -     -         1230   20    0 
+batfish   933377982  8  5 Q   -     -     -         1210    0    0 

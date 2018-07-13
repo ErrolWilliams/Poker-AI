@@ -1,0 +1,656 @@
+FlopDaddy 981929166  9  7 f   -     -     -         1520    0    0 
+FlopDaddy 981929244  9  6 cf  -     -     -         1520   10    0 
+FlopDaddy 981929319  9  5 f   -     -     -         1510    0    0 
+FlopDaddy 981929357  9  4 f   -     -     -         1510    0    0 
+FlopDaddy 981929377  9  3 cf  -     -     -         1510   10    0 
+FlopDaddy 981929426  9  2 Bk  b     -     -         1500   20   50 
+FlopDaddy 981929454  8  1 Bc  kf    -     -         1530   10    0 
+FlopDaddy 981929477  8  8 r   r     rc    c         1520  120    0 Tc Ah
+FlopDaddy 981929520  9  8 r   b     b     -         1400   50   95 
+FlopDaddy 981929549  9  7 f   -     -     -         1445    0    0 
+FlopDaddy 981929621 10  7 f   -     -     -         1445    0    0 
+FlopDaddy 981929656 10  6 f   -     -     -         1445    0    0 
+FlopDaddy 981929736 10  5 cc  f     -     -         1445   20    0 
+FlopDaddy 981929794 10  4 ccc rc    r     bc        1425  150    0 Qc Ah
+FlopDaddy 981929860 10  3 cf  -     -     -         1275   10    0 
+FlopDaddy 981929919 10  2 Bc  kf    -     -         1265   20    0 
+FlopDaddy 981930014 10  1 Bf  -     -     -         1245    5    0 
+FlopDaddy 981930081 10 10 f   -     -     -         1240    0    0 
+FlopDaddy 981930123 10  9 f   -     -     -         1240    0    0 
+FlopDaddy 981930160 10  8 cc  f     -     -         1240   20    0 
+FlopDaddy 981930236 10  7 f   -     -     -         1220    0    0 
+FlopDaddy 981930270 10  6 cc  k     kr    b         1220   80  195 
+FlopDaddy 981930364 10  5 r   kf    -     -         1335   20    0 
+FlopDaddy 981930397 10  4 c   k     k     k         1315   10    0 Th Qc
+FlopDaddy 981930426 10  3 r   b     b     b         1305   70  155 Td Ts
+FlopDaddy 981930464 10  2 Bk  c     r     b         1390   80    0 Ks 8d
+FlopDaddy 981930508 10  1 Bf  -     -     -         1310    5    0 
+FlopDaddy 981930581 10 10 c   c     c     k         1305   40    0 Ad Js
+FlopDaddy 981930626 10  9 f   -     -     -         1265    0    0 
+FlopDaddy 981930684 10  8 f   -     -     -         1265    0    0 
+FlopDaddy 981930784  9  6 f   -     -     -         1265    0    0 
+FlopDaddy 981930832  8  4 f   -     -     -         1265    0    0 
+FlopDaddy 981930858  9  3 f   -     -     -         1265    0    0 
+FlopDaddy 981930907  9  2 Bf  -     -     -         1265   10    0 
+FlopDaddy 981930948  8  1 Br  b     bc    bc        1255  120  280 Kc Kh
+FlopDaddy 981930983  8  8 f   -     -     -         1415    0    0 
+FlopDaddy 981931022  8  7 f   -     -     -         1415    0    0 
+FlopDaddy 981931065  8  6 f   -     -     -         1415    0    0 
+FlopDaddy 981931104  8  5 f   -     -     -         1415    0    0 
+FlopDaddy 981931148  8  4 cc  krc   bc    kc        1415  110    0 Kd Jc
+FlopDaddy 981931193  9  3 f   -     -     -         1305    0    0 
+FlopDaddy 981931237  9  2 Bk  kf    -     -         1305   10    0 
+FlopDaddy 981931263  9  1 Bf  -     -     -         1295    5    0 
+FlopDaddy 981931279  9  9 f   -     -     -         1290    0    0 
+FlopDaddy 981931315  8  7 r   b     b     b         1290   70  150 
+FlopDaddy 981931350  7  5 c   k     k     k         1370   10    0 Ks Ts
+FlopDaddy 981931382  8  5 cc  c     rr    b         1360  130  270 7d Td
+FlopDaddy 981931435  8  4 f   -     -     -         1500    0    0 
+FlopDaddy 981931472  8  3 f   -     -     -         1500    0    0 
+FlopDaddy 981931516  8  2 Bk  b     b     b         1500   60  100 
+FlopDaddy 981931554 10  1 Bf  -     -     -         1540    5    0 
+FlopDaddy 981931591 10 10 f   -     -     -         1535    0    0 
+FlopDaddy 981931658 10  9 f   -     -     -         1535    0    0 
+FlopDaddy 981931716 10  8 f   -     -     -         1535    0    0 
+FlopDaddy 981931757 10  7 f   -     -     -         1535    0    0 
+FlopDaddy 981931825 10  6 f   -     -     -         1535    0    0 
+FlopDaddy 981931877 10  5 f   -     -     -         1535    0    0 
+FlopDaddy 981931951 10  4 f   -     -     -         1535    0    0 
+FlopDaddy 981932031 10  3 fQ  -     -     -         1535    0    0 
+FlopDaddy 982012107  8  7 cc  f     -     -         1637   20    0 
+FlopDaddy 982012175  8  6 f   -     -     -         1617    0    0 
+FlopDaddy 982012239  8  5 cc  f     -     -         1617   20    0 
+FlopDaddy 982012276  8  3 c   krr   b     b         1597   90    0 Th Ks
+FlopDaddy 982012343  8  2 Bk  kf    Q     -         1507   10    0 
+FlopDaddy 982077497  4  2 Bf  -     -     -         1492   10    0 
+FlopDaddy 982077516  4  1 Bcc kr    b     b         1482   80  240 Ad Jc
+FlopDaddy 982077554  3  3 f   -     -     -         1642    0    0 
+FlopDaddy 982077573  3  2 Bf  -     -     -         1642   10    0 
+FlopDaddy 982077602  3  1 Bf  -     -     -         1632    5    0 
+FlopDaddy 982077607  3  3 f   -     -     -         1627    0    0 
+FlopDaddy 982077611  3  2 Bc  kf    -     -         1627   20    0 
+FlopDaddy 982077624  3  1 Bf  -     -     -         1607    5    0 
+FlopDaddy 982077630  3  3 f   -     -     -         1602    0    0 
+FlopDaddy 982077635  3  2 Bf  -     -     -         1602   10    0 
+FlopDaddy 982077642  3  1 Bf  -     -     -         1592    5    0 
+FlopDaddy 982077651  3  3 f   -     -     -         1587    0    0 
+FlopDaddy 982077684  4  3 cc  kc    kf    -         1587   30    0 
+FlopDaddy 982077706  4  2 Bf  -     -     -         1557   10    0 
+FlopDaddy 982077712  4  1 BQ  -     -     -         1547    5    0 
+FlopDaddy 982099571  6  3 f   -     -     -         1542    0    0 
+FlopDaddy 982099605  6  2 Bc  kf    -     -         1542   20    0 
+FlopDaddy 982099639  7  1 Bf  -     -     -         1522    5    0 
+FlopDaddy 982099683  9  9 f   -     -     -         1517    0    0 
+FlopDaddy 982099715  9  8 f   -     -     -         1517    0    0 
+FlopDaddy 982099826  9  7 f   -     -     -         1517    0    0 
+FlopDaddy 982099888  9  6 f   -     -     -         1517    0    0 
+FlopDaddy 982099958  9  5 c   cc    cc    kf        1517   70    0 
+FlopDaddy 982100052  9  5 f   -     -     -         1447    0    0 
+FlopDaddy 982100129  9  4 f   -     -     -         1447    0    0 
+FlopDaddy 982100200 10  3 cc  kcf   -     -         1447   40    0 
+FlopDaddy 982100303 10  2 Bk  k     kf    -         1407   10    0 
+FlopDaddy 982100336  9  1 Bf  -     -     -         1397    5    0 
+FlopDaddy 982100379 10 10 f   -     -     -         1392    0    0 
+FlopDaddy 982100425 10  9 f   -     -     -         1392    0    0 
+FlopDaddy 982100488 10  8 c   b     b     -         1392   40  100 
+FlopDaddy 982100547 10  7 f   -     -     -         1452    0    0 
+FlopDaddy 982100603 10  6 f   -     -     -         1452    0    0 
+FlopDaddy 982100659  9  5 c   r     bc    bc        1452  110    0 As Kh
+FlopDaddy 982100721 10  4 f   -     -     -         1342    0    0 
+FlopDaddy 982100761  9  3 f   -     -     -         1342    0    0 
+FlopDaddy 982100866  9  2 Bf  -     -     -         1342   10    0 
+FlopDaddy 982100957 10  1 Bf  -     -     -         1332    5    0 
+FlopDaddy 982101050 10 10 f   -     -     -         1327    0    0 
+FlopDaddy 982101103 10  9 f   -     -     -         1327    0    0 
+FlopDaddy 982101147 10  8 f   -     -     -         1327    0    0 
+FlopDaddy 982101244 10  7 f   -     -     -         1327    0    0 
+FlopDaddy 982101367 10  6 f   -     -     -         1327    0    0 
+FlopDaddy 982101412 10  5 f   -     -     -         1327    0    0 
+FlopDaddy 982101469 10  4 f   -     -     -         1327    0    0 
+FlopDaddy 982101530  9  4 cc  kc    k     kc        1327   50  155 9d 9s
+FlopDaddy 982101598  9  2 Bk  kc    kf    -         1432   20    0 
+FlopDaddy 982101679  9  1 Bc  kf    -     -         1412   20    0 
+FlopDaddy 982101750  9  9 c   fQ    -     -         1392   10    0 
+FlopDaddy 982168599  9  5 f   -     -     -         1382    0    0 
+FlopDaddy 982168656  9  4 f   -     -     -         1382    0    0 
+FlopDaddy 982168753  9  3 f   -     -     -         1382    0    0 
+FlopDaddy 982168824  9  2 Bf  -     -     -         1382   10    0 
+FlopDaddy 982168887  9  1 Bf  -     -     -         1372    5    0 
+FlopDaddy 982168959 10 10 c   k     k     k         1367   10   35 3c Ac
+FlopDaddy 982168994 10  9 r   b     k     c         1392   70    0 Qd Qh
+FlopDaddy 982169059 10  8 f   -     -     -         1322    0    0 
+FlopDaddy 982169089 10  7 f   -     -     -         1322    0    0 
+FlopDaddy 982169143 10  6 f   -     -     -         1322    0    0 
+FlopDaddy 982169190 10  5 c   kc    kc    kf        1322   40    0 
+FlopDaddy 982169312  9  4 f   -     -     -         1282    0    0 
+FlopDaddy 982169336  9  3 f   -     -     -         1282    0    0 
+FlopDaddy 982169397  9  2 Bk  f     -     -         1282   10    0 
+FlopDaddy 982169433  9  1 Bf  -     -     -         1272    5    0 
+FlopDaddy 982169477  8  8 f   -     -     -         1267    0    0 
+FlopDaddy 982169482  8  7 rc  b     b     b         1267   90  300 
+FlopDaddy 982169551 10  8 f   -     -     -         1477    0    0 
+FlopDaddy 982169607  8  5 c   kc    k     bcf       1477   80    0 
+FlopDaddy 982169668  8  4 f   -     -     -         1397    0    0 
+FlopDaddy 982169705  8  3 f   -     -     -         1397    0    0 
+FlopDaddy 982169759  8  2 Bk  kc    kf    -         1397   20    0 
+FlopDaddy 982169815  8  1 Bf  -     -     -         1377    5    0 
+FlopDaddy 982169862  8  8 f   -     -     -         1372    0    0 
+FlopDaddy 982169907  8  7 c   f     -     -         1372   10    0 
+FlopDaddy 982169951  8  6 f   -     -     -         1362    0    0 
+FlopDaddy 982170035  8  5 f   -     -     -         1362    0    0 
+FlopDaddy 982170104  9  4 c   kc    kc    kf        1362   40    0 
+FlopDaddy 982170137  9  3 f   -     -     -         1322    0    0 
+FlopDaddy 982170177  9  2 Bk  kf    -     -         1322   10    0 
+FlopDaddy 982170225  9  1 Bc  k     k     k         1312   10    0 Jd 9d
+FlopDaddy 982170279  9  9 r   b     c     f         1302   50    0 
+FlopDaddy 982170367  9  8 f   Q     -     -         1252    0    0 
+FlopDaddy 982277818  9  9 cc  f     -     -         1152   40    0 
+FlopDaddy 982277891 10  9 f   -     -     -         1112    0    0 
+FlopDaddy 982277975 10  8 c   k     b     -         1112   40  105 
+FlopDaddy 982278057 10  7 cc  kf    -     -         1177   20    0 
+FlopDaddy 982278099 10  6 f   -     -     -         1157    0    0 
+FlopDaddy 982278174 10  5 f   -     -     -         1157    0    0 
+FlopDaddy 982278225 10  4 cc  kf    -     -         1157   20    0 
+FlopDaddy 982278297 10  3 f   -     -     -         1137    0    0 
+FlopDaddy 982278352 10  2 Bf  Q     -     -         1137   10    0 
+FlopDaddy 982598282  6  6 f   -     -     -         1127    0    0 
+FlopDaddy 982598328  6  5 f   -     -     -         1127    0    0 
+FlopDaddy 982598352  6  4 c   c     f     -         1127   20    0 
+FlopDaddy 982598415  7  3 c   k     k     r         1107   50   95 
+FlopDaddy 982598461  7  2 Bf  -     -     -         1152   10    0 
+FlopDaddy 982598512  6  1 Bc  b     kc    kc        1142   60    0 9c 7s
+FlopDaddy 982598566  6  6 c   r     b     b         1082   70  150 Ad Qc
+FlopDaddy 982598600  6  5 c   b     b     b         1162   60  135 Kd Qh
+FlopDaddy 982598641  6  4 c   f     -     -         1237   10    0 
+FlopDaddy 982598690  6  3 cf  -     -     -         1227   10    0 
+FlopDaddy 982598739  7  3 f   -     -     -         1217    0    0 
+FlopDaddy 982598789  7  2 Bk  b     b     b         1217   60  140 Td Jc
+FlopDaddy 982598845  8  1 Bcc kr    b     b         1297   80  140 
+FlopDaddy 982598900  8  8 f   -     -     -         1357    0    0 
+FlopDaddy 982598936  8  7 f   -     -     -         1357    0    0 
+FlopDaddy 982598985  9  6 c   f     -     -         1357   10    0 
+FlopDaddy 982599029  9  5 cc  c     f     -         1347   30    0 
+FlopDaddy 982599110  9  3 Q   -     -     -         1317    0    0 
+FlopDaddy 982608951  3  3 f   -     -     -         1317    0    0 
+FlopDaddy 982608990  3  2 Bk  b     -     -         1317   20   30 
+FlopDaddy 982609019  3  1 Br  b     b     bc        1327   90    0 Kh Jc
+FlopDaddy 982609043  3  3 f   -     -     -         1237    0    0 
+FlopDaddy 982609064  3  2 Bk  f     -     -         1237   10    0 
+FlopDaddy 982609078  3  1 Br  k     b     -         1227   40   80 
+FlopDaddy 982609093  3  3 c   k     b     b         1267   50  110 3c 8c
+FlopDaddy 982609115  3  2 Bk  k     c     f         1327   30    0 
+FlopDaddy 982609138  3  1 Bf  -     -     -         1297    5    0 
+FlopDaddy 982609153  3  3 f   -     -     -         1292    0    0 
+FlopDaddy 982609179  3  2 B   -     -     -         1292   10   15 
+FlopDaddy 982609183  3  1 Bf  -     -     -         1297    5    0 
+FlopDaddy 982609190  3  3 c   bc    c     c         1292   70   75 Kh 5h
+FlopDaddy 982609215  3  2 B   -     -     -         1297   10   15 
+FlopDaddy 982609221  3  1 Bf  -     -     -         1302    5    0 
+FlopDaddy 982609236  3  3 f   -     -     -         1297    0    0 
+FlopDaddy 982609239  3  2 Bf  -     -     -         1297   10    0 
+FlopDaddy 982609260  3  1 Br  b     -     -         1287   30   70 
+FlopDaddy 982609281  3  3 f   -     -     -         1327    0    0 
+FlopDaddy 982609309  3  2 Bf  -     -     -         1327   10    0 
+FlopDaddy 982609341  3  1 Bc  kc    kc    krr       1317  120  250 3s Ad
+FlopDaddy 982609372  3  3 f   -     -     -         1447    0    0 
+FlopDaddy 982609378  3  2 B   -     -     -         1447   10   15 
+FlopDaddy 982609383  3  1 Bc  kf    -     -         1452   10    0 
+FlopDaddy 982609397  3  3 r   b     -     -         1442   30   70 
+FlopDaddy 982609409  3  2 Bf  -     -     -         1482   10    0 
+FlopDaddy 982609420  3  1 Bc  kc    kf    -         1472   20    0 
+FlopDaddy 982609433  3  3 c   k     f     -         1452   10    0 
+FlopDaddy 982609454  3  2 Bf  -     -     -         1442   10    0 
+FlopDaddy 982609467  3  1 Bf  -     -     -         1432    5    0 
+FlopDaddy 982609480  3  3 c   b     b     b         1427   60  140 9c 8h
+FlopDaddy 982609505  3  2 Bk  c     r     -         1507   60  110 
+FlopDaddy 982609523  3  1 Bf  -     -     -         1557    5    0 
+FlopDaddy 982609540  3  3 r   b     -     -         1552   30   60 
+FlopDaddy 982609549  3  2 Bf  -     -     -         1582   10    0 
+FlopDaddy 982609560  3  1 Bc  kc    krc   kc        1572  100    0 Qh Kd
+FlopDaddy 982609579  3  3 r   rc    c     f         1472   70    0 
+FlopDaddy 982609610  3  2 Bk  b     b     -         1402   40   70 
+FlopDaddy 982609631  4  1 Bc  b     b     b         1432   60  160 7d Jh
+FlopDaddy 982609659  4  4 f   -     -     -         1532    0    0 
+FlopDaddy 982609667  4  3 c   k     b     k         1532   30   90 Kh 6s
+FlopDaddy 982609698  4  2 Bk  krc   kc    k         1592   60    0 9c 8c
+FlopDaddy 982609727  4  1 Bc  k     b     -         1532   30   60 
+FlopDaddy 982609747  4  4 c   k     k     b         1562   30    0 8s Kc
+FlopDaddy 982609774  4  3 r   b     b     b         1532   70  150 Js Ks
+FlopDaddy 982609795  4  2 Bk  k     kc    kf        1612   30    0 
+FlopDaddy 982609823  5  1 Bf  -     -     -         1582    5    0 
+FlopDaddy 982609852  5  5 f   -     -     -         1577    0    0 
+FlopDaddy 982609899  5  4 c   k     f     -         1577   10    0 
+FlopDaddy 982609936  6  4 cc  bc    b     bc        1567  100    0 Kd Qc
+FlopDaddy 982609978  6  3 c   kf    -     -         1467   10    0 
+FlopDaddy 982610019  6  2 Bk  k     b     -         1457   30   55 
+FlopDaddy 982610049  6  1 Bc  kc    kc    kf        1482   40    0 
+FlopDaddy 982610079  6  6 f   -     -     -         1442    0    0 
+FlopDaddy 982610098  6  5 cc  bc    c     f         1442   90    0 
+FlopDaddy 982610143  5  3 cc  c     bcc   c         1352  110    0 Kc 8h
+FlopDaddy 982610197  6  3 c   b     bc    c         1242   80  180 Th 8h
+FlopDaddy 982610239  7  3 f   -     -     -         1342    0    0 
+FlopDaddy 982610294  8  3 f   -     -     -         1342    0    0 
+FlopDaddy 982610352  9  3 f   -     -     -         1342    0    0 
+FlopDaddy 982610394  9  2 Bk  kcc   kc    k         1342   60  210 Tc Th
+FlopDaddy 982610469  9  1 Bf  -     -     -         1492    5    0 
+FlopDaddy 982610516  7  7 r   br    b     b         1487  100  260 
+FlopDaddy 982610581  9  7 f   -     -     -         1647    0    0 
+FlopDaddy 982610614  9  6 r   b     k     f         1647   30    0 
+FlopDaddy 982610673  7  4 c   f     -     -         1617   20    0 
+FlopDaddy 982610755  7  3 f   -     -     -         1597    0    0 
+FlopDaddy 982610808  7  2 Bk  b     b     b         1597   60  150 
+FlopDaddy 982610884  7  1 Bc  kf    Q     -         1687   10    0 
+FlopDaddy 982611173 10  6 c   c     c     f         1677   40    0 
+FlopDaddy 982611243 10  5 c   rc    b     bc        1637  110    0 Td 9c
+FlopDaddy 982611331 10  4 f   -     -     -         1527    0    0 
+FlopDaddy 982611403 10  3 cc  kf    -     -         1527   20    0 
+FlopDaddy 982611501 10  2 Bk  kf    -     -         1507   10    0 
+FlopDaddy 982611590  8  1 Bc  kf    -     -         1497   20    0 
+FlopDaddy 982611657 10 10 f   -     -     -         1477    0    0 
+FlopDaddy 982611726  9  8 f   -     -     -         1477    0    0 
+FlopDaddy 982611778  9  7 c   b     -     -         1477   20   40 
+FlopDaddy 982611809  8  6 f   -     -     -         1497    0    0 
+FlopDaddy 982611850  9  3 Q   -     -     -         1497    0    0 
+FlopDaddy 982691178  3  2 Bc  k     kc    kf        1497   40    0 
+FlopDaddy 982691215  3  1 Bf  -     -     -         1457    5    0 
+FlopDaddy 982691225  3  3 r   b     b     -         1452   50   85 
+FlopDaddy 982691244  3  2 Bk  c     f     -         1487   20    0 
+FlopDaddy 982691274  3  1 Bf  -     -     -         1467    5    0 
+FlopDaddy 982691302  3  3 cc  b     b     -         1462   50   90 
+FlopDaddy 982691325  3  2 Bf  -     -     -         1502   10    0 
+FlopDaddy 982691331  3  1 Bf  -     -     -         1492    5    0 
+FlopDaddy 982691337  3  3 c   c     f     -         1487   20    0 
+FlopDaddy 982691359  3  2 Bf  -     -     -         1467   10    0 
+FlopDaddy 982691378  3  1 Bc  k     b     -         1457   30   40 
+FlopDaddy 982691397  2  2 B   -     -     -         1467   10   15 
+FlopDaddy 982691399  2  1 Bc  b     -     -         1472   20   30 
+FlopDaddy 982691411  2  2 Bc  b     -     -         1482   30   50 
+FlopDaddy 982691425  2  1 Bf  -     -     -         1502    5    0 
+FlopDaddy 982691430  2  2 B   -     -     -         1497   10   15 
+FlopDaddy 982691433  2  1 Brc b     b     b         1502   80  140 
+FlopDaddy 982691459  2  2 B   -     -     -         1562   10   15 
+FlopDaddy 982691461  2  1 Bf  -     -     -         1567    5    0 
+FlopDaddy 982691469  2  2 Bc  f     -     -         1562   20    0 
+FlopDaddy 982691484  2  1 Bc  k     k     b         1542   30   40 
+FlopDaddy 982691502  2  2 Bf  -     -     -         1552   10    0 
+FlopDaddy 982691507  2  1 Bcc kr    b     b         1542   80  160 4s 9s
+FlopDaddy 982691533  2  2 Bk  b     -     -         1622   20   30 
+FlopDaddy 982691548  2  1 Bc  b     -     -         1632   20   30 
+FlopDaddy 982691559  2  2 B   -     -     -         1642   10   15 
+FlopDaddy 982691561  2  1 Bc  k     k     kf        1647   10    0 
+FlopDaddy 982691579  2  2 B   -     -     -         1637   10   15 
+FlopDaddy 982691582  2  1 Bc  b     b     -         1642   40   60 
+FlopDaddy 982691596  2  2 Bf  -     -     -         1662   10    0 
+FlopDaddy 982691600  2  1 Bcc k     kf    -         1652   20    0 
+FlopDaddy 982691617  2  2 Bc  f     -     -         1632   20    0 
+FlopDaddy 982691635  2  1 Bcc b     -     -         1612   30   50 
+FlopDaddy 982691650  2  2 Bc  b     b     bc        1632   90    0 4s Ks
+FlopDaddy 982691674  2  1 Br  b     -     -         1542   30   50 
+FlopDaddy 982691687  2  2 B   -     -     -         1562   10   15 
+FlopDaddy 982691690  2  1 Bf  -     -     -         1567    5    0 
+FlopDaddy 982691698  2  2 B   -     -     -         1562   10   15 
+FlopDaddy 982691701  2  1 Bf  -     -     -         1567    5    0 
+FlopDaddy 982691709  2  2 Brc b     b     b         1562   90  180 Qh Qd
+FlopDaddy 982691737  2  1 Bf  -     -     -         1652    5    0 
+FlopDaddy 982691749  2  2 Bf  -     -     -         1647   10    0 
+FlopDaddy 982691753  2  1 Bc  k     b     -         1637   30   40 
+FlopDaddy 982691765  2  2 B   -     -     -         1647   10   15 
+FlopDaddy 982691768  2  1 Bcf -     -     -         1652   10    0 
+FlopDaddy 982691778  2  2 B   -     -     -         1642   10   15 
+FlopDaddy 982691780  2  1 Bf  -     -     -         1647    5    0 
+FlopDaddy 982691781  2  2 Bf  -     -     -         1642   10    0 
+FlopDaddy 982691788  2  1 Brc b     b     -         1632   60  100 
+FlopDaddy 982691804  2  2 B   -     -     -         1672   10   15 
+FlopDaddy 982691809  2  1 Bf  -     -     -         1677    5    0 
+FlopDaddy 982691814  2  2 Bk  b     -     -         1672   20   30 
+FlopDaddy 982691825  2  1 Bc  k     k     k         1682   10    0 Tc 5c
+FlopDaddy 982691840  2  2 Bf  -     -     -         1672   10    0 
+FlopDaddy 982691846  2  1 Bcc kf    -     -         1662   20    0 
+FlopDaddy 982691861  2  2 B   -     -     -         1642   10   15 
+FlopDaddy 982691864  2  1 Bf  -     -     -         1647    5    0 
+FlopDaddy 982691866  2  2 Bc  b     -     -         1642   30   50 
+FlopDaddy 982691880  2  1 Bf  -     -     -         1662    5    0 
+FlopDaddy 982691887  2  2 B   -     -     -         1657   10   15 
+FlopDaddy 982691899  2  1 Bf  -     -     -         1662    5    0 
+FlopDaddy 982691904  2  2 B   -     -     -         1657   10   15 
+FlopDaddy 982691911  2  1 Br  -     -     -         1662   20   30 
+FlopDaddy 982691922  2  2 Bf  -     -     -         1672   10    0 
+FlopDaddy 982691931  2  1 Bf  -     -     -         1662    5    0 
+FlopDaddy 982691934  2  2 Bk  k     k     k         1657   10    0 2s 5s
+FlopDaddy 982691954  2  1 Bc  b     -     -         1647   20   30 
+FlopDaddy 982691970  2  2 Bc  b     b     b         1657   70  120 
+FlopDaddy 982691991  2  1 Bf  -     -     -         1707    5    0 
+FlopDaddy 982691995  2  2 Bc  b     -     -         1702   30   50 
+FlopDaddy 982692007  2  1 Bf  -     -     -         1722    5    0 
+FlopDaddy 982692012  2  2 B   -     -     -         1717   10   15 
+FlopDaddy 982692014  2  1 Bcc kf    -     -         1722   20    0 
+FlopDaddy 982692027  2  2 Bf  -     -     -         1702   10    0 
+FlopDaddy 982692032  2  1 Bf  -     -     -         1692    5    0 
+FlopDaddy 982692038  2  2 B   -     -     -         1687   10   15 
+FlopDaddy 982692041  2  1 Br  -     -     -         1692   20   30 
+FlopDaddy 982692046  2  2 B   -     -     -         1702   10   15 
+FlopDaddy 982692048  2  1 Bf  -     -     -         1707    5    0 
+FlopDaddy 982692051  2  2 Bk  b     -     -         1702   20   30 
+FlopDaddy 982692060  2  1 Bf  -     -     -         1712    5    0 
+FlopDaddy 982692069  2  2 Bf  -     -     -         1707   10    0 
+FlopDaddy 982692073  2  1 Bf  -     -     -         1697    5    0 
+FlopDaddy 982692077  2  2 Bf  -     -     -         1692   10    0 
+FlopDaddy 982692082  2  1 Bc  b     -     -         1682   20   30 
+FlopDaddy 982692090  2  2 Bf  -     -     -         1692   10    0 
+FlopDaddy 982692096  2  1 Brc b     -     -         1682   40   70 
+FlopDaddy 982692109  2  2 Bf  -     -     -         1712   10    0 
+FlopDaddy 982692114  2  1 Bf  -     -     -         1702    5    0 
+FlopDaddy 982692118  2  2 Bc  c     f     -         1697   30    0 
+FlopDaddy 982692133  2  1 Bc  b     -     -         1667   20   30 
+FlopDaddy 982692142  2  2 B   -     -     -         1677   10   15 
+FlopDaddy 982692144  2  1 Bf  -     -     -         1682    5    0 
+FlopDaddy 982692146  2  2 Bc  f     -     -         1677   20    0 
+FlopDaddy 982692155  2  1 Bf  -     -     -         1657    5    0 
+FlopDaddy 982692160  2  2 Bf  -     -     -         1652   10    0 
+FlopDaddy 982692167  2  1 Bf  -     -     -         1642    5    0 
+FlopDaddy 982692177  2  2 B   -     -     -         1637   10   15 
+FlopDaddy 982692180  2  1 Bc  bc    b     b         1642   70  140 7h 8d
+FlopDaddy 982692200  2  2 Bf  -     -     -         1712   10    0 
+FlopDaddy 982692210  2  1 Bf  -     -     -         1702    5    0 
+FlopDaddy 982692217  2  2 B   -     -     -         1697   10   15 
+FlopDaddy 982692219  2  1 Bcc b     -     -         1702   30   50 
+FlopDaddy 982692232  2  2 Bc  f     -     -         1722   20    0 
+FlopDaddy 982692244  2  1 Bc  k     k     bf        1702   30    0 
+FlopDaddy 982692268  2  2 B   -     -     -         1672   10   15 
+FlopDaddy 982692271  2  1 Bf  -     -     -         1677    5    0 
+FlopDaddy 982692273  2  2 Bf  -     -     -         1672   10    0 
+FlopDaddy 982692276  2  1 Bc  k     b     -         1662   30   40 
+FlopDaddy 982692288  2  2 B   -     -     -         1672   10   15 
+FlopDaddy 982692290  2  1 Bcf -     -     -         1677   10    0 
+FlopDaddy 982692297  2  2 Bc  f     -     -         1667   20    0 
+FlopDaddy 982692306  2  1 Bc  k     k     k         1647   10    0 8s 9d
+FlopDaddy 982692325  2  2 B   -     -     -         1637   10   15 
+FlopDaddy 982692329  2  1 Br  -     -     -         1642   20   30 
+FlopDaddy 982692337  2  2 Bc  r     b     b         1652   80  140 
+FlopDaddy 982692358  2  1 Bf  -     -     -         1712    5    0 
+FlopDaddy 982692362  2  2 Bc  rc    r     rc        1707  150    0 7h 8c
+FlopDaddy 982692384  2  1 Bcc kf    -     -         1557   20    0 
+FlopDaddy 982692402  2  2 Bf  -     -     -         1537   10    0 
+FlopDaddy 982692407  2  1 Bcc k     b     b         1527   60    0 8s Tc
+FlopDaddy 982692431  2  2 Bf  -     -     -         1467   10    0 
+FlopDaddy 982692439  2  1 Bf  -     -     -         1457    5    0 
+FlopDaddy 982692444  2  2 Bc  b     b     b         1452   70    0 5c Ad
+FlopDaddy 982692466  2  1 Bc  k     k     k         1382   10   20 7c 8h
+FlopDaddy 982692482  2  2 B   -     -     -         1392   10   15 
+FlopDaddy 982692488  2  1 Bf  -     -     -         1397    5    0 
+FlopDaddy 982692491  2  2 B   -     -     -         1392   10   15 
+FlopDaddy 982692494  2  1 Bf  -     -     -         1397    5    0 
+FlopDaddy 982692498  2  2 Bf  -     -     -         1392   10    0 
+FlopDaddy 982692503  2  1 Bf  -     -     -         1382    5    0 
+FlopDaddy 982692507  2  2 Bf  -     -     -         1377   10    0 
+FlopDaddy 982692511  2  1 Bc  k     k     k         1367   10   20 Kh 5h
+FlopDaddy 982692527  2  2 B   -     -     -         1377   10   15 
+FlopDaddy 982692534  2  1 Bc  k     b     -         1382   30   40 
+FlopDaddy 982692546  2  2 Bf  -     -     -         1392   10    0 
+FlopDaddy 982692550  2  1 Bf  -     -     -         1382    5    0 
+FlopDaddy 982692557  2  2 B   -     -     -         1377   10   15 
+FlopDaddy 982692563  2  1 Bcc k     k     k         1382   20    0 4h 8h
+FlopDaddy 982692584  2  2 Br  b     -     -         1362   30   50 
+FlopDaddy 982692595  2  1 Br  -     -     -         1382   20   30 
+FlopDaddy 982692600  2  2 Bf  -     -     -         1392   10    0 
+FlopDaddy 982692603  2  1 Bf  -     -     -         1382    5    0 
+FlopDaddy 982692608  2  2 B   -     -     -         1377   10   15 
+FlopDaddy 982692612  2  1 Bcc b     b     b         1382   70  120 
+FlopDaddy 982692648  2  2 Bf  -     -     -         1432   10    0 
+FlopDaddy 982692653  2  1 Bc  kc    k     kf        1422   20    0 
+FlopDaddy 982692679  2  2 B   -     -     -         1402   10   15 
+FlopDaddy 982692682  2  1 Bf  -     -     -         1407    5    0 
+FlopDaddy 982692683  2  2 B   -     -     -         1402   10   15 
+FlopDaddy 982692686  2  1 Bf  -     -     -         1407    5    0 
+FlopDaddy 982692693  2  2 Bf  -     -     -         1402   10    0 
+FlopDaddy 982692700  2  1 Bcc kc    kc    k         1392   50  100 2s As
+FlopDaddy 982692730  2  2 B   -     -     -         1442   10   15 
+FlopDaddy 982692734  2  1 Bf  -     -     -         1447    5    0 
+FlopDaddy 982692738  2  2 Bf  -     -     -         1442   10    0 
+FlopDaddy 982692746  2  1 Bf  -     -     -         1432    5    0 
+FlopDaddy 982692748  2  2 B   -     -     -         1427   10   15 
+FlopDaddy 982692751  2  1 Bcf -     -     -         1432   10    0 
+FlopDaddy 982692755  2  2 Br  b     -     -         1422   40   70 
+FlopDaddy 982692764  2  1 Brc br    b     b         1452  100    0 6d 6h
+FlopDaddy 982692785  2  2 B   -     -     -         1352   10   15 
+FlopDaddy 982692791  2  1 Bf  -     -     -         1357    5    0 
+FlopDaddy 982692795  2  2 Br  b     -     -         1352   40   70 
+FlopDaddy 982692807  2  1 Br  -     -     -         1382   20   30 
+FlopDaddy 982692810  2  2 Bf  -     -     -         1392   10    0 
+FlopDaddy 982692813  2  1 Bcc k     b     -         1382   40   60 
+FlopDaddy 982692828  2  2 Bc  r     rc    r         1402  140    0 Ks 9d
+FlopDaddy 982692853  2  1 Brc bc    kf    -         1262   50    0 
+FlopDaddy 982692876  2  2 Bf  -     -     -         1212   10    0 
+FlopDaddy 982692880  2  1 Bf  -     -     -         1202    5    0 
+FlopDaddy 982692885  2  2 Bf  -     -     -         1197   10    0 
+FlopDaddy 982692891  2  1 Bc  b     -     -         1187   20   30 
+FlopDaddy 982692899  2  2 B   -     -     -         1197   10   15 
+FlopDaddy 982692903  2  1 Br  -     -     -         1202   20   30 
+FlopDaddy 982692908  2  2 B   -     -     -         1212   10   15 
+FlopDaddy 982692912  2  1 Brc b     -     -         1217   40   70 
+FlopDaddy 982692929  2  2 Bf  -     -     -         1247   10    0 
+FlopDaddy 982692934  2  1 Br  -     -     -         1237   20   30 
+FlopDaddy 982692939  2  2 B   -     -     -         1247   10   15 
+FlopDaddy 982692943  2  1 Bc  k     b     -         1252   30   40 
+FlopDaddy 982692957  2  2 Bc  b     -     -         1262   30   50 
+FlopDaddy 982692965  2  1 Brc b     b     -         1282   60  100 
+FlopDaddy 982692979  2  2 B   -     -     -         1322   10   15 
+FlopDaddy 982692987  2  1 Bf  -     -     -         1327    5    0 
+FlopDaddy 982692991  2  2 B   -     -     -         1322   10   15 
+FlopDaddy 982692996  2  1 Bf  -     -     -         1327    5    0 
+FlopDaddy 982693000  2  2 Bf  -     -     -         1322   10    0 
+FlopDaddy 982693005  2  1 Bc  k     k     b         1312   30   40 
+FlopDaddy 982693021  2  2 B   -     -     -         1322   10   15 
+FlopDaddy 982693023  2  1 Bf  -     -     -         1327    5    0 
+FlopDaddy 982693024  2  2 B   -     -     -         1322   10   15 
+FlopDaddy 982693025  2  1 Bcc kf    -     -         1327   20    0 
+FlopDaddy 982693037  2  2 B   -     -     -         1307   10   15 
+FlopDaddy 982693040  2  1 Bf  -     -     -         1312    5    0 
+FlopDaddy 982693042  2  2 Bf  -     -     -         1307   10    0 
+FlopDaddy 982693048  2  1 Bf  -     -     -         1297    5    0 
+FlopDaddy 982693053  2  2 B   -     -     -         1292   10   15 
+FlopDaddy 982693055  2  1 Bf  -     -     -         1297    5    0 
+FlopDaddy 982693057  2  2 Bf  -     -     -         1292   10    0 
+FlopDaddy 982693069  2  1 Bf  -     -     -         1282    5    0 
+FlopDaddy 982693079  2  2 B   -     -     -         1277   10   15 
+FlopDaddy 982693083  2  1 Bf  -     -     -         1282    5    0 
+FlopDaddy 982693087  2  2 Bc  r     b     b         1277   80    0 9c 6c
+FlopDaddy 982693102  2  1 Bc  k     b     -         1197   30   40 
+FlopDaddy 982693118  2  2 Bc  b     -     -         1207   30   50 
+FlopDaddy 982693126  2  1 Bcc k     k     b         1227   40   40 3h Ac
+FlopDaddy 982693154  2  2 Bf  -     -     -         1227   10    0 
+FlopDaddy 982693159  2  1 Bf  -     -     -         1217    5    0 
+FlopDaddy 982693162  2  2 Bk  r     b     b         1212   70  140 Jc 7h
+FlopDaddy 982693183  2  1 Bc  k     k     k         1282   10   20 Tc 9h
+FlopDaddy 982693208  2  2 B   -     -     -         1292   10   15 
+FlopDaddy 982693215  2  1 Br  -     -     -         1297   20   30 
+FlopDaddy 982693224  2  2 Bc  r     -     -         1307   40   70 
+FlopDaddy 982693233  2  1 Bc  k     b     -         1337   30   40 
+FlopDaddy 982693245  2  2 B   -     -     -         1347   10   15 
+FlopDaddy 982693248  2  1 Bc  b     -     -         1352   20   30 
+FlopDaddy 982693267  2  2 B   -     -     -         1362   10   15 
+FlopDaddy 982693275  2  1 Bf  -     -     -         1367    5    0 
+FlopDaddy 982693279  2  2 B   -     -     -         1362   10   15 
+FlopDaddy 982693281  2  1 Bcc k     b     -         1367   40   60 
+FlopDaddy 982693293  2  2 B   -     -     -         1387   10   15 
+FlopDaddy 982693296  2  1 Bc  b     -     -         1392   20   30 
+FlopDaddy 982693304  2  2 Bc  c     k     k         1402   30    0 Jc Kh
+FlopDaddy 982693321  2  1 Bf  -     -     -         1372    5    0 
+FlopDaddy 982693325  2  2 Bf  -     -     -         1367   10    0 
+FlopDaddy 982693329  2  1 Bf  -     -     -         1357    5    0 
+FlopDaddy 982693332  2  2 Br  b     -     -         1352   40   70 
+FlopDaddy 982693346  2  1 Br  -     -     -         1382   20   30 
+FlopDaddy 982693351  2  2 Bk  k     k     r         1392   50    0 6d 3h
+FlopDaddy 982693370  2  1 Brc b     -     -         1342   40   70 
+FlopDaddy 982693384  2  2 B   -     -     -         1372   10   15 
+FlopDaddy 982693386  2  1 Bf  -     -     -         1377    5    0 
+FlopDaddy 982693388  2  2 B   -     -     -         1372   10   15 
+FlopDaddy 982693391  2  1 Bc  k     k     b         1377   30   60 Kc 2h
+FlopDaddy 982693417  3  3 f   -     -     -         1407    0    0 
+FlopDaddy 982693445  3  2 Bk  k     k     k         1407   10   20 2s 9c
+FlopDaddy 982693470  3  1 Bf  -     -     -         1417    5    0 
+FlopDaddy 982693489  3  3 c   b     k     b         1412   40   85 Jd 8d
+FlopDaddy 982693516  3  2 Bk  k     k     k         1457   10   25 5c Ts
+FlopDaddy 982693530  4  1 Bf  -     -     -         1472    5    0 
+FlopDaddy 982693553  5  5 c   r     b     b         1467   70    0 6s 7c
+FlopDaddy 982693589  5  3 Q   -     -     -         1397    0    0 
+FlopDaddy 982698050  5  5 f   -     -     -         1397    0    0 
+FlopDaddy 982698104  5  4 rr  br    k     k         1397   70  300 As Ah
+FlopDaddy 982698179  6  3 f   -     -     -         1627    0    0 
+FlopDaddy 982698210  6  2 Bk  kc    k     b         1627   40    0 2h 2c
+FlopDaddy 982698260  6  1 Brc b     b     bc        1587  110    0 Kh Kc
+FlopDaddy 982698320  6  6 f   -     -     -         1477    0    0 
+FlopDaddy 982698370  6  5 f   -     -     -         1477    0    0 
+FlopDaddy 982698415  6  4 f   -     -     -         1477    0    0 
+FlopDaddy 982698444  5  3 c   b     -     -         1477   20   35 
+FlopDaddy 982698462  5  2 Bf  -     -     -         1492   10    0 
+FlopDaddy 982698476  5  1 Bc  kc    kc    k         1482   50    0 Qs Th
+FlopDaddy 982698512  5  5 r   rc    r     k         1432   90    0 Kd Ad
+FlopDaddy 982698547  6  5 c   c     f     -         1342   30    0 
+FlopDaddy 982698590  6  4 c   rc    k     f         1312   40    0 
+FlopDaddy 982698642  6  3 f   -     -     -         1272    0    0 
+FlopDaddy 982698685  6  2 Bf  -     -     -         1272   10    0 
+FlopDaddy 982698726  6  1 Bf  -     -     -         1262    5    0 
+FlopDaddy 982698747  6  3 Q   -     -     -         1257    0    0 
+FlopDaddy 982699958  3  2 Bk  k     k     b         1257   30   45 
+FlopDaddy 982699987  3  1 Bf  -     -     -         1272    5    0 
+FlopDaddy 982699995  3  3 c   f     -     -         1267   10    0 
+FlopDaddy 982700023  3  2 Bk  b     bc    b         1257   80    0 Qc 7d
+FlopDaddy 982700047  4  1 Bc  b     b     b         1177   60   65 4s 4d
+FlopDaddy 982700078  4  4 f   -     -     -         1182    0    0 
+FlopDaddy 982700089  4  3 c   f     -     -         1182   10    0 
+FlopDaddy 982700110  4  2 Bk  f     -     -         1172   10    0 
+FlopDaddy 982700125  4  1 Bf  -     -     -         1162    5    0 
+FlopDaddy 982700133  4  4 c   k     r     k         1157   60  145 Qd Td
+FlopDaddy 982700160  4  3 c   r     b     r         1242   90  100 Ad 8h
+FlopDaddy 982700198  4  2 Bk  k     bc    k         1252   50  110 Jc 6h
+FlopDaddy 982700248  4  1 Bf  -     -     -         1312    5    0 
+FlopDaddy 982700262  4  4 f   -     -     -         1307    0    0 
+FlopDaddy 982700281  4  3 r   b     b     k         1307   50  110 Jh Js
+FlopDaddy 982700311  4  2 B   -     -     -         1367   10   15 
+FlopDaddy 982700317  4  1 Bcc kf    -     -         1372   30    0 
+FlopDaddy 982700349  5  5 f   -     -     -         1342    0    0 
+FlopDaddy 982700382  4  3 c   c     b     r         1342   80   85 Th Ks
+FlopDaddy 982700415  5  3 f   -     -     -         1347    0    0 
+FlopDaddy 982700454  5  2 Bc  kr    b     b         1347   90    0 9c Ac
+FlopDaddy 982700509  6  1 Bf  -     -     -         1257    5    0 
+FlopDaddy 982700551  7  4 Q   -     -     -         1252    0    0 
+FlopDaddy 983063047 10  8 f   -     -     -          265    0    0 
+FlopDaddy 983063089 10  7 f   -     -     -          265    0    0 
+FlopDaddy 983063188 10  6 c   b     b     -          265   40  100 
+FlopDaddy 983063267 10  5 r   r     -     -          325   40  115 
+FlopDaddy 983063323 10  4 c   b     b     -          400   40   65 
+FlopDaddy 983063405 10  3 f   -     -     -          425    0    0 
+FlopDaddy 983063442 10  2 Bf  -     -     -          425   10    0 
+FlopDaddy 983063538 10  1 Bf  -     -     -          415    5    0 
+FlopDaddy 983063688 10  3 Q   -     -     -          410    0    0 
+FlopDaddy 983074603 10  7 f   -     -     -          410    0    0 
+FlopDaddy 983074668 10  6 f   -     -     -          410    0    0 
+FlopDaddy 983074740 10  5 cc  kr    k     k          410   40    0 9c Th
+FlopDaddy 983074809 10  4 f   -     -     -          370    0    0 
+FlopDaddy 983074916 10  3 f   -     -     -          370    0    0 
+FlopDaddy 983074991 10  2 Bk  b     bc    k          370   60    0 9h As
+FlopDaddy 983075074 10  1 Bc  kf    -     -          310   10    0 
+FlopDaddy 983075161 10 10 f   -     -     -          300    0    0 
+FlopDaddy 983075260 10  9 f   -     -     -          300    0    0 
+FlopDaddy 983075363  9  7 c   r     b     k          300   60  150 Th As
+FlopDaddy 983075419 10  7 c   f     -     -          390   10    0 
+FlopDaddy 983075492 10  6 c   f     -     -          380   10    0 
+FlopDaddy 983075547 10  5 c   kf    -     -          370   10    0 
+FlopDaddy 983075615 10  4 c   k     b     kf         360   30    0 
+FlopDaddy 983075707  9  2 Bf  -     -     -          330   10    0 
+FlopDaddy 983075775  8  1 Bf  -     -     -          320    5    0 
+FlopDaddy 983075799  8  8 f   -     -     -          315    0    0 
+FlopDaddy 983075847  8  7 c   f     -     -          315   10    0 
+FlopDaddy 983075898  7  6 rc  rc    cf    -          305   80    0 
+FlopDaddy 983075982 10  6 f   -     -     -          225    0    0 
+FlopDaddy 983076065  9  4 c   k     f     -          225   10    0 
+FlopDaddy 983076125  9  3 f   -     -     -          215    0    0 
+FlopDaddy 983076206  7  2 Bk  kf    -     -          215   10    0 
+FlopDaddy 983076267  5  1 Bc  kr    b     bc         205  100    0 7h 7c
+FlopDaddy 983076333  6  6 c   c     r     c          105   90  360 Qc Ac
+FlopDaddy 983076410  7  5 fQ  -     -     -          375    0    0 
+FlopDaddy 983201014  5  3 f   -     -     -          375    0    0 
+FlopDaddy 983201057  6  2 Bf  -     -     -          375   10    0 
+FlopDaddy 983201106  7  1 Bf  -     -     -          365    5    0 
+FlopDaddy 983201155  8  8 f   -     -     -          360    0    0 
+FlopDaddy 983201193  8  7 f   -     -     -          360    0    0 
+FlopDaddy 983201248  8  6 f   -     -     -          360    0    0 
+FlopDaddy 983201288  8  5 c   f     -     -          360   10    0 
+FlopDaddy 983201321  8  4 f   -     -     -          350    0    0 
+FlopDaddy 983201353  9  3 cc  k     f     -          350   20    0 
+FlopDaddy 983201394  9  2 Bc  b     b     b          330   70  260 Tc Kd
+FlopDaddy 983201486  9  1 Bf  -     -     -          520    5    0 
+FlopDaddy 983201525 10  6 Q   -     -     -          515    0    0 
+FlopDaddy 983205668 10  3 c   f     -     -          515   10    0 
+FlopDaddy 983205711  9  2 Bf  -     -     -          505   10    0 
+FlopDaddy 983205750  9  1 Bc  kf    -     -          495   20    0 
+FlopDaddy 983205789  9  9 f   -     -     -          475    0    0 
+FlopDaddy 983205840  9  8 f   -     -     -          475    0    0 
+FlopDaddy 983205905  8  6 f   -     -     -          475    0    0 
+FlopDaddy 983205945  7  4 f   -     -     -          475    0    0 
+FlopDaddy 983205993  7  4 f   -     -     -          475    0    0 
+FlopDaddy 983206022  8  3 f   -     -     -          475    0    0 
+FlopDaddy 983206060  8  2 Bk  kf    -     -          475   10    0 
+FlopDaddy 983206098  8  1 Bf  -     -     -          465    5    0 
+FlopDaddy 983206122  8  8 f   -     -     -          460    0    0 
+FlopDaddy 983206152  7  6 r   r     f     -          460   50    0 
+FlopDaddy 983206202  7  5 f   -     -     -          410    0    0 
+FlopDaddy 983206236  7  4 f   -     -     -          410    0    0 
+FlopDaddy 983206263  7  3 c   k     k     b          410   30   55 
+FlopDaddy 983206294  7  2 Bk  kc    kf    -          435   20    0 
+FlopDaddy 983206337  7  1 Bc  kf    -     -          415   20    0 
+FlopDaddy 983206360  7  7 f   -     -     -          395    0    0 
+FlopDaddy 983206390  8  7 f   -     -     -          395    0    0 
+FlopDaddy 983206435  7  6 c   b     k     b          395   40  190 2c Kc
+FlopDaddy 983206492  7  5 c   r     b     k          545   60  225 9h As
+FlopDaddy 983206551  8  4 f   -     -     -          710    0    0 
+FlopDaddy 983206622  7  3 KQ  -     -     -          710    0    0 
+FlopDaddy 983214746 10  3 cc  k     kf    -          710   30    0 
+FlopDaddy 983214832 10  2 Bf  -     -     -          680   10    0 
+FlopDaddy 983214899 10  1 Bf  -     -     -          670    5    0 
+FlopDaddy 983214942 10 10 f   -     -     -          665    0    0 
+FlopDaddy 983215003 10  9 c   f     -     -          665   20    0 
+FlopDaddy 983215086 10  8 f   -     -     -          645    0    0 
+FlopDaddy 983215148 10  7 f   -     -     -          645    0    0 
+FlopDaddy 983215221 10  6 cc  rc    cf    -          645  100    0 
+FlopDaddy 983215359 10  5 cc  k     f     -          545   20    0 
+FlopDaddy 983215446 10  4 rc  bc    kf    -          525   50    0 
+FlopDaddy 983215526 10  3 f   -     -     -          475    0    0 
+FlopDaddy 983215605 10  2 Bk  k     bc    b          475   70    0 Kh Ad
+FlopDaddy 983215652 10  1 Bf  -     -     -          405    5    0 
+FlopDaddy 983215703 10 10 r   rc    rc    r          400  160  615 As Ac
+FlopDaddy 983215825 10  9 f   -     -     -          855    0    0 
+FlopDaddy 983215929 10  8 f   -     -     -          855    0    0 
+FlopDaddy 983215986 10  7 f   -     -     -          855    0    0 
+FlopDaddy 983216055 10  3 Q   -     -     -          855    0    0 
+FlopDaddy 983379854 10  7 f   -     -     -          855    0    0 
+FlopDaddy 983379919  9  5 f   -     -     -          855    0    0 
+FlopDaddy 983379965 10  4 f   -     -     -          855    0    0 
+FlopDaddy 983380014 10  3 f   -     -     -          855    0    0 
+FlopDaddy 983380069 10  2 Bk  k     kf    -          855   10    0 
+FlopDaddy 983380110 10  1 Bc  k     k     kf         845   10    0 
+FlopDaddy 983380157 10 10 c   c     f     -          835   30    0 
+FlopDaddy 983380210 10  9 f   -     -     -          805    0    0 
+FlopDaddy 983380257 10  8 f   -     -     -          805    0    0 
+FlopDaddy 983380297 10  7 c   b     b     b          805   60  170 9d 6d
+FlopDaddy 983380343  9  5 f   -     -     -          915    0    0 
+FlopDaddy 983380376  9  5 f   -     -     -          915    0    0 
+FlopDaddy 983380420  9  3 f   -     -     -          915    0    0 
+FlopDaddy 983380448  9  2 Bk  kr    kc    kf         915   50    0 
+FlopDaddy 983380511 10  1 Bc  br    k     b          865   60  240 Ad Qs
+FlopDaddy 983380590  9  9 f   -     -     -         1045    0    0 
+FlopDaddy 983380633  9  8 f   -     -     -         1045    0    0 
+FlopDaddy 983380674  9  3 Q   -     -     -         1045    0    0 
+FlopDaddy 983383103  7  5 f   -     -     -         1045    0    0 
+FlopDaddy 983383181  8  3 f   -     -     -         1045    0    0 
+FlopDaddy 983383234  6  2 Bk  b     -     -         1045   20   50 
+FlopDaddy 983383282  7  1 Bf  -     -     -         1075    5    0 
+FlopDaddy 983383313  7  7 f   -     -     -         1070    0    0 
+FlopDaddy 983383341  7  6 f   -     -     -         1070    0    0 
+FlopDaddy 983383376  8  5 c   k     k     k         1070   10    0 7h 5h
+FlopDaddy 983383402  8  4 c   kf    -     -         1060   10    0 
+FlopDaddy 983383455  8  3 f   -     -     -         1050    0    0 
+FlopDaddy 983383493  9  2 Bk  k     b     b         1050   50    0 Qh Td
+FlopDaddy 983383539  9  1 Bf  -     -     -         1000    5    0 
+FlopDaddy 983383585  8  8 f   Q     -     -          995    0    0 

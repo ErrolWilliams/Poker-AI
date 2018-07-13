@@ -1,0 +1,78 @@
+GreyArea  899122987  8  8 f   -     -     -         1000    0    0 
+GreyArea  899123015  8  7 f   -     -     -         1000    0    0 
+GreyArea  899123058  8  6 r   rr    bc    c         1000  130    0 Ts Td
+GreyArea  899123111  8  5 f   -     -     -          870    0    0 
+GreyArea  899123174  8  4 f   -     -     -          870    0    0 
+GreyArea  899123219  8  3 f   -     -     -          870    0    0 
+GreyArea  899123269  7  1 Bc  kc    k     f          870   30    0 
+GreyArea  899123301  7  1 Br  kc    kf    -          840   40    0 
+GreyArea  899123342  7  7 f   -     -     -          800    0    0 
+GreyArea  899123358  7  6 f   -     -     -          800    0    0 
+GreyArea  899123382  8  6 f   -     -     -          800    0    0 
+GreyArea  899123414  8  5 f   -     -     -          800    0    0 
+GreyArea  899123480  8  4 f   -     -     -          800    0    0 
+GreyArea  899123499  8  3 f   -     -     -          800    0    0 
+GreyArea  899123549  8  2 Bk  kf    -     -          800   10    0 
+GreyArea  899123591  8  1 Bc  b     b     k          790   50  160 8s Ts
+GreyArea  899123622  9  9 f   -     -     -          900    0    0 
+GreyArea  899123665  9  8 rc  b     c     k          900   70  315 Ks Qs
+GreyArea  899123750  9  7 f   -     -     -         1145    0    0 
+GreyArea  899123795  9  6 c   k     f     Q         1145   10    0 
+GreyArea  899136866 10 10 c   b     b     -         1135   40   65 
+GreyArea  899136928  9  8 r   rc    r     r         1160  150    0 Ah Kh
+GreyArea  899137000  9  7 f   -     -     -         1010    0    0 
+GreyArea  899137047  9  6 f   -     -     -         1010    0    0 
+GreyArea  899137068  9  5 f   -     -     -         1010    0    0 
+GreyArea  899137108  7  3 f   -     -     -         1010    0    0 
+GreyArea  899137145  8  2 Bf  -     -     -         1010   10    0 
+GreyArea  899137184  8  1 Bcc kc    kf    -         1000   30    0 
+GreyArea  899137250  9  9 f   -     -     -          970    0    0 
+GreyArea  899137272  9  8 f   -     -     -          970    0    0 
+GreyArea  899137317  9  7 cc  f     -     -          970   20    0 
+GreyArea  899137398 10  6 f   -     -     -          950    0    0 
+GreyArea  899137497  9  4 f   -     -     -          950    0    0 
+GreyArea  899137554  8  3 f   -     -     -          950    0    0 
+GreyArea  899137606 10  3 cc  kc    kf    -          950   30    0 
+GreyArea  899137647 10  2 B   -     -     -          920   10   15 
+GreyArea  899137689  9  1 Bc  b     -     -          925   20   40 
+GreyArea  899137724  9  9 c   r     b     b          945   80  165 
+GreyArea  899137773 10  9 c   f     -     -         1030   20    0 
+GreyArea  899137831 10  8 f   -     -     -         1010    0    0 
+GreyArea  899137875 10  7 cc  c     f     -         1010   30    0 
+GreyArea  899137919 10  6 c   c     k     b          980   50  115 
+GreyArea  899137963  9  4 f   -     -     -         1045    0    0 
+GreyArea  899138064  9  4 f   -     -     -         1045    0    0 
+GreyArea  899138107  9  3 f   -     -     -         1045    0    0 
+GreyArea  899138120  9  2 B   -     -     -         1045   10   15 
+GreyArea  899138141  8  1 Bc  kc    kf    -         1050   30    0 
+GreyArea  899138178  9  9 cc  f     -     -         1020   30    0 
+GreyArea  899138220  8  7 f   -     -     -          990    0    0 
+GreyArea  899138240  8  6 f   -     -     -          990    0    0 
+GreyArea  899138325  9  6 f   -     -     -          990    0    0 
+GreyArea  899138362  9  5 f   -     -     -          990    0    0 
+GreyArea  899138391  9  4 rc  r     c     k          990   70    0 Th Ac
+GreyArea  899138427 10  3 rc  kf    -     -          920   30    0 
+GreyArea  899138498 10  2 Brc bc    kf    -          890   60    0 
+GreyArea  899138546 10  1 Bf  -     -     -          830    5    0 
+GreyArea  899138614 10 10 f   -     -     -          825    0    0 
+GreyArea  899138656 10  9 cc  c     f     -          825   50    0 
+GreyArea  899138769 10  8 f   -     -     -          775    0    0 
+GreyArea  899138832 10  7 f   -     -     -          775    0    0 
+GreyArea  899138893  8  4 f   -     -     -          775    0    0 
+GreyArea  899138952  9  4 f   -     -     -          775    0    0 
+GreyArea  899138992  9  3 ccc bc    kc    k          775   80    0 Kh 7h
+GreyArea  899139111 10  2 Bc  kf    -     -          695   30    0 
+GreyArea  899139170  9  1 Bc  kc    kc    k          665   70  230 6c 5c
+GreyArea  899139259  9  9 f   -     -     -          825    0    0 
+GreyArea  899139284  9  8 c   k     c     k          825   40  155 5d 3d
+GreyArea  899139365  9  7 f   -     -     -          940    0    0 
+GreyArea  899139399  9  6 c   c     c     k          940   50    0 9h Th
+GreyArea  899139437  9  5 cc  bf    -     -          890   30    0 
+GreyArea  899139527 10  4 f   -     -     -          860    0    0 
+GreyArea  899139605  9  3 r   -     -     -          860   20   35 
+GreyArea  899139620 10  2 Bf  -     -     -          875   10    0 
+GreyArea  899139693  9  1 Bc  kc    kf    -          865   20    0 
+GreyArea  899139767 10 10 r   b     bc    c          845   90  215 Ah Kd
+GreyArea  899139818 10  9 f   -     -     -          970    0    0 
+GreyArea  899139875 10  8 c   c     c     c          970   70    0 6c 6h
+GreyArea  899139930 10  7 f   -     QQ    -          900    0    0 

@@ -1,0 +1,68 @@
+SnortNPig 938011121  6  4 f   -     -     -         1000    0    0 
+SnortNPig 938011145  6  3 r   b     b     b         1000   70  150 
+SnortNPig 938011171  6  2 Bc  b     b     -         1080   50   85 
+SnortNPig 938011182  6  1 Br  br    kc    kc        1115  100    0 8c Js
+SnortNPig 938011224  7  6 r   f     -     -         1015   20    0 
+SnortNPig 938011248  8  5 r   brc   b     b          995  100  195 
+SnortNPig 938011271  8  4 r   b     b     -         1090   50  125 
+SnortNPig 938011288  8  3 r   b     -     -         1165   30   60 
+SnortNPig 938011300  8  2 Br  kf    -     -         1195   20    0 
+SnortNPig 938011329  8  1 Br  bf    -     -         1175   50    0 
+SnortNPig 938011350  8  8 f   -     -     -         1125    0    0 
+SnortNPig 938011389  8  7 r   br    b     r         1125  110    0 4d 7s
+SnortNPig 938011441  8  6 r   r     b     -         1015   70  165 
+SnortNPig 938011457  8  5 f   -     -     -         1110    0    0 
+SnortNPig 938011470  8  4 rr  brc   k     bf        1110  100    0 
+SnortNPig 938011496  8  3 rr  b     b     b         1010   90    0 9c Ks
+SnortNPig 938011511  8  2 Br  b     -     -          920   30   75 
+SnortNPig 938011527  8  1 Br  -     -     -          965   20   40 
+SnortNPig 938011537  8  8 r   k     k     r          985   60  135 5h 8h
+SnortNPig 938011553  8  7 r   rr    c     c         1060  100    0 Jd 9d
+SnortNPig 938011576  8  6 rr  b     b     c          960   90    0 Th Ac
+SnortNPig 938011603  7  5 r   b     r     k          870   70   77 6d Ac
+SnortNPig 938011620  7  4 rr  b     b     b          877   90    0 Kc 8c
+SnortNPig 938011639  7  3 rr  f     -     -          787   40    0 
+SnortNPig 938011674  7  2 Bf  -     -     -          747   10    0 
+SnortNPig 938011696  7  1 Bf  -     -     -          737    5    0 
+SnortNPig 938011710  7  7 f   -     -     -          732    0    0 
+SnortNPig 938011726  7  6 f   -     -     -          732    0    0 
+SnortNPig 938011742  6  4 f   -     -     -          732    0    0 
+SnortNPig 938011755  6  3 r   -     -     -          732   20   35 
+SnortNPig 938011763  6  2 Br  b     -     -          747   40   75 
+SnortNPig 938011773  6  1 Br  b     -     -          782   40   80 
+SnortNPig 938011788  6  6 r   -     -     -          822   20   35 
+SnortNPig 938011794  6  5 rr  cf    -     -          837   50    0 
+SnortNPig 938011821  7  5 f   -     -     -          787    0    0 
+SnortNPig 938011840  7  4 f   -     -     -          787    0    0 
+SnortNPig 938011861  7  3 f   -     -     -          787    0    0 
+SnortNPig 938011882  8  2 Br  b     b     b          787   70    0 8d Qh
+SnortNPig 938011922  8  1 Br  b     b     b          717   70  160 Jc 5h
+SnortNPig 938012019  7  7 f   -     -     -          807    0    0 
+SnortNPig 938012049  7  6 r   f     -     -          807   20    0 
+SnortNPig 938012078  7  5 r   -     -     -          787   20   35 
+SnortNPig 938012085  7  4 r   rc    f     -          802   50    0 
+SnortNPig 938012104  8  3 rr  br    b     b          752  110    0 9s Qh
+SnortNPig 938012125  8  2 Br  b     -     -          642   40   75 
+SnortNPig 938012136  8  1 Brr kf    -     -          677   40    0 
+SnortNPig 938012184  9  9 r   k     k     k          637   20    0 7s 2s
+SnortNPig 938012230  9  8 r   b     b     k          617   50    0 2s 7s
+SnortNPig 938012254  9  7 r   b     k     f          567   40    0 
+SnortNPig 938012294  9  6 r   b     bf    -          527   50    0 
+SnortNPig 938012306  9  5 r   b     -     -          477   30   65 
+SnortNPig 938012330 10  4 r   b     b     b          512   70  195 
+SnortNPig 938012402  9  3 r   b     b     b          637   70  135 
+SnortNPig 938012419  9  2 Br  r     bc    b          702  100    0 Ts 7d
+SnortNPig 938012451  9  1 Br  b     b     bf         602   70    0 
+SnortNPig 938012475 10 10 r   r     k     f          532   40    0 
+SnortNPig 938012517 10  3 Q   -     -     -          492    0    0 
+SnortNPig 938200212  7  7 r   k     f     -          492   20    0 
+SnortNPig 938200308  8  7 r   b     r     k          472   70    0 Kh Qs
+SnortNPig 938200383  6  5 r   b     b     b          402   70    0 Jd 8s
+SnortNPig 938200430  8  4 rc  rr    rr    rr         332  240    0 4h 4d
+SnortNPig 938200494  8  4 rr  rr    bAQ   -           92   92    0 
+SnortNPig 938201410  2  2 B   -     -     -          125   10   15 
+SnortNPig 938201420  3  1 Br  b     -     -          130   30   70 
+SnortNPig 938201447  3  3 r   -     -     -          170   20   35 
+SnortNPig 938201466  3  2 Br  b     b     b          185   70    0 As 8s
+SnortNPig 938201551  4  1 Brc brc   bf    -          115  100    0 
+SnortNPig 938201623  4  4 rAQ -     -     -           15   15    0 

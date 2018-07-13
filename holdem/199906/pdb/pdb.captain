@@ -1,0 +1,306 @@
+captain   928894160  8  7 f   -     -     -         1000    0    0 
+captain   928894216  8  6 c   k     k     k         1000   10   10 Ts 3s
+captain   928894250  8  5 cc  k     cc    c         1000  120    0 4d Qc
+captain   928894342  8  4 f   -     -     -          880    0    0 
+captain   928894433  9  3 cc  kc    kf    -          880   40    0 
+captain   928894510  9  2 Bf  -     -     -          840   10    0 
+captain   928894552  9  1 Bc  kc    brc   bc         830  150    0 8d Jh
+captain   928894635  9  9 f   -     -     -          680    0    0 
+captain   928894709 10  9 f   -     -     -          680    0    0 
+captain   928894770 10  8 f   -     -     -          680    0    0 
+captain   928894866  9  7 f   -     -     -          680    0    0 
+captain   928894912  9  6 cc  f     -     -          680   40    0 
+captain   928895053  8  4 ccc rc    c     c          640  120    0 2h Kc
+captain   928895140  8  3 f   -     -     -          520    0    0 
+captain   928895196  7  2 Bf  -     -     -          520   10    0 
+captain   928895289  7  1 Bcc kc    kcc   kf         510  130    0 
+captain   928895410  9  9 ccc c     c     c          380  130    0 Kh Ac
+captain   928895519  7  6 c   c     c     f          250   40    0 
+captain   928895581  7  5 f   -     -     -          210    0    0 
+captain   928895627  7  4 f   -     -     -          210    0    0 
+captain   928895691  7  3 f   -     -     -          210    0    0 
+captain   928895762  7  2 Bk  kf    -     -          210   10    0 
+captain   928895821  7  1 Bc  krc   b     brc        200  150  400 7c Kc
+captain   928895894  7  7 c   c     c     c          450   60    0 Jh Qd
+captain   928895962  7  6 f   -     -     -          390    0    0 
+captain   928896009  6  4 c   b     brc   kc         390  120  265 Ah Kh
+captain   928896061  7  3 c   k     f     -          535   10    0 
+captain   928896114  7  2 Bc  brc   k     b          525   90    0 4s 4h
+captain   928896185  8  1 Bcc kc    kf    -          435   30    0 
+captain   928896288  6  6 c   b     c     k          405   50    0 3h 3c
+captain   928896342  5  4 r   rc    r     br         355  150  440 Jc Js
+captain   928896401  6  1 Bc  kc    kc    kf         645   70    0 
+captain   928896489  8  1 Bc  krc   kcc   kf         575  110    0 
+captain   928896602  7  7 cc  c     f     -          465   40    0 
+captain   928896677  8  6 c   k     f     -          425   20    0 
+captain   928896739  7  5 c   f     -     -          405   10    0 
+captain   928896775  7  4 c   cc    cc    f          395  100    0 
+captain   928896875  6  3 cc  f     -     -          295   20    0 
+captain   928896904  6  2 Bk  k     kc    k          275   30    0 2h 4s
+captain   928896949  7  1 Bc  kc    kc    k          245   40    0 Jd 8d
+captain   928896980  7  7 f   -     -     -          205    0    0 
+captain   928897003  7  6 cc  c     f     -          205   30    0 
+captain   928897046  7  5 f   -     -     -          175    0    0 
+captain   928897061  7  4 f   -     -     -          175    0    0 
+captain   928897089  8  4 c   c     c     f          175   40    0 
+captain   928897128  8  3 c   kf    -     -          135   10    0 
+captain   928897178  9  2 Bk  kc    kr    b          125   80  165 
+captain   928897247  8  1 Bc  kc    kc    kf         210   50    0 
+captain   928897296  8  8 f   -     -     -          160    0    0 
+captain   928897361  7  6 f   -     -     -          160    0    0 
+captain   928897395  6  4 c   k     k     k          160   10    0 7d Jh
+captain   928897424  6  3 rc  kc    kc    kf         150   60    0 
+captain   928897462  7  2 Bk  f     -     -           90   10    0 
+captain   928897495  7  1 Bf  -     -     -           80    5    0 
+captain   928897536  7  7 f   -     -     -           75    0    0 
+captain   928897564  7  6 f   -     -     -           75    0    0 
+captain   928897611  7  5 c   kf    -     -           75   10    0 
+captain   928897653  7  4 cc  bc    bcA   -           65   65  220 Qh 3d
+captain   928897714  7  3 f   -     -     -          220    0    0 
+captain   928897755  7  2 Bc  kc    kf    -          220   30    0 
+captain   928897807  7  1 Bf  -     -     -          190    5    0 
+captain   928897849  7  7 c   c     k     k          185   20    0 Jc Ah
+captain   928897897  8  6 KQ  -     -     -          165    0    0 
+captain   928898315  7  7 f   -     -     -          165    0    0 
+captain   928898391  7  6 f   -     -     -          165    0    0 
+captain   928898468  6  4 c   c     c     c          165   70    0 Jc Td
+captain   928898518  8  3 cc  f     -     -           95   20    0 
+captain   928898565  8  2 Bf  -     -     -           75   10    0 
+captain   928898580  8  1 Bc  kc    kc    kf          65   40    0 
+captain   928898636  9  9 f   -     -     -           25    0    0 
+captain   928898678  9  8 c   c     cA    -           25   25   75 Ah 2c
+captain   928898719  9  7 c   c     c     rA          75   75  190 Ks 9s
+captain   928898758  9  6 f   -     -     -          190    0    0 
+captain   928898805  9  5 f   -     -     -          190    0    0 
+captain   928898858  9  4 cc  c     c     f          190   50    0 
+captain   928898889 10  4 cc  f     -     -          140   20    0 
+captain   928898930 10  3 f   -     -     -          120    0    0 
+captain   928898986 10  2 Br  b     b     b          120   70  195 Ks Kc
+captain   928899027 10  1 Bc  k     br    b          245  110  240 
+captain   928899085 10 10 c   k     f     -          375   20    0 
+captain   928899173  9  8 c   f     -     -          355   20    0 
+captain   928899233  9  7 f   -     -     -          335    0    0 
+captain   928899282  8  6 f   -     -     -          335    0    0 
+captain   928899363  7  4 c   r     b     b          335   80  205 
+captain   928899394  8  3 f   -     -     -          460    0    0 
+captain   928899448  9  2 Bf  -     -     -          460   10    0 
+captain   928899517  9  1 Bc  kf    -     -          450   20    0 
+captain   928899556  9  9 cc  c     c     f          430   60    0 
+captain   928899633  8  7 f   -     -     -          370    0    0 
+captain   928899668  8  6 c   c     c     k          370   40    0 Th Jd
+captain   928899734  8  5 f   -     -     -          330    0    0 
+captain   928899787  8  5 c   f     -     -          330   10    0 
+captain   928899841  9  4 c   r     r     b          320  100  405 Kd Jd
+captain   928899880 10  4 cc  kf    -     -          625   20    0 
+captain   928899966 10  3 f   -     -     -          605    0    0 
+captain   928900005 10  2 Bc  k     f     -          605   20    0 
+captain   928900073 10  1 Bf  -     -     -          585    5    0 
+captain   928900141 10 10 c   f     -     -          580   20    0 
+captain   928900193 10  9 f   -     -     -          560    0    0 
+captain   928900275  9  7 c   k     k     f          560   20    0 
+captain   928900317  9  6 cc  f     -     -          540   20    0 
+captain   928900363  9  5 c   f     -     -          520   20    0 
+captain   928900393 10  5 c   k     r     b          500   70    0 Ah 9c
+captain   928900427 10  4 cf  -     -     -          430   10    0 
+captain   928900547 10  3 f   -     -     -          420    0    0 
+captain   928900606 10  2 Bf  -     -     -          420   10    0 
+captain   928900666 10  1 Bc  b     b     b          410   70  280 6c Qc
+captain   928900716 10 10 c   k     k     k          620   10    0 8d 7h
+captain   928900786  9  8 c   k     c     r          610   80  265 As 7c
+captain   928900843 10  8 c   k     k     k          795   10    0 4s Ac
+captain   928900882 10  7 f   -     -     -          785    0    0 
+captain   928900963 10  6 f   -     -     -          785    0    0 
+captain   928901049 10  5 f   -     -     -          785    0    0 
+captain   928901110 10  4 c   kf    -     -          785   10    0 
+captain   928901166 10  3 f   -     -     -          775    0    0 
+captain   928901228 10  2 Bk  kf    -     -          775   10    0 
+captain   928901262  9  1 Bc  kf    -     -          765   20    0 
+captain   928901342 10 10 f   -     -     -          745    0    0 
+captain   928901415 10  9 cc  f     -     -          745   40    0 
+captain   928901555 10  8 f   -     -     -          705    0    0 
+captain   928901630 10  7 r   rc    rr    k          705  140  485 Ad As
+captain   928901702 10  6 cc  f     -     -         1050   20    0 
+captain   928901788  7  2 Bcc cc    r     b         1030  140    0 5c Kd
+captain   928901894  8  1 Bc  kf    -     -          890   20    0 
+captain   928901959  8  7 cc  c     f     -          870   30    0 
+captain   928902010  8  6 f   -     -     -          840    0    0 
+captain   928902057 10  7 f   -     -     -          840    0    0 
+captain   928902212 10  6 c   c     f     -          840   20    0 
+captain   928902273 10  5 c   rc    rc    brc        820  210  715 4s 4c
+captain   928902351 10  4 c   f     -     -         1325   10    0 
+captain   928902395 10  3 c   kc    kf    -         1315   30    0 
+captain   928902507 10  2 Bc  k     k     k         1285   20  100 7d 7s
+captain   928902568 10  1 Bc  kf    -     -         1365   10    0 
+captain   928902655 10 10 f   -     -     -         1355    0    0 
+captain   928902737 10  9 c   f     -     -         1355   10    0 
+captain   928902796 10  8 c   f     -     -         1345   10    0 
+captain   928902848 10  7 c   kc    kc    kf        1335   40    0 
+captain   928902900 10  6 cc  f     -     -         1295   20    0 
+captain   928902989 10  5 f   -     -     -         1275    0    0 
+captain   928903083 10  4 f   -     -     -         1275    0    0 
+captain   928903136 10  3 cc  kf    -     -         1275   30    0 
+captain   928903188 10  2 Bk  k     kf    -         1245   10    0 
+captain   928903230 10  1 Bcc kc    kc    kc        1235   90    0 Kd 2h
+captain   928903311 10 10 f   -     -     -         1145    0    0 
+captain   928903354 10  9 f   -     -     -         1145    0    0 
+captain   928903399  9  8 c   c     f     -         1145   30    0 
+captain   928903453  9  7 f   -     -     -         1115    0    0 
+captain   928903488  9  6 c   k     f     -         1115   10    0 
+captain   928903526  9  4 cc  kc    kc    kc        1105   90    0 As Th
+captain   928903577 10  4 f   -     -     -         1015    0    0 
+captain   928903602 10  3 f   Q     -     -         1015    0    0 
+captain   928977696  9  2 Bf  -     -     -         1015   10    0 
+captain   928977719  9  1 Bf  -     -     -         1005    5    0 
+captain   928977785 10 10 f   -     -     -         1000    0    0 
+captain   928977831  9  8 f   -     -     -         1000    0    0 
+captain   928977878  9  7 f   -     -     -         1000    0    0 
+captain   928977980 10  6 c   b     b     -         1000   40   95 
+captain   928978099 10  5 f   -     -     -         1055    0    0 
+captain   928978197 10  4 f   -     -     -         1055    0    0 
+captain   928978342 10  3 cc  k     kc    kf        1055   40    0 
+captain   928978426  6  1 Bk  kf    -     -         1015   10    0 
+captain   928978453  6  1 Bc  kcc   k     k         1005   40  160 Jc 2c
+captain   928978505  6  6 cc  c     c     c         1125   70    0 Ad Ks
+captain   928978551  6  5 f   -     -     -         1055    0    0 
+captain   928978604  4  3 c   c     f     -         1055   20    0 
+captain   928978628  4  2 Bc  k     k     k         1035   20    0 7s Js
+captain   928978665  7  1 Bcc kf    -     -         1015   40    0 
+captain   928978755 10  9 f   -     -     -          975    0    0 
+captain   928978846 10  8 cc  k     f     -          975   20    0 
+captain   928978874 10  7 ccc f     -     -          955   40    0 
+captain   928978929 10  6 f   -     -     -          915    0    0 
+captain   928978990 10  5 f   -     -     -          915    0    0 
+captain   928979020  9  4 f   -     -     -          915    0    0 
+captain   928979071 10  3 c   kf    -     -          915   10    0 
+captain   928979124 10  2 Bcc kf    -     -          905   40    0 
+captain   928979195 10  1 Bf  -     -     -          865    5    0 
+captain   928979259  9  9 f   -     -     -          860    0    0 
+captain   928979326 10  9 f   -     -     -          860    0    0 
+captain   928979398 10  8 f   -     -     -          860    0    0 
+captain   928979432 10  7 f   -     -     -          860    0    0 
+captain   928979497 10  6 f   -     -     -          860    0    0 
+captain   928979566 10  5 f   -     -     -          860    0    0 
+captain   928979598 10  4 f   -     -     -          860    0    0 
+captain   928979660 10  3 ccc kf    -     -          860   40    0 
+captain   928979772 10  2 Bcc kf    -     -          820   40    0 
+captain   928979854 10  1 Bc  kf    -     -          780   20    0 
+captain   928979929 10 10 c   b     k     b          760   40  135 7h 7s
+captain   928979990  8  7 c   k     k     cc         855   50    0 As Tc
+captain   928980031  8  7 c   f     -     -          805   10    0 
+captain   928980056  9  7 cc  r     b     k          795   80  380 3c Ks
+captain   928980123  9  6 f   -     -     -         1095    0    0 
+captain   928980163  9  5 cc  kf    -     -         1095   20    0 
+captain   928980210  9  4 c   k     cf    -         1075   30    0 
+captain   928980247  9  3 f   -     -     -         1045    0    0 
+captain   928980282  8  2 Bf  -     -     -         1045   10    0 
+captain   928980316  7  1 Bc  kf    -     -         1035   20    0 
+captain   928980337  7  7 c   f     -     -         1015   10    0 
+captain   928980373  7  6 f   -     -     -         1005    0    0 
+captain   928980422  7  5 f   -     -     -         1005    0    0 
+captain   928980449  6  4 f   -     -     -         1005    0    0 
+captain   928980484  6  3 cc  c     c     c         1005   70    0 Qc Jc
+captain   928980518  7  2 Bc  k     br    brc        935  180  235 7s Ac
+captain   928980571  8  1 Bc  kf    -     -          990   10    0 
+captain   928980613  8  8 f   -     -     -          980    0    0 
+captain   928980654  8  7 f   -     -     -          980    0    0 
+captain   928980704  8  6 f   -     -     -          980    0    0 
+captain   928980744  8  5 f   -     -     -          980    0    0 
+captain   928980783  8  4 f   -     -     -          980    0    0 
+captain   928980821  7  3 cc  c     f     -          980   40    0 
+captain   928980865  4  2 Bk  k     kf    -          940   10    0 
+captain   928980874  3  1 Bf  -     -     -          930    5    0 
+captain   928980885  3  3 f   -     -     -          925    0    0 
+captain   928980899  3  2 Bk  kf    -     -          925   10    0 
+captain   928980915  3  1 Bf  -     -     -          915    5    0 
+captain   928980930  3  3 cc  c     f     -          910   30    0 
+captain   928980947  5  2 Bf  -     -     -          880   10    0 
+captain   928980972  6  1 Bf  -     -     -          870    5    0 
+captain   928980992  6  6 f   -     -     -          865    0    0 
+captain   928981000  6  5 f   -     -     -          865    0    0 
+captain   928981008  6  4 f   -     -     -          865    0    0 
+captain   928981032  6  3 c   f     -     -          865   10    0 
+captain   928981045  6  2 Bf  -     -     -          855   10    0 
+captain   928981050  6  1 Bf  -     -     -          845    5    0 
+captain   928981074  6  6 f   -     -     -          840    0    0 
+captain   928981095  7  6 c   k     kf    -          840   10    0 
+captain   928981127  8  5 f   -     -     -          830    0    0 
+captain   928981141  8  4 f   -     -     -          830    0    0 
+captain   928981158  8  3 cc  f     -     -          830   20    0 
+captain   928981185  9  2 Bk  kf    -     -          810   10    0 
+captain   928981203  9  1 Bf  -     -     -          800    5    0 
+captain   928981226  9  9 f   -     -     -          795    0    0 
+captain   928981261 10  9 f   -     -     -          795    0    0 
+captain   928981303 10  8 f   -     -     -          795    0    0 
+captain   928981341 10  7 f   -     -     -          795    0    0 
+captain   928981397 10  6 cc  c     f     -          795   40    0 
+captain   928981453 10  5 f   -     -     -          755    0    0 
+captain   928981508 10  4 cc  kf    -     -          755   20    0 
+captain   928981572 10  3 f   -     -     -          735    0    0 
+captain   928981604 10  2 Bc  f     -     -          735   30    0 
+captain   928981638 10  1 Bc  kc    k     b          705   60  270 2c 3c
+captain   928981678 10 10 cc  c     f     -          915   40    0 
+captain   928981729 10  9 c   c     c     c          875   70  245 Kd As
+captain   928981754 10  8 c   f     -     -         1050   20    0 
+captain   928981784 10  7 f   -     -     -         1030    0    0 
+captain   928981831 10  6 cc  f     -     -         1030   20    0 
+captain   928981883 10  5 f   -     -     -         1010    0    0 
+captain   928981919 10  4 cc  b     b     b         1010   70  255 Qh 3d
+captain   928981967 10  3 cc  kf    -     -         1195   20    0 
+captain   928982017 10  2 Bc  kc    k     k         1175   30    0 6s Ah
+captain   928982063 10  1 Bc  kf    -     -         1145   10    0 
+captain   928982119 10 10 c   k     f     -         1135   10    0 
+captain   928982172 10  9 c   kc    kf    -         1125   20    0 
+captain   928982239  9  7 c   kr    b     -         1105   50  120 
+captain   928982318  9  6 f   -     -     -         1175    0    0 
+captain   928982354  9  5 cc  c     kc    rr        1175  140  730 Kd Ad
+captain   928982445  9  4 f   -     -     -         1765    0    0 
+captain   928982524  8  2 Bc  kf    -     -         1765   20    0 
+captain   928982555  8  1 Bcc kc    kf    -         1745   40    0 
+captain   928982607  7  7 f   -     -     -         1705    0    0 
+captain   928982624  7  6 f   -     -     -         1705    0    0 
+captain   928982646  7  5 f   -     -     -         1705    0    0 
+captain   928982672  7  4 f   -     -     -         1705    0    0 
+captain   928982699  7  3 c   b     -     -         1705   20   35 
+captain   928982713  7  2 Bk  kf    -     -         1720   10    0 
+captain   928982733  7  1 Bf  -     -     -         1710    5    0 
+captain   928982752  7  7 f   -     -     -         1705    0    0 
+captain   928982780  7  6 f   -     -     -         1705    0    0 
+captain   928982804  8  5 f   -     -     -         1705    0    0 
+captain   928982834  8  4 cc  c     c     c         1705   80  290 Ts 2s
+captain   928982864  8  3 crc krc   kc    kc        1915  110    0 Qh Jd
+captain   928982920  8  2 Bc  k     k     k         1805   20    0 Ad 2d
+captain   928982941  8  1 Bf  -     -     -         1785    5    0 
+captain   928982974  8  8 f   -     -     -         1780    0    0 
+captain   928982998  8  7 c   k     k     k         1780   20   75 Kc 4c
+captain   928983022  8  6 c   c     f     -         1835   30    0 
+captain   928983057  8  5 cc  f     -     -         1805   20    0 
+captain   928983104  8  4 c   kc    k     kf        1785   20    0 
+captain   928983145  7  3 c   k     k     k         1765   10   25 8d Ks
+captain   928983165  7  2 Bc  c     c     f         1780   60    0 
+captain   928983196  7  1 Bf  -     -     -         1720    5    0 
+captain   928983218  7  7 f   -     -     -         1715    0    0 
+captain   928983238  7  6 f   -     -     -         1715    0    0 
+captain   928983279  7  5 c   c     rr    -         1715  110  255 
+captain   928983313  7  4 c   kf    -     -         1860   10    0 
+captain   928983350  7  3 f   -     -     -         1850    0    0 
+captain   928983385  8  2 Bc  kf    -     -         1850   20    0 
+captain   928983416  9  1 Bcc kf    -     -         1830   40    0 
+captain   928983456  9  9 f   -     -     -         1790    0    0 
+captain   928983492  9  8 f   -     -     -         1790    0    0 
+captain   928983506  9  7 c   k     k     k         1790   10   50 7h 7c
+captain   928983534  9  6 f   -     -     -         1830    0    0 
+captain   928983565  9  5 cc  kc    k     kf        1830   30    0 
+captain   928983609  9  4 f   -     -     -         1800    0    0 
+captain   928983647  9  3 f   -     -     -         1800    0    0 
+captain   928983684  9  2 Bk  kc    kf    -         1800   20    0 
+captain   928983726  8  1 Bf  -     -     -         1780    5    0 
+captain   928983749  8  8 c   rr    b     b         1775  110  285 4d Qs
+captain   928983784  8  7 c   c     c     f         1950   50    0 
+captain   928983802  7  5 f   -     -     -         1900    0    0 
+captain   928983810  7  4 f   -     -     -         1900    0    0 
+captain   928983836  7  3 cc  kc    c     cc        1900  130    0 4c Ah
+captain   928983885 10  3 ccc brc   kc    kc        1770  120    0 Qs Td
+captain   928983957 10  2 Bc  kf    -     -         1650   20    0 
+captain   928983988 10  1 Bf  -     -     -         1630    5    0 
+captain   928984034 10 10 c   f     -     -         1625   20    0 
+captain   928984102  9  8 f   -     -     Q         1605    0    0 

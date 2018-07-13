@@ -1,0 +1,789 @@
+lilKicker 915255450  9  8 c   c     f     -          460   20    0 
+lilKicker 915255503  9  7 c   b     -     -          440   20   45 
+lilKicker 915255529  9  6 c   b     bc    kc         465   80    0 4h 4d
+lilKicker 915255597  9  5 c   cc    kf    -          385   30    0 
+lilKicker 915255674  9  4 c   kf    -     -          355   10    0 
+lilKicker 915255720  9  3 c   k     c     r          345   70  155 7s 6s
+lilKicker 915255763  9  2 Bk  k     b     b          430   50  180 8c 9s
+lilKicker 915255826  9  1 Bc  k     kf    -          560   10    0 
+lilKicker 915255862  9  9 f   -     -     -          550    0    0 
+lilKicker 915255954  8  7 c   c     f     -          550   20    0 
+lilKicker 915256023  9  7 c   f     -     -          530   20    0 
+lilKicker 915256061  9  6 c   c     c     rr         510  120    0 7d 3d
+lilKicker 915256150  9  5 c   kc    kc    kc         390   80  320 Kh 6s
+lilKicker 915256257  7  4 c   c     f     -          630   20    0 
+lilKicker 915256286  6  2 Bk  kc    k     kc         610   40   90 Js Qd
+lilKicker 915256322  6  1 Bc  kc    kf    -          660   30    0 
+lilKicker 915256372  4  4 c   c     c     c          630   70    0 As 2h
+lilKicker 915256419  4  3 cc  kc    kc    kf         560   50    0 
+lilKicker 915256461  4  2 Bk  k     c     c          510   50    0 Qc Ks
+lilKicker 915256489  4  1 Bc  kc    kc    k          460   40    0 5d 7s
+lilKicker 915256528  4  4 c   k     f     -          420   10    0 
+lilKicker 915256558  5  3 cc  kc    kc    kr         410   90  235 
+lilKicker 915256610  5  2 Bc  c     c     r          555   90  250 Ah 2c
+lilKicker 915256644  6  1 Bc  kc    kc    k          715   70  104 8d Ad
+lilKicker 915256728  6  6 f   -     -     -          749    0    0 
+lilKicker 915256766  7  6 c   f     -     -          749   20    0 
+lilKicker 915256785  7  5 ccc c     c     c          729   90    0 3c 9c
+lilKicker 915256857  7  4 cc  c     c     r          639   90  200 
+lilKicker 915256898  7  3 cc  kc    kc    kc         749   70  165 3s 6d
+lilKicker 915256939  7  2 Bc  cc    kcc   kc         844  130    0 Ac Ah
+lilKicker 915257010  7  1 Bc  kc    k     kc         714   50  150 Js 8d
+lilKicker 915257057  7  7 c   f     -     -          814   20    0 
+lilKicker 915257100  7  6 c   ccc   c     c          794  120    0 Ac 9c
+lilKicker 915257168  7  5 cc  c     rr    rr         674  200  485 2h 3h
+lilKicker 915257218  7  4 ccc cc    cc    cc         959  240  960 6h 5d
+lilKicker 915257326  7  2 Bcc ccc   ccc   ccc       1679  240    0 7s Qc
+lilKicker 915257422  7  1 Bf  -     -     -         1439    5    0 
+lilKicker 915257477  6  6 cc  cc    c     k         1434   80    0 4c Kc
+lilKicker 915257541  7  6 c   k     c     c         1354   50    0 3s 3c
+lilKicker 915257569  7  5 fQ  -     -     -         1304    0    0 
+lilKicker 915261506  9  3 f   -     -     -         1304    0    0 
+lilKicker 915261530  9  2 Bk  kf    -     -         1304   10    0 
+lilKicker 915261585  9  1 Bcc kc    kc    k         1294   50    0 Qh Ac
+lilKicker 915261657  9  9 f   -     -     -         1244    0    0 
+lilKicker 915261770  9  8 f   Q     -     -         1244    0    0 
+lilKicker 915560411 10  9 cc  kf    -     -         1964   20    0 
+lilKicker 915560451 10  9 f   -     -     -         1944    0    0 
+lilKicker 915560482 10  7 c   f     -     -         1944   10    0 
+lilKicker 915560533 10  6 c   k     b     -         1934   30   55 
+lilKicker 915560580 10  5 f   -     -     -         1959    0    0 
+lilKicker 915560625 10  4 cc  kc    k     k         1959   30  155 9c Qc
+lilKicker 915560690  9  3 f   -     -     -         2084    0    0 
+lilKicker 915560725 10  2 Bk  kc    kc    kc        2084   60  125 Kd 5s
+lilKicker 915560770 10  1 Bc  kc    k     kc        2149   50  190 Kc Ac
+lilKicker 915560846  9  9 f   -     -     -         2289    0    0 
+lilKicker 915560877 10  9 c   c     k     k         2289   30    0 Js 5s
+lilKicker 915560913 10  8 c   c     f     -         2259   30    0 
+lilKicker 915560948  9  6 c   kc    kf    -         2229   20    0 
+lilKicker 915561010 10  6 c   cc    k     br        2209  100  165 9c Tc
+lilKicker 915561080 10  5 c   kc    c     c         2274   70  220 Kh 5h
+lilKicker 915561138  9  3 f   -     -     -         2424    0    0 
+lilKicker 915561174 10  3 c   b     b     bc        2424   80    0 Ah Jd
+lilKicker 915561238 10  2 Bc  f     -     -         2344   20    0 
+lilKicker 915561295 10  1 Bf  -     -     -         2324    5    0 
+lilKicker 915561348 10 10 c   c     cc    c         2319   80  225 Js 8h
+lilKicker 915561427 10  9 f   -     -     -         2464    0    0 
+lilKicker 915561482 10  8 cc  f     -     -         2464   20    0 
+lilKicker 915561553 10  7 f   -     -     -         2444    0    0 
+lilKicker 915561587 10  6 f   -     -     -         2444    0    0 
+lilKicker 915561629 10  5 f   -     -     -         2444    0    0 
+lilKicker 915561658 10  4 f   -     -     -         2444    0    0 
+lilKicker 915561697 10  3 cc  f     -     -         2444   20    0 
+lilKicker 915561748 10  2 Bk  k     c     c         2424   50  170 Jh Jc
+lilKicker 915561818 10  1 Bf  -     -     -         2544    5    0 
+lilKicker 915561872 10 10 f   -     -     -         2539    0    0 
+lilKicker 915561911 10  9 f   -     -     -         2539    0    0 
+lilKicker 915561958 10  8 f   -     -     -         2539    0    0 
+lilKicker 915561996 10  7 cc  c     kf    -         2539   30    0 
+lilKicker 915562047 10  6 cc  bc    k     rc        2509  110    0 Ah Qc
+lilKicker 915562169 10  5 cc  f     -     -         2399   30    0 
+lilKicker 915562213 10  4 f   -     -     -         2369    0    0 
+lilKicker 915562267 10  3 cc  kc    k     brc       2369  120  365 Qs Jd
+lilKicker 915562358 10  2 Bf  -     -     -         2614   10    0 
+lilKicker 915562422 10  1 Bf  -     -     -         2604    5    0 
+lilKicker 915562454 10 10 c   c     b     b         2599   70  230 
+lilKicker 915562540 10  9 c   c     kf    -         2759   50    0 
+lilKicker 915562647 10  8 c   c     f     -         2709   30    0 
+lilKicker 915562697 10  7 f   -     -     -         2679    0    0 
+lilKicker 915562720 10  6 f   -     -     -         2679    0    0 
+lilKicker 915562827 10  5 cc  c     c     c         2679   70  190 3c 4h
+lilKicker 915562874 10  4 cc  c     f     -         2799   30    0 
+lilKicker 915562963 10  3 c   kf    -     -         2769   10    0 
+lilKicker 915563026 10  2 Bc  kc    kc    kc        2759   70  275 7h Ts
+lilKicker 915563098 10  1 Bf  -     -     -         2964    5    0 
+lilKicker 915563151 10 10 c   c     b     -         2959   60  255 
+lilKicker 915563220 10  9 c   c     c     c         3154   60    0 Jh Tc
+lilKicker 915563265 10  8 c   cf    -     -         3094   30    0 
+lilKicker 915563318 10  7 c   c     rc    b         3064  100  285 
+lilKicker 915563380 10  6 cc  kc    kf    -         3249   30    0 
+lilKicker 915563435 10  5 cc  c     c     kc        3219   70    0 5s Tc
+lilKicker 915563490 10  4 cc  c     c     k         3149   50    0 8c Ad
+lilKicker 915563539 10  3 cc  k     bc    bc        3099  100    0 9s 9c
+lilKicker 915563590 10  2 Bc  kc    f     -         2999   30    0 
+lilKicker 915563682 10  1 Bc  k     kc    kc        2969   60    0 5c Kc
+lilKicker 915563754 10 10 f   -     -     -         2909    0    0 
+lilKicker 915563811 10  9 rr  b     cc    c         2909  150    0 As Ah
+lilKicker 915563966  9  7 f   -     -     -         2759    0    0 
+lilKicker 915563997 10  7 c   f     -     -         2759   10    0 
+lilKicker 915564046 10  6 c   b     -     -         2749   20   45 
+lilKicker 915564079  9  4 c   k     k     kc        2774   30    0 6s Ks
+lilKicker 915564122 10  3 f   -     -     -         2744    0    0 
+lilKicker 915564192 10  2 Bk  kc    kc    kf        2744   40    0 
+lilKicker 915564248 10  1 Bc  kf    -     -         2704   20    0 
+lilKicker 915564352  9  9 c   c     c     b         2684   60  175 7d 7h
+lilKicker 915564398 10  9 c   c     c     c         2799   60  140 5s 4s
+lilKicker 915564441 10  8 c   k     f     -         2879   10    0 
+lilKicker 915564493 10  7 c   k     kf    -         2869   10    0 
+lilKicker 915564535  9  6 c   k     c     f         2859   30    0 
+lilKicker 915564639  8  4 f   -     -     -         2829    0    0 
+lilKicker 915564678  8  3 c   kc    kf    -         2829   20    0 
+lilKicker 915564727  9  2 Bc  cc    kf    -         2809   40    0 
+lilKicker 915564797 10  1 BQ  -     -     -         2769    5    0 
+lilKicker 915581744 10  4 cc  kc    kf    -         2764   30    0 
+lilKicker 915581822 10  3 cc  r     b     b         2734   80  260 Ac Qh
+lilKicker 915581873 10  2 Bc  kf    -     -         2914   20    0 
+lilKicker 915581961 10  1 Bc  kf    -     -         2894   10    0 
+lilKicker 915582033 10 10 c   k     k     f         2884   10    0 
+lilKicker 915582086 10  9 cc  c     f     -         2874   40    0 
+lilKicker 915582168  9  7 c   k     c     c         2834   50  200 Qh Td
+lilKicker 915582237  9  6 f   -     -     -         2984    0    0 
+lilKicker 915582308  9  5 f   -     -     -         2984    0    0 
+lilKicker 915582361  7  3 cc  k     k     kf        2984   30    0 
+lilKicker 915582456  8  2 Bk  k     kf    Q         2954   10    0 
+lilKicker 915600351  7  7 c   k     c     f         3549   30    0 
+lilKicker 915600431  7  6 c   kc    kc    kf        3519   40    0 
+lilKicker 915600512  8  6 f   -     -     -         3479    0    0 
+lilKicker 915600572  8  5 f   -     -     -         3479    0    0 
+lilKicker 915600603  9  4 c   kc    kc    k         3479   40    0 2s 2d
+lilKicker 915600672  9  3 f   -     -     -         3439    0    0 
+lilKicker 915600771  8  1 Bk  b     -     -         3439   20   60 
+lilKicker 915600811  8  1 Bf  -     -     -         3479    5    0 
+lilKicker 915600892  8  8 c   k     c     k         3474   50    0 9h 9d
+lilKicker 915601000  6  5 f   -     -     -         3424    0    0 
+lilKicker 915601066  4  4 f   -     -     -         3424    0    0 
+lilKicker 915601071  4  3 crc b     b     b         3424   90  260 Qs Qh
+lilKicker 915601138  4  2 Bc  kc    kc    kc        3594   70    0 3s Ah
+lilKicker 915601217  5  1 Bc  kc    kc    kf        3524   40    0 
+lilKicker 915601317  6  6 c   k     b     -         3484   30   50 
+lilKicker 915601347  7  6 f   -     -     -         3504    0    0 
+lilKicker 915601401  7  5 c   c     f     -         3504   20    0 
+lilKicker 915601460  7  4 f   -     -     -         3484    0    0 
+lilKicker 915601584  8  3 c   c     b     b         3484   60  220 9s 6s
+lilKicker 915601659  8  2 Bc  c     kf    -         3644   30    0 
+lilKicker 915601716  7  1 Bc  kc    k     k         3614   20    0 8d Th
+lilKicker 915601762  7  7 c   c     c     f         3594   60    0 
+lilKicker 915601820  7  6 c   k     k     k         3534   10    0 7h As
+lilKicker 915601887  7  5 f   -     -     -         3524    0    0 
+lilKicker 915601942  7  4 f   -     -     -         3524    0    0 
+lilKicker 915601978  7  3 cc  c     b     -         3524   50  135 
+lilKicker 915602031  7  2 Bk  k     kcc   kf        3609   70    0 
+lilKicker 915602126  7  1 Bc  kc    k     bc        3539   70    0 Ac Kd
+lilKicker 915602205  6  6 c   k     f     -         3469   10    0 
+lilKicker 915602263  6  5 c   c     c     f         3459   40    0 
+lilKicker 915602344  6  4 c   k     k     f         3419   10    0 
+lilKicker 915602401  8  5 f   -     -     -         3409    0    0 
+lilKicker 915602446  8  4 cc  kf    -     -         3409   20    0 
+lilKicker 915602553  8  3 f   -     -     -         3389    0    0 
+lilKicker 915602609  9  2 Bk  k     kc    kf        3389   30    0 
+lilKicker 915602700  9  1 BfQ -     -     -         3359    5    0 
+lilKicker 915646727  8  4 f   -     -     -         3514    0    0 
+lilKicker 915646779  9  3 cc  k     k     kf        3514   20    0 
+lilKicker 915646849 10  2 Bf  -     -     -         3494   10    0 
+lilKicker 915646919 10  1 Bf  -     -     -         3484    5    0 
+lilKicker 915646983 10 10 cc  c     c     c         3479  130    0 Qh Ac
+lilKicker 915647078 10  9 f   -     -     -         3349    0    0 
+lilKicker 915647146 10  8 f   -     -     -         3349    0    0 
+lilKicker 915647222 10  7 cc  f     -     -         3349   30    0 
+lilKicker 915647287 10  6 f   -     -     -         3319    0    0 
+lilKicker 915647355 10  5 cc  k     bc    b         3319   80  255 
+lilKicker 915647438 10  5 c   kc    kf    -         3494   20    0 
+lilKicker 915647498 10  3 c   c     c     k         3474   40    0 8d Ks
+lilKicker 915647554 10  2 Bk  kc    kc    kc        3434   60    0 Js 8h
+lilKicker 915647625 10  1 Bc  kQ    -     -         3374   10    0 
+lilKicker 915663393 10  9 c   c     k     c         3254   40    0 5s 5h
+lilKicker 915663438  9  7 f   -     -     -         3214    0    0 
+lilKicker 915663532 10  7 cc  c     b     c         3214   70    0 5h 3h
+lilKicker 915663598 10  6 c   cc    f     -         3144   50    0 
+lilKicker 915663655 10  5 f   -     -     -         3094    0    0 
+lilKicker 915663734  9  4 c   f     -     -         3094   20    0 
+lilKicker 915663792 10  3 f   -     -     -         3074    0    0 
+lilKicker 915663866 10  2 Bk  kc    kf    -         3074   20    0 
+lilKicker 915663935 10  1 Bf  -     -     -         3054    5    0 
+lilKicker 915664000 10 10 c   c     f     -         3049   30    0 
+lilKicker 915664042 10  9 c   c     c     k         3019   40    0 7d Ts
+lilKicker 915664140 10  8 f   -     -     -         2979    0    0 
+lilKicker 915664183 10  7 c   c     cc    f         2979   90    0 
+lilKicker 915664248 10  6 f   -     -     -         2889    0    0 
+lilKicker 915664306 10  6 c   c     c     c         2889   60    0 Ac 4d
+lilKicker 915664380  8  3 f   -     -     -         2829    0    0 
+lilKicker 915664458  8  2 Bk  k     kc    kc        2829   50    0 Jc 2d
+lilKicker 915664512  8  1 Bcc kc    kc    kc        2779   90  300 Ac 3c
+lilKicker 915664580  9  9 c   c     c     c         2989   60    0 Th Qc
+lilKicker 915664649 10  9 c   k     f     -         2929   10    0 
+lilKicker 915664712 10  9 f   -     -     -         2919    0    0 
+lilKicker 915664744  9  7 f   -     -     -         2919    0    0 
+lilKicker 915664782  9  6 f   -     -     -         2919    0    0 
+lilKicker 915664830  9  5 c   cc    c     c         2919   80    0 2h 2s
+lilKicker 915664875  9  4 f   -     -     -         2839    0    0 
+lilKicker 915664913  9  3 f   -     -     -         2839    0    0 
+lilKicker 915664998  9  2 Bk  kf    -     -         2839   10    0 
+lilKicker 915665093  8  1 Bf  -     -     -         2829    5    0 
+lilKicker 915665165  8  8 c   c     c     k         2824   40    0 Ts Th
+lilKicker 915665250  9  7 c   c     cc    f         2784   80    0 
+lilKicker 915665351 10  6 c   c     f     -         2704   30    0 
+lilKicker 915665393  9  3 Q   -     -     -         2674    0    0 
+lilKicker 915811914  9  6 f   -     -     -         1000    0    0 
+lilKicker 915811959  9  5 c   kc    bc    kc        1000   80  270 9h Jc
+lilKicker 915812057 10  5 f   -     -     -         1190    0    0 
+lilKicker 915812105  9  3 f   -     -     -         1190    0    0 
+lilKicker 915812221 10  3 ccc c     c     k         1190   70    0 Js 9d
+lilKicker 915812289  9  2 Bf  -     -     -         1120   10    0 
+lilKicker 915812371 10  1 Bcc kf    -     -         1110   40    0 
+lilKicker 915812484  9  9 c   c     c     c         1070   70    0 Kc 6h
+lilKicker 915812526  9  8 c   b     b     b         1000   60  140 Js 6d
+lilKicker 915812582 10  8 c   kc    kc    kr        1080   80  185 Jc 2c
+lilKicker 915812635 10  7 f   -     -     -         1185    0    0 
+lilKicker 915812693  8  5 ccc kc    kf    -         1185   50    0 
+lilKicker 915812782  9  5 f   -     -     -         1135    0    0 
+lilKicker 915812855  9  4 c   c     c     k         1135   40    0 Kh 8c
+lilKicker 915812918 10  3 f   -     -     -         1095    0    0 
+lilKicker 915812953 10  2 Bk  kf    -     -         1095   10    0 
+lilKicker 915812976  9  1 Bf  -     -     -         1085    5    0 
+lilKicker 915813028 10 10 f   -     -     -         1080    0    0 
+lilKicker 915813094  9  8 cc  k     k     k         1080   20    0 4c 4s
+lilKicker 915813181  9  7 c   c     c     c         1060   60    0 3c Ah
+lilKicker 915813254  9  6 c   b     -     -         1000   20   35 
+lilKicker 915813274  9  5 c   c     b     b         1015   60    0 Qc Ah
+lilKicker 915813346  9  4 f   -     -     -          955    0    0 
+lilKicker 915813412 10  3 cc  kc    kc    k          955   50    0 Qs 8c
+lilKicker 915813522 10  2 Bc  kcc   f     -          905   60    0 
+lilKicker 915813681 10  1 Bcc kcc   kf    -          845   80    0 
+lilKicker 915813799 10 10 cc  k     c     c          765   60  160 6d 7d
+lilKicker 915813877 10  9 cc  c     c     c          865   80    0 As Qc
+lilKicker 915813952 10  8 f   -     -     -          785    0    0 
+lilKicker 915814017 10  7 f   -     -     -          785    0    0 
+lilKicker 915814079 10  6 cc  cc    f     -          785   40    0 
+lilKicker 915814131 10  5 cc  kc    c     k          745   50    0 As 6c
+lilKicker 915814215  9  4 c   bc    kc    kc         695   70    0 Qc Js
+lilKicker 915814279 10  3 c   kc    k     kf         625   30    0 
+lilKicker 915814356 10  2 Bf  -     -     -          595   10    0 
+lilKicker 915814381 10  1 Bf  -     -     -          585    5    0 
+lilKicker 915814503 10 10 c   b     b     -          580   40  100 
+lilKicker 915814572 10  9 cc  cc    c     c          640   90    0 5h Js
+lilKicker 915814651 10  8 c   k     b     -          550   30   65 
+lilKicker 915814692 10  7 c   k     kc    kc         585   50    0 Jh Th
+lilKicker 915814751 10  6 c   bc    k     b          535   50    0 Jc 9s
+lilKicker 915814817 10  5 f   -     -     -          485    0    0 
+lilKicker 915814925 10  5 f   -     -     -          485    0    0 
+lilKicker 915815006  9  3 cc  kc    kc    kf         485   50    0 
+lilKicker 915815078 10  2 Bc  c     f     -          435   30    0 
+lilKicker 915815150 10  1 Bc  k     kf    -          405   10    0 
+lilKicker 915815231 10 10 f   -     -     -          395    0    0 
+lilKicker 915815308 10  9 c   c     k     k          395   30    0 2c 3c
+lilKicker 915815375 10  8 c   kc    cc    kc         365   80    0 3c Kh
+lilKicker 915815551 10  7 c   c     k     f          285   30    0 
+lilKicker 915815636 10  6 c   b     bc    kc         255   80    0 As Ah
+lilKicker 915815772 10  6 c   c     c     b          175   70  102 8h As
+lilKicker 915815848  9  4 cc  kc    kc    kf         207   50    0 
+lilKicker 915815991 10  3 c   kf    -     -          157   10    0 
+lilKicker 915816109 10  2 Bc  kc    k     kf         147   40    0 
+lilKicker 915816196 10  1 Bf  -     -     -          107    5    0 
+lilKicker 915816379  9  9 f   -     -     -          102    0    0 
+lilKicker 915816495 10 10 f   -     -     -          102    0    0 
+lilKicker 915816569 10  8 cr  rc    bcA   -          102  102    0 5s 5d
+lilKicker 915829437  8  7 c   c     k     b         1000   50  135 7d 8c
+lilKicker 915829508 10  6 f   -     -     -         1085    0    0 
+lilKicker 915829593 10  5 f   -     -     -         1085    0    0 
+lilKicker 915829707 10  4 f   -     -     -         1085    0    0 
+lilKicker 915829757 10  3 f   -     -     -         1085    0    0 
+lilKicker 915829893  8  1 Bc  kf    -     -         1085   20    0 
+lilKicker 915829938 10  1 Bc  k     kc    kf        1065   30    0 
+lilKicker 915829985 10 10 f   -     -     -         1035    0    0 
+lilKicker 915830048  9  8 c   k     b     b         1035   50  150 
+lilKicker 915830123 10  8 cc  kf    -     -         1135   20    0 
+lilKicker 915830214 10  7 cc  c     c     f         1115   60    0 
+lilKicker 915830325  9  5 c   f     -     -         1055   10    0 
+lilKicker 915830422 10  6 f   -     -     -         1045    0    0 
+lilKicker 915830459  9  4 c   k     c     c         1045   50  110 4s Ah
+lilKicker 915830504  9  3 c   k     kf    -         1105   10    0 
+lilKicker 915830543  9  2 Bk  kf    -     -         1095   10    0 
+lilKicker 915830624  9  1 Bc  k     bc    kc        1085   70    0 Qs Ks
+lilKicker 915830693  9  9 c   b     b     -         1015   40   85 
+lilKicker 915830763  9  8 c   k     c     b         1060   50   90 
+lilKicker 915830835  8  6 cc  k     f     -         1100   20    0 
+lilKicker 915830885 10  5 f   -     -     -         1080    0    0 
+lilKicker 915830985  9  4 cc  k     b     b         1080   60  115 
+lilKicker 915831026  9  3 f   -     -     -         1135    0    0 
+lilKicker 915831119 10  2 Bc  k     kf    -         1135   20    0 
+lilKicker 915831176 10  1 Bc  kc    kc    k         1115   40  100 8h 6d
+lilKicker 915831223 10 10 c   c     c     c         1175   70    0 Ad Jc
+lilKicker 915831281  7  7 f   -     -     -         1105    0    0 
+lilKicker 915831306  7  6 f   -     -     -         1105    0    0 
+lilKicker 915831343  7  5 c   b     -     -         1105   20   40 
+lilKicker 915831380  7  4 c   kf    -     -         1125   10    0 
+lilKicker 915831407  7  3 c   k     c     k         1115   30    0 2d Qd
+lilKicker 915831438  7  2 Bk  k     b     b         1085   50    0 Ks Js
+lilKicker 915831495  7  1 Bf  -     -     -         1035    5    0 
+lilKicker 915831669  9  8 f   -     -     -         1030    0    0 
+lilKicker 915831729  9  8 cc  c     f     -         1030   30    0 
+lilKicker 915831790 10  7 c   c     c     f         1000   40    0 
+lilKicker 915831831  9  6 f   -     -     -          960    0    0 
+lilKicker 915831853  9  5 cc  kf    -     -          960   20    0 
+lilKicker 915831932 10  4 f   -     -     -          940    0    0 
+lilKicker 915831965 10  3 f   -     -     -          940    0    0 
+lilKicker 915832020 10  2 Bc  kc    kc    kf         940   50    0 
+lilKicker 915832074 10  1 Bcc kc    kc    kc         890  100    0 3c 9c
+lilKicker 915832156  9  9 f   -     -     -          790    0    0 
+lilKicker 915832218 10  9 c   k     k     f          790   10    0 
+lilKicker 915832286  9  7 c   k     k     k          780   10    0 6h 5c
+lilKicker 915832319 10  7 c   c     c     b          770   70  205 Qh Kd
+lilKicker 915832375 10  6 c   f     -     -          905   10    0 
+lilKicker 915832441 10  5 c   c     c     b          895   70    0 6s 6c
+lilKicker 915832505  7  3 c   b     bc    b          825   80  180 5c Ac
+lilKicker 915832583 10  3 r   kc    cc    k          925   70    0 Ks Td
+lilKicker 915832642 10  2 Bf  -     -     -          855   10    0 
+lilKicker 915832666  9  1 Bc  b     -     -          845   30  110 
+lilKicker 915832695 10 10 c   c     k     k          925   30    0 8s 9s
+lilKicker 915832742 10  9 c   br    k     k          895   40  115 Qs 8c
+lilKicker 915832815  9  7 c   c     c     k          970   40  120 Kh 3s
+lilKicker 915832865  9  6 c   b     bc    b         1050   80  200 6s Kh
+lilKicker 915832917  9  5 cc  c     c     r         1170   90  285 9h 8c
+lilKicker 915833000  8  3 c   k     k     k         1365   10    0 Jc 2s
+lilKicker 915833038  8  2 Bk  c     f     -         1355   20    0 
+lilKicker 915833074  8  1 Bf  -     -     -         1335    5    0 
+lilKicker 915833111  8  8 f   -     -     -         1330    0    0 
+lilKicker 915833150  8  7 c   k     k     b         1330   30   55 
+lilKicker 915833185  8  6 c   b     b     cc        1355   80    0 7c Jd
+lilKicker 915833239  8  5 c   c     c     f         1275   40    0 
+lilKicker 915833283  9  5 c   kc    kc    k         1235   40  125 Td Qh
+lilKicker 915833337  9  4 c   c     c     f         1320   40    0 
+lilKicker 915833395  9  3 c   kf    -     -         1280   10    0 
+lilKicker 915833439 10  2 Bc  k     k     k         1270   20    0 4h 2h
+lilKicker 915833471 10  1 Bf  -     -     -         1250    5    0 
+lilKicker 915833498 10 10 c   f     -     -         1245   10    0 
+lilKicker 915833540  9  5 Q   -     -     -         1235    0    0 
+lilKicker 915834492 10  3 cc  kc    kc    kc        1290   70    0 Tc Td
+lilKicker 915834550 10  2 Bk  kf    -     -         1220   10    0 
+lilKicker 915834601  9  1 Bc  kc    kc    k         1210   50  130 Ks Js
+lilKicker 915834669 10 10 c   c     f     -         1290   30    0 
+lilKicker 915834735 10  9 c   kf    -     -         1260   20    0 
+lilKicker 915834806  9  7 cc  f     -     -         1240   30    0 
+lilKicker 915834888 10  7 c   b     b     b         1210   60  220 6d 5d
+lilKicker 915834943 10  6 c   kc    kc    k         1370   40    0 6s Js
+lilKicker 915835011  8  4 c   c     c     b         1330   60  300 5h 2h
+lilKicker 915835081  9  3 c   b     b     bcc       1570  120    0 8s 8h
+lilKicker 915835166 10  2 Bk  k     kf    -         1450   10    0 
+lilKicker 915835223  9  1 Bc  kc    k     k         1440   20    0 Th Td
+lilKicker 915835269 10 10 c   c     c     c         1420   60    0 Js 3s
+lilKicker 915835318 10  9 cc  f     -     -         1360   40    0 
+lilKicker 915835423 10  8 f   -     -     -         1320    0    0 
+lilKicker 915835468  9  6 f   -     -     -         1320    0    0 
+lilKicker 915835544  9  6 f   -     -     -         1320    0    0 
+lilKicker 915835601  9  5 c   kf    -     -         1320   10    0 
+lilKicker 915835633  9  4 f   -     -     -         1310    0    0 
+lilKicker 915835697 10  3 fQ  -     -     -         1310    0    0 
+lilKicker 915838277 10  7 f   -     -     -         1310    0    0 
+lilKicker 915838314 10  6 f   -     -     -         1310    0    0 
+lilKicker 915838365 10  6 cc  kc    kf    -         1310   30    0 
+lilKicker 915838424  9  4 f   -     -     -         1280    0    0 
+lilKicker 915838461 10  3 cc  kc    kc    kr        1280   90    0 Jc Kc
+lilKicker 915838559 10  2 Bk  kc    k     k         1190   20   38 8h 6d
+lilKicker 915838612 10  1 Bc  kc    kc    kf        1208   40    0 
+lilKicker 915838675 10 10 f   -     -     -         1168    0    0 
+lilKicker 915838724 10  9 c   b     b     b         1168   70  235 Kd Jc
+lilKicker 915838785  9  7 c   c     f     -         1333   20    0 
+lilKicker 915838835 10  7 f   -     -     -         1313    0    0 
+lilKicker 915838912 10  6 cc  kc    kc    kf        1313   50    0 
+lilKicker 915839041  9  4 cc  kc    kf    -         1263   30    0 
+lilKicker 915839102 10  3 f   -     -     -         1233    0    0 
+lilKicker 915839181 10  2 Bc  kc    kc    k         1233   70    0 Ks Qd
+lilKicker 915839221 10  1 Bc  kf    -     -         1163   10    0 
+lilKicker 915839269 10 10 cc  b     b     bc        1153  100    0 Ts Qs
+lilKicker 915839346 10  9 c   kc    kc    kc        1053   60    0 Qh As
+lilKicker 915839417 10  8 c   c     f     -          993   20    0 
+lilKicker 915839461  9  6 f   -     -     -          973    0    0 
+lilKicker 915839495 10  5 f   -     -     -          973    0    0 
+lilKicker 915839554  9  3 cc  kc    kc    kc         973   70    0 8h Kh
+lilKicker 915839654  9  2 f   -     -     -          903    0    0 
+lilKicker 915839681  9  2 Bk  c     c     r          903   80  170 4h 3c
+lilKicker 915839721  9  1 Bcc kc    kc    kf         993   50    0 
+lilKicker 915839792 10 10 c   c     bc    c          943   80    0 Ah 5s
+lilKicker 915839855 10  9 f   -     -     -          863    0    0 
+lilKicker 915839897 10  8 cc  c     k     k          863   30  140 Qd Jh
+lilKicker 915839984 10  7 cc  b     b     r          973   90    0 Jd 9d
+lilKicker 915840062  8  5 c   k     k     b          883   30   55 
+lilKicker 915840097  9  5 c   kc    k     k          908   20    0 Js 6h
+lilKicker 915840146  8  4 f   -     -     -          888    0    0 
+lilKicker 915840192  8  3 c   k     kf    -          888   10    0 
+lilKicker 915840230  9  2 Bk  kf    -     -          878   10    0 
+lilKicker 915840291  9  1 Bc  kc    kc    kf         868   40    0 
+lilKicker 915840352 10 10 f   -     -     -          828    0    0 
+lilKicker 915840429  9  8 c   c     b     b          828   60    0 8c 9s
+lilKicker 915840474 10  8 cc  bc    bc    b          768  100  400 7d Td
+lilKicker 915840570  9  6 c   bc    c     b         1068   70  230 4h Th
+lilKicker 915840649  7  4 f   -     -     -         1228    0    0 
+lilKicker 915840680  7  3 f   -     -     -         1228    0    0 
+lilKicker 915840715  7  2 Bk  c     c     c         1228   60  160 Qh 7d
+lilKicker 915840764  8  1 Bc  kc    kcc   k         1328   80    0 Ah Jc
+lilKicker 915840837 10 10 f   -     -     -         1248    0    0 
+lilKicker 915840903 10  9 f   -     -     -         1248    0    0 
+lilKicker 915840941  9  8 f   -     -     -         1248    0    0 
+lilKicker 915840984 10  7 f   -     -     -         1248    0    0 
+lilKicker 915841094 10  6 c   c     c     b         1248   70  230 Kd 5d
+lilKicker 915841153 10  5 f   -     -     -         1408    0    0 
+lilKicker 915841186 10  4 c   k     k     c         1408   30  115 6s 3s
+lilKicker 915841266 10  3 f   -     -     -         1493    0    0 
+lilKicker 915841353 10  2 Bc  k     k     kf        1493   20    0 
+lilKicker 915841432 10  1 Bf  -     -     -         1473    5    0 
+lilKicker 915841499 10 10 c   c     rc    cc        1468  190  216 Ac 6s
+lilKicker 915841584 10  9 c   k     k     f         1494   10    0 
+lilKicker 915841640 10  8 f   -     -     -         1484    0    0 
+lilKicker 915841664  8  6 f   -     -     -         1484    0    0 
+lilKicker 915841727 10  5 cc  c     c     k         1484   50    0 5d Ah
+lilKicker 915841794 10  4 c   k     k     kf        1434   10    0 
+lilKicker 915841886  8  2 c   kc    k     bc        1424   60    0 Ah Qh
+lilKicker 915841957  9  2 Bk  k     k     k         1364   10   50 4d 6s
+lilKicker 915842022  9  1 Bc  k     k     k         1404   10    0 Jc Ks
+lilKicker 915842057 10 10 c   c     c     k         1394   50    0 6c 6h
+lilKicker 915842118  9  8 fQ  -     -     -         1344    0    0 
+lilKicker 915847354  9  3 c   c     c     bc        1344   80    0 Ks 2d
+lilKicker 915847432  8  2 Bk  kc    kf    -         1264   20    0 
+lilKicker 915847487  9  1 Bc  kf    -     -         1244   10    0 
+lilKicker 915847572  9  9 c   c     f     -         1234   20    0 
+lilKicker 915847650  9  8 cc  rr    b     b         1214  100  255 7d Th
+lilKicker 915847735  7  5 c   cc    k     b         1369   50  130 
+lilKicker 915847782  8  5 cc  kc    kc    f         1449   50    0 
+lilKicker 915847840 10  5 cc  k     k     c         1399   40  210 Qc 7c
+lilKicker 915847920 10  4 cc  kc    kc    kf        1569   60    0 
+lilKicker 915848056  9  3 cc  k     k     k         1509   20    0 Jc Th
+lilKicker 915848115  9  2 Bk  kf    -     -         1489   10    0 
+lilKicker 915848176 10  1 Bc  kc    k     kc        1479   70    0 6d 5c
+lilKicker 915848259 10 10 c   c     c     c         1409   60    0 5c 7c
+lilKicker 915848320  8  7 c   f     -     -         1349   10    0 
+lilKicker 915848447  8  7 c   c     c     r         1339   80  195 9d 8d
+lilKicker 915848525  8  6 f   -     -     -         1454    0    0 
+lilKicker 915848654  8  5 c   kc    kc    kf        1454   40    0 
+lilKicker 915848731  8  4 f   -     -     -         1414    0    0 
+lilKicker 915848793  9  3 c   kf    -     -         1414   10    0 
+lilKicker 915848899 10  2 Bf  -     -     -         1404   10    0 
+lilKicker 915848960 10  1 Bc  k     k     k         1394   10    0 Js 9d
+lilKicker 915849021  9  9 f   -     -     -         1384    0    0 
+lilKicker 915849116 10  9 c   c     cc    c         1384  120  203 Qc 5s
+lilKicker 915849267 10  8 c   cc    f     -         1467   30    0 
+lilKicker 915849429 10  7 f   -     -     -         1437    0    0 
+lilKicker 915852564  8  5 Q   -     -     -         1355    0    0 
+lilKicker 915992125  8  6 c   kc    k     f         1255   20    0 
+lilKicker 915992209  8  5 c   c     c     k         1235   40    0 Qc Th
+lilKicker 915992261  8  4 c   b     b     b         1195   60  200 7s 6s
+lilKicker 915992332  9  3 f   -     -     -         1335    0    0 
+lilKicker 915992426  8  2 Bk  k     k     kf        1335   10    0 
+lilKicker 915992497  9  1 Bc  kc    kf    -         1325   20    0 
+lilKicker 915992532  9  9 f   -     -     -         1305    0    0 
+lilKicker 915992595  9  8 f   -     -     -         1305    0    0 
+lilKicker 915992651  9  7 cc  cc    c     c         1305   80  320 2s 6s
+lilKicker 915992759 10  7 c   c     c     c         1545  100  460 6h Tc
+lilKicker 915992839 10  6 c   c     c     c         1905   60  150 9d Kh
+lilKicker 915992901 10  5 cc  k     cc    bc        1995  120  520 Th 7s
+lilKicker 915993014  8  3 cc  c     c     k         2395   50    0 Kh 8h
+lilKicker 915993080  8  2 Bk  fQ    -     -         2345   10    0 
+lilKicker 916169335 10  9 cc  f     -     -         4227   30    0 
+lilKicker 916169381 10  8 f   -     -     -         4197    0    0 
+lilKicker 916169482 10  7 cc  kc    kc    krr       4197  130  275 6h 5d
+lilKicker 916169565 10  6 cc  kc    kc    kc        4342   90    0 9d Ac
+lilKicker 916169673 10  5 cc  kc    kf    -         4252   30    0 
+lilKicker 916169717 10  4 cc  kcc   cc    b         4222  140  520 Ks Qd
+lilKicker 916169820 10  3 cc  kcc   f     -         4602   60    0 
+lilKicker 916169898 10  2 BQ  -     -     -         4542   10    0 
+lilKicker 916203548  8  3 c   c     kf    -         6147   20    0 
+lilKicker 916203625  7  2 Bk  kc    kf    -         6127   20    0 
+lilKicker 916203691  6  1 Bc  kc    kf    -         6107   30    0 
+lilKicker 916203741  6  6 r   b     b     k         6077   50  170 As Ah
+lilKicker 916203802  6  5 c   k     k     kf        6197   10    0 
+lilKicker 916203846  7  4 c   k     f     -         6187   10    0 
+lilKicker 916203918  7  3 rr  kc    k     kc        6177   70  270 Ah Ad
+lilKicker 916203989  8  2 Bf  -     -     -         6377   10    0 
+lilKicker 916204058  8  1 Bf  -     -     -         6367    5    0 
+lilKicker 916204113  9  9 cc  c     c     c         6362  100  441 6h 3h
+lilKicker 916204186  8  7 cc  cc    c     c         6703  110  400 8h Jc
+lilKicker 916204290 10  8 cc  ccc   f     -         6993   70    0 
+lilKicker 916204367 10  7 rc  b     b     kc        6923   90  410 Ah As
+lilKicker 916204461 10  6 cc  kc    kf    -         7243   30    0 
+lilKicker 916204568 10  5 cc  kc    kf    -         7213   30    0 
+lilKicker 916204654 10  5 cc  kf    -     -         7183   20    0 
+lilKicker 916204734 10  3 c   kc    kc    kf        7163   70    0 
+lilKicker 916204852 10  2 Bcc kfQ   -     -         7093   40    0 
+lilKicker 916557563  8  5 cc  kf    -     -         1637   20    0 
+lilKicker 916557620  8  4 cc  kc    f     -         1617   30    0 
+lilKicker 916557737  8  3 c   k     f     -         1587   10    0 
+lilKicker 916557778  8  2 Bc  kc    kc    kf        1577   50    0 
+lilKicker 916557838  7  1 Bc  kc    kf    -         1527   40    0 
+lilKicker 916557890  7  7 c   c     c     r         1487   90  235 
+lilKicker 916557947  7  6 f   -     -     -         1632    0    0 
+lilKicker 916557988  7  5 f   -     -     -         1632    0    0 
+lilKicker 916558020  7  4 cc  kf    -     -         1632   20    0 
+lilKicker 916558069  7  3 f   -     -     -         1612    0    0 
+lilKicker 916558104  8  2 Bc  kf    -     -         1612   20    0 
+lilKicker 916558163  9  1 Bf  -     -     -         1592    5    0 
+lilKicker 916558211  9  9 r   k     c     c         1587   60    0 Qd Qs
+lilKicker 916558271  9  8 f   -     -     -         1527    0    0 
+lilKicker 916558311  9  7 c   cc    c     f         1527   80    0 
+lilKicker 916558393  9  6 f   -     -     -         1447    0    0 
+lilKicker 916558476  8  4 f   -     -     -         1447    0    0 
+lilKicker 916558516  9  4 c   kc    b     b         1447   60    0 Jh 6h
+lilKicker 916558583 10  3 f   -     -     -         1387    0    0 
+lilKicker 916558656 10  2 Bf  -     -     -         1387   10    0 
+lilKicker 916558694 10  1 Bc  kc    kc    kf        1377   50    0 
+lilKicker 916558760 10 10 f   Q     -     -         1327    0    0 
+lilKicker 916611197  6  6 f   -     -     -         1327    0    0 
+lilKicker 916611236  7  6 c   c     bc    k         1327   60   90 8d Jh
+lilKicker 916611308  7  5 c   k     b     b         1357   50  110 
+lilKicker 916611420  7  3 cc  kc    k     k         1417   40  190 Td 6h
+lilKicker 916611484  7  3 cc  k     f     -         1567   20    0 
+lilKicker 916611545  6  2 Bf  -     -     -         1547   10    0 
+lilKicker 916611582  6  1 Bcc kc    kc    kc        1537   90    0 9d 8h
+lilKicker 916611645  7  7 c   c     f     -         1447   30    0 
+lilKicker 916611750  8  7 c   f     -     -         1417   10    0 
+lilKicker 916611814  8  6 f   -     -     -         1407    0    0 
+lilKicker 916611865  8  5 cc  k     b     b         1407   70  210 
+lilKicker 916611972  7  4 c   kf    -     -         1547   10    0 
+lilKicker 916612008  7  3 cc  c     c     k         1537   50    0 5h 6h
+lilKicker 916612051  7  2 Bk  kf    -     -         1487   10    0 
+lilKicker 916612103  7  1 Bc  k     kf    -         1477   20    0 
+lilKicker 916612165  7  7 cc  c     f     -         1457   40    0 
+lilKicker 916612221  7  6 f   -     -     -         1417    0    0 
+lilKicker 916612277  8  6 cc  c     r     cc        1417  130    0 6s 9s
+lilKicker 916612403 10  7 f   -     -     -         1287    0    0 
+lilKicker 916612449 10  6 c   kc    kf    -         1287   30    0 
+lilKicker 916612528 10  5 f   -     -     -         1257    0    0 
+lilKicker 916612587 10  4 c   kQ    -     -         1257   10    0 
+lilKicker 916702864 10  9 c   k     c     k         1797   30    0 Kh 6h
+lilKicker 916702998  8  6 cc  kc    kf    -         1767   30    0 
+lilKicker 916703076  9  5 f   -     -     -         1737    0    0 
+lilKicker 916703130  9  5 cc  kf    -     -         1737   30    0 
+lilKicker 916703209  8  3 cc  kc    kc    kc        1707   70    0 6d Qd
+lilKicker 916703308  9  2 Bk  f     -     -         1637   10    0 
+lilKicker 916703330  8  1 Bc  kc    k     kf        1627   30    0 
+lilKicker 916703384  7  7 c   k     c     b         1597   60   67 8c Tc
+lilKicker 916703419  7  6 f   -     -     -         1604    0    0 
+lilKicker 916703491  7  5 c   k     k     f         1604   10    0 
+lilKicker 916703540  7  4 c   k     kc    k         1594   30   95 Jd Tc
+lilKicker 916703613  7  3 c   kc    br    b         1659  100  225 Kc Tc
+lilKicker 916703660  7  2 Bcc cc    c     f         1784   80    0 
+lilKicker 916703765  7  1 Bc  k     kf    -         1704   10    0 
+lilKicker 916703826  7  7 c   c     c     k         1694   40  100 Jd Qs
+lilKicker 916703880  8  7 f   -     -     -         1754    0    0 
+lilKicker 916703926  7  5 f   -     -     -         1754    0    0 
+lilKicker 916703954  7  4 c   c     k     f         1754   20    0 
+lilKicker 916704006  7  3 c   kc    kf    -         1734   20    0 
+lilKicker 916704061  7  2 Bc  k     k     b         1714   50  115 
+lilKicker 916704108  7  1 Bf  -     -     -         1779    5    0 
+lilKicker 916704126  9  9 c   c     fQ    -         1774   20    0 
+lilKicker 916773444 10  3 f   -     -     -         1129    0    0 
+lilKicker 916773497 10  2 Bc  kf    -     -         1129   20    0 
+lilKicker 916773602 10  1 Bc  kc    kc    k         1109   50    0 Qd 7c
+lilKicker 916773711  9  9 cc  f     -     -         1059   30    0 
+lilKicker 916773832  8  8 cc  cc    ccc   c         1029  180    0 3c 3s
+lilKicker 916774023  8  6 cc  rr    rr    b          849  180  430 
+lilKicker 916774100  9  6 c   f     -     -         1099   20    0 
+lilKicker 916774133  9  5 f   -     -     -         1079    0    0 
+lilKicker 916774189  9  4 cc  ccc   ccc   k         1079  140    0 3c 2c
+lilKicker 916774297  8  3 f   -     -     -          939    0    0 
+lilKicker 916774369  8  2 Bc  kc    kc    kf         939   60    0 
+lilKicker 916774459  9  1 Bf  -     -     -          879    5    0 
+lilKicker 916774502  9  9 c   c     c     c          874   70    0 Ts Ah
+lilKicker 916774533  8  7 c   c     c     f          804   50    0 
+lilKicker 916774571  8  6 f   -     -     -          754    0    0 
+lilKicker 916774592  8  5 c   f     -     -          754   20    0 
+lilKicker 916774613  8  4 cc  cf    -     -          734   40    0 
+lilKicker 916774701 10  3 f   -     -     -          694    0    0 
+lilKicker 916774746 10  2 Bf  -     -     -          694   10    0 
+lilKicker 916774811 10  1 Bc  kc    krr   b          684  130  310 
+lilKicker 916774914  7  7 c   c     c     c          864   70    0 4c Jc
+lilKicker 916774957  5  5 c   b     -     -          794   20   35 
+lilKicker 916774978  5  4 c   k     kf    -          809   10    0 
+lilKicker 916775016  6  4 c   c     c     c          799   60    0 8h 9s
+lilKicker 916775094  6  3 cc  kc    kr    b          739   90    0 Jc 5c
+lilKicker 916775166  6  2 Bc  f     -     -          649   20    0 
+lilKicker 916775208  5  1 Bf  -     -     -          629    5    0 
+lilKicker 916775225  6  5 f   -     -     -          624    0    0 
+lilKicker 916775253  6  4 c   k     b     b          624   50  115 
+lilKicker 916775300  6  3 f   -     -     -          689    0    0 
+lilKicker 916775313  6  2 Bf  -     -     -          689   10    0 
+lilKicker 916775358  7  1 Bc  k     k     b          679   30   50 
+lilKicker 916775396  8  8 f   -     -     -          699    0    0 
+lilKicker 916775448  7  6 c   c     c     k          699   40    0 Js Ac
+lilKicker 916775487  8  6 cc  cc    cc    f          659  160    0 
+lilKicker 916775561  8  5 f   -     -     -          499    0    0 
+lilKicker 916775609  8  4 f   -     -     -          499    0    0 
+lilKicker 916775659  8  3 cc  c     rr    rr         499  190    5 4c Ad
+lilKicker 916775716 10  2 Bk  k     b     kf         314   30    0 
+lilKicker 916775769 10  1 Bc  kc    kc    kf         284   40    0 
+lilKicker 916775848 10 10 c   c     k     k          244   20    0 9s Qd
+lilKicker 916775938  8  8 c   f     -     -          224   20    0 
+lilKicker 916775990  8  7 c   kc    r     b          204   90    0 8s Jh
+lilKicker 916776058  8  6 f   -     -     -          114    0    0 
+lilKicker 916776104  8  5 c   bc    b     b          114   70    0 9h Tc
+lilKicker 916776164  8  4 rc  bA    Q     -           44   44    0 
+lilKicker 916869561 10 10 c   c     k     k         1080   30    0 9d 8d
+lilKicker 916869612 10  9 f   -     -     -         1050    0    0 
+lilKicker 916869687 10  8 c   kf    -     -         1050   10    0 
+lilKicker 916869777  9  6 cc  kc    kc    kc        1040   70  155 6d 8c
+lilKicker 916869831  9  5 c   k     kf    -         1125   10    0 
+lilKicker 916869867  9  4 c   kf    -     -         1115   10    0 
+lilKicker 916869941 10  4 c   k     k     kc        1105   30   90 7s Ks
+lilKicker 916870037  9  2 c   k     f     -         1165   10    0 
+lilKicker 916870084  9  2 Bc  kcc   kf    -         1155   60    0 
+lilKicker 916870197 10  1 BQ  -     -     -         1095    5    0 
+lilKicker 916960869  6  5 c   k     c     c         1090   50    0 Ts Qs
+lilKicker 916960993  7  4 c   f     -     -         1040   10    0 
+lilKicker 916961092  7  3 c   k     kf    -         1030   10    0 
+lilKicker 916961166  8  2 Bc  k     b     bc        1020   80    0 Ac 3h
+lilKicker 916961269  7  1 Bf  -     -     -          940    5    0 
+lilKicker 916961457  6  6 f   -     Q     -          935    0    0 
+lilKicker 917041005 10  6 f   -     -     -         1000    0    0 
+lilKicker 917041055  9  5 fQ  -     -     -         1000    0    0 
+lilKicker 917203062  9  4 cc  b     b     bcc       1000  130    0 Ad Kd
+lilKicker 917203113  7  2 Bc  brc   br    b          870  140  315 4s Ah
+lilKicker 917203152  8  1 Bf  -     -     -         1045    5    0 
+lilKicker 917203191  8  8 f   -     -     -         1040    0    0 
+lilKicker 917203215  9  7 cc  c     r     c         1040   90    0 Kc 8d
+lilKicker 917203322  9  6 f   -     -     -          950    0    0 
+lilKicker 917203383  9  5 f   -     -     -          950    0    0 
+lilKicker 917203416  9  4 c   b     b     b          950   60  170 Qh Kh
+lilKicker 917203479  9  3 c   b     b     b         1060   60  115 
+lilKicker 917203533 10  2 Bc  bc    k     k         1115   50  220 Qc Jd
+lilKicker 917203594 10  1 Bc  bcc   kcc   kc        1285  121    0 5s Qs
+lilKicker 917203685  8  8 c   cc    k     k         1164   60    0 Kh Ts
+lilKicker 917203754  9  8 c   k     k     k         1104   10   40 Th Kd
+lilKicker 917203797  9  7 c   kc    kc    kc        1134   60    0 6s Qs
+lilKicker 917203861  9  6 cc  c     c     b         1074   80  230 Qc Ac
+lilKicker 917203918 10  5 cc  kc    kc    k         1224   60  195 9h 7h
+lilKicker 917203979 10  4 f   -     -     -         1359    0    0 
+lilKicker 917204083  9  3 f   -     -     -         1359    0    0 
+lilKicker 917204151 10  2 Bcc bc    b     b         1359   90  285 Td 9h
+lilKicker 917204231  9  1 Bc  kc    kc    kc        1554   80    0 7d Ad
+lilKicker 917204306  9  9 c   f     -     -         1474   30    0 
+lilKicker 917204372  8  7 f   -     -     -         1444    0    0 
+lilKicker 917204396  7  6 f   -     -     -         1444    0    0 
+lilKicker 917204446  7  5 f   -     -     -         1444    0    0 
+lilKicker 917204469  5  4 cc  c     c     c         1444   70    0 Kc Td
+lilKicker 917204507  6  4 cc  kc    kc    kf        1374   50    0 
+lilKicker 917204564  7  3 Q   -     -     -         1324    0    0 
+lilKicker 917208752  8  4 c   f     -     -         1324   10    0 
+lilKicker 917208801  8  2 Bf  -     -     -         1314   10    0 
+lilKicker 917208849  8  1 Bf  -     -     -         1304    5    0 
+lilKicker 917208889 10 10 c   b     b     b         1299   60    0 Ts Js
+lilKicker 917208940 10  9 f   -     -     -         1239    0    0 
+lilKicker 917208991  9  7 f   -     -     -         1239    0    0 
+lilKicker 917209024 10  7 f   -     -     -         1239    0    0 
+lilKicker 917209097 10  6 c   kc    kc    kc        1239   60    0 4h Ah
+lilKicker 917209156  9  4 f   -     -     -         1179    0    0 
+lilKicker 917209209 10  3 c   kc    c     cc        1179   90  310 9h 7h
+lilKicker 917209262  9  2 Bk  kc    kc    kc        1399   60    0 9d Qc
+lilKicker 917209344 10  1 Bc  kcc   k     k         1339   30    0 Jc As
+lilKicker 917209391 10 10 c   k     c     k         1309   30   90 5h 6d
+lilKicker 917209435 10  9 c   c     c     k         1369   40  180 As Ts
+lilKicker 917209490 10  8 c   c     c     b         1509   60  205 8h Qc
+lilKicker 917209548 10  7 c   cc    cc    k         1654   80    0 Kh 4c
+lilKicker 917209628 10  6 c   kc    kc    k         1574   40    0 3d 3s
+lilKicker 917209689 10  5 c   k     kc    kc        1534   50   65 Js 9h
+lilKicker 917209755 10  4 cc  kf    -     -         1549   20    0 
+lilKicker 917209884 10  3 c   kf    -     -         1529   10    0 
+lilKicker 917209974 10  2 Bk  kf    -     -         1519   10    0 
+lilKicker 917210020 10  1 Bf  -     -     -         1509    5    0 
+lilKicker 917210065 10 10 c   k     f     -         1504   10    0 
+lilKicker 917210119 10  9 c   c     f     -         1494   40    0 
+lilKicker 917210191 10  8 cc  c     k     k         1454   30    0 8h 9c
+lilKicker 917210251 10  7 fQ  -     -     -         1424    0    0 
+lilKicker 917220311 10  7 c   c     c     cc        1424   90    0 Th Ts
+lilKicker 917220363 10  6 c   kc    kcc   kf        1334   90    0 
+lilKicker 917220467 10  5 f   -     -     -         1244    0    0 
+lilKicker 917220550  9  4 c   k     bc    kc        1244   70    0 Ad 5s
+lilKicker 917220612  9  2 Bk  k     kf    -         1174   10    0 
+lilKicker 917220673  9  1 Bc  kc    kc    kc        1164   60    0 2d As
+lilKicker 917220719  9  9 c   c     f     -         1104   20    0 
+lilKicker 917220762 10  9 f   -     -     -         1084    0    0 
+lilKicker 917220819 10  8 f   -     -     -         1084    0    0 
+lilKicker 917220880 10  7 c   f     -     -         1084   10    0 
+lilKicker 917220947  9  7 f   -     -     -         1074    0    0 
+lilKicker 917220993  7  4 f   -     -     -         1074    0    0 
+lilKicker 917221040  9  4 cc  kc    kcc   kf        1074   90    0 
+lilKicker 917221115  8  3 c   kf    -     -          984   10    0 
+lilKicker 917221187 10  2 Bk  kc    kc    kf         974   40    0 
+lilKicker 917221244 10  1 Bf  -     -     -          934    5    0 
+lilKicker 917221323  9  9 f   -     -     -          929    0    0 
+lilKicker 917221374 10  9 c   c     c     b          929   80    0 9s 9c
+lilKicker 917221458 10  8 f   -     -     -          849    0    0 
+lilKicker 917221521  9  6 cc  kc    kf    -          849   30    0 
+lilKicker 917221592 10  6 cc  cc    kc    k          819   60    0 3s 3d
+lilKicker 917221690 10  5 f   -     -     -          759    0    0 
+lilKicker 917221735  9  3 c   kf    -     -          759   10    0 
+lilKicker 917221791 10  3 f   -     -     -          749    0    0 
+lilKicker 917221852 10  2 Bk  b     -     -          749   20   30 
+lilKicker 917221878  9  1 Bc  kf    -     -          759   20    0 
+lilKicker 917221935  8  8 c   c     c     f          739   40    0 
+lilKicker 917222000  8  7 c   c     c     c          699   60    0 Jd 3d
+lilKicker 917222102  7  6 f   -     -     -          639    0    0 
+lilKicker 917222134  7  5 f   -     -     -          639    0    0 
+lilKicker 917222176  9  4 cc  kf    -     -          639   20    0 
+lilKicker 917222280  8  3 cc  kc    kc    k          619   60  118 Kh 5c
+lilKicker 917222349  8  2 Bc  k     kc    k          677   40    0 Td Ad
+lilKicker 917222438  8  1 Bc  kc    kc    kr         637   80    0 Qs 6h
+lilKicker 917222487  8  8 c   f     -     -          557   30    0 
+lilKicker 917222512  9  8 c   k     f     -          527   10    0 
+lilKicker 917222544  9  7 c   c     c     k          517   40    0 As Qs
+lilKicker 917222608  9  6 c   kc    k     f          477   20    0 
+lilKicker 917222692  9  5 cc  kc    kc    kf         457   50    0 
+lilKicker 917222762  9  4 cc  k     kf    -          407   20    0 
+lilKicker 917222819 10  3 cc  bc    bc    kc         387  100    0 Ah Qh
+lilKicker 917222903 10  2 Bc  kf    -     -          287   20    0 
+lilKicker 917222954  9  1 Bf  -     -     -          267    5    0 
+lilKicker 917223013 10 10 c   c     c     f          262   50    0 
+lilKicker 917223137 10  9 cc  c     c     k          212   70    0 Kh 6c
+lilKicker 917223226 10  8 cc  ccc   krrA  -          142  142    0 5s Qd
+lilKicker 917325600  4  4 cc  c     f     -         1270   30    0 
+lilKicker 917325649  4  3 cc  c     c     c         1240   70    0 3h Qh
+lilKicker 917325677  4  2 Bc  k     kc    kc        1170   60  125 6d 7c
+lilKicker 917325734  4  1 Bc  kc    kc    kc        1235   70    0 Kc Jh
+lilKicker 917325791  3  3 c   c     c     r         1165   80  170 5h 8h
+lilKicker 917325828  2  2 Q   -     -     -         1255    0    0 
+lilKicker 917376090 10  5 cc  f     -     -         1520   30    0 
+lilKicker 917376190 10  4 c   c     c     f         1490   40    0 
+lilKicker 917376283 10  3 f   -     -     -         1450    0    0 
+lilKicker 917376367  9  1 Bc  kc    kf    -         1450   40    0 
+lilKicker 917376401 10  1 Bc  kf    -     -         1410   10    0 
+lilKicker 917376486 10 10 c   c     f     -         1400   30    0 
+lilKicker 917376554 10  9 f   -     -     -         1370    0    0 
+lilKicker 917376629 10  8 f   -     -     -         1370    0    0 
+lilKicker 917376733 10  7 c   b     b     b         1370   60  215 Qh Ad
+lilKicker 917376799 10  6 f   -     -     -         1525    0    0 
+lilKicker 917376910 10  5 c   c     c     k         1525   40  115 Ks Ad
+lilKicker 917376972 10  4 cc  kcc   kc    k         1600   70    0 9d 7h
+lilKicker 917377126 10  3 c   b     c     k         1530   40    0 Js Jd
+lilKicker 917377235 10  2 Bk  kc    kc    kf        1490   40    0 
+lilKicker 917377346 10  1 Bc  kf    -     -         1450   10    0 
+lilKicker 917377406 10 10 f   -     -     -         1440    0    0 
+lilKicker 917377492 10  9 f   -     -     -         1440    0    0 
+lilKicker 917377578 10  8 c   c     f     -         1440   30    0 
+lilKicker 917377657 10  7 cc  f     -     -         1410   20    0 
+lilKicker 917377727 10  5 Q   -     -     -         1390    0    0 
+lilKicker 917388064  6  3 c   f     -     -         1500   10    0 
+lilKicker 917388113  6  3 c   c     c     kf        1490   40    0 
+lilKicker 917388179  6  2 Bk  kf    -     -         1450   10    0 
+lilKicker 917388278  6  1 Bf  -     -     -         1440    5    0 
+lilKicker 917388330  6  6 c   f     -     -         1435   20    0 
+lilKicker 917388368  5  4 f   -     -     -         1415    0    0 
+lilKicker 917388380  5  3 c   f     -     -         1415   10    0 
+lilKicker 917388417  5  2 Bk  k     k     kf        1405   10    0 
+lilKicker 917388454  5  1 Bf  -     -     -         1395    5    0 
+lilKicker 917388482  5  5 c   k     k     k         1390   10    0 Ac 4s
+lilKicker 917388516  6  3 Q   -     -     -         1380    0    0 
+lilKicker 917394218  9  5 c   k     k     k         1380   10   35 4s 3s
+lilKicker 917394292  9  4 c   b     b     b         1405   60  220 
+lilKicker 917394379 10  3 c   k     b     b         1565   50  115 As Kc
+lilKicker 917394416 10  2 Bc  br    b     b         1630   90  320 2c Kd
+lilKicker 917394496 10  1 Bc  kc    kc    kf        1860   40    0 
+lilKicker 917394563  9  9 f   -     -     -         1820    0    0 
+lilKicker 917394657 10  9 cc  c     c     c         1820   70  210 Th Td
+lilKicker 917394721 10  9 cc  cc    k     c         1960   60    0 Th Td
+lilKicker 917394786  9  7 f   -     -     -         1900    0    0 
+lilKicker 917394813  9  6 c   c     f     -         1900   20    0 
+lilKicker 917394880  9  5 f   -     -     -         1880    0    0 
+lilKicker 917394930  9  3 cc  kc    kc    kf        1880   50    0 
+lilKicker 917395000  9  2 Bf  -     -     -         1830   10    0 
+lilKicker 917395066 10  1 Bc  kc    kf    -         1820   30    0 
+lilKicker 917395139 10 10 f   -     -     -         1790    0    0 
+lilKicker 917395198 10  9 f   -     -     -         1790    0    0 
+lilKicker 917395228 10  8 c   f     -     -         1790   10    0 
+lilKicker 917395291 10  7 f   -     -     -         1780    0    0 
+lilKicker 917395378 10  6 f   -     -     -         1780    0    0 
+lilKicker 917395446 10  5 f   -     -     -         1780    0    0 
+lilKicker 917395473 10  4 c   kc    kc    k         1780   40    0 5s 6h
+lilKicker 917395613 10  3 cc  f     -     -         1740   20    0 
+lilKicker 917395670 10  2 Bk  kc    kc    kc        1720   60  150 5s 9s
+lilKicker 917395733  9  1 Bc  kc    k     kf        1810   30    0 
+lilKicker 917395801  9  9 c   c     c     c         1780   60    0 8d Qd
+lilKicker 917395854  9  8 c   f     -     -         1720   20    0 
+lilKicker 917395923  8  6 c   c     ccc   c         1700  130  430 Kc Qh
+lilKicker 917396011  7  3 Q   -     -     -         2000    0    0 

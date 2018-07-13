@@ -1,0 +1,750 @@
+NICEBOT   891506008  2  1 Bcc kc    kc    kc       42181   70    0 9c 9h
+NICEBOT   891506037  2  2 Bf  -     -     -        42111   10    0 
+NICEBOT   891506046  2  1 Bc  k     b     -        42101   30   40 
+NICEBOT   891506060  2  2 B   -     -     -        42111   10   15 
+NICEBOT   891506063  2  1 Bc  kc    kf    -        42116   20    0 
+NICEBOT   891506078  2  2 Bc  f     -     -        42096   20    0 
+NICEBOT   891506084  2  1 Bc  k     k     k        42076   10    0 8h 5s
+NICEBOT   891506101  2  2 Bc  c     c     rc       42066  110    0 Qs 8s
+NICEBOT   891506122  3  1 Bcc k     kf    -        41956   30    0 
+NICEBOT   891506157  3  3 ccc c     f     -        41926   50    0 
+NICEBOT   891506195  3  2 Bf  -     -     -        41876   10    0 
+NICEBOT   891506223  4  1 Bc  b     b     b        41866   60  130 Qh Qc
+NICEBOT   891506280  4  4 f   -     -     -        41936    0    0 
+NICEBOT   891506345  3  2 Bc  kc    kc    kc       41936   70    0 7h 9c
+NICEBOT   891506370  3  1 Bcc kc    kf    -        41866   30    0 
+NICEBOT   891506388  3  3 f   -     -     -        41836    0    0 
+NICEBOT   891506392  3  2 Bc  kf    -     -        41836   20    0 
+NICEBOT   891506404  3  1 Bf  -     -     -        41816    5    0 
+NICEBOT   891506422  3  3 f   -     -     -        41811    0    0 
+NICEBOT   891506448  3  2 Bc  b     b     c        41811   70    0 8d 6c
+NICEBOT   891506470  3  1 Bcc kf    -     -        41741   30    0 
+NICEBOT   891506503  3  3 c   f     -     -        41711   10    0 
+NICEBOT   891506517  3  2 Bk  b     b     k        41701   40   90 Ts Tc
+NICEBOT   891506542  3  1 Bc  k     k     k        41751   10   20 Kh 7d
+NICEBOT   891506560  3  3 f   -     -     -        41761    0    0 
+NICEBOT   891506585  3  2 Bc  kc    bc    kc       41761   90  185 8d Qc
+NICEBOT   891506612  3  1 Bcc kc    bc    k        41856   80  200 Jc 7c
+NICEBOT   891506640  3  3 f   -     -     -        41976    0    0 
+NICEBOT   891506668  3  2 Bf  -     -     -        41976   10    0 
+NICEBOT   891506675  3  1 Bc  b     kc    k        41966   50  130 4d Ah
+NICEBOT   891506702  3  3 f   -     -     -        42046    0    0 
+NICEBOT   891506726  4  3 f   -     -     -        42046    0    0 
+NICEBOT   891506753  4  2 Bk  k     f     -        42046   10    0 
+NICEBOT   891506786  4  1 Bc  kcc   kf    -        42036   50    0 
+NICEBOT   891506827  4  4 c   c     c     c        41986   60    0 8h Ah
+NICEBOT   891506874  4  3 f   -     -     -        41926    0    0 
+NICEBOT   891506897  4  2 Bf  -     -     -        41926   10    0 
+NICEBOT   891506925  4  1 Bcc kf    -     -        41916   30    0 
+NICEBOT   891506968  4  4 c   k     rc    rr       41886  170  217 Ks Tc
+NICEBOT   891507003  4  3 rr  b     b     b        41933   90  235 Kd Kc
+NICEBOT   891507035  4  2 Bcc r     b     b        42078  100  320 7s Ac
+NICEBOT   891507070  4  1 Bf  -     -     -        42298    5    0 
+NICEBOT   891507111  4  4 c   f     -     -        42293   10    0 
+NICEBOT   891507128  4  3 c   bc    b     br       42283  110  240 Ks 9h
+NICEBOT   891507180  4  2 Br  brc   brc   br       42413  220  520 Kh Kd
+NICEBOT   891507223  4  1 Bcc bf    -     -        42713   30    0 
+NICEBOT   891507243  4  4 cc  r     r     r        42683  140  440 Jc 3c
+NICEBOT   891507287  4  3 c   bc    br    b        42983  110  235 9h Ah
+NICEBOT   891507319  5  3 cc  f     -     -        43108   20    0 
+NICEBOT   891507356  6  3 cc  c     k     kf       43088   30    0 
+NICEBOT   891507437  7  3 cc  rc    br    c        43058  130  285 As Ts
+NICEBOT   891507486  8  3 f   -     -     -        43213    0    0 
+NICEBOT   891507529  9  3 cc  kf    -     -        43213   30    0 
+NICEBOT   891507603  8  2 Bf  -     -     -        43183   10    0 
+NICEBOT   891507656  8  1 Bf  -     -     -        43173    5    0 
+NICEBOT   891507707  8  8 cc  c     f     -        43168   30    0 
+NICEBOT   891507858  7  6 f   -     -     -        43138    0    0 
+NICEBOT   891507896  8  6 f   -     -     -        43138    0    0 
+NICEBOT   891507944  8  5 c   f     -     -        43138   10    0 
+NICEBOT   891507974  8  4 Q   -     -     -        43128    0    0 
+NICEBOT   892086878  7  7 c   r     r     b         1530   90  210 6d 8d
+NICEBOT   892086933  8  7 f   -     -     -         1650    0    0 
+NICEBOT   892086980  8  6 f   -     -     -         1650    0    0 
+NICEBOT   892087051  8  5 c   k     f     -         1650   10    0 
+NICEBOT   892087110  8  4 f   -     -     -         1640    0    0 
+NICEBOT   892087225  9  3 f   -     -     -         1640    0    0 
+NICEBOT   892087269 10  2 Bk  k     kf    -         1640   10    0 
+NICEBOT   892087346  7  1 Bf  -     -     -         1630    5    0 
+NICEBOT   892087387  8  8 f   -     -     -         1625    0    0 
+NICEBOT   892087434  8  7 f   -     -     -         1625    0    0 
+NICEBOT   892087504  9  8 c   f     -     -         1625   10    0 
+NICEBOT   892087542 10  7 c   k     f     -         1615   10    0 
+NICEBOT   892087603 10  6 f   -     -     -         1605    0    0 
+NICEBOT   892087690 10  5 f   -     -     -         1605    0    0 
+NICEBOT   892087746 10  4 c   cc    b     bc        1605   90    0 9c Kc
+NICEBOT   892087841 10  3 f   -     -     -         1515    0    0 
+NICEBOT   892087909 10  2 Bk  kf    -     -         1515   10    0 
+NICEBOT   892087946 10  1 Bf  -     -     -         1505    5    0 
+NICEBOT   892088006 10 10 f   -     -     -         1500    0    0 
+NICEBOT   892088058 10  9 f   -     -     -         1500    0    0 
+NICEBOT   892088126 10  8 r   c     b     b         1500   70  215 Ah Ac
+NICEBOT   892088203 10  7 c   f     -     -         1645   20    0 
+NICEBOT   892088284 10  6 f   QQ    -     -         1625    0    0 
+NICEBOT   892089426 10 10 c   bc    c     c         1625   70    0 Jd Td
+NICEBOT   892089487 10  9 f   -     -     -         1555    0    0 
+NICEBOT   892089555 10  8 c   k     f     -         1555   10    0 
+NICEBOT   892089610 10  7 f   -     -     -         1545    0    0 
+NICEBOT   892089644 10  6 f   -     -     -         1545    0    0 
+NICEBOT   892089698 10  5 f   -     -     -         1545    0    0 
+NICEBOT   892089774 10  4 f   -     -     -         1545    0    0 
+NICEBOT   892089818 10  3 f   -     -     -         1545    0    0 
+NICEBOT   892089873 10  2 Bk  k     kf    -         1545   10    0 
+NICEBOT   892089953 10  1 Bc  brc   br    b         1535  130  560 Ac Qh
+NICEBOT   892090023 10 10 rc  r     r     r         1965  140  520 Ad Ah
+NICEBOT   892090116 10  9 f   -     -     -         2345    0    0 
+NICEBOT   892090235  9  7 f   -     -     -         2345    0    0 
+NICEBOT   892090302  7  5 f   -     -     -         2345    0    0 
+NICEBOT   892090359  7  4 f   -     -     -         2345    0    0 
+NICEBOT   892090407  6  2 f   -     -     -         2345    0    0 
+NICEBOT   892090478  6  2 Bc  kf    -     -         2345   20    0 
+NICEBOT   892090511  6  1 Bf  -     -     -         2325    5    0 
+NICEBOT   892090523  6  6 f   -     -     -         2320    0    0 
+NICEBOT   892090569  7  6 c   f     -     -         2320   10    0 
+NICEBOT   892090600  7  5 f   -     -     Q         2310    0    0 
+NICEBOT   892090931 10  3 f   -     -     -         2310    0    0 
+NICEBOT   892090967 10  2 Bk  kc    brc   kcc       2310  180    0 7h 3h
+NICEBOT   892091066 10  1 Bc  b     bc    kc        2130   80    0 As 4s
+NICEBOT   892091145 10 10 f   -     -     -         2050    0    0 
+NICEBOT   892091194  9  8 f   -     -     -         2050    0    0 
+NICEBOT   892091246  9  7 f   -     -     -         2050    0    0 
+NICEBOT   892091289  9  6 c   f     -     -         2050   10    0 
+NICEBOT   892091355  9  5 f   -     -     -         2040    0    0 
+NICEBOT   892091393  9  4 f   -     -     -         2040    0    0 
+NICEBOT   892091430  8  3 c   kc    b     b         2040   60  180 Qd Ks
+NICEBOT   892091491  9  2 Bk  k     k     kf        2160   10    0 
+NICEBOT   892091564 10  1 Bcc bc    kc    kc        2150   80  340 Kd 4d
+NICEBOT   892091642 10 10 f   -     -     -         2410    0    0 
+NICEBOT   892091699 10  7 Q   -     -     -         2410    0    0 
+NICEBOT   892169215 10  9 f   -     -     -         2880    0    0 
+NICEBOT   892169269 10  8 c   c     c     c         2880   60  205 Ks 7s
+NICEBOT   892169464 10  7 f   -     -     -         3025    0    0 
+NICEBOT   892169533 10  7 f   -     -     -         3025    0    0 
+NICEBOT   892169585 10  5 cc  kf    -     -         3025   20    0 
+NICEBOT   892169671 10  4 f   -     -     -         3005    0    0 
+NICEBOT   892169730 10  3 f   -     -     -         3005    0    0 
+NICEBOT   892169841 10  2 Bf  -     -     -         3005   10    0 
+NICEBOT   892169870 10  1 Bf  -     -     -         2995    5    0 
+NICEBOT   892169980 10 10 c   f     -     -         2990   20    0 
+NICEBOT   892170069 10  9 f   -     -     -         2970    0    0 
+NICEBOT   892170202 10  8 c   c     c     f         2970   50    0 
+NICEBOT   892170290  9  7 f   -     -     -         2920    0    0 
+NICEBOT   892170327  9  6 f   -     -     -         2920    0    0 
+NICEBOT   892170421  9  4 f   -     -     -         2920    0    0 
+NICEBOT   892170486  9  3 c   k     kf    -         2920   10    0 
+NICEBOT   892170550  9  2 Bc  bc    kc    kc        2910   80    0 Js Qc
+NICEBOT   892170592  9  1 Bf  -     -     -         2830    5    0 
+NICEBOT   892170617  9  9 c   f     -     -         2825   10    0 
+NICEBOT   892170673  9  8 c   f     -     -         2815   10    0 
+NICEBOT   892170722  9  7 f   -     -     -         2805    0    0 
+NICEBOT   892170777  9  6 f   -     -     -         2805    0    0 
+NICEBOT   892170848  8  4 c   k     k     k         2805   10    0 Js Qd
+NICEBOT   892170898  8  4 cc  b     brc   bc        2795  150  350 Jc Ks
+NICEBOT   892170965  6  2 Bf  -     -     -         2995   10    0 
+NICEBOT   892171002  4  1 Bc  kc    bc    k         2985   60    0 Jc Ah
+NICEBOT   892171033  4  4 c   k     k     k         2925   10    0 3d 5d
+NICEBOT   892171066  3  3 f   -     -     -         2915    0    0 
+NICEBOT   892171073  3  2 Bk  f     -     -         2915   10    0 
+NICEBOT   892171082  3  1 Bf  -     -     -         2905    5    0 
+NICEBOT   892171092  5  5 c   r     r     k         2900   70  185 Ad Ks
+NICEBOT   892171135  6  5 f   -     -     -         3015    0    0 
+NICEBOT   892171149  6  4 r   k     k     k         3015   20   65 Ad Kh
+NICEBOT   892171185  6  3 f   -     -     -         3060    0    0 
+NICEBOT   892171214  6  2 Bk  k     k     k         3060   10   20 2c 9c
+NICEBOT   892171258  6  1 Bf  -     -     -         3070    5    0 
+NICEBOT   892171281  6  6 f   -     -     -         3065    0    0 
+NICEBOT   892171296  6  5 c   k     f     -         3065   10    0 
+NICEBOT   892171320  6  4 c   b     b     kc        3055   60  140 Ks 8s
+NICEBOT   892171352  6  3 f   -     -     -         3135    0    0 
+NICEBOT   892171389  6  2 Bf  -     -     -         3135   10    0 
+NICEBOT   892171401  7  1 Bf  -     -     -         3125    5    0 
+NICEBOT   892171436  7  5 f   -     -     -         3120    0    0 
+NICEBOT   892171453  7  4 c   f     -     -         3120   10    0 
+NICEBOT   892171475  7  3 f   -     -     -         3110    0    0 
+NICEBOT   892171508  7  2 Bk  kf    -     -         3110   10    0 
+NICEBOT   892171546  7  1 Bf  -     -     -         3100    5    0 
+NICEBOT   892171580  6  6 f   -     -     -         3095    0    0 
+NICEBOT   892171588  6  5 QQ  -     -     -         3095    0    0 
+NICEBOT   892343482 10  6 cc  kf    -     -         1000   20    0 
+NICEBOT   892343574 10  5 f   -     -     -          980    0    0 
+NICEBOT   892343618 10  5 c   b     b     k          980   40  115 Qd Ts
+NICEBOT   892343682  7  2 Bc  bc    kc    k         1055   60    0 Td 8c
+NICEBOT   892343729 10  1 Bf  -     -     -          995    5    0 
+NICEBOT   892343769 10 10 c   f     -     -          990   10    0 
+NICEBOT   892343814 10  9 c   bc    kc    brc        980  150  385 Jh Ac
+NICEBOT   892343875 10  8 c   c     c     k         1215   50    0 Td Tc
+NICEBOT   892343936 10  7 f   -     -     -         1165    0    0 
+NICEBOT   892343951 10  6 rr  rc    rr    r         1165  200  615 Ah Ad
+NICEBOT   892344038 10  5 f   -     -     -         1580    0    0 
+NICEBOT   892344097 10  4 rc  c     c     c         1580   80    0 Jc Js
+NICEBOT   892344127 10  3 f   -     -     -         1500    0    0 
+NICEBOT   892344173 10  2 Bcc kf    -     -         1500   40    0 
+NICEBOT   892344220 10  1 Bc  bc    kc    kf        1460   60    0 
+NICEBOT   892344271  9  9 c   k     c     c         1400   50  120 8s 8c
+NICEBOT   892344338  9  8 f   -     -     -         1470    0    0 
+NICEBOT   892344386  9  7 f   -     -     -         1470    0    0 
+NICEBOT   892344482  9  6 f   -     -     -         1470    0    0 
+NICEBOT   892344541  9  5 c   f     -     -         1470   20    0 
+NICEBOT   892344653 10  4 f   -     -     -         1450    0    0 
+NICEBOT   892344682 10  3 f   -     -     -         1450    0    0 
+NICEBOT   892344766 10  2 Bc  kf    -     -         1450   20    0 
+NICEBOT   892344800  9  1 Bf  -     -     -         1430    5    0 
+NICEBOT   892344823  9  9 c   r     k     c         1425   60    0 8s 7s
+NICEBOT   892344870  9  8 f   -     -     -         1365    0    0 
+NICEBOT   892344889  9  3 Q   -     -     -         1365    0    0 
+NICEBOT   892356969 10 10 f   -     -     -         1330    0    0 
+NICEBOT   892357024 10  9 f   -     -     -         1330    0    0 
+NICEBOT   892357195  8  6 f   -     -     -         1330    0    0 
+NICEBOT   892357254  8  6 c   c     c     f         1330   50    0 
+NICEBOT   892357309  9  6 f   -     -     -         1280    0    0 
+NICEBOT   892357374  9  5 f   -     -     -         1280    0    0 
+NICEBOT   892357432  9  4 cc  c     r     -         1280   80  245 
+NICEBOT   892357512  8  3 r   rc    c     c         1445   90  255 Kd Kc
+NICEBOT   892357545  8  2 Bk  c     c     c         1610   60  120 8s 7d
+NICEBOT   892357570  8  1 Bc  kf    -     -         1670   10    0 
+NICEBOT   892357692  9  9 c   c     f     -         1660   20    0 
+NICEBOT   892357755 10  9 f   -     -     -         1640    0    0 
+NICEBOT   892357821 10  8 c   rc    c     b         1640   80  210 Ah Qs
+NICEBOT   892357879 10  7 f   -     -     -         1770    0    0 
+NICEBOT   892357929 10  6 cc  kc    k     c         1770   70    0 As Qh
+NICEBOT   892357997 10  5 cf  -     -     -         1700   10    0 
+NICEBOT   892358086 10  4 f   -     -     -         1690    0    0 
+NICEBOT   892358165 10  3 f   -     -     -         1690    0    0 
+NICEBOT   892358283 10  2 Bf  -     -     -         1690   10    0 
+NICEBOT   892358390 10  1 Bc  bcc   kcf   -         1680   60    0 
+NICEBOT   892358515  9  9 f   -     -     -         1620    0    0 
+NICEBOT   892358618 10  9 f   -     -     -         1620    0    0 
+NICEBOT   892358718 10  8 f   -     -     -         1620    0    0 
+NICEBOT   892358832 10  7 cc  f     -     -         1620   40    0 
+NICEBOT   892358913 10  6 c   k     f     -         1580   10    0 
+NICEBOT   892358977 10  5 f   -     -     -         1570    0    0 
+NICEBOT   892359071 10  4 f   -     -     -         1570    0    0 
+NICEBOT   892359147 10  3 f   -     -     -         1570    0    0 
+NICEBOT   892359249 10  2 Bk  f     -     -         1570   10    0 
+NICEBOT   892359311 10  1 Bc  kf    -     -         1560   20    0 
+NICEBOT   892359402 10 10 c   f     -     -         1540   10    0 
+NICEBOT   892359508 10  9 c   f     -     -         1530   20    0 
+NICEBOT   892359591 10  8 f   -     -     -         1510    0    0 
+NICEBOT   892359657 10  7 c   f     -     -         1510   20    0 
+NICEBOT   892359708 10  6 f   -     -     -         1490    0    0 
+NICEBOT   892359741 10  5 f   -     -     -         1490    0    0 
+NICEBOT   892359835 10  4 f   -     -     -         1490    0    0 
+NICEBOT   892359914 10  3 f   -     -     -         1490    0    0 
+NICEBOT   892359968 10  2 Bk  kf    -     -         1490   10    0 
+NICEBOT   892360045 10  1 Bf  -     -     -         1480    5    0 
+NICEBOT   892360119 10 10 c   f     -     -         1475   20    0 
+NICEBOT   892360176 10  9 f   -     -     -         1455    0    0 
+NICEBOT   892360245 10  8 f   -     -     -         1455    0    0 
+NICEBOT   892360300 10  7 f   -     -     -         1455    0    0 
+NICEBOT   892360368 10  6 f   -     -     -         1455    0    0 
+NICEBOT   892360470  8  4 f   -     -     -         1455    0    0 
+NICEBOT   892360522 10  4 f   -     -     -         1455    0    0 
+NICEBOT   892360566 10  3 f   -     -     -         1455    0    0 
+NICEBOT   892360628  9  2 Bk  k     kc    kf        1455   30    0 
+NICEBOT   892360724  9  1 Bc  kc    kf    -         1425   20    0 
+NICEBOT   892360801  9  9 f   -     -     -         1405    0    0 
+NICEBOT   892360952  7  6 cc  c     k     c         1405   80    0 9d Kd
+NICEBOT   892361008 10  6 c   f     -     -         1325   20    0 
+NICEBOT   892361094 10  5 f   -     -     -         1305    0    0 
+NICEBOT   892361154  9  4 f   -     -     -         1305    0    0 
+NICEBOT   892361234  9  3 f   -     -     -         1305    0    0 
+NICEBOT   892361294  9  2 Bk  kc    bc    kc        1305   80    0 Jc Ad
+NICEBOT   892361368 10  1 Bc  kf    -     -         1225   10    0 
+NICEBOT   892361449 10 10 c   QQ    -     -         1215   20    0 
+NICEBOT   892363007 10  2 Bf  -     -     -         1195   10    0 
+NICEBOT   892363115 10  1 Bcc kcc   k     kf        1185   70    0 
+NICEBOT   892363188  8  8 c   c     c     k         1115   50  155 As 4c
+NICEBOT   892363216  8  7 f   -     -     -         1220    0    0 
+NICEBOT   892363265  9  7 f   -     -     -         1220    0    0 
+NICEBOT   892363322  9  7 f   -     -     -         1220    0    0 
+NICEBOT   892363379  8  5 f   -     -     -         1220    0    0 
+NICEBOT   892363426  8  4 cc  kc    k     b         1220   50    0 Qd Kh
+NICEBOT   892363477  8  3 f   -     -     -         1170    0    0 
+NICEBOT   892363548  7  2 B   -     -     -         1170   10   15 
+NICEBOT   892363569  8  1 Bc  b     b     b         1175   60    0 Js Qs
+NICEBOT   892363615  8  8 f   -     -     -         1115    0    0 
+NICEBOT   892363672  8  7 f   -     -     -         1115    0    0 
+NICEBOT   892363763  9  6 cc  QQ    -     -         1115   30    0 
+NICEBOT   892425671  8  4 f   -     -     -         1085    0    0 
+NICEBOT   892425697  8  3 f   -     -     -         1085    0    0 
+NICEBOT   892425730  8  2 Bk  kf    -     -         1085   10    0 
+NICEBOT   892425780  8  1 Brc kc    k     b         1075   70  340 As Jd
+NICEBOT   892425879  9  9 f   -     -     -         1345    0    0 
+NICEBOT   892425918 10  9 f   -     -     -         1345    0    0 
+NICEBOT   892425946 10  8 f   -     -     -         1345    0    0 
+NICEBOT   892425992 10  7 r   b     b     b         1345   80  195 
+NICEBOT   892426048 10  6 c   kc    kf    -         1460   20    0 
+NICEBOT   892426146 10  5 c   f     -     -         1440   20    0 
+NICEBOT   892426194 10  4 c   b     b     b         1420   60  145 8h Ah
+NICEBOT   892426289 10  3 f   -     -     -         1505    0    0 
+NICEBOT   892426363 10  2 Bc  b     k     k         1505   30    0 5c 2c
+NICEBOT   892426432  9  1 Bc  kf    Q     -         1475   20    0 
+NICEBOT   892525982  8  2 Bk  kf    -     -         1795   10    0 
+NICEBOT   892526047  7  1 Bc  k     k     k         1785   10   30 Ac 5s
+NICEBOT   892526090  9  8 f   -     -     -         1805    0    0 
+NICEBOT   892526129  9  7 c   kf    -     -         1805   10    0 
+NICEBOT   892526195  9  6 f   -     -     -         1795    0    0 
+NICEBOT   892526251 10  5 f   -     -     -         1795    0    0 
+NICEBOT   892526301 10  4 f   -     -     -         1795    0    0 
+NICEBOT   892526335  9  3 f   -     -     -         1795    0    0 
+NICEBOT   892526377  9  2 Bk  bc    b     b         1795   70  225 5s 9s
+NICEBOT   892526422  9  1 Bf  -     -     -         1950    5    0 
+NICEBOT   892526473  9  9 f   -     -     -         1945    0    0 
+NICEBOT   892526529  9  8 cc  kf    -     -         1945   20    0 
+NICEBOT   892526618  9  7 c   b     k     k         1925   20    0 7s Qs
+NICEBOT   892526688  9  6 cc  f     -     -         1905   20    0 
+NICEBOT   892526753 10  6 f   -     -     -         1885    0    0 
+NICEBOT   892526858 10  5 f   -     -     -         1885    0    0 
+NICEBOT   892526957  8  3 c   kc    k     b         1885   50    0 Ks 5s
+NICEBOT   892527007  9  3 f   -     -     -         1835    0    0 
+NICEBOT   892527066  9  2 Bk  kf    -     -         1835   10    0 
+NICEBOT   892527101 10  1 Bf  -     -     -         1825    5    0 
+NICEBOT   892527175 10  6 QQ  -     -     -         1820    0    0 
+NICEBOT   892528037 10 10 c   k     c     f         1820   30    0 
+NICEBOT   892528160  9  8 f   -     -     -         1790    0    0 
+NICEBOT   892528246 10  8 c   c     f     -         1790   30    0 
+NICEBOT   892528379 10  7 f   -     -     -         1760    0    0 
+NICEBOT   892528424  9  6 f   -     -     -         1760    0    0 
+NICEBOT   892528549  9  5 f   -     -     -         1760    0    0 
+NICEBOT   892528719  9  3 f   -     -     -         1760    0    0 
+NICEBOT   892528806 10  2 Bf  -     -     -         1760   10    0 
+NICEBOT   892528884 10  1 Bc  kf    -     -         1750   20    0 
+NICEBOT   892529002 10 10 r   br    r     -         1730   90  209 Ac Ad
+NICEBOT   892529050  9  9 c   f     -     -         1849   20    0 
+NICEBOT   892529123 10  8 f   -     Q     -         1829    0    0 
+NICEBOT   892572459 10  8 f   -     -     -         1829    0    0 
+NICEBOT   892572654  8  5 f   -     -     -         1829    0    0 
+NICEBOT   892572718  9  4 f   -     -     -         1829    0    0 
+NICEBOT   892572809  9  3 f   -     -     -         1829    0    0 
+NICEBOT   892572912 10  3 cc  b     k     b         1829   50    0 Kc 6c
+NICEBOT   892572966 10  2 Bf  -     -     -         1779   10    0 
+NICEBOT   892573000 10  1 Bf  -     -     -         1769    5    0 
+NICEBOT   892573113 10 10 cc  k     k     k         1764   30    0 6d Qd
+NICEBOT   892573226  8  7 cc  c     r     b         1734   90  230 4c Ac
+NICEBOT   892573292 10  7 f   -     -     -         1874    0    0 
+NICEBOT   892573368 10  6 cc  k     c     b         1874   60  200 
+NICEBOT   892573473  8  3 f   -     -     -         2014    0    0 
+NICEBOT   892573503  9  3 f   -     Q     -         2014    0    0 
+NICEBOT   892615436  8  6 c   c     c     c         1000   60    0 8c Ts
+NICEBOT   892615479  8  5 cc  kf    -     -          940   20    0 
+NICEBOT   892615502  8  4 cc  kc    k     b          920   50  115 6h 5h
+NICEBOT   892615523  8  3 f   -     -     -          985    0    0 
+NICEBOT   892615547  9  2 Bc  b     bc    k          985   70    0 Jc 8s
+NICEBOT   892615584  9  1 Bf  -     -     -          915    5    0 
+NICEBOT   892615675  9  9 f   -     -     -          910    0    0 
+NICEBOT   892615753  9  8 f   -     -     -          910    0    0 
+NICEBOT   892615802  9  7 f   -     -     -          910    0    0 
+NICEBOT   892615849  9  6 f   -     -     -          910    0    0 
+NICEBOT   892615943 10  5 f   -     -     -          910    0    0 
+NICEBOT   892615989 10  4 f   -     -     -          910    0    0 
+NICEBOT   892616025  8  2 Bc  kc    kc    kc         910   90    0 6s 5h
+NICEBOT   892616091  9  1 Bc  k     kf    -          820   40    0 
+NICEBOT   892616186 10 10 f   -     -     -          780    0    0 
+NICEBOT   892616256 10  9 c   c     f     -          780   30    0 
+NICEBOT   892616303 10  8 f   -     -     -          750    0    0 
+NICEBOT   892616389  9  6 c   kf    -     -          750   10    0 
+NICEBOT   892616468 10  5 f   -     -     -          740    0    0 
+NICEBOT   892616522 10  4 c   f     -     -          740   10    0 
+NICEBOT   892616586 10  3 f   -     -     -          730    0    0 
+NICEBOT   892616629 10  2 Bk  b     b     b          730   60  135 
+NICEBOT   892616682 10  1 Br  b     br    b          805  120    0 Kd Ks
+NICEBOT   892616750 10 10 c   k     f     -          685   10    0 
+NICEBOT   892616798  9  8 c   c     c     f          675   40    0 
+NICEBOT   892616853  8  6 cc  k     k     f          635   20    0 
+NICEBOT   892616922  9  7 c   f     -     -          615   20    0 
+NICEBOT   892616990  9  5 f   -     -     -          595    0    0 
+NICEBOT   892617034  9  5 cc  k     k     f          595   20    0 
+NICEBOT   892617159  8  3 c   b     k     c          575   40    0 As Td
+NICEBOT   892617206  8  2 Bc  c     c     f          535   50    0 
+NICEBOT   892617259  8  1 Bc  bc    kc    kc         485   70    0 2h Ad
+NICEBOT   892617310  8  8 cc  Q     -     -          415   20    0 
+NICEBOT   892619028  7  5 r   rc    c     c          395   90    0 5d 5s
+NICEBOT   892619140  5  3 c   f     Q     -          305   10    0 
+NICEBOT   892697266  5  2 Bf  -     -     -          565   10    0 
+NICEBOT   892697273  5  1 Bc  bc    kc    k          555   50  100 7c Kd
+NICEBOT   892697305  6  6 c   f     -     -          605   10    0 
+NICEBOT   892697339  6  5 c   f     -     -          595   10    0 
+NICEBOT   892697360  6  4 f   -     -     -          585    0    0 
+NICEBOT   892697404  6  3 f   -     -     -          585    0    0 
+NICEBOT   892697437  6  2 Bf  -     -     -          585   10    0 
+NICEBOT   892697446  6  1 Bc  kf    -     -          575   20    0 
+NICEBOT   892697470  6  6 c   b     b     -          555   40   85 
+NICEBOT   892697512  8  7 cc  kf    -     -          600   20    0 
+NICEBOT   892697581  8  6 c   b     b     f          580   50    0 
+NICEBOT   892697631  9  6 cc  b     b     b          530   70  210 As 4s
+NICEBOT   892697688  9  5 f   -     -     -          670    0    0 
+NICEBOT   892697747 10  5 f   -     -     -          670    0    0 
+NICEBOT   892697818 10  4 f   -     -     -          670    0    0 
+NICEBOT   892697860 10  3 f   -     -     -          670    0    0 
+NICEBOT   892697916 10  2 Bc  kc    kf    -          670   30    0 
+NICEBOT   892697991  9  1 Bc  kf    -     -          640   10    0 
+NICEBOT   892698028  8  8 f   -     -     -          630    0    0 
+NICEBOT   892698074  8  8 c   b     -     -          630   20   35 
+NICEBOT   892698092  8  7 f   -     -     -          645    0    0 
+NICEBOT   892698145  8  6 cc  bc    f     -          645   50    0 
+NICEBOT   892698235  7  4 c   k     f     -          595   10    0 
+NICEBOT   892698300  8  3 c   k     kc    f          585   30    0 
+NICEBOT   892698376  8  2 Bc  kf    -     -          555   20    0 
+NICEBOT   892698440 10  1 Bcc kr    b     bc         535  110    0 4c 3c
+NICEBOT   892698536 10 10 f   -     -     -          425    0    0 
+NICEBOT   892698571  9  8 f   -     -     -          425    0    0 
+NICEBOT   892698623  9  7 f   -     -     -          425    0    0 
+NICEBOT   892698705 10  7 cc  k     c     f          425   40    0 
+NICEBOT   892698797 10  5 f   -     -     -          385    0    0 
+NICEBOT   892698856 10  4 f   -     -     -          385    0    0 
+NICEBOT   892698944 10  3 c   kc    kc    kc         385   60    0 As 2h
+NICEBOT   892698994  9  1 Bc  k     kf    -          325   20    0 
+NICEBOT   892699053 10  1 Bf  -     -     -          305    5    0 
+NICEBOT   892699113 10 10 f   -     -     -          300    0    0 
+NICEBOT   892699165 10  9 f   -     -     -          300    0    0 
+NICEBOT   892699216 10  8 f   -     -     -          300    0    0 
+NICEBOT   892699280 10  8 r   k     b     -          300   40   65 
+NICEBOT   892699325 10  6 f   Q     -     -          325    0    0 
+NICEBOT   892793189  5  3 c   b     k     b          325   40   90 
+NICEBOT   892793225  5  2 Bk  f     -     -          375   10    0 
+NICEBOT   892793264  5  1 Bf  -     -     -          365    5    0 
+NICEBOT   892793289  5  5 f   -     -     -          360    0    0 
+NICEBOT   892793298  5  4 f   -     -     -          360    0    0 
+NICEBOT   892793322  5  3 c   k     k     k          360   10    0 Ks 6s
+NICEBOT   892793366  5  2 Bk  kf    -     -          350   10    0 
+NICEBOT   892793397  5  1 Bc  kc    bc    kc         340   90    0 6c 6d
+NICEBOT   892793429  5  5 cc  bc    c     b          250   90  215 6c 2c
+NICEBOT   892793465  5  4 cc  r     brc   rr         375  210    0 2d 2s
+NICEBOT   892793520  5  3 r   -     -     -          165   20   35 
+NICEBOT   892793532  5  2 Bc  kf    -     -          180   20    0 
+NICEBOT   892793549  4  1 Bf  -     -     -          160    5    0 
+NICEBOT   892793581  4  4 r   b     b     -          155   50   85 
+NICEBOT   892793599  5  4 f   -     -     -          190    0    0 
+NICEBOT   892793613  5  3 f   -     -     -          190    0    0 
+NICEBOT   892793642  5  2 Bf  -     -     -          190   10    0 
+NICEBOT   892793657  5  1 Bc  kcc   kf    -          180   40    0 
+NICEBOT   892793735  5  5 f   -     -     -          140    0    0 
+NICEBOT   892793787  5  4 f   -     -     -          140    0    0 
+NICEBOT   892793807  5  3 c   bc    c     c          140   70    0 4h Qh
+NICEBOT   892793828  5  2 Bk  brc   bA    -           70   70  290 7c 5d
+NICEBOT   892793883  5  1 Bc  brc   kc    brc        290  160  350 7d Ts
+NICEBOT   892793921  5  5 f   -     -     -          480    0    0 
+NICEBOT   892793946  6  4 cc  f     -     -          480   20    0 
+NICEBOT   892793976  7  3 c   f     -     -          460   10    0 
+NICEBOT   892793992  7  2 Bk  br    b     b          450   90  300 Ts 8d
+NICEBOT   892794037  7  1 Bc  br    k     k          660   50    0 Kd Jd
+NICEBOT   892794098  8  8 f   -     -     -          610    0    0 
+NICEBOT   892794162  6  6 f   -     -     -          610    0    0 
+NICEBOT   892794195  6  5 cc  c     f     -          610   30    0 
+NICEBOT   892794235  6  4 cc  k     b     b          580   60  150 
+NICEBOT   892794273  6  3 cc  bc    b     b          670   80  103 Ac 8s
+NICEBOT   892794322  5  1 Bk  k     b     -          693   30   40 
+NICEBOT   892794348  4  1 Bc  kf    -     -          703   20    0 
+NICEBOT   892794391  4  4 f   -     -     -          683    0    0 
+NICEBOT   892794427  5  4 c   r     b     -          683   50   95 
+NICEBOT   892794465  6  3 fQ  -     -     -          728    0    0 
+NICEBOT   892856094 10  6 f   -     -     -          728    0    0 
+NICEBOT   892856165 10  5 cc  kf    -     -          728   20    0 
+NICEBOT   892856216 10  4 rc  kc    br    b          708  120  370 9d 9c
+NICEBOT   892856268 10  3 f   -     -     -          958    0    0 
+NICEBOT   892856357 10  2 Bf  -     -     -          958   10    0 
+NICEBOT   892856391 10  1 Bc  b     kf    -          948   20    0 
+NICEBOT   892856462  8  8 c   rc    c     f          928   80    0 
+NICEBOT   892856546  7  6 c   c     k     f          848   30    0 
+NICEBOT   892856604  6  6 c   k     c     f          818   30    0 
+NICEBOT   892856643  5  4 rr  r     r     b          788  120    0 Ac Ah
+NICEBOT   892856713  6  3 r   k     bc    bc         668  100  158 3d As
+NICEBOT   892856748  6  2 Bk  k     f     -          726   10    0 
+NICEBOT   892856804  7  1 Bc  kf    -     -          716   10    0 
+NICEBOT   892856844  7  7 c   rc    c     c          706  100    0 Ah Ts
+NICEBOT   892856895  7  6 f   QQ    -     -          606    0    0 
+NICEBOT   892858442  7  2 Bc  f     -     -          606   20    0 
+NICEBOT   892858465  7  1 Bf  -     -     -          586    5    0 
+NICEBOT   892858482  7  7 f   -     -     -          581    0    0 
+NICEBOT   892858546  7  6 cc  b     rc    b          581  110    0 Kc Ts
+NICEBOT   892858613  8  5 cc  b     b     b          471   70  150 
+NICEBOT   892858663  7  3 rc  bc    kc    br         551  130    0 6h Ah
+NICEBOT   892858698  7  3 rc  bc    kc    k          421   70    0 5s 5c
+NICEBOT   892858741  7  2 Bf  -     -     -          351   10    0 
+NICEBOT   892858800  7  1 Br  brc   brc   b          341  180  550 Qd Qh
+NICEBOT   892858918  8  8 c   b     bc    c          711   90    0 Tc Jc
+NICEBOT   892858971  9  9 f   -     -     -          621    0    0 
+NICEBOT   892859042 10  8 cc  k     c     c          621   60    0 Qc Ah
+NICEBOT   892859096 10  7 f   -     -     -          561    0    0 
+NICEBOT   892859184 10  6 f   -     -     -          561    0    0 
+NICEBOT   892859263 10  6 cc  c     f     -          561   30    0 
+NICEBOT   892859328 10  4 f   -     -     -          531    0    0 
+NICEBOT   892859376 10  3 crc c     c     k          531   70    0 Js Ks
+NICEBOT   892859477 10  2 Bc  f     -     -          461   20    0 
+NICEBOT   892859585 10  1 Bf  -     -     -          441    5    0 
+NICEBOT   892859667  9  9 r   rr    rr    c          436  180    0 Qc Kc
+NICEBOT   892859735  8  7 r   b     br    bc         256  130    0 Ks Qd
+NICEBOT   892859775  9  7 cf  -     -     -          126   10    0 
+NICEBOT   892859830  9  6 f   -     -     -          116    0    0 
+NICEBOT   892859888 10  6 f   -     -     -          116    0    0 
+NICEBOT   892859974 10  5 f   -     -     -          116    0    0 
+NICEBOT   892860019 10  4 rr  rr    rA    -          116  116  514 5d 4h
+NICEBOT   892860081 10  3 rr  kf    -     -          514   40    0 
+NICEBOT   892860188 10  2 Bk  kf    -     -          474   10    0 
+NICEBOT   892860242 10  1 Bc  kf    -     -          464   10    0 
+NICEBOT   892860333 10 10 f   -     -     -          454    0    0 
+NICEBOT   892860364 10  9 f   -     -     -          454    0    0 
+NICEBOT   892860410 10  8 f   -     -     -          454    0    0 
+NICEBOT   892860458 10  7 rc  c     c     c          454   90    0 Th Ts
+NICEBOT   892860503 10  6 c   b     r     b          364   90    0 2c Kc
+NICEBOT   892860559 10  5 f   -     -     -          274    0    0 
+NICEBOT   892860636 10  4 f   -     -     -          274    0    0 
+NICEBOT   892860682 10  3 f   -     -     -          274    0    0 
+NICEBOT   892860713 10  2 Bk  k     bc    krr        274  130    0 9h 5d
+NICEBOT   892860785 10  1 Bcc kc    kc    kf         144   60    0 
+NICEBOT   892860842 10 10 r   b     b     b           84   80  280 
+NICEBOT   892860914 10  9 r   k     f     -          284   30    0 
+NICEBOT   892860967 10  8 c   f     -     -          254   10    0 
+NICEBOT   892861001 10  7 cc  cc    f     Q          244   40    0 
+NICEBOT   892943872  9  6 f   -     -     -          379    0    0 
+NICEBOT   892943922  9  5 f   -     -     -          379    0    0 
+NICEBOT   892943976 10  4 c   kf    -     -          379   10    0 
+NICEBOT   892944008 10  3 f   -     -     -          369    0    0 
+NICEBOT   892944055 10  2 Bk  bc    b     brc        369  130    0 As Td
+NICEBOT   892944161 10  1 Br  k     kc    kf         239   40    0 
+NICEBOT   892944247 10 10 f   -     -     -          199    0    0 
+NICEBOT   892944318 10  9 f   -     -     -          199    0    0 
+NICEBOT   892944385 10  8 cc  f     -     -          199   20    0 
+NICEBOT   892944489 10  7 f   -     -     -          179    0    0 
+NICEBOT   892944557 10  6 c   k     c     f          179   30    0 
+NICEBOT   892944610 10  5 cc  c     f     -          149   30    0 
+NICEBOT   892944689 10  4 cc  kf    -     -          119   20    0 
+NICEBOT   892944768 10  3 rr  brc   bA    -           99   99    0 Ks Ah
+NICEBOT   892944907 10  4 f   -     -     -         1000    0    0 
+NICEBOT   892944982 10  3 c   kc    f     -         1000   20    0 
+NICEBOT   892945051 10  2 Bf  -     -     -          980   10    0 
+NICEBOT   892945127 10  1 Bf  -     -     -          970    5    0 
+NICEBOT   892945194 10 10 f   -     -     -          965    0    0 
+NICEBOT   892945273 10  9 f   -     -     -          965    0    0 
+NICEBOT   892945337 10  8 cc  r     b     b          965   80    0 9c 8c
+NICEBOT   892945420 10  7 r   c     c     c          885   70    0 8h 8d
+NICEBOT   892945488 10  6 f   Q     -     -          815    0    0 
+NICEBOT   893051870 10  4 KQ  -     -     -          685    0    0 
+NICEBOT   893055155  7  2 Bc  kf    -     -          685   20    0 
+NICEBOT   893055173  7  1 Bc  kf    -     -          665   10    0 
+NICEBOT   893055196  7  7 cc  rf    -     -          655   50    0 
+NICEBOT   893055246  8  7 f   -     -     -          605    0    0 
+NICEBOT   893055283  9  7 f   -     -     -          605    0    0 
+NICEBOT   893055308  8  6 cc  kcc   kc    kcc        605  190    0 Ad Jd
+NICEBOT   893055356  8  5 f   -     -     -          415    0    0 
+NICEBOT   893055415  7  4 c   c     kc    b          415   60  210 Qc Ts
+NICEBOT   893055462  8  3 f   -     -     -          565    0    0 
+NICEBOT   893055542  8  2 Bcc kc    b     brc        565  140    0 Ts Jh
+NICEBOT   893055608  8  1 Bf  -     -     -          425    5    0 
+NICEBOT   893055640  9  9 c   KQ    -     -          420   20    0 
+NICEBOT   893058012  8  7 f   -     -     -          400    0    0 
+NICEBOT   893058070  8  6 f   -     -     -          400    0    0 
+NICEBOT   893058102  8  5 cc  b     bc    bc         400  110  340 8s Th
+NICEBOT   893058183  8  4 f   -     -     -          630    0    0 
+NICEBOT   893058204  8  3 f   -     -     -          630    0    0 
+NICEBOT   893058295  8  2 Bf  -     -     -          630   10    0 
+NICEBOT   893058366  9  1 Bf  -     -     -          620    5    0 
+NICEBOT   893058444  9  9 c   r     rc    f          615  100    0 
+NICEBOT   893058502 10  8 f   -     -     -          515    0    0 
+NICEBOT   893058559 10  7 rc  ccc   f     -          515   70    0 
+NICEBOT   893058639 10  6 f   -     -     -          445    0    0 
+NICEBOT   893058707 10  5 ccc kf    -     -          445   40    0 
+NICEBOT   893058748 10  4 f   -     -     -          405    0    0 
+NICEBOT   893058941 10  3 cc  kf    Q     -          405   20    0 
+NICEBOT   893096826  5  2 Bk  kf    -     -          315   10    0 
+NICEBOT   893096941  5  1 Bf  -     -     -          305    5    0 
+NICEBOT   893096976  5  5 f   -     -     -          300    0    0 
+NICEBOT   893097038  4  3 f   -     -     -          300    0    0 
+NICEBOT   893097070  4  3 c   b     b     b          300   60    0 Jh Ac
+NICEBOT   893097104  4  2 Bk  k     k     k          240   10   25 Qc 9h
+NICEBOT   893097133  4  1 Br  b     b     b          255   70    0 Qd Kc
+NICEBOT   893097170  4  4 f   -     -     -          185    0    0 
+NICEBOT   893097180  4  3 f   -     -     -          185    0    0 
+NICEBOT   893097216  6  2 Bk  b     b     b          185   60   70 9c Kh
+NICEBOT   893097250  7  1 Bc  k     kf    -          195   10    0 
+NICEBOT   893097323  7  7 f   -     -     -          185    0    0 
+NICEBOT   893097354  7  6 f   -     -     -          185    0    0 
+NICEBOT   893097393  7  5 f   Q     -     -          185    0    0 
+NICEBOT   893139165 10  6 c   k     c     k          925   30    0 8s 9c
+NICEBOT   893139237  9  4 f   -     -     -          895    0    0 
+NICEBOT   893139313  9  4 c   b     b     -          895   40  120 
+NICEBOT   893139382  9  2 Bf  -     -     -          975   10    0 
+NICEBOT   893139443  9  1 Bf  -     -     -          965    5    0 
+NICEBOT   893139496  9  9 f   -     -     -          960    0    0 
+NICEBOT   893139587 10  9 c   f     -     -          960   20    0 
+NICEBOT   893139675 10  8 c   rc    c     k          940   60  220 4c Ad
+NICEBOT   893139787 10  7 r   k     b     b         1100   60  125 
+NICEBOT   893139862 10  6 f   -     -     -         1165    0    0 
+NICEBOT   893139921 10  5 r   cc    kc    f         1165   70    0 
+NICEBOT   893140050  9  4 f   -     -     -         1095    0    0 
+NICEBOT   893140130  9  3 f   -     -     -         1095    0    0 
+NICEBOT   893140212 10  2 Bk  kf    -     -         1095   10    0 
+NICEBOT   893140353 10  1 BfQ -     -     -         1085    5    0 
+NICEBOT   893213485 10  8 c   rc    rr    rr         875  220    0 Qc As
+NICEBOT   893213557 10  7 c   rr    b     k          655   70    0 Qh 9h
+NICEBOT   893213639 10  6 f   -     -     -          585    0    0 
+NICEBOT   893213681 10  5 f   -     -     -          585    0    0 
+NICEBOT   893213739 10  4 f   -     -     -          585    0    0 
+NICEBOT   893213848 10  3 f   -     -     -          585    0    0 
+NICEBOT   893213910 10  2 Bk  kf    -     -          585   10    0 
+NICEBOT   893213972 10  1 Bf  -     -     -          575    5    0 
+NICEBOT   893214015 10 10 c   cc    k     k          570   40    0 7s 3s
+NICEBOT   893214118 10  9 f   -     -     -          530    0    0 
+NICEBOT   893214188 10  8 f   -     -     -          530    0    0 
+NICEBOT   893214255 10  4 Q   -     -     -          530    0    0 
+NICEBOT   893308574  9  2 Bf  -     -     -          285   10    0 
+NICEBOT   893308674  9  1 Bf  -     -     -          275    5    0 
+NICEBOT   893308823 10 10 f   -     -     -          270    0    0 
+NICEBOT   893308927  9  8 c   k     b     b          270   50    0 Ah 8h
+NICEBOT   893308988  9  7 c   kf    -     -          220   10    0 
+NICEBOT   893309063 10  7 f   -     -     -          210    0    0 
+NICEBOT   893309164 10  6 f   -     -     -          210    0    0 
+NICEBOT   893309229  9  4 cc  rc    br    rrA        210  210    0 Ts 4s
+NICEBOT   893310994  6  4 f   -     -     -         1000    0    0 
+NICEBOT   893311016  6  3 r   k     k     f         1000   20    0 
+NICEBOT   893311088  5  2 Bk  f     -     -          980   10    0 
+NICEBOT   893311115  5  1 Bc  kf    -     -          970   10    0 
+NICEBOT   893311153  5  4 c   cc    k     c          960   50    0 9h Ts
+NICEBOT   893311202  5  3 f   -     -     -          910    0    0 
+NICEBOT   893311233  6  2 Bk  kc    b     b          910   60  160 Qh Jd
+NICEBOT   893311274  5  1 Bf  -     -     -         1010    5    0 
+NICEBOT   893311296  4  4 c   r     b     b         1005   70    0 Qh Ac
+NICEBOT   893311353  5  5 f   -     -     -          935    0    0 
+NICEBOT   893311371  6  4 fQ  -     -     -          935    0    0 
+NICEBOT   893312969  8  5 f   -     -     -          935    0    0 
+NICEBOT   893313037 10  4 rc  rc    c     cf         935  110    0 
+NICEBOT   893313118 10  3 f   -     -     -          825    0    0 
+NICEBOT   893313260  9  2 Bk  kf    -     -          825   10    0 
+NICEBOT   893313326  8  1 Bc  kc    kf    -          815   30    0 
+NICEBOT   893313385  8  8 f   -     -     -          785    0    0 
+NICEBOT   893313419  8  7 c   cc    f     -          785   40    0 
+NICEBOT   893313464  8  6 KQ  -     -     -          745    0    0 
+NICEBOT   893315509  9  2 BQ  -     -     -          745   10    0 
+NICEBOT   893315768 10 10 f   -     -     -          735    0    0 
+NICEBOT   893315858 10  9 c   r     r     c          735  210    0 Kd Qc
+NICEBOT   893315989  8  7 f   -     -     -          525    0    0 
+NICEBOT   893316139 10  7 f   -     -     -          525    0    0 
+NICEBOT   893316242 10  6 cc  c     c     f          525   70    0 
+NICEBOT   893316319  9  5 f   -     -     -          455    0    0 
+NICEBOT   893316395  8  3 Q   -     -     -          455    0    0 
+NICEBOT   893366070 10  2 Bc  kf    -     -          455   20    0 
+NICEBOT   893366125 10  1 Bf  -     -     -          435    5    0 
+NICEBOT   893366218 10 10 f   Q     -     -          430    0    0 
+NICEBOT   893388126 10  3 cc  bc    kcc   kf         420  100    0 
+NICEBOT   893388226 10  2 Bk  kf    -     -          320   10    0 
+NICEBOT   893388342  9  1 Bc  brc   br    brc        310  190  450 Ac Ts
+NICEBOT   893388432  9  9 f   -     -     -          570    0    0 
+NICEBOT   893388508 10  9 f   -     -     -          570    0    0 
+NICEBOT   893388606 10  8 f   -     -     -          570    0    0 
+NICEBOT   893388695 10  7 f   -     -     -          570    0    0 
+NICEBOT   893388741  9  6 f   -     -     -          570    0    0 
+NICEBOT   893388804  8  4 f   -     -     -          570    0    0 
+NICEBOT   893388848  9  3 f   -     -     -          570    0    0 
+NICEBOT   893389025  7  2 Bk  kf    -     -          570   10    0 
+NICEBOT   893389099  7  1 Bf  -     -     -          560    5    0 
+NICEBOT   893389145  8  8 f   -     -     -          555    0    0 
+NICEBOT   893389177  9  8 c   f     -     -          555   10    0 
+NICEBOT   893389232  9  8 r   f     -     -          545   20    0 
+NICEBOT   893389305  8  6 f   -     -     -          525    0    0 
+NICEBOT   893389354  7  5 cc  k     f     -          525   20    0 
+NICEBOT   893389417  7  4 f   -     -     -          505    0    0 
+NICEBOT   893389462  7  3 f   -     -     -          505    0    0 
+NICEBOT   893389509  7  2 Bc  kf    -     -          505   20    0 
+NICEBOT   893389545  7  1 Bc  bc    kc    kc         485   70    0 Jh 4h
+NICEBOT   893389617  8  7 r   -     -     -          415   20   35 
+NICEBOT   893389633  9  6 r   kf    -     -          430   20    0 
+NICEBOT   893389666 10  5 cc  kQ    -     -          410   20    0 
+NICEBOT   893391717 10  2 Bk  kcf   -     -          390   20    0 
+NICEBOT   893391822 10  1 Bf  -     -     -          370    5    0 
+NICEBOT   893391890 10 10 c   rc    c     f          365   70    0 
+NICEBOT   893391985 10  9 c   rc    c     f          295   80    0 
+NICEBOT   893392052 10  8 r   f     -     -          215   20    0 
+NICEBOT   893392162 10  7 cc  kf    -     -          195   20    0 
+NICEBOT   893392286 10  6 f   -     -     -          175    0    0 
+NICEBOT   893392379 10  5 f   -     -     -          175    0    0 
+NICEBOT   893392452 10  4 f   -     -     -          175    0    0 
+NICEBOT   893392501 10  3 c   k     f     -          175   10    0 
+NICEBOT   893392542 10  2 Bc  kf    -     -          165   20    0 
+NICEBOT   893392594 10  1 Bf  -     -     -          145    5    0 
+NICEBOT   893392663 10 10 c   rr    b     b          140  100  295 8c Kc
+NICEBOT   893392740 10  9 c   k     k     f          335   10    0 
+NICEBOT   893392812  9  7 c   f     -     -          325   10    0 
+NICEBOT   893392877 10  7 cr  b     br    b          315  120  485 Kc Ah
+NICEBOT   893392973 10  6 f   -     -     -          680    0    0 
+NICEBOT   893393046 10  5 f   -     -     -          680    0    0 
+NICEBOT   893393077 10  4 f   -     -     -          680    0    0 
+NICEBOT   893393156 10  3 f   -     -     -          680    0    0 
+NICEBOT   893393190 10  2 Bf  -     -     -          680   10    0 
+NICEBOT   893393294 10  1 Bf  -     -     -          670    5    0 
+NICEBOT   893393332 10 10 c   rr    b     b          665  120  475 9c 6c
+NICEBOT   893393416 10  9 c   k     kf    -         1020   20    0 
+NICEBOT   893393484 10  8 f   -     -     -         1000    0    0 
+NICEBOT   893393515  8  5 c   f     -     -         1000   10    0 
+NICEBOT   893393596  7  4 ccc r     k     r          990  100  240 
+NICEBOT   893393665  7  4 c   kf    -     -         1130   10    0 
+NICEBOT   893393704  7  3 f   -     -     -         1120    0    0 
+NICEBOT   893393748  7  2 Bk  kf    -     -         1120   10    0 
+NICEBOT   893393772  7  1 Bc  k     kc    kf        1110   50    0 
+NICEBOT   893393856  7  7 f   -     -     -         1060    0    0 
+NICEBOT   893393928  8  6 c   fQ    -     -         1060   10    0 
+NICEBOT   893486737 10  4 f   -     -     -         1135    0    0 
+NICEBOT   893486790 10  3 c   bc    kc    kf        1135   50    0 
+NICEBOT   893486835 10  2 Bk  c     r     -         1085   60  130 
+NICEBOT   893486867 10  1 Bf  -     -     -         1155    5    0 
+NICEBOT   893486916 10 10 c   c     k     f         1150   20    0 
+NICEBOT   893487034  9  8 c   c     r     b         1130   90  220 9d Td
+NICEBOT   893487077  9  7 f   -     -     -         1260    0    0 
+NICEBOT   893487100  9  6 f   -     -     -         1260    0    0 
+NICEBOT   893487167  9  5 f   -     -     -         1260    0    0 
+NICEBOT   893487224  9  4 f   -     -     -         1260    0    0 
+NICEBOT   893487306  9  3 f   -     -     -         1260    0    0 
+NICEBOT   893487374  9  2 Bk  b     b     -         1260   40   75 
+NICEBOT   893487402  9  1 Bf  -     -     -         1295    5    0 
+NICEBOT   893487437  9  9 c   rc    rc    c         1290  140  335 7h 6h
+NICEBOT   893487482  9  8 fQ  -     -     -         1485    0    0 
+NICEBOT   893520157  5  3 f   -     -     -         1485    0    0 
+NICEBOT   893520196  5  2 Bk  kf    -     -         1485   10    0 
+NICEBOT   893520224  4  1 Br  k     b     kc        1475   60    0 9s 9d
+NICEBOT   893520266  4  4 f   -     -     -         1415    0    0 
+NICEBOT   893520291  4  3 f   -     -     -         1415    0    0 
+NICEBOT   893520314  4  2 Bk  k     c     c         1415   50    0 8d 7c
+NICEBOT   893520342  5  1 Bc  kf    -     -         1365   10    0 
+NICEBOT   893520379  6  6 f   -     -     -         1355    0    0 
+NICEBOT   893520426  6  5 f   -     -     -         1355    0    0 
+NICEBOT   893520483  6  4 r   b     -     -         1355   30   65 
+NICEBOT   893520505  7  4 c   f     -     -         1390   10    0 
+NICEBOT   893520561  8  4 f   -     -     -         1380    0    0 
+NICEBOT   893520658  9  4 f   -     -     -         1380    0    0 
+NICEBOT   893520749  9  3 r   kc    kc    kc        1380   70    0 9s 9c
+NICEBOT   893520832  9  2 Br  kf    -     -         1310   30    0 
+NICEBOT   893520906 10  1 Bc  kf    -     -         1280   10    0 
+NICEBOT   893520945 10 10 c   f     -     -         1270   10    0 
+NICEBOT   893521018 10  9 f   -     -     -         1260    0    0 
+NICEBOT   893521075 10  8 f   -     -     -         1260    0    0 
+NICEBOT   893521111  9  6 c   f     -     -         1260   10    0 
+NICEBOT   893521168  9  6 f   -     -     -         1250    0    0 
+NICEBOT   893521255  9  5 KQ  -     -     -         1250    0    0 
+NICEBOT   893534853  6  2 Bk  k     k     b         1250   30   50 
+NICEBOT   893534919  8  1 Bf  -     -     -         1270    5    0 
+NICEBOT   893534989  9  9 f   -     -     -         1265    0    0 
+NICEBOT   893535046  9  8 f   -     -     -         1265    0    0 
+NICEBOT   893535137  9  7 f   -     -     -         1265    0    0 
+NICEBOT   893535240 10  6 f   -     -     Q         1265    0    0 
+NICEBOT   893914736 10  5 f   -     -     -         1265    0    0 
+NICEBOT   893914800 10  4 f   -     -     -         1265    0    0 
+NICEBOT   893914828 10  3 f   -     -     -         1265    0    0 
+NICEBOT   893914869 10  2 Bk  kc    kf    -         1265   30    0 
+NICEBOT   893914953  9  1 Bf  -     -     -         1235    5    0 
+NICEBOT   893915001  9  9 cc  cc    c     f         1230  100    0 
+NICEBOT   893915067  9  8 f   -     -     -         1130    0    0 
+NICEBOT   893915161  9  7 f   -     -     -         1130    0    0 
+NICEBOT   893915209  9  6 cc  k     f     -         1130   20    0 
+NICEBOT   893915242  9  5 f   -     -     -         1110    0    0 
+NICEBOT   893915287  9  4 f   -     -     -         1110    0    0 
+NICEBOT   893915329  9  3 c   kc    kf    -         1110   20    0 
+NICEBOT   893915382  9  2 Br  b     k     b         1090   50  145 
+NICEBOT   893915435  9  1 Bf  -     -     -         1185    5    0 
+NICEBOT   893915466  9  9 f   -     -     -         1180    0    0 
+NICEBOT   893915516  8  7 c   k     k     f         1180   10    0 
+NICEBOT   893915557 10  7 f   -     -     -         1170    0    0 
+NICEBOT   893915586 10  6 c   f     -     -         1170   10    0 
+NICEBOT   893915624 10  6 f   -     -     -         1160    0    0 
+NICEBOT   893915669  9  4 f   -     -     -         1160    0    0 
+NICEBOT   893915749  7  3 c   k     k     f         1160   10    0 
+NICEBOT   893915775  7  2 Bk  bc    kf    -         1150   30    0 
+NICEBOT   893915820  7  1 Bf  Q     -     -         1120    5    0 

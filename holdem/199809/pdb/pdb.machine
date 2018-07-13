@@ -1,0 +1,233 @@
+machine   906766477  9  8 cc  bc    b     k         1000   70  250 8s Qd
+machine   906766539  9  7 f   -     -     -         1180    0    0 
+machine   906766580  9  6 cc  krc   k     kf        1180   50    0 
+machine   906766649 10  6 f   -     -     -         1130    0    0 
+machine   906766710  9  5 c   kc    cc    kc        1130   90    0 2h Ah
+machine   906766778  9  4 cc  b     kc    kc        1040   70    0 Qd Jh
+machine   906766846  9  3 r   r     c     b          970   80  185 Kc Kh
+machine   906766931  8  2 Bk  k     k     k         1075   10    0 8d 4d
+machine   906766985  8  1 Bc  kc    kc    k         1065   50  180 Qh 9c
+machine   906767046  8  8 c   c     c     k         1195   40    0 Jd Kd
+machine   906767083  8  7 cc  kc    bc    c         1155  100  405 Js 9h
+machine   906767197  9  6 Q   -     -     -         1460    0    0 
+machine   906767558 10  7 rc  bc    kf    -         1460   50    0 
+machine   906767662  9  6 cc  kr    kf    -         1410   40    0 
+machine   906767732  8  4 c   kc    c     f         1370   40    0 
+machine   906767822  9  4 c   k     b     b         1330   50  120 Ac Ah
+machine   906767896  9  3 c   k     kfQ   -         1400   10    0 
+machine   906768273  7  7 c   b     -     -         1390   20   35 
+machine   906768355  8  7 c   f     -     -         1405   20    0 
+machine   906768427  8  6 cc  r     r     r         1385  120  290 2h Ad
+machine   906768519  8  5 f   -     -     -         1555    0    0 
+machine   906768576  8  4 f   -     -     -         1555    0    0 
+machine   906768693  7  2 c   b     b     k         1555   40   90 Ts 2s
+machine   906768733  7  2 Bf  -     -     -         1605   10    0 
+machine   906768823  7  1 Bf  -     -     -         1595    5    0 
+machine   906768886  6  6 f   -     -     -         1590    0    0 
+machine   906768921  8  7 f   -     -     -         1590    0    0 
+machine   906768981  8  6 c   b     -     -         1590   20   40 
+machine   906769033  7  4 c   k     b     b         1610   50  115 As Ad
+machine   906769072  6  3 f   -     -     -         1675    0    0 
+machine   906769109  6  2 Bk  b     -     -         1675   20   35 
+machine   906769133  6  1 Bf  -     -     -         1690    5    0 
+machine   906769168  7  7 f   -     -     -         1685    0    0 
+machine   906769203  7  6 c   f     -     -         1685   10    0 
+machine   906769278  7  5 cc  kf    -     -         1675   20    0 
+machine   906769359  7  4 f   -     -     -         1655    0    0 
+machine   906769399  8  3 c   kf    -     -         1655   10    0 
+machine   906769493  8  2 Bk  kc    kc    kr        1645   80  123 9c 2c
+machine   906769582  7  1 Bf  -     -     -         1688    5    0 
+machine   906769627  8  8 cc  r     k     k         1683   40    0 4h 5h
+machine   906769692  7  6 f   -     -     -         1643    0    0 
+machine   906769756  7  5 r   rc    cf    -         1643   80    0 
+machine   906769827  7  4 c   kf    -     -         1563   10    0 
+machine   906769860  5  3 c   b     brc   c         1553  120    0 6s 5h
+machine   906769893  5  2 Bc  b     b     -         1433   50   85 
+machine   906769919  5  1 Bc  b     k     kc        1468   50    0 As 6s
+machine   906769944  5  5 c   r     b     b         1418   70  130 
+machine   906769973  5  4 f   -     -     -         1478    0    0 
+machine   906769997  4  2 Bf  -     -     -         1478   10    0 
+machine   906770026  4  1 Bcc k     bf    -         1468   50    0 
+machine   906770066  4  4 f   -     -     -         1418    0    0 
+machine   906770079  4  3 c   r     b     b         1418   70  160 Qs 2s
+machine   906770107  4  2 Bk  b     -     -         1508   20   35 
+machine   906770124  4  1 Bf  -     -     -         1523    5    0 
+machine   906770132  4  4 rc  c     r     b         1518  100  190 
+machine   906770182  4  3 ccc kc    kc    br        1608  130  400 Ah 5h
+machine   906770228  4  2 Bc  kc    kc    kc        1878   70    0 Qc Qh
+machine   906770253  4  1 Bc  k     k     b         1808   30   40 
+machine   906770275  4  4 f   -     -     -         1818    0    0 
+machine   906770293  5  4 f   -     -     -         1818    0    0 
+machine   906770323  5  3 c   b     k     k         1818   20   50 5d 6d
+machine   906770361  5  2 Bf  -     -     -         1848   10    0 
+machine   906770391  5  1 Bf  -     -     -         1838    5    0 
+machine   906770417  5  5 f   -     -     -         1833    0    0 
+machine   906770452  5  4 f   -     -     -         1833    0    0 
+machine   906770474  5  3 f   -     -     -         1833    0    0 
+machine   906770500  5  2 Bc  kf    -     -         1833   20    0 
+machine   906770540  5  1 Bc  k     brc   br        1813  150  310 2h 2d
+machine   906770590  4  4 c   c     b     k         1973   40  110 Ac 2d
+machine   906770628  4  3 c   k     k     k         2043   10   30 As 2c
+machine   906770653  3  2 Bk  b     -     -         2063   20   30 
+machine   906770665  3  1 Bc  bc    k     b         2073   50  110 Ts 9s
+machine   906770689  3  3 Q   -     -     -         2133    0    0 
+machine   906773842  6  5 f   -     -     -         1723    0    0 
+machine   906773881  6  4 c   b     kc    k         1723   40  140 Ah 3c
+machine   906773956  6  3 cc  kc    cc    bc        1823  110    0 Qs 3s
+machine   906774012  6  2 Bk  k     b     kc        1713   50    0 2s Qd
+machine   906774080  6  1 Bc  b     kc    brc       1663  120  260 Ad 4c
+machine   906774150  6  6 f   -     -     -         1803    0    0 
+machine   906774184  8  7 cc  r     b     b         1803   80  270 4s Ts
+machine   906774264  9  7 cc  kc    b     r         1993   90    0 As Jh
+machine   906774358  9  6 c   rc    k     f         1903   40    0 
+machine   906774421  9  5 cc  f     -     -         1863   20    0 
+machine   906774475  9  4 c   kc    rc    c         1843  110  370 Kd Js
+machine   906774601  9  3 f   -     -     -         2103    0    0 
+machine   906774694 10  3 f   -     -     -         2103    0    0 
+machine   906774829 10  2 Bf  -     -     -         2103   10    0 
+machine   906774880  9  1 Bf  -     -     -         2093    5    0 
+machine   906774978 10  9 f   -     -     -         2088    0    0 
+machine   906775053 10  8 f   -     -     -         2088    0    0 
+machine   906775144 10  7 f   -     -     -         2088    0    0 
+machine   906775196 10  6 ccc cf    -     -         2088   50    0 
+machine   906775271 10  5 cc  f     -     -         2038   20    0 
+machine   906775381 10  4 c   kc    krc   kc        2018  100    0 6s Kh
+machine   906775469 10  3 cc  rc    k     k         1918   60    0 Qc 9s
+machine   906775577 10  2 Bf  -     -     -         1858   10    0 
+machine   906775631 10  1 Bc  kc    bc    kc        1848  110  440 4s 4d
+machine   906775729 10 10 c   k     c     b         2178   70  175 
+machine   906775787 10  9 f   -     -     -         2283    0    0 
+machine   906775878 10  8 f   -     -     -         2283    0    0 
+machine   906775939 10  7 f   -     -     -         2283    0    0 
+machine   906776082 10  6 f   -     -     -         2283    0    0 
+machine   906776155  9  5 f   -     -     -         2283    0    0 
+machine   906776304  6  3 f   -     -     -         2283    0    0 
+machine   906776363  6  2 Bf  -     -     -         2283   10    0 
+machine   906776405  6  1 Bf  -     -     -         2273    5    0 
+machine   906776445  7  7 c   b     bc    f         2268   60    0 
+machine   906776501  7  6 c   f     -     -         2208   10    0 
+machine   906776553  7  5 f   -     -     -         2198    0    0 
+machine   906776581  7  4 cc  c     f     -         2198   40    0 
+machine   906776649  7  3 cc  rc    f     -         2158   50    0 
+machine   906776683  8  2 Bc  kc    kc    k         2108   60    0 6s 7s
+machine   906776749  8  1 Bc  bc    kcc   kr        2048  130    0 9h 9c
+machine   906776854  8  8 c   k     bc    k         1918   50    0 8c 8h
+machine   906776910  8  7 fQ  -     -     -         1868    0    0 
+machine   906777164  7  4 c   b     b     b         1868   60  170 Ah 3s
+machine   906777232  7  3 c   r     k     k         1978   30    0 6c 5c
+machine   906777277  7  2 Bf  -     -     -         1948   10    0 
+machine   906777303  7  1 Bc  kr    kc    kf        1938   60    0 
+machine   906777361  8  8 c   c     c     r         1878   80  210 5s 4s
+machine   906777405  8  7 f   -     -     -         2008    0    0 
+machine   906777473  7  5 f   -     -     -         2008    0    0 
+machine   906777552  7  4 f   -     -     -         2008    0    0 
+machine   906777599  7  3 f   -     -     -         2008    0    0 
+machine   906777653  7  2 Bf  -     -     -         2008   10    0 
+machine   906777693  6  1 Bc  krc   kf    -         1998   40    0 
+machine   906777770  6  6 c   b     k     b         1958   40    0 6d 7h
+machine   906777863  6  5 f   -     -     -         1918    0    0 
+machine   906777994  6  4 cc  b     bc    kc        1918   90    0 9s 7d
+machine   906778032  7  3 cc  kf    -     -         1828   20    0 
+machine   906778157  9  2 Bc  b     b     b         1808   70  175 Ad Td
+machine   906778213  9  1 Bc  bcc   bcc   kc        1913  150    0 Qh Jh
+machine   906778282 10 10 cc  c     c     f         1763   60    0 
+machine   906778414  8  8 c   c     f     -         1703   20    0 
+machine   906778488  7  6 c   f     -     -         1683   10    0 
+machine   906778555  7  5 cf  -     -     -         1673   10    0 
+machine   906778653  7  4 c   k     b     b         1663   50  100 
+machine   906778712  7  3 r   b     bc    kc        1713   90    0 9h 9d
+machine   906778797  7  2 Bk  b     k     b         1623   40   65 
+machine   906778832  7  1 Bc  b     krr   kc        1648  120  130 7s Ah
+machine   906778891  8  8 c   r     k     f         1658   30    0 
+machine   906778951  8  7 f   -     -     -         1628    0    0 
+machine   906779010  8  6 c   kc    kc    krr       1628  120  265 3h Th
+machine   906779077  8  4 Q   -     -     -         1773    0    0 
+machine   906850257 10  8 f   -     -     -         1773    0    0 
+machine   906850306 10  7 f   -     -     -         1773    0    0 
+machine   906850375 10  6 f   -     -     -         1773    0    0 
+machine   906850438  9  5 c   f     -     -         1773   20    0 
+machine   906850517 10  4 cc  rc    cc    kf        1753   90    0 
+machine   906850651 10  3 cc  c     kf    -         1663   30    0 
+machine   906850737  9  2 Bk  f     -     -         1633   10    0 
+machine   906850809 10  1 Bc  k     b     brc       1623  110    0 6s Qc
+machine   906850920 10 10 c   r     b     b         1513   70   77 Th Ad
+machine   906850981  8  7 f   -     -     -         1520    0    0 
+machine   906851015  9  7 c   b     b     -         1520   40  110 
+machine   906851076  8  5 cc  b     b     k         1590   50    0 7h 8d
+machine   906851121  7  4 f   -     -     -         1540    0    0 
+machine   906851155  7  3 c   k     bc    c         1540   70   85 4d Kd
+machine   906851219  7  2 Bk  bcc   kc    kc        1555   90    0 8c Ah
+machine   906851286  8  1 Bc  kc    kc    kc        1465   70    0 6s 3d
+machine   906851345  8  8 c   c     c     b         1395   60  130 4c As
+machine   906851378  8  7 cc  c     f     -         1465   60    0 
+machine   906851516  8  6 cc  k     b     k         1405   40    0 Kd As
+machine   906851606  9  6 cc  kf    -     -         1365   20    0 
+machine   906851656  8  4 c   b     b     -         1345   40   75 
+machine   906851695  8  3 cc  k     b     b         1380   60  130 
+machine   906851730  9  2 Bk  kf    -     -         1450   10    0 
+machine   906851770 10  1 Bc  b     -     -         1440   20   50 
+machine   906851792 10 10 c   c     f     -         1470   30    0 
+machine   906851842  9  9 f   -     -     -         1440    0    0 
+machine   906851875 10  8 c   bc    kc    k         1440   50    0 Td Qh
+machine   906851939  8  5 f   -     -     -         1390    0    0 
+machine   906851997  8  4 r   b     k     rc        1390   90    0 Jh Js
+machine   906852065  8  3 c   b     c     brc       1300  120    0 Kd Ac
+machine   906852139  8  2 Bk  b     bc    b         1180   80  180 Qs Tc
+machine   906852200  9  1 Bc  b     b     b         1280   60  110 
+machine   906852246  9  9 c   r     k     b         1330   50  185 8c 6s
+machine   906852327 10  9 f   -     -     -         1465    0    0 
+machine   906852504 10  8 c   f     -     -         1465   20    0 
+machine   906852583  9  7 f   -     -     -         1445    0    0 
+machine   906852648 10  6 cc  rc    c     c         1445  120  495 Qh Ad
+machine   906852721 10  5 f   -     -     -         1820    0    0 
+machine   906852776  9  4 cc  cf    -     -         1820   50    0 
+machine   906852905  9  3 f   -     -     -         1770    0    0 
+machine   906852987  8  1 Bk  b     b     k         1770   40   50 3h Kd
+machine   906853038 10  1 Bf  -     -     -         1780    5    0 
+machine   906853110 10 10 cc  c     c     c         1775   80    0 Qh Jd
+machine   906853192 10  9 f   -     -     -         1695    0    0 
+machine   906853278  9  8 c   r     b     b         1695   80  225 Jc Ks
+machine   906853362 10  7 f   -     -     -         1840    0    0 
+machine   906853406 10  6 f   -     -     -         1840    0    0 
+machine   906853498 10  5 f   -     -     -         1840    0    0 
+machine   906853547 10  4 f   -     -     -         1840    0    0 
+machine   906853643 10  3 cc  k     c     k         1840   40    0 5c 3c
+machine   906853706 10  2 Bk  b     c     f         1800   40    0 
+machine   906853769 10  1 Bcf -     -     -         1760   10    0 
+machine   906853820 10 10 f   -     -     -         1750    0    0 
+machine   906853858  9  8 c   rc    cf    -         1750   70    0 
+machine   906853936 10  8 c   k     f     -         1680   10    0 
+machine   906854063 10  7 c   c     c     c         1670   70  300 Qh Ac
+machine   906854131 10  6 f   -     -     -         1900    0    0 
+machine   906854236 10  5 f   -     -     -         1900    0    0 
+machine   906854320 10  4 cc  kc    bc    kf        1900   70    0 
+machine   906854414 10  3 ccc bcc   kc    kc        1830  140  645 Kc Ah
+machine   906854508 10  2 Bc  kc    kc    kc        2335   70  145 Tc Td
+machine   906854543 10  1 Bc  k     k     bc        2410   50    0 9s 5h
+machine   906854636  9  9 f   -     -     -         2360    0    0 
+machine   906854709  9  8 f   -     -     -         2360    0    0 
+machine   906854773  9  7 c   bc    k     k         2360   30    0 7d Ad
+machine   906854841  9  6 c   b     b     -         2330   40   70 
+machine   906854893  9  5 cc  kc    c     r         2360  100  400 Kd Qd
+machine   906854963  9  4 c   b     -     -         2660   20   55 
+machine   906854990  9  3 cc  c     c     b         2695   80  240 
+machine   906855055  9  2 Bcc kc    bc    kr        2855  130  355 Td 9c
+machine   906855134 10  1 Bcc k     brc   kc        3080  140  370 4d Ad
+machine   906855240 10 10 f   -     Q     -         3310    0    0 
+machine   906855412 10  8 f   -     -     -         3310    0    0 
+machine   906855489  9  6 cf  -     -     -         3310   20    0 
+machine   906855612 10  5 f   -     -     -         3290    0    0 
+machine   906855668  9  4 f   -     -     -         3290    0    0 
+machine   906855719  9  3 cc  k     b     b         3290   60  205 Ac 4h
+machine   906855800  9  2 Bc  kf    Q     -         3435   20    0 
+machine   906856880 10  9 f   -     -     -         3145    0    0 
+machine   906856900 10  8 f   -     -     -         3145    0    0 
+machine   906856921 10  3 Q   -     -     -         3145    0    0 
+machine   906857636 10 10 c   r     -     -         3455   40  115 
+machine   906857684  8  7 c   f     -     -         3530   10    0 
+machine   906857734  8  6 c   b     bc    k         3520   60  230 Ts Qc
+machine   906857810  9  6 f   -     -     -         3690    0    0 
+machine   906857845 10  6 c   rf    -     -         3690   40    0 
+machine   906857882 10  5 cc  cc    c     f         3650   70    0 
+machine   906857998  9  4 cc  f     -     -         3580   20    0 
+machine   906858119  9  2 fQ  -     -     -         3560    0    0 

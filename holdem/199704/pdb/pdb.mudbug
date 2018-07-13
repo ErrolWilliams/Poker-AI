@@ -1,0 +1,1821 @@
+mudbug    859909947  5  2 B   -     -     -         2391   10   15 
+mudbug    859909956  5  1 Bf  -     -     -         2396    5    0 
+mudbug    859909983  5  5 c   c     f     -         2391   30    0 
+mudbug    859910025  5  4 f   -     -     -         2361    0    0 
+mudbug    859910059  5  3 f   -     -     -         2361    0    0 
+mudbug    859910096  5  2 Bk  kc    k     k         2361   20   45 3c Ad
+mudbug    859910140  5  1 Br  bc    k     kf        2386   50    0 
+mudbug    859910200  4  4 f   -     -     -         2336    0    0 
+mudbug    859910211  4  4 rc  c     r     b         2336  100  240 
+mudbug    859910254  4  3 f   -     -     -         2476    0    0 
+mudbug    859910295  4  2 Bk  b     -     -         2476   20   35 
+mudbug    859910333  4  1 Br  br    k     kc        2491   70    0 Qs Kh
+mudbug    859910390  5  4 c   k     c     k         2421   30   90 Qs Tc
+mudbug    859910430  5  2 Bc  k     k     f         2481   30    0 
+mudbug    859910478  6  1 Bf  -     -     -         2451    5    0 
+mudbug    859910505  6  6 r   b     k     f         2446   30    0 
+mudbug    859910548  6  5 c   k     c     f         2416   30    0 
+mudbug    859910586  5  3 f   -     -     -         2386    0    0 
+mudbug    859910618  5  3 c   k     b     -         2386   30   55 
+mudbug    859910661  5  2 Bk  b     b     b         2411   60  120 
+mudbug    859910704  6  1 Bf  -     -     -         2471    5    0 
+mudbug    859910757  6  6 f   -     -     -         2466    0    0 
+mudbug    859910771  6  5 f   -     -     -         2466    0    0 
+mudbug    859910799  6  4 f   -     -     -         2466    0    0 
+mudbug    859910808  6  3 f   -     -     -         2466    0    0 
+mudbug    859910880  5  2 Bk  k     bc    kf        2466   50    0 
+mudbug    859910944  6  1 Br  b     b     b         2416   70  170 Kd Kh
+mudbug    859911019  8  8 c   k     k     f         2516   20    0 
+mudbug    859911099  8  7 f   -     -     -         2496    0    0 
+mudbug    859911213  8  6 f   -     -     -         2496    0    0 
+mudbug    859911296  7  4 f   -     -     -         2496    0    0 
+mudbug    859911397  8  4 fQ  -     -     -         2496    0    0 
+mudbug    859941605  3  2 Bk  kf    -     -         2496   10    0 
+mudbug    859941625  4  1 Br  b     b     kc        2486   70    0 Ks Ah
+mudbug    859941659  5  5 c   c     f     -         2416   20    0 
+mudbug    859941713  5  4 f   -     -     -         2396    0    0 
+mudbug    859941740  5  3 c   kc    kf    -         2396   20    0 
+mudbug    859941796  5  2 Bk  kc    kf    -         2376   20    0 
+mudbug    859941829  5  1 Bf  -     -     -         2356    5    0 
+mudbug    859941862  5  5 r   b     b     c         2351   70    0 Jh Jd
+mudbug    859941911  5  4 f   -     -     -         2281    0    0 
+mudbug    859941962  5  3 f   -     -     -         2281    0    0 
+mudbug    859941996  5  2 Bc  c     k     k         2281   40  120 Jc 9h
+mudbug    859942028  5  1 Bf  -     -     -         2361    5    0 
+mudbug    859942042  4  4 f   -     -     -         2356    0    0 
+mudbug    859942054  2  2 cc  f     -     -         2356   20    0 
+mudbug    859942077  3  2 B   -     -     -         2336   10   15 
+mudbug    859942165  2  1 Bf  -     -     -         2341    5    0 
+mudbug    859942172  2  2 B   -     -     -         2336   10   15 
+mudbug    859942177  2  1 Bf  -     -     -         2341    5    0 
+mudbug    859942186  2  2 Br  b     -     -         2336   40   70 
+mudbug    859942210  2  1 Bf  -     -     -         2366    5    0 
+mudbug    859942222  2  2 Bk  k     b     -         2361   30   40 
+mudbug    859942250  2  1 Bcc kc    k     k         2371   30   60 Ks 4s
+mudbug    859942298  2  2 B   -     -     -         2401   10   15 
+mudbug    859942303  2  1 Bc  b     -     -         2406   20   30 
+mudbug    859942326  2  2 B   -     -     -         2416   10   15 
+mudbug    859942331  2  1 Bf  -     -     -         2421    5    0 
+mudbug    859942339  2  2 Bf  -     -     -         2416   10    0 
+mudbug    859942347  2  1 Bf  -     -     -         2406    5    0 
+mudbug    859942360  2  2 Bk  k     k     b         2401   30   40 
+mudbug    859942387  2  1 Bf  -     -     -         2411    5    0 
+mudbug    859942397  2  2 B   -     -     -         2406   10   15 
+mudbug    859942402  2  1 Br  kc    k     kf        2411   30    0 
+mudbug    859942482  2  2 B   -     -     -         2381   10   15 
+mudbug    859942487  2  1 Bc  b     -     -         2386   20   30 
+mudbug    859942506  3  2 Bf  -     -     -         2396   10    0 
+mudbug    859942516  4  1 Bc  k     k     b         2386   30   70 8c 9c
+mudbug    859942650  3  3 c   f     -     -         2426   10    0 
+mudbug    859942693  3  2 Bk  k     k     f         2416   10    0 
+mudbug    859942719  3  1 Bf  -     -     -         2406    5    0 
+mudbug    859942793  2  2 f   -     -     -         2401    0    0 
+mudbug    859942801  2  2 B   -     -     -         2401   10   15 
+mudbug    859942806  2  1 BQ  -     -     -         2406    5    0 
+mudbug    860031743  7  3 f   -     -     -         3311    0    0 
+mudbug    860031869  7  2 Bc  c     c     k         3311   50    0 Th 8h
+mudbug    860031947  7  1 Bf  -     -     -         3261    5    0 
+mudbug    860031978  7  7 rc  c     k     b         3256   70  170 
+mudbug    860032047  8  6 rc  k     b     k         3356   60    0 7h Ts
+mudbug    860032092  8  4 f   -     -     -         3296    0    0 
+mudbug    860032175  7  3 f   -     -     -         3296    0    0 
+mudbug    860032228  6  2 Bk  kf    -     -         3296   10    0 
+mudbug    860032279  8  1 Brc kc    kf    -         3286   50    0 
+mudbug    860032382  9  9 KQ  -     -     -         3236    0    0 
+mudbug    860102367  6  3 c   b     -     -         2006   20   50 
+mudbug    860102411  5  2 Bf  -     -     -         2036   10    0 
+mudbug    860102432  5  1 Br  -     -     -         2026   20   30 
+mudbug    860102444  5  5 f   -     -     -         2036    0    0 
+mudbug    860102471  5  4 f   -     -     -         2036    0    0 
+mudbug    860102515  5  3 c   kc    kc    kc        2036   60    0 5c Kc
+mudbug    860102609  7  2 Bk  kf    -     -         1976   10    0 
+mudbug    860102686  9  1 Bc  kc    k     k         1966   30    0 7c Ac
+mudbug    860102746 10 10 c   c     f     -         1936   20    0 
+mudbug    860102823 10  9 r   b     k     k         1916   30    0 Ks Qd
+mudbug    860102885 11  9 c   k     f     -         1886   20    0 
+mudbug    860102963 10  7 f   -     -     -         1866    0    0 
+mudbug    860103012 10  7 c   b     b     k         1866   40   57 Kc 5c
+mudbug    860103100 10  6 cc  k     kf    -         1883   20    0 
+mudbug    860103165  8  4 f   -     -     -         1863    0    0 
+mudbug    860103198  8  4 f   -     -     -         1863    0    0 
+mudbug    860103245  9  3 f   -     -     -         1863    0    0 
+mudbug    860103299  8  2 Bf  -     -     -         1863   10    0 
+mudbug    860103393  9  1 Bf  -     -     -         1853    5    0 
+mudbug    860103460  9  9 r   b     bc    f         1848   70    0 
+mudbug    860103571 10  9 f   -     -     -         1778    0    0 
+mudbug    860103623 10  8 f   -     -     -         1778    0    0 
+mudbug    860103805  9  6 f   -     -     -         1778    0    0 
+mudbug    860103890 10  7 f   -     -     -         1778    0    0 
+mudbug    860103972 10  6 f   -     -     -         1778    0    0 
+mudbug    860103984 10  5 f   -     -     -         1778    0    0 
+mudbug    860104050  7  4 f   -     -     -         1778    0    0 
+mudbug    860104089  8  3 f   -     -     -         1778    0    0 
+mudbug    860104158  7  2 Bk  kf    -     -         1778   10    0 
+mudbug    860104211  7  1 Br  k     k     kf        1768   20    0 
+mudbug    860104243  7  7 f   -     -     -         1748    0    0 
+mudbug    860104281  7  6 f   -     -     -         1748    0    0 
+mudbug    860104311  7  5 cc  r     b     kc        1748   80    0 6d 4d
+mudbug    860104361  7  4 f   -     -     -         1668    0    0 
+mudbug    860104416  7  3 f   -     -     -         1668    0    0 
+mudbug    860104444  6  2 Bk  k     kf    -         1668   10    0 
+mudbug    860104496  6  1 Br  bc    kf    -         1658   40    0 
+mudbug    860104563  6  6 f   -     -     -         1618    0    0 
+mudbug    860104580  6  5 c   c     f     -         1618   20    0 
+mudbug    860104618  6  4 f   -     -     -         1598    0    0 
+mudbug    860104643  6  3 c   k     c     f         1598   30    0 
+mudbug    860104702  6  2 Bk  kf    -     -         1568   10    0 
+mudbug    860104739  6  1 Br  -     -     -         1558   20   30 
+mudbug    860104754  6  6 f   -     -     -         1568    0    0 
+mudbug    860104784  6  5 f   -     -     -         1568    0    0 
+mudbug    860104820  6  4 c   r     b     b         1568   70  180 Ac 4s
+mudbug    860104892  7  4 f   -     -     -         1678    0    0 
+mudbug    860104929  6  3 f   -     -     -         1678    0    0 
+mudbug    860104955  6  2 Bf  -     -     -         1678   10    0 
+mudbug    860105011  6  1 Br  k     k     b         1668   50   90 
+mudbug    860105044  6  6 f   -     -     -         1708    0    0 
+mudbug    860105096  6  5 r   b     -     -         1708   30   75 
+mudbug    860105138  7  4 c   c     c     b         1753   60  140 Kd Qh
+mudbug    860105186  7  3 f   -     -     -         1833    0    0 
+mudbug    860105212  7  2 Bk  kf    -     -         1833   10    0 
+mudbug    860105281  7  1 Bf  -     -     -         1823    5    0 
+mudbug    860105355  7  7 f   -     -     -         1818    0    0 
+mudbug    860105416  7  6 f   -     -     -         1818    0    0 
+mudbug    860105449  7  5 f   -     -     -         1818    0    0 
+mudbug    860105530  7  4 f   -     -     -         1818    0    0 
+mudbug    860105588  7  3 f   -     -     -         1818    0    0 
+mudbug    860105610  6  2 Bk  kc    kc    kf        1818   40    0 
+mudbug    860105709  5  1 Bc  kf    -     -         1778   10    0 
+mudbug    860105758  5  5 c   k     bf    -         1768   30    0 
+mudbug    860105795  5  4 f   -     -     -         1738    0    0 
+mudbug    860105808  5  3 f   -     -     -         1738    0    0 
+mudbug    860105837  4  2 B   -     -     -         1738   10   15 
+mudbug    860105857  5  1 Bf  -     -     -         1743    5    0 
+mudbug    860105934  6  6 r   -     -     -         1738   20   35 
+mudbug    860105953  6  5 f   -     -     -         1753    0    0 
+mudbug    860105962  6  4 f   -     -     -         1753    0    0 
+mudbug    860106025  7  4 c   b     b     f         1753   40    0 
+mudbug    860106074  7  3 c   br    bc    kc        1713  110  360 Ad As
+mudbug    860106255  8  2 BQ  -     -     -         1963   10    0 
+mudbug    860531982  4  3 rc  b     -     -         1953   40   85 
+mudbug    860532011  4  2 Bf  -     -     -         1998   10    0 
+mudbug    860532049  4  1 Bf  -     -     -         1988    5    0 
+mudbug    860532088  4  4 f   -     -     -         1983    0    0 
+mudbug    860532119  4  3 f   -     -     -         1983    0    0 
+mudbug    860532149  4  2 Bf  -     -     -         1983   10    0 
+mudbug    860532200  4  1 Bc  kc    kc    k         1973   40   90 3s Ah
+mudbug    860532275  4  4 f   -     -     -         2023    0    0 
+mudbug    860532430  4  3 ccc kc    cc    c         2023  110  157 9h Ah
+mudbug    860532433  4  2 Bk  k     b     k         2070   30   80 4s 6d
+mudbug    860532487  4  1 Bf  -     -     -         2120    5    0 
+mudbug    860532525  4  4 rr  b     b     c         2115   90    0 Qc Qd
+mudbug    860532618  5  4 f   -     -     -         2025    0    0 
+mudbug    860532665  5  3 cc  bc    rc    kc        2025  140  410 7c 5c
+mudbug    860532757  7  4 cc  kc    kc    k         2295   70  295 Kd Ah
+mudbug    860532878  8  5 f   -     -     -         2520    0    0 
+mudbug    860532952  7  3 f   -     -     -         2520    0    0 
+mudbug    860533168  6  2 Bf  -     -     -         2520   10    0 
+mudbug    860533223  7  1 Bf  -     -     -         2510    5    0 
+mudbug    860533257  7  7 c   f     -     -         2505   30    0 
+mudbug    860533369  6  5 rc  rc    f     -         2475   90    0 
+mudbug    860533459  6  4 f   -     -     -         2385    0    0 
+mudbug    860533497  5  3 f   -     -     -         2385    0    0 
+mudbug    860533573  4  2 Bk  b     -     -         2385   20   40 
+mudbug    860533664  4  1 Bf  -     -     -         2405    5    0 
+mudbug    860533665  5  5 f   -     -     -         2400    0    0 
+mudbug    860533667  5  5 f   -     -     -         2400    0    0 
+mudbug    860533698  5  4 r   b     b     k         2400   60    0 9h 9d
+mudbug    860533742  5  3 f   -     -     -         2340    0    0 
+mudbug    860533789  5  2 Bf  -     -     -         2340   10    0 
+mudbug    860533833  6  1 Brc kcc   kf    -         2330   70    0 
+mudbug    860533947  7  7 Q   -     -     -         2260    0    0 
+mudbug    860534893  4  3 f   -     -     -         2260    0    0 
+mudbug    860534950  4  2 Bcc bc    br    -         2260  120  320 
+mudbug    860535060  4  1 Bf  -     -     -         2460    5    0 
+mudbug    860535170  6  6 f   -     -     -         2455    0    0 
+mudbug    860535248  6  5 c   k     k     k         2455   10    0 8s 9h
+mudbug    860535365  6  4 c   k     Q     -         2445   10    0 
+mudbug    860552625 10  4 f   -     -     -         2435    0    0 
+mudbug    860552669 11  3 f   -     -     -         2435    0    0 
+mudbug    860552721 10  1 Br  k     bc    kc        2435   80    0 Ah Qs
+mudbug    860552811 10  1 Bc  kc    bc    kf        2355   70    0 
+mudbug    860552879 10 10 f   -     -     -         2285    0    0 
+mudbug    860552946 10  9 r   b     b     k         2285   50    0 Ts Td
+mudbug    860553004 10  8 c   c     f     -         2235   20    0 
+mudbug    860553063 10  7 r   rr    rrc   k         2215  170  385 As Qh
+mudbug    860553182 10  7 f   -     -     -         2430    0    0 
+mudbug    860553221  9  6 f   -     -     -         2430    0    0 
+mudbug    860553319  9  5 f   -     -     -         2430    0    0 
+mudbug    860553413  7  3 f   -     -     -         2430    0    0 
+mudbug    860553492  7  2 Bf  -     -     -         2430   10    0 
+mudbug    860553578  7  1 Bc  kc    k     b         2420   40   90 
+mudbug    860553636  6  6 r   b     k     c         2470   50    0 6s Js
+mudbug    860553692  6  5 c   b     k     k         2420   20    0 7d Jd
+mudbug    860553746  7  4 f   -     -     -         2400    0    0 
+mudbug    860553835  6  3 f   -     -     -         2400    0    0 
+mudbug    860553906  6  2 Bc  kc    kf    -         2400   30    0 
+mudbug    860553988  5  1 Bf  -     -     -         2370    5    0 
+mudbug    860554028  6  5 f   -     -     -         2365    0    0 
+mudbug    860554059  6  4 c   k     k     k         2365   10    0 Qd Ts
+mudbug    860554098  5  2 Bk  kf    -     -         2355   10    0 
+mudbug    860554120  5  1 Bf  -     -     -         2345    5    0 
+mudbug    860554148  5  5 f   -     -     -         2340    0    0 
+mudbug    860554163  5  4 c   c     f     -         2340   20    0 
+mudbug    860554223  5  3 f   -     -     -         2320    0    0 
+mudbug    860554276  5  2 Bf  -     -     -         2320   10    0 
+mudbug    860554330  6  1 Bc  kc    kf    -         2310   30    0 
+mudbug    860554388  6  6 f   -     -     -         2280    0    0 
+mudbug    860554422  6  5 f   -     -     -         2280    0    0 
+mudbug    860554478  5  4 c   k     f     -         2280   10    0 
+mudbug    860554509  5  3 f   -     -     -         2270    0    0 
+mudbug    860554536  5  2 Bf  -     -     -         2270   10    0 
+mudbug    860554558  5  1 Bf  -     -     -         2260    5    0 
+mudbug    860554611  5  5 r   bc    c     f         2255   60    0 
+mudbug    860554660  5  4 r   b     -     -         2195   30   65 
+mudbug    860554685  5  3 c   b     -     -         2230   20   35 
+mudbug    860554716  5  2 Bf  -     -     -         2245   10    0 
+mudbug    860554746  6  1 Br  bc    kc    k         2235   60  120 Ks As
+mudbug    860554803  7  7 f   -     -     -         2295    0    0 
+mudbug    860554865  7  6 c   k     c     c         2295   50    0 6s 8s
+mudbug    860554924  7  5 f   -     -     -         2245    0    0 
+mudbug    860554964  8  5 c   bc    c     c         2245   70   87 6d Ad
+mudbug    860555033  8  4 fQ  -     -     -         2262    0    0 
+mudbug    860665867  6  3 f   -     -     -         2262    0    0 
+mudbug    860665905  5  2 Bf  -     -     -         2262   10    0 
+mudbug    860665974  6  1 Bc  kc    kc    kf        2252   50    0 
+mudbug    860666014  6  6 f   -     -     -         2202    0    0 
+mudbug    860666055  6  5 f   -     -     -         2202    0    0 
+mudbug    860666092  6  4 f   -     -     -         2202    0    0 
+mudbug    860666152  6  3 f   -     -     -         2202    0    0 
+mudbug    860666239  6  2 Br  bc    b     -         2202   70  160 
+mudbug    860666292  6  1 Bf  -     -     -         2292    5    0 
+mudbug    860666429  6  6 r   b     b     b         2287   70  175 Ah Kd
+mudbug    860666479  6  5 f   -     -     -         2392    0    0 
+mudbug    860666529  6  4 r   r     c     k         2392   60  210 Kh Ac
+mudbug    860666598  6  3 c   k     b     -         2542   30   45 
+mudbug    860666637  6  2 Bf  -     -     -         2557   10    0 
+mudbug    860666689  5  1 Bf  -     -     -         2547    5    0 
+mudbug    860666711  4  4 r   c     c     r         2542   90  195 9h 8h
+mudbug    860666743  4  3 c   kc    kr    b         2647   80  210 Qs Ts
+mudbug    860666844  3  2 Bk  b     b     -         2777   40   70 
+mudbug    860666873  3  1 Bf  -     -     -         2807    5    0 
+mudbug    860666881  3  3 cc  c     c     k         2802   80    0 9s Tc
+mudbug    860666938  3  2 Bk  kf    -     -         2722   10    0 
+mudbug    860666965  3  1 Bf  -     -     -         2712    5    0 
+mudbug    860666972  3  3 r   -     -     -         2707   20   35 
+mudbug    860666996  3  2 Bc  kf    -     -         2722   20    0 
+mudbug    860667015  3  1 Bc  kf    -     -         2702   10    0 
+mudbug    860667063  3  3 f   -     -     -         2692    0    0 
+mudbug    860667094  3  2 B   -     -     -         2692   10   15 
+mudbug    860667103  3  1 Bf  -     -     -         2697    5    0 
+mudbug    860667133  3  3 f   -     -     -         2692    0    0 
+mudbug    860667144  3  2 Bk  b     k     k         2692   20    0 8c Jd
+mudbug    860667180  3  1 Bc  k     k     b         2672   30   40 
+mudbug    860667247  3  3 c   f     -     -         2682   10    0 
+mudbug    860667280  3  2 Bc  k     k     k         2672   20    0 4c 3d
+mudbug    860667344  3  1 Bf  -     -     -         2652    5    0 
+mudbug    860667354  3  3 c   b     -     -         2647   20   35 
+mudbug    860667372  4  2 Bk  kc    kc    kc        2662   60    0 Qh Kc
+mudbug    860667438  4  1 Bcc kf    -     -         2602   20    0 
+mudbug    860667512  4  4 f   -     -     -         2582    0    0 
+mudbug    860667580  3  3 c   b     b     -         2582   40   70 
+mudbug    860667629  3  2 Bc  f     -     -         2612   20    0 
+mudbug    860667641  3  1 Bc  kf    -     -         2592   10    0 
+mudbug    860667666  3  3 c   b     b     k         2582   40   85 Ad 7c
+mudbug    860667751  3  2 Bk  c     k     c         2627   40    0 2d 2c
+mudbug    860667781  4  1 Bf  -     -     -         2587    5    0 
+mudbug    860667790  4  4 f   -     -     -         2582    0    0 
+mudbug    860667805  4  3 f   -     -     -         2582    0    0 
+mudbug    860667817  4  2 Br  b     -     -         2582   30   55 
+mudbug    860667839  4  1 Bc  k     k     k         2607   10    0 Td 3d
+mudbug    860667861  4  4 f   -     -     -         2597    0    0 
+mudbug    860667884  4  3 f   -     -     -         2597    0    0 
+mudbug    860667900  4  2 Bf  -     -     -         2597   10    0 
+mudbug    860667924  4  1 Br  b     b     b         2587   70  120 
+mudbug    860667957  4  4 r   -     -     -         2637   20   35 
+mudbug    860667968  4  3 c   b     b     b         2652   60  130 
+mudbug    860668022  4  2 Bk  c     k     k         2722   20   50 Qc Kc
+mudbug    860668056  4  1 Bf  -     -     -         2752    5    0 
+mudbug    860668088  4  4 c   k     k     f         2747   10    0 
+mudbug    860668121  4  3 cc  Q     -     -         2737   20    0 
+mudbug    860668218  4  3 f   -     -     -         2717    0    0 
+mudbug    860668250  3  2 B   -     -     -         2717   10   15 
+mudbug    860668257  3  1 Bf  -     -     -         2722    5    0 
+mudbug    860668289  3  3 r   -     -     -         2717   20   35 
+mudbug    860668304  3  2 Bf  -     -     -         2732   10    0 
+mudbug    860668313  3  1 Bf  -     -     -         2722    5    0 
+mudbug    860668345  3  3 c   c     c     f         2717   40    0 
+mudbug    860668387  4  2 Bc  bc    kc    kc        2677   80    0 Ah 5d
+mudbug    860668417  3  1 Bf  -     -     -         2597    5    0 
+mudbug    860668427  3  3 r   -     -     -         2592   20   35 
+mudbug    860668437  3  2 B   -     -     -         2607   10   15 
+mudbug    860668444  3  1 Bc  k     k     k         2612   10   20 Kd 5h
+mudbug    860668467  3  3 f   -     -     -         2622    0    0 
+mudbug    860668488  4  3 f   -     -     -         2622    0    0 
+mudbug    860668499  4  2 Br  b     k     kc        2622   50    0 Ks Jh
+mudbug    860668541  4  1 Bc  kf    -     -         2572   20    0 
+mudbug    860668558  4  4 f   -     -     -         2552    0    0 
+mudbug    860668564  4  3 c   r     k     c         2552   50    0 Qd 8h
+mudbug    860668594  4  2 Bf  -     -     -         2502   10    0 
+mudbug    860668624  4  1 Bc  k     b     -         2492   30   50 
+mudbug    860668658  4  4 cc  c     c     c         2512   90    0 8h Ac
+mudbug    860668691  4  3 c   kf    -     -         2422   10    0 
+mudbug    860668718  4  2 B   -     -     -         2412   10   15 
+mudbug    860668728  4  1 Bcc kf    -     -         2417   20    0 
+mudbug    860668743  4  4 f   -     -     -         2397    0    0 
+mudbug    860668765  4  3 c   b     c     f         2397   40    0 
+mudbug    860668815  4  2 Br  k     b     -         2357   40   60 
+mudbug    860668850  4  1 Bf  -     -     -         2377    5    0 
+mudbug    860668861  4  4 cc  c     c     k         2372   50  110 Th 7s
+mudbug    860668890  4  3 c   k     b     -         2432   30   45 
+mudbug    860668965  4  2 Bk  kf    -     -         2447   10    0 
+mudbug    860669000  4  1 Bf  -     -     -         2437    5    0 
+mudbug    860669007  4  4 f   -     -     -         2432    0    0 
+mudbug    860669036  4  3 r   c     f     -         2432   30    0 
+mudbug    860669070  4  2 Bf  -     -     -         2402   10    0 
+mudbug    860669085  4  1 Bf  -     -     -         2392    5    0 
+mudbug    860669091  4  4 r   -     -     -         2387   20   35 
+mudbug    860669103  4  3 c   c     c     f         2402   40    0 
+mudbug    860669142  4  2 Bk  k     kf    -         2362   10    0 
+mudbug    860669165  4  1 Br  k     k     kc        2352   40    0 Ac Kh
+mudbug    860669222  4  4 rc  c     c     k         2312   70    0 Ac 4c
+mudbug    860669268  4  3 c   k     b     -         2242   30   55 
+mudbug    860669301  4  2 B   -     -     -         2267   10   15 
+mudbug    860669306  4  1 Bc  kc    k     k         2272   30    0 4d Ad
+mudbug    860669343  5  4 f   -     -     -         2242    0    0 
+mudbug    860669357  5  3 cc  f     -     -         2242   20    0 
+mudbug    860669401  5  2 Bk  k     k     k         2222   10    0 Qh 4c
+mudbug    860669456  5  1 Bf  -     -     -         2212    5    0 
+mudbug    860669497  5  5 rc  c     c     f         2207   60    0 
+mudbug    860669528  5  4 f   -     -     -         2147    0    0 
+mudbug    860669573  5  3 f   -     -     -         2147    0    0 
+mudbug    860669602  5  2 Br  c     f     -         2147   30    0 
+mudbug    860669635  5  1 Bcc kf    -     -         2117   20    0 
+mudbug    860669662  5  5 c   c     f     -         2097   20    0 
+mudbug    860669691  5  4 f   -     -     -         2077    0    0 
+mudbug    860669705  5  3 c   k     k     k         2077   10    0 9d Kc
+mudbug    860669742  5  2 Bk  k     k     k         2067   10   25 Ts 8d
+mudbug    860669767  5  1 Bcc kc    kf    -         2082   40    0 
+mudbug    860669819  4  4 f   -     -     -         2042    0    0 
+mudbug    860669829  4  3 rc  c     f     -         2042   50    0 
+mudbug    860669858  4  2 Bc  kc    kc    kr        1992   90  165 
+mudbug    860669898  4  1 Bf  -     -     -         2067    5    0 
+mudbug    860669908  4  4 c   c     c     r         2062   80  175 6d 8d
+mudbug    860669943  4  3 f   -     -     -         2157    0    0 
+mudbug    860669971  4  2 Bk  f     -     -         2157   10    0 
+mudbug    860669987  4  1 Bc  k     k     k         2147   10    0 6h Ks
+mudbug    860670014  4  4 f   -     -     -         2137    0    0 
+mudbug    860670071  4  3 rc  k     k     k         2137   30   75 As Js
+mudbug    860670096  4  2 Bk  b     k     k         2182   20   40 3h Qs
+mudbug    860670134  4  1 Bc  k     k     k         2202   10   20 Ah 4d
+mudbug    860670166  4  4 f   -     -     -         2212    0    0 
+mudbug    860670181  4  3 cc  bc    f     -         2212   40    0 
+mudbug    860670222  4  2 B   -     -     -         2172   10   15 
+mudbug    860670232  4  1 Bf  -     -     -         2177    5    0 
+mudbug    860670240  4  4 f   -     -     -         2172    0    0 
+mudbug    860670299  4  3 f   -     -     -         2172    0    0 
+mudbug    860670310  4  2 Bk  kc    kf    -         2172   20    0 
+mudbug    860670336  4  1 Bcc kc    k     b         2152   50  130 
+mudbug    860670380  4  4 cc  r     b     k         2232   60  125 Qc Th
+mudbug    860670413  4  3 c   c     c     k         2297   40   85 Ah Tc
+mudbug    860670438  4  2 B   -     -     -         2342   10   15 
+mudbug    860670449  4  1 Bc  kcc   k     kf        2347   30    0 
+mudbug    860670509  4  4 f   -     -     -         2317    0    0 
+mudbug    860670547  4  3 f   -     -     -         2317    0    0 
+mudbug    860670581  4  2 Bf  -     -     -         2317   10    0 
+mudbug    860670611  4  1 Bcc k     kf    -         2307   20    0 
+mudbug    860670660  4  4 cc  f     -     -         2287   20    0 
+mudbug    860670690  4  3 f   -     -     -         2267    0    0 
+mudbug    860670714  4  2 Br  cc    kf    -         2267   60    0 
+mudbug    860670755  4  1 Bf  -     -     -         2207    5    0 
+mudbug    860670784  4  4 f   -     -     -         2202    0    0 
+mudbug    860670812  4  3 f   -     -     -         2202    0    0 
+mudbug    860670837  4  2 Bc  f     -     -         2202   20    0 
+mudbug    860670854  4  1 Br  b     bc    kf        2182   70    0 
+mudbug    860670889  4  4 f   -     -     -         2112    0    0 
+mudbug    860670899  4  3 c   k     f     -         2112   10    0 
+mudbug    860670935  4  2 B   -     -     -         2102   10   15 
+mudbug    860670949  4  1 Bc  k     k     k         2107   10    0 3h 2d
+mudbug    860670968  4  4 f   -     -     -         2097    0    0 
+mudbug    860670978  4  3 f   -     -     -         2097    0    0 
+mudbug    860671015  4  2 Bc  k     kc    kf        2097   40    0 
+mudbug    860671057  4  1 Bf  -     -     -         2057    5    0 
+mudbug    860671066  4  4 f   -     -     -         2052    0    0 
+mudbug    860671073  4  3 f   -     -     -         2052    0    0 
+mudbug    860671085  4  2 Bk  b     -     -         2052   20   35 
+mudbug    860671108  4  1 Br  b     -     -         2067   30   60 
+mudbug    860671131  4  4 cc  b     -     -         2097   30   80 
+mudbug    860671167  4  3 f   -     -     -         2147    0    0 
+mudbug    860671181  4  2 Bc  kc    k     b         2147   50  105 9d Kc
+mudbug    860671207  4  1 Bcc bc    k     k         2202   40   80 Kc 4c
+mudbug    860671234  4  4 r   b     bc    c         2242   90    0 Kh Ks
+mudbug    860671264  4  3 f   -     -     -         2152    0    0 
+mudbug    860671288  4  2 Bf  -     -     -         2152   10    0 
+mudbug    860671309  4  1 Bf  -     -     -         2142    5    0 
+mudbug    860671315  4  4 f   -     -     -         2137    0    0 
+mudbug    860671323  4  3 f   -     -     -         2137    0    0 
+mudbug    860671355  4  2 Bf  -     -     -         2137   10    0 
+mudbug    860671363  4  1 Bf  -     -     -         2127    5    0 
+mudbug    860671384  4  4 r   -     -     -         2122   20   35 
+mudbug    860671392  4  3 f   -     -     -         2137    0    0 
+mudbug    860671416  5  2 Bf  -     -     -         2137   10    0 
+mudbug    860671457  5  1 Bf  -     -     -         2127    5    0 
+mudbug    860671494  5  5 f   -     -     -         2122    0    0 
+mudbug    860671506  5  4 f   -     -     -         2122    0    0 
+mudbug    860671544  5  3 f   -     -     -         2122    0    0 
+mudbug    860671559  5  2 Bf  -     -     -         2122   10    0 
+mudbug    860671593  5  1 Bf  -     -     -         2112    5    0 
+mudbug    860671619  6  6 f   -     -     -         2107    0    0 
+mudbug    860671637  6  5 rc  f     -     -         2107   30    0 
+mudbug    860671722  6  4 cc  c     c     b         2077   70  220 As 8s
+mudbug    860671776  6  3 f   -     -     -         2227    0    0 
+mudbug    860671811  6  2 Bf  -     -     -         2227   10    0 
+mudbug    860671820  6  1 Bc  b     b     -         2217   40   70 
+mudbug    860671846  6  6 f   -     -     -         2247    0    0 
+mudbug    860671880  6  5 ccc k     c     k         2247   50    0 5d Ah
+mudbug    860671930  6  4 cc  c     b     b         2197   70  160 
+mudbug    860671981  6  3 r   b     b     b         2287   70  135 
+mudbug    860672007  6  2 Bf  -     -     -         2352   10    0 
+mudbug    860672052  5  1 Bf  -     -     -         2342    5    0 
+mudbug    860672079  4  4 cc  f     -     -         2337   20    0 
+mudbug    860672100  4  3 f   -     -     -         2317    0    0 
+mudbug    860672109  4  2 Bf  -     -     -         2317   10    0 
+mudbug    860672157  5  1 Bf  -     -     -         2307    5    0 
+mudbug    860672203  5  5 f   -     -     -         2302    0    0 
+mudbug    860672236  5  4 f   -     -     -         2302    0    0 
+mudbug    860672268  5  3 cc  kf    -     -         2302   20    0 
+mudbug    860672311  5  2 Bk  kc    kc    kc        2282   60  125 Ts 9c
+mudbug    860672336  5  1 Bf  -     -     -         2347    5    0 
+mudbug    860672365  5  5 c   r     b     b         2342   90  215 Jc 9c
+mudbug    860672425  6  5 f   -     -     -         2467    0    0 
+mudbug    860672448  6  4 cc  kf    -     -         2467   20    0 
+mudbug    860672482  5  3 f   -     -     -         2447    0    0 
+mudbug    860672514  5  2 Bc  kf    -     -         2447   30    0 
+mudbug    860672570  4  1 Bc  b     k     b         2417   40   60 
+mudbug    860672611  4  4 f   -     -     -         2437    0    0 
+mudbug    860672629  4  3 c   b     -     -         2437   20   35 
+mudbug    860672657  4  2 Bk  k     b     k         2452   30   70 Ah Ts
+mudbug    860672688  4  1 Bf  -     -     -         2492    5    0 
+mudbug    860672707  4  4 f   -     -     -         2487    0    0 
+mudbug    860672728  4  3 rc  bc    kc    b         2487   90  175 
+mudbug    860672792  4  2 Bk  b     b     k         2572   40    0 4d Qd
+mudbug    860672836  4  1 Bc  bc    kc    k         2532   50   55 Kc Tc
+mudbug    860673019  2  2 f   -     -     -         2537    0    0 
+mudbug    860673030  2  2 Bf  -     -     -         2537   10    0 
+mudbug    860673038  2  1 Bc  k     b     -         2527   30   40 
+mudbug    860673053  2  2 B   -     -     -         2537   10   15 
+mudbug    860673054  2  1 Bf  -     -     -         2542    5    0 
+mudbug    860673066  2  2 B   -     -     -         2537   10   15 
+mudbug    860673069  2  1 Bcc b     b     b         2542   70  140 Th Qd
+mudbug    860673094  2  2 Bf  -     -     -         2612   10    0 
+mudbug    860673102  2  1 Bcc kc    krr   k         2602  110  220 Ah 8c
+mudbug    860673130  2  2 B   -     -     -         2712   10   15 
+mudbug    860673134  2  1 Bc  k     bc    k         2717   50  100 9d Ts
+mudbug    860673157  2  2 B   -     -     -         2767   10   15 
+mudbug    860673160  2  1 BQ  -     -     -         2772    5    0 
+mudbug    860725462  9  4 r   b     -     -         2767   30   65 
+mudbug    860725560  8  2 f   -     -     -         2802    0    0 
+mudbug    860725612  8  2 Bk  f     -     -         2802   10    0 
+mudbug    860725743  7  1 Bf  -     -     -         2792    5    0 
+mudbug    860725783  7  7 f   -     -     -         2787    0    0 
+mudbug    860725840  7  6 f   -     -     -         2787    0    0 
+mudbug    860725878  7  5 f   -     -     -         2787    0    0 
+mudbug    860725929  8  5 f   -     -     -         2787    0    0 
+mudbug    860725992  9  5 f   -     -     -         2787    0    0 
+mudbug    860726071  9  4 c   k     kc    kf        2787   30    0 
+mudbug    860726146  9  3 f   -     -     -         2757    0    0 
+mudbug    860726212  9  2 Bc  kc    k     k         2757   30   85 Jh 8h
+mudbug    860726279  8  1 Bf  -     -     -         2812    5    0 
+mudbug    860726330  8  8 f   -     -     -         2807    0    0 
+mudbug    860726380  8  7 r   r     b     -         2807   70  165 
+mudbug    860726437  7  5 f   -     -     -         2902    0    0 
+mudbug    860726459  7  4 r   k     kc    k         2902   40   95 Kd Ad
+mudbug    860726509  8  3 c   kc    k     k         2957   20    0 8h 6h
+mudbug    860726627  8  2 Bf  -     -     -         2937   10    0 
+mudbug    860726680  8  1 Bc  kf    -     -         2927   20    0 
+mudbug    860726746  8  8 c   b     k     k         2907   20   55 5c 5d
+mudbug    860726790  8  7 f   -     -     -         2942    0    0 
+mudbug    860726825  7  5 f   -     -     -         2942    0    0 
+mudbug    860726835  7  5 c   f     -     -         2942   20    0 
+mudbug    860726911  6  4 f   -     -     -         2922    0    0 
+mudbug    860727016  7  3 c   bcc   kf    -         2922   50    0 
+mudbug    860727112  7  2 Bf  -     -     -         2872   10    0 
+mudbug    860727174  7  1 Bc  kc    kc    kr        2862   90  190 
+mudbug    860727219  7  7 f   -     -     -         2962    0    0 
+mudbug    860727264  7  6 f   -     -     -         2962    0    0 
+mudbug    860727332  7  5 f   -     -     -         2962    0    0 
+mudbug    860727435  7  4 f   -     -     -         2962    0    0 
+mudbug    860727486  7  3 f   -     -     -         2962    0    0 
+mudbug    860727500  7  2 Bf  -     -     -         2962   10    0 
+mudbug    860727569  8  1 Bf  -     -     -         2952    5    0 
+mudbug    860727592  8  8 f   -     -     -         2947    0    0 
+mudbug    860727611  8  7 f   -     -     -         2947    0    0 
+mudbug    860727714  7  5 f   -     -     -         2947    0    0 
+mudbug    860727725  7  4 cc  c     c     f         2947   60    0 
+mudbug    860727794  8  3 f   -     -     -         2887    0    0 
+mudbug    860727850 10  2 Bk  kc    kc    kf        2887   40    0 
+mudbug    860727933 10  1 Bf  -     -     -         2847    5    0 
+mudbug    860728006 10 10 f   -     -     -         2842    0    0 
+mudbug    860728101 10  9 f   -     -     -         2842    0    0 
+mudbug    860728164 10  8 c   f     -     -         2842   20    0 
+mudbug    860728260 10  7 c   b     b     f         2822   40    0 
+mudbug    860728331 11  7 f   -     -     -         2782    0    0 
+mudbug    860728411 11  6 f   -     -     -         2782    0    0 
+mudbug    860728493 11  5 f   -     -     -         2782    0    0 
+mudbug    860728615 11  3 Q   -     -     -         2782    0    0 
+mudbug    860768530  2  1 Bc  b     -     -         2932   20   30 
+mudbug    860768542  2  2 Bk  k     f     -         2942   10    0 
+mudbug    860768562  2  1 Bc  bc    kc    k         2932   50    0 Jc 8h
+mudbug    860768593  2  2 Bk  k     k     b         2882   30   40 
+mudbug    860768618  2  1 Bf  -     -     -         2892    5    0 
+mudbug    860768626  2  2 Bk  k     f     -         2887   10    0 
+mudbug    860768644  2  1 Br  -     -     -         2877   20   30 
+mudbug    860768651  2  2 Bk  b     -     -         2887   20   30 
+mudbug    860768668  2  1 Bc  b     b     -         2897   40   60 
+mudbug    860768684  2  2 B   -     -     -         2917   10   15 
+mudbug    860768689  2  1 Bc  k     k     k         2922   10   20 2d Ad
+mudbug    860768710  2  2 Bk  b     -     -         2932   20   30 
+mudbug    860768727  2  1 Bf  -     -     -         2942    5    0 
+mudbug    860768734  2  2 Bk  k     b     -         2937   30   40 
+mudbug    860768754  2  1 Bc  kf    -     -         2947   10    0 
+mudbug    860768769  3  3 f   -     -     -         2937    0    0 
+mudbug    860768777  3  2 B   -     -     -         2937   10   15 
+mudbug    860768829  3  1 Brc kc    kc    kc        2942   90    0 Jc Js
+mudbug    860768833  3  3 f   -     -     -         2852    0    0 
+mudbug    860768842  3  2 B   -     -     -         2852   10   15 
+mudbug    860768849  3  1 Bf  -     -     -         2857    5    0 
+mudbug    860768869  3  3 r   -     -     -         2852   20   35 
+mudbug    860768878  3  2 Bk  bc    r     k         2867   70  150 Kc 4d
+mudbug    860768910  3  1 Bc  kf    -     -         2947   20    0 
+mudbug    860768945  4  4 f   -     -     -         2927    0    0 
+mudbug    860768966  4  3 r   c     rc    k         2927   90    0 9h 9c
+mudbug    860769012  4  2 Bc  cf    -     -         2837   30    0 
+mudbug    860769055  4  1 Bc  bc    kc    k         2807   60   65 5d Qd
+mudbug    860769091  4  4 r   b     -     -         2812   30   65 
+mudbug    860769116  4  3 c   k     c     k         2847   30    0 5c Tc
+mudbug    860769151  4  2 Bf  -     -     -         2817   10    0 
+mudbug    860769160  4  1 Bf  -     -     -         2807    5    0 
+mudbug    860769174  4  4 f   -     -     -         2802    0    0 
+mudbug    860769197  4  3 c   b     -     -         2802   20   35 
+mudbug    860769215  4  2 Brc c     kc    kf        2817   70    0 
+mudbug    860769269  4  1 Bf  -     -     -         2747    5    0 
+mudbug    860769279  4  4 f   -     -     -         2742    0    0 
+mudbug    860769305  4  3 r   b     b     bc        2742   90    0 Td Kc
+mudbug    860769340  4  2 Bk  kf    -     -         2652   10    0 
+mudbug    860769362  4  1 Bf  -     -     -         2642    5    0 
+mudbug    860769370  4  4 r   b     -     -         2637   30   55 
+mudbug    860769390  4  3 c   kf    -     -         2662   10    0 
+mudbug    860769419  4  2 Bc  c     k     f         2652   30    0 
+mudbug    860769444  4  1 Bf  -     -     -         2622    5    0 
+mudbug    860769489  5  5 r   -     -     -         2617   20   35 
+mudbug    860769502  5  4 f   -     -     -         2632    0    0 
+mudbug    860769531  5  3 f   -     -     -         2632    0    0 
+mudbug    860769543  5  2 Bf  -     -     -         2632   10    0 
+mudbug    860769560  4  1 Br  bc    k     k         2622   40  110 Js Qh
+mudbug    860769602  5  5 r   k     b     k         2692   50  110 Ks Ts
+mudbug    860769645  5  5 f   -     -     -         2752    0    0 
+mudbug    860769688  5  4 f   -     -     -         2752    0    0 
+mudbug    860769741  5  3 c   b     b     -         2752   40   65 
+mudbug    860769743  5  2 Bc  kc    kc    kf        2777   50    0 
+mudbug    860769775  5  1 Br  bc    b     b         2727   90  190 Ks Th
+mudbug    860769807  5  5 f   -     -     -         2827    0    0 
+mudbug    860769853  5  4 r   b     k     k         2827   30    0 Ad Js
+mudbug    860769881  5  3 c   k     k     k         2797   10    0 7s 9d
+mudbug    860769912  5  2 B   -     -     -         2787   10   15 
+mudbug    860769918  5  1 Bf  -     -     -         2792    5    0 
+mudbug    860769935  5  5 f   -     -     -         2787    0    0 
+mudbug    860769959  5  4 f   -     -     -         2787    0    0 
+mudbug    860769972  5  3 c   k     b     -         2787   30   45 
+mudbug    860769995  5  2 Bf  -     -     -         2802   10    0 
+mudbug    860770024  5  1 Br  -     -     -         2792   20   30 
+mudbug    860770039  5  5 c   r     b     b         2802   70  145 4s Js
+mudbug    860770075  5  4 f   -     -     -         2877    0    0 
+mudbug    860770104  5  3 f   -     -     -         2877    0    0 
+mudbug    860770113  6  2 Bc  kc    kc    kc        2877   70  195 5h 3h
+mudbug    860770158  6  1 Bf  -     -     -         3002    5    0 
+mudbug    860770170  6  6 r   k     c     f         2997   40    0 
+mudbug    860770226  6  5 f   -     -     -         2957    0    0 
+mudbug    860770264  6  4 f   -     -     -         2957    0    0 
+mudbug    860770306  6  3 f   -     -     -         2957    0    0 
+mudbug    860770319  6  2 Bk  kf    -     -         2957   10    0 
+mudbug    860770340  5  1 Br  k     k     b         2947   40   60 
+mudbug    860770369  6  6 rc  rc    c     c         2967  100    0 3s Kc
+mudbug    860770408  6  5 cc  f     -     -         2867   20    0 
+mudbug    860770431  6  4 f   -     -     -         2847    0    0 
+mudbug    860770467  6  3 f   -     -     -         2847    0    0 
+mudbug    860770494  6  2 Bk  b     -     -         2847   20   60 
+mudbug    860770513  6  1 Bc  kf    -     -         2887   20    0 
+mudbug    860770537  7  7 f   -     -     -         2867    0    0 
+mudbug    860770553  7  6 f   -     -     -         2867    0    0 
+mudbug    860770592  7  5 r   b     -     -         2867   30   85 
+mudbug    860770619  7  4 f   -     -     -         2922    0    0 
+mudbug    860770647  7  3 f   -     -     -         2922    0    0 
+mudbug    860770694  7  2 Bk  kf    -     -         2922   10    0 
+mudbug    860770754  7  1 Bc  k     k     kf        2912   10    0 
+mudbug    860770804  7  7 c   f     -     -         2902   20    0 
+mudbug    860770834  7  6 rc  f     -     -         2882   30    0 
+mudbug    860770867  7  5 cc  b     kf    -         2852   30    0 
+mudbug    860770966  7  4 f   -     -     -         2822    0    0 
+mudbug    860771027  5  2 Bf  -     -     -         2822   10    0 
+mudbug    860771084  5  1 Bf  -     -     -         2812    5    0 
+mudbug    860771114  5  5 r   r     b     k         2807   60    0 2h Qh
+mudbug    860771154  5  4 Q   -     -     -         2747    0    0 
+mudbug    860773470  4  3 cc  kc    k     b         2747   50  135 Kc 5h
+mudbug    860773519  4  2 Bc  k     kf    -         2832   20    0 
+mudbug    860773560  4  1 Bf  -     -     -         2812    5    0 
+mudbug    860773598  4  4 r   k     b     k         2807   50   57 Tc Ks
+mudbug    860773703  5  3 rc  kc    k     k         2814   40    0 Ah Jh
+mudbug    860774101  3  1 Bf  -     -     -         2619    5    0 
+mudbug    860774132  3  3 r   bc    c     k         2614   60  125 Jd As
+mudbug    860774163  3  2 B   -     -     -         2679   10   15 
+mudbug    860774170  3  1 Bf  -     -     -         2684    5    0 
+mudbug    860774171  3  3 r   -     -     -         2679   20   35 
+mudbug    860774179  3  2 B   -     -     -         2694   10   15 
+mudbug    860774183  3  1 Bc  b     -     -         2699   30   60 
+mudbug    860774204  3  3 f   -     -     -         2729    0    0 
+mudbug    860774215  3  2 Br  bc    k     k         2729   40   80 4d 4c
+mudbug    860774241  3  1 Bf  -     -     -         2769    5    0 
+mudbug    860774264  3  3 f   -     -     -         2764    0    0 
+mudbug    860774294  3  2 Bk  b     -     -         2764   20   40 
+mudbug    860774309  3  1 Bc  k     krc   kc        2784  100    0 Tc 9c
+mudbug    860774342  3  3 r   b     k     b         2684   50   90 
+mudbug    860774377  3  2 B   -     -     -         2724   10   15 
+mudbug    860774382  3  1 Bf  -     -     -         2729    5    0 
+mudbug    860774389  3  3 r   b     c     k         2724   50    0 As 7h
+mudbug    860774424  3  2 Bc  kc    k     b         2674   50   85 
+mudbug    860774476  3  1 Bf  -     -     -         2709    5    0 
+mudbug    860774489  3  3 f   -     -     -         2704    0    0 
+mudbug    860774498  3  2 Bk  f     -     -         2704   10    0 
+mudbug    860774526  3  1 Bc  kr    -     -         2694   30   50 
+mudbug    860774557  3  3 f   -     -     -         2714    0    0 
+mudbug    860774568  3  2 B   -     -     -         2714   10   15 
+mudbug    860774601  2  1 Br  -     -     -         2719   20   30 
+mudbug    860774609  2  2 BQ  -     -     -         2729   10    0 
+mudbug    860786553 10  2 Bf  -     -     -         2719   10    0 
+mudbug    860786841 12  1 Bf  -     -     -         2709    5    0 
+mudbug    860787026 12 12 f   -     -     -         2704    0    0 
+mudbug    860787027 12 11 cc  f     -     -         2704   40    0 
+mudbug    860787083 11  9 rc  kc    kc    k         2664   70    0 8d 8h
+mudbug    860787240  7  2 Q   -     -     -         2594    0    0 
+mudbug    860788250  8  4 cc  kc    kc    kc        2594   70    0 8s 8h
+mudbug    860788303  8  3 c   k     kf    -         2524   10    0 
+mudbug    860788869  5  2 Bc  b     b     -         2619   50   85 
+mudbug    860788890  5  1 Bc  b     -     -         2654   20   40 
+mudbug    860788944  5  5 f   -     -     -         2674    0    0 
+mudbug    860788947  5  4 c   c     c     b         2674   60  125 8d Ah
+mudbug    860788974  5  3 cc  c     c     kf        2739   50    0 
+mudbug    860789090  5  2 Bc  kf    -     -         2689   20    0 
+mudbug    860789115  5  1 Bf  -     -     -         2669    5    0 
+mudbug    860789143  5  5 r   k     k     k         2664   20    0 2s 2c
+mudbug    860789348  5  5 c   b     k     f         2644   20    0 
+mudbug    860789350  6  5 f   -     -     -         2624    0    0 
+mudbug    860789358  5  4 f   -     -     -         2624    0    0 
+mudbug    860789392  6  3 cc  f     -     -         2624   20    0 
+mudbug    860789490  4  1 Bf  -     -     -         2604   10    0 
+mudbug    860789504  4  1 Bc  kf    -     -         2594   20    0 
+mudbug    860789562  5  4 Q   -     -     -         2574    0    0 
+mudbug    860871045  5  5 r   b     b     -         1524   50  115 
+mudbug    860871089  5  4 c   c     f     -         1589   20    0 
+mudbug    860871154  5  3 cc  c     cc    kf        1569   70    0 
+mudbug    860871249  6  2 Bc  k     k     kf        1499   20    0 
+mudbug    860871377  5  1 Bcc bc    kc    kc        1479   80    0 Qh 8c
+mudbug    860871443  6  6 f   -     -     -         1399    0    0 
+mudbug    860871544  7  5 f   -     -     -         1399    0    0 
+mudbug    860871598  8  4 f   -     -     -         1399    0    0 
+mudbug    860871645  8  3 f   -     -     -         1399    0    0 
+mudbug    860871761  7  2 Bf  -     -     -         1399   10    0 
+mudbug    860871799  7  1 Bf  -     -     -         1389    5    0 
+mudbug    860871865  8  8 f   -     -     -         1384    0    0 
+mudbug    860871931  8  7 cc  k     c     f         1384   40    0 
+mudbug    860872069  8  6 r   b     b     -         1344   50  150 
+mudbug    860872136  7  5 f   -     -     -         1444    0    0 
+mudbug    860872236  9  4 f   -     -     -         1444    0    0 
+mudbug    860872321  8  2 Bf  -     -     -         1444   10    0 
+mudbug    860872384  8  1 Bf  -     -     -         1434    5    0 
+mudbug    860872473  8  8 f   -     -     -         1429    0    0 
+mudbug    860872513  9  8 r   b     b     k         1429   50  135 Kd 9c
+mudbug    860872588  8  7 cc  b     b     bc        1514   90    0 Qc Kd
+mudbug    860872671  9  6 f   -     -     -         1424    0    0 
+mudbug    860872715  9  4 f   -     -     -         1424    0    0 
+mudbug    860872768 10  3 f   -     -     -         1424    0    0 
+mudbug    860872875 10  2 Bc  kf    -     -         1424   20    0 
+mudbug    860873040  9  1 Bc  k     kf    -         1404   10    0 
+mudbug    860873151  6  6 f   -     -     -         1394    0    0 
+mudbug    860873219  6  6 c   b     b     -         1394   40   80 
+mudbug    860873342  6  5 fQ  -     -     -         1434    0    0 
+mudbug    860873678  7  4 f   -     -     -         1434    0    0 
+mudbug    860873756  7  3 c   kc    kc    kf        1434   40    0 
+mudbug    860873815  7  2 Bk  k     f     -         1394   10    0 
+mudbug    860873859  7  1 Bf  -     -     -         1384    5    0 
+mudbug    860873996  5  5 f   -     -     -         1379    0    0 
+mudbug    860874038  5  5 rc  c     f     -         1379   50    0 
+mudbug    860874130  8  5 c   r     b     -         1329   50  115 
+mudbug    860874189  8  4 f   -     -     -         1394    0    0 
+mudbug    860874259  8  3 f   -     -     -         1394    0    0 
+mudbug    860874367  8  2 Bk  k     kf    -         1394   10    0 
+mudbug    860874402  8  1 Bf  -     -     -         1384    5    0 
+mudbug    860874639  9  9 f   -     -     -         1379    0    0 
+mudbug    860874832  6  5 f   -     -     -         1379    0    0 
+mudbug    860874952  7  5 f   -     -     -         1379    0    0 
+mudbug    860875051  7  4 f   -     -     -         1379    0    0 
+mudbug    860875127  7  3 f   -     -     -         1379    0    0 
+mudbug    860875159  7  2 Bk  k     b     -         1379   30   55 
+mudbug    860875193  7  1 Bf  -     -     -         1404    5    0 
+mudbug    860875263  7  7 r   b     b     k         1399   50  145 As Js
+mudbug    860875312  7  6 f   -     -     -         1494    0    0 
+mudbug    860875382  7  5 f   -     -     -         1494    0    0 
+mudbug    860875450  7  3 Q   -     -     -         1494    0    0 
+mudbug    860939735  3  3 c   c     k     f         1494   20    0 
+mudbug    860939763  3  2 Bf  -     -     -         1474   10    0 
+mudbug    860939770  3  1 Bf  -     -     -         1464    5    0 
+mudbug    860939784  3  3 r   b     b     -         1459   50   85 
+mudbug    860939802  4  2 Bc  c     c     k         1494   50    0 9d Tc
+mudbug    860939821  4  1 Bf  -     -     -         1444    5    0 
+mudbug    860939830  4  4 f   -     -     -         1439    0    0 
+mudbug    860939846  4  3 f   -     -     -         1439    0    0 
+mudbug    860939865  4  2 Bf  -     -     -         1439   10    0 
+mudbug    860939877  4  1 Bc  b     -     -         1429   30   70 
+mudbug    860939895  4  4 c   c     k     k         1469   20   45 7c 7d
+mudbug    860939922  5  3 f   -     -     -         1494    0    0 
+mudbug    860939936  5  2 Bk  b     b     k         1494   40    0 3d 8d
+mudbug    860939967  5  1 Bf  -     -     -         1454    5    0 
+mudbug    860939992  5  5 f   -     -     -         1449    0    0 
+mudbug    860940015  5  4 f   -     -     -         1449    0    0 
+mudbug    860940029  5  3 f   -     -     -         1449    0    0 
+mudbug    860940055  5  2 Bk  k     k     kf        1449   10    0 
+mudbug    860940085  5  1 Bf  -     -     -         1439    5    0 
+mudbug    860940100  5  5 f   -     -     -         1434    0    0 
+mudbug    860940113  5  4 f   -     -     -         1434    0    0 
+mudbug    860940132  5  3 f   -     -     -         1434    0    0 
+mudbug    860940165  5  2 Bk  k     kf    -         1434   10    0 
+mudbug    860940192  5  1 Bf  -     -     -         1424    5    0 
+mudbug    860940213  5  5 r   c     k     k         1419   30   85 6c Ah
+mudbug    860940244  5  4 f   -     -     -         1474    0    0 
+mudbug    860940271  5  3 f   -     -     -         1474    0    0 
+mudbug    860940319  6  2 Bk  br    b     b         1474   80  165 Ac Jd
+mudbug    860940361  7  1 Bc  k     k     k         1559   10   30 5s 5h
+mudbug    860940393  7  7 f   -     -     -         1579    0    0 
+mudbug    860940416  7  6 f   -     -     -         1579    0    0 
+mudbug    860940476  6  4 r   b     -     -         1579   30   60 
+mudbug    860940495  6  3 f   -     -     -         1609    0    0 
+mudbug    860940508  6  2 Bf  -     -     -         1609   10    0 
+mudbug    860940616  5  1 Br  kc    kc    kf        1599   50    0 
+mudbug    860940668  6  6 f   -     -     -         1549    0    0 
+mudbug    860940677  5  4 f   -     -     -         1549    0    0 
+mudbug    860940705  5  3 r   -     -     -         1549   20   35 
+mudbug    860940719  5  2 Bf  -     -     -         1564   10    0 
+mudbug    860940757  5  1 Bf  -     -     -         1554    5    0 
+mudbug    860940835  5  5 c   bc    k     k         1549   30   65 9h Ts
+mudbug    860940892  5  4 f   -     -     -         1584    0    0 
+mudbug    860940903  6  3 f   -     -     -         1584    0    0 
+mudbug    860940920  6  2 B   -     -     -         1584   10   15 
+mudbug    860940929  6  1 Bc  kf    -     -         1589   10    0 
+mudbug    860940983  8  8 r   f     -     -         1579   20    0 
+mudbug    860941065  8  7 f   -     -     -         1559    0    0 
+mudbug    860941179  6  4 r   b     k     k         1559   30   80 Ah 2h
+mudbug    860941217  7  5 cc  k     f     -         1609   20    0 
+mudbug    860941284  7  4 r   b     k     k         1589   30   75 Kd Td
+mudbug    860941320  7  3 f   -     -     -         1634    0    0 
+mudbug    860941349  7  2 Bk  kf    -     -         1634   10    0 
+mudbug    860941380  7  1 Bf  -     -     -         1624    5    0 
+mudbug    860941474  7  7 f   -     -     -         1619    0    0 
+mudbug    860941543  7  6 c   f     -     -         1619   10    0 
+mudbug    860941582  7  5 c   rc    b     b         1609   80  230 As 4h
+mudbug    860941672  8  4 c   k     k     kf        1759   20    0 
+mudbug    860941774  8  3 cc  kc    kQ    -         1739   30    0 
+mudbug    860954738 10  3 f   -     -     -         1709    0    0 
+mudbug    860954902  9  2 Bf  -     -     -         1709   10    0 
+mudbug    860955060  9  1 Bf  -     -     -         1699    5    0 
+mudbug    860955134  9  8 f   -     -     -         1694    0    0 
+mudbug    860955209  8  6 f   -     -     -         1694    0    0 
+mudbug    860955279  8  5 c   c     f     -         1694   20    0 
+mudbug    860955339  7  3 f   -     -     -         1674    0    0 
+mudbug    860955405  7  2 Bk  c     f     -         1674   20    0 
+mudbug    860955444  7  1 Bc  kf    -     -         1654   10    0 
+mudbug    860955534  8  8 fQ  -     -     -         1644    0    0 
+mudbug    860956632  6  4 fQ  -     -     -         1644    0    0 
+mudbug    860957206  7  6 f   -     -     -         1644    0    0 
+mudbug    860957236  7  5 c   f     -     -         1644   10    0 
+mudbug    860957288  8  4 f   -     -     -         1634    0    0 
+mudbug    860957338  8  3 f   -     -     -         1634    0    0 
+mudbug    860957391  8  2 Bf  -     -     -         1634   10    0 
+mudbug    860957444  8  1 Bf  -     -     -         1624    5    0 
+mudbug    860957505  8  8 r   c     k     k         1619   30    0 Kd 5d
+mudbug    860957566  8  7 f   -     -     -         1589    0    0 
+mudbug    860957590  8  6 f   -     -     -         1589    0    0 
+mudbug    860957631  8  5 c   b     b     k         1589   40  150 Ad Qs
+mudbug    860957680  8  3 f   -     -     -         1699    0    0 
+mudbug    860957743  8  2 Bk  k     kc    kf        1699   30    0 
+mudbug    860957818  8  1 Bf  -     -     -         1669    5    0 
+mudbug    860957870  8  8 r   c     f     -         1664   30    0 
+mudbug    860957939  8  7 cc  br    b     bc        1634  110  425 4c 4h
+mudbug    860958038  9  7 f   -     -     -         1949    0    0 
+mudbug    860958110 10  7 r   f     -     -         1949   20    0 
+mudbug    860958187  9  6 f   -     -     -         1929    0    0 
+mudbug    860958232  9  5 f   -     -     -         1929    0    0 
+mudbug    860958264  9  4 c   k     kc    kf        1929   30    0 
+mudbug    860958428  9  3 f   -     -     -         1899    0    0 
+mudbug    860958478  8  2 Bk  kf    -     -         1899   10    0 
+mudbug    860958576  8  1 Bf  -     -     -         1889    5    0 
+mudbug    860958652  8  5 Q   -     -     -         1884    0    0 
+mudbug    860959136  8  6 Q   -     -     -         1884    0    0 
+mudbug    860959256  7  4 c   k     f     -         1884   10    0 
+mudbug    860959301  7  3 f   -     -     -         1874    0    0 
+mudbug    860959344  7  2 Bf  -     -     -         1874   10    0 
+mudbug    860959387  7  1 Bf  -     -     -         1864    5    0 
+mudbug    860959432  7  7 f   -     -     -         1859    0    0 
+mudbug    860959481  7  6 cc  k     k     c         1859   40    0 9h Ts
+mudbug    860959566  7  5 c   f     -     -         1819   10    0 
+mudbug    860959649  7  4 f   -     -     -         1809    0    0 
+mudbug    860959685  8  3 f   -     -     -         1809    0    0 
+mudbug    860959751  8  2 Bk  b     -     -         1809   20   30 
+mudbug    860959777  8  1 Bf  -     -     -         1819    5    0 
+mudbug    860959815  8  8 c   b     -     -         1814   20   50 
+mudbug    860959858  8  7 f   -     -     -         1844    0    0 
+mudbug    860959898  8  6 c   f     -     -         1844   20    0 
+mudbug    860959953  8  5 f   -     -     -         1824    0    0 
+mudbug    860960011  8  4 f   -     -     -         1824    0    0 
+mudbug    860960064  8  3 f   -     -     -         1824    0    0 
+mudbug    860960095  8  2 Bf  -     -     -         1824   10    0 
+mudbug    860960158  8  1 Bcc kf    -     -         1814   20    0 
+mudbug    860960245  9  9 f   -     -     -         1794    0    0 
+mudbug    860960346  9  8 f   -     -     -         1794    0    0 
+mudbug    860960459  9  7 c   k     f     -         1794   10    0 
+mudbug    860960534 10  7 r   rr    bc    rc        1784  180  630 Qs Qh
+mudbug    860960653  9  6 f   -     -     -         2234    0    0 
+mudbug    860960690 10  5 f   -     -     -         2234    0    0 
+mudbug    860960796  9  4 Q   -     -     -         2234    0    0 
+mudbug    860980681  7  4 ccc f     -     -         2234   40    0 
+mudbug    860980767  7  4 f   -     -     -         2194    0    0 
+mudbug    860980821  7  2 Bc  kc    kf    -         2194   30    0 
+mudbug    860980893  7  1 Br  b     b     b         2164   70  160 
+mudbug    860980937  7  7 f   -     -     -         2254    0    0 
+mudbug    860980974  7  6 rc  rc    c     bc        2254  130  365 Qh Th
+mudbug    860981040  7  5 f   -     -     -         2489    0    0 
+mudbug    860981093  7  4 f   -     -     -         2489    0    0 
+mudbug    860981225  6  3 f   -     -     -         2489    0    0 
+mudbug    860981278  6  2 Bf  -     -     -         2489   10    0 
+mudbug    860981359  5  1 Bf  -     -     -         2479    5    0 
+mudbug    860981372  5  5 cc  ccc   cc    f         2474  140    0 
+mudbug    860981442  5  4 cc  kc    ccc   ccc       2334  190    0 Td Kh
+mudbug    860981553  6  3 f   -     -     -         2144    0    0 
+mudbug    860981614  6  2 Bf  -     -     -         2144   10    0 
+mudbug    860981623  5  1 Bf  -     -     -         2134    5    0 
+mudbug    860981641  5  5 f   -     -     -         2129    0    0 
+mudbug    860981677  4  4 rc  b     b     -         2129   60  145 
+mudbug    860981719  4  3 cc  kc    kf    -         2214   30    0 
+mudbug    860981749  5  2 Bf  -     -     -         2184   10    0 
+mudbug    860981779  5  1 Bf  -     -     -         2174    5    0 
+mudbug    860981823  5  5 c   r     bc    rc        2169  140  295 8h Th
+mudbug    860981872  5  4 rc  c     c     c         2324   80    0 Ad Kc
+mudbug    860981907  5  3 c   b     c     rr        2244  120  340 5d 5h
+mudbug    860981978  5  2 Bc  kc    kf    -         2464   30    0 
+mudbug    860982022  6  1 Bf  -     -     -         2434    5    0 
+mudbug    860982063  6  6 f   -     -     -         2429    0    0 
+mudbug    860982102  6  5 f   -     -     -         2429    0    0 
+mudbug    860982138  6  4 r   b     bc    c         2429   90  230 9c 9d
+mudbug    860982192  6  3 f   -     -     -         2569    0    0 
+mudbug    860982209  6  2 Bc  kc    kf    -         2569   30    0 
+mudbug    860982248  6  1 Bf  -     -     -         2539    5    0 
+mudbug    860982270  6  6 c   c     c     c         2534   70  155 Qc 8c
+mudbug    860982299  6  5 f   -     -     -         2619    0    0 
+mudbug    860982324  6  4 f   -     -     -         2619    0    0 
+mudbug    860982340  6  3 f   -     -     -         2619    0    0 
+mudbug    860982378  6  2 Bf  -     -     -         2619   10    0 
+mudbug    860982406  6  1 Bf  -     -     -         2609    5    0 
+mudbug    860982441  6  6 f   -     -     -         2604    0    0 
+mudbug    860982470  6  5 f   -     -     -         2604    0    0 
+mudbug    860982513  7  4 cc  f     -     -         2604   40    0 
+mudbug    860982573  8  3 f   -     -     -         2564    0    0 
+mudbug    860982679  7  2 Bc  kf    -     -         2564   20    0 
+mudbug    860982734  7  1 Bf  -     -     -         2544    5    0 
+mudbug    860982745  7  7 r   b     b     k         2539   50  150 Qc Ah
+mudbug    860982813  8  7 c   f     -     -         2639   10    0 
+mudbug    860982909  7  5 f   -     -     -         2629    0    0 
+mudbug    860982970  7  4 f   -     -     -         2629    0    0 
+mudbug    860983031  5  3 f   -     -     -         2629    0    0 
+mudbug    860983060  5  2 Bk  k     k     f         2629   10    0 
+mudbug    860983101  5  1 Bf  -     -     -         2619    5    0 
+mudbug    860983176  5  5 r   r     b     k         2614   60  140 Ks Qh
+mudbug    860983239  6  4 f   -     -     -         2694    0    0 
+mudbug    860983293  6  3 rrc c     c     f         2694   80    0 
+mudbug    860983346  8  2 Bk  kcf   -     -         2614   20    0 
+mudbug    860983399  9  1 Bc  kc    kc    kc        2594   70  230 8c 8h
+mudbug    860983470  9  9 f   -     -     -         2754    0    0 
+mudbug    860983520 10  9 f   -     -     -         2754    0    0 
+mudbug    860983595  8  7 f   -     -     -         2754    0    0 
+mudbug    860983641  8  6 f   -     -     -         2754    0    0 
+mudbug    860983675  8  5 f   -     -     -         2754    0    0 
+mudbug    860983711  8  4 c   c     c     f         2754   40    0 
+mudbug    860983745  8  3 f   -     -     -         2714    0    0 
+mudbug    860983765  8  2 Bk  k     k     k         2714   10   25 Qs 3c
+mudbug    860983809  8  1 Bf  -     -     -         2729    5    0 
+mudbug    860983845  8  8 r   cc    c     c         2724  100    0 Kc Ac
+mudbug    860983951  8  7 f   -     -     -         2624    0    0 
+mudbug    860983996  8  6 c   f     -     -         2624   20    0 
+mudbug    860984026  8  5 r   b     bc    c         2604   90    0 Jh Js
+mudbug    860984078  8  4 f   -     -     -         2514    0    0 
+mudbug    860984097  8  3 f   -     -     -         2514    0    0 
+mudbug    860984154  8  2 Bk  k     b     -         2514   30   45 
+mudbug    860984185  8  1 Br  b     b     br        2529  110  240 Ad 5h
+mudbug    860984232  8  8 f   -     -     -         2659    0    0 
+mudbug    860984302  9  7 f   -     -     -         2659    0    0 
+mudbug    860984359  9  6 c   b     k     f         2659   20    0 
+mudbug    860984419  9  5 f   -     -     -         2639    0    0 
+mudbug    860984436  9  4 f   -     -     -         2639    0    0 
+mudbug    860984492  9  3 f   -     -     -         2639    0    0 
+mudbug    860984527 10  2 Bk  bc    bf    -         2639   60    0 
+mudbug    860984621 10  1 Bf  -     -     -         2579    5    0 
+mudbug    860984660 10 10 r   r     b     k         2574   60    0 Jc Tc
+mudbug    860984725 10  9 c   c     kf    -         2514   30    0 
+mudbug    860984781 10  8 f   -     -     -         2484    0    0 
+mudbug    860984855 10  7 f   -     -     -         2484    0    0 
+mudbug    860984917 10  6 f   -     -     -         2484    0    0 
+mudbug    860984947  9  5 f   Q     -     -         2484    0    0 
+mudbug    860985930  7  2 Bc  kc    kf    -         2484   30    0 
+mudbug    860985994  8  1 Bf  -     -     -         2454    5    0 
+mudbug    860986031  8  8 r   bc    cc    c         2449  100    0 Ac 6h
+mudbug    860986099  8  7 r   b     c     c         2349   70  180 Td Ah
+mudbug    860986167  8  6 r   b     b     b         2459   70  175 
+mudbug    860986219  8  5 f   -     -     -         2564    0    0 
+mudbug    860986284  7  3 f   -     -     -         2564    0    0 
+mudbug    860986363  7  2 Bk  k     k     k         2564   10    0 7d 9d
+mudbug    860986398  9  1 Bf  -     -     -         2554    5    0 
+mudbug    860986441  9  9 f   -     -     -         2549    0    0 
+mudbug    860986543 10 10 f   -     -     -         2549    0    0 
+mudbug    860986646  9  8 f   -     -     -         2549    0    0 
+mudbug    860986755  8  5 Q   -     -     -         2549    0    0 
+mudbug    861062592  4  3 c   k     f     -         2549   10    0 
+mudbug    861062638  4  2 Bf  -     -     -         2539   10    0 
+mudbug    861062682  4  1 Bf  -     -     -         2529    5    0 
+mudbug    861062737  4  4 cc  k     b     -         2524   40   70 
+mudbug    861062770  3  3 f   -     -     -         2554    0    0 
+mudbug    861062780  2  2 BQ  -     -     -         2554   10    0 
+mudbug    861063854  2  1 Bc  -     -     -         2544   10   20 
+mudbug    861063902  2  1 Bk  k     k     k         2554   10   10 Tc 9c
+mudbug    861063928  2  1 Bf  -     -     -         2554    5    0 
+mudbug    861063937  2  2 B   -     -     -         2549   10   15 
+mudbug    861063941  2  1 Bf  -     -     -         2554    5    0 
+mudbug    861063960  2  2 B   -     -     -         2549   10   15 
+mudbug    861063964  2  1 Bc  kf    -     -         2554   10    0 
+mudbug    861063988  2  2 B   -     -     -         2544   10   15 
+mudbug    861063993  2  1 Bc  b     -     -         2549   20   30 
+mudbug    861064007  2  2 B   -     -     -         2559   10   15 
+mudbug    861064012  2  1 Bf  -     -     -         2564    5    0 
+mudbug    861064021  2  2 B   -     -     -         2559   10   15 
+mudbug    861064026  2  1 Bc  b     -     -         2564   20   30 
+mudbug    861064040  2  2 Bc  r     -     -         2574   40   70 
+mudbug    861064070  2  1 Bf  -     -     -         2604    5    0 
+mudbug    861064081  2  2 B   -     -     -         2599   10   15 
+mudbug    861064090  2  1 Bf  -     -     -         2604    5    0 
+mudbug    861064101  2  2 B   -     -     -         2599   10   15 
+mudbug    861064104  2  1 Br  b     b     b         2604   70  140 Ac 8h
+mudbug    861064128  2  2 B   -     -     -         2674   10   15 
+mudbug    861064133  2  1 Bcc kf    -     -         2679   20    0 
+mudbug    861064159  2  2 B   -     -     -         2659   10   15 
+mudbug    861064165  2  1 Bc  b     -     -         2664   20   30 
+mudbug    861064183  2  2 B   -     -     -         2674   10   15 
+mudbug    861064189  2  1 Bf  -     -     -         2679    5    0 
+mudbug    861064198  2  2 Bf  -     -     -         2674   10    0 
+mudbug    861064207  2  1 Bf  -     -     -         2664    5    0 
+mudbug    861064213  2  2 Bf  -     -     -         2659   10    0 
+mudbug    861064221  2  1 Bf  -     -     -         2649    5    0 
+mudbug    861064228  2  2 B   -     -     -         2644   10   15 
+mudbug    861064233  2  1 Bf  -     -     -         2649    5    0 
+mudbug    861064241  2  2 B   -     -     -         2644   10   15 
+mudbug    861064245  2  1 Bf  -     -     -         2649    5    0 
+mudbug    861064252  2  2 B   -     -     -         2644   10   15 
+mudbug    861064257  2  1 Bf  -     -     -         2649    5    0 
+mudbug    861064264  2  2 B   -     -     -         2644   10   15 
+mudbug    861064269  2  1 Bf  -     -     -         2649    5    0 
+mudbug    861064277  2  2 B   -     -     -         2644   10   15 
+mudbug    861064287  2  1 Bf  -     -     -         2649    5    0 
+mudbug    861064295  3  3 r   r     k     k         2644   40    0 8c 7s
+mudbug    861064336  4  3 cc  kf    -     -         2604   20    0 
+mudbug    861064355  4  2 Bf  -     -     -         2584   10    0 
+mudbug    861064388  4  1 Bf  -     -     -         2574    5    0 
+mudbug    861064406  4  4 f   -     -     -         2569    0    0 
+mudbug    861064419  4  3 f   -     -     -         2569    0    0 
+mudbug    861064448  4  2 Bk  b     b     -         2569   40   70 
+mudbug    861064492  5  1 Bf  -     -     -         2599    5    0 
+mudbug    861064525  4  4 c   f     -     -         2594   20    0 
+mudbug    861064545  4  3 f   -     -     -         2574    0    0 
+mudbug    861064607  5  2 Br  c     c     c         2574   70    0 As 4d
+mudbug    861064648  5  1 Bc  kc    kf    -         2504   30    0 
+mudbug    861064678  5  5 rc  c     f     -         2474   40    0 
+mudbug    861064714  5  4 r   b     bc    r         2434  110  225 As 9h
+mudbug    861064747  5  3 cc  f     -     -         2549   20    0 
+mudbug    861064772  6  3 f   -     -     -         2529    0    0 
+mudbug    861064790  6  2 Bk  kc    k     b         2529   40    0 2c As
+mudbug    861064817  6  1 Bc  kc    kf    -         2489   40    0 
+mudbug    861064887  7  7 r   bc    f     -         2449   40    0 
+mudbug    861064958  7  6 c   c     f     -         2409   30    0 
+mudbug    861065008  7  5 r   b     bc    c         2379   90    0 Ac Tc
+mudbug    861065072  6  4 f   -     -     -         2289    0    0 
+mudbug    861065133  6  2 Bk  kf    -     -         2289   10    0 
+mudbug    861065166  6  1 Bc  kc    kc    k         2279   50    0 Jc Qh
+mudbug    861065192  6  6 c   c     c     c         2229   70    0 6d 6c
+mudbug    861065228  7  6 f   -     -     -         2159    0    0 
+mudbug    861065289  7  5 f   -     -     -         2159    0    0 
+mudbug    861065360  7  4 r   r     kc    k         2159   60  245 Ah Ad
+mudbug    861065463  7  3 f   -     -     -         2344    0    0 
+mudbug    861065498  8  3 f   -     -     -         2344    0    0 
+mudbug    861065560  8  2 Bk  kc    kf    -         2344   20    0 
+mudbug    861065622  9  1 Br  b     -     -         2324   30   90 
+mudbug    861065682  9  9 c   k     k     k         2384   10    0 9h Ts
+mudbug    861065778  7  6 f   -     -     -         2374    0    0 
+mudbug    861065816  7  6 c   c     c     c         2374   60  125 3d 3h
+mudbug    861065852  6  4 ccc f     -     -         2439   40    0 
+mudbug    861065920  6  3 f   -     -     -         2399    0    0 
+mudbug    861065965  6  2 Bc  f     -     -         2399   20    0 
+mudbug    861066005  5  1 Bf  -     -     -         2379    5    0 
+mudbug    861066028  5  5 c   k     f     -         2374   10    0 
+mudbug    861066056  5  4 f   -     -     -         2364    0    0 
+mudbug    861066075  5  3 f   -     -     -         2364    0    0 
+mudbug    861066120  5  2 Bk  k     k     k         2364   10    0 7s 8d
+mudbug    861066205  5  1 Br  -     -     -         2354   20   30 
+mudbug    861066222  3  3 f   -     -     -         2364    0    0 
+mudbug    861066233  2  2 Bk  c     c     c         2364   60    0 6s 6c
+mudbug    861066253  2  1 BQ  -     -     -         2304    5    0 
+mudbug    861068156  7  7 r   b     c     c         3259   70   82 Jd Td
+mudbug    861068202  7  6 f   -     -     -         3271    0    0 
+mudbug    861068229  7  5 f   -     -     -         3271    0    0 
+mudbug    861068266  7  4 f   -     -     -         3271    0    0 
+mudbug    861068306  7  3 f   -     -     -         3271    0    0 
+mudbug    861068415  7  2 Bf  -     -     -         3271   10    0 
+mudbug    861068468  7  1 Bf  -     -     -         3261    5    0 
+mudbug    861068554  9  9 cc  c     f     -         3256   40    0 
+mudbug    861068675  8  8 f   -     -     -         3216    0    0 
+mudbug    861068786  7  6 f   -     -     -         3216    0    0 
+mudbug    861068800  6  5 rc  c     c     r         3216  100  280 
+mudbug    861068840  6  5 f   -     -     -         3396    0    0 
+mudbug    861068910  5  3 f   -     -     -         3396    0    0 
+mudbug    861069121  4  4 c   c     k     k         3526   30    0 6s 6h
+mudbug    861069167  4  3 c   f     -     -         3496   10    0 
+mudbug    861069200  4  2 Bk  kf    -     -         3486   10    0 
+mudbug    861069220  4  1 Bf  -     -     -         3476    5    0 
+mudbug    861069247  4  4 r   r     c     c         3471   80    0 As Tc
+mudbug    861069309  5  3 f   -     -     -         3391    0    0 
+mudbug    861069375  5  2 Bf  -     -     -         3391   10    0 
+mudbug    861069389  5  1 Bc  kc    kQ    -         3381   30    0 
+mudbug    861128267  3  2 Bk  k     k     k         3351   10   25 Ts Ah
+mudbug    861128301  3  1 Bf  -     -     -         3366    5    0 
+mudbug    861128309  3  3 c   b     k     k         3361   20   50 4d Kd
+mudbug    861128353  3  2 Bk  k     k     k         3391   10   30 5d 6c
+mudbug    861128388  3  1 Bf  -     -     -         3411    5    0 
+mudbug    861128421  3  3 f   -     -     -         3406    0    0 
+mudbug    861128455  3  2 Bk  k     kf    -         3406   10    0 
+mudbug    861128525  3  1 Bf  -     -     -         3396    5    0 
+mudbug    861128535  3  3 c   f     -     -         3391   10    0 
+mudbug    861128576  3  2 Bc  c     c     f         3381   50    0 
+mudbug    861128606  3  1 Bc  kc    kc    kf        3331   40    0 
+mudbug    861128636  3  3 f   -     -     -         3291    0    0 
+mudbug    861128667  3  2 Bf  -     -     -         3291   10    0 
+mudbug    861128682  3  1 Bc  b     -     -         3281   20   30 
+mudbug    861128695  3  3 cc  c     c     r         3291   90  200 8d Kc
+mudbug    861128722  3  2 Bc  f     -     -         3401   20    0 
+mudbug    861128775  4  1 Bf  -     -     -         3381    5    0 
+mudbug    861128807  4  4 r   c     f     -         3376   30    0 
+mudbug    861128847  4  3 f   -     -     -         3346    0    0 
+mudbug    861128877  5  2 Bk  c     f     -         3346   20    0 
+mudbug    861128914  5  1 Bcc bc    kc    kf        3326   70    0 
+mudbug    861128993  5  5 f   -     -     -         3256    0    0 
+mudbug    861129026  5  4 r   bc    c     c         3256   80    0 As Qc
+mudbug    861129084  4  2 Bf  -     -     -         3176   10    0 
+mudbug    861129111  4  1 Bf  -     -     -         3166    5    0 
+mudbug    861129140  4  4 r   b     -     -         3161   30   55 
+mudbug    861129166  4  3 cc  kf    -     -         3186   20    0 
+mudbug    861129192  4  2 Bc  kc    k     kf        3166   30    0 
+mudbug    861129226  5  1 Bf  -     -     -         3136    5    0 
+mudbug    861129232  4  4 c   k     k     k         3131   10    0 6s Ks
+mudbug    861129259  4  3 cc  c     c     k         3121   60  155 Qs Js
+mudbug    861129293  5  3 f   -     -     -         3216    0    0 
+mudbug    861129345  5  2 Bf  -     -     -         3216   10    0 
+mudbug    861129355  5  1 Bf  -     -     -         3206    5    0 
+mudbug    861129367  5  5 c   b     k     rc        3201   80    0 6h As
+mudbug    861129469  5  4 cc  c     k     f         3121   30    0 
+mudbug    861129540  8  6 f   -     -     -         3091    0    0 
+mudbug    861129598  7  4 f   -     -     -         3091    0    0 
+mudbug    861129704  7  3 f   -     -     -         3091    0    0 
+mudbug    861129758  6  2 Bk  bf    -     -         3091   20    0 
+mudbug    861129802  6  1 Bf  -     -     -         3071    5    0 
+mudbug    861129824  6  6 r   c     k     b         3066   50   85 
+mudbug    861129861  6  5 c   k     c     f         3101   30    0 
+mudbug    861129911  6  4 f   -     -     -         3071    0    0 
+mudbug    861129940  6  3 cr  bc    k     k         3071   50  185 Qd Qc
+mudbug    861129983  5  2 Bk  k     k     kf        3206   10    0 
+mudbug    861130021  5  1 Brc b     b     b         3196   80  200 Ts Kc
+mudbug    861130054  5  5 c   f     -     -         3316   10    0 
+mudbug    861130085  5  4 f   -     -     -         3306    0    0 
+mudbug    861130128  6  3 f   -     -     -         3306    0    0 
+mudbug    861130138  5  2 Bk  k     kc    k         3306   30    0 Ah 5s
+mudbug    861130175  5  1 Bf  -     -     -         3276    5    0 
+mudbug    861130202  5  5 f   -     -     -         3271    0    0 
+mudbug    861130318  4  3 c   b     k     b         3271   40   70 
+mudbug    861130320  4  2 Bf  -     -     -         3301   10    0 
+mudbug    861130323  4  1 Brc kc    kc    k         3291   60    0 Ah 7h
+mudbug    861130325  4  4 f   -     -     -         3231    0    0 
+mudbug    861130350  4  3 c   b     k     k         3231   20   70 8d 7h
+mudbug    861130385  4  2 Bk  kc    kf    -         3281   20    0 
+mudbug    861130422  6  1 Bc  kf    -     -         3261   20    0 
+mudbug    861130664  6  6 f   -     -     -         3241    0    0 
+mudbug    861130665  6  5 f   -     -     -         3241    0    0 
+mudbug    861130670  6  4 f   -     -     -         3241    0    0 
+mudbug    861130674  6  4 c   f     -     -         3241   10    0 
+mudbug    861130677  5  2 Bk  b     b     k         3231   40   80 5c 7s
+mudbug    861130770  3  1 Bc  kc    kr    -         3271   60  100 
+mudbug    861130799  4  4 r   b     b     -         3311   50   85 
+mudbug    861130843  5  3 f   Q     -     -         3346    0    0 
+mudbug    861231979  7  5 f   -     -     -         3346    0    0 
+mudbug    861232029  7  4 c   k     k     k         3346   10    0 Ac 6s
+mudbug    861232057  7  3 f   -     -     -         3336    0    0 
+mudbug    861232118  7  2 Bk  k     k     b         3336   30   45 
+mudbug    861232150  6  1 Bc  b     kc    k         3351   40    0 9d Kd
+mudbug    861232179  7  7 f   -     -     -         3311    0    0 
+mudbug    861232217  7  6 f   -     -     -         3311    0    0 
+mudbug    861232267  7  5 f   -     -     -         3311    0    0 
+mudbug    861232299  7  4 f   -     -     -         3311    0    0 
+mudbug    861232347  8  3 f   -     -     -         3311    0    0 
+mudbug    861232371  8  2 Bk  kf    -     -         3311   10    0 
+mudbug    861232410  7  1 Bf  -     -     -         3301    5    0 
+mudbug    861232487  8  8 f   -     -     -         3296    0    0 
+mudbug    861232550  8  7 f   -     -     -         3296    0    0 
+mudbug    861232607  8  6 f   -     -     -         3296    0    0 
+mudbug    861232670  9  6 f   -     -     -         3296    0    0 
+mudbug    861232753 10  6 f   -     -     -         3296    0    0 
+mudbug    861232822  9  4 f   Q     -     -         3296    0    0 
+mudbug    861236496 12  7 f   -     -     -         3296    0    0 
+mudbug    861236619 10  6 cc  kc    k     f         3296   30    0 
+mudbug    861236702  8  4 rc  c     c     k         3266   60    0 5h 4h
+mudbug    861236754  8  3 fQ  -     -     -         3206    0    0 
+mudbug    861242347  6  4 f   -     -     -         3206    0    0 
+mudbug    861242379  6  3 f   -     -     -         3206    0    0 
+mudbug    861242406  6  2 Bf  -     -     -         3206   10    0 
+mudbug    861242450  6  1 Bf  -     -     -         3196    5    0 
+mudbug    861242471  6  6 r   b     c     rrrrc     3191  230  515 Js Jc
+mudbug    861242657  6  5 f   -     -     -         3476    0    0 
+mudbug    861242720  7  5 f   -     -     -         3476    0    0 
+mudbug    861242761  7  4 f   -     -     -         3476    0    0 
+mudbug    861242834  7  3 f   -     -     -         3476    0    0 
+mudbug    861242860  7  2 Bf  -     -     -         3476   10    0 
+mudbug    861242913  7  1 Bc  kc    kc    kf        3466   50    0 
+mudbug    861242975  7  7 f   -     -     -         3416    0    0 
+mudbug    861243034  7  6 f   -     -     -         3416    0    0 
+mudbug    861243120  7  5 rc  kc    kf    -         3416   40    0 
+mudbug    861243251  7  4 f   -     -     -         3376    0    0 
+mudbug    861243311  8  4 f   -     -     -         3376    0    0 
+mudbug    861243378  9  3 Q   -     -     -         3376    0    0 
+mudbug    861326138 11  5 f   -     -     -         3376    0    0 
+mudbug    861326220 12  4 f   -     -     -         3376    0    0 
+mudbug    861326297 12  3 cc  kc    k     k         3376   30    0 Qd Kh
+mudbug    861326423 11  2 Bf  -     -     -         3346   10    0 
+mudbug    861326480 11  1 Br  b     b     b         3336   80  230 Kc Tc
+mudbug    861326562 11 11 f   -     -     -         3486    0    0 
+mudbug    861326710 10 10 r   b     -     -         3486   30   65 
+mudbug    861326793  9  8 f   -     -     -         3521    0    0 
+mudbug    861326867  8  7 f   -     -     -         3521    0    0 
+mudbug    861326907  7  6 f   -     -     -         3521    0    0 
+mudbug    861326968  6  5 r   k     b     -         3521   40   70 
+mudbug    861326995  6  4 f   -     -     -         3551    0    0 
+mudbug    861327035  6  3 f   -     -     -         3551    0    0 
+mudbug    861327067  6  2 Bk  bc    bc    b         3551   90  185 6c Kh
+mudbug    861327108  5  1 Bf  -     -     -         3646    5    0 
+mudbug    861327134  5  4 r   r     k     bc        3641   80    0 Qd Jc
+mudbug    861327187  7  3 f   -     -     -         3561    0    0 
+mudbug    861327234  7  2 Bk  bc    kf    -         3561   30    0 
+mudbug    861327270  7  1 Bf  -     -     -         3531    5    0 
+mudbug    861327309  7  7 r   b     b     -         3526   50  115 
+mudbug    861327354  8  7 f   -     -     -         3591    0    0 
+mudbug    861327377  8  6 f   -     -     -         3591    0    0 
+mudbug    861327413  8  5 f   -     -     -         3591    0    0 
+mudbug    861327453  7  4 r   c     c     c         3591   70  145 8h 7h
+mudbug    861327490  8  3 f   -     -     -         3666    0    0 
+mudbug    861327531  9  2 Bf  -     -     -         3666   10    0 
+mudbug    861327570  7  1 Bf  -     -     -         3656    5    0 
+mudbug    861327618  8  7 f   -     -     -         3651    0    0 
+mudbug    861327665  8  6 f   -     -     -         3651    0    0 
+mudbug    861327730  7  5 f   -     -     -         3651    0    0 
+mudbug    861327751  7  4 f   -     -     -         3651    0    0 
+mudbug    861327781  7  3 f   -     -     -         3651    0    0 
+mudbug    861327836  7  2 Bc  kf    -     -         3651   20    0 
+mudbug    861327891  7  1 Bf  -     -     -         3631    5    0 
+mudbug    861327927  7  7 f   -     -     -         3626    0    0 
+mudbug    861327978  7  6 f   -     -     -         3626    0    0 
+mudbug    861328021  7  5 f   -     -     -         3626    0    0 
+mudbug    861328105  7  4 f   -     -     -         3626    0    0 
+mudbug    861328147  7  3 f   -     -     -         3626    0    0 
+mudbug    861328186  7  2 Bf  -     -     -         3626   10    0 
+mudbug    861328213  7  1 Brc kf    -     -         3616   30    0 
+mudbug    861328255  8  8 f   -     -     -         3586    0    0 
+mudbug    861328299  7  7 r   b     k     c         3586   50    0 As Qc
+mudbug    861328383  7  6 f   -     -     -         3536    0    0 
+mudbug    861328432  7  5 f   -     -     -         3536    0    0 
+mudbug    861328456  7  4 c   b     b     bc        3536   80    0 Qd Jc
+mudbug    861328504  7  3 f   -     -     -         3456    0    0 
+mudbug    861328565  7  2 Bk  k     k     k         3456   10    0 Jc 8c
+mudbug    861328601  8  1 Bf  -     -     -         3446    5    0 
+mudbug    861328660  9  9 r   r     c     k         3441   60    0 7h 6h
+mudbug    861328743 10  9 c   Q     -     -         3381   10    0 
+mudbug    861330001 11  5 r   b     k     k         3371   30   75 7h Ah
+mudbug    861330057 11  4 r   b     f     -         3416   30    0 
+mudbug    861330126 11  3 f   -     -     -         3386    0    0 
+mudbug    861330293 11  2 Bk  kf    -     -         3386   10    0 
+mudbug    861330397 10  1 Bc  kc    kf    -         3376   20    0 
+mudbug    861330481  8  8 f   -     -     -         3356    0    0 
+mudbug    861330546  8  7 f   -     -     -         3356    0    0 
+mudbug    861330584  8  6 f   -     -     -         3356    0    0 
+mudbug    861330649  9  4 Q   -     -     -         3356    0    0 
+mudbug    861408071  9  9 rc  f     -     -         3356   40    0 
+mudbug    861408128  9  8 f   -     -     -         3316    0    0 
+mudbug    861408160 10  8 r   c     f     -         3316   30    0 
+mudbug    861408254  9  6 f   -     -     -         3286    0    0 
+mudbug    861408298  9  5 f   -     -     -         3286    0    0 
+mudbug    861408458  7  2 f   -     -     -         3286    0    0 
+mudbug    861408518  7  1 Bf  -     -     -         3286   10    0 
+mudbug    861408559  7  1 Bc  kf    -     -         3276   20    0 
+mudbug    861408604  7  7 f   -     -     -         3256    0    0 
+mudbug    861408639  7  6 c   f     -     -         3256   10    0 
+mudbug    861408696  6  5 f   -     -     -         3246    0    0 
+mudbug    861408752  6  4 cc  f     -     -         3246   20    0 
+mudbug    861408792  6  3 f   -     -     -         3226    0    0 
+mudbug    861408825  7  3 f   -     -     -         3226    0    0 
+mudbug    861408865  8  3 c   kf    -     -         3226   10    0 
+mudbug    861408916  8  2 Bk  c     c     b         3216   60  140 Qs 2s
+mudbug    861408978  8  1 Br  b     -     -         3296   30   70 
+mudbug    861409010  8  8 f   -     -     -         3336    0    0 
+mudbug    861409072  8  7 r   b     b     b         3336   70  185 Ac 8d
+mudbug    861409144  8  6 c   kf    -     -         3451   10    0 
+mudbug    861409250  9  6 f   -     -     -         3441    0    0 
+mudbug    861409381 11  5 f   -     -     -         3441    0    0 
+mudbug    861409461 11  4 f   -     -     -         3441    0    0 
+mudbug    861409564 12  3 f   -     -     -         3441    0    0 
+mudbug    861409678 12  2 Bk  kc    k     b         3441   40    0 3h 8d
+mudbug    861409821 12  1 Bc  bcc   kf    -         3401   60    0 
+mudbug    861409903 12 12 c   f     -     -         3341   20    0 
+mudbug    861409990 12 11 f   -     -     -         3321    0    0 
+mudbug    861410062 12 10 rc  cf    -     -         3321   50    0 
+mudbug    861410144 12  9 f   -     -     -         3271    0    0 
+mudbug    861410241 12  8 f   -     -     -         3271    0    0 
+mudbug    861410350 12  7 c   kf    -     -         3271   10    0 
+mudbug    861410520 11  6 f   -     -     -         3261    0    0 
+mudbug    861410574 12  5 f   -     -     -         3261    0    0 
+mudbug    861410754 12  4 c   b     b     kc        3261   60    0 Ts Ac
+mudbug    861410872 10  2 Bf  -     -     -         3201   10    0 
+mudbug    861410974  9  1 Bf  -     -     -         3191    5    0 
+mudbug    861411016  9  9 f   -     -     -         3186    0    0 
+mudbug    861411085  9  8 f   -     -     -         3186    0    0 
+mudbug    861411275  8  6 cc  c     c     c         3186  100    0 7h Th
+mudbug    861411364  8  5 c   f     -     -         3086   10    0 
+mudbug    861411406  8  4 f   -     -     -         3076    0    0 
+mudbug    861411462  8  3 f   -     -     -         3076    0    0 
+mudbug    861411590 10  3 f   -     -     -         3076    0    0 
+mudbug    861411660 11  3 f   -     -     -         3076    0    0 
+mudbug    861411822 11  2 Bc  bc    k     k         3076   40  105 5h Qh
+mudbug    861411879  9  1 Bf  -     -     -         3141    5    0 
+mudbug    861411927  9  9 c   c     f     -         3136   30    0 
+mudbug    861412004  9  8 f   -     -     -         3106    0    0 
+mudbug    861412064  9  7 r   r     b     -         3106   60  175 
+mudbug    861412140  8  6 f   -     -     -         3221    0    0 
+mudbug    861412167  8  5 f   -     -     -         3221    0    0 
+mudbug    861412252  9  4 f   -     -     -         3221    0    0 
+mudbug    861412349 10  3 f   -     -     -         3221    0    0 
+mudbug    861412406 10  2 Bk  k     f     -         3221   10    0 
+mudbug    861412452 10  1 Bf  -     -     -         3211    5    0 
+mudbug    861412505 10 10 c   f     -     -         3206   10    0 
+mudbug    861412586 11 10 f   -     -     -         3196    0    0 
+mudbug    861412653 11  9 r   b     b     k         3196   50    0 8s Ts
+mudbug    861412743 11  8 f   -     -     -         3146    0    0 
+mudbug    861412818 12  7 f   -     -     -         3146    0    0 
+mudbug    861412920 12  6 f   -     -     -         3146    0    0 
+mudbug    861412990 11  5 f   -     -     -         3146    0    0 
+mudbug    861413080 11  4 f   -     -     -         3146    0    0 
+mudbug    861413169 11  3 f   -     -     -         3146    0    0 
+mudbug    861413245 11  2 Bk  k     kf    -         3146   10    0 
+mudbug    861413306 11  1 Bf  -     -     -         3136    5    0 
+mudbug    861413396 11 11 f   -     -     -         3131    0    0 
+mudbug    861413457 11 10 c   f     -     -         3131   20    0 
+mudbug    861413535 11  9 f   -     -     -         3111    0    0 
+mudbug    861413614 12  9 rc  c     f     -         3111   50    0 
+mudbug    861413746 12  8 f   -     -     -         3061    0    0 
+mudbug    861413813 11  6 f   -     -     -         3061    0    0 
+mudbug    861413915 12  7 cc  f     -     -         3061   40    0 
+mudbug    861413980 11  5 rr  r     k     c         3021   80    0 Jh Js
+mudbug    861414109 10  4 f   -     -     -         2941    0    0 
+mudbug    861414163  8  2 Bf  -     -     -         2941   10    0 
+mudbug    861414208  8  1 Bc  b     b     k         2931   40    0 6c 8d
+mudbug    861414254  7  7 f   -     -     -         2891    0    0 
+mudbug    861414300  7  4 Q   -     -     -         2891    0    0 
+mudbug    861724679  6  3 rc  ccc   ccc   kf        3993  160    0 
+mudbug    861724703  6  2 Bc  b     k     k         3833   40    0 8c Ks
+mudbug    861724778  5  1 Bc  kf    -     -         3793   10    0 
+mudbug    861724892  5  5 rc  k     k     c         3783   50    0 4d As
+mudbug    861724926  4  4 r   bf    -     -         3733   30    0 
+mudbug    861725026  4  3 cc  brc   f     -         3703   60    0 
+mudbug    861725094  4  2 Bk  f     -     -         3643   10    0 
+mudbug    861725111  3  1 Bf  -     -     -         3633    5    0 
+mudbug    861725131  3  3 c   b     b     b         3628   60  110 
+mudbug    861725169  3  2 Bk  r     b     b         3678   70  170 
+mudbug    861725208  3  1 Bf  -     -     -         3778    5    0 
+mudbug    861725233  3  3 r   b     b     -         3773   50   85 
+mudbug    861725256  3  2 Br  k     k     b         3808   40   70 
+mudbug    861725288  3  1 Bc  kf    -     -         3838   10    0 
+mudbug    861725307  3  3 f   -     -     -         3828    0    0 
+mudbug    861725330  3  2 B   -     -     -         3828   10   15 
+mudbug    861725339  3  1 Bf  -     -     -         3833    5    0 
+mudbug    861725365  3  3 r   b     k     b         3828   50   85 
+mudbug    861725397  3  2 Bk  kf    -     -         3863   10    0 
+mudbug    861725417  3  1 Bc  k     b     kc        3853   60    0 8h Ac
+mudbug    861725458  3  3 r   -     -     -         3793   20   35 
+mudbug    861725471  4  2 Br  b     b     b         3808   80  185 
+mudbug    861725522  4  1 Bc  k     k     k         3913   20    0 5d Kd
+mudbug    861725624  3  3 r   b     k     k         3893   30   80 Ks Jc
+mudbug    861725671  4  3 f   -     -     -         3943    0    0 
+mudbug    861725698  4  2 Bk  kc    b     -         3943   40   85 
+mudbug    861725736  4  1 Bc  k     k     kf        3988   20    0 
+mudbug    861725769  4  4 rc  f     -     -         3968   30    0 
+mudbug    861725858  4  3 f   -     -     -         3938    0    0 
+mudbug    861725942  4  2 Bk  k     k     k         3938   10   40 As 5h
+mudbug    861725992  4  1 Bf  -     -     -         3968    5    0 
+mudbug    861726002  4  4 cc  k     b     -         3963   40   80 
+mudbug    861726076  4  3 cc  c     c     c         4003   70    0 Ad 4c
+mudbug    861726129  4  2 Bk  k     k     kf        3933   10    0 
+mudbug    861726265  4  1 Brf -     -     -         3923   20    0 
+mudbug    861726346  3  3 c   f     -     -         3903   10    0 
+mudbug    861726374  3  3 r   b     b     b         3893   70  125 
+mudbug    861726419  3  2 Bk  b     brr   b         3948  140  285 5c Ks
+mudbug    861726470  3  1 Bf  -     -     -         4093    5    0 
+mudbug    861726491  4  3 f   -     -     -         4088    0    0 
+mudbug    861726555  4  2 Bk  f     -     -         4088   10    0 
+mudbug    861726588  4  1 Bc  kf    -     -         4078   10    0 
+mudbug    861726613  4  4 r   k     b     k         4068   40    0 Qd Td
+mudbug    861726679  4  3 f   -     -     -         4028    0    0 
+mudbug    861726730  4  2 Bk  k     k     c         4028   30   70 Td 8h
+mudbug    861726777  4  1 Bf  -     -     -         4068    5    0 
+mudbug    861726815  4  4 f   -     -     -         4063    0    0 
+mudbug    861726849  4  3 f   -     -     -         4063    0    0 
+mudbug    861726881  5  2 Bf  -     -     -         4063   10    0 
+mudbug    861726928  5  1 Bc  bc    kc    kf        4053   50    0 
+mudbug    861726976  4  4 f   -     -     -         4003    0    0 
+mudbug    861727012  4  3 c   b     b     b         4003   60  115 
+mudbug    861727049  4  2 Bk  b     b     -         4058   40   60 
+mudbug    861727083  4  1 Bf  -     -     -         4078    5    0 
+mudbug    861727120  4  4 f   Q     -     -         4073    0    0 
+mudbug    861928585  5  3 f   -     -     -         5433    0    0 
+mudbug    861928622  5  2 Bk  kf    -     -         5433   10    0 
+mudbug    861928658  5  1 Bf  -     -     -         5423    5    0 
+mudbug    861928721  5  5 f   -     -     -         5418    0    0 
+mudbug    861928756  5  5 rc  rc    c     c         5418  110    0 Th Kd
+mudbug    861928840  6  4 c   b     bc    b         5308   80  230 8h 9h
+mudbug    861928904  6  3 f   -     -     -         5458    0    0 
+mudbug    861928960  6  2 Bk  k     kf    -         5458   10    0 
+mudbug    861929009  6  1 Bf  -     -     -         5448    5    0 
+mudbug    861929045  6  6 f   -     -     -         5443    0    0 
+mudbug    861929102  6  5 f   -     -     -         5443    0    0 
+mudbug    861929150  6  4 f   -     -     -         5443    0    0 
+mudbug    861929203  7  4 f   -     -     -         5443    0    0 
+mudbug    861929234  7  3 f   -     -     -         5443    0    0 
+mudbug    861929312  7  2 Bc  b     b     -         5443   50  105 
+mudbug    861929349  7  1 Bf  -     -     -         5498    5    0 
+mudbug    861929429  7  7 f   -     -     -         5493    0    0 
+mudbug    861929462  7  6 f   -     -     -         5493    0    0 
+mudbug    861929553  7  5 f   -     -     -         5493    0    0 
+mudbug    861929627  7  4 cc  fQ    -     -         5493   20    0 
+mudbug    861930536  6  4 f   -     -     -         5473    0    0 
+mudbug    861930586  6  3 f   -     -     -         5473    0    0 
+mudbug    861930626  5  2 Bk  cc    k     f         5473   30    0 
+mudbug    861930665  6  1 Bf  -     -     -         5443    5    0 
+mudbug    861930696  6  6 f   -     -     -         5438    0    0 
+mudbug    861930734  6  5 f   -     -     -         5438    0    0 
+mudbug    861930798  6  4 c   b     kc    k         5438   40    0 Qh Th
+mudbug    861930873  6  3 f   -     -     -         5398    0    0 
+mudbug    861930924  6  2 Bk  f     -     -         5398   10    0 
+mudbug    861930983  6  1 Bc  kc    kc    kc        5388   70    0 Ad 3s
+mudbug    861931055  5  5 f   -     -     -         5318    0    0 
+mudbug    861931095  5  4 r   b     b     b         5318   70  210 5d 6d
+mudbug    861931151  5  3 f   -     -     -         5458    0    0 
+mudbug    861931200  5  2 Bk  f     -     -         5458   10    0 
+mudbug    861931245  6  1 Bf  -     -     -         5448    5    0 
+mudbug    861931308  6  6 f   -     -     -         5443    0    0 
+mudbug    861931345  6  5 f   -     -     -         5443    0    0 
+mudbug    861931439  7  4 f   -     -     -         5443    0    0 
+mudbug    861931496  7  3 f   -     -     -         5443    0    0 
+mudbug    861931541  7  2 Bk  kf    -     -         5443   10    0 
+mudbug    861931602  7  1 Bf  -     -     -         5433    5    0 
+mudbug    861931684  8  8 r   b     k     f         5428   30    0 
+mudbug    861931816  8  7 r   k     c     k         5398   40    0 9h 8h
+mudbug    861931914  8  6 f   -     -     -         5358    0    0 
+mudbug    861932026  9  5 cc  kf    -     -         5358   20    0 
+mudbug    861932131  7  5 f   -     -     -         5338    0    0 
+mudbug    861932148  5  3 c   b     k     kQ        5338   20    0 
+mudbug    861934014  9  8 f   -     -     -         5318    0    0 
+mudbug    861934147  8  7 f   -     -     -         5318    0    0 
+mudbug    861934181  6  4 c   b     brc   c         5318  120    0 Kd 5d
+mudbug    861934227  5  3 f   -     -     -         5198    0    0 
+mudbug    861934254  5  2 Bk  f     -     -         5198   10    0 
+mudbug    861934270  5  1 Bf  -     -     -         5188    5    0 
+mudbug    861934289  5  5 f   -     -     -         5183    0    0 
+mudbug    861934317  5  4 f   -     -     -         5183    0    0 
+mudbug    861934332  5  3 f   -     -     -         5183    0    0 
+mudbug    861934359  5  2 Bk  k     kf    -         5183   10    0 
+mudbug    861934382  5  1 Bc  kf    -     -         5173   10    0 
+mudbug    861934416  5  5 f   -     -     -         5163    0    0 
+mudbug    861934440  4  3 f   -     -     -         5163    0    0 
+mudbug    861934475  5  2 Bk  f     -     -         5163   10    0 
+mudbug    861934536  5  1 Brc bc    k     k         5153   60  130 Kc Ks
+mudbug    861934572  5  5 c   k     k     k         5223   10   50 Jc Th
+mudbug    861934609  5  4 rc  rc    rc    b         5263  140  405 Js Ts
+mudbug    861934717  8  5 Q   -     -     -         5528    0    0 
+mudbug    862019981  5  3 rc  b     b     b         5238   90  280 Qc Jc
+mudbug    862020026  6  2 Br  bc    kf    -         5428   50    0 
+mudbug    862020077  6  1 Bf  -     -     -         5378    5    0 
+mudbug    862020112  6  6 f   -     -     -         5373    0    0 
+mudbug    862020149  6  5 f   -     -     -         5373    0    0 
+mudbug    862020224  6  4 f   -     -     -         5373    0    0 
+mudbug    862020274  6  3 f   -     -     -         5373    0    0 
+mudbug    862020313  7  2 Bc  kc    kf    -         5373   30    0 
+mudbug    862020337  7  1 Bf  -     -     -         5343    5    0 
+mudbug    862020367  7  7 rc  f     -     -         5338   30    0 
+mudbug    862020416  7  6 f   -     -     -         5308    0    0 
+mudbug    862020452  8  6 f   -     -     -         5308    0    0 
+mudbug    862020504  8  5 f   -     -     -         5308    0    0 
+mudbug    862020562  7  4 f   -     -     -         5308    0    0 
+mudbug    862020657  9  4 f   -     -     -         5308    0    0 
+mudbug    862020773 10  4 f   -     -     -         5308    0    0 
+mudbug    862020865 10  3 cc  bcc   kc    kc        5308  110    0 5h 5d
+mudbug    862020967  9  2 Bf  -     -     -         5198   10    0 
+mudbug    862020992  9  1 Bf  -     -     -         5188    5    0 
+mudbug    862021044  9  9 f   -     -     -         5183    0    0 
+mudbug    862021124  9  8 ccc c     f     -         5183   60    0 
+mudbug    862021229 10  8 f   -     -     -         5123    0    0 
+mudbug    862021318  7  4 f   -     -     -         5123    0    0 
+mudbug    862021413  8  3 f   -     -     -         5123    0    0 
+mudbug    862021546  7  2 Bc  kf    -     -         5123   30    0 
+mudbug    862021596  7  1 Bc  kc    kcc   kf        5093   70    0 
+mudbug    862021680  7  7 cc  cc    f     -         5023   60    0 
+mudbug    862021739  8  7 c   c     f     -         4963   20    0 
+mudbug    862021777  7  5 f   -     -     -         4943    0    0 
+mudbug    862021807  7  4 f   -     -     -         4943    0    0 
+mudbug    862021845  8  3 f   -     -     -         4943    0    0 
+mudbug    862021906  8  2 Bf  -     -     -         4943   10    0 
+mudbug    862021994  8  1 Bf  -     -     -         4933    5    0 
+mudbug    862022057  8  8 f   Q     -     -         4928    0    0 
+mudbug    862059824  6  4 f   -     -     -         4928    0    0 
+mudbug    862059987  7  4 r   k     b     c         4928   60  175 Qs Qh
+mudbug    862060065  8  3 f   -     -     -         5043    0    0 
+mudbug    862060130  8  2 Bf  -     -     -         5043   10    0 
+mudbug    862060273  7  1 Bf  -     -     -         5033    5    0 
+mudbug    862060321  7  7 r   b     b     -         5028   50  125 
+mudbug    862060391  7  6 rc  b     b     b         5103   90  340 Qd Qs
+mudbug    862060473  7  5 cc  c     f     -         5353   30    0 
+mudbug    862060527  7  4 f   -     -     -         5323    0    0 
+mudbug    862060597  7  3 f   -     -     -         5323    0    0 
+mudbug    862060692  7  2 Bc  kc    krc   k         5323   90    0 Kc Qs
+mudbug    862060730  6  1 Bf  -     -     -         5233    5    0 
+mudbug    862060758  6  6 f   -     -     -         5228    0    0 
+mudbug    862060810  6  5 f   -     -     -         5228    0    0 
+mudbug    862060820  6  4 rc  bc    kf    -         5228   50    0 
+mudbug    862060860  7  3 f   -     -     -         5178    0    0 
+mudbug    862060955  8  2 Bf  -     -     -         5178   10    0 
+mudbug    862061022  9  1 Bc  kf    -     -         5168   10    0 
+mudbug    862061137  8  8 f   -     -     -         5158    0    0 
+mudbug    862061216  7  6 f   -     -     -         5158    0    0 
+mudbug    862061282  5  3 c   f     -     -         5158   10    0 
+mudbug    862061351  6  3 f   -     -     -         5148    0    0 
+mudbug    862061416  5  2 Bc  kf    -     -         5148   20    0 
+mudbug    862061444  5  1 Bf  -     -     -         5128    5    0 
+mudbug    862061489  5  5 f   -     -     -         5123    0    0 
+mudbug    862061562  5  4 c   kf    -     -         5123   10    0 
+mudbug    862061626  5  3 r   b     b     k         5113   50  140 8h 8c
+mudbug    862061673  5  2 Br  b     b     k         5203   50  125 Js Jc
+mudbug    862061716  5  1 Bc  kf    -     -         5278   10    0 
+mudbug    862061778  5  5 c   f     -     -         5268   10    0 
+mudbug    862061836  5  4 c   c     c     c         5258   60  140 8c Tc
+mudbug    862061877  5  3 f   -     -     -         5338    0    0 
+mudbug    862061944  5  2 Bk  b     -     -         5338   20   30 
+mudbug    862061968  5  1 Bf  -     -     -         5348    5    0 
+mudbug    862062014  5  5 f   -     -     -         5343    0    0 
+mudbug    862062063  5  4 f   -     -     -         5343    0    0 
+mudbug    862062108  5  3 r   b     -     -         5343   30   80 
+mudbug    862062142  5  2 Bf  -     -     -         5393   10    0 
+mudbug    862062210  5  1 Bf  -     -     -         5383    5    0 
+mudbug    862062257  5  5 r   c     c     k         5378   50  205 Jd Kc
+mudbug    862062311  5  4 f   -     -     -         5533    0    0 
+mudbug    862062384  6  3 f   -     -     -         5533    0    0 
+mudbug    862062479  7  2 Bk  k     kf    -         5533   10    0 
+mudbug    862062538  7  1 Bf  -     -     -         5523    5    0 
+mudbug    862062596  7  7 f   -     -     -         5518    0    0 
+mudbug    862062711  7  5 Q   -     -     -         5518    0    0 
+mudbug    862084766  8  4 f   -     -     -         5518    0    0 
+mudbug    862084818  8  3 f   -     -     -         5518    0    0 
+mudbug    862084860  8  2 Bc  kc    kf    -         5518   30    0 
+mudbug    862084909  8  1 Bf  -     -     -         5488    5    0 
+mudbug    862084924  8  8 f   -     -     -         5483    0    0 
+mudbug    862084955  8  7 f   -     -     -         5483    0    0 
+mudbug    862084967  8  6 c   f     -     -         5483   10    0 
+mudbug    862085020  7  4 f   -     -     -         5473    0    0 
+mudbug    862085047  6  3 f   -     -     -         5473    0    0 
+mudbug    862085088  6  2 Bc  c     c     c         5473   70    0 Js Ac
+mudbug    862085115  6  1 Bf  -     -     -         5403    5    0 
+mudbug    862085125  6  6 f   -     -     -         5398    0    0 
+mudbug    862085168  6  5 f   -     -     -         5398    0    0 
+mudbug    862085196  6  4 f   -     -     -         5398    0    0 
+mudbug    862085205  7  3 f   -     -     -         5398    0    0 
+mudbug    862085244  7  2 Bk  b     -     -         5398   20   40 
+mudbug    862085273  7  1 Bf  -     -     -         5418    5    0 
+mudbug    862085315  7  7 f   -     -     -         5413    0    0 
+mudbug    862085352  8  7 f   -     -     -         5413    0    0 
+mudbug    862085413  8  6 r   b     b     b         5413   80  215 
+mudbug    862085491  9  5 r   f     -     -         5548   20    0 
+mudbug    862085544  9  3 Q   -     -     -         5528    0    0 
+mudbug    862087848  4  3 f   -     -     -         5528    0    0 
+mudbug    862087880  5  2 Bk  k     b     k         5528   30    0 Ah Qs
+mudbug    862087909  5  1 Bf  -     -     -         5498    5    0 
+mudbug    862087929  5  5 f   -     -     -         5493    0    0 
+mudbug    862087948  5  4 f   -     -     -         5493    0    0 
+mudbug    862087977  5  3 f   -     -     -         5493    0    0 
+mudbug    862087988  5  2 Bk  kf    -     -         5493   10    0 
+mudbug    862088022  5  1 Br  b     b     k         5483   50    0 Ac 7c
+mudbug    862088054  5  5 rc  r     -     -         5433   50   95 
+mudbug    862088080  5  4 c   kf    -     -         5478   10    0 
+mudbug    862088110  5  3 f   -     -     -         5468    0    0 
+mudbug    862088121  5  2 Br  c     c     c         5468   70    0 Jh Jd
+mudbug    862088147  5  1 Bc  b     -     -         5398   20   40 
+mudbug    862088167  5  5 r   k     k     b         5418   40   75 
+mudbug    862088197  5  4 f   -     -     -         5453    0    0 
+mudbug    862088239  5  3 f   -     -     -         5453    0    0 
+mudbug    862088279  6  2 Bk  rc    k     f         5453   40    0 
+mudbug    862088311  6  1 Bc  b     k     b         5413   40   60 
+mudbug    862088362  6  6 r   bc    c     k         5433   60    0 8d As
+mudbug    862088481  6  5 f   Q     -     -         5373    0    0 
+mudbug    862088751  4  4 Q   -     -     -         5373    0    0 
+mudbug    862088797  5  3 f   -     -     -         5373    0    0 
+mudbug    862088821  5  2 Bk  k     kf    -         5373   10    0 
+mudbug    862088849  5  1 Bf  -     -     -         5363    5    0 
+mudbug    862088892  5  5 r   b     k     r         5358   70  170 As Ad
+mudbug    862088954  4  3 r   -     -     -         5458   20   30 
+mudbug    862088966  5  3 f   -     -     -         5468    0    0 
+mudbug    862088987  5  2 Bk  kf    -     -         5468   10    0 
+mudbug    862089063  5  1 Bf  -     -     -         5458    5    0 
+mudbug    862089109  5  5 r   b     k     c         5453   50  105 Tc As
+mudbug    862089163  5  4 f   -     -     -         5508    0    0 
+mudbug    862089197  5  3 f   -     -     -         5508    0    0 
+mudbug    862089272  5  2 Bk  b     b     b         5508   60    0 Jd Qh
+mudbug    862089313  5  1 Bf  -     -     -         5448    5    0 
+mudbug    862089383  6  6 r   b     -     -         5443   30  100 
+mudbug    862089627  5  3 Q   -     -     -         5513    0    0 
+mudbug    862138750  3  3 cc  k     k     c         4133   40    0 7c 6h
+mudbug    862138788  3  2 Bc  f     -     -         4093   20    0 
+mudbug    862138810  3  1 Bcc kf    -     -         4073   20    0 
+mudbug    862138829  3  3 r   -     -     -         4053   20   35 
+mudbug    862138841  3  2 Bk  c     r     -         4068   60  100 
+mudbug    862138862  3  1 Bf  -     -     -         4108    5    0 
+mudbug    862138870  3  3 f   -     -     -         4103    0    0 
+mudbug    862138894  3  2 B   -     -     -         4103   10   15 
+mudbug    862138899  3  1 Bf  -     -     -         4108    5    0 
+mudbug    862138913  4  3 f   -     -     -         4103    0    0 
+mudbug    862138961  4  2 Bk  k     f     -         4103   10    0 
+mudbug    862138986  4  1 Bcc kc    kf    -         4093   30    0 
+mudbug    862139010  4  4 f   -     -     -         4063    0    0 
+mudbug    862139017  4  3 f   -     -     -         4063    0    0 
+mudbug    862139030  4  2 Bk  b     -     -         4063   20   45 
+mudbug    862139048  4  1 Bf  -     -     -         4088    5    0 
+mudbug    862139060  4  4 f   -     -     -         4083    0    0 
+mudbug    862139084  4  3 r   -     -     -         4083   20   35 
+mudbug    862139092  4  2 Bc  bc    kf    -         4098   40    0 
+mudbug    862139135  3  1 Bf  -     -     -         4058    5    0 
+mudbug    862139142  3  3 f   -     -     -         4053    0    0 
+mudbug    862139152  3  2 Bk  k     k     b         4053   30   40 
+mudbug    862139180  3  1 Bc  kr    b     -         4063   50   80 
+mudbug    862139227  3  3 f   -     -     -         4093    0    0 
+mudbug    862139239  3  2 Bf  -     -     -         4093   10    0 
+mudbug    862139265  3  1 Bf  -     -     -         4083    5    0 
+mudbug    862139271  3  3 f   -     -     -         4078    0    0 
+mudbug    862139279  3  2 Bk  k     kc    kf        4078   30    0 
+mudbug    862139313  3  1 Bf  -     -     -         4048    5    0 
+mudbug    862139322  3  3 r   b     b     b         4043   70  125 
+mudbug    862139356  3  2 B   -     -     -         4098   10   15 
+mudbug    862139364  3  1 Bf  -     -     -         4103    5    0 
+mudbug    862139374  3  3 r   c     f     -         4098   30    0 
+mudbug    862139404  4  2 Bk  k     k     kf        4068   10    0 
+mudbug    862139434  4  1 Bf  -     -     -         4058    5    0 
+mudbug    862139465  4  4 f   -     -     -         4053    0    0 
+mudbug    862139473  4  3 f   -     -     -         4053    0    0 
+mudbug    862139502  4  2 Bk  k     kf    -         4053   10    0 
+mudbug    862139549  4  1 Br  b     -     -         4043   40  100 
+mudbug    862139578  4  4 r   b     k     b         4103   50  105 Qd Th
+mudbug    862139610  4  3 cc  cc    kf    -         4158   40    0 
+mudbug    862139673  4  2 Bk  k     k     k         4118   10   25 Qd 2c
+mudbug    862139708  4  1 Bc  kc    kf    -         4133   30    0 
+mudbug    862139734  4  4 f   -     -     -         4103    0    0 
+mudbug    862139778  4  3 rc  f     -     -         4103   30    0 
+mudbug    862139830  4  2 Bk  kc    kf    -         4073   20    0 
+mudbug    862139871  4  1 Bf  -     -     -         4053    5    0 
+mudbug    862139884  4  4 f   -     -     -         4048    0    0 
+mudbug    862139921  4  3 f   -     -     -         4048    0    0 
+mudbug    862139937  4  2 Bk  k     k     b         4048   30   40 
+mudbug    862139969  4  1 Bc  k     kc    k         4058   30   90 8c Kc
+mudbug    862140003  4  4 rc  c     c     c         4118   80    0 As 8d
+mudbug    862140044  4  3 f   -     -     -         4038    0    0 
+mudbug    862140068  4  2 Bk  kf    -     -         4038   10    0 
+mudbug    862140082  4  1 Bf  -     -     -         4028    5    0 
+mudbug    862140120  4  4 f   -     -     -         4023    0    0 
+mudbug    862140129  4  3 cc  kc    kc    kf        4023   50    0 
+mudbug    862140165  4  2 Bk  f     -     -         3973   10    0 
+mudbug    862140191  4  1 Bc  kf    -     -         3963   20    0 
+mudbug    862140224  4  4 f   -     -     -         3943    0    0 
+mudbug    862140247  4  3 f   -     -     -         3943    0    0 
+mudbug    862140259  4  2 Bf  -     -     -         3943   10    0 
+mudbug    862140270  4  1 Bf  -     -     -         3933    5    0 
+mudbug    862140296  4  4 f   -     -     -         3928    0    0 
+mudbug    862140303  4  3 f   -     -     -         3928    0    0 
+mudbug    862140339  4  2 Bk  k     kc    k         3928   30   65 Kd 9d
+mudbug    862140367  4  1 Bc  k     k     k         3963   10   10 6s 4s
+mudbug    862140396  3  3 f   -     -     -         3963    0    0 
+mudbug    862140403  3  2 Bf  -     -     -         3963   10    0 
+mudbug    862140454  3  1 Bf  -     -     -         3953    5    0 
+mudbug    862140475  3  3 c   b     b     -         3948   40   65 
+mudbug    862140499  3  2 Bk  k     k     k         3973   10    0 Qs 8c
+mudbug    862140526  3  1 Br  b     -     -         3963   30   60 
+mudbug    862140548  3  3 r   b     -     -         3993   30   55 
+mudbug    862140574  3  2 Bf  -     -     -         4018   10    0 
+mudbug    862140594  3  1 Bf  -     -     -         4008    5    0 
+mudbug    862140614  3  3 r   b     b     -         4003   50  110 
+mudbug    862140653  4  3 f   Q     -     -         4063    0    0 
+mudbug    862140789  4  3 f   -     -     -         4063    0    0 
+mudbug    862140819  4  2 Bk  k     f     -         4063   10    0 
+mudbug    862140871  3  1 Bf  -     -     -         4053    5    0 
+mudbug    862140878  3  3 f   -     -     -         4048    0    0 
+mudbug    862140902  4  2 Bf  -     -     -         4048   10    0 
+mudbug    862140972  4  1 Bc  b     b     k         4038   40    0 9s Kc
+mudbug    862141011  3  3 f   -     -     -         3998    0    0 
+mudbug    862141021  3  3 cc  c     c     c         3998   70    0 Kd Th
+mudbug    862141071  3  2 Bk  f     -     -         3928   10    0 
+mudbug    862141090  3  1 Br  b     b     k         3918   50    0 Ac 9h
+mudbug    862141116  3  3 c   b     k     f         3868   20    0 
+mudbug    862141164  3  2 B   -     -     -         3848   10   15 
+mudbug    862141173  3  1 Bf  -     -     -         3853    5    0 
+mudbug    862141180  3  3 c   k     k     c         3848   30   65 9s Kh
+mudbug    862141206  4  2 Br  b     k     k         3883   30   65 7h As
+mudbug    862141238  4  1 Bf  -     -     -         3918    5    0 
+mudbug    862141264  4  4 c   b     -     -         3913   20   35 
+mudbug    862141280  4  3 f   -     -     -         3928    0    0 
+mudbug    862141341  4  2 B   -     -     -         3928   10   15 
+mudbug    862141351  4  1 Bcc kr    b     b         3933  100  260 As Ac
+mudbug    862141396  4  4 rc  r     c     c         4093   90  210 Qd Ad
+mudbug    862141440  4  3 f   -     -     -         4213    0    0 
+mudbug    862141520  4  2 Bk  kc    kf    -         4213   20    0 
+mudbug    862141554  4  1 Bc  b     -     -         4193   20   40 
+mudbug    862141569  4  4 f   -     -     -         4213    0    0 
+mudbug    862141577  4  3 c   f     -     -         4213   10    0 
+mudbug    862141602  4  2 Bf  -     -     -         4203   10    0 
+mudbug    862141613  4  1 Bf  -     -     -         4193    5    0 
+mudbug    862141623  4  4 f   -     -     -         4188    0    0 
+mudbug    862141641  4  3 f   -     -     -         4188    0    0 
+mudbug    862141652  4  2 Bc  kf    -     -         4188   20    0 
+mudbug    862141671  4  1 Bc  kc    kf    -         4168   30    0 
+mudbug    862141700  4  4 f   -     -     -         4138    0    0 
+mudbug    862141716  3  2 c   k     k     k         4138   10    0 9c 6c
+mudbug    862141739  3  2 B   -     -     -         4128   10   15 
+mudbug    862141746  2  1 Bcc kf    -     -         4133   20    0 
+mudbug    862141762  2  2 B   -     -     -         4113   10   15 
+mudbug    862141767  2  1 Bc  bc    kc    k         4118   50    0 9d Tc
+mudbug    862141794  2  2 Bf  -     -     -         4068   10    0 
+mudbug    862141803  2  1 Bf  -     -     -         4058    5    0 
+mudbug    862141811  2  2 B   -     -     -         4053   10   15 
+mudbug    862141817  2  1 Br  bc    kf    -         4058   40    0 
+mudbug    862141838  2  2 B   -     -     -         4018   10   15 
+mudbug    862141843  2  1 Bcc kc    kr    b         4023   90    0 Kh 3c
+mudbug    862141873  2  2 Bk  b     -     -         3933   20   30 
+mudbug    862141891  2  1 Bf  -     -     -         3943    5    0 
+mudbug    862141898  2  2 B   -     -     -         3938   10   15 
+mudbug    862141906  2  1 Bf  -     -     -         3943    5    0 
+mudbug    862141913  2  2 B   -     -     -         3938   10   15 
+mudbug    862141918  2  1 Bc  k     k     k         3943   10    0 8h 9h
+mudbug    862174204  9  6 rr  rc    r     -         3943  110  325 Kc Tc
+mudbug    862174344  7  4 f   -     -     -         4158    0    0 
+mudbug    862174416  7  3 f   -     -     -         4158    0    0 
+mudbug    862174466  6  2 Bk  b     bf    -         4158   40    0 
+mudbug    862174526  5  1 Bf  -     -     -         4118    5    0 
+mudbug    862174555  5  5 rc  f     -     -         4113   40    0 
+mudbug    862174604  5  4 f   -     -     -         4073    0    0 
+mudbug    862174667  6  3 f   -     -     -         4073    0    0 
+mudbug    862174758  7  2 Br  bc    kf    -         4073   40    0 
+mudbug    862174953  5  1 Bc  bc    kc    kf        4033   60    0 
+mudbug    862175006  5  5 r   f     -     -         3973   20    0 
+mudbug    862175095  5  4 r   b     -     -         3953   30   40 Th Ah
+mudbug    862175133  5  3 f   -     -     -         3963    0    0 
+mudbug    862175177  5  2 Br  b     b     b         3963   70  145 4s 5h
+mudbug    862175227  5  1 Bf  -     -     -         4038    5    0 
+mudbug    862175291  5  5 rc  c     c     f         4033   70    0 
+mudbug    862175346  5  4 f   -     -     -         3963    0    0 
+mudbug    862175550  4  2 Bk  b     b     b         3963   60  100 
+mudbug    862175608  4  1 Bc  b     -     -         4003   20   30 
+mudbug    862175630  5  5 f   -     -     -         4013    0    0 
+mudbug    862175680  7  6 f   -     -     -         4013    0    0 
+mudbug    862175764  8  6 f   -     -     -         4013    0    0 
+mudbug    862175865  8  5 cc  f     -     -         4013   20    0 
+mudbug    862175936  8  4 f   -     -     -         3993    0    0 
+mudbug    862176006  8  3 f   -     -     -         3993    0    0 
+mudbug    862176075  8  2 Bf  -     -     -         3993   10    0 
+mudbug    862176130  8  1 Bc  kf    -     -         3983   30    0 
+mudbug    862176219  7  7 cc  f     -     -         3953   40    0 
+mudbug    862176288  7  6 f   -     -     -         3913    0    0 
+mudbug    862176345  7  5 r   bc    k     k         3913   40  135 Ts Ah
+mudbug    862176413  7  4 f   -     -     -         4008    0    0 
+mudbug    862176468  7  3 f   -     -     -         4008    0    0 
+mudbug    862176528  8  2 Bf  -     -     -         4008   10    0 
+mudbug    862176597  9  1 Bc  k     k     kf        3998   10    0 
+mudbug    862176721  9  9 f   -     -     -         3988    0    0 
+mudbug    862176798  9  8 f   -     -     -         3988    0    0 
+mudbug    862176863  9  7 f   -     -     -         3988    0    0 
+mudbug    862176972  7  5 r   b     -     -         3988   30  100 
+mudbug    862177035  8  5 f   Q     -     -         4058    0    0 
+mudbug    862186535  7  7 f   -     -     -         4058    0    0 
+mudbug    862186579  7  6 f   -     -     -         4058    0    0 
+mudbug    862186631  7  5 f   -     -     -         4058    0    0 
+mudbug    862186692  7  4 f   -     -     -         4058    0    0 
+mudbug    862186747  7  3 f   -     -     -         4058    0    0 
+mudbug    862186845  7  2 Bf  -     -     -         4058   10    0 
+mudbug    862186953  7  1 Bc  b     k     k         4048   20   70 8c Jd
+mudbug    862187029  8  8 f   -     -     -         4098    0    0 
+mudbug    862187084  8  6 cc  c     f     -         4098   30    0 
+mudbug    862187144 10  5 f   -     -     -         4068    0    0 
+mudbug    862187218  9  4 f   -     -     -         4068    0    0 
+mudbug    862187259  9  3 rc  rc    c     c         4068  100    0 Qh Qc
+mudbug    862187344  9  2 Bc  kf    -     -         3968   20    0 
+mudbug    862187396  9  1 Bf  -     -     -         3948    5    0 
+mudbug    862187444  9  9 c   f     -     -         3943   10    0 
+mudbug    862187500  9  8 f   -     -     -         3933    0    0 
+mudbug    862187549  9  7 f   -     -     -         3933    0    0 
+mudbug    862187600  8  6 f   -     -     -         3933    0    0 
+mudbug    862187638  8  5 f   -     -     -         3933    0    0 
+mudbug    862187685  8  4 f   -     -     -         3933    0    0 
+mudbug    862187762  7  3 c   b     b     k         3933   40  105 4s 4h
+mudbug    862187802  7  2 Bk  kf    -     -         3998   10    0 
+mudbug    862187831  7  1 Bc  kc    kf    -         3988   30    0 
+mudbug    862187895  8  8 f   -     -     -         3958    0    0 
+mudbug    862187947  9  8 f   -     -     -         3958    0    0 
+mudbug    862188004  9  7 f   -     -     -         3958    0    0 
+mudbug    862188170  9  6 c   f     -     -         3958   10    0 
+mudbug    862188286 10  4 f   -     -     -         3948    0    0 
+mudbug    862188346 11  4 f   -     -     -         3948    0    0 
+mudbug    862188432 10  4 f   Q     -     -         3948    0    0 
+mudbug    862189796 11  9 f   -     -     -         3948    0    0 
+mudbug    862189887 10  7 f   -     -     -         3948    0    0 
+mudbug    862189955 10  5 f   -     -     -         3948    0    0 
+mudbug    862190027 10  4 f   -     -     -         3948    0    0 
+mudbug    862190146 10  3 f   -     -     -         3948    0    0 
+mudbug    862190202  9  2 Bc  kc    k     b         3948   50  160 
+mudbug    862190290  9  1 Bc  kf    -     -         4058   10    0 
+mudbug    862190339  9  9 f   -     -     -         4048    0    0 
+mudbug    862190384  8  7 r   f     -     -         4048   20    0 
+mudbug    862190419  8  6 f   -     -     -         4028    0    0 
+mudbug    862190448 10  7 f   -     -     -         4028    0    0 
+mudbug    862190492  9  6 f   -     -     -         4028    0    0 
+mudbug    862190518  9  5 f   -     -     -         4028    0    0 
+mudbug    862190587  9  4 rc  kf    -     -         4028   50    0 
+mudbug    862190666  9  3 f   -     -     -         3978    0    0 
+mudbug    862190772  9  2 Bc  k     brc   b         3978  120  325 7s 6s
+mudbug    862190870 10  1 Bf  -     -     -         4183    5    0 
+mudbug    862190915  9  9 f   -     -     -         4178    0    0 
+mudbug    862191038  8  7 f   -     -     -         4178    0    0 
+mudbug    862191072  7  6 f   -     -     -         4178    0    0 
+mudbug    862191109  7  5 f   -     -     -         4178    0    0 
+mudbug    862191167  7  4 f   -     -     -         4178    0    0 
+mudbug    862191196  7  3 f   -     -     -         4178    0    0 
+mudbug    862191245  7  2 Bf  -     -     -         4178   10    0 
+mudbug    862191269  7  1 Bf  -     -     -         4168    5    0 
+mudbug    862191335  7  7 f   -     -     -         4163    0    0 
+mudbug    862191406  7  6 f   -     -     -         4163    0    0 
+mudbug    862191436  7  5 cc  r     c     c         4163   80  205 Kd Js
+mudbug    862191482  8  4 f   -     -     -         4288    0    0 
+mudbug    862191530  9  4 cc  ccc   ccf   -         4288  120    0 
+mudbug    862191637  9  3 f   -     -     -         4168    0    0 
+mudbug    862191747 10  3 f   -     -     -         4168    0    0 
+mudbug    862191786 10  2 Bf  -     -     -         4168   10    0 
+mudbug    862191902 10  1 Bf  -     -     -         4158    5    0 
+mudbug    862191963 11 10 c   f     -     -         4153   10    0 
+mudbug    862192017 12  9 f   -     -     -         4143    0    0 
+mudbug    862192098 12  8 f   -     -     -         4143    0    0 
+mudbug    862192143 11  6 f   -     -     -         4143    0    0 
+mudbug    862192245 10  6 f   -     -     -         4143    0    0 
+mudbug    862192322 10  5 f   -     -     -         4143    0    0 
+mudbug    862192375 10  4 f   -     -     -         4143    0    0 
+mudbug    862192424 10  3 cc  kc    kc    k         4143   50    0 Ad 2d
+mudbug    862192484 10  2 Bf  -     -     -         4093   10    0 
+mudbug    862192539 10  1 Bf  -     -     -         4083    5    0 
+mudbug    862192612 10 10 rc  b     k     k         4078   40    0 8c 9d
+mudbug    862192682  9  9 f   -     -     -         4038    0    0 
+mudbug    862192766 10  8 f   -     -     -         4038    0    0 
+mudbug    862192815 10  7 f   -     -     -         4038    0    0 
+mudbug    862192916 11  6 f   -     -     -         4038    0    0 
+mudbug    862192980 11  5 f   -     -     -         4038    0    0 
+mudbug    862193077 12  4 f   -     -     -         4038    0    0 
+mudbug    862193147 11  3 f   -     -     -         4038    0    0 
+mudbug    862193204 12  2 Bf  -     -     -         4038   10    0 
+mudbug    862193241 11  1 Bf  -     -     -         4028    5    0 
+mudbug    862193317 11 11 f   -     -     -         4023    0    0 
+mudbug    862193397 11 10 f   -     -     -         4023    0    0 
+mudbug    862193496 11  9 f   -     -     -         4023    0    0 
+mudbug    862193537 10  7 f   -     -     -         4023    0    0 
+mudbug    862193677 12  7 f   -     -     -         4023    0    0 
+mudbug    862193774 12  4 Q   -     -     -         4023    0    0 

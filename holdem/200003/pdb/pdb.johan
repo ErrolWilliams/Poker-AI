@@ -1,0 +1,91 @@
+johan     953747929  2  2 B   -     -     -         1000   10   15 
+johan     953747933  2  1 Bcc b     kr    b         1005   90  180 Qc Ad
+johan     953747967  2  2 B   -     -     -         1095   10   15 
+johan     953747973  2  1 Bc  k     k     k         1100   10    0 4s 5h
+johan     953747989  2  2 Bf  -     -     -         1090   10    0 
+johan     953747997  2  1 Bc  kc    k     kf        1080   20    0 
+johan     953748023  2  2 Bk  b     b     b         1060   60    0 Qd 5s
+johan     953748039  2  1 Bcc kf    -     -         1000   20    0 
+johan     953748061  2  2 Br  -     -     -          980   30   50 
+johan     953748066  2  1 Bcf -     -     -         1000   10    0 
+johan     953748074  2  2 B   -     -     -          990   10   15 
+johan     953748078  2  1 Bf  -     -     -          995    5    0 
+johan     953748081  2  2 Bf  -     -     -          990   10    0 
+johan     953748086  2  1 Bcc kc    k     k          980   30   60 Ks 6c
+johan     953748106  2  2 B   -     -     -         1010   10   15 
+johan     953748110  2  1 Bc  kc    k     b         1015   40   60 
+johan     953748130  2  2 Bk  rr    b     b         1035   90    0 Tc Td
+johan     953748150  2  1 Bc  k     k     k          945   10   20 Ah 4d
+johan     953748174  3  2 Bf  -     -     -          955   10    0 
+johan     953748186  3  1 Bc  b     b     b          945   60  120 8s 6s
+johan     953748209  3  3 c   k     b     br        1005   90  165 
+johan     953748231  3  2 Bk  kf    -     -         1080   10    0 
+johan     953748245  3  1 Bf  -     -     -         1070    5    0 
+johan     953748250  3  3 c   k     k     k         1065   10   25 8c Jc
+johan     953748267  3  2 Bk  f     -     -         1080   10    0 
+johan     953748285  3  1 Bf  -     -     -         1070    5    0 
+johan     953748300  3  3 c   k     k     b         1065   30   65 8d Jh
+johan     953748318  3  2 B   -     -     -         1100   10   15 
+johan     953748327  3  1 Bc  k     k     b         1105   30   40 
+johan     953748350  3  3 c   k     k     k         1115   10    0 Th 2c
+johan     953748377  3  2 Bk  k     c     k         1105   30    0 8c Qc
+johan     953748398  3  1 Bf  -     -     -         1075    5    0 
+johan     953748439  3  3 c   k     c     rf        1070   70    0 
+johan     953748466  4  2 Bk  kc    kf    -         1000   20    0 
+johan     953748496  4  1 Bc  kc    kc    k          980   40    0 6c 8c
+johan     953748544  4  4 c   c     c     c          940   60   65 8h Qs
+johan     953748573  4  3 c   k     k     c          945   30    0 8c Ah
+johan     953748613  4  2 Bf  -     -     -          915   10    0 
+johan     953748648  4  1 Bc  k     k     b          905   30   60 3d Qc
+johan     953748669  4  4 c   k     k     b          935   30   45 
+johan     953748696  4  3 c   c     k     k          950   20    0 4h Ah
+johan     953748720  4  2 Bf  -     -     -          930   10    0 
+johan     953748732  4  1 Bf  -     -     -          920    5    0 
+johan     953748757  4  4 f   -     -     -          915    0    0 
+johan     953748768  4  3 cc  c     c     k          915   50  110 8s Tc
+johan     953748794  4  2 Bk  r     b     -          975   50   80 
+johan     953748812  4  1 Bc  kc    kc    bf        1005   60    0 
+johan     953748855  5  5 cc  k     k     b          945   60  155 
+johan     953748912  5  4 cc  c     c     c         1040   70    0 Ks Jd
+johan     953748951  5  3 f   -     -     -          970    0    0 
+johan     953748959  6  2 Bk  k     f     -          970   10    0 
+johan     953748978  6  1 Bf  -     -     -          960    5    0 
+johan     953749017  7  7 c   k     f     -          955   10    0 
+johan     953749039  7  6 c   k     r     -          945   60  135 
+johan     953749061  7  5 f   -     -     -         1020    0    0 
+johan     953749102  6  4 c   k     b     -         1020   30   45 
+johan     953749127  5  3 cc  b     b     b         1035   90    0 Jh 8d
+johan     953749168  6  2 Bk  kc    kcf   -          945   40    0 
+johan     953749207  6  1 Br  k     b     bc         905   90    0 4c 4s
+johan     953749249  6  6 r   r     b     b          815   80  175 
+johan     953749275  6  5 f   -     -     -          910    0    0 
+johan     953749297  7  4 c   c     kc    kf         910   40    0 
+johan     953749353  7  3 c   b     b     br         870  100  230 5d Kd
+johan     953749394  7  2 Bk  kf    -     -         1000   10    0 
+johan     953749448  7  1 Bc  kc    kf    -          990   20    0 
+johan     953749509  7  7 r   c     c     f          970   50    0 
+johan     953749569  7  6 r   rr    r     k          920  120    0 Jc Jh
+johan     953749632  7  5 rr  b     b     -          800   70  235 
+johan     953749697  7  4 rr  r     k     rr         965  140  350 Td As
+johan     953749742  7  3 c   b     b     b         1175   60   83 4c 2d
+johan     953749778  7  2 Br  kc    kc    bc        1198  100    0 3d Jd
+johan     953749839  8  1 Br  brc   b     brc       1098  180    0 7d 8d
+johan     953749929  9  9 c   c     f     -          918   20    0 
+johan     953749970  9  8 rc  k     k     Q          898   40    0 
+johan     953750305  8  2 rr  brc   kcc   brc        858  240    0 Ac 7c
+johan     953750373  8  2 Bcc kc    kc    kc         618  110  335 6d Kd
+johan     953750447  8  1 Br  kc    k     b          843   50  170 
+johan     953750512  9  9 f   -     -     -          963    0    0 
+johan     953750569 10  9 rc  c     c     c          963  100    0 Jc Kc
+johan     953750682 10  8 f   -     -     -          863    0    0 
+johan     953750763 10  7 cc  kc    kc    brc        863  150  435 Jd 3c
+johan     953750831  9  6 cc  kf    -     -         1148   20    0 
+johan     953750882  9  5 cc  kf    -     -         1128   30    0 
+johan     953750939  9  4 c   b     -     -         1098   20   50 
+johan     953750967  8  3 c   k     kc    kc        1128   50    0 Td 8c
+johan     953751029  8  2 Bc  k     kc    k         1078   40  140 9c 4c
+johan     953751068  9  1 Bf  -     -     -         1178    5    0 
+johan     953751084  9  9 c   f     -     -         1173   20    0 
+johan     953751133  9  8 c   c     c     f         1153   50    0 
+johan     953751176  9  7 f   -     -     -         1103    0    0 
+johan     953751234  9  6 KQ  -     -     -         1103    0    0 

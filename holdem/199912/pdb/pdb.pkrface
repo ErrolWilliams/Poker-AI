@@ -1,0 +1,481 @@
+pkrface   944524367 10 10 f   -     -     -         1000    0    0 
+pkrface   944524481  9  8 f   -     -     -         1000    0    0 
+pkrface   944524515  9  7 f   -     -     -         1000    0    0 
+pkrface   944524570  9  6 f   -     -     -         1000    0    0 
+pkrface   944524644  9  5 c   f     -     -         1000   10    0 
+pkrface   944524683  9  4 f   -     -     -          990    0    0 
+pkrface   944524749  9  3 cc  kf    -     -          990   20    0 
+pkrface   944524803  9  2 Bf  -     -     -          970   10    0 
+pkrface   944524843  9  1 Bf  -     -     -          960    5    0 
+pkrface   944524895  9  9 f   -     -     -          955    0    0 
+pkrface   944524938  9  8 f   -     -     -          955    0    0 
+pkrface   944524990  9  7 f   -     -     -          955    0    0 
+pkrface   944525057  9  6 c   f     -     -          955   20    0 
+pkrface   944525114 10  5 f   -     -     -          935    0    0 
+pkrface   944525177 10  4 f   -     -     -          935    0    0 
+pkrface   944525250 10  3 c   cc    kf    -          935   30    0 
+pkrface   944525332 10  2 Bk  k     b     k          905   30   75 5h 7d
+pkrface   944525387 10  1 Bc  k     b     -          950   30   60 
+pkrface   944525447 10 10 f   -     -     -          980    0    0 
+pkrface   944525529 10  9 f   -     -     -          980    0    0 
+pkrface   944525586  9  7 f   -     -     -          980    0    0 
+pkrface   944525643  9  6 c   r     -     -          980   30   75 
+pkrface   944525687  9  5 cc  kc    k     k         1025   30    0 8s Ts
+pkrface   944525731  9  4 c   k     k     k          995   10    0 8c Jc
+pkrface   944525759  9  3 f   -     -     -          985    0    0 
+pkrface   944525798  9  2 Bk  k     b     b          985   50    0 Qh 8c
+pkrface   944525835 10  1 Bc  k     k     b          935   30   60 
+pkrface   944525903 10 10 f   -     -     -          965    0    0 
+pkrface   944525954 10  9 f   -     -     -          965    0    0 
+pkrface   944526015 10  8 f   -     -     -          965    0    0 
+pkrface   944526026 10  7 f   -     -     -          965    0    0 
+pkrface   944526067 10  6 f   -     -     -          965    0    0 
+pkrface   944526112 10  5 f   -     -     -          965    0    0 
+pkrface   944526155 10  4 r   b     -     -          965   30   55 
+pkrface   944526175 10  3 f   -     -     -          990    0    0 
+pkrface   944526219 10  2 Bf  -     -     -          990   10    0 
+pkrface   944526260 10  1 Brc kc    kc    kc         980  100    0 Qs Qc
+pkrface   944526323 10  3 Q   -     -     -          880    0    0 
+pkrface   944529319  8  5 cc  kc    kc    b         1165   70  340 6s 7s
+pkrface   944529405  8  4 c   k     k     rc        1435   90    0 9d Th
+pkrface   944529452  7  3 f   -     -     -         1345    0    0 
+pkrface   944529544  7  2 Bk  k     k     f         1345   10    0 
+pkrface   944529662  7  1 Bf  -     -     -         1335    5    0 
+pkrface   944529700  7  7 f   -     -     -         1330    0    0 
+pkrface   944529782  8  7 f   -     -     -         1330    0    0 
+pkrface   944529903  9  7 cc  f     -     -         1330   20    0 
+pkrface   944530014 10  7 c   f     -     -         1310   10    0 
+pkrface   944530114  9  6 c   k     c     r         1300   70  250 9s Th
+pkrface   944530219 10  5 f   -     -     -         1480    0    0 
+pkrface   944530305 10  4 c   k     f     -         1480   10    0 
+pkrface   944530401 10  3 c   f     -     -         1470   10    0 
+pkrface   944530470 10  2 Bk  kf    -     -         1460   10    0 
+pkrface   944530556 10  1 Bf  -     -     -         1450    5    0 
+pkrface   944530631 10 10 f   -     -     -         1445    0    0 
+pkrface   944530726 10  9 c   f     -     -         1445   20    0 
+pkrface   944530809 10  8 f   -     -     -         1425    0    0 
+pkrface   944530908 10  7 c   f     -     -         1425   10    0 
+pkrface   944530953 10  6 f   -     -     -         1415    0    0 
+pkrface   944531017 10  5 f   -     -     -         1415    0    0 
+pkrface   944531119 10  4 f   -     -     -         1415    0    0 
+pkrface   944531198 10  3 f   -     -     -         1415    0    0 
+pkrface   944531262 10  2 Bk  k     k     b         1415   30   60 
+pkrface   944531377 10  1 Br  br    b     bc        1445  110    0 Ks Kh
+pkrface   944531492 10 10 r   b     b     b         1335   70    0 Qc Qd
+pkrface   944531637  9  8 f   -     -     -         1265    0    0 
+pkrface   944531690  8  7 f   -     -     -         1265    0    0 
+pkrface   944531759  8  6 fQ  -     -     -         1265    0    0 
+pkrface   944588703  9  7 c   c     b     r         1265   80  200 6d Qd
+pkrface   944588768  9  7 f   -     -     -         1385    0    0 
+pkrface   944588831  9  6 f   -     -     -         1385    0    0 
+pkrface   944588904  9  5 f   -     -     -         1385    0    0 
+pkrface   944589018  9  5 f   -     -     -         1385    0    0 
+pkrface   944589027  8  3 f   -     -     -         1385    0    0 
+pkrface   944589117  8  2 Bk  k     k     kf        1385   10    0 
+pkrface   944589209  8  1 Bc  k     k     k         1375   20   50 4c 4s
+pkrface   944589236  9  8 c   kf    -     -         1405   10    0 
+pkrface   944589274  9  7 f   -     -     -         1395    0    0 
+pkrface   944589332  8  5 c   c     c     k         1395   40    0 3c 3s
+pkrface   944589368  8  4 f   -     -     -         1355    0    0 
+pkrface   944589415  8  3 f   -     -     -         1355    0    0 
+pkrface   944589469  8  2 Bk  kf    -     -         1355   10    0 
+pkrface   944589518  8  1 Bf  -     -     -         1345    5    0 
+pkrface   944589574  9  9 c   c     b     b         1340   60  145 2s Qs
+pkrface   944589612  9  8 c   f     -     -         1425   10    0 
+pkrface   944589683  9  7 f   -     -     -         1415    0    0 
+pkrface   944589727 10  7 f   -     -     -         1415    0    0 
+pkrface   944589782  9  5 f   -     -     -         1415    0    0 
+pkrface   944589886  8  4 f   -     -     -         1415    0    0 
+pkrface   944589919 10  4 f   -     -     -         1415    0    0 
+pkrface   944589954  9  3 f   -     -     -         1415    0    0 
+pkrface   944589992  8  2 Bk  f     -     -         1415   10    0 
+pkrface   944590017  8  1 Bf  -     -     -         1405    5    0 
+pkrface   944590042  9  8 f   -     -     -         1400    0    0 
+pkrface   944590079 10  8 fQ  -     -     -         1400    0    0 
+pkrface   944601175 10  8 f   -     -     -         1400    0    0 
+pkrface   944601248  9  7 f   -     -     -         1400    0    0 
+pkrface   944601317  9  6 f   -     -     -         1400    0    0 
+pkrface   944601364  9  5 c   f     -     -         1400   10    0 
+pkrface   944601408 10  4 c   r     b     b         1390   70  360 8c 8h
+pkrface   944601512  9  2 Bk  kf    -     -         1680   10    0 
+pkrface   944601570  9  1 Bf  -     -     -         1670    5    0 
+pkrface   944601623  9  9 c   r     c     f         1665   50    0 
+pkrface   944601705  9  9 f   -     -     -         1615    0    0 
+pkrface   944601766  9  8 f   -     -     -         1615    0    0 
+pkrface   944601820  9  7 cc  c     c     f         1615   50    0 
+pkrface   944601884  8  5 r   b     -     -         1565   30   90 
+pkrface   944601927  8  4 cc  kc    kc    k         1625   50  110 7s 8s
+pkrface   944602030  8  3 f   -     -     -         1685    0    0 
+pkrface   944602099  8  2 Bk  kf    -     -         1685   10    0 
+pkrface   944602166  8  1 Bf  -     -     -         1675    5    0 
+pkrface   944602216  8  8 f   -     -     -         1670    0    0 
+pkrface   944602276  9  8 f   -     -     -         1670    0    0 
+pkrface   944602340  9  7 f   -     -     -         1670    0    0 
+pkrface   944602417 10  6 f   -     -     -         1670    0    0 
+pkrface   944602486 10  6 f   -     -     -         1670    0    0 
+pkrface   944602527  9  4 f   -     -     -         1670    0    0 
+pkrface   944602595  9  3 f   -     -     -         1670    0    0 
+pkrface   944602657  9  2 Bf  -     -     -         1670   10    0 
+pkrface   944602730  9  1 Bf  -     -     -         1660    5    0 
+pkrface   944602787 10 10 f   -     -     -         1655    0    0 
+pkrface   944602891  9  8 f   -     -     -         1655    0    0 
+pkrface   944602974  9  8 f   -     -     -         1655    0    0 
+pkrface   944603030  8  6 f   -     -     -         1655    0    0 
+pkrface   944603092  8  5 f   -     -     -         1655    0    0 
+pkrface   944603135  9  4 c   k     kf    -         1655   10    0 
+pkrface   944603209  9  3 cc  kr    k     b         1645   60  165 Ks 7s
+pkrface   944603286  9  2 Bc  kc    k     k         1750   30    0 Ts 3s
+pkrface   944603375  8  1 Bf  -     -     -         1720    5    0 
+pkrface   944603436  8  8 c   b     r     r         1715  110    0 Qc Ah
+pkrface   944603526  8  7 f   -     -     -         1605    0    0 
+pkrface   944603599  9  7 f   -     -     -         1605    0    0 
+pkrface   944603661  9  6 f   -     -     -         1605    0    0 
+pkrface   944603768 10  5 f   -     -     -         1605    0    0 
+pkrface   944603838 10  4 f   -     -     -         1605    0    0 
+pkrface   944603875  9  2 f   -     -     -         1605    0    0 
+pkrface   944603966 10  2 Bf  -     -     -         1605   10    0 
+pkrface   944604021 10  1 Bf  -     -     -         1595    5    0 
+pkrface   944604086  9  9 f   -     -     -         1590    0    0 
+pkrface   944604175  9  9 f   -     -     -         1590    0    0 
+pkrface   944604240  9  8 f   -     -     -         1590    0    0 
+pkrface   944604291  9  7 f   -     -     -         1590    0    0 
+pkrface   944604411  9  6 f   -     -     -         1590    0    0 
+pkrface   944604520  8  5 f   -     -     -         1590    0    0 
+pkrface   944604582  8  3 c   k     r     r         1590   90  280 9c 8c
+pkrface   944604648  8  2 Bf  -     -     -         1780   10    0 
+pkrface   944604727  9  1 Bf  -     -     -         1770    5    0 
+pkrface   944604785  9  9 cc  f     -     -         1765   30    0 
+pkrface   944604842  9  7 f   -     -     -         1735    0    0 
+pkrface   944604873  9  6 f   -     -     -         1735    0    0 
+pkrface   944604989  9  5 r   c     f     -         1735   30    0 
+pkrface   944605059  9  4 c   cc    kr    k         1705   70  240 6s 5s
+pkrface   944605138 10  4 f   -     -     -         1875    0    0 
+pkrface   944605191 10  3 f   -     -     -         1875    0    0 
+pkrface   944605245 10  2 Bf  -     -     -         1875   10    0 
+pkrface   944605321 10  1 Bf  -     -     -         1865    5    0 
+pkrface   944605368 10 10 c   rr    rc    bc        1860  150  385 7s 8d
+pkrface   944605478 10  9 c   f     -     -         2095   10    0 
+pkrface   944605529 10  8 f   -     -     -         2085    0    0 
+pkrface   944605570 10  7 f   -     -     -         2085    0    0 
+pkrface   944605663 10  6 f   -     -     -         2085    0    0 
+pkrface   944605703 10  5 c   kr    k     f         2085   30    0 
+pkrface   944605790 10  4 f   -     -     -         2055    0    0 
+pkrface   944605831 10  3 c   fQ    -     -         2055   10    0 
+pkrface   945129063  6  4 f   -     -     -         2045    0    0 
+pkrface   945129091  6  3 fQ  -     -     -         2045    0    0 
+pkrface   945219774 10  9 c   cc    r     c          670  110    0 Tc 9d
+pkrface   945219866 10  8 c   cc    cc    k          560   90    0 Jc 9d
+pkrface   945219943 10  7 f   -     -     -          470    0    0 
+pkrface   945219976 10  6 f   -     -     -          470    0    0 
+pkrface   945220056 10  5 f   -     -     -          470    0    0 
+pkrface   945220124 10  4 f   -     -     -          470    0    0 
+pkrface   945220222 10  3 f   -     -     -          470    0    0 
+pkrface   945220270 10  2 Bc  kc    kc    kr         470   90  205 Ad Ks
+pkrface   945220321 10  1 Bf  -     -     -          585    5    0 
+pkrface   945220367 10 10 f   -     -     -          580    0    0 
+pkrface   945220411 10  9 f   -     -     -          580    0    0 
+pkrface   945220494 10  8 f   -     -     -          580    0    0 
+pkrface   945220530 10  7 f   -     -     -          580    0    0 
+pkrface   945220541 10  6 c   f     -     -          580   10    0 
+pkrface   945220584 10  5 f   -     -     -          570    0    0 
+pkrface   945220640 10  4 r   r     bc    k          570   80    0 As Ac
+pkrface   945220708 10  4 f   -     -     -          490    0    0 
+pkrface   945220789 10  2 Bf  -     -     -          490   10    0 
+pkrface   945220892 10  1 Bc  kc    kf    -          480   20    0 
+pkrface   945220924 10 10 c   f     -     -          460   20    0 
+pkrface   945220995 10  9 f   -     -     -          440    0    0 
+pkrface   945221045 10  8 cc  kc    kc    kf         440   50    0 
+pkrface   945221088 10  7 f   -     -     -          390    0    0 
+pkrface   945221145 10  6 cc  k     k     b          390   40  130 2h Kh
+pkrface   945221204 10  5 c   f     -     -          480   10    0 
+pkrface   945221240 10  4 f   -     -     -          470    0    0 
+pkrface   945221303 10  3 c   kf    -     -          470   10    0 
+pkrface   945221355 10  2 Bk  kc    b     -          460   40   90 
+pkrface   945221412 10  1 Bc  b     bc    kc         510   80    0 Qh Ts
+pkrface   945221474 10 10 cc  b     b     b          430   80  290 5c Qc
+pkrface   945221533 10  9 f   -     -     -          640    0    0 
+pkrface   945221575 10  8 f   -     -     -          640    0    0 
+pkrface   945221630 10  7 f   -     -     -          640    0    0 
+pkrface   945221674 10  6 f   -     -     -          640    0    0 
+pkrface   945221731 10  5 f   -     -     -          640    0    0 
+pkrface   945221797 10  4 f   -     -     -          640    0    0 
+pkrface   945221887 10  3 f   -     -     -          640    0    0 
+pkrface   945221959  9  2 Bk  kf    -     -          640   10    0 
+pkrface   945222029 10  1 Bc  kc    kc    kf         630   50    0 
+pkrface   945222097 10 10 c   f     -     -          580   20    0 
+pkrface   945222177  9  8 cc  kc    kr    b          560   90  285 As Ts
+pkrface   945222249 10  8 f   -     -     -          755    0    0 
+pkrface   945222300 10  7 c   f     -     -          755   10    0 
+pkrface   945222354 10  6 c   kf    -     -          745   10    0 
+pkrface   945222417 10  5 c   c     b     b          735   60  180 Ts Js
+pkrface   945222473 10  4 f   -     -     -          855    0    0 
+pkrface   945222508 10  3 cc  kr    b     b          855   80  290 6s 6h
+pkrface   945222608 10  2 Bk  k     k     b         1065   30   80 
+pkrface   945222693 10  1 Bf  -     -     -         1115    5    0 
+pkrface   945222750 10 10 f   -     -     -         1110    0    0 
+pkrface   945222789 10  9 f   -     -     -         1110    0    0 
+pkrface   945222842 10  8 cc  kf    -     -         1110   20    0 
+pkrface   945222950 10  7 c   k     k     f         1090   10    0 
+pkrface   945223050 10  6 c   c     rc    rc        1080  140    0 As 5s
+pkrface   945223112 10  5 f   -     -     -          940    0    0 
+pkrface   945223215  9  3 f   -     -     -          940    0    0 
+pkrface   945223281  9  2 Bf  -     -     -          940   10    0 
+pkrface   945223328  8  1 Bc  k     k     k          930   10   30 Jd Ks
+pkrface   945223364  8  8 f   -     -     -          950    0    0 
+pkrface   945223428  8  7 c   f     -     -          950   10    0 
+pkrface   945223469  8  6 cc  k     k     b          940   40   85 
+pkrface   945223508  8  5 c   br    rc    c          985  120    0 5c 5h
+pkrface   945223571  8  5 f   -     -     -          865    0    0 
+pkrface   945223654  7  3 c   br    b     b          865   80  190 Kd As
+pkrface   945223726  8  2 Bk  b     b     -          975   40   90 
+pkrface   945223760  8  1 Bf  -     -     -         1025    5    0 
+pkrface   945223804  8  8 c   cf    -     -         1020   30    0 
+pkrface   945223863 10  9 cc  f     -     -          990   20    0 
+pkrface   945224009  9  7 c   kf    -     -          970   10    0 
+pkrface   945224091 10  6 f   -     -     -          960    0    0 
+pkrface   945224128 10  5 f   -     -     -          960    0    0 
+pkrface   945224175 10  4 f   -     -     -          960    0    0 
+pkrface   945224249 10  3 f   -     -     -          960    0    0 
+pkrface   945224299 10  2 Bc  kc    kr    b          960  100  285 5s 5h
+pkrface   945224352 10  1 Bf  -     -     -         1145    5    0 
+pkrface   945224409 10 10 f   -     -     -         1140    0    0 
+pkrface   945224480 10  9 f   -     -     -         1140    0    0 
+pkrface   945224549 10  8 f   -     -     -         1140    0    0 
+pkrface   945224619 10  7 f   -     -     -         1140    0    0 
+pkrface   945224670 10  6 f   -     -     -         1140    0    0 
+pkrface   945224721 10  5 cc  k     kf    -         1140   20    0 
+pkrface   945224812 10  4 f   -     -     -         1120    0    0 
+pkrface   945224866 10  3 f   -     -     -         1120    0    0 
+pkrface   945224926 10  2 Bc  kc    kc    kf        1120   50    0 
+pkrface   945224992 10  1 Bf  -     -     -         1070    5    0 
+pkrface   945225032 10 10 r   b     r     -         1065   70  195 
+pkrface   945225131 10  9 cc  c     c     r         1190   90  230 Kd 8d
+pkrface   945225191 10  8 f   -     -     -         1330    0    0 
+pkrface   945225250 10  7 c   c     k     k         1330   20    0 6c Kc
+pkrface   945225296 10  6 f   -     -     -         1310    0    0 
+pkrface   945225374 10  5 f   -     -     -         1310    0    0 
+pkrface   945225481  9  4 fQ  -     -     -         1310    0    0 
+pkrface   945364236 10  4 f   -     -     -         1500    0    0 
+pkrface   945364286  9  2 Bc  f     -     -         1500   20    0 
+pkrface   945364376  7  1 Bf  -     -     -         1480    5    0 
+pkrface   945364447  7  7 f   -     -     -         1475    0    0 
+pkrface   945364490  7  6 f   -     -     -         1475    0    0 
+pkrface   945364535  7  5 cc  c     k     k         1475   50    0 Jh Th
+pkrface   945364638  7  4 f   -     -     -         1425    0    0 
+pkrface   945364705  7  4 cc  f     -     -         1425   40    0 
+pkrface   945364775  8  3 f   -     -     -         1385    0    0 
+pkrface   945364825  8  2 Bf  -     -     -         1385   10    0 
+pkrface   945364901  8  1 Bc  bc    bc    b         1375  100  260 
+pkrface   945364960  8  8 c   f     -     -         1535   20    0 
+pkrface   945364997  7  6 c   c     c     c         1515   70  235 Td Th
+pkrface   945365056  7  5 f   -     -     -         1680    0    0 
+pkrface   945365089  7  4 c   k     k     k         1680   20   75 7s 7h
+pkrface   945365172  7  3 f   -     -     -         1735    0    0 
+pkrface   945365213  7  2 Bf  -     -     -         1735   10    0 
+pkrface   945365260  7  1 Bc  kr    b     b         1725   90  220 
+pkrface   945365297  6  6 f   -     -     -         1855    0    0 
+pkrface   945365351  5  4 c   b     b     -         1855   50  120 
+pkrface   945365400  4  3 f   -     -     -         1925    0    0 
+pkrface   945365422  4  2 Bf  -     -     -         1925   10    0 
+pkrface   945365429  4  1 Bf  -     -     -         1915    5    0 
+pkrface   945365463  4  4 rf  -     -     -         1910   30    0 
+pkrface   945365510  4  3 f   -     -     Q         1880    0    0 
+pkrface   945367120 10  2 Bk  kc    kf    -         1880   20    0 
+pkrface   945367177  9  1 Bf  -     -     -         1860    5    0 
+pkrface   945367237  9  9 f   -     -     -         1855    0    0 
+pkrface   945367281 10  9 c   k     k     f         1855   10    0 
+pkrface   945367373 10  5 Q   -     -     -         1845    0    0 
+pkrface   945369093 10  9 f   -     -     -         1845    0    0 
+pkrface   945369144 10  8 f   -     -     -         1845    0    0 
+pkrface   945369189 10  7 f   -     -     -         1845    0    0 
+pkrface   945369238 10  6 f   -     -     -         1845    0    0 
+pkrface   945369326 10  5 f   -     -     -         1845    0    0 
+pkrface   945369416 10  4 f   -     -     -         1845    0    0 
+pkrface   945369543 10  3 c   kr    b     b         1845   70    0 Td 9d
+pkrface   945369631 10  2 Bf  -     -     -         1775   10    0 
+pkrface   945369679 10  1 Bf  -     -     -         1765    5    0 
+pkrface   945369727 10 10 r   b     r     b         1760   90    0 Ks Kd
+pkrface   945369811 10  9 f   -     -     -         1670    0    0 
+pkrface   945369859 10  8 f   -     -     -         1670    0    0 
+pkrface   945369905  9  6 f   -     -     -         1670    0    0 
+pkrface   945369961  9  6 c   k     ccc   c         1670  110    0 8h 8c
+pkrface   945370035 10  5 f   -     -     -         1560    0    0 
+pkrface   945370092 10  4 f   -     -     -         1560    0    0 
+pkrface   945370165 10  3 c   kf    -     -         1560   10    0 
+pkrface   945370213 10  2 Bk  k     f     -         1550   10    0 
+pkrface   945370278 10  1 Bf  -     -     -         1540    5    0 
+pkrface   945370310 10 10 c   f     -     -         1535   10    0 
+pkrface   945370362 10  9 cc  kf    -     -         1525   30    0 
+pkrface   945370430 10  8 f   -     -     -         1495    0    0 
+pkrface   945370480 10  8 f   -     -     -         1495    0    0 
+pkrface   945370511  8  5 f   -     -     -         1495    0    0 
+pkrface   945370545  8  4 f   -     -     -         1495    0    0 
+pkrface   945370566  8  3 cc  f     -     -         1495   20    0 
+pkrface   945370613  8  2 Bf  -     -     -         1475   10    0 
+pkrface   945370637  8  1 Bf  -     -     -         1465    5    0 
+pkrface   945370676  8  8 f   -     -     -         1460    0    0 
+pkrface   945370709  8  7 c   b     b     -         1460   40   70 
+pkrface   945370741  8  6 f   -     -     -         1490    0    0 
+pkrface   945370784  8  5 c   c     rr    r         1490  150  335 7d 8h
+pkrface   945370819  8  4 cc  kf    -     -         1675   40    0 
+pkrface   945370866  8  3 c   kf    -     -         1635   10    0 
+pkrface   945370923  9  3 c   kc    kc    kc        1625   60    0 Js Jh
+pkrface   945370970  9  2 Bc  c     r     b         1565   90  290 Qs Kc
+pkrface   945371014  9  1 Bf  -     -     -         1765    5    0 
+pkrface   945371055  9  9 c   k     k     f         1760   10    0 
+pkrface   945371117  9  8 cc  k     k     k         1750   20    0 8h 7s
+pkrface   945371162  9  7 cc  c     f     -         1730   50    0 
+pkrface   945371221 10  6 f   -     -     -         1680    0    0 
+pkrface   945371255 10  5 f   -     -     -         1680    0    0 
+pkrface   945371313 10  4 f   -     -     -         1680    0    0 
+pkrface   945371362 10  3 f   -     -     -         1680    0    0 
+pkrface   945371397 10  2 Bk  k     k     k         1680   10   18 6s Ad
+pkrface   945371429 10  1 Bf  -     -     -         1688    5    0 
+pkrface   945371504 10 10 rc  c     b     k         1683   60    0 Qc Ac
+pkrface   945371561 10  9 f   -     -     -         1623    0    0 
+pkrface   945371605 10  8 cc  kr    bc    kc        1623  120    0 Ac Kh
+pkrface   945371690 10  7 f   -     -     -         1503    0    0 
+pkrface   945371746 10  6 f   -     -     -         1503    0    0 
+pkrface   945371835  9  5 c   k     rc    k         1503   70  300 Kh Jh
+pkrface   945371887 10  4 f   -     -     -         1733    0    0 
+pkrface   945371948 10  3 f   -     -     -         1733    0    0 
+pkrface   945372007 10  2 Bf  -     -     -         1733   10    0 
+pkrface   945372044 10  1 Bc  kcc   kcc   kf        1723  130    0 
+pkrface   945372100 10 10 f   -     -     -         1593    0    0 
+pkrface   945372165 10  9 f   -     -     -         1593    0    0 
+pkrface   945372279  8  7 r   r     b     b         1593  100  390 
+pkrface   945372354  8  6 c   c     cc    f         1883  100    0 
+pkrface   945372413  8  5 f   -     -     -         1783    0    0 
+pkrface   945372455  8  4 f   -     -     -         1783    0    0 
+pkrface   945372502  9  3 c   kf    -     -         1783   10    0 
+pkrface   945372562  9  2 Bk  kf    -     -         1773   10    0 
+pkrface   945372613  9  1 Bf  -     -     -         1763    5    0 
+pkrface   945372679  9  9 cc  b     br    c         1758  130    0 Jd Kh
+pkrface   945372761  9  8 f   -     -     -         1628    0    0 
+pkrface   945372836  9  7 f   -     -     -         1628    0    0 
+pkrface   945372910  8  5 f   -     -     -         1628    0    0 
+pkrface   945372951  9  4 f   -     -     -         1628    0    0 
+pkrface   945373037  9  3 c   f     -     -         1628   10    0 
+pkrface   945373093  8  2 Bf  -     -     -         1618   10    0 
+pkrface   945373150  9  1 Bc  k     kf    -         1608   10    0 
+pkrface   945373240  8  8 c   f     -     -         1598   10    0 
+pkrface   945373333 10  9 f   -     -     -         1588    0    0 
+pkrface   945373386 10  8 f   -     -     -         1588    0    0 
+pkrface   945373458 10  7 f   -     -     -         1588    0    0 
+pkrface   945373528 10  6 c   fQ    -     -         1588   20    0 
+pkrface   945717471 10  4 f   -     -     -         2213    0    0 
+pkrface   945717560  9  2 Bk  kf    -     -         2213   10    0 
+pkrface   945717588  9  1 Bf  -     -     -         2203    5    0 
+pkrface   945717644 10 10 c   brc   c     c         2198   90    0 Ts Kd
+pkrface   945717734 10  9 cc  c     k     f         2108   50    0 
+pkrface   945717836  9  7 f   -     -     -         2058    0    0 
+pkrface   945717894  8  6 f   -     -     -         2058    0    0 
+pkrface   945717937  8  5 cc  c     kc    k         2058   50    0 Ad Jd
+pkrface   945718031 10  4 c   kc    c     k         2008   50    0 Td 8d
+pkrface   945718083 10  3 f   -     -     -         1958    0    0 
+pkrface   945718133  9  2 Bk  k     k     k         1958   10   40 4c Ah
+pkrface   945718185  8  1 Bc  kf    -     -         1988   10    0 
+pkrface   945718258  8  8 f   -     -     -         1978    0    0 
+pkrface   945718336  7  6 f   -     -     -         1978    0    0 
+pkrface   945718382  6  4 f   -     -     -         1978    0    0 
+pkrface   945718417  6  3 f   -     -     -         1978    0    0 
+pkrface   945718451  6  2 Bk  kf    -     -         1978   10    0 
+pkrface   945718488  6  1 Bf  -     -     -         1968    5    0 
+pkrface   945718525  6  6 c   k     f     -         1963   10    0 
+pkrface   945718564  6  5 f   -     -     -         1953    0    0 
+pkrface   945718606  6  4 f   -     -     -         1953    0    0 
+pkrface   945718649  5  3 f   -     -     -         1953    0    0 
+pkrface   945718679  5  2 B   -     -     -         1953   10   15 
+pkrface   945718685  5  1 Bf  -     -     -         1958    5    0 
+pkrface   945718721  5  5 f   -     -     -         1953    0    0 
+pkrface   945718765  5  4 f   -     -     -         1953    0    0 
+pkrface   945718795  5  3 f   -     -     -         1953    0    0 
+pkrface   945718820  5  2 Bf  -     -     -         1953   10    0 
+pkrface   945718854  5  1 Bf  -     -     -         1943    5    0 
+pkrface   945718875  4  4 f   -     -     -         1938    0    0 
+pkrface   945718900  4  4 c   Q     -     -         1938   10    0 
+pkrface   945723805  8  7 rc  r     br    b         1823  140    0 Ad As
+pkrface   945723865  8  5 f   -     -     -         1683    0    0 
+pkrface   945723889  9  4 f   -     -     -         1683    0    0 
+pkrface   945723938  9  3 f   -     -     -         1683    0    0 
+pkrface   945723996  9  2 Bf  -     -     -         1683   10    0 
+pkrface   945724029 10  1 Bf  -     -     -         1673    5    0 
+pkrface   945724103 10 10 c   k     k     k         1668   10    0 9s Th
+pkrface   945724156 10  9 c   f     -     -         1658   20    0 
+pkrface   945724209 10  8 c   f     -     -         1638   10    0 
+pkrface   945724271  9  6 f   -     -     -         1628    0    0 
+pkrface   945724343 10  6 f   -     -     -         1628    0    0 
+pkrface   945724422 10  5 cc  f     -     -         1628   40    0 
+pkrface   945724504 10  4 f   -     -     -         1588    0    0 
+pkrface   945724582 10  3 f   -     -     -         1588    0    0 
+pkrface   945724650 10  2 Bf  -     -     -         1588   10    0 
+pkrface   945724769  9  1 Bf  -     -     -         1578    5    0 
+pkrface   945724862  8  8 f   -     -     -         1573    0    0 
+pkrface   945724946  8  8 f   -     -     -         1573    0    0 
+pkrface   945724957  8  7 f   -     -     -         1573    0    0 
+pkrface   945724997  8  6 f   -     -     -         1573    0    0 
+pkrface   945725073  7  5 f   -     -     -         1573    0    0 
+pkrface   945725103  7  4 f   -     -     -         1573    0    0 
+pkrface   945725131  7  3 f   -     -     -         1573    0    0 
+pkrface   945725159  8  2 Bf  -     -     -         1573   10    0 
+pkrface   945725175  8  1 Bf  -     -     -         1563    5    0 
+pkrface   945725222  8  8 f   -     -     -         1558    0    0 
+pkrface   945725261 10  8 f   -     -     -         1558    0    0 
+pkrface   945725338  9  6 f   -     -     -         1558    0    0 
+pkrface   945725380  9  5 f   -     -     -         1558    0    0 
+pkrface   945725415  9  4 f   -     -     -         1558    0    0 
+pkrface   945725458  9  3 cc  kc    kc    kr        1558  110  400 Ad Ts
+pkrface   945725500  9  2 Bk  kf    -     -         1848   10    0 
+pkrface   945725570  9  1 Bf  -     -     -         1838    5    0 
+pkrface   945725603  9  9 f   -     -     -         1833    0    0 
+pkrface   945725641  9  8 f   -     -     -         1833    0    0 
+pkrface   945725689  9  7 f   -     -     -         1833    0    0 
+pkrface   945725730  9  6 f   -     -     -         1833    0    0 
+pkrface   945725789 10  6 f   -     -     -         1833    0    0 
+pkrface   945725838 10  5 f   -     -     -         1833    0    0 
+pkrface   945725873 10  4 f   -     -     -         1833    0    0 
+pkrface   945725934 10  3 f   -     -     -         1833    0    0 
+pkrface   945726010 10  2 Bf  -     -     -         1833   10    0 
+pkrface   945726078 10  1 Bf  -     -     -         1823    5    0 
+pkrface   945726131 10 10 f   -     -     -         1818    0    0 
+pkrface   945726180 10  9 c   c     r     b         1818   80   92 9h Qh
+pkrface   945726231 10  8 c   f     -     -         1830   20    0 
+pkrface   945726272 10  7 f   -     -     -         1810    0    0 
+pkrface   945726338 10  6 f   -     -     -         1810    0    0 
+pkrface   945726381  9  5 f   -     -     -         1810    0    0 
+pkrface   945726435  9  4 f   -     -     -         1810    0    0 
+pkrface   945726463 10  3 f   -     -     -         1810    0    0 
+pkrface   945726502 10  2 Bk  kf    -     -         1810   10    0 
+pkrface   945726554  9  1 Bc  k     b     b         1800   50    0 Qh 6h
+pkrface   945726598  9  9 f   -     -     -         1750    0    0 
+pkrface   945726682 10  9 f   -     -     -         1750    0    0 
+pkrface   945726715 10  8 cc  f     -     -         1750   20    0 
+pkrface   945726789  9  6 f   -     -     -         1730    0    0 
+pkrface   945726846 10  6 f   -     -     -         1730    0    0 
+pkrface   945726880 10  5 f   -     -     -         1730    0    0 
+pkrface   945726919 10  4 f   -     -     -         1730    0    0 
+pkrface   945726975  9  2 Bf  -     -     -         1730   10    0 
+pkrface   945727013  9  1 Bc  k     kf    -         1720   10    0 
+pkrface   945727072  9  9 c   f     -     -         1710   20    0 
+pkrface   945727161  8  7 f   -     -     -         1690    0    0 
+pkrface   945727210  8  6 f   -     -     -         1690    0    0 
+pkrface   945727268  8  6 f   -     -     -         1690    0    0 
+pkrface   945727301  8  5 f   -     -     -         1690    0    0 
+pkrface   945727330  8  4 f   -     -     -         1690    0    0 
+pkrface   945727378  8  3 f   -     -     -         1690    0    0 
+pkrface   945727449  8  2 Bk  k     k     kf        1690   10    0 
+pkrface   945727497  8  1 Bc  kf    -     -         1680   20    0 
+pkrface   945727533  8  8 f   -     -     -         1660    0    0 
+pkrface   945727584  8  6 f   -     -     -         1660    0    0 
+pkrface   945727611  8  6 f   -     -     -         1660    0    0 
+pkrface   945727674  8  5 f   -     -     -         1660    0    0 
+pkrface   945727742  7  3 f   -     -     -         1660    0    0 
+pkrface   945727792  6  2 Bk  k     k     k         1660   10    0 8h Js
+pkrface   945727850  6  1 Bc  kc    kc    k         1650   40   90 7d 8c
+pkrface   945727891  6  6 f   -     -     -         1700    0    0 
+pkrface   945727922  7  6 c   f     -     -         1700   20    0 
+pkrface   945727964  6  4 f   -     -     -         1680    0    0 
+pkrface   945727980  6  4 f   -     -     -         1680    0    0 
+pkrface   945728017  6  3 f   -     -     -         1680    0    0 
+pkrface   945728032  6  2 Bf  -     -     -         1680   10    0 
+pkrface   945728060  6  1 BQ  -     -     -         1670    5    0 

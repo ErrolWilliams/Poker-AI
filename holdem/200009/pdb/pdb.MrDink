@@ -1,0 +1,739 @@
+MrDink    969102518 10  7 cc  b     b     b         1170   70  240 Kd 6d
+MrDink    969102585  9  5 f   -     -     -         1340    0    0 
+MrDink    969102632  9  4 f   -     -     -         1340    0    0 
+MrDink    969102713  9  3 f   -     -     -         1340    0    0 
+MrDink    969102778  9  2 Bc  kf    -     -         1340   20    0 
+MrDink    969102800  9  1 Bf  -     -     -         1320    5    0 
+MrDink    969102838  9  9 c   c     c     c         1315   70    0 Ac 2s
+MrDink    969102899  9  8 c   cc    brc   rc        1245  170    0 9h 9d
+MrDink    969102958  9  7 cc  f     -     -         1075   20    0 
+MrDink    969103030  9  6 f   -     -     -         1055    0    0 
+MrDink    969103097  9  5 c   kc    k     kc        1055   40    0 Qh 8h
+MrDink    969103177  9  4 cc  c     c     k         1015   50  140 7c 5d
+MrDink    969103235  9  3 cc  b     kc    kf        1105   50    0 
+MrDink    969103290  9  2 Bc  kf    -     -         1055   20    0 
+MrDink    969103343  9  1 Bc  k     k     k         1035   10   40 7c Kd
+MrDink    969103376 10 10 c   c     c     f         1065   60    0 
+MrDink    969103445  9  8 cc  c     b     -         1005   50  115 
+MrDink    969103487  8  6 cc  c     f     -         1070   30    0 
+MrDink    969103526  8  5 c   kf    -     -         1040   10    0 
+MrDink    969103556  7  4 c   b     c     c         1030   60    0 Qd Js
+MrDink    969103610  7  4 f   -     Q     -          970    0    0 
+MrDink    969860419  9  8 c   f     -     -         1000   10    0 
+MrDink    969860437  9  7 f   -     -     -          990    0    0 
+MrDink    969860477  9  6 f   -     -     -          990    0    0 
+MrDink    969860510  9  5 c   k     k     b          990   30   80 9h 7s
+MrDink    969860539  9  4 f   -     -     -         1040    0    0 
+MrDink    969860605  9  3 f   -     -     -         1040    0    0 
+MrDink    969860665  9  2 Bc  c     f     -         1040   30    0 
+MrDink    969860715 10  1 Bc  k     bc    kc        1010   70    0 Jd Qd
+MrDink    969860782 10 10 f   -     -     -          940    0    0 
+MrDink    969860831 10  9 c   c     c     k          940   50    0 6d 7c
+MrDink    969860879 10  8 f   -     -     -          890    0    0 
+MrDink    969860982  9  6 c   fQ    -     -          890   10    0 
+MrDink    969867917  7  4 f   -     -     -          880    0    0 
+MrDink    969867946  8  3 c   b     b     b          880   60    0 7d 3h
+MrDink    969867981  9  2 Bk  k     kf    -          820   10    0 
+MrDink    969868031 10  1 Bc  kc    kc    kc         810   70  170 5d 6d
+MrDink    969868071 10 10 c   c     f     -          910   20    0 
+MrDink    969868141 10  9 cc  f     -     -          890   30    0 
+MrDink    969868203 10  8 crc r     rc    kc         860  160    0 Qh Qs
+MrDink    969868295 10  7 cc  f     -     -          700   20    0 
+MrDink    969868390 10  7 c   f     -     -          680   10    0 
+MrDink    969868419  9  5 f   -     -     -          670    0    0 
+MrDink    969868451  9  4 c   c     k     k          670   20    0 Ts 7s
+MrDink    969868479  9  3 c   k     b     -          650   30   55 
+MrDink    969868511  9  2 Bk  b     b     b          675   60  135 9d Ts
+MrDink    969868535  9  1 Bc  kc    k     kf         750   20    0 
+MrDink    969868573  9  9 f   -     -     -          730    0    0 
+MrDink    969868610  9  8 r   -     -     -          730   20   35 
+MrDink    969868619  9  7 c   c     c     c          745   60    0 Ks 3c
+MrDink    969868642  9  6 cc  cc    kf    -          685   60    0 
+MrDink    969868682  9  5 cc  cc    kc    kc         625   80    0 8s 6c
+MrDink    969868728  9  4 cc  kc    krc   b          545  140    0 Jd 9s
+MrDink    969868789  8  2 Bk  k     b     k          405   30   75 Ks 2h
+MrDink    969868818  8  1 Br  bc    bc    kc         450  120    0 7d 7s
+MrDink    969868855  8  8 c   c     b     r          330   80  205 Qs 7c
+MrDink    969868941  8  7 c   f     -     -          455   10    0 
+MrDink    969868993  8  6 f   -     -     -          445    0    0 
+MrDink    969869050  6  4 f   -     -     -          445    0    0 
+MrDink    969869083  5  2 c   k     b     -          445   30   50 
+MrDink    969869101  5  2 Bk  b     -     -          465   20   30 
+MrDink    969869107  5  1 Bc  kc    kc    kf         475   40    0 
+MrDink    969869134  5  5 crc rr    b     b          435  120  225 
+MrDink    969869178  7  6 c   c     c     rr         540  120  375 Kd 6d
+MrDink    969869237  7  5 c   b     b     b          795   60  175 Qc Qd
+MrDink    969869274  7  4 c   kf    -     -          910   10    0 
+MrDink    969869296  7  3 cc  k     kc    kc         900   60    0 9d 9s
+MrDink    969869328  7  2 Bk  ccc   cc    f          840   90    0 
+MrDink    969869366  7  1 Bc  kc    kf    -          750   20    0 
+MrDink    969869398  7  7 c   c     f     -          730   30    0 
+MrDink    969869415  7  6 f   -     -     -          700    0    0 
+MrDink    969869433  7  5 cc  c     c     rr         700  140    0 4s Js
+MrDink    969869483  7  4 cc  f     -     -          560   20    0 
+MrDink    969869527  7  3 c   kc    kc    kc         540   60    0 Ac 8h
+MrDink    969869563  7  2 Bc  f     -     -          480   20    0 
+MrDink    969869580  7  1 Bc  kc    kf    -          460   20    0 
+MrDink    969869630  8  8 c   f     -     -          440   10    0 
+MrDink    969869672  8  7 c   b     b     -          430   40   75 
+MrDink    969869694  8  6 c   c     c     c          465   60  200 Kc Qd
+MrDink    969869744  8  5 cc  c     c     c          605   80    0 3h 2h
+MrDink    969869783  8  4 cc  kf    -     -          525   30    0 
+MrDink    969869831  8  3 c   kc    kf    -          495   20    0 
+MrDink    969869900  8  2 Bc  kc    kf    -          475   30    0 
+MrDink    969869931  8  1 Bc  kc    kc    kc         445   60    0 Jd 3s
+MrDink    969869969  8  8 f   -     -     -          385    0    0 
+MrDink    969869978  9  8 c   c     c     c          385   60    0 Td Ts
+MrDink    969870023 10  8 c   k     k     k          325   10    0 As 3h
+MrDink    969870059 10  7 f   -     -     -          315    0    0 
+MrDink    969870102 10  6 cc  kcc   kc    kc         315   90    0 Jh 4h
+MrDink    969870187  9  5 f   Q     -     -          225    0    0 
+MrDink    969870427  9  4 c   kc    kc    kc         225   60    0 Qs 7d
+MrDink    969870479  9  3 c   k     bc    b          165   70  230 Qs 9d
+MrDink    969870540 10  2 Bk  kf    -     -          325   10    0 
+MrDink    969870582 10  1 Bcc kc    kf    -          315   30    0 
+MrDink    969870628 10 10 c   c     k     rc         285  100    0 Jh 9c
+MrDink    969870693 10  9 cc  f     -     -          185   30    0 
+MrDink    969870741 10  8 c   c     c     kc         155   80    0 Js Ad
+MrDink    969870797  9  6 c   c     f     -           75   30    0 
+MrDink    969870844  9  6 f   -     -     -           45    0    0 
+MrDink    969870886  9  5 c   k     b     bA          45   45  115 Td Th
+MrDink    969870931  9  4 f   -     -     -          115    0    0 
+MrDink    969870956  9  3 f   -     -     -          115    0    0 
+MrDink    969871007 10  2 Bcc kf    -     -          115   40    0 
+MrDink    969871103 10  1 Bc  kf    -     -           75   10    0 
+MrDink    969871163 10 10 cc  c     f     -           65   30    0 
+MrDink    969871217 10  9 c   kc    kcA   -           35   35    0 Qh 9c
+MrDink    969871325 10  6 f   -     -     -         1000    0    0 
+MrDink    969871405 10  5 c   kc    kc    krr       1000  120  295 7d 7s
+MrDink    969871518  9  3 c   k     k     k         1175   10   35 8h Ks
+MrDink    969871569  9  2 B   -     -     -         1200   10   15 
+MrDink    969871578  9  1 Bc  kf    -     -         1205   20    0 
+MrDink    969871644 10 10 cc  r     r     b         1185  120  410 As 9h
+MrDink    969871724 10  9 c   c     c     c         1475   70  225 Kc Kd
+MrDink    969871757 10  8 f   -     -     -         1630    0    0 
+MrDink    969871815 10  7 c   c     c     f         1630   50    0 
+MrDink    969871873 10  6 ccc cc    f     -         1580   70    0 
+MrDink    969871944 10  5 f   -     -     -         1510    0    0 
+MrDink    969872028 10  4 f   -     -     -         1510    0    0 
+MrDink    969872075  9  3 f   Q     -     -         1510    0    0 
+MrDink    969872202  8  3 cc  kf    -     -         1510   20    0 
+MrDink    969872257  8  2 Bcc kcc   kcc   kc        1490  200    0 3d Js
+MrDink    969872314  8  1 Bc  kf    -     -         1290   20    0 
+MrDink    969872360  8  8 c   b     brc   c         1270  130    0 Td 2d
+MrDink    969872411  8  7 c   r     r     b         1140   90  190 As Ah
+MrDink    969872451  8  6 c   bc    kc    b         1240   70  175 Kd Qc
+MrDink    969872487  8  5 f   -     -     -         1345    0    0 
+MrDink    969872499  8  4 cc  kc    kc    kc        1345   70  185 Kc 5s
+MrDink    969872527  8  3 cc  kf    -     -         1460   20    0 
+MrDink    969872553  8  2 Bc  kc    kc    k         1440   60    0 3c 7c
+MrDink    969872600  8  1 Bf  -     -     -         1380    5    0 
+MrDink    969872625  8  8 cc  c     b     r         1375   90    0 5d 7d
+MrDink    969872671  8  7 f   -     -     -         1285    0    0 
+MrDink    969872725  8  6 c   f     -     -         1285   10    0 
+MrDink    969872748  8  5 f   -     -     -         1275    0    0 
+MrDink    969872772  8  4 f   -     -     -         1275    0    0 
+MrDink    969872790  8  3 cc  c     f     -         1275   30    0 
+MrDink    969872814  8  2 Bf  Q     -     -         1245   10    0 
+MrDink    969872899  8  8 c   c     c     f         1235   50    0 
+MrDink    969872925  8  7 cc  c     rr    b         1185  130    0 Ad 7c
+MrDink    969872989  8  6 c   c     c     r         1055   80  190 7c Ts
+MrDink    969873025  8  5 ccc kcc   brc   br        1165  240  423 6c Tc
+MrDink    969873095  8  4 cc  k     k     b         1348   40   85 
+MrDink    969873145  8  3 c   kc    kf    -         1393   20    0 
+MrDink    969873179  9  2 Bk  k     k     k         1373   10    0 Qs 9h
+MrDink    969873214  8  1 Bc  kc    kc    kc        1363   60    0 4d Kc
+MrDink    969873256  8  8 f   -     -     -         1303    0    0 
+MrDink    969873281  8  7 c   k     k     f         1303   20    0 
+MrDink    969873320  8  6 c   c     b     r         1283   80  155 
+MrDink    969873358  8  5 cc  c     r     b         1358   90  370 Js 2h
+MrDink    969873411  8  4 f   -     -     -         1638    0    0 
+MrDink    969873441  6  3 cc  kf    -     -         1638   20    0 
+MrDink    969873505  6  2 Bk  kc    bcc   kc        1618  120    0 Ts 4s
+MrDink    969873541  7  1 Bc  kf    -     -         1498   20    0 
+MrDink    969873566  7  7 rr  b     r     r         1478  130  325 Ac As
+MrDink    969873603  7  6 cc  kf    -     -         1673   20    0 
+MrDink    969873655  9  6 f   -     -     -         1653    0    0 
+MrDink    969873719  8  4 f   -     -     -         1653    0    0 
+MrDink    969873761  9  4 c   c     r     b         1653   80  280 7c Ks
+MrDink    969873824  8  3 cc  kcc   bc    kf        1853  110    0 
+MrDink    969873882  8  2 Bf  -     -     -         1743   10    0 
+MrDink    969873914  8  1 Bc  b     -     -         1733   20   50 
+MrDink    969873932  8  8 f   -     -     -         1763    0    0 
+MrDink    969873953  8  7 c   b     b     -         1763   50  125 
+MrDink    969873988  8  6 cc  c     c     f         1838   60    0 
+MrDink    969874044  8  5 cc  c     k     bc        1778   70    0 6c Ts
+MrDink    969874089  8  4 cc  f     -     -         1708   20    0 
+MrDink    969874112  8  3 cc  k     kc    b         1688   70  201 7h 7s
+MrDink    969874139  7  2 Bf  -     -     -         1819   10    0 
+MrDink    969874161  7  1 Bc  kc    kf    -         1809   30    0 
+MrDink    969874180  7  7 f   -     -     -         1779    0    0 
+MrDink    969874203  7  6 c   c     f     -         1779   30    0 
+MrDink    969874233  8  5 f   -     -     -         1749    0    0 
+MrDink    969874259  8  4 f   -     -     -         1749    0    0 
+MrDink    969874284  7  3 c   k     b     -         1749   30   70 
+MrDink    969874305  7  2 Bc  bc    kc    kf        1789   60    0 
+MrDink    969874330  6  1 Bc  kf    -     -         1729   20    0 
+MrDink    969874365  6  6 c   c     k     k         1709   40    0 5d 5h
+MrDink    969874386  6  5 f   -     -     -         1669    0    0 
+MrDink    969874402  6  4 cc  k     kf    -         1669   30    0 
+MrDink    969874442  6  3 cc  b     brc   b         1639  130  385 8d 8c
+MrDink    969874476  6  2 Bf  -     -     -         1894   10    0 
+MrDink    969874488  6  1 Bc  bc    brc   b         1884  150    0 Ah Qd
+MrDink    969874515  6  6 c   c     rc    c         1734  110    0 Th Tc
+MrDink    969874555  6  5 c   c     b     k         1624   40   95 4d Ah
+MrDink    969874576  6  4 cc  kc    kc    kc        1679   70    0 9s Ad
+MrDink    969874602  6  3 f   -     -     -         1609    0    0 
+MrDink    969874614  6  2 Bk  c     k     k         1609   20    0 6h 2d
+MrDink    969874630  7  1 Bf  -     -     -         1589    5    0 
+MrDink    969874653  7  7 f   -     -     -         1584    0    0 
+MrDink    969874666  7  6 f   -     -     -         1584    0    0 
+MrDink    969874708  7  5 f   -     -     -         1584    0    0 
+MrDink    969874739  7  4 f   -     -     -         1584    0    0 
+MrDink    969874778  7  3 cc  kc    k     f         1584   30    0 
+MrDink    969874815  7  2 Bc  k     kf    -         1554   20    0 
+MrDink    969874835  6  1 Br  br    brc   bc        1534  190    0 9s 9h
+MrDink    969874870  6  6 c   c     r     k         1344   60    0 9d Kh
+MrDink    969874908  6  5 cc  c     c     c         1284   70   72 8s Js
+MrDink    969874927  6  4 c   f     -     -         1286   20    0 
+MrDink    969874951  6  3 cc  bc    br    bc        1266  150  545 9d 3d
+MrDink    969874990  6  2 Bc  br    kc    kf        1661  100    0 
+MrDink    969875036  6  1 Bc  b     brc   k         1561  110  230 Ac 4c
+MrDink    969875061  6  6 c   k     c     c         1681   50    0 4c Jh
+MrDink    969875091  5  4 c   k     f     -         1631   10    0 
+MrDink    969875114  5  3 cc  c     c     c         1621   70    0 Ad 2h
+MrDink    969875128  5  2 Bk  kf    -     -         1551   10    0 
+MrDink    969875150  5  1 Br  b     br    b         1541  110  260 5d Kd
+MrDink    969875171  5  5 c   k     k     k         1691   10   25 Tc 9h
+MrDink    969875186  5  4 cr  k     c     k         1706   60    0 8s 7s
+MrDink    969875212  5  3 f   -     -     -         1646    0    0 
+MrDink    969875229  5  2 Bcc kc    kc    b         1646   90  255 9c Jh
+MrDink    969875252  5  1 Bc  kc    k     k         1811   20   50 6s Ad
+MrDink    969875279  4  4 c   k     c     k         1841   30   65 Ac 3d
+MrDink    969875297  4  3 cc  k     k     k         1876   20    0 Jh 6s
+MrDink    969875315  4  2 Bk  kc    kc    b         1856   60  150 2d 5h
+MrDink    969875341  4  1 Bc  k     b     -         1946   30   50 
+MrDink    969875357  4  4 cc  c     c     c         1966   70    0 7d Qc
+MrDink    969875374  4  3 f   -     -     -         1896    0    0 
+MrDink    969875384  4  2 Bc  brc   bc    b         1896  120  225 
+MrDink    969875401  4  1 Bc  k     kf    -         2001   10    0 
+MrDink    969875423  4  4 f   -     -     -         1991    0    0 
+MrDink    969875438  5  4 cc  k     c     b         1991   60  140 6s 3h
+MrDink    969875492  5  3 c   k     k     b         2071   30   70 Td Ad
+MrDink    969875531  6  2 Bc  c     c     f         2111   50    0 
+MrDink    969875552  6  1 Bc  kf    -     -         2061   10    0 
+MrDink    969875584  6  6 f   -     -     -         2051    0    0 
+MrDink    969875629  6  5 f   -     -     -         2051    0    0 
+MrDink    969875679  6  4 c   f     -     -         2051   10    0 
+MrDink    969875718  6  3 ccc k     kc    kc        2041  100    0 Tc 3c
+MrDink    969875780  5  2 Bc  bc    kc    kc        1941   90  275 Qd 7c
+MrDink    969875823  6  1 Bf  -     -     -         2126    5    0 
+MrDink    969875907  6  6 c   f     -     -         2121   20    0 
+MrDink    969875954  6  5 c   c     c     f         2101   40    0 
+MrDink    969876061  5  4 f   -     -     -         2061    0    0 
+MrDink    969876081  5  3 cc  c     c     c         2061   70  220 9d Th
+MrDink    969876115  5  2 Bc  k     k     k         2211   20    0 4c 8h
+MrDink    969876162  5  1 Bc  kc    kf    -         2191   40    0 
+MrDink    969876197  5  5 c   k     k     b         2151   40   85 
+MrDink    969876238  5  4 cc  c     c     f         2196   50    0 
+MrDink    969876274  5  3 c   c     c     f         2146   40    0 
+MrDink    969876297  5  2 Bk  kc    kcc   krr       2106  180  545 Qs 5d
+MrDink    969876351  5  1 Bc  bc    kc    bc        2471   90  210 Kc Jd
+MrDink    969876420  5  5 c   f     -     -         2591   20    0 
+MrDink    969876452  5  4 cc  f     -     -         2571   20    0 
+MrDink    969876491  5  3 c   kf    -     -         2551   10    0 
+MrDink    969876529  6  2 Bk  kc    kf    -         2541   20    0 
+MrDink    969876561  6  1 BQ  -     -     -         2521    5    0 
+MrDink    969876846  6  3 cc  kf    -     -         2516   20    0 
+MrDink    969876872  7  3 f   -     -     -         2496    0    0 
+MrDink    969876908  7  2 Bk  k     bc    kc        2496   70  150 3c 7s
+MrDink    969876947  8  1 Bcc kc    k     k         2576   30    0 5c Jd
+MrDink    969876995  7  7 f   -     -     -         2546    0    0 
+MrDink    969877040  8  7 c   cr    br    rr        2546  210    0 3c 3s
+MrDink    969877125  8  6 ccc f     -     -         2336   40    0 
+MrDink    969877276  8  5 f   -     -     -         2296    0    0 
+MrDink    969877354  7  3 cc  kc    brc   -         2296   95  220 Jc Js
+MrDink    969877391  6  3 c   k     k     f         2421   10    0 
+MrDink    969877424  6  2 Bk  b     b     k         2411   40    0 3d Kd
+MrDink    969877449  7  1 Bcc kf    -     -         2371   20    0 
+MrDink    969877499  7  7 c   k     c     f         2351   30    0 
+MrDink    969877534  7  6 c   k     b     b         2321   50    0 4s Jh
+MrDink    969877578  7  5 c   k     k     b         2271   30   70 
+MrDink    969877632  5  2 c   kc    kf    -         2311   20    0 
+MrDink    969877683  5  2 Bk  k     k     k         2291   10    0 4h Th
+MrDink    969877712  5  1 Bc  kc    kc    br        2281  100  220 3s 5d
+MrDink    969877760  5  5 f   -     -     -         2401    0    0 
+MrDink    969877796  5  4 c   k     c     c         2401   50    0 As 4d
+MrDink    969877820  5  3 f   -     -     -         2351    0    0 
+MrDink    969877852  5  2 B   -     -     -         2351   10   15 
+MrDink    969877862  5  1 Bc  kc    kc    kc        2356   60    0 Ad Tc
+MrDink    969877898  5  5 r   b     r     rr        2296  150    0 Qd Kd
+MrDink    969877931  5  4 c   c     c     f         2146   40    0 
+MrDink    969877970  5  3 f   -     -     -         2106    0    0 
+MrDink    969877982  5  2 Bk  k     f     -         2106   10    0 
+MrDink    969878004  5  1 Bcc k     b     b         2096   60  160 Td 8s
+MrDink    969878035  5  5 c   k     c     b         2196   50  115 5h 4d
+MrDink    969878056  5  4 ccc k     kc    k         2261   60  230 Jh 4s
+MrDink    969878100  5  3 c   kc    kc    kc        2431   60  135 Qs Ac
+MrDink    969878139  4  2 Bc  k     k     k         2506   20   45 4d 6c
+MrDink    969878168  4  1 Bcc k     b     -         2531   40   60 
+MrDink    969878183  4  4 cc  c     f     -         2551   30    0 
+MrDink    969878211  4  3 fQ  -     -     -         2521    0    0 
+MrDink    969887572  9  7 f   -     -     -         2521    0    0 
+MrDink    969887625  9  7 cc  brc   b     b         2521  100  375 Jc Ts
+MrDink    969887682  9  6 c   k     f     -         2796   10    0 
+MrDink    969887717  9  4 c   f     -     -         2786   10    0 
+MrDink    969887743  9  2 Bc  kc    kf    -         2776   40    0 
+MrDink    969887804  9  1 Bc  kc    kf    -         2736   30    0 
+MrDink    969887846 10 10 f   -     -     -         2706    0    0 
+MrDink    969887891 10  9 c   k     k     k         2706   20    0 7d Th
+MrDink    969887954  9  7 f   -     -     -         2686    0    0 
+MrDink    969888011  9  6 c   kcc   k     f         2686   50    0 
+MrDink    969888087  9  5 c   f     -     -         2636   10    0 
+MrDink    969888128  9  4 c   c     c     rc        2626  100    0 Jh Jd
+MrDink    969888169  8  2 Bk  k     k     k         2526   10   30 Ks 8s
+MrDink    969888200  8  1 Bcc k     kc    b         2546   60  220 5s 4s
+MrDink    969888279 10 10 c   f     -     -         2706   20    0 
+MrDink    969888372 10  9 f   -     -     -         2686    0    0 
+MrDink    969888450 10  8 c   k     br    f         2686   80    0 
+MrDink    969888527 10  7 f   -     -     -         2606    0    0 
+MrDink    969888618 10  6 f   -     -     -         2606    0    0 
+MrDink    969888707 10  5 c   b     bcc   rr        2606  180  300 Td 9c
+MrDink    969888795 10  4 f   -     -     -         2726    0    0 
+MrDink    969888929 10  3 f   -     -     -         2726    0    0 
+MrDink    969889070 10  2 Bk  kf    -     -         2726   10    0 
+MrDink    969889101 10  1 Bc  kc    kc    k         2716   40    0 3d 8c
+MrDink    969889194 10 10 c   c     c     c         2676   70    0 Jd 5d
+MrDink    969889337 10  9 c   f     -     -         2606   20    0 
+MrDink    969889374 10  8 c   cc    kf    -         2586   30    0 
+MrDink    969889464  9  6 c   f     -     -         2556   10    0 
+MrDink    969889537  9  5 f   -     -     -         2546    0    0 
+MrDink    969889578  8  4 f   -     -     -         2546    0    0 
+MrDink    969889610  8  3 cc  kcc   f     -         2546   60    0 
+MrDink    969889708  8  2 Bc  kc    bc    b         2486  110  350 2d 3c
+MrDink    969889766  7  1 Bc  b     b     b         2726   70    0 Ts Js
+MrDink    969889819  7  7 c   f     -     -         2656   10    0 
+MrDink    969889930  8  7 cc  c     c     c         2646   70    0 8d Qh
+MrDink    969889982  8  6 c   c     k     k         2576   20    0 3d 4d
+MrDink    969890042  8  5 f   -     -     -         2556    0    0 
+MrDink    969890080  8  4 f   -     -     -         2556    0    0 
+MrDink    969890122  8  3 c   bc    brc   brc       2556  190  800 Qs Jc
+MrDink    969890232  8  2 Bc  kf    -     -         3166   20    0 
+MrDink    969890288  9  1 Bc  k     kf    -         3146   10    0 
+MrDink    969890324  7  7 c   k     k     f         3136   10    0 
+MrDink    969890378  7  6 f   -     -     -         3126    0    0 
+MrDink    969890421  7  5 ccc k     k     c         3126   60    0 Jc 8h
+MrDink    969890501  7  4 c   c     k     k         3066   20    0 5s Ad
+MrDink    969890537  8  4 f   -     -     -         3046    0    0 
+MrDink    969890579  8  3 f   -     -     -         3046    0    0 
+MrDink    969890684  8  2 Bf  -     -     -         3046   10    0 
+MrDink    969890767  8  1 Bc  kc    b     b         3036   70  230 Jd As
+MrDink    969890827  8  8 cc  cc    cc    c         3196  158    0 Td 8d
+MrDink    969890920  8  7 cc  cc    cc    rr        3038  200  854 Qh 4h
+MrDink    969891021  8  6 ccc kc    k     k         3692   50    0 Td 9s
+MrDink    969891127  8  5 ccc brc   br    brc       3642  220  705 2d Ah
+MrDink    969891220 10  5 f   -     -     -         4127    0    0 
+MrDink    969891308 10  4 f   -     -     -         4127    0    0 
+MrDink    969891407  7  3 f   -     -     -         4127    0    0 
+MrDink    969891436  7  2 Bc  cc    c     kf        4127   60    0 
+MrDink    969891503  7  1 Bcc kc    kf    Q         3987   30    0 
+MrDink    969970931  8  2 Bk  kc    kc    bc        3330   80  230 7d 3c
+MrDink    969971003  8  1 Bf  -     -     -         3480    5    0 
+MrDink    969971091  8  8 c   c     c     c         3475   70  175 7d 5d
+MrDink    969971143  8  7 c   k     k     k         3580   10    0 Ad 8s
+MrDink    969971185  7  6 c   c     cc    f         3570  105    0 
+MrDink    969971246  7  5 f   -     -     -         3465    0    0 
+MrDink    969971279  7  4 cc  kc    kc    f         3465   50    0 
+MrDink    969971340  7  3 f   -     -     -         3415    0    0 
+MrDink    969971389  7  2 Bk  c     c     c         3415   60    0 8d 5c
+MrDink    969971440  6  1 Bc  kc    kf    -         3355   20    0 
+MrDink    969971472  6  6 f   -     -     -         3335    0    0 
+MrDink    969971503  6  5 f   -     -     -         3335    0    0 
+MrDink    969971537  5  4 c   b     b     -         3335   40   75 
+MrDink    969971566  5  3 cc  kc    kf    -         3370   30    0 
+MrDink    969971611  5  2 Bk  k     k     b         3340   30    0 Qh 2c
+MrDink    969971652  5  1 Bc  b     b     br        3310   85  220 Jd 2d
+MrDink    969971696  4  4 c   c     c     c         3445   60    0 4s 6h
+MrDink    969971730  5  3 cc  f     -     -         3385   20    0 
+MrDink    969971768  5  2 Bf  -     -     -         3365   10    0 
+MrDink    969971779  5  1 Bcrc br    b     b         3355  110    0 8d 5d
+MrDink    969971819  5  5 f   -     -     -         3245    0    0 
+MrDink    969971873  5  4 f   -     -     -         3245    0    0 
+MrDink    969971916  5  3 c   k     r     b         3245   70    0 Ac Js
+MrDink    969971951  5  2 Br  k     f     -         3175   20    0 
+MrDink    969972004  5  1 Bf  -     -     -         3155    5    0 
+MrDink    969972037  5  5 r   b     b     k         3150   50    0 Qh Qd
+MrDink    969972093  4  3 f   Q     -     -         3100    0    0 
+MrDink    969977877  8  6 c   k     k     f         3100   10    0 
+MrDink    969977943  8  5 f   -     -     -         3090    0    0 
+MrDink    969978042  9  4 cc  bc    k     k         3090   40   80 Kc Qc
+MrDink    969978118  9  3 c   k     c     k         3130   30    0 Jd 6h
+MrDink    969978144  9  2 Bk  k     bc    bc        3100   90    0 Kc Jh
+MrDink    969978211  9  1 Bc  kc    kc    kc        3010   70    0 7d 6s
+MrDink    969978261 10 10 c   c     c     c         2940   70    0 2h Ac
+MrDink    969978310 10  9 c   c     c     k         2870   40    0 6s 6c
+MrDink    969978369 10  8 c   f     -     -         2830   10    0 
+MrDink    969978404 10  7 c   c     f     -         2820   20    0 
+MrDink    969978450 10  6 c   k     c     k         2800   30   85 8h As
+MrDink    969978513  9  5 cc  k     c     f         2855   40    0 
+MrDink    969978556  9  4 f   -     -     -         2815    0    0 
+MrDink    969978614 10  3 c   kf    -     -         2815   10    0 
+MrDink    969978664  9  2 Bk  kf    -     -         2805   10    0 
+MrDink    969978729  9  1 Bc  kc    k     k         2795   30    0 3c 5c
+MrDink    969978771  9  9 c   c     r     c         2765  110  375 Jc Tc
+MrDink    969978831  9  8 c   k     f     -         3030   10    0 
+MrDink    969978879 10  7 f   -     -     -         3020    0    0 
+MrDink    969978953  9  6 f   -     -     -         3020    0    0 
+MrDink    969979005 10  5 cc  kc    kf    -         3020   30    0 
+MrDink    969979118  9  4 cc  cf    -     -         2990   30    0 
+MrDink    969979223  8  2 cc  k     k     kf        2960   30    0 
+MrDink    969979287  7  2 Bc  kc    kc    kf        2930   60    0 
+MrDink    969979350  7  1 Bc  k     k     k         2870   10    0 Qh 5h
+MrDink    969979383  7  3 Q   -     -     -         2860    0    0 
+MrDink    969979503  9  6 c   k     c     f         2860   40    0 
+MrDink    969979545  8  5 c   c     c     f         2820   50    0 
+MrDink    969979600  8  4 c   cc    krr   brc       2770  190    0 9d Th
+MrDink    969979652  7  3 f   -     -     -         2580    0    0 
+MrDink    969979677  7  2 Bc  kf    -     -         2580   20    0 
+MrDink    969979735  8  1 Bc  kc    k     k         2560   20   60 Qd Ks
+MrDink    969979770  9  9 f   -     -     -         2600    0    0 
+MrDink    969979825  9  8 c   f     -     -         2600   10    0 
+MrDink    969979886 10  8 c   c     c     f         2590   60    0 
+MrDink    969979941 10  7 c   f     -     -         2530   20    0 
+MrDink    969980003 10  6 c   kc    b     k         2510   50  190 Kh 6h
+MrDink    969980070 10  5 c   kc    k     c         2650   40    0 Th 5c
+MrDink    969980131 10  4 c   c     cc    kc        2610   80    0 Kd Jc
+MrDink    969980180 10  3 cc  k     k     kf        2530   20    0 
+MrDink    969980259 10  2 Bc  k     kf    -         2510   30    0 
+MrDink    969980338 10  1 Bc  kcc   kf    -         2480   80    0 
+MrDink    969980424 10 10 cc  f     -     -         2400   30    0 
+MrDink    969980486  9  8 c   c     c     f         2370   40    0 
+MrDink    969980541 10  8 c   c     f     -         2330   30    0 
+MrDink    969980633 10  7 c   k     f     -         2300   10    0 
+MrDink    969980671 10  6 c   k     c     c         2290   50  130 Qc Td
+MrDink    969980709 10  5 c   c     r     b         2370   90    0 7c 8s
+MrDink    969980764 10  4 c   k     k     kf        2280   10    0 
+MrDink    969980858  9  3 c   cc    c     f         2270   60    0 
+MrDink    969980932 10  2 Bk  kf    -     -         2210   10    0 
+MrDink    969981006 10  1 Bc  kc    k     kc        2200   50    0 Ac 9d
+MrDink    969981053 10 10 c   k     k     k         2150   10    0 3d 5c
+MrDink    969981099 10  9 f   -     -     -         2140    0    0 
+MrDink    969981165 10  8 c   k     kf    -         2140   20    0 
+MrDink    969981227 10  7 c   f     -     -         2120   10    0 
+MrDink    969981312 10  6 f   -     -     -         2110    0    0 
+MrDink    969981376  9  4 c   f     -     -         2110   10    0 
+MrDink    969981450  9  3 f   -     -     -         2100    0    0 
+MrDink    969981490 10  2 Bcc kcc   kf    -         2100   80    0 
+MrDink    969981578 10  1 Bc  kf    -     -         2020   20    0 
+MrDink    969981617 10 10 c   f     -     -         2000   10    0 
+MrDink    969981660 10  9 c   c     f     -         1990   30    0 
+MrDink    969981711 10  8 c   c     ccc   cc        1960  160    0 As Qc
+MrDink    969981802 10  7 c   c     c     c         1800   70    0 Ks 5s
+MrDink    969981871 10  6 c   k     bc    b         1730   70    0 Ad 4c
+MrDink    969981942 10  5 f   -     -     -         1660    0    0 
+MrDink    969982033 10  4 c   c     f     -         1660   20    0 
+MrDink    969982079  9  3 c   kc    kf    -         1640   20    0 
+MrDink    969982107 10  2 Bk  kc    k     kf        1620   20    0 
+MrDink    969982164 10  1 Bc  kc    kc    kc        1600   60  140 Qh As
+MrDink    969982211 10 10 c   f     -     -         1680   10    0 
+MrDink    969982287  9  8 f   -     -     -         1670    0    0 
+MrDink    969982357  8  6 c   c     c     c         1670   70  195 5d Kd
+MrDink    969982398  8  5 c   c     c     c         1795   60  135 Kh Kd
+MrDink    969982430  8  4 f   -     -     -         1870    0    0 
+MrDink    969982448  8  3 cc  kc    kc    kf        1870   50    0 
+MrDink    969982498  9  2 Bc  fQ    -     -         1820   20    0 
+MrDink    970009325  8  8 f   -     -     -         1800    0    0 
+MrDink    970009356  8  7 c   c     k     f         1800   20    0 
+MrDink    970009388  8  6 c   b     -     -         1780   20   35 
+MrDink    970009418  7  5 f   -     -     -         1795    0    0 
+MrDink    970009445  7  4 c   cc    fQ    -         1795   40    0 
+MrDink    970012004  8  5 Q   -     -     -         1755    0    0 
+MrDink    970012086  8  4 f   -     -     -         1755    0    0 
+MrDink    970012120  7  3 f   -     -     -         1755    0    0 
+MrDink    970012157  6  2 Bk  br    b     b         1755   80  150 
+MrDink    970012194  6  1 Bcc k     k     kf        1825   20    0 
+MrDink    970012257  6  6 cc  k     k     f         1805   20    0 
+MrDink    970012291  6  5 f   -     -     -         1785    0    0 
+MrDink    970012316  6  4 c   c     c     b         1785   60  145 Ts 9d
+MrDink    970012345  6  3 cc  k     kc    kc        1870   60    0 7s 7c
+MrDink    970012390  6  2 Bk  cc    c     br        1810  110  165 Qd 5c
+MrDink    970012427  6  1 Bc  b     b     b         1865   60  110 
+MrDink    970012456  7  7 c   k     k     f         1915   10    0 
+MrDink    970012518  8  7 f   -     -     -         1905    0    0 
+MrDink    970012558  9  7 c   k     f     -         1905   10    0 
+MrDink    970012600  9  6 f   -     -     -         1895    0    0 
+MrDink    970012673 10  6 c   cc    c     cc        1895  110    0 5h Qh
+MrDink    970012748 10  5 c   c     c     k         1785   40   75 7h 9h
+MrDink    970012804 10  4 cc  kQ    -     -         1820   30    0 
+MrDink    970059368  8  3 c   c     c     k         1790   40    0 8h 8s
+MrDink    970059423  8  2 Bf  -     -     -         1750   10    0 
+MrDink    970059442  8  1 Bc  k     kc    kf        1740   30    0 
+MrDink    970059488  8  8 f   -     -     -         1710    0    0 
+MrDink    970059531  8  7 c   f     -     -         1710   20    0 
+MrDink    970059582  8  6 c   c     r     b         1690   90  245 6d 8d
+MrDink    970059630  9  5 c   k     k     f         1845   10    0 
+MrDink    970059687 10  4 f   -     -     -         1835    0    0 
+MrDink    970059749 10  3 c   b     b     bc        1835   80    0 Ac Kh
+MrDink    970059791 10  2 Bc  kc    kc    kc        1755   70    0 4d 4s
+MrDink    970059864 10  1 Bf  -     -     -         1685    5    0 
+MrDink    970059918 10 10 cc  f     -     -         1680   40    0 
+MrDink    970059980 10  9 f   -     -     -         1640    0    0 
+MrDink    970060027 10  8 c   c     c     f         1640   50    0 
+MrDink    970060057 10  7 cc  kc    kf    -         1590   30    0 
+MrDink    970060093 10  6 r   kc    kc    kc        1560   70    0 Ah 8h
+MrDink    970060165 10  5 c   b     br    b         1490  100  340 Jc 8c
+MrDink    970060232 10  4 c   k     c     rr        1730  110    0 Ks 8s
+MrDink    970060301 10  3 c   b     b     -         1620   40   95 
+MrDink    970060332 10  2 Bk  kc    kf    -         1675   20    0 
+MrDink    970060413 10  1 Bf  -     -     -         1655    5    0 
+MrDink    970060499 10 10 f   -     -     -         1650    0    0 
+MrDink    970060580  9  8 cc  cc    f     -         1650   40    0 
+MrDink    970060636 10  8 cc  kc    kc    kc        1610   70    0 8s Kd
+MrDink    970060691  9  6 f   -     -     -         1540    0    0 
+MrDink    970060744  9  6 f   -     -     -         1540    0    0 
+MrDink    970060797  9  5 c   kc    k     k         1540   20    0 2d Td
+MrDink    970060923  9  4 f   -     -     -         1520    0    0 
+MrDink    970060980  9  3 cc  kf    -     -         1520   20    0 
+MrDink    970061034  8  1 Bk  k     kf    -         1500   10    0 
+MrDink    970061060  8  1 Bc  kc    kf    -         1490   20    0 
+MrDink    970061101  8  8 c   c     c     c         1470   60    0 8s 8h
+MrDink    970061145  8  7 c   k     c     brc       1410  110    0 8c Ts
+MrDink    970061194  9  7 c   c     k     k         1300   20    0 6d 8c
+MrDink    970061241  9  6 cc  c     c     kf        1280   50    0 
+MrDink    970061284  9  5 cc  cc    kc    kf        1230   60    0 
+MrDink    970061363  8  4 c   b     r     k         1170   60    0 4d 6d
+MrDink    970061452  8  3 c   kc    kc    br        1110  100  220 As Kd
+MrDink    970061516  8  2 Bc  kc    kc    kf        1230   50    0 
+MrDink    970061550  8  1 Br  br    k     b         1180   70  300 7c 7h
+MrDink    970061602  7  7 c   cc    rc    f         1410   90    0 
+MrDink    970061672  8  7 c   kc    kc    kc        1320   60    0 3h 5c
+MrDink    970061748  8  6 c   kc    kf    -         1260   20    0 
+MrDink    970061835  9  6 f   -     -     -         1240    0    0 
+MrDink    970061897  9  5 c   k     f     -         1240   10    0 
+MrDink    970061944  9  5 c   k     c     f         1230   30    0 
+MrDink    970062002 10  4 cc  kf    -     -         1200   20    0 
+MrDink    970062056 10  3 cc  c     c     c         1180   70    0 Ad 7h
+MrDink    970062116 10  2 Bc  kc    kc    kf        1110   50    0 
+MrDink    970062192 10  1 Bf  -     -     -         1060    5    0 
+MrDink    970062258 10 10 c   k     f     -         1055   10    0 
+MrDink    970062319 10  9 c   c     b     b         1045   70  335 8s Kd
+MrDink    970062418 10  8 c   cc    k     f         1310   50    0 
+MrDink    970062524 10  7 c   k     f     -         1260   10    0 
+MrDink    970062602 10  7 f   -     -     -         1250    0    0 
+MrDink    970062652 10  5 cc  kc    b     kf        1250   50    0 
+MrDink    970062709 10  4 f   -     -     -         1200    0    0 
+MrDink    970062776 10  3 f   -     -     -         1200    0    0 
+MrDink    970062880 10  2 Bc  cc    cc    k         1200   80  360 5h 7s
+MrDink    970062949 10  1 Bcc kc    kf    -         1480   40    0 
+MrDink    970063070 10 10 c   c     f     -         1440   30    0 
+MrDink    970063145 10  9 c   k     f     -         1410   10    0 
+MrDink    970063228 10  8 f   -     -     -         1400    0    0 
+MrDink    970063288  9  7 c   k     c     f         1400   30    0 
+MrDink    970063359 10  6 c   k     kc    b         1370   50    0 9c 9d
+MrDink    970063447  9  5 cc  kf    -     -         1320   20    0 
+MrDink    970063494  9  4 c   cr    br    br        1300  160  460 3s 3h
+MrDink    970063607  8  2 Bk  k     b     b         1600   50  125 Kd Ah
+MrDink    970063726  6  1 Bf  -     -     -         1675    5    0 
+MrDink    970063768  7  7 c   b     b     -         1670   40   80 
+MrDink    970063818  6  5 c   c     k     f         1710   20    0 
+MrDink    970063852  6  4 c   c     c     c         1690   60    0 Ah 6h
+MrDink    970063907  7  3 cc  k     k     k         1630   20   75 4h 4c
+MrDink    970063942  7  2 Bk  b     b     b         1685   60  135 9c 6h
+MrDink    970063973  7  1 Bc  b     b     b         1760   60  160 
+MrDink    970064023  7  7 c   c     k     k         1860   30    0 8d 7d
+MrDink    970064055  7  6 f   -     -     -         1830    0    0 
+MrDink    970064091  7  5 c   k     f     -         1830   10    0 
+MrDink    970064185  8  5 f   -     -     -         1820    0    0 
+MrDink    970064207  8  4 c   k     c     c         1820   50   95 7d Ks
+MrDink    970064276  9  3 c   kc    kc    kc        1865   60    0 9d Jc
+MrDink    970064359  8  2 Bk  kf    -     -         1805   10    0 
+MrDink    970064430  8  1 Bc  k     kf    -         1795   10    0 
+MrDink    970064476  8  8 c   c     c     c         1785   60    0 8d Ks
+MrDink    970064533  8  7 f   Q     -     -         1725    0    0 
+MrDink    970067879 10  6 KQ  -     -     -         1725    0    0 
+MrDink    970068033 10  5 f   -     -     -         1725    0    0 
+MrDink    970068070 10  3 cc  kf    -     -         1725   20    0 
+MrDink    970068100 10  2 Bk  b     b     -         1705   40  110 
+MrDink    970068130 10  1 Bf  -     -     -         1775    5    0 
+MrDink    970068187  9  9 f   -     -     -         1770    0    0 
+MrDink    970068222 10  9 c   b     b     c         1770   60    0 4c 5d
+MrDink    970068277 10  8 f   -     -     -         1710    0    0 
+MrDink    970068345 10  7 c   k     k     f         1710   10    0 
+MrDink    970068380 10  6 c   kf    -     -         1700   10    0 
+MrDink    970068441 10  5 c   b     k     k         1690   20    0 Jd 8h
+MrDink    970068488 10  4 c   bc    r     k         1670   70    0 9h 9d
+MrDink    970068549 10  3 c   kf    -     -         1600   10    0 
+MrDink    970068597 10  2 Bk  k     b     kc        1590   50    0 Qh Ac
+MrDink    970068645 10  1 Bc  kc    kc    kf        1540   50    0 
+MrDink    970068727  9  9 c   rc    r     b         1490  110  365 6h 3h
+MrDink    970068806  9  8 r   cr    b     b         1745   90  255 Jc Js
+MrDink    970068891  9  7 c   f     -     -         1910   10    0 
+MrDink    970068939  9  6 r   k     b     b         1900   60    0 Ah As
+MrDink    970068995  8  4 c   kf    -     -         1840   10    0 
+MrDink    970069047  9  4 f   -     -     -         1830    0    0 
+MrDink    970069088  9  3 c   b     b     b         1830   60  160 
+MrDink    970069151  9  2 Bk  b     b     k         1930   40    0 6s 9d
+MrDink    970069196  9  1 Bf  -     -     -         1890    5    0 
+MrDink    970069241  8  8 f   -     -     -         1885    0    0 
+MrDink    970069287  8  7 c   c     k     f         1885   30    0 
+MrDink    970069340  8  6 f   -     -     -         1855    0    0 
+MrDink    970069405  8  5 f   -     -     -         1855    0    0 
+MrDink    970069473  7  3 cc  kc    k     k         1855   30    0 8h 8c
+MrDink    970069527  9  2 Bc  kc    b     bc        1825   90    0 Tc 7h
+MrDink    970069612 10  1 Bc  k     k     kf        1735   20    0 
+MrDink    970069695 10 10 c   f     -     -         1715   20    0 
+MrDink    970069763 10  9 f   -     -     -         1695    0    0 
+MrDink    970069849 10  8 f   -     -     -         1695    0    0 
+MrDink    970069923 10  7 cc  c     c     f         1695   50    0 
+MrDink    970069993 10  6 cc  brc   b     b         1645  100  285 8d Ad
+MrDink    970070064 10  5 crc b     k     c         1830   70    0 9s 9d
+MrDink    970070187 10  4 cc  b     b     k         1760   50  180 4h Qh
+MrDink    970070256 10  3 cc  k     kf    -         1890   20    0 
+MrDink    970070344  9  2 Bc  kc    kc    kc        1870   70  190 Ah 9s
+MrDink    970070395  8  1 Bc  kf    -     -         1990   20    0 
+MrDink    970070450  8  8 c   k     f     -         1970   20    0 
+MrDink    970070491  7  7 c   f     -     -         1950   20    0 
+MrDink    970070523  7  6 f   -     -     -         1930    0    0 
+MrDink    970070555  7  4 cc  c     k     k         1930   40    0 6c 8s
+MrDink    970070603  7  3 cc  k     c     k         1890   40    0 Ad 7c
+MrDink    970070652  8  2 Bc  b     -     -         1850   30   55 
+MrDink    970070677  8  1 Bc  b     b     b         1875   70  200 8d Js
+MrDink    970070717  8  8 c   f     -     -         2005   20    0 
+MrDink    970070756  7  6 c   f     -     -         1985   20    0 
+MrDink    970070780  6  5 cc  c     c     c         1965   70    0 As 7c
+MrDink    970070800  5  3 cc  k     c     c         1895   60  160 6h 6s
+MrDink    970070835  5  2 Bc  kc    b     bc        1995   90    0 3d 6s
+MrDink    970070868  4  1 Bf  -     -     -         1905    5    0 
+MrDink    970070883  5  4 f   -     -     -         1900    0    0 
+MrDink    970070928  5  3 f   -     -     -         1900    0    0 
+MrDink    970070957  6  2 Bc  br    cc    kc        1900  110    0 8h 6h
+MrDink    970071028  6  1 Bc  kcf   -     -         1790   30    0 
+MrDink    970071082  5  5 c   k     k     f         1760   20    0 
+MrDink    970071167  5  4 c   c     c     c         1740   70    0 9c 6c
+MrDink    970071189  5  3 c   b     br    b         1670  100  215 Ks Ad
+MrDink    970071226  5  2 Bk  k     f     -         1785   10    0 
+MrDink    970071277  5  1 Bf  -     -     -         1775    5    0 
+MrDink    970071304  5  5 c   b     -     -         1770   30   95 
+MrDink    970071328  5  4 c   cc    f     -         1835   30    0 
+MrDink    970071363  5  3 cc  f     -     -         1805   20    0 
+MrDink    970071420  5  2 Bk  kf    -     -         1785   10    0 
+MrDink    970071469  4  1 Bc  k     k     b         1775   30   50 
+MrDink    970071500  6  6 f   -     -     -         1795    0    0 
+MrDink    970071546  6  5 c   b     b     -         1795   40   80 
+MrDink    970071641  5  3 f   -     -     -         1835    0    0 
+MrDink    970071705  6  2 Bf  -     -     -         1835   10    0 
+MrDink    970071724  6  1 Bc  kc    kc    kf        1825   50    0 
+MrDink    970071792  4  4 c   c     r     b         1775   90    0 8c 7s
+MrDink    970071813  4  3 f   -     -     -         1685    0    0 
+MrDink    970071850  4  2 Bc  k     c     kf        1685   40    0 
+MrDink    970071877  4  1 Bc  kf    -     -         1645   20    0 
+MrDink    970071893  4  4 f   -     -     -         1625    0    0 
+MrDink    970071914  4  3 f   -     -     -         1625    0    0 
+MrDink    970071969  4  2 Bc  c     c     c         1625   70  140 8s Kc
+MrDink    970071990  4  1 Bf  -     -     -         1695    5    0 
+MrDink    970071997  4  4 c   f     -     -         1690   20    0 
+MrDink    970072056  4  3 f   -     -     -         1670    0    0 
+MrDink    970072087  4  2 Bc  c     c     k         1670   50  120 5s Ac
+MrDink    970072111  4  1 Bf  -     -     -         1740    5    0 
+MrDink    970072119  4  4 c   c     k     f         1735   30    0 
+MrDink    970072145  4  3 crc br    br    bc        1705  170    0 4d Ah
+MrDink    970072200  4  2 Bc  f     -     -         1535   30    0 
+MrDink    970072219  3  1 Bc  brc   b     b         1505  100  300 6h 4s
+MrDink    970072254  3  3 cc  r     b     c         1705   80    0 2d 5h
+MrDink    970072284  3  2 Bc  r     k     k         1625   40   80 Kh 9d
+MrDink    970072307  3  1 Bc  kr    krr   k         1665  120    0 Jh 6h
+MrDink    970072343  3  3 f   -     -     -         1545    0    0 
+MrDink    970072357  3  2 Br  k     k     f         1545   30    0 
+MrDink    970072382  3  1 Br  b     b     b         1515   80  170 5c Kc
+MrDink    970072404  3  3 f   -     -     -         1605    0    0 
+MrDink    970072411  3  2 Brc rc    f     -         1605   70    0 
+MrDink    970072431  3  1 Bf  -     -     -         1535    5    0 
+MrDink    970072444  3  3 rr  k     c     c         1530   80    0 8d Ts
+MrDink    970072472  3  2 Br  kc    k     k         1450   40   85 9h Qh
+MrDink    970072495  3  1 Br  k     b     b         1495   70  130 
+MrDink    970072516  3  3 r   k     k     k         1555   20    0 Qc Th
+MrDink    970072536  3  2 B   -     -     -         1535   10   15 
+MrDink    970072544  3  1 Bc  kf    -     -         1540   20    0 
+MrDink    970072553  3  3 f   -     -     -         1520    0    0 
+MrDink    970072557  3  2 Bk  r     b     b         1520   70  140 3c 7d
+MrDink    970072581  3  1 Bf  -     -     -         1590    5    0 
+MrDink    970072599  3  3 f   -     -     -         1585    0    0 
+MrDink    970072614  4  2 Br  b     b     b         1585   70  140 
+MrDink    970072643  4  1 Brc br    b     kc        1655  110  290 Tc Ts
+MrDink    970072675  4  4 f   -     -     -         1835    0    0 
+MrDink    970072683  4  3 f   -     -     -         1835    0    0 
+MrDink    970072699  4  2 Bk  kc    kc    kc        1835   60    0 Qc 6d
+MrDink    970072748  4  1 Brc krc   b     k         1775   90    0 8h Jd
+MrDink    970072783  4  4 c   c     k     f         1685   30    0 
+MrDink    970072805  4  3 rc  f     -     -         1655   30    0 
+MrDink    970072816  4  2 Brc rr    b     k         1625  100  200 As 5s
+MrDink    970072844  4  1 Bf  -     -     -         1725    5    0 
+MrDink    970072857  4  4 f   -     -     -         1720    0    0 
+MrDink    970072873  4  3 rr  brc   rr    rc        1720  220  445 Jh Kc
+MrDink    970072917  4  2 Br  r     -     -         1945   60  150 
+MrDink    970072942  4  1 Bf  -     -     -         2035    5    0 
+MrDink    970072951  4  4 f   -     -     -         2030    0    0 
+MrDink    970072979  4  3 rr  k     r     k         2030   80    0 Ks 8h
+MrDink    970073004  4  2 Brc r     b     b         1950  100  260 Ad Kd
+MrDink    970073041  4  1 Bc  k     b     brc       2110  120  360 6d Td
+MrDink    970073086  4  4 c   c     rc    c         2350  110  245 8c 9d
+MrDink    970073120  4  3 cr  rr    c     c         2485  120  285 Qh 3h
+MrDink    970073164  4  2 Brc rr    rc    c         2650  160  320 Jd Js
+MrDink    970073196  4  1 Brc kc    kc    kc        2810   90    0 Th Kc
+MrDink    970073250  4  4 c   k     k     k         2720   20    0 3s 5s
+MrDink    970073284  3  2 Bk  kf    -     -         2700   10    0 
+MrDink    970073304  3  1 Bc  kf    Q     -         2690   10    0 
+MrDink    970139156  6  5 c   c     f     -         2410   20    0 
+MrDink    970139197  6  4 cc  kc    kf    -         2390   30    0 
+MrDink    970139239  6  3 c   kc    k     k         2360   20    0 8h Ad
+MrDink    970139274  6  2 Bc  kc    kc    k         2340   50    0 Qh 8h
+MrDink    970139321  6  1 Bc  k     kf    -         2290   10    0 
+MrDink    970139374  6  6 c   c     c     c         2280   60    0 5h 3s
+MrDink    970139424  6  5 c   f     -     -         2220   10    0 
+MrDink    970139481  7  5 f   -     -     -         2210    0    0 
+MrDink    970139511  7  4 f   -     -     -         2210    0    0 
+MrDink    970139545  7  3 c   b     b     b         2210   60  125 As 6s
+MrDink    970139583  7  2 Bk  k     k     k         2275   10    0 9c 3s
+MrDink    970139600  7  1 Bc  kc    kc    kf        2265   50    0 
+MrDink    970139666  7  7 f   -     -     -         2215    0    0 
+MrDink    970139700  7  6 c   c     c     f         2215   50    0 
+MrDink    970139726  7  5 f   -     -     -         2165    0    0 
+MrDink    970139752  7  4 c   c     k     c         2165   40  130 6s Ts
+MrDink    970139807  7  3 c   f     -     -         2255   10    0 
+MrDink    970139825  7  2 Bc  kf    -     -         2245   20    0 
+MrDink    970139841  7  1 Bc  k     k     k         2225   10    0 Qd 4d
+MrDink    970139874  7  7 r   c     c     c         2215   70    0 Ah 3h
+MrDink    970139914  7  6 r   b     b     k         2145   50  115 Qc Ac
+MrDink    970139950  7  5 r   k     b     -         2210   40   75 
+MrDink    970139978  7  4 c   k     bc    k         2245   50    0 4d Ah
+MrDink    970140006  7  3 f   -     -     -         2195    0    0 
+MrDink    970140052  7  2 Bc  kc    kr    b         2195  100  305 2c Ah
+MrDink    970140100  8  1 Bc  kc    kf    -         2400   20    0 
+MrDink    970140144  8  8 c   k     c     k         2380   30    0 9h 9s
+MrDink    970140180  7  6 f   -     -     -         2350    0    0 
+MrDink    970140207  7  5 f   -     -     -         2350    0    0 
+MrDink    970140241  7  4 c   b     b     b         2350   60    0 9s 8s
+MrDink    970140272  7  3 c   k     f     -         2290   10    0 
+MrDink    970140298  7  2 B   -     -     -         2280   10   15 
+MrDink    970140307  7  1 Bc  k     kf    -         2285   10    0 
+MrDink    970140348  7  7 c   b     -     -         2275   20   45 
+MrDink    970140365  6  5 c   b     b     k         2300   40    0 Ac 7d
+MrDink    970140391  6  4 f   -     -     -         2260    0    0 
+MrDink    970140409  6  3 cc  kf    -     -         2260   20    0 
+MrDink    970140427  6  2 B   -     -     -         2240   10   15 
+MrDink    970140434  6  1 Bc  kc    bc    b         2245   80  160 Kc Qd
+MrDink    970140461  6  6 rr  c     r     k         2325   90  280 9d Ah
+MrDink    970140506  6  5 cc  kf    -     -         2515   20    0 
+MrDink    970140527  6  4 f   -     -     -         2495    0    0 
+MrDink    970140554  6  3 c   kc    kc    k         2495   40   95 Kd Qh
+MrDink    970140587  6  2 Bk  c     f     -         2550   20    0 
+MrDink    970140604  6  1 Bf  -     -     -         2530    5    0 
+MrDink    970140618  6  6 f   -     -     -         2525    0    0 
+MrDink    970140669  6  5 c   b     k     c         2525   40   52 2d Kd
+MrDink    970140704  6  4 f   -     -     -         2537    0    0 
+MrDink    970140721  5  3 c   f     -     -         2537   10    0 
+MrDink    970140740  5  2 B   -     -     -         2527   10   15 
+MrDink    970140747  5  1 Bc  kf    -     -         2532   10    0 
+MrDink    970140767  5  5 c   c     c     c         2522   60    0 Qs Qd
+MrDink    970140791  5  4 c   k     f     -         2462   10    0 
+MrDink    970140805  5  3 fQ  -     -     -         2452    0    0 

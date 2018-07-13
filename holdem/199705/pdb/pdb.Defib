@@ -1,0 +1,814 @@
+Defib     863873884  7  4 ccc c     f     -         1000   50    0 
+Defib     863873934  7  3 f   -     -     -          950    0    0 
+Defib     863873949  7  2 Bf  -     -     -          950   10    0 
+Defib     863874024  7  1 Bcc kcc   kc    k          940  120    0 6h 6c
+Defib     863874099  6  6 c   c     rr    b          820  130  340 
+Defib     863874184  7  6 f   -     -     -         1030    0    0 
+Defib     863874216  6  4 f   -     -     -         1030    0    0 
+Defib     863874248  6  4 f   -     -     -         1030    0    0 
+Defib     863874256  6  3 cc  f     -     -         1030   20    0 
+Defib     863874302  6  2 Bc  kc    kc    kf        1010   50    0 
+Defib     863874330  6  1 Bc  kc    kc    kf         960   50    0 
+Defib     863874367  6  6 f   -     -     -          910    0    0 
+Defib     863874401  7  5 cc  k     kf    -          910   30    0 
+Defib     863874454  7  4 cc  c     c     rc         880  110    0 5c Ac
+Defib     863874503  7  3 f   -     -     -          770    0    0 
+Defib     863874527  7  2 Bc  k     kr    b          770   80  145 
+Defib     863874562  7  1 Bf  -     -     -          835    5    0 
+Defib     863874596  6  6 c   c     c     c          830   70    0 Qd 7d
+Defib     863874620  6  5 c   c     c     f          760   50    0 
+Defib     863874659  6  4 cc  kc    k     k          710   30    0 9h Js
+Defib     863874692  6  3 cc  c     c     c          680   70    0 Ah 7d
+Defib     863874720  6  2 Bc  kc    kf    -          610   30    0 
+Defib     863874754  6  1 Bf  -     -     -          580    5    0 
+Defib     863874786  6  6 f   -     -     -          575    0    0 
+Defib     863874812  6  5 c   c     c     rc         575  110  250 Ts Td
+Defib     863874841  6  4 f   -     -     -          715    0    0 
+Defib     863874886  5  3 f   -     -     -          715    0    0 
+Defib     863874909  5  2 Bc  kc    k     k          715   30   90 Ts Ks
+Defib     863874934  5  1 Bcc krc   bc    kc         775  160    0 2d As
+Defib     863874982  5  5 f   -     -     -          615    0    0 
+Defib     863875034  5  4 cc  c     f     -          615   50    0 
+Defib     863875095  5  3 rr  r     b     b          565  100  250 Qd Qc
+Defib     863875137  5  2 Bf  -     -     -          715   10    0 
+Defib     863875174  5  1 Bf  -     -     -          705    5    0 
+Defib     863875200  6  6 c   c     c     f          700   50    0 
+Defib     863875221  6  5 cc  f     -     -          650   40    0 
+Defib     863875259  6  4 f   -     -     -          610    0    0 
+Defib     863875268  6  3 f   -     -     -          610    0    0 
+Defib     863875303  6  2 Bc  kc    kc    kc         610   70    0 3d 7d
+Defib     863875322  6  1 Bf  -     -     -          540    5    0 
+Defib     863875357  6  6 f   -     -     -          535    0    0 
+Defib     863875379  6  5 f   -     -     -          535    0    0 
+Defib     863875444  6  4 f   -     -     -          535    0    0 
+Defib     863875486  5  3 f   -     -     -          535    0    0 
+Defib     863875547  6  2 Bf  -     -     -          535   10    0 
+Defib     863875614  5  1 Bf  -     -     -          525    5    0 
+Defib     863875646  5  5 f   -     -     -          520    0    0 
+Defib     863875669  5  4 cc  cc    k     c          520   80    0 As 5c
+Defib     863875735  5  3 f   -     -     -          440    0    0 
+Defib     863875780  5  2 Bf  -     -     -          440   10    0 
+Defib     863875815  5  1 Bf  -     -     -          430    5    0 
+Defib     863875837  5  5 c   rr    b     b          425  100  205 
+Defib     863875871  5  4 f   -     -     -          530    0    0 
+Defib     863875914  6  3 f   -     -     -          530    0    0 
+Defib     863875940  6  2 Bc  kf    -     -          530   20    0 
+Defib     863875980  6  1 Bc  k     kc    k          510   50    0 2h Jh
+Defib     863876016  6  6 c   rr    b     b          460  100  275 As Qc
+Defib     863876065  6  5 c   rr    b     b          635  100  210 
+Defib     863876108  5  3 c   k     k     c          745   30    0 Jc Ad
+Defib     863876152  5  2 Bk  kc    kc    kc         715   60    0 9c 3h
+Defib     863876195  5  1 Bcr br    b     b          655  100    0 9s Ts
+Defib     863876233  4  4 f   -     -     -          555    0    0 
+Defib     863876251  4  3 c   c     f     -          555   20    0 
+Defib     863876277  4  2 Bk  k     k     k          535   10   25 Ts 4s
+Defib     863876298  4  1 Bcc kc    kc    kf         550   50    0 
+Defib     863876325  4  4 f   -     -     -          500    0    0 
+Defib     863876351  4  3 cc  k     k     k          500   20   70 Qc Jc
+Defib     863876386  4  2 B   -     -     -          550   10   15 
+Defib     863876394  3  1 Bcc k     kr    -          555   60  100 
+Defib     863876417  3  3 f   -     -     -          595    0    0 
+Defib     863876439  3  2 Bf  -     -     -          595   10    0 
+Defib     863876453  3  1 Bf  -     -     -          585    5    0 
+Defib     863876461  3  3 cc  f     -     -          580   20    0 
+Defib     863876478  3  2 Bk  k     k     k          560   10   30 9c Ad
+Defib     863876501  3  1 Bc  k     k     kc         580   30    0 6d 3d
+Defib     863876524  2  2 Bc  f     -     -          550   20    0 
+Defib     863876538  2  1 Bf  -     -     -          530    5    0 
+Defib     863876545  2  2 Bk  k     k     k          525   10    0 Th 4h
+Defib     863876565  2  1 Br  -     -     -          515   20   30 
+Defib     863876576  2  2 Bf  -     -     -          525   10    0 
+Defib     863876585  2  1 Bf  -     -     -          515    5    0 
+Defib     863876592  2  2 Bf  -     -     -          510   10    0 
+Defib     863876598  2  1 Bf  -     -     -          500    5    0 
+Defib     863876604  2  2 Bc  c     k     c          495   50    0 7d Qs
+Defib     863876624  2  1 Bf  -     -     -          445    5    0 
+Defib     863876631  2  2 Bk  k     b     -          440   30   40 
+Defib     863876649  2  1 Bcc kc    kf    -          450   30    0 
+Defib     863876674  2  2 Bf  -     -     -          420   10    0 
+Defib     863876680  2  1 Bc  kc    kc    k          410   40   80 Th 8d
+Defib     863876704  2  2 B   -     -     -          450   10   15 
+Defib     863876712  2  1 Bc  kc    b     b          455   60    0 Ts Ad
+Defib     863876738  2  2 B   -     -     -          395   10   15 
+Defib     863876744  2  1 Bc  k     k     k          400   10   20 Kh Tc
+Defib     863876766  2  2 Br  br    -     -          410   60  110 
+Defib     863876786  2  1 Bcc kf    -     -          460   20    0 
+Defib     863876804  2  2 Bf  -     -     -          440   10    0 
+Defib     863876812  2  1 Bc  k     b     -          430   30   40 
+Defib     863876829  2  2 Bf  -     -     -          440   10    0 
+Defib     863876837  2  1 Bf  -     -     -          430    5    0 
+Defib     863876844  2  2 B   -     -     -          425   10   15 
+Defib     863876849  2  1 Br  b     -     -          430   30   50 
+Defib     863876862  2  2 B   -     -     -          450   10   15 
+Defib     863876868  2  1 Bcr b     b     bc         455  100  100 Ac 2h
+Defib     863876894  2  2 Bf  -     -     -          455   10    0 
+Defib     863876901  2  1 Bcc kc    kc    kf         445   50    0 
+Defib     863876923  2  2 B   -     -     -          395   10   15 
+Defib     863876928  2  1 Bc  k     kc    kc         400   50    0 6s 8d
+Defib     863876954  2  2 Bc  c     k     f          350   30    0 
+Defib     863876974  2  1 Bf  -     -     -          320    5    0 
+Defib     863876981  2  2 B   -     -     -          315   10   15 
+Defib     863876986  2  1 Bc  k     k     k          320   10   20 5s 3s
+Defib     863877006  2  2 Bk  k     rr    brrrrrcA    330  330    0 Kh 3s
+Defib     863953090  6  2 Bc  kc    kc    kf        1000   50    0 
+Defib     863953134  6  1 Bc  kc    kc    kc         950  100  350 9h Kc
+Defib     863953208  6  6 cc  c     c     f         1200   70    0 
+Defib     863953278  6  5 f   -     -     -         1130    0    0 
+Defib     863953290  6  4 cc  ccc   kc    kc        1130  100    0 7c 7s
+Defib     863953361  6  3 cc  f     -     -         1030   30    0 
+Defib     863953438  6  2 Bk  kf    -     -         1000   10    0 
+Defib     863953466  6  1 Bcc kc    kc    kf         990   60    0 
+Defib     863953574  6  6 f   -     -     -          930    0    0 
+Defib     863953650  7  6 c   c     r     b          930   80  190 Kc Jc
+Defib     863953718  6  4 f   -     -     -         1040    0    0 
+Defib     863953769  5  4 f   -     -     -         1040    0    0 
+Defib     863953782  5  3 c   kf    -     -         1040   10    0 
+Defib     863953810  5  2 Bc  k     k     kc        1030   40    0 Js Td
+Defib     863953851  5  1 Bcc kc    kf    -          990   30    0 
+Defib     863953882  6  6 f   -     -     -          960    0    0 
+Defib     863953903  6  5 cc  k     k     k          960   20   65 9d 3d
+Defib     863953943  6  4 r   r     b     k         1005   60  125 Qs Qc
+Defib     863953979  6  3 f   -     -     -         1070    0    0 
+Defib     863954025  5  2 Bk  kf    -     -         1070   10    0 
+Defib     863954054  6  1 Bf  -     -     -         1060    5    0 
+Defib     863954138  6  6 c   c     cc    k         1055   80  280 7h As
+Defib     863954204  6  5 f   -     -     -         1255    0    0 
+Defib     863954229  6  4 cc  c     f     -         1255   30    0 
+Defib     863954259  6  3 cc  kr    kc    kf        1225   60    0 
+Defib     863954330  6  2 Bc  kc    kc    kf        1165   50    0 
+Defib     863954369  7  1 Bf  -     -     -         1115    5    0 
+Defib     863954416  7  7 c   k     b     b         1110   60  115 
+Defib     863954465  7  6 f   -     -     -         1165    0    0 
+Defib     863954505  7  5 f   -     -     -         1165    0    0 
+Defib     863954540  7  4 c   k     k     c         1165   30    0 8h 8s
+Defib     863954581  7  3 f   -     -     -         1135    0    0 
+Defib     863954620  7  2 Bk  kf    -     -         1135   10    0 
+Defib     863954642  7  1 Bf  -     -     -         1125    5    0 
+Defib     863954701  7  7 cc  b     b     b         1120   70  220 
+Defib     863954780  7  6 f   -     -     -         1270    0    0 
+Defib     863954828  7  5 r   rr    b     b         1270  100  235 Qd Qh
+Defib     863954875  7  4 c   c     c     k         1405   50    0 8h 7s
+Defib     863954930  7  3 f   -     -     -         1355    0    0 
+Defib     863954978  7  2 Bk  kc    kc    kf        1355   40    0 
+Defib     863955016  6  1 Bc  k     kr    b         1315   80  300 Ah 4d
+Defib     863955093  6  6 f   -     -     -         1535    0    0 
+Defib     863955152  6  5 f   -     -     -         1535    0    0 
+Defib     863955194  6  4 c   c     c     f         1535   40    0 
+Defib     863955224  6  3 c   c     f     -         1495   20    0 
+Defib     863955248  6  2 Bf  -     -     -         1475   10    0 
+Defib     863955274  6  1 Bf  -     -     -         1465    5    0 
+Defib     863955308  6  6 c   c     c     c         1460   60    0 Jd Qh
+Defib     863955347  6  5 c   b     b     -         1400   40   80 
+Defib     863955380  6  4 c   b     b     b         1440   60  125 Ac 4c
+Defib     863955412  6  3 Q   -     -     -         1505    0    0 
+Defib     863970584 11 10 f   -     -     -         1505    0    0 
+Defib     863970616 11  9 c   cc    cc    crc       1505  160  288 Qd 9d
+Defib     863970714 11  8 cc  f     -     -         1633   40    0 
+Defib     863970792 11  7 f   -     -     -         1593    0    0 
+Defib     863970870 12  6 f   -     -     -         1593    0    0 
+Defib     863970933 12  6 f   -     -     -         1593    0    0 
+Defib     863971014 11  4 Q   -     -     -         1593    0    0 
+Defib     864041448  3  2 Bk  kc    k     krr       1593  100  210 Qh Js
+Defib     864041484  3  1 B   -     -     -         1703    5   15 
+Defib     864041491  2  2 f   -     -     -         1713    0    0 
+Defib     864041492  2  2 B   -     -     -         1713   10   15 
+Defib     864041507  2  1 Br  b     b     -         1718   50   80 
+Defib     864041524  2  2 Bf  -     -     -         1748   10    0 
+Defib     864041533  2  1 Bf  -     -     -         1738    5    0 
+Defib     864041539  2  2 Bc  b     bc    k         1733   70  140 Ks Jd
+Defib     864041571  2  1 Bc  k     k     k         1803   10   20 Qh 9s
+Defib     864041593  2  2 Bf  -     -     -         1813   10    0 
+Defib     864041602  2  1 Bcc kc    kc    k         1803   50  100 Kc Qs
+Defib     864041628  2  2 Bc  c     c     b         1853   70  140 2d Ah
+Defib     864041657  2  1 Bcc k     kf    -         1923   20    0 
+Defib     864041688  2  2 Bc  c     c     c         1903   70  140 Js Td
+Defib     864041707  2  1 Bcc kc    k     k         1973   30   60 Ts 9h
+Defib     864041737  2  2 Bf  -     -     -         2003   10    0 
+Defib     864041750  3  1 Bf  -     -     -         1993    5    0 
+Defib     864041762  3  3 f   -     -     -         1988    0    0 
+Defib     864041769  3  2 Bf  -     -     -         1988   10    0 
+Defib     864041795  3  1 Bf  -     -     -         1978    5    0 
+Defib     864041819  3  3 f   -     -     -         1973    0    0 
+Defib     864041828  3  2 Bc  c     f     -         1973   30    0 
+Defib     864041848  3  1 Bf  -     -     -         1943    5    0 
+Defib     864041863  3  3 f   -     -     -         1938    0    0 
+Defib     864041894  3  2 Bf  -     -     -         1938   10    0 
+Defib     864041905  3  1 Bf  -     -     -         1928    5    0 
+Defib     864041912  3  3 cc  b     b     -         1923   50   85 
+Defib     864041936  3  2 Bf  -     -     -         1958   10    0 
+Defib     864041945  3  1 Bc  k     b     -         1948   40   80 
+Defib     864041968  2  2 Bk  k     c     k         1988   30   30 5d Ks
+Defib     864041995  2  1 Bc  kc    kc    k         1988   40    0 Kh 6h
+Defib     864042020  2  2 Bc  c     k     k         1948   30   60 8s 9d
+Defib     864042045  2  1 Br  b     b     b         1978   70  120 
+Defib     864042067  3  3 Q   -     -     -         2028    0    0 
+Defib     864122564  7  6 c   c     c     f         2028   80    0 
+Defib     864122647  8  5 f   -     -     -         1948    0    0 
+Defib     864122708  8  4 f   -     -     -         1948    0    0 
+Defib     864122854  6  2 Bk  kc    kc    k         1948   40    0 2h 9c
+Defib     864122903  8  1 Bf  -     -     -         1908    5    0 
+Defib     864122981  8  8 f   -     -     -         1903    0    0 
+Defib     864123066  9  7 f   -     -     -         1903    0    0 
+Defib     864123171  8  6 cc  k     f     -         1903   20    0 
+Defib     864123259  9  5 f   -     -     -         1883    0    0 
+Defib     864123330  9  4 cc  c     kf    -         1883   40    0 
+Defib     864123397  9  3 cc  cr    rc    c         1843  140    0 Kd 6d
+Defib     864123466  9  2 Bk  cf    -     -         1703   20    0 
+Defib     864123522  9  1 Bc  kc    Q     -         1683   30    0 
+Defib     864123768 10  9 f   -     -     -         1653    0    0 
+Defib     864123832 10  8 c   c     c     f         1653   50    0 
+Defib     864123905 10  7 c   cc    c     cc        1603  100    0 Js Qd
+Defib     864123984  9  5 f   -     -     -         1503    0    0 
+Defib     864124043  9  5 f   -     -     -         1503    0    0 
+Defib     864124102 10  4 cc  cc    k     kf        1503   50    0 
+Defib     864124200  7  3 cc  k     k     k         1453   20    0 4s 3s
+Defib     864124341  7  2 Bk  kf    -     -         1433   10    0 
+Defib     864124388  8  1 Bc  kc    kc    k         1423   50  180 Jh Qc
+Defib     864124436  8  8 c   b     b     -         1553   40   85 
+Defib     864124469  8  7 c   k     c     f         1598   30    0 
+Defib     864124521  8  6 f   -     -     -         1568    0    0 
+Defib     864124553  8  5 c   c     c     f         1568   60    0 
+Defib     864124594  8  4 f   -     -     -         1508    0    0 
+Defib     864124653  7  1 Bk  k     kc    kf        1508   30    0 
+Defib     864124691  7  1 Bc  kc    kc    kc        1478   90    0 Ad 9s
+Defib     864124721  7  7 f   -     -     -         1388    0    0 
+Defib     864124763  7  6 rr  rc    k     c         1388   90    0 Kh Ks
+Defib     864124886  7  5 c   k     k     k         1298   10   25 Kc Qc
+Defib     864124925  8  5 f   -     -     -         1313    0    0 
+Defib     864124973  8  4 c   k     c     c         1313   50  120 Kd 8d
+Defib     864125022  8  3 f   -     -     -         1383    0    0 
+Defib     864125070  8  2 Bk  kr    b     b         1383   70  210 Ks 7s
+Defib     864125122  8  1 Bc  bc    kc    kf        1523   80    0 
+Defib     864125176  8  8 f   -     -     -         1443    0    0 
+Defib     864125237  8  7 c   c     k     c         1443   40    0 Kh Qh
+Defib     864125279  8  7 f   -     -     -         1403    0    0 
+Defib     864125352  7  5 f   -     -     -         1403    0    0 
+Defib     864125373  7  4 f   -     -     -         1403    0    0 
+Defib     864125397  7  3 cc  c     f     -         1403   30    0 
+Defib     864125458  7  2 Bk  kc    k     kf        1373   20    0 
+Defib     864125497  7  1 Bc  kc    k     k         1353   20    0 5c 9c
+Defib     864125528  7  7 c   f     -     -         1333   20    0 
+Defib     864125566  7  6 c   k     k     k         1313   10   35 2d Td
+Defib     864125594  7  5 c   c     c     f         1338   40    0 
+Defib     864125623  7  4 f   -     -     -         1298    0    0 
+Defib     864125643  7  3 c   cc    kc    kc        1298   70    0 Kd Th
+Defib     864125685  7  2 Bf  -     -     -         1228   10    0 
+Defib     864125709  7  1 Bc  kf    -     -         1218   10    0 
+Defib     864125756  8  8 c   k     c     c         1208   70  305 Jc 2c
+Defib     864125831  7  6 cc  k     b     -         1443   40  105 
+Defib     864125876  7  5 r   k     c     b         1508   60  200 Kh Kd
+Defib     864125930  7  4 r   b     b     b         1648   70  135 
+Defib     864125966  7  3 rr  bc    kc    kc        1713  100    0 Jc Jd
+Defib     864126014  7  2 Bk  kr    b     b         1613   70  155 
+Defib     864126064  7  1 Bf  -     -     -         1698    5    0 
+Defib     864126087  7  7 c   b     c     f         1693   50    0 
+Defib     864126146  7  6 cc  c     f     -         1643   50    0 
+Defib     864126189  7  5 f   -     -     -         1593    0    0 
+Defib     864126231  8  4 c   k     kf    -         1593   10    0 
+Defib     864126281  8  3 f   -     -     -         1583    0    0 
+Defib     864126308  8  2 Bk  b     bc    f         1583   60    0 
+Defib     864126389  8  1 Bf  -     -     -         1523    5    0 
+Defib     864126452  8  8 f   -     -     -         1518    0    0 
+Defib     864126504  8  7 c   f     -     -         1518   10    0 
+Defib     864126559  7  6 f   -     -     -         1508    0    0 
+Defib     864126600  7  5 f   -     -     -         1508    0    0 
+Defib     864126659  7  4 c   cf    -     -         1508   20    0 
+Defib     864126713  7  3 c   kc    k     kf        1488   20    0 
+Defib     864126759  7  2 B   -     -     -         1468   10   15 
+Defib     864126770  7  1 Bc  kc    kr    bc        1473  100  210 Jh Qh
+Defib     864126820  6  6 c   c     b     b         1583   60  115 
+Defib     864126854  6  5 f   -     -     -         1638    0    0 
+Defib     864126880  6  4 c   c     c     f         1638   50    0 
+Defib     864126933  6  3 cc  br    bc    kc        1588  110    0 Qh Jh
+Defib     864126978  7  2 Bk  kc    kf    -         1478   30    0 
+Defib     864127040  7  1 Bc  k     k     k         1448   10    0 4h 6d
+Defib     864127076  7  7 f   -     -     -         1438    0    0 
+Defib     864127110  7  6 c   k     c     r         1438   70  145 
+Defib     864127157  7  5 f   -     -     -         1513    0    0 
+Defib     864127186  7  4 f   -     -     -         1513    0    0 
+Defib     864127215  7  3 c   kc    kc    kf        1513   40    0 
+Defib     864127253  7  2 Bc  kf    -     -         1473   20    0 
+Defib     864127332  7  1 Bcc kc    kc    kf        1453   60    0 
+Defib     864127412  6  6 f   -     -     -         1393    0    0 
+Defib     864127457  6  5 c   k     k     c         1393   30    0 4d 6d
+Defib     864127495  6  4 f   -     -     -         1363    0    0 
+Defib     864127538  6  3 fQ  -     -     -         1363    0    0 
+Defib     864127792  6  3 cc  kc    kf    -         1363   30    0 
+Defib     864127842  6  2 Bc  c     c     c         1333   70    0 Ah Qc
+Defib     864127873  6  1 Bc  kc    k     kc        1263   60    0 Td 8c
+Defib     864127926  6  6 f   -     -     -         1203    0    0 
+Defib     864127950  6  5 f   -     -     -         1203    0    0 
+Defib     864127979  6  4 f   -     -     -         1203    0    0 
+Defib     864128019  6  3 ccc kr    b     b         1203  100    0 2c 2s
+Defib     864128101  6  2 BfQ -     -     -         1103   10    0 
+Defib     864134300  4  2 Bc  kc    kc    kf        1093   50    0 
+Defib     864134332  4  1 Bc  k     k     k         1043   10    0 9d Th
+Defib     864134361  4  4 f   -     -     -         1033    0    0 
+Defib     864134385  4  3 c   c     f     -         1033   20    0 
+Defib     864134418  4  2 Bc  k     kf    -         1013   20    0 
+Defib     864134441  4  1 Bc  kc    kc    kc         993   60    0 2c Tc
+Defib     864134479  4  4 f   -     -     -          933    0    0 
+Defib     864134508  4  3 c   c     c     rr         933  120  300 4d Ac
+Defib     864134562  4  2 Bf  -     -     -         1113   10    0 
+Defib     864134596  4  1 Bc  k     k     k         1103   10   20 Ac 5h
+Defib     864134636  4  4 c   k     f     -         1113   10    0 
+Defib     864134661  4  3 f   -     -     -         1103    0    0 
+Defib     864134672  4  2 Bk  c     k     b         1103   40   90 
+Defib     864134708  4  1 Bf  -     -     -         1153    5    0 
+Defib     864134738  3  3 c   k     k     k         1148   10   15 As 4c
+Defib     864134760  3  2 Bk  k     k     k         1153   10    0 6h Js
+Defib     864134778  3  1 Bc  k     k     kf        1143   10    0 
+Defib     864134806  3  3 f   -     -     -         1133    0    0 
+Defib     864134830  3  2 Bf  -     -     -         1133   10    0 
+Defib     864134837  3  1 Bf  -     -     -         1123    5    0 
+Defib     864134863  3  3 cc  c     c     f         1118   50    0 
+Defib     864134905  3  2 Bk  k     f     -         1068   10    0 
+Defib     864134933  3  1 Bc  k     k     k         1058   10   20 7c Ad
+Defib     864134951  3  3 c   k     k     k         1068   10   30 5d 6d
+Defib     864134976  3  2 Bc  c     c     f         1088   50    0 
+Defib     864135001  3  1 Bf  -     -     -         1038    5    0 
+Defib     864135012  3  3 f   -     -     -         1033    0    0 
+Defib     864135030  3  2 Bf  -     -     -         1033   10    0 
+Defib     864135048  3  1 Bc  k     b     -         1023   30   40 
+Defib     864135068  3  3 c   k     f     -         1033   10    0 
+Defib     864135092  3  2 Bc  c     f     -         1023   30    0 
+Defib     864135125  3  1 Bc  kf    -     -          993   10    0 
+Defib     864135159  3  3 f   -     -     -          983    0    0 
+Defib     864135182  3  2 Bc  c     c     c          983   70    0 As Qs
+Defib     864135211  3  1 Bc  k     k     k          913   20   60 6s 5c
+Defib     864135238  3  3 cc  cc    c     k          953   90    0 8s Ts
+Defib     864135281  4  3 c   k     k     c          863   30   70 2d Qd
+Defib     864135318  4  2 Bk  kf    -     -          903   10    0 
+Defib     864135338  4  1 Bc  k     k     k          893   20    0 3c 8c
+Defib     864135381  4  4 cc  c     c     f          873   50    0 
+Defib     864135413  4  3 f   -     -     -          823    0    0 
+Defib     864135449  4  2 Bk  k     k     k          823   10    0 2c 8d
+Defib     864135477  5  1 Bc  kc    kc    kf         813   50    0 
+Defib     864135522  5  5 f   -     -     -          763    0    0 
+Defib     864135550  5  4 f   -     -     -          763    0    0 
+Defib     864135582  5  3 cc  f     -     -          763   20    0 
+Defib     864135624  5  2 Bc  k     kf    -          743   30    0 
+Defib     864135668  5  1 Bc  k     k     kf         713   10    0 
+Defib     864135711  5  5 f   -     -     -          703    0    0 
+Defib     864135749  5  4 c   k     c     f          703   30    0 
+Defib     864135778  5  4 f   -     -     -          673    0    0 
+Defib     864135817  4  2 Bf  -     -     -          673   10    0 
+Defib     864135849  4  1 Bf  -     -     -          663    5    0 
+Defib     864135883  4  4 cr  rr    b     b          658  120  340 
+Defib     864135943  4  3 c   b     b     b          878   60  130 Qd Kd
+Defib     864135976  4  2 Bk  k     k     k          948   10   25 4s 6c
+Defib     864135998  4  1 Bf  -     -     -          963    5    0 
+Defib     864136012  4  4 cc  c     k     c          958   60   92 2h As
+Defib     864136064  3  3 f   -     -     -          990    0    0 
+Defib     864136100  3  2 Bk  f     -     -          990   10    0 
+Defib     864136116  3  1 Bc  kf    -     -          980   20    0 
+Defib     864136134  3  3 cc  f     -     -          960   20    0 
+Defib     864136183  4  2 Bf  -     -     -          940   10    0 
+Defib     864136217  4  1 Bc  kf    -     -          930   20    0 
+Defib     864136253  4  4 c   k     b     -          910   30   45 
+Defib     864136280  4  3 c   k     f     -          925   10    0 
+Defib     864136306  4  2 Bc  c     f     -          915   30    0 
+Defib     864136333  3  1 Bc  kc    kc    kf         885   40    0 
+Defib     864136360  3  3 cc  f     -     -          845   20    0 
+Defib     864136379  3  2 B   -     -     -          825   10   15 
+Defib     864136385  3  1 Bc  kf    -     -          830   20    0 
+Defib     864136402  3  3 c   k     f     -          810   10    0 
+Defib     864136423  3  2 Bc  k     k     k          800   20   40 Jh 9h
+Defib     864136459  3  1 Bc  kc    kc    kr         820   90  170 
+Defib     864136498  3  3 f   -     -     -          900    0    0 
+Defib     864136505  3  2 Bc  kc    k     k          900   30    0 Ah 2c
+Defib     864136526  3  1 Bc  k     k     k          870   10   20 7h Tc
+Defib     864136557  3  3 cc  c     c     b          880   70  145 3d 4c
+Defib     864136591  3  2 Bc  kf    -     -          955   20    0 
+Defib     864136635  3  1 Bcc k     kf    -          935   30    0 
+Defib     864136678  3  3 c   k     k     b          905   30   70 Ac 7d
+Defib     864136709  3  2 Bk  k     k     k          945   10    0 4s Tc
+Defib     864136732  3  1 Bf  -     -     -          935    5    0 
+Defib     864136753  3  3 c   c     c     c          930   60  140 5d 7d
+Defib     864136793  3  2 Bc  c     r     b         1010   90    0 7c 2c
+Defib     864136824  3  1 Bc  k     k     k          920   10   20 6s 9h
+Defib     864136846  3  3 c   k     k     b          930   30   50 
+Defib     864136876  3  2 Bk  k     k     kf         950   10    0 
+Defib     864136910  3  1 Bcc kc    kc    kf         940   50    0 
+Defib     864136934  3  3 f   -     -     -          890    0    0 
+Defib     864136961  3  2 Bf  -     -     -          890   10    0 
+Defib     864136996  3  1 Bc  kf    -     -          880   20    0 
+Defib     864137026  3  3 cc  f     -     -          860   20    0 
+Defib     864137045  3  2 Bc  k     k     k          840   20   45 8c Ad
+Defib     864137072  3  1 Bf  -     -     -          865    5    0 
+Defib     864137105  3  3 f   -     -     -          860    0    0 
+Defib     864137142  3  2 B   -     -     -          860   10   15 
+Defib     864137157  3  1 Bc  kc    kc    k          865   50  110 2d 4d
+Defib     864137186  3  3 cc  c     c     f          925   50    0 
+Defib     864137216  3  2 Bcc kf    -     -          875   40    0 
+Defib     864137259  3  1 Bf  -     -     -          835    5    0 
+Defib     864137288  3  3 c   c     f     -          830   20    0 
+Defib     864137309  3  2 Bk  f     -     -          810   10    0 
+Defib     864137339  3  1 Br  b     b     b          800   80  220 7h 7d
+Defib     864137375  2  2 Bk  c     k     f          940   20    0 
+Defib     864137403  2  1 Bc  kc    kc    kf         920   40    0 
+Defib     864137431  2  2 Bf  -     -     -          880   10    0 
+Defib     864137442  2  1 Bf  -     -     -          870    5    0 
+Defib     864137450  2  2 Bk  c     k     k          865   20    0 8c 7s
+Defib     864137475  2  1 Bc  k     kf    -          845   10    0 
+Defib     864137495  2  2 Bk  c     f     -          835   20    0 
+Defib     864137524  2  1 Bcc kc    kf    -          815   30    0 
+Defib     864137543  2  2 Bk  b     -     -          785   20   30 
+Defib     864137561  2  1 Bc  k     kr    b          795   70    0 5s 7h
+Defib     864137596  3  2 Bf  -     -     -          725   10    0 
+Defib     864137606  3  1 Bf  -     -     -          715    5    0 
+Defib     864137616  3  3 f   -     -     -          710    0    0 
+Defib     864137623  3  2 Bf  -     -     -          710   10    0 
+Defib     864137662  3  1 Bf  -     -     -          700    5    0 
+Defib     864137676  3  3 f   -     -     -          695    0    0 
+Defib     864137683  3  2 Bc  cc    f     -          695   50    0 
+Defib     864137710  3  1 Bc  k     kf    -          645   10    0 
+Defib     864137740  3  3 f   -     -     -          635    0    0 
+Defib     864137747  3  2 Bk  k     b     b          635   50   80 
+Defib     864137775  3  1 Bc  kc    kc    kf         665   40    0 
+Defib     864137805  3  3 cc  k     c     k          625   40  120 4h Ad
+Defib     864137842  5  3 c   c     f     -          705   20    0 
+Defib     864137866  5  2 Bc  kc    kc    kf         685   50    0 
+Defib     864137911  5  1 Bc  kf    -     -          635   20    0 
+Defib     864137947  5  5 c   f     -     -          615   10    0 
+Defib     864137994  5  4 c   c     c     c          605   60  140 As 8c
+Defib     864138036  5  3 cc  c     f     -          685   30    0 
+Defib     864138078  5  2 Bk  k     k     f          655   10    0 
+Defib     864138119  5  1 Bf  -     -     -          645    5    0 
+Defib     864138187  5  5 c   b     b     b          640   60  150 Ac 9d
+Defib     864138226  6  4 c   f     -     -          730   10    0 
+Defib     864138265  6  3 c   c     c     f          720   40    0 
+Defib     864138314  6  2 Bc  k     kf    -          680   20    0 
+Defib     864138387  6  1 Bf  -     -     -          660    5    0 
+Defib     864138429  6  6 f   -     -     -          655    0    0 
+Defib     864138462  6  5 c   cc    kc    k          655   50    0 Tc 8d
+Defib     864138515  6  4 c   kc    kc    kf         605   40    0 
+Defib     864138562  6  3 fQ  -     -     -          565    0    0 
+Defib     864140399  9  6 r   b     b     k          565   60    0 Jh Jc
+Defib     864140476  8  5 cc  c     c     f          505   60    0 
+Defib     864140526  8  3 f   -     -     -          445    0    0 
+Defib     864140564  8  2 Bk  k     k     k          445   10    0 Ah Kc
+Defib     864140590  8  1 Bf  -     -     -          435    5    0 
+Defib     864140601  8  8 c   b     b     b          430   70  235 4h Th
+Defib     864140680  8  7 f   -     -     -          595    0    0 
+Defib     864140717  8  6 c   c     c     f          595   50    0 
+Defib     864140769  7  4 f   -     -     -          545    0    0 
+Defib     864140812  7  4 c   c     c     k          545   40    0 9c Ad
+Defib     864140860  7  3 f   -     -     -          505    0    0 
+Defib     864140927  6  2 Bk  kQ    -     -          505   10    0 
+Defib     864214222  7  3 f   -     -     -          495    0    0 
+Defib     864214267  7  2 Bc  kc    kc    kf         495   80    0 
+Defib     864214391  6  1 Bc  kc    kf    -          415   30    0 
+Defib     864214443  6  6 f   -     -     -          385    0    0 
+Defib     864214502  6  5 c   c     c     f          385   40    0 
+Defib     864214537  6  4 crc r     rc    bc         345  190    0 As Ad
+Defib     864214640  6  3 cc  kf    -     -          155   20    0 
+Defib     864214670  6  2 Bc  k     b     b          135   60  145 3s 3c
+Defib     864214713  6  1 Bf  -     -     -          220    5    0 
+Defib     864214811  5  5 c   k     k     k          215   10    0 Qc 8d
+Defib     864214838  5  5 r   b     b     r          205   90  190 Th Ah
+Defib     864214872  5  4 r   c     c     f          305   60    0 
+Defib     864214910  5  3 c   k     f     -          245   10    0 
+Defib     864214952  5  2 Bcc c     cc    kc         235  110    0 Ah Td
+Defib     864215012  5  1 Bcc k     kc    kf         125   40    0 
+Defib     864215055  5  5 f   -     -     -           85    0    0 
+Defib     864215129  6  4 f   -     -     -           85    0    0 
+Defib     864215164  6  3 r   b     -     -           85   30   55 
+Defib     864215182  6  2 Br  b     b     -          110   50  120 
+Defib     864215214  6  1 Bc  kf    -     -          180   20    0 
+Defib     864215251  6  6 c   k     c     k          160   40    0 Js Td
+Defib     864215296  7  6 f   -     -     -          120    0    0 
+Defib     864215321  7  5 c   c     c     kf         120   40    0 
+Defib     864215355  7  4 f   -     -     -           80    0    0 
+Defib     864215416  7  3 f   -     -     -           80    0    0 
+Defib     864215488  7  2 Bk  k     k     kc          80   30   75 6d 8c
+Defib     864215524  7  1 Bf  -     -     -          125    5    0 
+Defib     864215568  7  7 c   bc    b     b          120   70  160 6c 6s
+Defib     864215611  7  6 c   c     c     f          210   40    0 
+Defib     864215680  6  4 c   b     k     r          170   60    0 Js Kd
+Defib     864215730  6  3 f   -     -     -          110    0    0 
+Defib     864215798  7  2 Bk  kc    k     kf         110   20    0 
+Defib     864215873  6  1 Bc  k     k     k           90   10    0 2h 5s
+Defib     864215905  5  5 f   -     -     -           80    0    0 
+Defib     864215934  5  4 c   cc    ccA   -           80   80    0 3c 3d
+Defib     864216060  5  2 Bc  krc   br    brrc      1000  240    0 Qs Js
+Defib     864216116  5  1 Bc  k     k     k          760   10    0 8h 4h
+Defib     864216147  4  4 c   k     f     -          750   20    0 
+Defib     864216199  5  4 cc  brc   bc    k          730  100    0 Ah 8h
+Defib     864216292  5  3 f   -     -     -          630    0    0 
+Defib     864216345  5  2 Bk  k     k     k          630   10   20 7s Js
+Defib     864216372  5  1 Bc  kf    -     -          640   20    0 
+Defib     864216497  5  5 cc  c     r     b          620   90  170 
+Defib     864216535  4  4 f   -     -     -          700    0    0 
+Defib     864216558  3  3 f   -     -     -          700    0    0 
+Defib     864216583  3  2 Bc  r     b     b          700   80  160 6h 5h
+Defib     864216619  3  1 Bf  -     -     -          780    5    0 
+Defib     864216650  3  3 c   b     -     -          775   20   35 
+Defib     864216670  2  2 BQ  -     -     -          790   10   15 
+Defib     864252844 12 12 c   r     c     c          795   80    0 Qc Ks
+Defib     864252933 12 11 c   c     r     r          715  100  350 3s As
+Defib     864253035 12 10 cc  cf    -     -          965   30    0 
+Defib     864253114 12  9 c   cc    c     c          935   80    0 8d Qh
+Defib     864253234 12  8 cc  c     c     f          855   60    0 
+Defib     864253316 12  7 f   -     -     -          795    0    0 
+Defib     864253388 12  6 c   c     cf    -          795   50    0 
+Defib     864253535 12  5 f   -     -     -          745    0    0 
+Defib     864253611 12  4 f   -     -     -          745    0    0 
+Defib     864253762 12  3 c   kQ    -     -          745   10    0 
+Defib     864464319  9  4 cc  c     c     kf         735   50    0 
+Defib     864464369  9  4 f   -     -     -          685    0    0 
+Defib     864464406  8  2 Bk  kf    -     -          685   10    0 
+Defib     864464452  8  1 Bc  kf    -     -          675   20    0 
+Defib     864464494  8  8 f   -     -     -          655    0    0 
+Defib     864464548  8  7 f   -     -     -          655    0    0 
+Defib     864464606  8  6 f   -     -     -          655    0    0 
+Defib     864464683  8  5 f   -     -     -          655    0    0 
+Defib     864464720  8  4 f   -     -     -          655    0    0 
+Defib     864464777  8  3 f   -     -     -          655    0    0 
+Defib     864464806  8  2 Bk  f     -     -          655   10    0 
+Defib     864464865  8  1 Bc  kc    kf    -          645   30    0 
+Defib     864464927  8  8 c   k     f     -          615   10    0 
+Defib     864464984  8  7 f   -     -     -          605    0    0 
+Defib     864465119  8  6 f   -     -     -          605    0    0 
+Defib     864465140  8  5 f   -     -     -          605    0    0 
+Defib     864465170  8  4 c   c     c     rc         605  110    0 Ad 5c
+Defib     864465203  8  3 f   -     -     -          495    0    0 
+Defib     864465249  9  2 Bc  cc    kc    kf         495   70    0 
+Defib     864465305  9  1 Bf  -     -     -          425    5    0 
+Defib     864465342  9  9 f   -     -     -          420    0    0 
+Defib     864465427  9  8 f   -     -     -          420    0    0 
+Defib     864465466  9  7 rr  bc    c     c          420  100  245 Kd Kh
+Defib     864465518 10  6 cc  kc    kc    k          565   60    0 Qc 5c
+Defib     864465566 10  5 f   -     -     -          505    0    0 
+Defib     864465633  9  3 r   b     b     b          505   70  145 
+Defib     864465673 10  2 Bc  kc    kf    -          580   50    0 
+Defib     864465761  9  1 Bf  -     -     -          530    5    0 
+Defib     864465811  9  9 c   k     c     r          525   70  180 7d Kd
+Defib     864465886  8  8 c   k     f     -          635   10    0 
+Defib     864465928  7  6 c   k     c     k          625   30   65 7s Qs
+Defib     864465956  7  5 c   c     f     -          660   20    0 
+Defib     864465979  7  4 cc  c     kc    f          640   50    0 
+Defib     864466034  7  3 c   bc    kc    kf         590   50    0 
+Defib     864466073  7  2 Bk  k     cc    kf         540   50    0 
+Defib     864466145  7  1 Bc  kQ    -     -          490   20    0 
+Defib     864475904  2  1 B   -     -     -          470   10   10 
+Defib     864475909  2  1 Bf  -     -     -          470    5    0 
+Defib     864475917  2  2 Bk  k     k     k          465   10   20 Kh 8d
+Defib     864475939  2  1 Bc  k     b     -          475   30   40 
+Defib     864475965  2  2 Bk  k     k     k          485   10   20 Ad 3s
+Defib     864475985  2  1 Bc  b     b     -          495   40   60 
+Defib     864476005  2  2 Bk  k     k     b          515   30   40 
+Defib     864476033  2  1 Bc  k     k     k          525   10    0 5c Kh
+Defib     864476054  2  2 Bc  c     c     k          515   50    0 7d 5s
+Defib     864476084  3  1 Bf  -     -     -          465    5    0 
+Defib     864476146  3  3 f   -     -     -          460    0    0 
+Defib     864476154  2  1 B   -     -     -          460   10   10 
+Defib     864476160  2  1 BQ  -     -     -          460    5   15 
+Defib     864485997  7  4 c   c     c     f          470   40    0 
+Defib     864486051  6  2 Bk  kf    -     -          430   10    0 
+Defib     864486126  6  1 Bc  kc    k     k          420   30  100 Tc Ks
+Defib     864486186  6  6 c   k     k     k          490   10   30 As 2s
+Defib     864486223  4  3 c   c     c     k          510   40    0 Jh Ad
+Defib     864486296  4  2 Bk  cf    -     -          470   20    0 
+Defib     864486348  4  1 Bf  -     -     -          450    5    0 
+Defib     864486370  4  4 f   -     -     -          445    0    0 
+Defib     864486410  4  3 f   -     -     -          445    0    0 
+Defib     864486445  6  4 f   -     -     -          445    0    0 
+Defib     864486487  6  3 f   -     -     -          445    0    0 
+Defib     864486528  6  2 Bk  bc    bc    f          445   90    0 
+Defib     864486597  6  1 Bc  k     k     kc         355   40    0 6h Qh
+Defib     864486620  5  5 f   -     -     -          315    0    0 
+Defib     864486628  5  4 c   r     b     b          315   70    0 7d 4d
+Defib     864486665  6  3 f   -     -     -          245    0    0 
+Defib     864486744  5  2 Bf  -     -     -          245   10    0 
+Defib     864486775  5  1 Bc  k     k     kc         235   30    0 5h 8h
+Defib     864486812  5  5 c   b     -     -          205   20   35 
+Defib     864486849  5  4 r   r     bc    f          220   80    0 
+Defib     864486897  5  3 cc  kc    kf    -          140   30    0 
+Defib     864486951  4  1 B   -     -     -          110   10   10 
+Defib     864486957  4  1 Bc  kr    b     brA        110  110  220 3h Ac
+Defib     864486978  4  4 cc  c     r     r          220  160  490 5d 7c
+Defib     864487020  4  3 c   k     c     b          550   50  110 7s 9s
+Defib     864487060  5  4 f   -     -     -          610    0    0 
+Defib     864487071  4  2 Bk  c     b     b          610   60  160 4d 8s
+Defib     864487108  4  1 Bc  k     k     kc         710   30   30 2c 4h
+Defib     864487129  4  4 cc  c     c     r          710   90  185 7c 9h
+Defib     864487168  5  3 cc  c     k     c          805   50  130 Td 9d
+Defib     864487206  6  2 Bf  -     -     -          885   10    0 
+Defib     864487229  7  1 Bf  -     -     -          875    5    0 
+Defib     864487258  7  7 c   c     rr    b          870  120  260 Js 8s
+Defib     864487335  8  7 f   -     -     -         1010    0    0 
+Defib     864487382  8  6 Q   -     -     -         1010    0    0 
+Defib     864563138  2  2 Brrrrrrrrrrrrrrrrrrrrrrr b     rrrrrrrrrrrrr -         1010 1000 1980 
+Defib     864563295  2  1 Bcrr -     -     -         1990   50   96 Qd Qs
+Defib     864563352  2  2 Bk  k     rrrrrrrrrrrrrrrrrrrrrrrr r         2036 1010 2010 Ac 9s
+Defib     864563501  2  2 Bk  k     rrrrrrrrrrrrrrrrrrrrrrrr r         3036 1010 2010 Qc 4h
+Defib     864563670  2  2 Bk  k     rrrrrrrrrrrrrrrrrrrrrrrr rQ        4036 1010 2010 5s 7h
+Defib     864574166  6  5 f   -     -     -         5036    0    0 
+Defib     864574197  5  4 c   k     k     b         5036   30   70 9c 8d
+Defib     864574228  5  3 c   c     k     k         5076   20   55 Jd 8s
+Defib     864574256  5  2 Bk  k     k     k         5111   10    0 Qd 8s
+Defib     864574280  5  1 Bf  -     -     -         5101    5    0 
+Defib     864574311  5  5 c   b     b     b         5096   60  130 Jc Qs
+Defib     864574352  5  4 c   c     c     c         5166   60    0 Qd As
+Defib     864574384  5  3 c   c     k     k         5106   20    0 Qd Ad
+Defib     864574413  5  2 Bc  kc    k     kc        5086   50    0 8c Th
+Defib     864574443  5  1 Bf  -     -     -         5036    5    0 
+Defib     864574455  5  5 f   -     -     -         5031    0    0 
+Defib     864574467  5  4 c   k     c     c         5031   50    0 6d Jd
+Defib     864574490  5  3 cc  k     k     c         4981   40   90 9h Kd
+Defib     864574526  5  2 Bf  -     -     -         5031   10    0 
+Defib     864574547  5  1 Bcc kf    -     -         5021   20    0 
+Defib     864574569  5  5 f   -     -     -         5001    0    0 
+Defib     864574579  5  4 f   -     -     -         5001    0    0 
+Defib     864574604  5  3 c   k     kc    k         5001   30    0 3d 3h
+Defib     864574623  5  2 Bk  c     bc    kc        4971   80    0 3h Th
+Defib     864574657  6  1 Bf  -     -     -         4891    5    0 
+Defib     864574666  6  6 f   -     -     -         4886    0    0 
+Defib     864574674  6  5 c   k     k     k         4886   10    0 8d Qh
+Defib     864574696  6  4 cc  kc    kc    k         4876   50    0 Ts Jd
+Defib     864574735  6  3 f   -     -     -         4826    0    0 
+Defib     864574758  6  2 Bk  k     kc    k         4826   30   65 Ts 3s
+Defib     864574786  6  1 Bf  -     -     -         4861    5    0 
+Defib     864574808  6  6 f   -     -     -         4856    0    0 
+Defib     864574836  6  5 c   b     b     b         4856   60  125 Kc Ac
+Defib     864574866  6  4 c   c     c     b         4921   60  170 Tc 9s
+Defib     864574915  6  3 c   k     k     f         5031   10    0 
+Defib     864574952  7  2 Bk  k     k     b         5021   30   55 
+Defib     864574994  5  1 Bf  -     -     -         5046    5    0 
+Defib     864575001  5  5 f   -     -     -         5041    0    0 
+Defib     864575031  4  3 c   b     -     -         5041   30   60 
+Defib     864575047  4  3 cc  kc    kf    -         5071   30    0 
+Defib     864575066  4  2 Bk  kf    -     -         5041   10    0 
+Defib     864575080  4  1 Bf  -     -     -         5031    5    0 
+Defib     864575108  4  4 f   -     -     -         5026    0    0 
+Defib     864575131  4  3 f   -     -     -         5026    0    0 
+Defib     864575158  5  2 B   -     -     -         5026   10   15 
+Defib     864575171  5  1 Bf  -     -     -         5031    5    0 
+Defib     864575191  5  5 c   k     k     f         5026   20    0 
+Defib     864575217  5  4 c   kf    -     -         5006   10    0 
+Defib     864575265  5  3 f   -     -     -         4996    0    0 
+Defib     864575280  6  2 Bk  k     kr    b         4996   70  155 Ah 2h
+Defib     864575319  6  1 Bc  kc    kc    k         5081   60  180 Jc Ts
+Defib     864575373  6  6 c   b     b     -         5201   40   70 
+Defib     864575429  6  6 f   -     -     -         5231    0    0 
+Defib     864575460  5  4 f   -     -     -         5231    0    0 
+Defib     864575488  5  3 c   b     br    b         5231  100  250 8s 7s
+Defib     864575534  5  2 Bk  k     k     k         5381   10   25 9s Kh
+Defib     864575561  5  1 Bcc k     k     k         5396   20   40 7c 6h
+Defib     864575588  5  5 r   c     b     -         5416   50   95 
+Defib     864575613  5  4 f   -     -     -         5461    0    0 
+Defib     864575634  5  3 f   -     -     -         5461    0    0 
+Defib     864575669  5  2 B   -     -     -         5461   10   15 
+Defib     864575681  5  1 Bf  -     -     -         5466    5    0 
+Defib     864575707  5  5 c   k     r     k         5461   50  105 3c Ac
+Defib     864575747  5  4 cc  k     f     -         5516   30    0 
+Defib     864575779  5  3 f   -     -     -         5486    0    0 
+Defib     864575926  4  2 Bk  k     kc    k         5486   30   35 9h Ah
+Defib     864575950  4  1 Bc  k     k     k         5491   20    0 Kc 9s
+Defib     864575974  4  4 f   -     -     -         5471    0    0 
+Defib     864576003  5  3 Q   -     -     -         5471    0    0 
+Defib     864649807  5  5 f   -     -     -         5471    0    0 
+Defib     864649825  4  3 c   kc    kf    -         5471   30    0 
+Defib     864649872  4  2 Bf  -     -     -         5441   10    0 
+Defib     864649882  4  1 Bc  k     kc    kf        5431   30    0 
+Defib     864649908  4  4 f   -     -     -         5401    0    0 
+Defib     864649937  5  3 f   -     -     -         5401    0    0 
+Defib     864649967  5  2 Bc  k     k     k         5401   20    0 4h 7h
+Defib     864649989  5  1 Bcc kr    b     b         5381  100  250 Kc 3c
+Defib     864650028  5  5 c   k     c     f         5531   30    0 
+Defib     864650051  5  4 cc  c     c     c         5501   70    0 Ad Tc
+Defib     864650083  5  3 c   kc    kc    kc        5431   60    0 Kh 9d
+Defib     864650130  5  2 Bf  -     -     -         5371   10    0 
+Defib     864650174  5  1 Bc  kc    kc    kf        5361   40    0 
+Defib     864650203  5  5 f   -     -     -         5321    0    0 
+Defib     864650211  5  4 f   -     -     -         5321    0    0 
+Defib     864650249  5  3 c   r     b     b         5321   70  125 
+Defib     864650282  5  2 Bf  -     -     -         5376   10    0 
+Defib     864650307  5  1 Bc  kc    kf    -         5366   20    0 
+Defib     864650335  4  4 c   c     c     c         5346   60    0 7s 6c
+Defib     864650367  4  4 c   c     r     b         5286   80  180 As Jh
+Defib     864650406  4  3 cc  f     -     -         5386   30    0 
+Defib     864650463  4  2 Bk  kf    -     -         5356   10    0 
+Defib     864650480  4  1 Bf  -     -     -         5346    5    0 
+Defib     864650516  4  4 c   k     f     -         5341   10    0 
+Defib     864650538  4  3 c   kc    kf    -         5331   20    0 
+Defib     864650559  4  2 Bc  k     k     b         5311   40   80 
+Defib     864650588  4  1 Bc  kc    kc    kc        5351   60    0 Jh 8s
+Defib     864650613  4  4 f   -     -     -         5291    0    0 
+Defib     864650634  4  3 c   k     c     c         5291   50    0 As 6s
+Defib     864650663  3  2 Bk  kc    c     k         5241   40  100 Kc 9s
+Defib     864650693  4  1 Bc  kc    kc    kc        5301   60   65 Kh Ac
+Defib     864650717  4  4 cc  k     f     -         5306   20    0 
+Defib     864650742  4  3 c   k     c     b         5286   50  110 7s Ah
+Defib     864650770  4  2 Bc  c     f     -         5346   40    0 
+Defib     864650799  4  1 Bc  kf    -     -         5306   20    0 
+Defib     864650820  4  4 c   c     r     b         5286   80  150 
+Defib     864650844  4  3 c   k     k     k         5356   10   25 9c Ac
+Defib     864650864  4  2 B   -     -     -         5371   10   15 
+Defib     864650871  4  1 Bcc kc    kc    kc        5376   90  240 3h 2c
+Defib     864650905  4  4 f   -     -     -         5526    0    0 
+Defib     864650916  4  3 f   -     -     -         5526    0    0 
+Defib     864650935  4  2 Bk  kf    -     -         5526   10    0 
+Defib     864650965  4  1 Bc  kf    -     -         5516   20    0 
+Defib     864650995  4  4 c   c     c     f         5496   40    0 
+Defib     864651018  4  3 f   -     -     -         5456    0    0 
+Defib     864651031  4  2 Bc  kc    kc    kc        5456   70    0 4c 4h
+Defib     864651051  4  1 Br  b     -     -         5386   30   60 
+Defib     864651064  4  4 c   c     c     c         5416   60    0 9s Td
+Defib     864651092  4  3 cc  c     c     r         5356  100  240 Qd 9d
+Defib     864651131  4  2 Bc  kcc   kf    -         5496   50    0 
+Defib     864651156  4  1 Bcc kc    k     k         5446   30   80 Td Qc
+Defib     864651181  5  5 c   k     k     k         5496   20    0 8d 6d
+Defib     864651203  4  4 c   f     -     -         5476   20    0 
+Defib     864651242  4  3 c   c     c     c         5456   60    0 3h As
+Defib     864651269  5  2 Bc  kc    c     f         5396   60    0 
+Defib     864651311  5  1 Bf  -     -     -         5336    5    0 
+Defib     864651338  5  5 f   -     -     -         5331    0    0 
+Defib     864651365  5  4 f   -     -     -         5331    0    0 
+Defib     864651382  5  3 c   k     k     k         5331   10    0 3c Ad
+Defib     864651407  5  2 Bc  kc    k     k         5321   30    0 Ad 8s
+Defib     864651451  5  1 Bf  -     -     -         5291    5    0 
+Defib     864651492  4  4 cc  c     c     f         5286   50    0 
+Defib     864651524  4  3 f   -     -     -         5236    0    0 
+Defib     864651536  4  2 B   -     -     -         5236   10   15 
+Defib     864651549  3  1 BQ  -     -     -         5241    5    0 
+Defib     864733735  3  3 f   -     -     -         4181    0    0 
+Defib     864733750  3  2 Bf  -     -     -         4181   10    0 
+Defib     864733768  2  1 Bf  -     -     -         4171    5    0 
+Defib     864733779  2  2 Bf  -     -     -         4166   10    0 
+Defib     864733789  2  1 Bf  -     -     -         4156    5    0 
+Defib     864733797  2  2 Bf  -     -     -         4151   10    0 
+Defib     864733807  2  1 Bf  -     -     -         4141    5    0 
+Defib     864733817  2  2 BQ  -     -     -         4136   10    0 
+Defib     864743555  2  1 B   -     -     -         3826   10   10 
+Defib     864743559  2  1 Bc  k     k     kc        3826   30   60 Kd 2c
+Defib     864743583  2  2 Bk  k     b     bc        3856   70  140 2d 8h
+Defib     864743619  2  1 Br  b     -     -         3926   30   50 
+Defib     864743632  2  2 Bc  c     c     k         3946   50    0 5h 7h
+Defib     864743653  2  1 Bc  kr    b     -         3896   50   80 
+Defib     864743684  2  2 B   -     -     -         3926   10   15 
+Defib     864743690  2  1 Bf  -     -     -         3931    5    0 
+Defib     864743697  2  2 B   -     -     -         3926   10   15 
+Defib     864743703  2  1 Bc  k     k     k         3931   10   20 Ad As
+Defib     864743726  2  2 B   -     -     -         3941   10   15 
+Defib     864743738  2  1 Bc  k     kf    -         3946   10    0 
+Defib     864743761  2  2 Bc  c     c     c         3936   70   70 Jd Ks
+Defib     864743777  2  1 Bf  -     -     -         3936    5    0 
+Defib     864743786  2  2 Bk  b     b     bc        3931   80    0 7h 8h
+Defib     864743815  2  1 Bf  -     -     -         3851    5    0 
+Defib     864743822  2  2 Bk  k     k     f         3846   10    0 
+Defib     864743843  2  1 Bf  -     -     -         3836    5    0 
+Defib     864743850  2  2 Bk  k     k     c         3831   30    0 9d Ks
+Defib     864743871  2  1 Br  -     -     -         3801   20   30 
+Defib     864743884  2  2 Bc  c     b     -         3811   50   80 
+Defib     864743903  2  1 Bf  -     -     -         3841    5    0 
+Defib     864743911  2  2 Br  b     b     br        3836  120    0 9s 9c
+Defib     864743940  2  1 Bcc kc    kf    -         3716   30    0 
+Defib     864743960  2  2 Bk  b     bc    b         3686   80  160 Td Qc
+Defib     864743995  2  1 Bc  k     k     b         3766   30   40 
+Defib     864744022  2  2 Br  b     b     -         3776   50   80 
+Defib     864744050  3  1 Bc  k     kf    -         3806   10    0 
+Defib     864744073  3  3 c   b     b     -         3796   40   70 
+Defib     864744094  3  2 B   -     -     -         3826   10   15 
+Defib     864744101  3  1 Bf  -     -     -         3831    5    0 
+Defib     864744108  3  3 f   -     -     -         3826    0    0 
+Defib     864744118  3  2 Bf  -     -     -         3826   10    0 
+Defib     864744125  3  1 Bf  -     -     -         3816    5    0 
+Defib     864744142  3  3 c   c     c     r         3811   80  165 3d As
+Defib     864744166  3  2 B   -     -     -         3896   10   15 
+Defib     864744174  3  1 Bf  -     -     -         3901    5    0 
+Defib     864744184  3  3 f   -     -     -         3896    0    0 
+Defib     864744192  3  2 Bf  -     -     -         3896   10    0 
+Defib     864744232  4  1 Bc  kc    kc    kc        3886   60    0 Ad Qh
+Defib     864744257  4  4 f   -     -     -         3826    0    0 
+Defib     864744265  4  3 c   r     b     r         3826   90   95 Ac 9d
+Defib     864744312  4  2 Br  b     b     -         3831   60  105 
+Defib     864744339  5  1 Bf  -     -     -         3876    5    0 
+Defib     864744368  5  5 c   k     k     f         3871   10    0 
+Defib     864744395  5  4 f   -     -     -         3861    0    0 
+Defib     864744412  5  3 cc  k     kf    -         3861   20    0 
+Defib     864744461  6  3 r   b     bc    k         3841   70    0 Kc Ac
+Defib     864744510  6  3 c   kc    kr    r         3771  100  270 Jc Qs
+Defib     864744547  6  3 f   -     -     -         3941    0    0 
+Defib     864744556  6  2 Bk  cr    b     b         3941   80  180 Js 3s
+Defib     864744603  6  1 Bf  -     -     -         4041    5    0 
+Defib     864744633  6  6 f   -     -     -         4036    0    0 
+Defib     864744666  7  6 cc  kc    bc    b         4036   90  235 8s Ts
+Defib     864744702  7  5 f   -     -     -         4181    0    0 
+Defib     864744727  7  4 cc  c     k     k         4181   30   55 7d As
+Defib     864744776  7  3 f   -     -     -         4206    0    0 
+Defib     864744808  6  2 Bf  -     -     -         4206   10    0 
+Defib     864744832  6  1 Bf  -     -     -         4196    5    0 
+Defib     864744893  6  6 c   k     k     r         4191   50  100 
+Defib     864744928  6  5 c   k     k     k         4241   10    0 4h Kh
+Defib     864745010  6  4 f   -     -     -         4231    0    0 
+Defib     864745035  6  3 c   kc    kc    kc        4231   60    0 8s 7h
+Defib     864745087  6  2 Bk  k     b     b         4171   50   80 
+Defib     864745118  6  1 Bf  -     -     -         4201    5    0 
+Defib     864745145  6  6 c   c     f     -         4196   20    0 
+Defib     864745169  6  5 c   c     c     f         4176   50    0 
+Defib     864745209  6  4 c   c     c     f         4126   40    0 
+Defib     864745236  5  3 f   -     -     -         4086    0    0 
+Defib     864745247  4  2 Bc  cc    kc    kc        4086   80  220 9h Ac
+Defib     864745292  4  1 BQ  -     -     -         4226    5    0 

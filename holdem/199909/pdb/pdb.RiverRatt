@@ -1,0 +1,925 @@
+RiverRatt 936442263 10  4 c   kc    b     b          670   60  170 Qd 9c
+RiverRatt 936442306 10  3 c   kc    kf    -          780   20    0 
+RiverRatt 936442412 10  2 Bk  k     kc    k          760   30    0 2s 3s
+RiverRatt 936442461 10  1 Bf  -     -     -          730    5    0 
+RiverRatt 936442515 10 10 f   -     -     -          725    0    0 
+RiverRatt 936442566 10  9 f   -     -     -          725    0    0 
+RiverRatt 936442621 10  8 c   f     -     -          725   10    0 
+RiverRatt 936442670 10  7 f   -     -     -          715    0    0 
+RiverRatt 936442725 10  6 c   c     rc    r          715  130    0 9s Qc
+RiverRatt 936442789 10  5 r   b     b     b          585   70  265 Ac 5c
+RiverRatt 936442875  9  4 rc  kc    f     -          780   40    0 
+RiverRatt 936442928  9  3 cc  kcc   kc    kf         740  100    0 
+RiverRatt 936443004  9  2 Br  b     b     bf         640   80    0 
+RiverRatt 936443062  9  1 Br  b     b     b          560   70  190 
+RiverRatt 936443108  9  9 f   -     -     -          680    0    0 
+RiverRatt 936443144  9  8 f   -     -     -          680    0    0 
+RiverRatt 936443190  9  7 f   -     -     -          680    0    0 
+RiverRatt 936443243  8  6 KQ  -     -     -          680    0    0 
+RiverRatt 936445606  9  7 cc  k     c     f          680   40    0 
+RiverRatt 936445643  9  6 c   r     b     b          640   70  165 Ks 4h
+RiverRatt 936445699  9  5 f   -     -     -          735    0    0 
+RiverRatt 936445739  9  4 f   -     -     -          735    0    0 
+RiverRatt 936445779 10  3 f   -     -     -          735    0    0 
+RiverRatt 936445818 10  2 Bk  kc    kc    kf         735   40    0 
+RiverRatt 936445859 10  1 Bf  -     -     -          695    5    0 
+RiverRatt 936445897  9  9 c   b     b     -          690   40   80 
+RiverRatt 936445940  9  8 cc  rr    b     b          730  100  235 
+RiverRatt 936445991  9  7 f   -     -     -          865    0    0 
+RiverRatt 936446041 10  7 r   k     k     k          865   20    0 Qc Ks
+RiverRatt 936446069 10  6 cc  kc    f     -          845   30    0 
+RiverRatt 936446127 10  5 c   b     kc    k          815   40    0 Qd 3d
+RiverRatt 936446180 10  4 r   b     b     b          775   70  230 
+RiverRatt 936446234 10  3 r   k     kf    -          935   20    0 
+RiverRatt 936446257 10  2 Bf  -     -     -          915   10    0 
+RiverRatt 936446306 10  1 Bf  -     -     -          905    5    0 
+RiverRatt 936446334 10 10 r   rc    f     -          900   60    0 
+RiverRatt 936446397 10  9 f   -     -     -          840    0    0 
+RiverRatt 936446439 10  8 c   k     b     -          840   30   55 
+RiverRatt 936446472  9  6 c   k     k     f          865   10    0 
+RiverRatt 936446530  9  5 r   b     b     -          855   50  105 
+RiverRatt 936446560  9  4 rr  kc    k     k          910   50  160 Ad 2d
+RiverRatt 936446596  9  2 c   kf    -     -         1020   10    0 
+RiverRatt 936446651 10  2 Bk  kf    -     -         1010   10    0 
+RiverRatt 936446697 10  1 Bf  -     -     -         1000    5    0 
+RiverRatt 936446746  9  9 rc  c     c     c          995   90    0 Ac Jc
+RiverRatt 936446810 10  9 cc  r     r     b          905  120    0 Qs Th
+RiverRatt 936446885 10  8 f   -     -     -          785    0    0 
+RiverRatt 936446915 10  7 r   k     k     f          785   20    0 
+RiverRatt 936446981 10  6 c   b     r     r          765  100  147 7d 6c
+RiverRatt 936447048 10  5 f   -     -     -          812    0    0 
+RiverRatt 936447083 10  4 r   k     f     -          812   20    0 
+RiverRatt 936447140  9  3 r   b     b     r          792   90    0 2c Ac
+RiverRatt 936447187 10  2 Bc  kc    b     bc         702   90    0 Jd Kc
+RiverRatt 936447276  9  1 Bf  -     -     -          612    5    0 
+RiverRatt 936447313  9  9 f   -     -     -          607    0    0 
+RiverRatt 936447338  9  8 f   -     -     -          607    0    0 
+RiverRatt 936447380 10  7 f   -     -     -          607    0    0 
+RiverRatt 936447451 10  6 f   -     -     -          607    0    0 
+RiverRatt 936447535  9  5 r   b     b     br         607  110    0 Jh Jc
+RiverRatt 936447581 10  3 Q   -     -     -          497    0    0 
+RiverRatt 936591227 10  3 cc  kc    f     -          497   30    0 
+RiverRatt 936591264  9  2 Bk  b     b     b          467   60  115 
+RiverRatt 936591295  9  1 Br  b     -     -          522   30   70 
+RiverRatt 936591315  9  9 f   -     -     -          562    0    0 
+RiverRatt 936591373  9  8 c   k     k     b          562   40  125 
+RiverRatt 936591421  9  7 f   -     -     -          647    0    0 
+RiverRatt 936591468  9  6 c   c     k     rc         647  100    0 Th Jd
+RiverRatt 936591499  9  5 rc  rc    kc    c          547  110    0 8h Ac
+RiverRatt 936591544  9  4 cc  kcc   kc    k          437   80    0 3h Js
+RiverRatt 936591610  9  3 rr  brc   brc   brc        357  240    0 Ts 4d
+RiverRatt 936591675  9  2 Brc br    b     b          117  110  330 
+RiverRatt 936591732  9  1 Brc b     brc   brf        337  190    0 
+RiverRatt 936591790  9  9 c   c     c     c          147   70    0 3h 8d
+RiverRatt 936591831  9  8 rc  rrA   -     -           77   77    0 Ts Js
+RiverRatt 936591922  9  6 f   -     -     -         1000    0    0 
+RiverRatt 936591937 10  6 f   -     -     -         1000    0    0 
+RiverRatt 936592055  8  3 f   -     -     -         1000    0    0 
+RiverRatt 936592096  8  3 f   -     -     -         1000    0    0 
+RiverRatt 936592146 10  3 f   -     -     -         1000    0    0 
+RiverRatt 936592167 10  2 Bf  -     -     -         1000   10    0 
+RiverRatt 936592227  9  1 Bc  krc   bc    brc        990  190    0 5s 3d
+RiverRatt 936592285  9  9 f   -     -     -          800    0    0 
+RiverRatt 936592327 10  8 f   -     -     -          800    0    0 
+RiverRatt 936592399  8  6 c   c     k     k          800   30    0 Qs 5d
+RiverRatt 936592437  8  6 r   c     c     f          770   70    0 
+RiverRatt 936592491  8  5 cc  k     b     -          700   40  115 
+RiverRatt 936592561 10  4 c   kQ    -     -          775   10    0 
+RiverRatt 936621018 10  2 Bk  k     bc    kf         765   50    0 
+RiverRatt 936621075 10  1 Bc  kc    kc    kc         715   60    0 Ts 7s
+RiverRatt 936621128 10 10 r   b     b     -          655   50  170 
+RiverRatt 936621178 10  9 rc  c     c     f          775   80    0 
+RiverRatt 936621252 10  8 f   -     -     -          695    0    0 
+RiverRatt 936621294 10  7 c   k     cc    kc         695   70    0 7h 7c
+RiverRatt 936621368 10  6 cc  kc    kc    k          625   50    0 2s Js
+RiverRatt 936621426 10  5 f   -     -     -          575    0    0 
+RiverRatt 936621475 10  4 c   b     b     r          575   80    0 Js Jh
+RiverRatt 936621526 10  3 r   b     -     -          495   30   65 
+RiverRatt 936621560 10  2 Bk  kf    -     -          530   10    0 
+RiverRatt 936621614 10  1 Brc br    k     kf         520   70    0 
+RiverRatt 936621664 10 10 c   c     b     b          450   60    0 8c 9c
+RiverRatt 936621721 10  9 c   cc    c     c          390   70    0 3s 2d
+RiverRatt 936621786 10  8 cc  c     c     f          320   60    0 
+RiverRatt 936621836 10  7 r   b     b     -          260   60  265 
+RiverRatt 936621933 10  6 c   c     f     -          465   20    0 
+RiverRatt 936621979 10  5 r   cc    kc    kc         445   90    0 4s 4h
+RiverRatt 936622036 10  4 c   r     r     r          355  110    0 Kh 7d
+RiverRatt 936622085 10  3 c   k     f     -          245   10    0 
+RiverRatt 936622124 10  2 Bk  kc    k     kf         235   20    0 
+RiverRatt 936622147 10  1 Br  b     b     b          215   70  150 
+RiverRatt 936622181 10 10 c   k     c     c          295   50    0 2s 7c
+RiverRatt 936622218 10  9 c   k     k     k          245   10   55 9s Kd
+RiverRatt 936622263 10  8 c   brc   b     b          290   90    0 5d Qh
+RiverRatt 936622325 10  7 r   f     -     -          200   20    0 
+RiverRatt 936622390 10  6 cc  cc    c     k          180   60    0 Qs 6d
+RiverRatt 936622437 10  5 r   b     b     b          120   70    0 6s Ah
+RiverRatt 936622483 10  4 rr  bA    -     -           50   50    0 4c Qd
+RiverRatt 936622973 10  7 f   -     -     -         1000    0    0 
+RiverRatt 936623031 10  6 f   -     -     -         1000    0    0 
+RiverRatt 936623068 10  5 f   -     -     -         1000    0    0 
+RiverRatt 936623100 10  4 f   -     -     -         1000    0    0 
+RiverRatt 936623144 10  3 c   k     b     b         1000   50  130 Ac Kd
+RiverRatt 936623193 10  2 Bk  b     bc    kc        1080   80  185 3d Jd
+RiverRatt 936623250  9  1 Bc  k     kc    kf        1185   30    0 
+RiverRatt 936623300  9  9 f   -     -     -         1155    0    0 
+RiverRatt 936623354  9  8 r   rKQ   -     -         1155   40    0 
+RiverRatt 937208731 10 10 f   -     -     -          755    0    0 
+RiverRatt 937208788 10  9 cc  c     c     c          755   70  245 9h Kh
+RiverRatt 937208850 10  8 c   c     k     c          930   50  180 Ts 8s
+RiverRatt 937208904  9  7 r   kc    kc    kc        1060   70    0 As 9s
+RiverRatt 937208958  9  6 c   f     -     -          990   20    0 
+RiverRatt 937209001  9  5 c   kc    kc    k          970   40  100 3h Kc
+RiverRatt 937209064  9  4 cc  kf    -     -         1030   20    0 
+RiverRatt 937209112  8  3 rr  f     -     -         1010   40    0 
+RiverRatt 937209193  9  2 Brc bc    krr   b          970  160  660 Qs Js
+RiverRatt 937209263 10  1 Bcc kc    krr   bc        1470  170  380 3c 2c
+RiverRatt 937209333 10 10 f   -     -     -         1680    0    0 
+RiverRatt 937209418 10  9 f   -     -     -         1680    0    0 
+RiverRatt 937209481 10  8 cc  brc   brc   brc       1680  240  535 Jc Ah
+RiverRatt 937209555 10  7 rc  c     rc    b         1975  130  418 Ad 4c
+RiverRatt 937209641  8  5 f   -     -     -         2263    0    0 
+RiverRatt 937209686  8  4 cc  cc    cc    c         2263  140    0 Ah Js
+RiverRatt 937209751  9  3 f   -     -     -         2123    0    0 
+RiverRatt 937209853 10  2 Bf  -     -     -         2123   10    0 
+RiverRatt 937209888 10  1 Bc  kf    -     -         2113   20    0 
+RiverRatt 937209960 10 10 c   c     c     k         2093   50  145 2s Ks
+RiverRatt 937209995 10  9 cc  c     c     f         2188   60    0 
+RiverRatt 937210028 10  8 f   -     -     -         2128    0    0 
+RiverRatt 937210069  9  6 c   c     cc    f         2128   70    0 
+RiverRatt 937210120  9  5 f   -     -     -         2058    0    0 
+RiverRatt 937210142  9  4 c   c     c     kc        2058   60    0 2h 2d
+RiverRatt 937210167  9  3 f   -     -     -         1998    0    0 
+RiverRatt 937210195  9  2 Bc  c     c     c         1998   70    0 As 4c
+RiverRatt 937210235 10  1 Bc  kc    kc    bc        1928   90    0 Jc 3s
+RiverRatt 937210278 10 10 f   -     -     -         1838    0    0 
+RiverRatt 937210324 10  9 c   rc    b     bc        1838  120    0 Ac 5h
+RiverRatt 937210377 10  8 f   -     -     -         1718    0    0 
+RiverRatt 937210407  9  7 cc  kc    kc    kc        1718   70    0 Qd 2h
+RiverRatt 937210484 10  6 c   f     -     -         1648   10    0 
+RiverRatt 937210584  8  5 f   -     -     -         1638    0    0 
+RiverRatt 937210631  8  4 c   c     c     f         1638   40    0 
+RiverRatt 937210698  8  3 rr  brc   kc    kc        1598  120    0 3s 3c
+RiverRatt 937210737  8  2 Br  kc    kf    -         1478   40    0 
+RiverRatt 937210765  8  1 Br  kf    -     -         1438   40    0 
+RiverRatt 937210814  7  7 rc  r     -     -         1398   60  190 
+RiverRatt 937210870  8  7 rc  c     c     c         1528   90    0 2s Kd
+RiverRatt 937210928  7  6 c   k     k     f         1438   10    0 
+RiverRatt 937210966  7  5 rc  rr    b     b         1428  110  255 Jd 9h
+RiverRatt 937210993  7  4 rc  c     f     -         1573   40    0 
+RiverRatt 937211032  7  3 cc  kc    krr   b         1533  130  405 Td 9h
+RiverRatt 937211087  7  2 Bf  -     -     -         1808   10    0 
+RiverRatt 937211126  7  1 Bc  kc    brc   kc        1798  120  270 4h 6s
+RiverRatt 937211168  8  8 c   f     -     -         1948   20    0 
+RiverRatt 937211219  8  7 c   f     -     -         1928   20    0 
+RiverRatt 937211267  8  6 c   k     b     bc        1908   80    0 Qc 9h
+RiverRatt 937211323  7  4 c   k     k     k         1828   10   30 8d 6h
+RiverRatt 937211368  7  3 cc  f     -     -         1848   20    0 
+RiverRatt 937211415  9  2 Brc kcc   kf    -         1828   70    0 
+RiverRatt 937211504 10  1 Bf  -     -     -         1758    5    0 
+RiverRatt 937211549 10 10 c   bc    k     k         1753   50  175 Qh 2s
+RiverRatt 937211594 10  9 c   c     c     f         1878   40    0 
+RiverRatt 937211651 10  8 f   -     -     -         1838    0    0 
+RiverRatt 937211705 10  7 r   b     k     f         1838   30    0 
+RiverRatt 937211763 10  6 f   -     -     -         1808    0    0 
+RiverRatt 937211847 10  5 r   bc    cc    f         1808  100    0 
+RiverRatt 937211912 10  4 cc  k     f     -         1708   20    0 
+RiverRatt 937211950 10  3 c   kc    c     f         1688   40    0 
+RiverRatt 937211993 10  2 Bc  kf    -     -         1648   20    0 
+RiverRatt 937212079 10  1 Bc  kf    -     -         1628   10    0 
+RiverRatt 937212115 10 10 rc  c     c     f         1618   70    0 
+RiverRatt 937212168 10  9 c   b     k     k         1548   20    0 Td 4d
+RiverRatt 937212207 10  8 c   c     c     f         1528   60    0 
+RiverRatt 937212267 10  7 r   b     b     rc        1468  110    0 Ks Qd
+RiverRatt 937212354 10  6 r   c     c     b         1358   70  235 Ac 8h
+RiverRatt 937212389 10  5 rr  -     -     -         1523   40   80 
+RiverRatt 937212558 10  4 rc  b     b     b         1563   80    0 9h Qs
+RiverRatt 937212604 10  3 r   br    kc    bc        1483  110    0 Qs 6d
+RiverRatt 937212664 10  2 Bk  kf    -     -         1373   10    0 
+RiverRatt 937212709 10  1 Bf  -     -     -         1363    5    0 
+RiverRatt 937212736 10 10 rc  c     c     f         1358   70    0 
+RiverRatt 937212837 10  9 rc  k     k     f         1288   40    0 
+RiverRatt 937212925 10  8 c   c     f     -         1248   50    0 
+RiverRatt 937213010 10  7 c   c     c     f         1198   40    0 
+RiverRatt 937213058 10  6 c   f     -     -         1158   20    0 
+RiverRatt 937213141  9  4 r   c     c     f         1138   50    0 
+RiverRatt 937213212 10  3 cc  f     -     -         1088   20    0 
+RiverRatt 937213257 10  2 Brc b     b     b         1068   90    0 9h Kd
+RiverRatt 937213338 10  1 Br  kf    -     -          978   20    0 
+RiverRatt 937213364 10 10 r   k     k     c          958   50    0 Qh 8s
+RiverRatt 937213427 10  9 r   b     -     -          908   30   60 
+RiverRatt 937213464 10  8 r   b     r     r          938  110    0 8s Jc
+RiverRatt 937213507 10  7 r   c     c     c          828   80    0 Jd Qc
+RiverRatt 937213568  9  6 f   -     -     -          748    0    0 
+RiverRatt 937213618 10  5 rc  kc    k     f          748   40    0 
+RiverRatt 937213684 10  4 rc  brc   b     b          708  110  335 
+RiverRatt 937213741 10  3 rc  bc    br    br         933  240    0 6d 8h
+RiverRatt 937213801 10  2 Br  br    brc   br         693  210    0 9d 6h
+RiverRatt 937213896 10  1 Brc br    br    br         483  240    0 4c Kd
+RiverRatt 937213990  8  8 rr  rr    rr    rr         243  240  510 
+RiverRatt 937214056  8  8 rr  rr    rr    rr         513  240    0 Qc 6c
+RiverRatt 937214097  9  7 rc  brc   brc   br         273  220  595 9s 8d
+RiverRatt 937214173  9  6 rr  brc   brc   brf        648  220    0 
+RiverRatt 937214215  9  5 rr  rc    rr    rc         428  240    0 2d Qc
+RiverRatt 937214310  9  4 rr  brc   brc   bcA        188  188  551 9c 8s
+RiverRatt 937214375  9  3 rr  brc   brc   br         551  220  435 
+RiverRatt 937214413 10  2 Br  br    brc   kf         766  140    0 
+RiverRatt 937214470 10  1 Br  bc    kc    b          626   82  318 Jd 5s
+RiverRatt 937214556 10 10 c   f     -     -          862   20    0 
+RiverRatt 937214595 10  9 c   b     b     r          842   90  225 Jd 7h
+RiverRatt 937214705  9  7 c   k     f     -          977   20    0 
+RiverRatt 937214762 10  7 c   f     -     -          957   20    0 
+RiverRatt 937214786 10  6 rc  rc    rc    rr         937  240  880 Qs Qd
+RiverRatt 937214883 10  5 c   f     -     -         1577   20    0 
+RiverRatt 937214970 10  4 f   -     -     -         1557    0    0 
+RiverRatt 937215016 10  3 cc  c     c     cc        1557  120    0 Ad Qh
+RiverRatt 937215056 10  2 Br  bcc   kcc   kf        1437  160    0 
+RiverRatt 937215131 10  1 Brc bcc   brc   brc       1277  240    0 Kd Ad
+RiverRatt 937215258 10 10 rc  rc    rc    rc        1037  220    0 Kd Kh
+RiverRatt 937215360  9  8 r   k     b     -          817   40   75 
+RiverRatt 937215398 10  8 rc  r     r     b          852  140    0 Kd Ts
+RiverRatt 937215501 10  7 rc  c     c     c          712   90  330 3d 4h
+RiverRatt 937215566 10  6 rc  rc    rc    rc         952  250    0 Ks 9d
+RiverRatt 937215652 10  5 rc  rr    rr    rr         702  240  930 3d 5c
+RiverRatt 937215745 10  5 rr  c     f     -         1392   50    0 
+RiverRatt 937215829  9  3 rc  ccc   ccc   cf        1342  180    0 
+RiverRatt 937215888 10  2 Brc kf    -     -         1162   40    0 
+RiverRatt 937215991  9  1 Br  b     b     b         1122   90    0 Jd Kd
+RiverRatt 937216043 10 10 rc  c     f     -         1032   40    0 
+RiverRatt 937216101 10  9 c   f     -     -          992   20    0 
+RiverRatt 937216176  8  6 c   f     -     -          972   10    0 
+RiverRatt 937216194  7  4 f   -     -     -          962    0    0 
+RiverRatt 937216219 10  5 rr  rr    rr    b          962  180  365 9s 9c
+RiverRatt 937216264  9  3 rc  c     rr    r         1147  160  330 Jh Kc
+RiverRatt 937216301  8  2 Brc br    brc   bc        1317  200    0 8s As
+RiverRatt 937216413  9  1 Brc kf    -     -         1117   40    0 
+RiverRatt 937216482  9  9 rc  cc    c     c         1077  110    0 2h Kh
+RiverRatt 937216574 10  9 rc  cc    c     c          967  120    0 5h Kh
+RiverRatt 937216681  9  7 cc  ccc   c     ccc        847  180    0 2c Kd
+RiverRatt 937216810 10  7 rc  cc    c     c          667  110    0 Jh 6d
+RiverRatt 937216891 10  6 c   b     b     k          557   50  165 Kh 4d
+RiverRatt 937216943 10  5 rr  rc    b     b          672  110  295 Tc Qd
+RiverRatt 937217000 10  4 rc  rc    br    b          857  160  420 
+RiverRatt 937217086 10  3 rc  cc    rc    cf        1117  170    0 
+RiverRatt 937217165 10  2 Bf  -     -     -          947   10    0 
+RiverRatt 937217244 10  1 Br  br    brc   b          937  180  820 Jc Jd
+RiverRatt 937217362 10 10 f   -     -     -         1577    0    0 
+RiverRatt 937217404 10  9 f   -     -     -         1577    0    0 
+RiverRatt 937217435 10  8 c   cc    c     f         1577   70    0 
+RiverRatt 937217601 10  7 f   -     -     -         1507    0    0 
+RiverRatt 937217755 10  6 f   -     -     -         1507    0    0 
+RiverRatt 937217851 10  5 cc  c     c     c         1507   90    0 8s 7c
+RiverRatt 937217995 10  4 f   -     -     -         1417    0    0 
+RiverRatt 937218149 10  3 f   -     -     -         1417    0    0 
+RiverRatt 937218206  9  1 Bc  kf    -     -         1417   30    0 
+RiverRatt 937218287  9  1 Br  br    b     -         1387  100  440 
+RiverRatt 937218440  8  7 c   c     c     k         1727   60    0 4c 4h
+RiverRatt 937218507  7  6 cc  k     cc    c         1667  140    0 9d Ks
+RiverRatt 937218633  7  5 rc  c     c     f         1527   70    0 
+RiverRatt 937218682  6  3 f   -     -     -         1457    0    0 
+RiverRatt 937218709  6  2 B   -     -     -         1457   10   15 
+RiverRatt 937218729  6  1 Bc  kc    kc    kf        1462   40    0 
+RiverRatt 937218772  6  6 c   k     k     f         1422   10    0 
+RiverRatt 937218815  6  4 f   -     -     -         1412    0    0 
+RiverRatt 937218836  6  3 c   k     b     -         1412   30   50 
+RiverRatt 937218874  6  2 Brc k     c     r         1432  100  220 
+RiverRatt 937218911  6  1 Brc b     b     -         1552   70  170 
+RiverRatt 937218931  6  6 r   c     c     c         1652   80    0 6h 5c
+RiverRatt 937218952  6  5 c   c     c     k         1572   50    0 Ks 4d
+RiverRatt 937219019  7  5 cc  c     kc    k         1522   50    0 Kh 5c
+RiverRatt 937219048  7  4 r   c     k     brc       1472  110  150 8h Th
+RiverRatt 937219109  9  5 rc  c     k     r         1512   90  265 9c Jh
+RiverRatt 937219151  9  4 f   -     -     -         1687    0    0 
+RiverRatt 937219181  8  3 f   -     -     -         1687    0    0 
+RiverRatt 937219286  9  2 Bcc kcc   kcc   kcc       1687  240    0 2d Ac
+RiverRatt 937219404  8  1 Bc  br    bcc   kc        1447  170    0 3d Kh
+RiverRatt 937219476  8  8 rc  r     k     k         1277   50  155 Qh 4d
+RiverRatt 937219515  8  7 rr  r     r     r         1382  140  300 Kd Ks
+RiverRatt 937219561  9  7 rc  rr    br    b         1542  160    0 Qs Qh
+RiverRatt 937219676  9  6 rr  brc   kc    kf        1382  100    0 
+RiverRatt 937219745  8  4 f   -     -     -         1282    0    0 
+RiverRatt 937219802  8  3 rc  k     cc    k         1282   70    0 2h 4c
+RiverRatt 937219858  8  2 Bc  brc   rr    r         1212  180  540 5s 6c
+RiverRatt 937219929  8  1 Brc kc    kc    kc        1572   90    0 Ah 2h
+RiverRatt 937219993 10 10 ccc c     c     k         1482  100    0 3h 7h
+RiverRatt 937220103 10  3 Q   -     -     -         1382    0    0 
+RiverRatt 937221899  9  8 f   -     -     -         1382    0    0 
+RiverRatt 937221958  9  7 f   -     -     -         1382    0    0 
+RiverRatt 937221997 10  7 rr  b     kc    kc        1382   90    0 Jc Qs
+RiverRatt 937222066  9  5 cc  kf    -     -         1292   20    0 
+RiverRatt 937222107  9  4 KQ  -     -     -         1272    0    0 
+RiverRatt 937222221  9  9 c   k     k     f         1272   10    0 
+RiverRatt 937222260  9  8 c   kc    kc    kf        1262   40    0 
+RiverRatt 937222308  9  7 r   br    bcc   bcc       1222  220    0 8s Ac
+RiverRatt 937222378  9  6 rc  k     k     f         1002   30    0 
+RiverRatt 937222415  9  5 rr  bc    kc    kf         972   80    0 
+RiverRatt 937222487  9  4 crc kf    -     -          892   40    0 
+RiverRatt 937222532  9  3 c   krr   b     b          852   90  195 Qc 6c
+RiverRatt 937222561  9  2 Bk  kc    kc    kc         957   60   88 9d Ah
+RiverRatt 937222594  9  1 Brc br    br    br         985  240    0 2s 3s
+RiverRatt 937222672 10 10 rc  rc    rr    b          745  180  937 6s 9s
+RiverRatt 937222762  9  9 f   -     -     -         1502    0    0 
+RiverRatt 937222794 10  8 rc  kc    rc    ccc       1502  190    0 Kh Tc
+RiverRatt 937222886 10  7 rc  rc    kc    ccc       1312  170    0 7h Qh
+RiverRatt 937223006 10  6 rc  f     -     -         1142   40    0 
+RiverRatt 937223114 10  5 rc  k     kc    kf        1102   60    0 
+RiverRatt 937223193  8  2 Bf  -     -     -         1042   10    0 
+RiverRatt 937223256 10  1 Bf  -     -     -         1032    5    0 
+RiverRatt 937223350 10 10 rc  cc    cc    f         1027  160    0 
+RiverRatt 937223445 10  9 rc  kc    kc    kc         867   80    0 5s 9s
+RiverRatt 937223540 10  8 ccc ccc   cc    c          787  180    0 6s Jh
+RiverRatt 937223681 10  7 rc  cc    c     cc         607  140    0 Ac 7h
+RiverRatt 937223772 10  6 rKQ -     -     -          467   20    0 
+RiverRatt 937250333 10  6 cc  c     f     -         1200   30    0 
+RiverRatt 937250404 10  5 f   -     -     -         1170    0    0 
+RiverRatt 937250482 10  4 f   -     -     -         1170    0    0 
+RiverRatt 937250519 10  3 f   -     -     -         1170    0    0 
+RiverRatt 937250610 10  2 BQ  -     -     -         1170   10    0 
+RiverRatt 937429827 10  2 Br  kc    kc    kf         827   70    0 
+RiverRatt 937429890 10  1 Bf  -     -     -          757    5    0 
+RiverRatt 937429926 10 10 c   rr    rc    c          752  130  220 4c As
+RiverRatt 937429997 10  9 cc  c     c     f          842   50    0 
+RiverRatt 937430042  9  7 r   brc   rc    c          792  140    0 Jh Ks
+RiverRatt 937430088 10  7 r   rr    rr    b          652  160    0 Qd 2d
+RiverRatt 937430167 10  6 c   kc    bc    kc         492   80    0 Qd 4c
+RiverRatt 937430236 10  5 r   k     k     kf         412   20    0 
+RiverRatt 937430303 10  4 cc  kc    kc    brc        392  140  485 4d Th
+RiverRatt 937430385 10  3 cc  kf    -     -          737   20    0 
+RiverRatt 937430444 10  2 Bc  kc    kc    kf         717   60    0 
+RiverRatt 937430495 10  1 Br  b     kc    kf         657   50    0 
+RiverRatt 937430583 10 10 f   -     -     -          607    0    0 
+RiverRatt 937430629 10  9 f   -     -     -          607    0    0 
+RiverRatt 937430759 10  8 f   -     -     -          607    0    0 
+RiverRatt 937430813 10  7 cc  cc    c     c          607  110    0 8d 5h
+RiverRatt 937430907 10  6 r   b     b     b          497   70    0 Qs 2s
+RiverRatt 937430953 10  6 KQ  -     -     -          427    0    0 
+RiverRatt 937666189  7  6 f   -     -     -         1000    0    0 
+RiverRatt 937666206  6  4 r   bc    b     r         1000  100    0 Jh As
+RiverRatt 937666233  6  3 r   c     c     b          900   70  145 Qh Ts
+RiverRatt 937666251  6  2 Bk  f     -     -          975   10    0 
+RiverRatt 937666273  6  1 Bc  k     kf    -          965   10    0 
+RiverRatt 937666300  6  6 r   c     c     r          955   90  220 
+RiverRatt 937666334  6  5 c   k     c     c         1085   50    0 5c 2h
+RiverRatt 937666366  7  5 c   k     kc    kf        1035   30    0 
+RiverRatt 937666404  7  4 f   -     -     -         1005    0    0 
+RiverRatt 937666429  7  3 r   k     kf    -         1005   20    0 
+RiverRatt 937666458  7  2 Bc  kc    kc    kc         985   90    0 Tc Jd
+RiverRatt 937666501  7  1 Bcc br    b     b          895   90  200 9c 2c
+RiverRatt 937666530  7  7 c   k     k     c         1005   40  140 Kh 3c
+RiverRatt 937666572  7  6 c   k     b     k         1105   40    0 6s 4h
+RiverRatt 937666610  7  5 r   b     b     b         1065   70  135 
+RiverRatt 937666637  7  4 r   bc    kc    kc        1130   80    0 Qd Ks
+RiverRatt 937666663  7  3 cc  kc    bc    kc        1050  100    0 5s 3c
+RiverRatt 937666717  8  2 Br  brc   kf    -          950   70    0 
+RiverRatt 937666757  8  1 Bf  -     -     -          880    5    0 
+RiverRatt 937666781  8  8 r   b     b     k          875   60    0 8c 6d
+RiverRatt 937666822  8  7 f   -     -     -          815    0    0 
+RiverRatt 937666872  8  6 f   -     -     -          815    0    0 
+RiverRatt 937666909  9  5 rr  b     bc    kf         815   90    0 
+RiverRatt 937666956  9  4 f   -     -     -          725    0    0 
+RiverRatt 937666991  8  3 c   b     brc   kc         725  120    0 9s Ks
+RiverRatt 937667025  8  2 Br  kc    kf    -          605   60    0 
+RiverRatt 937667063  8  1 Bc  kc    kc    b          545   70  240 8d Jh
+RiverRatt 937667102  8  8 r   k     k     b          715   40  100 
+RiverRatt 937667150  8  7 c   bc    c     c          775   70    0 Ah 2s
+RiverRatt 937667179  8  6 rc  kc    k     k          705   60    0 2h 9h
+RiverRatt 937667240  8  5 rc  rr    r     r          645  180    0 Jc Jh
+RiverRatt 937667308  8  4 r   b     k     c          465   50    0 Qc 4c
+RiverRatt 937667344  7  3 r   br    br    b          415  150  465 8s As
+RiverRatt 937667390  7  2 Bc  kf    -     -          730   20    0 
+RiverRatt 937667433  7  1 Bc  kc    kc    kf         710   50    0 
+RiverRatt 937667493  8  8 f   -     -     -          660    0    0 
+RiverRatt 937667537  8  7 r   c     c     rc         660  150    0 7h 8s
+RiverRatt 937667579  8  6 rr  br    b     b          510  110  235 9h 9c
+RiverRatt 937667607  8  5 c   k     k     kf         635   10    0 
+RiverRatt 937667648  8  4 r   -     -     -          625   20   35 
+RiverRatt 937667663  8  3 f   -     -     -          640    0    0 
+RiverRatt 937667723 10  2 Br  r     kc    k          640   60    0 5c 7c
+RiverRatt 937667776 10  1 Brc br    b     br         580  150    0 Jh As
+RiverRatt 937667839 10 10 rc  c     c     f          430   70    0 
+RiverRatt 937667881 10  9 r   c     rr    b          360  150    0 3s 9s
+RiverRatt 937667938  9  8 rc  c     c     f          210   70    0 
+RiverRatt 937667988  9  7 r   b     brc   rA         140  140    0 Kc Jd
+RiverRatt 937674812  8  2 B   -     -     -         1000   10   15 
+RiverRatt 937674821  8  1 Bc  kf    -     -         1005   10    0 
+RiverRatt 937674837  8  8 f   -     -     -          995    0    0 
+RiverRatt 937674872  8  7 f   -     -     -          995    0    0 
+RiverRatt 937674895  8  5 f   -     -     -          995    0    0 
+RiverRatt 937674931  8  4 f   -     -     -          995    0    0 
+RiverRatt 937674983  8  3 f   -     -     -          995    0    0 
+RiverRatt 937675031  8  2 Brc bc    kc    kc         995  100  400 Qd Qs
+RiverRatt 937675074  8  1 Bcc kf    -     -         1295   40    0 
+RiverRatt 937675106  9  9 f   -     -     -         1255    0    0 
+RiverRatt 937675129 10  8 rr  b     c     rr        1255  150  395 Jd Jh
+RiverRatt 937675167 10  7 f   -     -     -         1500    0    0 
+RiverRatt 937675201  9  6 cc  bc    bc    k         1500  100    0 9c 8c
+RiverRatt 937675248 10  5 rr  b     k     k         1400   50    0 Qd Ad
+RiverRatt 937675281 10  4 cc  kc    k     k         1350   30    0 7d Ah
+RiverRatt 937675314  9  3 c   c     k     c         1320   40    0 4d Kd
+RiverRatt 937675333  8  2 Br  b     bf    -         1280   60    0 
+RiverRatt 937675357  8  1 Bcc kf    -     -         1220   30    0 
+RiverRatt 937675408  8  8 c   k     c     f         1190   30    0 
+RiverRatt 937675448  9  8 f   -     -     -         1160    0    0 
+RiverRatt 937675504  9  7 cc  c     c     f         1160   70    0 
+RiverRatt 937675540  9  6 r   k     r     r         1090  100    0 Ts Ah
+RiverRatt 937675584  9  5 rr  b     b     -          990   70  135 
+RiverRatt 937675606  9  4 rr  r     c     k         1055   80    0 2h Jh
+RiverRatt 937675659  9  3 rc  bc    bc    bc         975  250    0 2s 8s
+RiverRatt 937675721  9  2 Brc brc   brc   brc        725  240  485 Kd Ks
+RiverRatt 937675758  9  1 Brc brc   brc   brc        970  240  650 Kh Ks
+RiverRatt 937675800  9  9 cc  f     -     -         1380   50    0 
+RiverRatt 937675844  8  7 rc  cc    cc    f         1330  140    0 
+RiverRatt 937675894  8  6 r   -     -     -         1190   20   35 
+RiverRatt 937675908  7  4 c   b     b     -         1205   40  100 
+RiverRatt 937675933  7  3 f   -     -     -         1265    0    0 
+RiverRatt 937675940  7  2 Br  c     c     k         1265   50  130 Ks 4s
+RiverRatt 937675960  7  1 Bf  -     -     -         1345    5    0 
+RiverRatt 937675968  7  7 f   -     -     -         1340    0    0 
+RiverRatt 937675976  7  6 f   -     -     -         1340    0    0 
+RiverRatt 937675997  7  5 c   k     k     k         1340   10    0 5d 3h
+RiverRatt 937676009  8  5 f   -     -     -         1330    0    0 
+RiverRatt 937676026  8  4 r   br    rc    c         1330  130    0 Jc Qs
+RiverRatt 937676062  8  3 cc  kc    kc    kc        1200   70    0 5h Qs
+RiverRatt 937676099  8  2 Bk  k     kf    -         1130   10    0 
+RiverRatt 937676125  9  1 Bf  -     -     -         1120    5    0 
+RiverRatt 937676136  9  9 f   -     -     -         1115    0    0 
+RiverRatt 937676147  9  8 f   -     -     -         1115    0    0 
+RiverRatt 937676202  9  7 rc  c     c     k         1115   70    0 4c Qc
+RiverRatt 937676231  8  6 f   -     -     -         1045    0    0 
+RiverRatt 937676252  8  5 r   f     -     -         1045   20    0 
+RiverRatt 937676283  8  5 f   -     -     -         1025    0    0 
+RiverRatt 937676298  7  3 r   bc    rc    c         1025  120    0 Th 8h
+RiverRatt 937676317  7  2 B   -     -     -          905   10   15 
+RiverRatt 937676349  7  1 Brc b     bc    b          910  110  230 Th 8s
+RiverRatt 937676366  7  7 r   r     r     k         1030   90    0 7s 7h
+RiverRatt 937676393  7  6 r   f     -     -          940   20    0 
+RiverRatt 937676434  7  5 f   -     -     -          920    0    0 
+RiverRatt 937676493  7  5 r   b     b     b          920   70  165 Ah 4s
+RiverRatt 937676534  7  4 f   -     -     -         1015    0    0 
+RiverRatt 937676559  8  3 f   -     -     -         1015    0    0 
+RiverRatt 937676565  8  2 Br  f     -     -         1015   20    0 
+RiverRatt 937676575  8  1 Bc  k     k     kf         995   20    0 
+RiverRatt 937676606  8  8 r   r     b     b          975   90  205 7d 9d
+RiverRatt 937676640  8  7 r   r     b     b         1090   90  175 
+RiverRatt 937676656  8  6 f   -     -     -         1175    0    0 
+RiverRatt 937676704  9  5 c   f     -     -         1175   10    0 
+RiverRatt 937676745  8  4 ccc f     -     -         1165   30    0 
+RiverRatt 937676787  8  3 r   -     -     -         1135   20   35 
+RiverRatt 937676795  8  2 Bk  k     kc    k         1150   30    0 4c 9c
+RiverRatt 937676836  9  1 Bc  br    b     b         1120   80  140 
+RiverRatt 937676871 10 10 r   r     b     b         1180   80  165 Ad Kc
+RiverRatt 937676904 10  9 f   -     -     -         1265    0    0 
+RiverRatt 937676968 10  8 f   -     -     -         1265    0    0 
+RiverRatt 937676997  9  7 c   k     f     -         1265   20    0 
+RiverRatt 937677022 10  6 c   c     c     k         1245   40    0 Qs 7c
+RiverRatt 937677080 10  6 rc  c     c     c         1205   90    0 Qs Kc
+RiverRatt 937677110 10  4 f   -     -     -         1115    0    0 
+RiverRatt 937677140 10  3 f   -     -     -         1115    0    0 
+RiverRatt 937677172  9  2 Brr b     br    brc       1115  190  193 7s 8s
+RiverRatt 937677205  9  1 Bc  kf    -     -         1118   20    0 
+RiverRatt 937677244  9  9 c   k     k     k         1098   10    0 Kd 7h
+RiverRatt 937677277  9  8 r   f     -     -         1088   20    0 
+RiverRatt 937677359  9  6 r   -     -     -         1068   20   35 
+RiverRatt 937677367  9  5 r   r     b     -         1083   70  185 
+RiverRatt 937677387 10  5 r   b     brc   f         1198  110    0 
+RiverRatt 937677461  9  3 rr  rc    rc    c         1088  150    0 8c 8h
+RiverRatt 937677484  8  2 Bk  kc    krr   b          938  120  250 As 9c
+RiverRatt 937677516  8  1 Br  b     b     -         1068   60  110 
+RiverRatt 937677541  8  8 r   b     b     b         1118   80  215 Kc Kd
+RiverRatt 937677571  7  6 rr  rc    rr    rr        1253  230  470 2s 4s
+RiverRatt 937677597  7  5 r   c     k     b         1493   60  145 
+RiverRatt 937677624  8  5 r   bc    bc    k         1578   80    0 Jd Js
+RiverRatt 937677647  9  4 r   b     b     bc        1498   90    0 Ah 3c
+RiverRatt 937677674  9  3 rr  c     k     k         1408   50    0 3s 9s
+RiverRatt 937677696  9  2 Br  b     -     -         1358   30   75 
+RiverRatt 937677747 10  1 Br  br    b     bc        1403  120  125 Ah Qs
+RiverRatt 937677778 10 10 r   r     c     f         1408   70    0 
+RiverRatt 937677806  8  7 r   k     k     c         1338   40  120 Qc Ts
+RiverRatt 937677892  9  6 c   kc    kc    kc        1418   60    0 8d Ah
+RiverRatt 937677932  9  3 Q   -     -     -         1358    0    0 
+RiverRatt 937715090 10  9 c   k     c     f         1203   30    0 
+RiverRatt 937715141 10  8 f   -     -     -         1173    0    0 
+RiverRatt 937715224 10  7 rr  b     b     b         1173   90    0 8c Ac
+RiverRatt 937715278 10  6 r   brc   b     b         1083  100  295 Js Ts
+RiverRatt 937715325  9  5 r   b     b     -         1278   50   95 
+RiverRatt 937715356 10  4 f   -     -     -         1323    0    0 
+RiverRatt 937715400  9  3 c   k     k     k         1323   10    0 4d Kh
+RiverRatt 937715441 10  2 Bc  f     -     -         1313   20    0 
+RiverRatt 937715478 10  1 Br  -     -     -         1293   20   30 
+RiverRatt 937715493  9  9 f   -     -     -         1303    0    0 
+RiverRatt 937715503 10  9 c   c     f     -         1303   30    0 
+RiverRatt 937715557  9  7 f   -     -     -         1273    0    0 
+RiverRatt 937715613  9  6 f   -     -     -         1273    0    0 
+RiverRatt 937715685 10  6 f   -     -     -         1273    0    0 
+RiverRatt 937715745 10  5 c   c     c     c         1273   60    0 Ac 6h
+RiverRatt 937715789 10  4 r   kc    kc    b         1213   70    0 9h Ad
+RiverRatt 937715834 10  3 r   bc    kc    b         1143   80  205 Ah Qc
+RiverRatt 937715886 10  2 Bk  k     b     -         1268   30   45 
+RiverRatt 937715923 10  1 Br  kcc   kc    k         1283   70  300 Qd Ks
+RiverRatt 937715980 10 10 cc  c     c     r         1513   90  170 
+RiverRatt 937716020 10  9 c   c     c     c         1593   70    0 7d 9c
+RiverRatt 937716050 10  8 cc  k     k     k         1523   20    0 8c Ad
+RiverRatt 937716088 10  7 r   b     bc    c         1503   90  185 Kh Qh
+RiverRatt 937716127 10  6 c   k     cc    kf        1598   60    0 
+RiverRatt 937716165 10  5 cc  kc    kc    kf        1538   50    0 
+RiverRatt 937716282  9  3 c   kc    k     k         1488   20    0 Jh 3c
+RiverRatt 937716327 10  3 ccc kc    kr    b         1468  100    0 Kh 5s
+RiverRatt 937716396 10  2 Br  rr    r     b         1368  120    0 Ad Ac
+RiverRatt 937716431 10  1 Bf  -     -     -         1248    5    0 
+RiverRatt 937716470 10 10 f   -     -     -         1243    0    0 
+RiverRatt 937716506  9  8 r   c     r     k         1243   80  200 Ks Js
+RiverRatt 937716545 10  8 r   kc    f     -         1363   30    0 
+RiverRatt 937716606 10  7 r   b     b     b         1333   70    0 Ah Qd
+RiverRatt 937716649  9  5 r   rc    cc    rr        1263  220    0 5d Ah
+RiverRatt 937716721 10  5 c   k     kf    -         1043   10    0 
+RiverRatt 937716771 10  4 r   c     k     k         1033   30    0 Ts Kc
+RiverRatt 937716802 10  3 cc  kf    -     -         1003   20    0 
+RiverRatt 937716850  9  1 Bc  kc    kc    k          983   50  100 2s Js
+RiverRatt 937716892 10  1 Bc  kc    k     kf        1033   30    0 
+RiverRatt 937716944 10 10 c   f     -     -         1003   10    0 
+RiverRatt 937716990  9  8 r   r     b     b          993  100    0 Tc 5h
+RiverRatt 937717066 10  8 rr  b     brc   kf         893  130    0 
+RiverRatt 937717119 10  7 rr  br    b     b          763  110  275 4d Kd
+RiverRatt 937717173  9  5 rr  rr    c     f          928  100    0 
+RiverRatt 937717221 10  5 cc  kc    krr   brc        828  190  395 3c Kh
+RiverRatt 937717263 10  4 r   bc    kc    k         1033   60    0 3s 2s
+RiverRatt 937717307  9  2 Bc  kc    kr    b          973  100  265 Jc 5h
+RiverRatt 937717350 10  1 Bc  bc    k     kf        1138   30    0 
+RiverRatt 937717417 10 10 r   k     k     c         1108   40    0 Jc Ac
+RiverRatt 937717442 10  9 c   k     k     k         1068   10    0 6s 9c
+RiverRatt 937717491 10  8 f   -     -     -         1058    0    0 
+RiverRatt 937717550 10  7 c   kc    kr    b         1058  100  305 Ah 3d
+RiverRatt 937717609 10  6 f   -     -     -         1263    0    0 
+RiverRatt 937717648  9  4 c   c     c     c         1263   60  130 2c Ah
+RiverRatt 937717680 10  3 r   k     kc    kc        1333   60    0 7h 7s
+RiverRatt 937717722 10  2 Bc  kc    kc    bc        1273   90    0 3d Kd
+RiverRatt 937717775  9  1 Br  k     k     b         1183   50    0 Qd Ah
+RiverRatt 937717802  9  9 r   b     -     -         1133   30   90 
+RiverRatt 937717831  9  8 rr  k     bc    kc        1193  100    0 Ah Kc
+RiverRatt 937717884  9  8 c   f     -     -         1093   20    0 
+RiverRatt 937717919  8  6 r   k     k     f         1073   20    0 
+RiverRatt 937717954  8  5 cc  k     kc    kc        1053   60    0 Ts 6s
+RiverRatt 937717989  9  4 rc  k     k     k          993   30    0 5c 8s
+RiverRatt 937718023  9  3 c   cf    -     -          963   20    0 
+RiverRatt 937718072  9  2 Br  b     b     b          943   70  125 
+RiverRatt 937718113  9  1 Br  b     brc   k          998  120    0 8s As
+RiverRatt 937718157 10 10 rc  rr    b     b          878  120  310 
+RiverRatt 937718207 10  9 r   k     k     k         1068   30    0 3h 4h
+RiverRatt 937718233  9  7 rr  k     b     b         1038   80  112 6h 7h
+RiverRatt 937718301 10  7 r   b     b     b         1070   70  155 2c 2s
+RiverRatt 937718323 10  6 rc  f     -     -         1155   30    0 
+RiverRatt 937718339  9  4 rr  b     b     b         1125   90  195 Kd Ah
+RiverRatt 937718373 10  3 r   b     -     -         1230   30   65 
+RiverRatt 937718395 10  2 Br  b     b     b         1265   80  225 4d 4c
+RiverRatt 937718440  9  1 Bcc kf    -     -         1410   40    0 
+RiverRatt 937718484 10 10 f   -     -     -         1370    0    0 
+RiverRatt 937718521 10  9 c   f     -     -         1370   10    0 
+RiverRatt 937718588 10  8 rc  c     c     f         1360   70    0 
+RiverRatt 937718640 10  7 f   -     -     -         1290    0    0 
+RiverRatt 937718698  9  5 c   brc   r     b         1290  130  370 2c 9c
+RiverRatt 937718747 10  5 r   kc    kf    -         1530   30    0 
+RiverRatt 937718797 10  4 f   -     -     -         1500    0    0 
+RiverRatt 937718817  9  3 c   kc    kc    k         1500   40  195 6s Js
+RiverRatt 937718899  9  2 Bc  kc    kc    kc        1655   80  225 Ad 9h
+RiverRatt 937718943 10  1 Bc  kc    k     kc        1800   80  114 4h 2c
+RiverRatt 937719012 10 10 cc  cc    f     -         1834   80    0 
+RiverRatt 937719127  8  7 f   -     -     -         1754    0    0 
+RiverRatt 937719188  9  8 cc  f     -     -         1754   40    0 
+RiverRatt 937719238  9  7 r   c     f     -         1714   40    0 
+RiverRatt 937719269  8  5 f   -     -     -         1674    0    0 
+RiverRatt 937719293  8  4 f   -     -     -         1674    0    0 
+RiverRatt 937719355  8  3 cc  kc    kcc   f         1674  110    0 
+RiverRatt 937719415  8  2 Bc  kc    b     b         1564   70    0 2d 4h
+RiverRatt 937719448  8  1 Brr brc   b     b         1494  120  510 3c 8c
+RiverRatt 937719512  8  8 c   f     -     -         1884   10    0 
+RiverRatt 937719565  8  7 rc  c     c     r         1874  110  345 8c 4c
+RiverRatt 937719608  9  7 fQ  -     -     -         2109    0    0 
+RiverRatt 937750508  9  5 cc  kf    -     -         2049   20    0 
+RiverRatt 937750554  9  4 c   c     rr    bc        2029  140    0 Ad 5c
+RiverRatt 937750600  9  3 f   -     -     -         1889    0    0 
+RiverRatt 937750621  9  2 Bc  kc    kc    k         1889   50  105 2h 2d
+RiverRatt 937750642 10  1 Bc  kcc   kc    b         1944   90  420 Kc Ad
+RiverRatt 937750723 10 10 f   -     -     -         2274    0    0 
+RiverRatt 937750766 10  9 f   -     -     -         2274    0    0 
+RiverRatt 937750838  8  6 c   c     rr    rr        2274  190    0 Kc Ad
+RiverRatt 937750882 10  6 cc  kc    kf    -         2084   30    0 
+RiverRatt 937750928 10  5 c   c     c     k         2054   50    0 Qh 9c
+RiverRatt 937750964 10  4 f   -     -     -         2004    0    0 
+RiverRatt 937751028 10  3 cc  kc    k     b         2004   50  115 Tc 8c
+RiverRatt 937751061 10  2 Bc  k     k     k         2069   20   45 7c Qc
+RiverRatt 937751105 10  1 Bc  kc    kc    kc        2094   60    0 4d 8s
+RiverRatt 937751148 10 10 c   cc    f     -         2034   30    0 
+RiverRatt 937751207  9  8 rc  k     c     k         2004   60    0 Ts Kh
+RiverRatt 937751269 10  8 f   -     -     -         1944    0    0 
+RiverRatt 937751342 10  7 r   rc    rc    rc        1944  180    0 Th Jh
+RiverRatt 937751409 10  6 r   k     k     f         1764   30    0 
+RiverRatt 937751459 10  5 cc  kc    k     k         1734   30    0 Kh 6h
+RiverRatt 937751503 10  4 rc  r     b     brc       1704  150    0 Ad 3d
+RiverRatt 937751591 10  3 f   -     -     -         1554    0    0 
+RiverRatt 937751678 10  2 Bf  -     -     -         1554   10    0 
+RiverRatt 937751708 10  1 Bf  -     -     -         1544    5    0 
+RiverRatt 937751738 10 10 f   -     -     -         1539    0    0 
+RiverRatt 937751766 10  9 f   -     -     -         1539    0    0 
+RiverRatt 937751804 10  8 f   -     -     -         1539    0    0 
+RiverRatt 937751863 10  7 f   -     -     -         1539    0    0 
+RiverRatt 937751931 10  6 f   -     -     -         1539    0    0 
+RiverRatt 937751984  9  4 f   -     -     -         1539    0    0 
+RiverRatt 937752041 10  3 f   -     -     -         1539    0    0 
+RiverRatt 937752061  9  2 Bf  -     -     -         1539   10    0 
+RiverRatt 937752099  9  1 Bf  -     -     -         1529    5    0 
+RiverRatt 937752122  9  9 f   -     -     -         1524    0    0 
+RiverRatt 937752181  9  8 f   -     -     -         1524    0    0 
+RiverRatt 937752251 10  8 f   -     -     -         1524    0    0 
+RiverRatt 937752299 10  7 f   -     -     -         1524    0    0 
+RiverRatt 937752336  9  5 f   -     -     -         1524    0    0 
+RiverRatt 937752398 10  5 f   -     -     -         1524    0    0 
+RiverRatt 937752443 10  4 f   -     -     -         1524    0    0 
+RiverRatt 937752503  9  3 f   -     -     -         1524    0    0 
+RiverRatt 937752594  9  2 Bk  kf    -     -         1524   10    0 
+RiverRatt 937752641  9  1 Bf  -     -     -         1514    5    0 
+RiverRatt 937752660  8  8 f   -     -     -         1509    0    0 
+RiverRatt 937752734  8  7 f   -     -     -         1509    0    0 
+RiverRatt 937752765  8  6 f   -     -     -         1509    0    0 
+RiverRatt 937752777  8  5 f   -     -     -         1509    0    0 
+RiverRatt 937752794  9  4 r   c     c     c         1509   70    0 5c Kc
+RiverRatt 937752834  9  3 c   bc    c     k         1439   50    0 5d Ac
+RiverRatt 937752894  9  2 B   -     -     -         1389   10   15 
+RiverRatt 937752905  9  1 Br  br    b     b         1394  100  260 Kc Kd
+RiverRatt 937752953  9  9 r   bc    rc    rr        1554  210  221 Jh Ks
+RiverRatt 937753041  9  8 c   k     b     r         1565   70  175 7h As
+RiverRatt 937753109  9  7 r   b     b     k         1670   50  125 3d 3c
+RiverRatt 937753182  9  6 c   c     b     b         1745   60  150 
+RiverRatt 937753234  9  5 f   -     -     -         1835    0    0 
+RiverRatt 937753267 10  4 c   rc    rr    c         1835  140  145 Qc Kd
+RiverRatt 937753336 10  3 r   r     r     k         1840   80  240 2h Th
+RiverRatt 937753398  9  2 Bk  kf    -     -         2000   10    0 
+RiverRatt 937753432  9  1 Bc  k     k     bc        1990   50    0 As 6s
+RiverRatt 937753502 10 10 c   c     c     f         1940   40    0 
+RiverRatt 937753558 10  9 f   -     -     -         1900    0    0 
+RiverRatt 937753613 10  8 c   c     k     f         1900   20    0 
+RiverRatt 937753679 10  7 f   -     -     -         1880    0    0 
+RiverRatt 937753769 10  6 r   f     -     -         1880   20    0 
+RiverRatt 937753823  9  4 r   b     k     k         1860   30    0 As 2s
+RiverRatt 937753854 10  4 f   -     -     -         1830    0    0 
+RiverRatt 937753926 10  3 c   f     -     -         1830   10    0 
+RiverRatt 937754005  9  2 Bk  kf    -     -         1820   10    0 
+RiverRatt 937754022 10  1 Bf  -     -     -         1810    5    0 
+RiverRatt 937754046 10 10 f   -     -     -         1805    0    0 
+RiverRatt 937754106  9  8 f   -     -     -         1805    0    0 
+RiverRatt 937754159 10  8 f   -     -     -         1805    0    0 
+RiverRatt 937754189  9  6 r   cc    kc    k         1805   60  185 4s 4c
+RiverRatt 937754242 10  6 c   k     k     f         1930   10    0 
+RiverRatt 937754278  9  4 f   -     -     -         1920    0    0 
+RiverRatt 937754317 10  4 f   -     -     -         1920    0    0 
+RiverRatt 937754352 10  3 f   -     -     -         1920    0    0 
+RiverRatt 937754369  9  2 Bk  kc    kcc   kc        1920  140    0 7d Kh
+RiverRatt 937754457 10  1 Br  b     b     b         1780   70  170 4h 4s
+RiverRatt 937754486 10 10 c   c     c     rc        1880  110    0 Jc 6c
+RiverRatt 937754537  8  7 c   f     -     -         1770   20    0 
+RiverRatt 937754582  9  7 f   -     -     -         1750    0    0 
+RiverRatt 937754606  9  6 f   -     -     -         1750    0    0 
+RiverRatt 937754636 10  6 c   cc    rr    rc        1750  170    0 4d Jh
+RiverRatt 937754773 10  5 r   b     k     k         1580   40    0 Ts Kc
+RiverRatt 937754795  9  4 r   r     c     r         1540  110    0 Ac Ts
+RiverRatt 937754837 10  3 rc  b     b     -         1430   60  115 
+RiverRatt 937754863 10  2 Br  bc    kc    b         1485   90    0 2s 2h
+RiverRatt 937754905 10  1 Brc bcc   kc    b         1395  120  450 Jd Qh
+RiverRatt 937755007  8  8 rc  c     f     -         1725   40    0 
+RiverRatt 937755045 10  9 f   -     -     -         1685    0    0 
+RiverRatt 937755076  9  7 cc  k     k     k         1685   20    0 6h Qh
+RiverRatt 937755138 10  7 f   -     -     -         1665    0    0 
+RiverRatt 937755158  9  6 rc  c     c     f         1665   60    0 
+RiverRatt 937755193 10  5 f   -     -     -         1605    0    0 
+RiverRatt 937755224 10  4 r   b     k     k         1605   30    0 Ah 5d
+RiverRatt 937755258 10  3 c   k     b     b         1575   50  105 5s Qh
+RiverRatt 937755275  9  2 Br  b     b     bc        1630   90    0 7c Qc
+RiverRatt 937755312 10  1 Bc  kc    k     k         1540   20   70 Jc Th
+RiverRatt 937755378 10 10 f   -     -     -         1590    0    0 
+RiverRatt 937755431  9  8 f   -     -     -         1590    0    0 
+RiverRatt 937755448 10  8 c   c     c     r         1590   80  130 Ah 8c
+RiverRatt 937755488 10  7 f   -     -     -         1640    0    0 
+RiverRatt 937755540  9  6 f   -     -     -         1640    0    0 
+RiverRatt 937755578 10  5 f   -     -     -         1640    0    0 
+RiverRatt 937755598 10  4 f   -     -     -         1640    0    0 
+RiverRatt 937755658 10  3 c   b     b     k         1640   40  105 Ts Jc
+RiverRatt 937755710  9  2 Bk  kf    -     -         1705   10    0 
+RiverRatt 937755731  9  1 Bf  -     -     -         1695    5    0 
+RiverRatt 937755784 10  9 f   -     -     -         1690    0    0 
+RiverRatt 937755806 10  8 f   -     -     -         1690    0    0 
+RiverRatt 937755893  9  6 f   -     -     -         1690    0    0 
+RiverRatt 937755926 10  6 c   c     f     -         1690   20    0 
+RiverRatt 937756024  9  4 f   -     -     -         1670    0    0 
+RiverRatt 937756054  9  4 c   cf    -     -         1670   20    0 
+RiverRatt 937756118  9  3 c   k     b     kc        1650   50  115 Kh Td
+RiverRatt 937756147  9  2 Bk  kc    kc    kf        1715   40    0 
+RiverRatt 937756199  9  1 Br  -     -     -         1675   20   30 9s 9d
+RiverRatt 937756235  8  8 c   c     k     k         1685   30    0 Ac 7d
+RiverRatt 937756258 10  9 c   f     -     -         1655   10    0 
+RiverRatt 937756306  9  7 r   c     f     -         1645   30    0 
+RiverRatt 937756334  9  6 f   -     -     -         1615    0    0 
+RiverRatt 937756420 10  6 f   -     -     -         1615    0    0 
+RiverRatt 937756588 10  5 f   -     -     -         1615    0    0 
+RiverRatt 937756631 10  4 f   -     -     -         1615    0    0 
+RiverRatt 937756679  9  3 f   -     -     -         1615    0    0 
+RiverRatt 937756708 10  2 Bf  -     -     -         1615   10    0 
+RiverRatt 937756806 10  1 Bf  -     -     -         1605    5    0 
+RiverRatt 937756853 10 10 f   -     -     -         1600    0    0 
+RiverRatt 937756892 10  9 f   -     -     -         1600    0    0 
+RiverRatt 937756912 10  8 f   -     -     -         1600    0    0 
+RiverRatt 937756924  9  7 f   -     -     -         1600    0    0 
+RiverRatt 937756989 10  6 cc  c     f     -         1600   30    0 
+RiverRatt 937757020 10  5 f   -     -     -         1570    0    0 
+RiverRatt 937757052 10  4 f   -     -     -         1570    0    0 
+RiverRatt 937757122 10  3 f   -     -     -         1570    0    0 
+RiverRatt 937757179 10  2 Bf  -     -     -         1570   10    0 
+RiverRatt 937757223 10  1 Bf  -     -     -         1560    5    0 
+RiverRatt 937757265 10  3 Q   -     -     -         1555    0    0 
+RiverRatt 938263387  2  2 B   -     -     -          805   10   15 
+RiverRatt 938263412  3  1 Br  -     -     -          810   20   30 
+RiverRatt 938263424  3  3 r   -     -     -          820   20   35 
+RiverRatt 938263428  3  2 Br  b     -     -          835   40   75 
+RiverRatt 938263433  3  1 Br  -     -     -          870   20   30 
+RiverRatt 938263436  3  3 r   -     -     -          880   20   35 
+RiverRatt 938263439  3  2 Br  b     b     b          895   80  145 
+RiverRatt 938263449  3  1 Br  -     -     -          960   20   30 
+RiverRatt 938263452  3  3 r   -     -     -          970   20   35 
+RiverRatt 938263455  3  2 Bf  -     -     -          985   10    0 
+RiverRatt 938263460  3  1 Bf  -     -     -          975    5    0 
+RiverRatt 938263463  3  3 r   -     -     -          970   20   35 
+RiverRatt 938263467  3  2 Br  bc    kc    k          985   70    0 6d 5d
+RiverRatt 938263477  3  1 Br  -     -     -          915   20   30 
+RiverRatt 938263483  3  3 r   -     -     -          925   20   35 
+RiverRatt 938263486  3  2 B   -     -     -          940   10   15 
+RiverRatt 938263488  3  1 Br  -     -     -          945   20   30 
+RiverRatt 938263491  3  3 r   b     -     -          955   30   60 
+RiverRatt 938263496  3  2 Br  b     k     k          985   30    0 Td 5d
+RiverRatt 938263506  3  1 Br  -     -     -          955   20   30 
+RiverRatt 938263511  3  3 r   -     -     -          965   20   35 
+RiverRatt 938263514  3  2 B   -     -     -          980   10   15 
+RiverRatt 938263516  3  1 Br  b     b     b          985   70  120 
+RiverRatt 938263525  3  3 r   -     -     -         1035   20   35 
+RiverRatt 938263529  3  2 B   -     -     -         1050   10   15 
+RiverRatt 938263531  3  1 Br  b     -     -         1055   30   50 
+RiverRatt 938263536  3  3 rc  f     -     -         1075   30    0 
+RiverRatt 938263541  3  2 Bk  k     k     k         1045   10   25 5s 7h
+RiverRatt 938263551  3  1 Br  bf    -     -         1060   30    0 
+RiverRatt 938263562  3  3 r   -     -     -         1030   20   35 
+RiverRatt 938263565  3  2 Bk  b     -     -         1045   20   35 
+RiverRatt 938263572  3  1 Br  -     -     -         1060   20   30 
+RiverRatt 938263577  3  3 r   -     -     -         1070   20   35 
+RiverRatt 938263580  3  2 B   -     -     -         1085   10   15 
+RiverRatt 938263583  3  1 Br  b     -     -         1090   30   50 
+RiverRatt 938263588  3  3 r   -     -     -         1110   20   35 
+RiverRatt 938263591  3  2 B   -     -     -         1125   10   15 
+RiverRatt 938263594  3  1 Br  bc    kf    -         1130   40    0 
+RiverRatt 938263603  3  3 c   b     -     -         1090   20   35 
+RiverRatt 938263612  3  2 B   -     -     -         1105   10   15 
+RiverRatt 938263614  3  1 Brc b     -     -         1110   40   70 
+RiverRatt 938263620  3  3 r   -     -     -         1140   20   35 
+RiverRatt 938263624  3  2 B   -     -     -         1155   10   15 
+RiverRatt 938263627  3  1 Br  b     -     -         1160   30   50 
+RiverRatt 938263631  3  3 r   -     -     -         1180   20   35 
+RiverRatt 938263634  3  2 Br  b     b     b         1195   70    0 3h 3s
+RiverRatt 938263642  3  1 Br  b     b     bc        1125   90    0 5h 9s
+RiverRatt 938263656  3  3 r   -     -     -         1035   20   35 
+RiverRatt 938263664  3  2 B   -     -     -         1050   10   15 
+RiverRatt 938263666  3  1 Br  -     -     -         1055   20   30 
+RiverRatt 938263669  3  3 r   -     -     -         1065   20   35 
+RiverRatt 938263674  3  2 B   -     -     -         1080   10   15 
+RiverRatt 938263675  3  1 Br  b     -     -         1085   30   50 
+RiverRatt 938263681  3  3 r   -     -     -         1105   20   35 
+RiverRatt 938263684  3  2 B   -     -     -         1120   10   15 
+RiverRatt 938263686  3  1 Br  -     -     -         1125   20   30 
+RiverRatt 938263688  3  3 r   -     -     -         1135   20   35 
+RiverRatt 938263692  3  2 B   -     -     -         1150   10   15 
+RiverRatt 938263694  3  1 Bc  k     b     -         1155   30   40 
+RiverRatt 938263703  3  3 r   -     -     -         1165   20   35 
+RiverRatt 938263706  3  2 Bc  kc    k     k         1180   30   65 Ah 5d
+RiverRatt 938263716  3  1 Br  -     -     -         1215   20   30 
+RiverRatt 938263722  3  3 r   -     -     -         1225   20   35 
+RiverRatt 938263726  3  2 B   -     -     -         1240   10   15 
+RiverRatt 938263728  3  1 Br  kc    k     k         1245   30    0 As 2d
+RiverRatt 938263736  3  3 r   -     -     -         1215   20   35 
+RiverRatt 938263742  3  2 Bk  kf    -     -         1230   10    0 
+RiverRatt 938263749  3  1 Br  -     -     -         1220   20   30 
+RiverRatt 938263752  3  3 r   -     -     -         1230   20   35 
+RiverRatt 938263755  3  2 Br  b     -     -         1245   40   75 
+RiverRatt 938263760  3  1 Br  -     -     -         1280   20   30 
+RiverRatt 938263763  3  3 r   -     -     -         1290   20   35 
+RiverRatt 938263766  3  2 B   -     -     -         1305   10   15 
+RiverRatt 938263769  3  1 Br  bc    kc    kf        1310   60    0 
+RiverRatt 938263779  3  3 f   -     -     -         1250    0    0 
+RiverRatt 938263781  3  2 Br  b     b     -         1250   60  105 
+RiverRatt 938263787  3  1 Br  -     -     -         1295   20   30 
+RiverRatt 938263789  3  3 r   -     -     -         1305   20   35 
+RiverRatt 938263793  3  2 B   -     -     -         1320   10   15 
+RiverRatt 938263796  3  1 Br  bc    kf    -         1325   40    0 
+RiverRatt 938263808  4  4 c   bc    c     f         1285   50    0 
+RiverRatt 938263843  4  3 r   c     rr    b         1235  130  270 5d 5h
+RiverRatt 938263882  4  2 B   -     -     -         1375   10   15 
+RiverRatt 938263893  3  1 Br  b     -     -         1380   30   50 
+RiverRatt 938263898  3  3 r   -     -     -         1400   20   35 
+RiverRatt 938263901  3  2 Br  b     -     -         1415   30   55 
+RiverRatt 938263906  3  1 Br  -     -     -         1440   20   30 
+RiverRatt 938263911  3  3 r   -     -     -         1450   20   35 
+RiverRatt 938263914  3  2 B   -     -     -         1465   10   15 
+RiverRatt 938263917  3  1 Br  kf    -     -         1470   20    0 
+RiverRatt 938263924  3  3 r   b     -     -         1450   30   60 
+RiverRatt 938263929  3  2 Br  b     -     -         1480   30   55 
+RiverRatt 938263934  3  1 Br  -     -     -         1505   20   30 
+RiverRatt 938263937  3  3 r   -     -     -         1515   20   35 
+RiverRatt 938263940  3  2 B   -     -     -         1530   10   15 
+RiverRatt 938263943  3  1 Br  b     -     -         1535   30   50 
+RiverRatt 938263946  3  3 r   -     -     -         1555   20   35 
+RiverRatt 938263949  3  2 B   -     -     -         1570   10   15 
+RiverRatt 938263951  3  1 Br  -     -     -         1575   20   30 
+RiverRatt 938263955  3  3 r   -     -     -         1585   20   35 
+RiverRatt 938263959  3  2 B   -     -     -         1600   10   15 
+RiverRatt 938263962  3  1 Br  -     -     -         1605   20   30 
+RiverRatt 938263965  3  3 r   -     -     -         1615   20   12 7c 4s
+RiverRatt 938263967  3  2 Br  b     -     -         1607   40   75 
+RiverRatt 938263978  3  1 Br  -     -     -         1642   20   30 
+RiverRatt 938263985  3  3 r   -     -     -         1652   20   35 
+RiverRatt 938263987  3  2 B   -     -     -         1667   10   15 
+RiverRatt 938263990  3  1 Br  k     k     k         1672   20   40 Qh 5d
+RiverRatt 938263998  3  3 r   -     -     -         1692   20   23 3c 2d
+RiverRatt 938264005  3  2 Br  b     kf    -         1695   30    0 
+RiverRatt 938264016  2  1 Br  b     -     -         1665   30   50 
+RiverRatt 938264060  2  2 B   -     -     -         1685   10   15 
+RiverRatt 938264063  3  1 Br  -     -     -         1690   20   30 
+RiverRatt 938264066  3  3 r   -     -     -         1700   20   35 
+RiverRatt 938264069  3  2 B   -     -     -         1715   10   15 
+RiverRatt 938264071  3  1 Br  b     -     -         1720   30   50 
+RiverRatt 938264075  3  3 r   -     -     -         1740   20   35 
+RiverRatt 938264079  3  2 B   -     -     -         1755   10   15 
+RiverRatt 938264081  3  1 Br  -     -     -         1760   20   30 
+RiverRatt 938264085  3  3 r   -     -     -         1770   20   35 
+RiverRatt 938264088  3  2 Br  bf    -     -         1785   40    0 
+RiverRatt 938264095  3  1 Br  b     -     -         1745   30   50 
+RiverRatt 938264101  3  3 r   -     -     -         1765   20   35 
+RiverRatt 938264103  3  2 B   -     -     -         1780   10   15 
+RiverRatt 938264106  3  1 Br  bc    k     k         1785   40    0 2d 6d
+RiverRatt 938264115  3  3 r   -     -     -         1745   20   35 
+RiverRatt 938264121  3  2 B   -     -     -         1760   10   15 
+RiverRatt 938264124  3  1 Br  -     -     -         1765   20   30 
+RiverRatt 938264126  3  3 r   -     -     -         1775   20   35 
+RiverRatt 938264129  3  2 Brc kc    kc    k         1790   70    0 7d 5d
+RiverRatt 938264143  3  1 Br  -     -     -         1720   20   30 
+RiverRatt 938264149  3  3 r   c     k     k         1730   30    0 3h 9s
+RiverRatt 938264159  3  2 B   -     -     -         1700   10   15 
+RiverRatt 938264164  3  1 Br  b     -     -         1705   30   50 
+RiverRatt 938264168  3  3 r   -     -     -         1725   20   35 
+RiverRatt 938264171  3  2 B   -     -     -         1740   10   15 
+RiverRatt 938264174  3  1 Br  -     -     -         1745   20   30 
+RiverRatt 938264176  3  3 r   -     -     -         1755   20   35 
+RiverRatt 938264179  3  2 Bc  kf    -     -         1770   20    0 
+RiverRatt 938264186  3  1 Br  -     -     -         1750   20   30 
+RiverRatt 938264189  3  3 r   -     -     -         1760   20   35 
+RiverRatt 938264191  3  2 B   -     -     -         1775   10   15 
+RiverRatt 938264194  3  1 Br  b     -     -         1780   30   50 
+RiverRatt 938264198  3  3 r   -     -     -         1800   20   35 
+RiverRatt 938264201  3  2 Br  bc    b     b         1815   90  185 Ts 4h
+RiverRatt 938264210  3  1 Br  bc    br    b         1910  120    0 9s 4c
+RiverRatt 938264224  3  3 rc  c     k     b         1790   60  110 
+RiverRatt 938264237  3  2 B   -     -     -         1840   10   15 
+RiverRatt 938264240  3  1 Br  bc    kc    kc        1845   80    0 Qc As
+RiverRatt 938264249  3  3 r   -     -     -         1765   20   35 
+RiverRatt 938264256  3  2 Br  bc    kf    -         1780   50    0 
+RiverRatt 938264264  3  1 Br  -     -     -         1730   20   30 
+RiverRatt 938264267  3  3 r   -     -     -         1740   20   35 
+RiverRatt 938264297  4  2 Br  b     br    b         1755  110  225 Qc Ks
+RiverRatt 938264322  4  1 Br  b     -     -         1870   30   50 
+RiverRatt 938264341  4  4 r   b     b     c         1890   70    0 Ah Ts
+RiverRatt 938264363  4  3 r   -     -     -         1820   20   35 
+RiverRatt 938264373  4  2 Br  k     kc    kc        1835   60    0 Qc 5c
+RiverRatt 938264399  5  1 Br  b     -     -         1775   30   50 
+RiverRatt 938264415  5  5 r   b     b     -         1795   50   90 
+RiverRatt 938264431  5  4 r   r     c     c         1835   80  165 As 9h
+RiverRatt 938264453  5  3 r   -     -     -         1920   20   35 
+RiverRatt 938264464  5  2 Bk  k     k     k         1935   10    0 9d 6h
+RiverRatt 938264487  5  1 Bc  kcc   kc    kc        1925   90    0 Qs 9h
+RiverRatt 938264533  5  5 r   b     -     -         1835   30   55 
+RiverRatt 938264552  5  4 r   r     c     f         1860   60    0 
+RiverRatt 938264580  5  3 c   c     k     k         1800   20    0 5c Kh
+RiverRatt 938264605  5  2 Br  b     bc    kc        1780   90    0 Jh Js
+RiverRatt 938264631  5  1 Br  bc    kc    kc        1690   80    0 As Tc
+RiverRatt 938264660  5  5 c   k     k     f         1610   10    0 
+RiverRatt 938264698  5  4 r   k     b     -         1600   40   80 
+RiverRatt 938264731  5  3 r   c     c     c         1640   70  150 8h 9d
+RiverRatt 938264755  5  2 B   -     -     -         1720   10   15 
+RiverRatt 938264766  5  1 Brc b     kc    k         1725   60    0 Js 3s
+RiverRatt 938264806  5  5 c   k     c     f         1665   30    0 
+RiverRatt 938264844  5  4 r   rr    k     rr        1635  140  285 9h Kh
+RiverRatt 938264890  5  3 r   -     -     -         1780   20   35 
+RiverRatt 938264901  5  2 B   -     -     -         1795   10   15 
+RiverRatt 938264909  5  1 Br  kf    -     -         1800   20    0 
+RiverRatt 938264938  5  5 r   -     -     -         1780   20   35 
+RiverRatt 938264950  5  4 r   -     -     -         1795   20   35 
+RiverRatt 938264963  6  4 r   -     -     -         1810   20   35 
+RiverRatt 938264979  6  3 r   k     b     -         1825   40   90 
+RiverRatt 938265009  6  2 Bc  kc    kc    k         1875   50    0 Qd 9h
+RiverRatt 938265056  6  1 Br  -     -     -         1825   20   30 
+RiverRatt 938265079  6  6 r   c     f     -         1835   30    0 
+RiverRatt 938265121  6  5 c   f     -     -         1805   10    0 
+RiverRatt 938265158  5  3 f   -     -     -         1795    0    0 
+RiverRatt 938265181  5  2 Bcc k     c     c         1795   80    0 Qd 7h
+RiverRatt 938265257  7  1 BQ  -     -     -         1715    5    0 

@@ -1,0 +1,61 @@
+Trotter   887928936 10  7 f   -     -     -         1000    0    0 
+Trotter   887929006  9  5 f   -     -     -         1000    0    0 
+Trotter   887929061  9  4 c   kc    brc   bc        1000  140  450 Qc Ac
+Trotter   887929146  9  3 cc  kf    -     -         1310   20    0 
+Trotter   887929224 10  3 f   -     -     -         1290    0    0 
+Trotter   887929308 10  2 Bf  -     -     -         1290   10    0 
+Trotter   887929382  9  1 Bf  -     -     -         1280    5    0 
+Trotter   887929451  9  9 f   -     -     -         1275    0    0 
+Trotter   887929509 10  9 c   f     -     -         1275   20    0 
+Trotter   887929583 10  8 f   -     -     -         1255    0    0 
+Trotter   887929653 10  7 f   -     -     -         1255    0    0 
+Trotter   887929718 10  6 f   -     -     -         1255    0    0 
+Trotter   887929784 10  5 f   -     -     -         1255    0    0 
+Trotter   887929886  9  4 cc  kf    -     -         1255   20    0 
+Trotter   887929929  9  3 c   f     -     -         1235   10    0 
+Trotter   887930023  8  2 Bk  k     b     -         1225   30   45 
+Trotter   887930051  9  1 Bc  kf    -     -         1240   10    0 
+Trotter   887930105 10 10 f   -     -     -         1230    0    0 
+Trotter   887930198  9  8 c   c     k     f         1230   20    0 
+Trotter   887930236 10  7 cc  kc    kc    kc        1210   70    0 6s 9s
+Trotter   887930304  9  5 c   b     bc    bc        1140  100    0 9h 5h
+Trotter   887930360  9  4 r   k     k     b         1040   40  150 Qs Qd
+Trotter   887930419  9  3 f   -     -     -         1150    0    0 
+Trotter   887930513 10  2 Bk  kc    kc    kc        1150   44    0 8h 9c
+Trotter   887930568 10  1 Bf  -     -     -         1106    5    0 
+Trotter   887930697  8  8 c   c     k     k         1101   20  100 5h 6c
+Trotter   887930787  8  8 c   c     c     c         1181   60   72 8c Th
+Trotter   887930847  7  6 f   -     -     -         1193    0    0 
+Trotter   887930916  7  5 fQQ -     -     -         1193    0    0 
+Trotter   887971129  5  2 Bk  kf    -     -         1193   10    0 
+Trotter   887971156  6  1 Bc  kc    kc    kf        1183   50    0 
+Trotter   887971186  6  6 c   c     c     k         1133   40   95 Td Qh
+Trotter   887971235  7  6 c   k     k     k         1188   10    0 9s 8c
+Trotter   887971278  7  5 c   b     b     k         1178   50  135 7h 9c
+Trotter   887971327  7  4 f   -     -     -         1263    0    0 
+Trotter   887971346  7  3 r   b     kc    kc        1263   70    0 Qd Qs
+Trotter   887971397  7  2 Bk  kc    kc    kc        1193   60    0 Th 8h
+Trotter   887971425  7  1 Bc  kf    -     -         1133   10    0 
+Trotter   887971470  7  7 f   -     -     -         1123    0    0 
+Trotter   887971517  7  6 cc  b     bc    c         1123   90  225 4h As
+Trotter   887971570  7  5 c   c     f     -         1258   20    0 
+Trotter   887971611  8  5 c   k     k     c         1238   40    0 4d Jc
+Trotter   887971666  8  4 cc  f     -     -         1198   40    0 
+Trotter   887971722  8  3 cc  kc    brc   k         1158  110  185 Ad 7h
+Trotter   887971786  8  2 Bk  kf    -     -         1233   10    0 
+Trotter   887971852  9  1 Bc  k     kc    kf        1223   30    0 
+Trotter   887971894  8  8 c   c     c     f         1193   40    0 
+Trotter   887971936  8  8 f   -     -     -         1153    0    0 
+Trotter   887971980  7  6 fQQ -     -     -         1153    0    0 
+Trotter   888010971 10  3 c   kc    kf    -         1153   20    0 
+Trotter   888011006 10  2 Bf  -     -     -         1133   10    0 
+Trotter   888011048 10  1 Bc  kf    -     -         1123   20    0 
+Trotter   888011126 10 10 f   -     -     -         1103    0    0 
+Trotter   888011209 10  9 cc  c     c     f         1103   50    0 
+Trotter   888011272 10  8 f   -     -     -         1053    0    0 
+Trotter   888011360 10  7 f   -     -     -         1053    0    0 
+Trotter   888011398 10  6 c   c     f     -         1053   30    0 
+Trotter   888011458 10  5 cc  cc    kc    kf        1023   60    0 
+Trotter   888011512 10  4 cc  c     c     f          963   50    0 
+Trotter   888011609  9  3 cc  k     kc    kc         913   60    0 Jc 4c
+Trotter   888011669 10  2 Bk  kfQ   Q     -          853   10    0 
