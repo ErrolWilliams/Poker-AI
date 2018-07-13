@@ -14,7 +14,7 @@ public class Client {
     WebSocketClient client;
 
     public Client(String uri) throws URISyntaxException{
-
+        System.out.println("Creating Websocket connection");
         URI uriObj = new URI(uri);
 
         client = new WebSocketClient(uriObj, new Draft_6455()) {
