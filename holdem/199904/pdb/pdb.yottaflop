@@ -1,0 +1,295 @@
+yottaflop 923105431 10  8 cc  f     -     -         1120   30    0 
+yottaflop 923105513 10  8 f   -     -     -         1090    0    0 
+yottaflop 923105603 10  6 cc  f     -     -         1090   20    0 
+yottaflop 923105674 10  5 c   cc    c     rf        1070  120    0 
+yottaflop 923105858 10  4 cQ  -     -     -          950   10    0 
+yottaflop 923697166  6  5 c   r     b     b          828   80    0 8s 6s
+yottaflop 923697207  6  4 rc  c     k     f          748   40    0 
+yottaflop 923697253  7  3 c   c     br    b          708  100  240 7s Ks
+yottaflop 923697290  6  2 Bc  rr    br    br         848  180  570 Ah 5c
+yottaflop 923697345  6  1 Bc  kc    kf    -         1238   30    0 
+yottaflop 923697425  5  5 c   r     rc    r         1208  130  250 
+yottaflop 923697471  5  4 f   -     -     -         1328    0    0 
+yottaflop 923697510  6  3 f   -     -     -         1328    0    0 
+yottaflop 923697542  6  2 Bc  kc    kc    kf        1328   50    0 
+yottaflop 923697624  6  1 Bf  -     -     -         1278    5    0 
+yottaflop 923697690  6  6 f   -     -     -         1273    0    0 
+yottaflop 923697770  7  5 r   rc    krr   b         1273  150  435 Ac Qs
+yottaflop 923697836  7  4 c   f     -     -         1558   10    0 
+yottaflop 923697886  7  3 c   k     k     kf        1548   10    0 
+yottaflop 923697968  9  2 Bk  bc    kc    kf        1538   50    0 
+yottaflop 923698033  8  1 Bc  kc    bf    -         1488   50    0 
+yottaflop 923698071  9  8 c   rr    b     b         1438   90    0 Kc 7c
+yottaflop 923698158  9  7 c   kf    -     -         1348   10    0 
+yottaflop 923698214  9  6 f   -     -     -         1338    0    0 
+yottaflop 923698250 10  5 ccc br    bc    krr       1338  190    0 Js 8h
+yottaflop 923698336  9  4 cc  rr    brc   b         1148  160  490 8s Tc
+yottaflop 923698417 10  3 f   -     -     -         1478    0    0 
+yottaflop 923698515  9  2 Bf  -     -     -         1478   10    0 
+yottaflop 923698606  9  1 Bc  k     k     k         1468   10   10 Jc Kh
+yottaflop 923698650 10 10 cc  r     b     k         1468   70    0 Th 7d
+yottaflop 923698723  9  8 f   -     -     -         1398    0    0 
+yottaflop 923698795  9  7 c   f     -     -         1398   10    0 
+yottaflop 923698834 10  6 c   r     f     -         1388   30    0 
+yottaflop 923698905 10  5 f   -     -     -         1358    0    0 
+yottaflop 923698976 10  4 c   br    k     kc        1358   60    0 Tc 7h
+yottaflop 923699031 10  3 f   -     -     -         1298    0    0 
+yottaflop 923699100  8  2 Bc  kc    b     b         1298   70  145 4d 4s
+yottaflop 923699152  8  1 Br  -     -     -         1373   20   30 
+yottaflop 923699174  7  7 c   b     r     b         1383   80    0 Ts Qd
+yottaflop 923699240  7  6 f   -     -     -         1303    0    0 
+yottaflop 923699273  7  5 c   k     b     -         1303   30   60 
+yottaflop 923699314  7  4 f   -     -     -         1333    0    0 
+yottaflop 923699376  8  3 c   f     -     -         1333   10    0 
+yottaflop 923699406  8  2 Bk  kc    b     k         1323   40    0 Js 2c
+yottaflop 923699495  8  1 Bf  -     -     -         1283    5    0 
+yottaflop 923699533  8  8 c   r     brc   r         1278  170    0 Ah 6s
+yottaflop 923699641  8  7 f   -     -     -         1108    0    0 
+yottaflop 923699692  8  6 f   -     -     -         1108    0    0 
+yottaflop 923699723  8  5 f   -     -     -         1108    0    0 
+yottaflop 923699738  7  3 ccc brc   b     b         1108  120    0 9s 4s
+yottaflop 923699843  9  3 Q   -     -     -          988    0    0 
+yottaflop 923752224  9  7 cc  r     b     r          988  100  325 Jd As
+yottaflop 923752265  9  6 cc  bc    kc    kf        1213   60    0 
+yottaflop 923752369 10  5 f   -     -     -         1153    0    0 
+yottaflop 923752425 10  4 f   -     -     -         1153    0    0 
+yottaflop 923752500 10  3 f   -     -     -         1153    0    0 
+yottaflop 923752560 10  2 Bk  k     b     b         1153   50  105 
+yottaflop 923752605 10  1 Bf  -     -     -         1208    5    0 
+yottaflop 923752689 10 10 cc  cc    c     f         1203   90    0 
+yottaflop 923752762 10  9 r   k     b     b         1113   60  170 
+yottaflop 923752829 10  8 cf  -     -     -         1223   20    0 
+yottaflop 923752916 10  7 rc  brc   k     rr        1203  160    0 As Ks
+yottaflop 923753015 10  6 cc  br    b     c         1043   90    0 8h Td
+yottaflop 923753085 10  5 c   rc    c     r          953  110  530 Th Jc
+yottaflop 923753169 10  4 f   -     -     -         1373    0    0 
+yottaflop 923753213 10  3 f   -     -     -         1373    0    0 
+yottaflop 923753292 10  2 Bk  c     c     f         1373   40    0 
+yottaflop 923753350  9  1 Bc  kc    k     kf        1333   20    0 
+yottaflop 923753403  9  9 r   b     cc    c         1313  110    0 Qs Ac
+yottaflop 923753490  9  8 cc  r     k     f         1203   50    0 
+yottaflop 923753566 10  8 f   -     -     -         1153    0    0 
+yottaflop 923753615 10  7 r   bc    b     br        1153  120    0 Ks Kd
+yottaflop 923753693  9  6 cc  kc    k     k         1033   30    0 4c 6s
+yottaflop 923753760  9  5 f   -     -     -         1003    0    0 
+yottaflop 923753790 10  4 c   kc    kc    kf        1003   40    0 
+yottaflop 923753841  9  2 Brc br    b     k          963   90  315 Qc Qs
+yottaflop 923753904  8  1 Br  b     brc   kc        1188  130    0 Ac Kc
+yottaflop 923753956  8  8 f   -     -     -         1058    0    0 
+yottaflop 923754005  8  7 c   cc    c     k         1058   70  330 Td Qc
+yottaflop 923754082  8  6 f   -     -     -         1318    0    0 
+yottaflop 923754150  8  5 f   -     -     -         1318    0    0 
+yottaflop 923754202  8  4 f   -     -     -         1318    0    0 
+yottaflop 923754229  8  3 f   -     -     -         1318    0    0 
+yottaflop 923754285  8  2 Bk  kf    -     -         1318   10    0 
+yottaflop 923754337  8  1 Br  b     -     -         1308   30   60 
+yottaflop 923754357  8  8 c   c     c     f         1338   40    0 
+yottaflop 923754411  8  7 c   c     f     -         1298   20    0 
+yottaflop 923754459  8  6 c   b     b     -         1278   40   90 
+yottaflop 923754485  8  5 cc  k     kr    b         1328   80  260 Js 9d
+yottaflop 923754557  8  4 f   -     -     -         1508    0    0 
+yottaflop 923754596  7  3 c   r     -     -         1508   30   60 
+yottaflop 923754621  8  2 Bf  -     -     -         1538   10    0 
+yottaflop 923754647  8  1 Bc  k     kf    -         1528   10    0 
+yottaflop 923754690  8  8 c   Q     -     -         1518   20    0 
+yottaflop 923766527  9  9 c   c     f     -         1498   20    0 
+yottaflop 923766597 10  8 c   c     r     k         1478   70  250 Kd 3d
+yottaflop 923766675  9  6 f   -     -     -         1658    0    0 
+yottaflop 923766750  9  5 c   b     k     k         1658   20    0 8h 9h
+yottaflop 923766808  9  4 c   b     b     -         1638   40  100 
+yottaflop 923766847  9  3 c   kc    kc    kf        1698   70    0 
+yottaflop 923766927 10  2 Bc  kc    bc    kf        1628   80    0 
+yottaflop 923767001  9  1 Bf  -     -     -         1548    5    0 
+yottaflop 923767063 10 10 c   c     c     f         1543   40    0 
+yottaflop 923767105 10  9 f   -     -     -         1503    0    0 
+yottaflop 923767170 10  8 f   -     -     -         1503    0    0 
+yottaflop 923767209 10  7 cc  f     -     -         1503   30    0 
+yottaflop 923767289  8  4 f   -     -     -         1473    0    0 
+yottaflop 923767339  8  3 ccc k     kc    k         1473   60  240 9c 9h
+yottaflop 923767396  7  2 Bk  k     k     k         1653   10    0 2s 8c
+yottaflop 923767453  7  1 Bf  -     -     -         1643    5    0 
+yottaflop 923767494  7  7 c   f     -     -         1638   20    0 
+yottaflop 923767521  7  6 f   -     -     -         1618    0    0 
+yottaflop 923767560  7  5 c   k     k     f         1618   10    0 
+yottaflop 923767599  7  4 f   -     -     -         1608    0    0 
+yottaflop 923767640  7  3 f   -     -     -         1608    0    0 
+yottaflop 923767655  7  2 Bk  kc    bc    kf        1608   60    0 
+yottaflop 923767724  8  1 Bc  k     kf    -         1548   20    0 
+yottaflop 923767752  7  7 c   b     k     r         1528   60  140 Ac Ks
+yottaflop 923767817  7  6 f   -     -     -         1608    0    0 
+yottaflop 923767850  7  5 r   kc    kc    bc        1608   90    0 Ks Ah
+yottaflop 923767899  7  4 fQ  -     -     -         1518    0    0 
+yottaflop 924481285 10  2 Bk  kf    -     -         1656   10    0 
+yottaflop 924481330 10  1 Bc  kc    kc    kf        1646   50    0 
+yottaflop 924481384 10 10 c   r     -     -         1596   30   65 
+yottaflop 924481406 10  9 r   f     -     -         1631   30    0 
+yottaflop 924481453 10  8 c   k     r     b         1601   70  205 Qc 7h
+yottaflop 924481511  9  7 c   f     -     -         1736   20    0 
+yottaflop 924481568  9  6 f   -     -     -         1716    0    0 
+yottaflop 924481622  9  5 f   -     -     -         1716    0    0 
+yottaflop 924481673 10  4 f   -     -     -         1716    0    0 
+yottaflop 924481714 10  3 c   k     b     k         1716   30   80 Jc 7c
+yottaflop 924481759 10  2 Bk  kc    kc    kf        1766   60    0 
+yottaflop 924481839 10  1 Bf  -     -     -         1706    5    0 
+yottaflop 924481889 10 10 c   k     f     -         1701   10    0 
+yottaflop 924481960 10  9 c   b     -     -         1691   20   35 
+yottaflop 924481976 10  8 r   -     -     -         1706   20   35 
+yottaflop 924481990 10  7 cc  c     f     -         1721   30    0 
+yottaflop 924482045 10  6 Q   -     -     -         1691    0    0 
+yottaflop 925338838 10  5 c   c     r     b         1706   80  240 6d 4d
+yottaflop 925338894 10  4 f   -     -     -         1866    0    0 
+yottaflop 925338954 10  3 cc  bc    kccc  kf        1866  130    0 
+yottaflop 925339065 10  2 Bk  kcc   bc    kf        1736   70    0 
+yottaflop 925339180 10  1 Bcc bc    bc    b         1666  100    0 6c 2c
+yottaflop 925339230 10 10 f   -     -     -         1566    0    0 
+yottaflop 925339290 10  9 c   c     f     -         1566   20    0 
+yottaflop 925339372 10  8 f   -     -     -         1546    0    0 
+yottaflop 925339389  9  6 rc  kc    bc    k         1546   90  285 Th Tc
+yottaflop 925339520  8  5 cc  kcc   br    kf        1741  130    0 
+yottaflop 925339635  8  4 cc  b     b     b         1611   70  175 
+yottaflop 925339688  8  3 f   -     -     -         1716    0    0 
+yottaflop 925339748  8  2 Bc  kf    -     -         1716   30    0 
+yottaflop 925339818  9  1 Bc  kf    -     -         1686   20    0 
+yottaflop 925339858  9  9 f   -     -     -         1666    0    0 
+yottaflop 925339902  9  8 f   -     -     -         1666    0    0 
+yottaflop 925339960  9  7 c   br    bc    kf        1666   80    0 
+yottaflop 925340069 10  6 cc  kf    -     -         1586   20    0 
+yottaflop 925340143 10  5 r   k     kc    kc        1566   60  170 As Qh
+yottaflop 925340217  9  3 r   kc    kf    -         1676   30    0 
+yottaflop 925340308 10  2 Bc  kc    brc   brc       1646  190  385 Ah 9s
+yottaflop 925340377 10  1 Bf  -     -     -         1841    5    0 
+yottaflop 925340450 10 10 c   c     f     -         1836   30    0 
+yottaflop 925340537 10  9 c   c     c     f         1806   60    0 
+yottaflop 925340606 10  8 c   b     -     -         1746   30  100 
+yottaflop 925340649  9  6 f   -     -     -         1816    0    0 
+yottaflop 925340752  9  5 cc  kf    -     -         1816   20    0 
+yottaflop 925340848  9  4 f   -     -     -         1796    0    0 
+yottaflop 925340871  9  3 f   -     -     -         1796    0    0 
+yottaflop 925340881  9  2 Bk  bc    kc    kf        1796   50    0 
+yottaflop 925340941 10  1 Bf  -     -     -         1746    5    0 
+yottaflop 925340996 10 10 c   k     r     r         1741   90  185 
+yottaflop 925341119 10  9 f   -     -     -         1836    0    0 
+yottaflop 925341177 10  8 cc  kc    kc    bc        1836  100    0 Ac 7h
+yottaflop 925341276 10  7 f   -     -     -         1736    0    0 
+yottaflop 925341351 10  6 f   -     -     -         1736    0    0 
+yottaflop 925341405 10  5 f   -     -     -         1736    0    0 
+yottaflop 925341448 10  4 f   -     -     -         1736    0    0 
+yottaflop 925341498 10  3 f   -     -     -         1736    0    0 
+yottaflop 925341575 10  2 Bf  -     -     -         1736   10    0 
+yottaflop 925341672 10  1 Bf  -     -     -         1726    5    0 
+yottaflop 925341753 10 10 cc  f     -     -         1721   20    0 
+yottaflop 925341857  8  7 f   -     -     -         1701    0    0 
+yottaflop 925341924  9  8 cc  rr    c     c         1701  100    0 7c 9c
+yottaflop 925342005  9  7 f   -     -     -         1601    0    0 
+yottaflop 925342071  9  6 cc  crc   b     b         1601  100    0 7c 6c
+yottaflop 925342183  8  3 f   -     -     -         1501    0    0 
+yottaflop 925342204  7  2 Br  bc    kr    brc       1501  170    0 4s Ah
+yottaflop 925342349  8  1 Bc  kc    kc    krc       1331  120    0 Jc Ah
+yottaflop 925342406 10 10 r   r     b     b         1211   80    0 Js 9s
+yottaflop 925342461 10  9 cc  r     r     r         1131  170    0 Td 5d
+yottaflop 925342559 10  8 Q   -     -     -          961    0    0 
+yottaflop 925426664  8  3 c   krc   kr    b          866  100  250 4c Ah
+yottaflop 925426720  8  2 Bc  kc    kf    -         1016   40    0 
+yottaflop 925426789  9  1 Bf  -     -     -          976    5    0 
+yottaflop 925426829  8  8 c   b     b     -          971   40  105 
+yottaflop 925426862  8  7 c   b     r     b         1036   80  150 
+yottaflop 925426920  9  6 cc  f     -     -         1106   20    0 
+yottaflop 925427021 10  5 rc  kcc   kc    bf        1086  100    0 
+yottaflop 925427177  9  4 c   k     b     b          986   50  120 
+yottaflop 925427240 10  3 f   -     -     -         1056    0    0 
+yottaflop 925427328 10  2 Brc krc   bc    kc        1056  130    0 Ts Th
+yottaflop 925427433 10  1 Bc  k     kf    -          926   10    0 
+yottaflop 925427495 10 10 r   c     r     r          916  110  325 As Ac
+yottaflop 925427564  9  8 c   c     r     b         1131   80    0 3c Kc
+yottaflop 925427633  9  8 c   k     rc    k         1051   80    0 Jc 5s
+yottaflop 925427710  9  7 f   -     -     -          971    0    0 
+yottaflop 925427756  9  6 cc  cc    f     -          971   50    0 
+yottaflop 925427829 10  5 c   f     -     -          921   10    0 
+yottaflop 925427896 10  4 f   -     -     -          911    0    0 
+yottaflop 925427921 10  3 cr  b     b     b          911   80  195 
+yottaflop 925427976 10  2 Bf  -     -     -         1026   10    0 
+yottaflop 925428025 10  1 Bc  k     k     kc        1016   30    0 Kd 8h
+yottaflop 925428104 10 10 rr  rc    c     k          986  100    0 5h 5d
+yottaflop 925428196 10  9 c   rr    b     c          886   90    0 Kh 6h
+yottaflop 925428331  9  7 f   -     -     -          796    0    0 
+yottaflop 925428397 10  6 f   -     -     -          796    0    0 
+yottaflop 925428452 10  7 f   -     -     -          796    0    0 
+yottaflop 925428494  8  4 rc  bc    kc    kf         796   80    0 
+yottaflop 925428553  8  3 c   r     b     f          716   50    0 
+yottaflop 925428600 10  2 Bf  -     -     -          666   10    0 
+yottaflop 925428637 10  1 Bc  kcc   kc    kf         656   80    0 
+yottaflop 925428716  9  9 c   c     f     -          576   20    0 
+yottaflop 925428790  9  8 f   -     -     -          556    0    0 
+yottaflop 925428859  9  7 r   kc    cc    k          556   70    0 8c 8d
+yottaflop 925428979 10  7 r   kc    b     b          486   70  225 
+yottaflop 925429067 10  7 f   -     -     -          641    0    0 
+yottaflop 925429086 10  5 c   bc    b     k          641   50    0 5c Qc
+yottaflop 925429150 10  5 c   rr    b     kr         591  110    0 Ah Jh
+yottaflop 925429210 10  3 r   b     b     b          481   70    0 Jh Qd
+yottaflop 925429277 10  2 Bk  bc    b     kf         411   50    0 
+yottaflop 925429371 10  1 Bc  kc    kc    kf         361   60    0 
+yottaflop 925429457 10 10 f   -     -     -          301    0    0 
+yottaflop 925429556 10  9 f   -     -     -          301    0    0 
+yottaflop 925429590 10  8 f   -     -     -          301    0    0 
+yottaflop 925429627 10  7 f   -     -     -          301    0    0 
+yottaflop 925429701 10  6 f   -     -     -          301    0    0 
+yottaflop 925429740 10  5 f   -     -     -          301    0    0 
+yottaflop 925429772 10  4 r   bc    kr    krr        301  160    0 Ad Ks
+yottaflop 925429930 10  3 f   -     -     -          141    0    0 
+yottaflop 925429966 10  2 Bk  k     f     -          141   10    0 
+yottaflop 925430020 10  1 Bf  -     -     -          131    5    0 
+yottaflop 925430063 10 10 cc  c     k     rf         126   70    0 
+yottaflop 925430169 10  9 c   r     b     bA          56   56  156 
+yottaflop 925430245 10  8 c   f     -     -          156   10    0 
+yottaflop 925430300 10  7 f   -     -     -          146    0    0 
+yottaflop 925430368 10  6 c   kf    -     -          146   10    0 
+yottaflop 925430507 10  5 c   krc   kc    kc         136  100  305 9c As
+yottaflop 925430628 10  4 cc  brc   brc   brc        341  220    0 Kd 6d
+yottaflop 925430725 10  3 f   -     -     -          121    0    0 
+yottaflop 925430810 10  2 Bf  -     -     -          121   10    0 
+yottaflop 925430925 10  1 Bc  bc    bc    kf         111   70    0 
+yottaflop 925431070 10 10 r   bc    cA    -           41   41    0 Ah Kh
+yottaflop 925431245 10  9 f   -     -     -         1000    0    0 
+yottaflop 925431330 10  8 r   r     c     r         1000  100    0 Jh Qh
+yottaflop 925431434 10  9 r   bc    kr    kr         900  120  335 6d 6c
+yottaflop 925431556  8  7 c   k     f     -         1115   10    0 
+yottaflop 925431630  7  5 f   -     -     -         1105    0    0 
+yottaflop 925431666  8  4 cc  r     c     f         1105   60    0 
+yottaflop 925431765  8  2 Bc  kr    k     k         1045   40    0 5h 9c
+yottaflop 925431857  8  1 Bc  bc    b     b         1005   70  230 6c Td
+yottaflop 925431915  8  8 c   bf    -     -         1165   20    0 
+yottaflop 925431955  8  7 f   -     -     -         1145    0    0 
+yottaflop 925431999  8  6 f   -     -     -         1145    0    0 
+yottaflop 925432052  9  6 c   c     rr    r         1145  140    0 2s Js
+yottaflop 925432125 10  5 c   b     b     b         1005   60  210 2c 3c
+yottaflop 925432198 10  4 f   -     -     -         1155    0    0 
+yottaflop 925432280 10  3 f   -     -     -         1155    0    0 
+yottaflop 925432368  9  1 Br  b     b     b         1155   70  150 
+yottaflop 925432481  9  1 Bc  kf    -     -         1235   10    0 
+yottaflop 925432631 10 10 cc  f     -     -         1225   20    0 
+yottaflop 925432657 10  9 f   -     -     -         1205    0    0 
+yottaflop 925432748 10  8 f   -     -     -         1205    0    0 
+yottaflop 925432809 10  7 r   k     kc    kf        1205   40    0 
+yottaflop 925432904 10  7 c   cc    cc    kf        1165   70    0 
+yottaflop 925433104 10  5 rr  brc   brc   brc       1095  240    0 Qd As
+yottaflop 925433241 10  4 c   f     -     -          855   20    0 
+yottaflop 925433308 10  4 f   -     -     -          835    0    0 
+yottaflop 925433392 10  2 Bc  krc   bf    -          835   80    0 
+yottaflop 925433482 10  1 Br  b     kc    kf         755   60    0 
+yottaflop 925433564 10 10 r   r     c     r          695  130    0 6d 4h
+yottaflop 925433644 10  9 r   r     rr    r          565  160  395 7s Ah
+yottaflop 925433723 10  8 c   f     -     -          800   10    0 
+yottaflop 925433784 10  7 f   -     -     -          790    0    0 
+yottaflop 925433844 10  6 f   -     -     -          790    0    0 
+yottaflop 925433927 10  5 c   kc    c     b          790   60  190 3c 2c
+yottaflop 925434002 10  4 c   k     rc    b          920   90  360 7c 4c
+yottaflop 925434141 10  4 f   -     -     -         1190    0    0 
+yottaflop 925434316  9  2 Bk  kc    kc    kc        1190   60    0 5c 5s
+yottaflop 925434389 10  1 BQ  -     -     -         1130    5    0 
+yottaflop 925510325  9  3 f   -     -     -         1110    0    0 
+yottaflop 925510379  9  2 Bk  b     k     k         1110   20   70 Ac 9h
+yottaflop 925510425  9  1 Bc  kc    kc    kf        1160   40    0 
+yottaflop 925510490  7  7 cc  rr    f     -         1120   60    0 
+yottaflop 925510521  7  6 c   f     -     -         1060   10    0 
+yottaflop 925510600  8  7 c   b     -     -         1050   20   50 
+yottaflop 925510649  7  5 c   bQ    -     -         1080   20    0 

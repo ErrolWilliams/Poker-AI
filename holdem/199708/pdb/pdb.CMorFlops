@@ -1,0 +1,196 @@
+CMorFlops 870538732 11  9 f   -     -     -         1000    0    0 
+CMorFlops 870538798 11  8 f   -     -     -         1000    0    0 
+CMorFlops 870538880 12  7 c   b     br    b         1000  100  290 Kc Ts
+CMorFlops 870538967 11  6 f   -     -     -         1190    0    0 
+CMorFlops 870539040 11  5 c   k     k     k         1190   10   50 8h Ks
+CMorFlops 870539138  9  3 c   b     b     b         1230   60  130 
+CMorFlops 870539251 10  3 f   -     -     -         1300    0    0 
+CMorFlops 870539318  9  2 Bk  kc    kf    -         1300   20    0 
+CMorFlops 870539351 10  1 Bc  k     k     kf        1280   10    0 
+CMorFlops 870539395 10 10 c   f     -     -         1270   10    0 
+CMorFlops 870539446 10  9 f   -     -     -         1260    0    0 
+CMorFlops 870539529 11  9 f   -     -     -         1260    0    0 
+CMorFlops 870539669 10  8 cc  f     -     -         1260   20    0 
+CMorFlops 870539696 10  6 c   c     kf    -         1240   20    0 
+CMorFlops 870539788 10  5 c   b     b     b         1220   60  150 
+CMorFlops 870539843 10  4 f   -     -     -         1310    0    0 
+CMorFlops 870539875  8  2 Bk  br    b     b         1310   80  170 
+CMorFlops 870539917  8  1 Bf  -     -     -         1400    5    0 
+CMorFlops 870540000  8  8 rc  r     b     b         1395   90  286 Ac Kh
+CMorFlops 870540045  7  6 f   -     -     -         1591    0    0 
+CMorFlops 870540118  8  5 f   -     -     -         1591    0    0 
+CMorFlops 870540151  8  4 f   -     -     -         1591    0    0 
+CMorFlops 870540197  8  3 f   -     -     -         1591    0    0 
+CMorFlops 870540216  8  2 Bk  k     k     k         1591   10    0 2h 9h
+CMorFlops 870540263  8  1 Bf  -     -     -         1581    5    0 
+CMorFlops 870540330  7  7 c   c     f     -         1576   20    0 
+CMorFlops 870540368  8  6 f   -     -     -         1556    0    0 
+CMorFlops 870540405  8  5 f   -     -     -         1556    0    0 
+CMorFlops 870540438  9  5 f   -     -     -         1556    0    0 
+CMorFlops 870540489 11  6 f   -     -     -         1556    0    0 
+CMorFlops 870540616 12  6 f   -     -     -         1556    0    0 
+CMorFlops 870540685 12  5 f   -     -     -         1556    0    0 
+CMorFlops 870540736 12  4 cc  f     -     -         1556   20    0 
+CMorFlops 870540815 12  3 f   -     -     -         1536    0    0 
+CMorFlops 870540904 12  2 Bf  -     -     -         1536   10    0 
+CMorFlops 870541025 12  1 Bc  k     k     k         1526   10    0 6h 5d
+CMorFlops 870541091 11 11 r   r     rr    b         1516  140  430 5d 2d
+CMorFlops 870541154 11 10 f   -     -     -         1806    0    0 
+CMorFlops 870541217 11  9 f   -     -     -         1806    0    0 
+CMorFlops 870541301 11  8 f   -     -     -         1806    0    0 
+CMorFlops 870541365 11  7 cc  cc    kr    b         1806  100  475 9h 3h
+CMorFlops 870541461 12  7 f   -     -     -         2181    0    0 
+CMorFlops 870541546 12  6 f   -     -     -         2181    0    0 
+CMorFlops 870541610 11  4 c   kf    -     -         2181   10    0 
+CMorFlops 870541674 10  3 cc  kf    -     -         2171   20    0 
+CMorFlops 870541791 12  4 cc  c     c     f         2151   50    0 
+CMorFlops 870541853 11  2 Bf  -     -     -         2101   10    0 
+CMorFlops 870541909 11  1 Bf  -     -     -         2091    5    0 
+CMorFlops 870541974 10 10 c   c     c     rr        2086  130  305 
+CMorFlops 870542025 12 11 cf  -     -     -         2261   30    0 
+CMorFlops 870542123 10  8 c   kc    kc    f         2231   40    0 
+CMorFlops 870542227 10  7 f   -     -     -         2191    0    0 
+CMorFlops 870542285 11  7 c   b     bc    kr        2191  100  240 8s Js
+CMorFlops 870542338 11  6 c   bc    k     kf        2331   30    0 
+CMorFlops 870542468 10  5 c   r     b     c         2301   70    0 Kh Ah
+CMorFlops 870542518 10  4 f   -     -     -         2231    0    0 
+CMorFlops 870542557 10  3 c   f     -     -         2231   10    0 
+CMorFlops 870542611 10  2 Bk  b     -     -         2221   20   55 
+CMorFlops 870542631 10  1 Bcc kf    -     -         2256   40    0 
+CMorFlops 870542714 12 12 c   c     c     c         2216   70    0 As 7d
+CMorFlops 870542752 11 10 f   -     -     -         2146    0    0 
+CMorFlops 870542802 11  9 cc  f     -     -         2146   30    0 
+CMorFlops 870542857 10  7 cc  kf    -     -         2116   20    0 
+CMorFlops 870542889 11  7 f   -     -     -         2096    0    0 
+CMorFlops 870542927 11  6 f   -     -     -         2096    0    0 
+CMorFlops 870542966 11  5 f   -     -     -         2096    0    0 
+CMorFlops 870543015 11  4 f   -     -     -         2096    0    0 
+CMorFlops 870543049 11  3 f   -     -     -         2096    0    0 
+CMorFlops 870543090 11  2 Bf  -     -     -         2096   10    0 
+CMorFlops 870543155 10  1 Bc  b     b     b         2086   60    0 5d 7c
+CMorFlops 870543242 10 10 f   -     -     -         2026    0    0 
+CMorFlops 870543285  9  8 f   -     -     -         2026    0    0 
+CMorFlops 870543327 10  8 f   -     -     -         2026    0    0 
+CMorFlops 870543385 10  7 f   -     -     -         2026    0    0 
+CMorFlops 870543432 11  7 f   -     -     -         2026    0    0 
+CMorFlops 870543488 11  6 f   -     -     -         2026    0    0 
+CMorFlops 870543540 10  4 f   -     -     -         2026    0    0 
+CMorFlops 870543552 10  3 f   -     -     -         2026    0    0 
+CMorFlops 870543588 10  2 Bk  kf    -     -         2026   10    0 
+CMorFlops 870543614 10  1 Bf  -     -     -         2016    5    0 
+CMorFlops 870543661 10 10 f   -     -     -         2011    0    0 
+CMorFlops 870543696 10  9 f   -     -     -         2011    0    0 
+CMorFlops 870543759 10  8 f   -     -     -         2011    0    0 
+CMorFlops 870543833 10  7 QQ  -     -     -         2011    0    0 
+CMorFlops 870707312  6  5 c   b     b     b         2011   60    0 4s 7s
+CMorFlops 870707399  8  5 c   f     -     -         1951   10    0 
+CMorFlops 870707448  8  4 rc  cc    kc    k         1941   90    0 2c 4c
+CMorFlops 870707578  9  3 c   b     b     b         1851   60    0 Ah 2h
+CMorFlops 870707668 10  2 Bc  kc    k     bc        1791   70    0 9d 8h
+CMorFlops 870707762  9  1 Bf  -     -     -         1721    5    0 
+CMorFlops 870707834 10 10 f   -     -     -         1716    0    0 
+CMorFlops 870707900 10  9 c   f     -     -         1716   20    0 
+CMorFlops 870707987 10  8 f   -     -     -         1696    0    0 
+CMorFlops 870708177  9  6 f   -     -     -         1696    0    0 
+CMorFlops 870708263  7  4 f   -     -     -         1696    0    0 
+CMorFlops 870708305  7  3 rr  r     b     b         1696  100    0 Ac Ks
+CMorFlops 870708365  7  2 Bf  -     -     -         1596   10    0 
+CMorFlops 870708413  7  1 Bf  -     -     -         1586    5    0 
+CMorFlops 870708459  7  7 cc  k     cc    r         1581  130  435 Jh Kc
+CMorFlops 870708580  7  6 c   k     k     f         1886   10    0 
+CMorFlops 870708637  8  6 f   -     -     -         1876    0    0 
+CMorFlops 870708704  8  6 f   -     -     -         1876    0    0 
+CMorFlops 870708733  8  5 c   f     -     -         1876   10    0 
+CMorFlops 870708821  8  4 f   -     -     -         1866    0    0 
+CMorFlops 870708880  8  3 ccc kc    kc    kc        1866   90    0 Td Ac
+CMorFlops 870708944  8  2 Bk  bc    kc    kc        1776   70    0 Ac 9c
+CMorFlops 870709021  6  1 Bf  -     -     -         1706    5    0 
+CMorFlops 870709046  6  6 f   -     -     -         1701    0    0 
+CMorFlops 870709056  6  5 c   c     c     r         1701   80  165 Qc Kd
+CMorFlops 870709086  6  4 f   -     -     -         1786    0    0 
+CMorFlops 870709129  6  3 cc  kc    kc    kc        1786   70  245 Kc 3c
+CMorFlops 870709205  7  2 Bf  -     -     -         1961   10    0 
+CMorFlops 870709257 10  1 Bc  bc    kc    kf        1951   50    0 
+CMorFlops 870709350  9  9 f   -     -     -         1901    0    0 
+CMorFlops 870709404  9  8 f   -     -     -         1901    0    0 
+CMorFlops 870709441  9  7 c   c     f     -         1901   20    0 
+CMorFlops 870709501 10  6 f   QQ    -     -         1881    0    0 
+CMorFlops 870801841 11  9 f   -     -     -         1881    0    0 
+CMorFlops 870801911 12  8 f   -     -     -         1881    0    0 
+CMorFlops 870801961 12  8 c   c     cc    kf        1881   60    0 
+CMorFlops 870802061 12  7 f   -     -     -         1821    0    0 
+CMorFlops 870802126  8  3 f   -     -     -         1821    0    0 
+CMorFlops 870802160  9  3 f   -     -     -         1821    0    0 
+CMorFlops 870802206  9  2 Bc  kf    -     -         1821   30    0 
+CMorFlops 870802274  8  1 Br  bc    kf    -         1791   40    0 
+CMorFlops 870802319  8  8 c   b     b     -         1751   50   95 
+CMorFlops 870802354  8  7 c   f     -     -         1796   20    0 
+CMorFlops 870802393  8  6 r   bc    k     k         1776   40  185 Ah Ac
+CMorFlops 870802463  8  5 c   kf    -     -         1921   10    0 
+CMorFlops 870802530  8  4 cc  k     kc    kc        1911   60  165 6c 7c
+CMorFlops 870802586  8  3 cc  kc    kf    -         2016   30    0 
+CMorFlops 870802649  8  2 Bk  kf    -     -         1986   10    0 
+CMorFlops 870802712  8  1 Bc  k     kc    k         1976   40    0 5d 7d
+CMorFlops 870802775  8  8 c   c     c     c         1936   60  100 Ts 7s
+CMorFlops 870802844  8  7 cc  f     -     -         1976   20    0 
+CMorFlops 870802884  8  6 r   c     k     f         1956   30    0 
+CMorFlops 870802934  8  5 f   -     -     -         1926    0    0 
+CMorFlops 870803032 10  4 f   -     -     -         1926    0    0 
+CMorFlops 870803095 10  3 f   -     -     -         1926    0    0 
+CMorFlops 870803146 10  2 Bf  -     -     -         1926   10    0 
+CMorFlops 870803192 10  1 Bc  kf    -     -         1916   30    0 
+CMorFlops 870803257 10 10 r   c     cc    f         1886  110    0 
+CMorFlops 870803315  9  8 f   -     -     -         1776    0    0 
+CMorFlops 870803402 11  9 f   -     -     -         1776    0    0 
+CMorFlops 870803474 11  8 f   -     -     -         1776    0    0 
+CMorFlops 870803581 11  8 cc  f     -     -         1776   40    0 
+CMorFlops 870803754 10  6 f   -     -     -         1736    0    0 
+CMorFlops 870803883  7  5 cc  k     b     b         1736   60  140 
+CMorFlops 870803909  6  4 c   bc    kc    kf        1816   50    0 
+CMorFlops 870803941  5  2 Bc  kf    -     -         1766   20    0 
+CMorFlops 870803951  5  1 Bc  kf    -     -         1746   20    0 
+CMorFlops 870803977  6  5 f   -     -     -         1726    0    0 
+CMorFlops 870803994  6  4 cc  c     f     -         1726   30    0 
+CMorFlops 870804039  6  3 f   -     -     -         1696    0    0 
+CMorFlops 870804102  5  2 Bc  kc    kcf   -         1696   50    0 
+CMorFlops 870804148  5  1 BQQ -     -     -         1646    5    0 
+CMorFlops 870881316  9  5 c   c     kf    -         1641   20    0 
+CMorFlops 870881437  7  4 c   kf    -     -         1621   10    0 
+CMorFlops 870881527  9  3 f   -     -     -         1611    0    0 
+CMorFlops 870881606 10  2 Bk  kf    -     -         1611   10    0 
+CMorFlops 870881747 10  1 Bc  b     bc    k         1601   60    0 2c 5h
+CMorFlops 870881836 10 10 f   -     -     -         1541    0    0 
+CMorFlops 870881909  8  7 r   b     b     c         1541   80    0 9s Js
+CMorFlops 870881970  8  5 r   bc    kc    kc        1461   80    0 Ks Qs
+CMorFlops 870882062  9  5 c   c     k     k         1381   20    0 Kh 9d
+CMorFlops 870882101  9  4 r   bc    kc    kc        1361   80    0 Kc Qh
+CMorFlops 870882155 10  3 c   b     b     k         1281   40    0 6d Ad
+CMorFlops 870882229 10  2 Bc  b     b     b         1241   70  220 9d 8c
+CMorFlops 870882298  8  1 Bcc kf    -     -         1391   20    0 
+CMorFlops 870882377  8  8 r   c     c     f         1371   50    0 
+CMorFlops 870882428  8  7 f   -     -     -         1321    0    0 
+CMorFlops 870882464  9  7 f   -     -     -         1321    0    0 
+CMorFlops 870882504 10  7 f   -     -     -         1321    0    0 
+CMorFlops 870882525 10  6 f   -     -     -         1321    0    0 
+CMorFlops 870882580 10  5 c   f     -     -         1321   20    0 
+CMorFlops 870882628 10  4 f   -     -     -         1301    0    0 
+CMorFlops 870882674 10  3 r   c     c     k         1301   50    0 Qd Ac
+CMorFlops 870882710  9  2 Br  b     b     b         1251   80  180 
+CMorFlops 870882763  8  1 Br  b     b     kc        1351   70    0 Js 9d
+CMorFlops 870882808  8  8 f   -     -     -         1281    0    0 
+CMorFlops 870882859  7  6 c   kf    -     -         1281   20    0 
+CMorFlops 870882891  9  7 c   b     b     b         1261   60  115 
+CMorFlops 870882929  8  6 c   f     -     -         1316   20    0 
+CMorFlops 870882942  9  5 f   -     -     -         1296    0    0 
+CMorFlops 870882981  9  4 r   b     b     -         1296   50   95 
+CMorFlops 870883071  7  2 c   b     -     -         1341   20   50 
+CMorFlops 870883093  7  2 Bc  kf    -     -         1371   20    0 
+CMorFlops 870883126  7  1 Bc  k     kc    kf        1351   30    0 
+CMorFlops 870883178  8  7 c   f     -     -         1321   20    0 
+CMorFlops 870883204  8  6 c   c     k     c         1301   50  190 Ks 8s
+CMorFlops 870883260  8  5 f   -     -     -         1441    0    0 
+CMorFlops 870883297  8  4 c   b     -     -         1441   20   55 
+CMorFlops 870883446  6  2 Bk  b     -     -         1476   20   30 
+CMorFlops 870883464  5  1 Bc  kf    -     -         1486   10    0 
+CMorFlops 870883511  5  5 r   -     -     -         1476   20   35 
+CMorFlops 870883517  5  4 f   QQ    -     -         1491    0    0 

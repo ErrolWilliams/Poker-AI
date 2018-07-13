@@ -1,0 +1,89 @@
+rborder5  906785677 10  6 f   -     -     -         1000    0    0 
+rborder5  906785789  9  5 f   -     -     -         1000    0    0 
+rborder5  906785844  9  4 f   -     -     -         1000    0    0 
+rborder5  906785891  9  3 cc  kc    krc   krr       1000  170  395 Ks 9s
+rborder5  906785948  9  2 Bf  -     -     -         1225   10    0 
+rborder5  906785990  8  1 Bf  -     -     -         1215    5    0 
+rborder5  906786005  8  8 cc  f     -     -         1210   20    0 
+rborder5  906786050  9  8 f   -     -     -         1190    0    0 
+rborder5  906786074  9  7 f   -     -     -         1190    0    0 
+rborder5  906786135  9  6 f   -     -     -         1190    0    0 
+rborder5  906786234  8  5 f   -     -     -         1190    0    0 
+rborder5  906786279  8  4 c   k     k     k         1190   10    0 Ah 4h
+rborder5  906786325  8  3 f   -     -     -         1180    0    0 
+rborder5  906786368  9  2 Bk  cc    k     kf        1180   30    0 
+rborder5  906786472  9  1 Bf  -     -     -         1150    5    0 
+rborder5  906786558  9  9 f   -     -     -         1145    0    0 
+rborder5  906786653  8  7 f   -     -     -         1145    0    0 
+rborder5  906786728  7  5 cf  -     -     -         1145   10    0 
+rborder5  906786833  7  4 f   -     -     -         1135    0    0 
+rborder5  906786868  7  3 f   -     -     -         1135    0    0 
+rborder5  906786904  7  2 Bf  -     -     -         1135   10    0 
+rborder5  906786980 10  1 Bc  kf    -     -         1125   10    0 
+rborder5  906787062 10 10 f   -     -     -         1115    0    0 
+rborder5  906787144 10  9 f   -     -     -         1115    0    0 
+rborder5  906787180 10  8 f   -     -     -         1115    0    0 
+rborder5  906787372 10  7 f   -     -     -         1115    0    0 
+rborder5  906787470 10  6 f   -     -     -         1115    0    0 
+rborder5  906787581 10  5 cc  b     b     k         1115   50    0 Th Ah
+rborder5  906787692 10  4 ccc kc    k     kf        1065   60    0 
+rborder5  906787821  9  3 cc  kf    -     Q         1005   20    0 
+rborder5  906790595 10  2 Bk  kf    -     -          985   10    0 
+rborder5  906790635 10  1 Bc  b     kf    -          975   20    0 
+rborder5  906790724 10 10 f   -     -     -          955    0    0 
+rborder5  906790776 10  9 c   kc    kf    -          955   20    0 
+rborder5  906790860 10  8 r   r     c     k          935   60    0 Js Jc
+rborder5  906790921  9  6 f   -     -     -          875    0    0 
+rborder5  906790957  9  5 f   -     -     -          875    0    0 
+rborder5  906790980 10  4 r   brc   kcc   kcc        875  220    0 Ac Ks
+rborder5  906791053 10  3 r   kf    -     -          655   20    0 
+rborder5  906791082 10  2 BQ  -     -     -          635   10    0 
+rborder5  906868655  4  2 Br  br    k     b          625   80  145 
+rborder5  906868699  4  1 Br  k     b     b          690   60  140 Jh Ah
+rborder5  906868740  4  4 f   -     -     -          770    0    0 
+rborder5  906868774  4  3 cc  rr    r     k          770  100  220 5c Ts
+rborder5  906868817  4  2 Bc  k     b     -          890   40   65 
+rborder5  906868852  4  1 Bc  kc    kc    kc         915   60    0 As 2h
+rborder5  906868890  4  4 c   c     b     k          855   40    0 3h Kd
+rborder5  906868932  4  3 c   b     -     -          815   20   40 
+rborder5  906868980  4  2 Bc  k     b     -          835   40   85 
+rborder5  906869017  4  1 Br  k     b     b          880   60  100 
+rborder5  906869038  4  4 f   -     -     -          920    0    0 
+rborder5  906869047  4  3 f   -     -     -          920    0    0 
+rborder5  906869071  4  2 Bf  -     -     -          920   10    0 
+rborder5  906869117  4  1 Br  k     br    -          910   80  140 
+rborder5  906869154  4  4 f   -     -     -          970    0    0 
+rborder5  906869176  4  3 c   k     c     b          970   50  110 Jd Qc
+rborder5  906869206  4  2 Bk  kc    kc    kc        1030   60    0 8d 6d
+rborder5  906869242  4  1 Br  kr    k     b          970   60  130 Jh 9h
+rborder5  906869355  3  3 cc  k     f     -         1040   20    0 
+rborder5  906869376  3  3 r   -     -     -         1020   20   35 
+rborder5  906869382  3  2 Bc  r     b     b         1035   80    0 8h 6h
+rborder5  906869415  3  1 Bc  k     b     -          955   30   50 
+rborder5  906869450  3  3 f   -     -     -          975    0    0 
+rborder5  906869461  3  2 Bc  rr    r     b          975  120    0 7h 7c
+rborder5  906869496  3  1 Bc  kf    -     -          855   10    0 
+rborder5  906869518  3  3 r   b     -     -          845   30   70 
+rborder5  906869536  3  2 Bk  kf    -     -          885   10    0 
+rborder5  906869550  3  1 Bc  kr    -     -          875   30   60 
+rborder5  906869566  3  3 c   b     -     -          905   20   35 
+rborder5  906869587  3  2 Br  b     b     k          920   50  100 Qh Qd
+rborder5  906869610  3  1 Bf  -     -     -          970    5    0 
+rborder5  906869623  3  3 r   k     f     -          965   20    0 
+rborder5  906869652  3  2 Br  bf    -     -          945   30    0 
+rborder5  906869667  3  1 Bc  k     b     -          915   30   50 
+rborder5  906869685  4  3 f   -     -     -          935    0    0 
+rborder5  906869724  5  2 Bc  kf    -     -          935   20    0 
+rborder5  906869760  5  1 Bc  k     kf    -          915   10    0 
+rborder5  906869789  5  5 f   -     -     -          905    0    0 
+rborder5  906869814  5  4 f   -     -     -          905    0    0 
+rborder5  906869848  5  3 c   b     b     k          905   40    0 7c Js
+rborder5  906869888  6  3 f   -     -     -          865    0    0 
+rborder5  906869925  5  2 Bk  kf    -     -          865   10    0 
+rborder5  906869947  5  1 Br  k     b     b          855   60  100 
+rborder5  906869973  5  5 c   b     b     -          895   40   75 
+rborder5  906869997  5  4 f   -     -     -          930    0    0 
+rborder5  906870032  4  2 Bc  kc    kr    kc         930   90    0 8c Qd
+rborder5  906870058  4  1 Bc  kf    -     -          840   20    0 
+rborder5  906870098  4  4 f   -     -     -          820    0    0 
+rborder5  906870135  5  4 c   f     Q     -          820   10    0 

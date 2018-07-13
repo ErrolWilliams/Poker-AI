@@ -1,0 +1,122 @@
+wishbone1 846959006  5  4 f   -     -     -          425    0    0 
+wishbone1 846959057  5  3 f   -     -     -          425    0    0 
+wishbone1 846959108  5  2 Bk  kc    b     b          425   60  115 
+wishbone1 846959164  5  1 Bc  kc    k     k          480   20    0 6d 3d
+wishbone1 846959235  5  5 c   f     -     -          460   10    0 
+wishbone1 846959286  5  4 f   -     -     -          450    0    0 
+wishbone1 846959336  5  3 f   -     -     -          450    0    0 
+wishbone1 846959377  5  2 Bc  kc    kcc   k          450  100  320 2s 6s
+wishbone1 846959437  5  1 Bc  kc    f     -          670   20    0 
+wishbone1 846959496  5  5 f   -     -     -          650    0    0 
+wishbone1 846959520  7  6 c   kc    f     -          650   20    0 
+wishbone1 846959570  9  3 Q   -     -     -          630    0    0 
+wishbone1 846960525 10  3 cc  f     -     -          630   20    0 
+wishbone1 846960658 10  2 Bcc kc    f     -          610   50    0 
+wishbone1 846960727 11  1 Bc  f     -     -          560   20    0 
+wishbone1 846960831 10 10 c   f     -     Q          540   30    0 
+wishbone1 847036913  7  7 c   c     c     r          510   90  205 5d 4d
+wishbone1 847036960  7  6 f   -     -     -          625    0    0 
+wishbone1 847036982  7  5 f   -     -     -          625    0    0 
+wishbone1 847037011  7  4 cc  c     r     k          625   70    0 Ad 2d
+wishbone1 847037044  7  3 c   kcc   k     k          555   50  160 Qc 4c
+wishbone1 847037105  8  2 Bc  f     -     -          665   20    0 
+wishbone1 847037147  9  1 Bc  kc    k     k          645   30    0 Ah 4c
+wishbone1 847037201  9  9 cc  c     c     b          615   90  285 3h 3s
+wishbone1 847037262  9  8 f   -     -     -          810    0    0 
+wishbone1 847037302  8  6 f   -     -     -          810    0    0 
+wishbone1 847037356  8  5 f   -     -     -          810    0    0 
+wishbone1 847037396  9  5 c   f     -     -          810   20    0 
+wishbone1 847037450 10  4 cc  kc    kc    kc         790   70    0 Ah 4c
+wishbone1 847037515 10  2 f   -     -     -          720    0    0 
+wishbone1 847037560 10  2 Br  kc    kc    kc         720   70    0 Kd Ah
+wishbone1 847037661 12  1 Bc  kc    kc    kc         650   70    0 5s 7s
+wishbone1 847037721 11 11 c   f     -     -          580   20    0 
+wishbone1 847037759 11 10 c   c     f     -          560   20    0 
+wishbone1 847037799 12 10 c   c     c     c          540   80    0 8s Ac
+wishbone1 847037870 12  9 rc  c     f     -          460   50    0 
+wishbone1 847037951 12  8 cc  rc    c     c          410  110  325 7d Kd
+wishbone1 847038007 12  8 f   -     -     -          625    0    0 
+wishbone1 847038086 11  7 cc  f     -     -          625   40    0 
+wishbone1 847038175  9  4 f   -     -     -          585    0    0 
+wishbone1 847038233  9  3 f   -     -     -          585    0    0 
+wishbone1 847038290  7  2 Bc  r     b     b          585   80  160 Ac 5s
+wishbone1 847038342  6  1 Bf  -     -     -          665    5    0 
+wishbone1 847038411  6  6 f   -     -     -          660    0    0 
+wishbone1 847038429  6  5 f   -     -     -          660    0    0 
+wishbone1 847038457  6  4 f   -     -     -          660    0    0 
+wishbone1 847038490  6  3 cc  rr    r     k          660  110    0 Kh 3d
+wishbone1 847038547  6  2 Bf  -     -     -          550   10    0 
+wishbone1 847038561  6  1 Bcc f     -     -          540   40    0 
+wishbone1 847038620  6  6 f   -     -     -          500    0    0 
+wishbone1 847038654  6  5 c   f     -     -          500   20    0 
+wishbone1 847038691  6  4 r   b     b     k          480   50  125 Ks Ts
+wishbone1 847038731  6  3 f   -     -     -          555    0    0 
+wishbone1 847038780  6  2 Bk  b     b     bc         555   80    0 9h Kd
+wishbone1 847038821  6  1 Bc  k     kc    kc         475   50    0 5h As
+wishbone1 847038877  6  6 f   -     -     -          425    0    0 
+wishbone1 847038891  6  5 c   c     k     k          425   30    0 Ks 8d
+wishbone1 847038922  6  4 f   -     -     -          395    0    0 
+wishbone1 847038935  6  3 c   brc   b     bc         395  110    0 Qc Ts
+wishbone1 847039018  6  2 Bc  cc    kf    -          285   40    0 
+wishbone1 847039091  6  1 Bf  -     -     -          245    5    0 
+wishbone1 847039150  6  6 f   -     -     -          240    0    0 
+wishbone1 847039181  6  5 f   -     -     -          240    0    0 
+wishbone1 847039203  6  4 cc  f     -     -          240   40    0 
+wishbone1 847039268  6  3 c   k     k     k          200   10    0 Jh Ts
+wishbone1 847039324  6  2 Bk  c     k     k          190   20   40 Ts Js
+wishbone1 847039358  6  1 Bf  -     -     -          210    5    0 
+wishbone1 847039395  6  6 f   -     -     -          205    0    0 
+wishbone1 847039448  6  5 f   -     -     -          205    0    0 
+wishbone1 847039494  6  4 f   -     -     -          205    0    0 
+wishbone1 847039516  6  3 c   kc    kc    kc         205   60    0 8d Ac
+wishbone1 847039566  6  2 B   -     -     -          145   10   15 
+wishbone1 847039579  6  1 Br  b     k     kc         150   60    0 Ts Ac
+wishbone1 847039711  5  5 r   b     k     f           90   40    0 
+wishbone1 847039758  5  4 f   -     -     -           50    0    0 
+wishbone1 847039780  5  3 r   -     -     -           50   20   35 
+wishbone1 847039791  5  2 Br  brcA  -     -           65   65  135 As Ks
+wishbone1 847039821  5  1 Br  bc    k     k          135   40    0 3d Kh
+wishbone1 847039859  5  5 f   -     -     -           95    0    0 
+wishbone1 847039898  5  4 f   -     -     -           95    0    0 
+wishbone1 847039935  5  3 f   -     -     -           95    0    0 
+wishbone1 847039951  5  2 Bk  b     -     -           95   20   35 
+wishbone1 847039975  5  1 Br  brrc  bcA   -          110  110    0 Jc Kd
+wishbone1 847051743 10  3 f   -     -     -         1000    0    0 
+wishbone1 847051799 10  2 Bc  f     -     -         1000   20    0 
+wishbone1 847051860 10  1 Bc  f     -     -          980   10    0 
+wishbone1 847051941 11 10 c   k     k     b          970   30   80 
+wishbone1 847052074 10  8 c   f     -     -         1020   10    0 
+wishbone1 847052143 11  7 cc  kc    kc    fQ        1010   60    0 
+wishbone1 847056375 12 10 cc  f     -     -          950   20    0 
+wishbone1 847056456 11  9 f   Q     -     -          930    0    0 
+wishbone1 847092669  4  4 f   -     -     -          930    0    0 
+wishbone1 847092689  4  3 f   -     -     -          930    0    0 
+wishbone1 847092732  4  2 Bc  b     -     -          930   30   55 
+wishbone1 847092759  4  1 Br  kf    -     -          955   30    0 
+wishbone1 847092788  4  4 c   c     c     c          925   60    0 Kh 5s
+wishbone1 847092826  3  3 f   -     -     -          865    0    0 
+wishbone1 847092837  3  2 Br  k     b     -          865   40   60 
+wishbone1 847092886  3  1 Br  kc    k     k          885   30   30 As 7s
+wishbone1 847092944  3  3 fQ  -     -     -          885    0    0 
+wishbone1 847523947 11  3 f   -     -     -          885    0    0 
+wishbone1 847524078 11  2 Bf  -     -     -          885   10    0 
+wishbone1 847524205 12  1 Bcc kc    kf    -          875   50    0 
+wishbone1 847524396 12 12 f   -     -     -          825    0    0 
+wishbone1 847524519 12 11 c   k     c     f          825   40    0 
+wishbone1 847524649 11  9 f   -     -     -          785    0    0 
+wishbone1 847524829 12  9 f   -     -     -          785    0    0 
+wishbone1 847524948 11  7 c   cc    c     k          785   50  260 Qd Kc
+wishbone1 847525100 11  6 c   c     cf    -          995   60    0 
+wishbone1 847525255 11  5 f   -     -     -          935    0    0 
+wishbone1 847525390  9  4 f   -     -     -          935    0    0 
+wishbone1 847525479  9  2 Bk  kf    -     -          935   10    0 
+wishbone1 847525618  9  1 Bc  k     kf    -          925   20    0 
+wishbone1 847525757 10 10 f   -     -     -          905    0    0 
+wishbone1 847525856 10  9 c   k     c     c          905   70    0 8s Ah
+wishbone1 847525959 10  9 c   f     -     -          835   10    0 
+wishbone1 847526003 10  8 c   k     kc    k          825   30    0 7d 6h
+wishbone1 847526185 11  7 f   -     -     -          795    0    0 
+wishbone1 847526289 12  6 f   -     -     -          795    0    0 
+wishbone1 847526431 10  4 f   -     -     -          795    0    0 
+wishbone1 847526509  9  5 f   -     -     -          795    0    0 
+wishbone1 847526646  5  1 BKQ -     -     -          795   10    0 

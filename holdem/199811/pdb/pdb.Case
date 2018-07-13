@@ -1,0 +1,868 @@
+Case      910020623  8  2 Bk  kf    -     -          735   10    0 
+Case      910020671  8  1 Bcc kc    kc    kf         725   70    0 
+Case      910020756  9  8 c   k     f     -          655   20    0 
+Case      910020798  9  8 c   c     c     r          635  100  190 Kc Jd
+Case      910020864  9  7 r   c     rc    rr         725  180  445 Jd Jc
+Case      910020953  9  7 c   -     -     -          990   10   25 
+Case      910021599  6  3 Q   -     -     -         1005    0    0 
+Case      910029980 10  9 r   b     b     k         1005   50  110 Ts Tc
+Case      910030010  9  7 ccc bc    kc    kc        1065  100    0 4h Th
+Case      910030060  9  6 cc  bc    kc    kc         965  100  290 Jc 6h
+Case      910030098  9  5 cc  kf    -     -         1155   40    0 
+Case      910030145  9  4 cc  kc    kf    -         1115   50    0 
+Case      910030199  9  3 rc  kc    b     b         1065   90    0 2c 2d
+Case      910030282  9  2 Bcc b     bc    kcf        975  110    0 
+Case      910030357  9  1 Bc  kc    bc    kc         865   90    0 Ts 5h
+Case      910030433  9  9 cc  b     b     b          775   70  190 6h Qc
+Case      910030502  9  8 c   r     k     c          895   50    0 Jh 3h
+Case      910030537  9  7 c   kc    kc    kc         845   60  145 5s 4d
+Case      910030586  9  6 cc  cc    k     cc         930  100    0 8c Td
+Case      910030647  9  5 r   k     r     k          830   60    0 Kd Kh
+Case      910030687  9  4 c   kc    kc    kc         770   60    0 8s 9c
+Case      910030769  9  3 cc  r     k     c          710   60    0 8d 7c
+Case      910030820 10  2 Bcc k     f     -          650   30    0 
+Case      910030878 10  1 Bc  kc    kc    k          620   50  130 2c 9c
+Case      910030919  9  9 rc  k     c     c          700   80    0 6s 6c
+Case      910030969  8  7 cc  kc    k     kc         620   70    0 Qc 9d
+Case      910031028  8  6 c   kcc   c     f          550   80    0 
+Case      910031088  8  5 cc  k     k     k          470   20    0 7s 9s
+Case      910031136  8  4 c   k     kc    kc         450   50    0 3h Kh
+Case      910031188  8  3 cc  kc    kc    kc         400   70    0 8s 6h
+Case      910031241  8  2 Bc  kc    kcc   f          330  110    0 
+Case      910031325  7  1 Bcc bc    bc    b          220  120  320 4h 7h
+Case      910031380  8  8 c   c     f     -          420   30    0 
+Case      910031414  9  8 cc  c     k     c          390   70  101 Th Ks
+Case      910031481  9  7 ccc kc    f     -          421   50    0 
+Case      910031581  9  6 cc  k     f     -          371   20    0 
+Case      910031617  9  5 ccc kf    -     -          351   40    0 
+Case      910031694  9  4 ccc kc    kcc   kf         311   90    0 
+Case      910031755  8  3 c   k     c     f          221   30    0 
+Case      910031801  9  2 Bc  kc    k     k          191   30   40 Qs 7h
+Case      910031828  8  1 BQ  -     -     -          201    5    0 
+Case      910057178 10  3 c   kf    -     -          196   10    0 
+Case      910057234 10  2 Bcc kc    c     kf         186   90    0 
+Case      910057331 10  1 Bc  kc    kccA  -           96   96    0 Jd 5s
+Case      910104352 10  6 c   k     b     b         1000   60  340 Kd 8s
+Case      910104415 10  5 c   k     kf    -         1280   10    0 
+Case      910104486  9  4 c   b     b     k         1270   40  140 Qh Ts
+Case      910104539 10  3 c   kc    kc    f         1370   40    0 
+Case      910104585  9  2 Bk  brc   bc    k         1330   90    0 8d 2s
+Case      910104636  9  1 Bc  br    b     bc        1240  110    0 Ac 2d
+Case      910104684  9  9 c   c     c     f         1130   50    0 
+Case      910104733  9  8 c   kc    k     kf        1080   30    0 
+Case      910104822  9  7 r   b     b     b         1050   70  165 
+Case      910104876  9  6 c   c     b     rc        1145  110    0 7h 3d
+Case      910104932  9  5 cc  kf    -     -         1035   20    0 
+Case      910105025 10  4 c   k     k     f         1015   10    0 
+Case      910105095  9  3 cc  kc    kc    k         1005   50    0 Jd 4s
+Case      910105147  9  2 Bk  kc    kc    kf         955   40    0 
+Case      910105197  8  1 Bc  kf    -     -          915   10    0 
+Case      910105242  8  8 c   k     c     k          905   40    0 Qh 7s
+Case      910105289  8  7 c   c     k     k          865   40   80 8c Kd
+Case      910105319  8  6 c   c     k     k          905   20    0 8d 9h
+Case      910105355  8  5 cc  k     kc    cc         885   80    0 Qh 3s
+Case      910105433  8  4 c   k     kf    -          805   10    0 
+Case      910105488  9  3 c   kc    kc    kc         795   60    0 Jd 3h
+Case      910105531  9  2 Bk  k     b     b          735   50   85 
+Case      910105575  8  1 Bc  k     b     k          770   30   70 5d Ks
+Case      910105608  8  8 c   c     k     f          810   30    0 
+Case      910105650  8  7 c   kc    c     f          780   40    0 
+Case      910105718  8  6 c   k     k     c          740   30    0 9s Tc
+Case      910105762  8  5 c   k     k     k          710   10    0 2c 3s
+Case      910105831  8  4 r   k     b     -          700   50  145 
+Case      910105865  8  3 c   k     k     b          795   30   50 
+Case      910105901  8  2 Bc  bc    k     bc         815   80  113 9s Ah
+Case      910105951  7  1 Bc  b     b     b          848   60  120 7s Ad
+Case      910105981  7  7 c   b     b     k          908   40    0 Jh 9h
+Case      910106026  7  6 r   bc    kc    c          868   80    0 Td Th
+Case      910106080  7  5 f   -     -     -          788    0    0 
+Case      910106130  8  5 rc  rc    k     k          788   70  325 Qc Qd
+Case      910106274  9  4 c   r     kc    k         1043   50    0 6h 7d
+Case      910106343  8  3 c   k     k     kf         993   10    0 
+Case      910106428  8  2 Bc  kc    kc    kf         983   50    0 
+Case      910106485  8  1 Bc  kc    bc    b          933  100  410 5c 7c
+Case      910106548 10 10 c   k     Q     -         1243   10    0 
+Case      910112079 10  9 cc  k     cf    -         1233   60    0 
+Case      910112166 10  8 cc  k     f     -         1173   20    0 
+Case      910112260 10  7 cc  cc    kc    kf        1153   60    0 
+Case      910112310 10  6 cc  kcc   kf    -         1093   80    0 
+Case      910112418 10  5 cc  bc    b     -         1013   60  165 
+Case      910112459  7  3 c   b     kc    kc        1118   60    0 5d 7s
+Case      910112541  8  2 Bc  kc    f     -         1058   30    0 
+Case      910112634  7  1 Bc  kc    kc    bc        1028   90    0 3h Td
+Case      910112669  7  7 c   c     f     -          938   30    0 
+Case      910112705  7  6 ccc kc    kf    -          908   50    0 
+Case      910112749  7  5 r   -     -     -          858   20   35 
+Case      910112755  7  4 c   b     -     -          873   20   40 
+Case      910112765  7  3 cc  b     k     c          893   50    0 Qc 2h
+Case      910112797  8  2 Bc  kc    kc    kc         843   70    0 Th Jd
+Case      910112852  8  1 Bc  kc    kf    -          773   30    0 
+Case      910112883  7  7 c   k     c     Q          743   30    0 
+Case      910283551  7  5 c   k     f     -          248   10    0 
+Case      910283573  8  5 c   kc    b     bc         238   80  190 Jh 5s
+Case      910283619  9  5 c   r     b     b          348   80  305 Tc Qc
+Case      910283678  9  4 c   b     b     -          573   40   85 
+Case      910283719  9  3 c   k     rc    kc         618  110    0 Jc 3s
+Case      910283763 10  3 c   k     bc    k          508   50  150 Kd 8d
+Case      910283813 10  2 Bk  k     c     c          608   50    0 Ac Qs
+Case      910283863 10  1 Bc  k     kf    -          558   10    0 
+Case      910283916 10 10 c   k     rc    c          548   90    0 2s 6h
+Case      910283960 10  9 c   f     -     -          458   10    0 
+Case      910284018 10  8 c   kc    c     c          448   60    0 Qd 7h
+Case      910284088  8  6 c   k     f     -          388   10    0 
+Case      910284130  8  5 r   c     r     k          378   70    0 Kd As
+Case      910284223  8  4 c   k     b     -          308   30   45 
+Case      910284266  7  3 cc  cc    bc    c          323  110    0 6h 9d
+Case      910284343  8  2 Bc  kc    k     kf         213   30    0 
+Case      910284405  8  1 BfQ -     -     -          183    5    0 
+Case      910286378  9  1 Bc  kc    kc    kf         178   60    0 
+Case      910286459  9  9 cc  f     -     -          118   20    0 
+Case      910286519  9  8 r   k     k     b           98   40  115 9s 9d
+Case      910286559  9  7 c   k     k     k          173   10   12 6h Jh
+Case      910286583 10  7 c   k     c     f          175   30    0 
+Case      910286620 10  6 cc  c     k     k          145   30    0 Ks 6s
+Case      910286682 10  5 rc  kc    kc    kf         115   60    0 
+Case      910286749 10  4 cc  rc    cA    -           55   55    0 7c 9c
+Case      910298551  9  8 c   bc    c     c         1000   70    0 7c Ks
+Case      910298611  9  7 cc  cc    f     -          930   60    0 
+Case      910298695  9  6 c   cc    c     c          870   80    0 8c 3c
+Case      910298814  9  5 c   kc    kc    k          790   40    0 6c 9h
+Case      910298884  9  4 c   cc    f     -          750   40    0 
+Case      910298948  9  3 c   k     cc    kf         710   50    0 
+Case      910299007  9  2 Bc  k     bc    kc         660   80    0 Ts 3h
+Case      910299056  9  1 Bc  kc    kf    -          580   30    0 
+Case      910299122  8  8 cc  f     -     -          550   20    0 
+Case      910299187  9  7 c   c     k     c          530   40    0 9s 4c
+Case      910299242  9  6 c   kc    kf    -          490   40    0 
+Case      910299310  8  4 c   k     c     c          450   50    0 5c 4d
+Case      910299358  9  3 cc  c     k     k          400   30    0 4d 5h
+Case      910299422 10  2 Bk  kc    kc    kc         370   60  150 Kc 8c
+Case      910299481 10  1 Bc  kcc   kc    kc         460   90    0 Qd As
+Case      910299552 10 10 c   c     c     c          370   70    0 As Kh
+Case      910299646 10  9 c   f     -     -          300   20    0 
+Case      910299702 10  8 c   c     k     b          280   40  100 6d 5h
+Case      910299781 10  7 c   cc    b     b          340   90  435 4h Ad
+Case      910299879 10  6 cc  kc    c     f          685   50    0 
+Case      910299949 10  5 c   c     c     c          635   60    0 Qs 4c
+Case      910300021  9  3 cc  k     kf    -          575   30    0 
+Case      910300081 10  3 cc  c     c     f          545   70    0 
+Case      910300148 10  2 Bc  kcc   kf    -          475   80    0 
+Case      910300223 10  1 Bcc kc    kc    kc         395  100    0 Qc Td
+Case      910300326 10 10 cc  c     Q     -          295   60    0 
+Case      910360433  8  7 cc  f     -     -          235   40    0 
+Case      910360474  8  6 c   k     b     b          195   50  100 
+Case      910360505  8  5 rc  bc    bc    k          245   90    0 4d Ad
+Case      910360546  7  3 cc  kc    bc    bcA        155  155    0 Jd 4s
+Case      910360642  7  6 cc  c     c     c         1000   90    0 Kh Qh
+Case      910360699  8  5 c   kc    kc    kf         910   60    0 
+Case      910360757  8  4 f   -     -     -          850    0    0 
+Case      910360801  8  3 c   k     k     k          850   10   12 6s 8c
+Case      910360849  8  2 Bcc kc    kc    kf         852   80    0 
+Case      910360903  8  1 Bf  -     -     -          772    5    0 
+Case      910360978  7  7 c   c     rc    c          767  110    0 Js 4h
+Case      910361015  7  7 c   rc    c     r          657  120  460 2c Tc
+Case      910361061  7  5 cc  f     -     -          997   30    0 
+Case      910361114  8  5 c   kc    c     r          967   90  270 3h 4s
+Case      910361233  9  4 c   b     k     k         1147   20    0 Jd 9d
+Case      910361282  9  3 cc  c     k     c         1127   70    0 8c Tc
+Case      910361351 10  2 Bcc kc    kc    kc        1057   90    0 6s Ah
+Case      910361458 10  1 Bc  k     k     br         967   70   70 Kh 2d
+Case      910361504  9  9 cc  k     r     b          967   80  225 As Jh
+Case      910361576 10  9 c   c     c     c         1112   80    0 7d 2h
+Case      910361625 10  8 cc  kc    kf    -         1032   30    0 
+Case      910361685  9  6 cc  c     f     -         1002   30    0 
+Case      910361735 10  6 cc  kf    -     -          972   20    0 
+Case      910361751 10  5 ccc bc    ccc   kc         952  160    0 Qc Qd
+Case      910361817  9  4 cc  kf    -     -          792   20    0 
+Case      910361878 10  3 cc  f     -     -          772   30    0 
+Case      910361916 10  2 Bc  kc    kf    -          742   30    0 
+Case      910361973  9  1 Bcc kcc   kcf   -          712  120    0 
+Case      910362028 10 10 cc  c     c     c          592   70  125 5h As
+Case      910362084 10  9 c   c     c     f          647   40    0 
+Case      910362142  9  7 cc  ccc   ccc   f          607  160    0 
+Case      910362207 10  6 c   f     -     -          447   20    0 
+Case      910362233 10  5 f   -     -     -          427    0    0 
+Case      910362277 10  4 f   -     -     -          427    0    0 
+Case      910362312 10  3 f   -     -     -          427    0    0 
+Case      910362356 10  2 Bk  c     cc    f          427   60    0 
+Case      910362412 10  1 Bc  kcc   kcc   kc         367  110    0 3s Ah
+Case      910362523 10 10 c   c     f     -          257   30    0 
+Case      910362571 10  7 Q   -     -     -          227    0    0 
+Case      910371549 10  1 BQ  -     -     -          227    5    0 
+Case      910385540  9  4 KQ  -     -     -          222    0    0 
+Case      910386130 10 10 c   c     c     c          222   90    0 Ks Th
+Case      910386193  9  9 c   c     c     k          132   40    0 8c Ah
+Case      910386261 10  8 cKQ -     -     -           92   10    0 
+Case      910622389  8  8 c   c     c     f          752   50    0 
+Case      910622432  8  6 c   f     -     -          702   20    0 
+Case      910622461  8  5 c   c     r     b          682   90  290 Th 4h
+Case      910622512  9  4 c   kQ    -     -          882   10    0 
+Case      910628240  4  4 c   c     f     -          862   20    0 
+Case      910628253  4  3 c   k     k     k          842   10    0 8c 5h
+Case      910628270  4  2 Bk  k     k     b          832   30    0 2h 6d
+Case      910628309  4  1 Bc  kc    k     kf         802   20    0 
+Case      910628328  4  4 c   f     -     -          782   10    0 
+Case      910628341  4  3 c   r     b     b          772   70  150 
+Case      910628362  4  2 Bk  k     b     bc         852   70    0 7d Kc
+Case      910628385  5  1 Bc  kc    kc    k          782   50    0 2h 7h
+Case      910628416  5  5 c   r     r     b          732   90  190 8h 9c
+Case      910628464  6  4 cc  kc    kc    kf         832   60    0 
+Case      910628514  5  3 c   c     f     -          772   20    0 
+Case      910628546  4  2 Bk  cc    cc    k          752   70    0 Ks 7h
+Case      910628577  4  1 Br  bc    kc    kc         682   80    0 9s 9d
+Case      910628603  4  4 c   b     -     -          602   20   50 
+Case      910628618  4  3 cc  kc    kf    -          632   30    0 
+Case      910628651  4  2 Bc  kc    kf    -          602   30    0 
+Case      910628659  4  1 Bf  -     -     -          572    5    0 
+Case      910628670  4  4 cc  c     c     c          567   70    0 6d Kh
+Case      910628690  4  3 f   -     -     -          497    0    0 
+Case      910628702  4  2 Bk  k     k     k          497   10   30 Tc 4d
+Case      910628728  4  1 Bcc kc    kc    kc         517   70    0 4s 6s
+Case      910628755  4  4 cc  c     f     -          447   30    0 
+Case      910628779  4  3 f   -     -     -          417    0    0 
+Case      910628788  4  2 Br  b     b     b          417   80  145 
+Case      910628804  4  1 Bc  kc    kc    k          482   50    0 5c 5h
+Case      910628836  4  4 c   k     k     b          432   30   45 
+Case      910628854  4  3 c   k     b     b          447   50  100 
+Case      910628884  4  2 Bc  b     b     b          497   70  125 
+Case      910628913  3  1 Bc  kc    kf    -          552   30    0 
+Case      910628932  3  3 c   c     f     -          522   20    0 
+Case      910628941  3  2 Bk  c     f     -          502   20    0 
+Case      910628952  3  1 Bc  kc    k     k          482   30   70 Ah 6h
+Case      910628964  3  3 c   k     k     f          522   10    0 
+Case      910628994  3  2 Bk  kc    kc    kc         512   60    0 3h Qh
+Case      910629017  3  1 Bc  kc    kc    kc         452   60    0 Th 2h
+Case      910629044  3  3 c   k     k     b          392   30   50 
+Case      910629066  3  2 Bk  r     c     k          412   50    0 7s As
+Case      910629091  4  1 BQ  -     -     -          362    5    0 
+Case      910632899 10  4 cc  kc    kc    k          357   50    0 4s 5d
+Case      910632975 10  3 f   -     -     -          307    0    0 
+Case      910633024 10  2 Bc  kc    kc    kf         307   50    0 
+Case      910633075 10  1 Bc  k     kc    k          257   50    0 Ac 8d
+Case      910633163 10 10 c   c     f     -          207   20    0 
+Case      910633265  9  8 c   c     k     k          187   20    0 6h 7h
+Case      910633356  9  7 c   kc    kc    k          167   40    0 2h Js
+Case      910633432  9  6 cc  c     k     kf         127   50    0 
+Case      910633523  8  4 c   c     c     c           77   60    0 Jc Qh
+Case      910633570  9  3 f   -     -     -           17    0    0 
+Case      910633638 10  2 Bk  kcA   -     -           17   17    0 Th 9h
+Case      910633786  9  9 c   k     k     k         1000   10   25 7s Jd
+Case      910633833  9  8 c   k     c     f         1015   30    0 
+Case      910633887  9  7 cc  c     c     c          985   90    0 As 4h
+Case      910633930 10  6 cc  ccc   cc    f          895  140    0 
+Case      910633997 10  5 c   k     kf    -          755   10    0 
+Case      910634076  8  3 cc  kc    kc    k          745   60    0 4h Qh
+Case      910634140  8  3 ccc k     k     k          685   40    0 7c Qd
+Case      910634222  8  2 Bk  kc    kc    kc         645   60    0 5c Kc
+Case      910634285 10  1 Bc  kc    kc    kf         585   70    0 
+Case      910634415 10 10 c   c     f     -          515   30    0 
+Case      910634473 10  9 c   c     c     f          485   50    0 
+Case      910634545 10  8 c   c     k     fQ         435   20    0 
+Case      910635532 10  8 cc  c     c     c          415   70  175 Td Kd
+Case      910635618 10  7 c   c     rc    c          520  130    0 Qs Ts
+Case      910635729 10  6 f   -     -     -          390    0    0 
+Case      910635786 10  5 c   kQ    -     -          390   10    0 
+Case      910637795  8  2 Bk  f     -     -          380   10    0 
+Case      910637825  9  1 Bc  kc    kc    kc         370   60    0 9h 8s
+Case      910637917  8  8 f   -     -     -          310    0    0 
+Case      910637950  8  8 c   c     c     rc         310  140    0 Js 4h
+Case      910638053  9  7 c   ccc   c     c          170  100    0 Th 6h
+Case      910638159  9  5 c   kc    kc    kcA         70   70    0 Qd 4c
+Case      910638302  9  9 cc  f     -     -         1000   30    0 
+Case      910638402  9  8 c   f     -     -          970   10    0 
+Case      910638461  9  7 c   kc    kc    kc         960   60  155 Qd 8h
+Case      910638522  9  6 rc  k     k     k         1055   30    0 Th Ts
+Case      910638589  8  5 cc  k     k     k         1025   20    0 6h Ah
+Case      910638651  8  4 f   -     -     -         1005    0    0 
+Case      910638709  8  3 c   kc    kf    -         1005   20    0 
+Case      910638747  8  2 B   -     -     -          985   10   15 
+Case      910638767  9  1 Bcc b     -     -          990   30   50 
+Case      910638804 10 10 cc  c     c     r         1010  100    0 7s Qd
+Case      910638908 10  9 c   k     k     k          910   10    0 Js 7h
+Case      910638968 10  8 f   -     -     -          900    0    0 
+Case      910639065  8  5 c   k     k     c          900   30   35 Th Jc
+Case      910639123  9  5 c   c     k     f          905   20    0 
+Case      910639183  9  4 cc  k     f     -          885   20    0 
+Case      910639254  9  3 ccc ccc   cc    kf         865  120    0 
+Case      910639364 10  2 Bk  k     kc    kf         745   30    0 
+Case      910639434  9  1 Bc  kc    kc    kf         715   90    0 
+Case      910639503  9  9 cc  c     c     f          625   50    0 
+Case      910639583  8  7 f   -     -     -          575    0    0 
+Case      910639667  8  5 ccc kf    -     -          575   40    0 
+Case      910639772  8  4 r   k     b     -          535   40   85 
+Case      910639813  9  3 c   k     k     bc         580   50    0 Jh Kd
+Case      910639893  9  2 Bk  Q     -     -          530   10    0 
+Case      910641123  9  2 Bk  c     k     c          520   40    0 Kd Ad
+Case      910641157  9  1 Bc  kf    -     -          480   20    0 
+Case      910641213  9  9 c   k     k     k          460   10    0 8d 6h
+Case      910641261  9  8 f   -     -     -          450    0    0 
+Case      910641300  8  6 ccc c     c     f          450   70    0 
+Case      910641356  8  5 f   -     -     -          380    0    0 
+Case      910641381  8  4 cc  brc   bc    kc         380  120    0 Ts 3c
+Case      910641466  7  3 cc  k     kc    kc         260   60  135 Kd Td
+Case      910641530  6  2 Bk  cc    kc    k          335   50    0 3d Ts
+Case      910641595  8  1 Bc  k     kc    kc         285   50    0 2c 6c
+Case      910641648 10 10 c   c     c     c          235   70    0 3s 3c
+Case      910641726  9  3 Q   -     -     -          165    0    0 
+Case      910715863 10  4 c   kc    kf    -          165   20    0 
+Case      910715908 10  3 c   c     k     r          145   60  110 
+Case      910715949 10  2 Bk  kf    -     -          195   10    0 
+Case      910715990 10  1 Bc  kc    k     k          185   30    0 As 2c
+Case      910716057 10 10 cc  c     f     -          155   40    0 
+Case      910716114 10  9 cc  c     c     kc         115   70    0 6h Ac
+Case      910716197  9  7 c   b     b     -           45   40   75 
+Case      910716241 10  6 c   kc    k     kc          80   40    0 7c Kh
+Case      910716305 10  5 c   k     kf    -           40   10    0 
+Case      910716371 10  4 cc  kcA   -     -           30   30    0 Kd 9c
+Case      910716490 10  2 Bk  bc    b     b         1000   70  255 6s 7c
+Case      910716568 10  1 Bc  kc    kc    k         1185   50    0 Th 8h
+Case      910716631  9  9 c   k     k     k         1135   10    0 Tc 5s
+Case      910716682 10  9 c   rc    k     c         1125   70    0 8s 2s
+Case      910716745  8  6 c   rc    c     c         1055   80    0 8c Th
+Case      910716793  9  6 cc  b     b     b          975   70  265 3d Jd
+Case      910716839 10  6 r   b     b     b         1170   80  195 Th Tc
+Case      910716889  9  4 c   b     b     b         1285   60  180 Kd 4c
+Case      910716943 10  4 c   k     k     br        1405   70   78 5s Kd
+Case      910716992 10  3 c   k     k     k         1413   10   45 Kd Th
+Case      910717046 10  2 Bk  b     b     kc        1448   60    0 2s Qc
+Case      910717091  9  1 Bcc kc    bc    kc        1388  100    0 5d 7d
+Case      910717167  9  8 c   r     k     rr        1288  110  380 3s 9s
+Case      910717225  9  7 c   k     r     c         1558   80    0 3d Td
+Case      910717270  9  6 c   kf    -     -         1478   10    0 
+Case      910717321 10  7 c   k     b     -         1468   30   50 
+Case      910717404 10  5 c   r     krc   kc        1488  120    0 Ad Jc
+Case      910717513  9  3 cc  k     k     k         1368   20    0 As Jh
+Case      910717568  9  2 Bc  kc    b     -         1348   50   85 
+Case      910717607  8  1 Bc  kc    bc    bc        1383  100    0 Qs Ts
+Case      910717678  9  9 ccc c     c     c         1283   90    0 2s 8h
+Case      910717734  9  8 c   k     c     r         1193   70   75 9h 2s
+Case      910717786  9  7 c   c     c     rr        1198  120    0 6s 4d
+Case      910717829  9  6 c   k     r     b         1078   70  165 Ah 5h
+Case      910717875  9  5 c   c     cc    k         1173   60    0 3s 4d
+Case      910717952  9  4 c   k     Q     -         1113   10    0 
+Case      910728215 10  6 KQ  -     -     -         1103    0    0 
+Case      910728396  9  4 c   kf    -     -         1103   10    0 
+Case      910728420  9  3 cc  kc    f     -         1093   30    0 
+Case      910728468 10  2 Bk  kf    -     -         1063   10    0 
+Case      910728492 10  1 Bc  b     b     b         1053   60  130 Th 5h
+Case      910728525  9  9 c   k     b     -         1123   30   70 
+Case      910728576 10  9 r   b     b     b         1163   70  155 Ac Ah
+Case      910728612 10  8 c   kc    kc    k         1248   50    0 2d Ks
+Case      910728700  9  6 cc  c     c     k         1198   50    0 6h Ts
+Case      910728746  9  5 c   k     k     b         1148   40   85 
+Case      910728780  9  4 cc  k     b     b         1193   60  180 
+Case      910728855  9  3 cc  rcc   c     k         1313   90    0 Jh Qc
+Case      910728906 10  3 cc  kf    -     -         1223   20    0 
+Case      910728946 10  2 Bc  bc    kc    br        1203  120  285 7s Jh
+Case      910729013  9  1 Bc  kf    -     -         1368   20    0 
+Case      910729057 10 10 r   k     k     b         1348   50  125 
+Case      910729091  9  8 c   kc    kc    kf        1423   40    0 
+Case      910729144  9  7 c   c     f     -         1383   20    0 
+Case      910729182  9  6 c   rc    c     f         1363   80    0 
+Case      910729249  9  5 cc  rc    b     b         1283   90  345 4d 6d
+Case      910729309  9  4 cc  f     -     -         1538   20    0 
+Case      910729339  8  3 r   k     k     k         1518   20    0 Ac 6c
+Case      910729363  8  2 Bc  kf    -     -         1498   30    0 
+Case      910729416  8  1 Bc  kc    b     b         1468   70  220 Jh 3c
+Case      910729460  8  8 c   r     bc    r         1618  110  340 9c Kc
+Case      910729506  9  7 c   f     -     -         1848   10    0 
+Case      910729539  9  6 c   k     kf    -         1838   20    0 
+Case      910729586 10  6 c   c     f     -         1818   30    0 
+Case      910729624 10  5 c   k     k     k         1788   10    0 Ah 5d
+Case      910729670 10  4 c   c     c     b         1778   60  190 5h Qs
+Case      910729712 10  3 c   kf    -     -         1908   10    0 
+Case      910729827 10  2 Bc  br    br    br        1898  170    0 Ts As
+Case      910729877 10  1 Bc  kc    kf    -         1728   20    0 
+Case      910729949 10 10 c   rc    k     c         1708   60    0 3h Qc
+Case      910730058 10  9 c   cc    f     -         1648   40    0 
+Case      910730144 10  8 c   f     -     -         1608   10    0 
+Case      910730204 10  7 c   b     b     b         1598   70  165 
+Case      910730247 10  6 rc  b     b     b         1693   80  185 
+Case      910730296 10  5 cc  r     b     b         1798   80  295 4s Ts
+Case      910730399 10  4 cc  k     k     b         2013   40    0 6s 4d
+Case      910730478 10  3 c   kc    kf    -         1973   20    0 
+Case      910730561 10  2 Bk  c     f     -         1953   20    0 
+Case      910730604 10  1 Bcc kc    b     bc        1933   90    0 Ah 9s
+Case      910730719 10 10 c   f     -     -         1843   20    0 
+Case      910730750 10  3 Q   -     -     -         1823    0    0 
+Case      910742975 10  8 cc  cc    f     -         1628   70    0 
+Case      910743095 10  7 rc  rc    r     rr        1558  230  875 Jc 7c
+Case      910743180 10  6 c   c     c     c         2203   60    0 9c 5d
+Case      910743243 10  5 c   bc    brc   kc        2143  140    0 Ad 8d
+Case      910743343 10  3 Q   -     -     -         2003    0    0 
+Case      910802976 10  6 c   c     c     k         2003   50    0 9d 7h
+Case      910803046 10  5 cc  kc    c     f         1953   50    0 
+Case      910803107 10  4 f   -     -     -         1903    0    0 
+Case      910803139 10  3 rc  kcc   kcc   kf        1903  130    0 
+Case      910803226 10  2 Bc  kc    kc    kc        1773   70    0 7d 5h
+Case      910803286 10  1 Bcc k     k     kf        1703   20    0 
+Case      910803328 10 10 c   k     c     k         1683   40  115 Ks 9h
+Case      910803376 10  9 cc  kc    cc    fQ        1758   90    0 
+Case      911230045 10  2 Bk  kf    -     -         1663   10    0 
+Case      911230100 10  1 Bc  kc    kf    -         1653   30    0 
+Case      911230163 10 10 r   r     c     c         1623  140    0 As Ad
+Case      911230232 10  9 c   c     c     r         1483   90  315 4d Td
+Case      911230281  8  7 f   -     -     -         1708    0    0 
+Case      911230325  6  5 f   -     -     -         1708    0    0 
+Case      911230358  7  4 f   -     -     -         1708    0    0 
+Case      911230397  8  3 f   -     -     -         1708    0    0 
+Case      911230446 10  2 Bk  k     kf    -         1708   10    0 
+Case      911230488 10  1 Bf  -     -     -         1698    5    0 
+Case      911230549 10 10 c   c     c     f         1693   50    0 
+Case      911230618  9  8 c   c     c     f         1643   50    0 
+Case      911230677  9  7 c   k     f     -         1593   10    0 
+Case      911230794 10  6 f   -     -     -         1583    0    0 
+Case      911230873 10  5 f   -     -     -         1583    0    0 
+Case      911230986  9  4 f   -     -     -         1583    0    0 
+Case      911231067 10  3 f   -     -     -         1583    0    0 
+Case      911231156 10  2 Bk  kf    -     -         1583   10    0 
+Case      911231216 10  1 Bf  -     -     -         1573    5    0 
+Case      911231264  9  9 f   -     -     -         1568    0    0 
+Case      911231307 10  9 f   -     -     -         1568    0    0 
+Case      911231371 10  8 f   -     -     -         1568    0    0 
+Case      911231417  9  6 f   -     -     -         1568    0    0 
+Case      911231478  9  5 f   -     -     -         1568    0    0 
+Case      911231572  9  4 f   -     -     -         1568    0    0 
+Case      911231647  8  3 f   -     -     -         1568    0    0 
+Case      911231678  8  2 Bk  kf    -     -         1568   10    0 
+Case      911231735  8  1 Bf  -     -     -         1558    5    0 
+Case      911231801  9  9 f   -     -     -         1553    0    0 
+Case      911231817  9  8 f   -     -     -         1553    0    0 
+Case      911231837  9  7 f   -     -     -         1553    0    0 
+Case      911232206  7  5 f   -     -     -         1553    0    0 
+Case      911232444  8  5 f   -     -     -         1553    0    0 
+Case      911232624  8  4 f   -     -     -         1553    0    0 
+Case      911232626  9  3 f   -     -     -         1553    0    0 
+Case      911232628  9  2 Bk  f     -     -         1553   10    0 
+Case      911232629 10  1 Bf  -     -     -         1543    5    0 
+Case      911232632 10 10 c   r     k     k         1538   30    0 Td Qh
+Case      911232634 10  9 r   rr    r     rc        1508  170    0 Kd Td
+Case      911232637 10  8 c   k     f     -         1338   10    0 
+Case      911232640  9  7 rc  kc    kc    k         1328   60    0 9c 9h
+Case      911232643  9  6 c   c     k     f         1268   20    0 
+Case      911232646  8  5 c   c     c     f         1248   40    0 
+Case      911232649  9  4 c   k     c     f         1208   30    0 
+Case      911232652 10  3 cc  kf    -     -         1178   20    0 
+Case      911232654  9  2 Bc  kf    -     -         1158   20    0 
+Case      911232664 10  1 Bcc kf    -     -         1138   20    0 
+Case      911232729 10 10 c   f     -     -         1118   10    0 
+Case      911232773 10  9 c   cc    c     bc        1108   90    0 7c 3c
+Case      911232871 10  8 cc  kc    k     kf        1018   40    0 
+Case      911232930 10  7 cc  k     k     b          978   40  125 8d 6s
+Case      911233007 10  6 cc  c     cc    kf        1063   70    0 
+Case      911233097 10  5 c   k     c     r          993   70  185 3d As
+Case      911233154 10  4 c   kf    -     -         1108   10    0 
+Case      911233226  9  3 f   -     -     -         1098    0    0 
+Case      911233266 10  2 Bc  kf    -     -         1098   20    0 
+Case      911233342 10  1 Bc  k     k     kf        1078   10    0 
+Case      911233414 10 10 c   b     -     -         1068   20   60 
+Case      911233454 10  9 c   c     c     k         1108   40    0 Kd 5h
+Case      911233514 10  8 cc  c     r     bc        1068  110  400 4d 9s
+Case      911233573 10  7 ccc kc    k     brc       1358  130    0 2s 2c
+Case      911233665 10  6 cc  kc    k     k         1228   40    0 Ac 2h
+Case      911233737 10  5 f   -     -     -         1188    0    0 
+Case      911233780 10  4 f   -     -     -         1188    0    0 
+Case      911233830 10  3 f   -     -     -         1188    0    0 
+Case      911233861 10  2 Bf  -     -     -         1188   10    0 
+Case      911233927 10  1 Bf  -     -     -         1178    5    0 
+Case      911233986 10 10 f   -     -     -         1173    0    0 
+Case      911234046 10  9 f   -     -     -         1173    0    0 
+Case      911234098 10  8 f   -     -     -         1173    0    0 
+Case      911234129  9  6 f   -     -     -         1173    0    0 
+Case      911234164 10  5 f   -     -     -         1173    0    0 
+Case      911234193 10  4 f   -     -     -         1173    0    0 
+Case      911234229 10  3 f   -     -     -         1173    0    0 
+Case      911234254 10  2 Bk  k     k     kf        1173   10    0 
+Case      911234320 10  1 Bf  -     -     -         1163    5    0 
+Case      911234360 10 10 f   -     -     -         1158    0    0 
+Case      911234402 10  9 f   -     -     -         1158    0    0 
+Case      911234455 10  8 f   -     -     -         1158    0    0 
+Case      911234504 10  7 c   rc    kc    k         1158   80  385 6d 5c
+Case      911234571 10  6 c   f     -     -         1463   20    0 
+Case      911234611 10  5 c   r     f     -         1443   30    0 
+Case      911234637 10  4 c   kf    -     -         1413   10    0 
+Case      911234661 10  3 cc  ccc   kf    -         1403   60    0 
+Case      911234729 10  2 Bc  kc    kf    -         1343   40    0 
+Case      911234799 10  1 Bc  kc    kc    kc        1303  100    0 Qh 4s
+Case      911234846 10 10 f   -     -     -         1203    0    0 
+Case      911234892 10  9 c   k     c     c         1203   60    0 Kh 2c
+Case      911234934 10  8 f   -     -     -         1143    0    0 
+Case      911234967 10  7 r   k     b     k         1143   40  155 Jd Jh
+Case      911235016 10  6 c   kc    k     f         1258   20    0 
+Case      911235091 10  5 c   k     k     k         1238   10   23 4c As
+Case      911235136 10  4 c   k     k     bc        1251   50  130 Qs 6d
+Case      911235201 10  3 c   k     k     kf        1331   10    0 
+Case      911235266 10  2 Br  k     b     bc        1321   80    0 Qs Qc
+Case      911235320 10  1 Bc  kf    -     -         1241   20    0 
+Case      911235372 10 10 c   c     c     rc        1221  110    0 Kc 9d
+Case      911235414 10  9 cc  cc    c     f         1111   80    0 
+Case      911235484  9  7 c   k     c     f         1031   30    0 
+Case      911235530 10  7 c   c     c     b         1001   70  290 Js Td
+Case      911235594 10  6 c   bc    k     kc        1221   50  175 Ah 9d
+Case      911235659 10  5 cc  r     b     bc        1346  100    0 8s 4d
+Case      911235723 10  4 c   k     kc    kf        1246   30    0 
+Case      911235795 10  3 r   b     b     b         1216   70  235 Kd Td
+Case      911235864 10  2 Br  b     bc    b         1381   90    0 Kh Kd
+Case      911235935 10  1 BQ  -     -     -         1291    5    0 
+Case      911239451  9  9 c   c     r     -         1286   70  135 
+Case      911239499  7  7 c   c     f     -         1351   20    0 
+Case      911239532  8  7 c   c     c     b         1331   60    0 Qd 2c
+Case      911239575  8  5 cc  cc    k     kf        1271   40    0 
+Case      911239625  8  4 cc  c     k     k         1231   30    0 Kh Jh
+Case      911239680  8  3 c   kc    kc    k         1201   40    0 Qc 9c
+Case      911239733  8  2 Bc  brc   k     b         1161   80  165 7d 8c
+Case      911239780  8  1 Bc  kc    kc    kf        1246   60    0 
+Case      911239841  8  8 c   c     c     k         1186   40    0 7s 8d
+Case      911239873  8  7 c   c     c     k         1146   50    0 9c Td
+Case      911239930  8  6 c   k     c     f         1096   40    0 
+Case      911239959  8  5 c   k     c     bc        1056   70  205 Th 4c
+Case      911240014  9  4 c   kc    kf    -         1191   20    0 
+Case      911240078  9  3 cc  Q     -     -         1171   20    0 
+Case      911251926  8  4 c   c     c     k         1151   40    0 Td 5s
+Case      911251988  9  3 cc  cc    k     f         1111   40    0 
+Case      911252038  9  2 Bc  kcc   brc   bc        1071  170    0 Td 2h
+Case      911252131  9  1 Bc  kcf   -     -          901   40    0 
+Case      911252187  9  9 f   -     -     -          861    0    0 
+Case      911252225  9  8 cc  ccc   f     -          861   70    0 
+Case      911252309 10  8 cc  kf    -     -          791   20    0 
+Case      911252362 10  7 cc  kf    -     -          771   20    0 
+Case      911252414 10  3 Q   -     -     -          751    0    0 
+Case      911322543  7  6 c   c     c     c          751   60    0 3h Ts
+Case      911322570  6  5 f   -     -     -          691    0    0 
+Case      911322602  6  4 r   -     -     -          691   30   65 
+Case      911322620  6  3 cc  kc    bc    b          726  100  385 Qd 7s
+Case      911322679  7  2 Bc  kf    -     -         1011   30    0 
+Case      911322756  7  1 Bc  kc    k     kc         981   40   80 Jc Kh
+Case      911322787  8  8 cc  c     f     -         1021   30    0 
+Case      911322815 10  9 c   k     k     r          991   50  100 
+Case      911322900 10  8 cc  kc    kc    kc        1041   70    0 Qs Th
+Case      911322950  9  6 f   -     -     -          971    0    0 
+Case      911322964  9  5 c   k     k     bc         971   50    0 Ts 7h
+Case      911323024  9  4 c   Q     -     -          921   10    0 
+Case      911331947 10  7 f   -     -     -          911    0    0 
+Case      911332067 10  7 c   c     c     f          911   40    0 
+Case      911332108  9  5 c   cc    kc    k          871   60    0 5d 2s
+Case      911332139  9  4 cc  kcc   kf    -          811   60    0 
+Case      911332249  8  3 ccc f     -     -          751   40    0 
+Case      911332305 10  2 Bc  k     cf    -          711   40    0 
+Case      911332356  9  1 Bc  kc    k     k          671   30    0 Ah 2d
+Case      911332400  8  8 c   c     f     -          641   30    0 
+Case      911332518  8  7 c   k     r     b          611   80  265 Jc 2h
+Case      911332590  9  6 c   f     -     -          796   10    0 
+Case      911332622  8  4 cc  k     k     kf         786   20    0 
+Case      911332680  8  3 c   k     c     cf         766   50    0 
+Case      911332735  9  3 c   kc    kc    kf         716   60    0 
+Case      911332805  9  2 Bc  k     k     c          656   40    0 2s 5s
+Case      911332851 10  1 Bc  k     kc    kQ         616   30    0 
+Case      911334145 10  5 c   c     c     f          586   50    0 
+Case      911334232  9  4 c   c     c     cf         536   60    0 
+Case      911334278  9  3 c   kc    kc    f          476   40    0 
+Case      911334358  9  2 Bc  kc    kc    b          436   70  170 Ah 4c
+Case      911334415  9  1 Bc  k     kf    -          536   10    0 
+Case      911334529  8  8 cc  c     c     k          526   50  105 5d 8h
+Case      911334575  8  7 c   k     c     k          581   30   70 Ac Js
+Case      911334629  8  6 c   c     c     f          621   40    0 
+Case      911334739  7  4 c   k     k     k          581   10   40 5s 2s
+Case      911334816  8  4 r   c     cf    -          611   50    0 
+Case      911334904 10  3 c   kr    bcc   k          561  110    0 Qs Ah
+Case      911334989 10  2 Bc  kc    r     b          451   90  270 4d Jh
+Case      911335052 10  1 Bc  kc    kc    brc        631  130    0 Jh Qc
+Case      911335155 10 10 c   k     k     b          501   30   55 
+Case      911335194  9  8 c   c     c     f          526   50    0 
+Case      911335232  9  7 cc  kc    k     k          476   30    0 3s Kh
+Case      911335281  9  6 c   f     -     -          446   10    0 
+Case      911335338  9  5 c   b     bc    br         436  120  335 9s Jc
+Case      911335424  8  4 c   b     -     -          651   20   60 
+Case      911335481  7  3 r   r     b     b          691   80  190 4d 4c
+Case      911335551 10  2 Bk  kf    -     -          801   10    0 
+Case      911335593 10  1 Bc  kc    k     k          791   20  110 7s 2h
+Case      911335660 10 10 c   k     f     -          881   10    0 
+Case      911335719 10  9 c   cc    k     c          871   70    0 Ah 8d
+Case      911335793  9  8 cc  r     k     k          801   40  200 Qd Kc
+Case      911335850  9  7 rc  c     r     b          961  110  405 4d 4h
+Case      911335930  9  6 c   c     kc    c         1256   80    0 9h 4c
+Case      911336012  9  5 cc  k     kf    -         1176   20    0 
+Case      911336096  9  4 cc  kc    kc    kf        1156   50    0 
+Case      911336204 10  3 cc  rr    c     f         1106   80    0 
+Case      911336277 10  2 Bc  kf    -     -         1026   20    0 
+Case      911336349 10  1 Bc  kc    kcc   kcf       1006  170    0 
+Case      911336477 10 10 c   r     r     r          836  130  205 Ah Qc
+Case      911336588  9  8 cc  f     -     -          911   20    0 
+Case      911336676  9  8 cc  k     f     -          891   20    0 
+Case      911336761 10  7 rc  bcc   kcc   kcc        871  240    0 7d 7h
+Case      911336838  9  5 fQ  -     -     -          631    0    0 
+Case      911338701 10  7 c   cc    kf    -          631   40    0 
+Case      911338774 10  6 c   r     r     b          591  100    0 2c 7c
+Case      911338856 10  6 c   c     c     cf         491   60    0 
+Case      911338917 10  4 c   kc    kf    -          431   20    0 
+Case      911338974 10  3 c   f     -     -          411   10    0 
+Case      911339075  9  2 Bk  kf    -     -          401   10    0 
+Case      911339129 10  1 Bf  -     -     -          391    5    0 
+Case      911339175 10 10 c   rc    c     c          386   80    0 5c Qs
+Case      911339237 10  9 cc  c     c     f          306   50    0 
+Case      911339354  8  3 Q   -     -     -          256    0    0 
+Case      911398087  4  3 c   c     f     -          256   20    0 
+Case      911398122  4  2 Bc  r     b     k          236   60    0 9s 2c
+Case      911398141  4  1 Bc  k     k     k          176   10   30 5d 2s
+Case      911398167  4  4 c   k     c     k          196   30   65 4c 5c
+Case      911398204  4  2 Bk  k     f     -          231   10    0 
+Case      911398250  5  1 Bc  kc    kf    -          221   30    0 
+Case      911398288  5  5 c   k     k     k          191   10    0 Ac 8d
+Case      911398351  5  4 c   k     b     b          181   50   95 
+Case      911398395  5  3 c   b     -     -          226   20   50 
+Case      911398418  5  2 Bk  k     b     kf         256   30    0 
+Case      911398447  5  1 Bc  k     k     b          226   40   80 
+Case      911398486  5  5 c   f     -     -          266   20    0 
+Case      911398498  5  4 c   c     c     f          246   40    0 
+Case      911398569  5  3 c   k     k     k          206   10    0 8d 2s
+Case      911398606  5  2 Bk  bc    bc    brc        196  150    0 9c 4s
+Case      911398677  6  1 Bc  kc    kc    kf          46   40    0 
+Case      911398753  5  5 cA  -     -     -            6    6    0 7c Qd
+Case      911404657  9  2 Bc  kf    -     -         1000   20    0 
+Case      911404683  9  1 Bc  k     k     k          980   10    0 8s 7d
+Case      911404735  9  9 c   c     r     k          970   80    0 Ac 6d
+Case      911404773  9  8 c   b     b     c          890   60    0 Qh 4s
+Case      911404822  8  7 c   kc    kc    kf         830   40    0 
+Case      911404899 10  6 c   c     r     k          790   60    0 4s Jd
+Case      911404939 10  5 c   r     c     c          730   70    0 Ts Tc
+Case      911404985 10  4 c   kc    k     kc         660   40    0 Qs 5d
+Case      911405041 10  3 cc  kc    bc    kc         620   90  330 Qs Js
+Case      911405112  9  2 Bk  kc    b     b          860   60  145 
+Case      911405171 10  1 Bc  kc    kc    k          945   60    0 Ts 5h
+Case      911405218 10 10 c   c     c     k          885   70    0 Ac Ks
+Case      911405283 10  9 c   c     c     c          815   70  205 As Ks
+Case      911405339 10  8 c   k     c     k          950   30    0 Ah 9s
+Case      911405393 10  7 c   c     f     -          920   30    0 
+Case      911405453 10  6 cc  f     -     -          890   20    0 
+Case      911405521  9  5 cc  cc    r     kc         870  107    0 2c Ks
+Case      911405636 10  4 c   kf    -     -          763   10    0 
+Case      911405725 10  3 cc  kc    kc    kf         753   50    0 
+Case      911405810 10  2 Bcc kc    kc    kf         703   80    0 
+Case      911405933 10  1 Bc  kf    -     -          623   20    0 
+Case      911405998 10 10 c   k     c     f          603   40    0 
+Case      911406041 10  9 c   f     -     -          563   10    0 
+Case      911406161 10  8 ccc k     k     f          553   40    0 
+Case      911406261 10  7 cc  c     c     f          513   50    0 
+Case      911406341 10  6 c   Q     -     -          463   10    0 
+Case      911490220 10 10 f   -     -     -          453    0    0 
+Case      911490244 10 10 f   -     -     -          453    0    0 
+Case      911490265 10  8 f   -     -     -          453    0    0 
+Case      911490363 10  7 f   -     -     -          453    0    0 
+Case      911490389 10  6 f   -     -     -          453    0    0 
+Case      911490459 10  5 f   -     -     -          453    0    0 
+Case      911490523 10  4 f   -     -     -          453    0    0 
+Case      911490609  8  1 Bf  -     -     -          453   10    0 
+Case      911490694  8  1 Bf  -     -     -          443    5    0 
+Case      911490770  8  8 f   -     -     -          438    0    0 
+Case      911490803  8  7 f   -     -     -          438    0    0 
+Case      911490855  8  6 f   -     -     -          438    0    0 
+Case      911490879  9  5 f   -     -     -          438    0    0 
+Case      911490925  9  4 f   -     -     -          438    0    0 
+Case      911490996  9  3 f   -     -     -          438    0    0 
+Case      911491069  9  2 Bf  -     -     -          438   10    0 
+Case      911491167  8  1 Bf  -     -     -          428    5    0 
+Case      911491248  9  9 f   -     -     -          423    0    0 
+Case      911491314  9  8 f   -     -     -          423    0    0 
+Case      911491376  9  8 f   -     -     -          423    0    0 
+Case      911491395  8  6 f   -     -     -          423    0    0 
+Case      911491430  9  5 f   -     -     -          423    0    0 
+Case      911491490  9  4 cc  kc    kc    kc         423   70  185 2s Qc
+Case      911491538 10  4 cc  kc    kc    kc         538   70    0 2d 7s
+Case      911491630 10  3 cc  kc    kf    -          468   30    0 
+Case      911491720 10  2 Bc  kf    -     -          438   30    0 
+Case      911491828 10  1 Bc  kc    kf    -          408   30    0 
+Case      911491883 10 10 c   c     cc    f          378   90    0 
+Case      911491942  7  7 c   k     f     -          288   20    0 
+Case      911492009  6  6 c   c     c     r          268   80  150 
+Case      911492039  5  4 c   kcc   kc    bc         338  110    0 9d Qc
+Case      911492105  6  3 cc  Q     -     -          228   20    0 
+Case      911500042 10  7 KQ  -     -     -          208    0    0 
+Case      911501197 10  5 c   k     kc    k          208   30    0 Kh 2c
+Case      911501309 10  4 c   kcc   kc    kc         178  110    0 3d 8s
+Case      911501429 10  3 c   c     c     c           68   60  190 Ah 9h
+Case      911501471 10  2 Bk  kc    k     k          198   30   65 Ah 6d
+Case      911501534 10  1 Brc bcc   kc    b          233  120    0 7h 7c
+Case      911501602  9  9 c   c     cf    -          113   40    0 
+Case      911501685 10  9 c   k     k     c           73   50    0 Jc 8d
+Case      911501751 10  8 c   cA    -     -           23   23    0 9d Ts
+Case      911502250 10  9 cc  f     -     -         1000   20    0 
+Case      911502321 10  8 c   k     b     bc         980   70    0 9c 2s
+Case      911502391 10  6 c   k     k     kc         910   30    0 5s Jd
+Case      911502478 10  5 c   kc    b     k          880   40   55 Th 8s
+Case      911502538  8  4 c   r     k     k          895   30  115 Tc 7c
+Case      911502599  9  3 c   kc    k     krc        980  100  280 Qs Ks
+Case      911502773  9  2 Bk  kcc   kc    kc        1160   70  195 8c Ts
+Case      911502827  9  1 Bc  kc    kf    -         1285   30    0 
+Case      911502968 10 10 c   f     -     -         1255   10    0 
+Case      911503017 10  9 c   c     k     f         1245   20    0 
+Case      911503084 10  8 c   cc    k     k         1225   60    0 Qs 9d
+Case      911503158 10  7 cc  f     -     -         1165   20    0 
+Case      911503207 10  6 f   -     -     -         1145    0    0 
+Case      911503247 10  5 f   -     -     -         1145    0    0 
+Case      911503285 10  4 f   -     -     -         1145    0    0 
+Case      911503360 10  3 f   -     -     -         1145    0    0 
+Case      911503400 10  2 Bc  kf    -     -         1145   20    0 
+Case      911503443 10  1 Bc  kc    k     k         1125   30    0 6s 2s
+Case      911503505 10 10 c   c     c     k         1095   60    0 Kh 4h
+Case      911503559 10  9 f   -     -     -         1035    0    0 
+Case      911503615 10  8 cc  c     cc    f         1035   90    0 
+Case      911503682 10  7 c   c     c     b          945   70  200 9s 8s
+Case      911503737 10  6 c   c     c     c         1075   80    0 3c 3h
+Case      911503796 10  5 cc  Q     -     -          995   20    0 
+Case      911504923  7  7 f   -     -     -          975    0    0 
+Case      911505010  5  5 f   -     -     -          975    0    0 
+Case      911505037  5  4 f   -     -     -          975    0    0 
+Case      911505059  5  3 f   -     -     -          975    0    0 
+Case      911505069  5  2 Bf  -     -     -          975   10    0 
+Case      911505094  5  1 Bc  k     b     k          965   30    0 5c 7s
+Case      911505113  5  5 c   cc    cc    cf         935  180    0 
+Case      911505154  5  4 cc  kQ    -     -          755   20    0 
+Case      911509407 10  3 c   k     c     c          735   50    0 Th Kd
+Case      911509456 10  2 Bk  k     k     k          685   10    0 5c 2s
+Case      911509501 10  1 Bc  kc    kc    k          675   50    0 2c 9s
+Case      911509570 10 10 c   k     k     c          625   30    0 6c 5h
+Case      911509706 10  9 c   k     k     f          595   10    0 
+Case      911509768 10  8 c   c     f     -          585   30    0 
+Case      911509836 10  8 c   k     k     k          555   10    0 2s 9c
+Case      911509913 10  6 c   cc    c     b          545  100  390 8s 6s
+Case      911509995  9  4 c   k     f     -          835   20    0 
+Case      911510050  9  3 c   kc    kf    -          815   20    0 
+Case      911510129  9  1 Bc  kc    kf    -          795   40    0 
+Case      911510203  8  1 Bc  k     k     kc         755   30    0 Kd 8h
+Case      911510283 10 10 c   k     k     k          725   10    0 2h 4s
+Case      911510347 10  9 c   c     c     c          715   60  240 Td Ks
+Case      911510437 10  8 c   rc    c     c          895   90    0 Ad Th
+Case      911510541 10  7 cc  cc    c     k          805   80    0 Kc 3h
+Case      911510687 10  6 cc  c     rc    c          725  140    0 4h Tc
+Case      911510808 10  5 c   k     f     -          585   10    0 
+Case      911510858 10  4 c   k     k     k          575   10    0 Th Jd
+Case      911510898 10  3 f   -     -     -          565    0    0 
+Case      911510956 10  2 Bc  kf    -     -          565   20    0 
+Case      911511028 10  1 Bc  k     k     kf         545   10    0 
+Case      911511120 10 10 c   Q     -     -          535   10    0 
+Case      911594748  9  8 f   -     -     -          145    0    0 
+Case      911594783 10  8 f   -     -     -          145    0    0 
+Case      911594829 10  7 f   -     -     -          145    0    0 
+Case      911594871 10  6 f   -     -     -          145    0    0 
+Case      911594927 10  5 f   -     -     -          145    0    0 
+Case      911594954 10  4 f   -     -     -          145    0    0 
+Case      911594995 10  3 f   -     -     -          145    0    0 
+Case      911595084 10  2 Bcc kc    kc    kc         145   80    0 Ad 2d
+Case      911595161 10  1 Bcc kc    kcA   -           65   65    0 3h Kc
+Case      911595370 10  9 c   f     -     -         1000   20    0 
+Case      911595413 10  8 cc  cc    c     c          980   80    0 7d Tc
+Case      911595480 10  7 cc  k     c     c          900  100    0 7h 8d
+Case      911595532 10  6 f   -     -     -          800    0    0 
+Case      911595574 10  5 ccc kc    kc    kf         800   70    0 
+Case      911595649 10  4 cc  kf    -     -          730   20    0 
+Case      911595702 10  3 cc  kc    k     kc         710   70    0 Ah Td
+Case      911595818 10  2 Bc  kc    kc    kc         640   70  200 Jd 7d
+Case      911595872 10  1 Bcc kc    kc    kf         770   70    0 
+Case      911595972 10 10 c   c     c     k          700   50  215 Ah Jh
+Case      911596030 10  9 c   rc    b     b          865   90  245 
+Case      911596076 10  8 cc  c     f     -         1020   30    0 
+Case      911596127 10  7 cc  kc    kc    k          990   50    0 3s 2h
+Case      911596175 10  6 cc  cc    k     k          940   40    0 2h Th
+Case      911596254 10  5 cc  kc    kc    kcf        900   90    0 
+Case      911596322 10  4 fQ  -     -     -          810    0    0 
+Case      911612259  8  5 c   k     r     -          865   50  100 
+Case      911612299  8  4 cc  kc    bc    kc         915   90    0 7s 4s
+Case      911612346  9  3 cc  k     kf    -          825   20    0 
+Case      911612407  9  2 Bc  kf    -     -          805   20    0 
+Case      911612435  9  1 Bc  kc    kc    b          785   70    0 3h Qs
+Case      911612501 10 10 r   c     c     c          715   70    0 Td 5c
+Case      911612571 10  9 c   k     f     -          645   10    0 
+Case      911612684  8  7 c   r     c     f          635   50    0 
+Case      911612728  9  6 c   c     f     -          585   20    0 
+Case      911612785 10  5 ccQ -     -     -          565   20    0 
+Case      911834936 10  7 c   c     c     c          545   60    0 9h 7s
+Case      911834965 10  6 c   kc    kf    -          485   20    0 
+Case      911835015  9  6 c   k     f     -          465   10    0 
+Case      911835038  8  4 c   kcc   kf    -          455   40    0 
+Case      911835098  8  3 c   c     f     -          415   30    0 
+Case      911835135  8  2 Bk  c     c     k          385   40    0 9c 2c
+Case      911835181  7  1 Bc  kc    k     k          345   20    0 9s Qd
+Case      911835217  9  7 c   c     k     c          325   40    0 4c 8c
+Case      911835270  9  6 c   c     c     k          285   40    0 9s As
+Case      911835310  9  5 f   -     -     -          245    0    0 
+Case      911835372  9  4 c   kc    k     k          245   40    0 9c 2c
+Case      911835417  9  3 c   cc    f     -          205   30    0 
+Case      911835512 10  2 Bc  kc    kf    -          175   30    0 
+Case      911835578 10  1 Bc  k     kc    k          145   30   90 Ad Ts
+Case      911835630 10 10 c   k     f     -          205   10    0 
+Case      911835697 10  9 f   -     -     -          195    0    0 
+Case      911835714 10  8 f   -     -     -          195    0    0 
+Case      911835740 10  7 f   -     -     -          195    0    0 
+Case      911835806  9  6 f   -     -     -          195    0    0 
+Case      911835834  9  5 f   -     -     -          195    0    0 
+Case      911835883 10  4 f   -     -     -          195    0    0 
+Case      911835917 10  3 f   -     -     -          195    0    0 
+Case      911835980 10  2 Bk  k     k     f          195   10    0 
+Case      911836034  9  1 Bf  -     -     -          185    5    0 
+Case      911836106  9  9 c   c     k     k          180   30    0 8s Kd
+Case      911836143  9  8 c   k     k     f          150   10    0 
+Case      911836177  9  7 c   b     b     b          140   60    0 3c 3h
+Case      911836217  9  6 c   cc    kc    kcA         80   80    0 Js 3c
+Case      911836311 10  4 f   -     -     -         1000    0    0 
+Case      911836366 10  3 cc  c     c     c         1000   70    0 8h Qh
+Case      911836401 10  2 Bk  kf    -     -          930   10    0 
+Case      911836442 10  1 Bc  kf    -     -          920   10    0 
+Case      911836501 10 10 c   c     k     c          910   60    0 9h 5c
+Case      911836581 10  9 f   -     -     -          850    0    0 
+Case      911836672 10  8 c   c     f     -          850   20    0 
+Case      911836736 10  7 c   ccc   cc    k          830  100    0 5s Ad
+Case      911836829 10  6 f   -     -     -          730    0    0 
+Case      911836972 10  5 cc  kc    bc    kc         730  120  210 9d 3d
+Case      911837075 10  4 c   c     c     f          820   50    0 
+Case      911837131 10  3 ccc cc    kc    kc         770   90    0 5d Kh
+Case      911837259  9  2 Bk  k     kc    f          680   50    0 
+Case      911837338  9  1 Bc  bc    kc    kc         630  100    0 7s 2c
+Case      911837416  9  9 c   k     k     f          530   20    0 
+Case      911837500 10  9 c   f     -     -          510   20    0 
+Case      911837553  9  7 c   f     -     -          490   10    0 
+Case      911837672  9  6 c   c     f     -          480   20    0 
+Case      911837719 10  6 r   c     k     kc         460   60    0 9d 9h
+Case      911837781 10  5 c   kc    k     kr         400   70    0 Js 8d
+Case      911837873  9  3 fQ  -     -     -          330    0    0 
+Case      911854418 10  4 f   -     -     -          330    0    0 
+Case      911854535 10  3 f   -     -     -          330    0    0 
+Case      911854663 10  2 Bk  kf    -     -          330   10    0 
+Case      911854735 10  1 Bf  -     -     -          320    5    0 
+Case      911854788  9  9 f   -     -     -          315    0    0 
+Case      911854836 10  9 f   -     -     -          315    0    0 
+Case      911854924 10  8 c   k     k     kf         315   10    0 
+Case      911854989 10  8 c   c     c     f          305   60    0 
+Case      911855066 10  6 cc  f     -     -          245   40    0 
+Case      911855134 10  5 rc  rr    krr   brA        205  205  835 As Ac
+Case      911855240 10  4 ccc kf    -     -          835   40    0 
+Case      911855301 10  3 ccc kc    kc    k          795   70  205 9d Js
+Case      911855364 10  2 Bc  k     kf    -          930   20    0 
+Case      911855402  9  1 Bc  k     k     k          910   20   90 8c Ks
+Case      911855460 10 10 c   c     c     c          980   60    0 5d 8c
+Case      911855524 10  9 c   c     c     k          920   40    0 Qd Jc
+Case      911855612 10  8 cc  rc    r     k          880   90    0 Jh Qs
+Case      911855689 10  7 f   -     -     -          790    0    0 
+Case      911855751 10  6 cc  kf    -     -          790   20    0 
+Case      911855857 10  5 cc  c     c     r          770   90  185 9d Kc
+Case      911855922 10  4 cc  kcc   kc    kc         865  120    0 3d Qh
+Case      911856007 10  3 c   kc    k     k          745   30    0 5s 8d
+Case      911856102 10  2 Bk  kc    kc    kc         715   60    0 3s 7s
+Case      911856187 10  1 Bc  kf    -     -          655   10    0 
+Case      911856261 10 10 c   c     c     c          645   60    0 Qc 6d
+Case      911856392 10  9 c   f     -     -          585   10    0 
+Case      911856470 10  9 c   k     f     -          575   20    0 
+Case      911856545 10  7 cc  c     c     k          555   50    0 4h As
+Case      911856594 10  6 cc  kcc   bc    br         505  170  760 2s Qs
+Case      911856725 10  5 cc  k     k     kf        1095   20    0 
+Case      911856815 10  4 c   bc    kc    k         1075   50    0 Qd Kh
+Case      911856880 10  3 c   k     k     bc        1025   50    0 As Qh
+Case      911856989 10  2 Bc  k     bc    kc         975   80    0 Kd Qh
+Case      911857090 10  1 Bc  kc    kc    kc         895   70    0 2c 4d
+Case      911857163 10 10 c   c     f     -          825   20    0 
+Case      911857274 10  9 c   kf    -     -          805   10    0 
+Case      911857351 10  8 c   c     c     c          795   70    0 Kd Jh
+Case      911857395 10  8 c   c     k     f          725   20    0 
+Case      911857486 10  6 cc  r     b     k          705   70    0 8c 9d
+Case      911857560 10  5 c   k     b     b          635   50  165 Th As
+Case      911857645 10  4 c   k     c     k          750   30    0 Qs 5h
+Case      911857705 10  3 c   kc    kc    kQ         720   40    0 

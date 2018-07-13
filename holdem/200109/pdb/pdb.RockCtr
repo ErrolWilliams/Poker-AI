@@ -1,0 +1,388 @@
+RockCtr   999553983 10  5 c   b     b     b         1284   60  230 Ac 8d
+RockCtr   999554063 10  4 c   k     k     f         1454   10    0 
+RockCtr   999554128 10  3 c   f     -     -         1444   10    0 
+RockCtr   999554187 10  2 Bk  brc   kc    k         1434   70  155 Ac 6h
+RockCtr   999554254 10  1 Bcc kc    kc    kf        1519   50    0 
+RockCtr   999554312 10 10 c   k     b     b         1469   50  110 
+RockCtr   999554400 10  9 c   b     c     c         1529   70    0 As Kc
+RockCtr   999554472 10  8 c   c     c     c         1459   80    0 Kd 2d
+RockCtr   999554522 10  7 c   cc    kf    -         1379   40    0 
+RockCtr   999554591 10  6 c   kf    -     -         1339   10    0 
+RockCtr   999554660 10  5 f   -     -     -         1329    0    0 
+RockCtr   999554747 10  5 f   -     -     -         1329    0    0 
+RockCtr   999554810  9  3 f   -     -     -         1329    0    0 
+RockCtr   999554885  9  2 Bc  kc    kc    kf        1329   50    0 
+RockCtr   999555005 10  1 Bcc kc    b     b         1279   70  120 Jd Ts
+RockCtr   999555072 10 10 cf  -     -     -         1329   10    0 
+RockCtr   999555133  9  8 f   -     -     -         1319    0    0 
+RockCtr   999555224 10  8 f   -     -     -         1319    0    0 
+RockCtr   999555279 10  7 f   -     -     -         1319    0    0 
+RockCtr   999555353 10  6 f   -     -     -         1319    0    0 
+RockCtr   999555428 10  6 cc  cc    c     k         1319   70    0 Qd Th
+RockCtr   999555497  9  4 f   -     -     -         1249    0    0 
+RockCtr   999555532  9  3 cc  bc    kc    kf        1249   60    0 
+RockCtr   999555620  8  2 Bc  kf    -     -         1189   20    0 
+RockCtr   999555646  8  1 Bf  -     -     -         1169    5    0 
+RockCtr   999555726  9  9 c   cc    cc    f         1164  140    0 
+RockCtr   999555835  9  8 f   -     -     -         1024    0    0 
+RockCtr   999555893  9  7 cc  cc    f     -         1024   80    0 
+RockCtr   999555982  9  6 f   -     -     -          944    0    0 
+RockCtr   999556030  8  5 c   c     cc    rc         944  120  400 8d Jd
+RockCtr   999556099  7  3 f   -     -     -         1224    0    0 
+RockCtr   999556129  7  2 Bc  k     k     kf        1224   20    0 
+RockCtr   999556213  6  1 Bc  kc    kc    kc        1204   80  270 Tc Kc
+RockCtr   999556273  5  5 c   k     k     f         1394   20    0 
+RockCtr   999556325  5  5 f   -     -     -         1374    0    0 
+RockCtr   999556368  5  4 rr  r     b     b         1374  100  240 Qc Qh
+RockCtr   999556404  5  3 cc  f     -     -         1514   30    0 
+RockCtr   999556435  5  2 Bc  b     kc    kf        1484   70    0 
+RockCtr   999556485  5  1 Bc  k     k     kf        1414   20    0 
+RockCtr   999556521  5  5 cc  rc    c     b         1394  110  350 Kh Th
+RockCtr   999556583  6  4 ccc f     -     -         1634   40    0 
+RockCtr   999556633  6  3 f   -     -     -         1594    0    0 
+RockCtr   999556688  6  2 Bf  -     -     -         1594   10    0 
+RockCtr   999556713  6  1 Bf  -     -     -         1584    5    0 
+RockCtr   999556770  5  5 f   Q     -     -         1579    0    0 
+RockCtr   999904844  3  1 BKQ -     -     -         1609    5    0 
+RockCtr   1000048446  3  3 rc  b     r     b         1574  100    0 8c 8s
+RockCtr   1000048468  3  2 B   -     -     -         1474   10   15 
+RockCtr   1000048474  3  1 Bcc kc    k     k         1479   50    0 6c Jd
+RockCtr   1000048502  3  3 c   k     b     k         1429   30    0 Ks Qc
+RockCtr   1000048519  3  2 Bc  k     k     k         1399   20   45 Qh 9s
+RockCtr   1000048536  3  1 Bc  b     b     b         1424   60  100 
+RockCtr   1000048553  3  3 cc  c     k     k         1464   30   35 5s 7s
+RockCtr   1000048577  3  2 Bk  b     b     b         1469   60  100 
+RockCtr   1000048596  3  1 Br  b     bc    b         1509   90  180 Kc As
+RockCtr   1000048628  3  3 f   -     -     -         1599    0    0 
+RockCtr   1000048633  3  2 Bc  f     -     -         1599   20    0 
+RockCtr   1000048643  3  1 Bc  bc    kc    k         1579   60    0 Jd 8h
+RockCtr   1000048659  3  3 f   -     -     -         1519    0    0 
+RockCtr   1000048664  3  2 Bf  -     -     -         1519   10    0 
+RockCtr   1000048676  3  1 Bf  -     -     -         1509    5    0 
+RockCtr   1000048682  3  3 cc  c     c     f         1504   50    0 
+RockCtr   1000048694  3  2 B   -     -     -         1454   10   15 
+RockCtr   1000048696  3  1 Bc  bc    kc    kc        1459   70    0 5s 4c
+RockCtr   1000048710  3  3 c   c     k     k         1389   20   22 8s 6c
+RockCtr   1000048723  3  2 Bk  b     -     -         1391   20   30 
+RockCtr   1000048733  3  1 Br  -     -     -         1401   20   30 
+RockCtr   1000048737  3  3 c   k     k     r         1411   50   85 
+RockCtr   1000048751  3  2 Bcc c     f     -         1446   50    0 
+RockCtr   1000048769  3  1 Bc  kc    kf    -         1396   30    0 
+RockCtr   1000048780  3  3 cc  bc    k     b         1366   60  140 
+RockCtr   1000048804  3  2 Bcc f     -     -         1446   40    0 
+RockCtr   1000048817  3  1 Bcc kc    k     k         1406   30   60 7s 8s
+RockCtr   1000048832  3  3 f   -     -     -         1436    0    0 
+RockCtr   1000048848  3  2 Bk  c     f     -         1436   20    0 
+RockCtr   1000048860  3  1 Br  bc    bc    kc        1416  110    0 Th Qs
+RockCtr   1000048879  3  3 c   b     -     -         1306   20   35 
+RockCtr   1000048889  3  2 Bc  kf    -     -         1321   20    0 
+RockCtr   1000048896  3  1 Br  k     b     b         1301   70  150 Ac 5c
+RockCtr   1000048908  3  3 c   f     -     -         1381   10    0 
+RockCtr   1000048916  3  2 B   -     -     -         1371   10   15 
+RockCtr   1000048918  3  1 Br  k     b     bf        1376   60    0 
+RockCtr   1000048935  3  3 rc  r     k     k         1316   60    0 5s Ks
+RockCtr   1000048950  3  2 Bc  k     b     -         1256   40   65 
+RockCtr   1000048962  3  1 Brc kc    kf    -         1281   40    0 
+RockCtr   1000048972  3  3 cc  r     k     k         1241   40    0 4h 6c
+RockCtr   1000048983  3  2 Bk  kc    kc    k         1201   40    0 Th 5s
+RockCtr   1000049004  3  1 Bc  kc    k     br        1161   80  180 6d 5h
+RockCtr   1000049027  3  3 c   c     k     k         1261   20    0 5h 4s
+RockCtr   1000049046  3  2 B   -     -     -         1241   10   15 
+RockCtr   1000049051  3  1 Brc kc    kf    -         1246   40    0 
+RockCtr   1000049064  3  3 cc  k     k     k         1206   20    0 Th 3h
+RockCtr   1000049081  3  2 Bc  k     b     b         1186   60  105 
+RockCtr   1000049097  3  1 Bc  k     k     k         1231   10    0 4d 6d
+RockCtr   1000049110  3  3 r   -     -     -         1221   20   35 
+RockCtr   1000049117  2  2 B   -     -     -         1236   10   15 
+RockCtr   1000049119  2  1 Br  k     k     bc        1241   60    0 4s 5d
+RockCtr   1000049132  2  2 B   -     -     -         1181   10   15 
+RockCtr   1000049138  2  1 Bc  b     -     -         1186   20   30 
+RockCtr   1000049141  2  2 Bc  k     r     -         1196   60  100 
+RockCtr   1000049152  2  1 Bc  b     k     k         1236   20   40 6h Jd
+RockCtr   1000049162  2  2 B   -     -     -         1256   10   15 
+RockCtr   1000049166  2  1 Br  -     -     -         1261   20   30 
+RockCtr   1000049169  2  2 Bk  k     k     f         1271   10    0 
+RockCtr   1000049178  2  1 Bf  -     -     -         1261    5    0 
+RockCtr   1000049180  2  2 Bk  k     k     k         1256   10    0 8c 5h
+RockCtr   1000049191  2  1 Bc  b     -     -         1246   20   30 
+RockCtr   1000049198  2  2 Bk  k     b     b         1256   50    0 Tc 6h
+RockCtr   1000049210  2  1 Br  k     b     -         1206   40   60 
+RockCtr   1000049221  2  2 B   -     -     -         1226   10   15 
+RockCtr   1000049223  2  1 Bc  kc    kf    -         1231   20    0 
+RockCtr   1000049236  2  2 Bc  brc   c     b         1211  100  200 8d 7d
+RockCtr   1000049252  2  1 Bc  k     b     b         1311   50   80 
+RockCtr   1000049264  2  2 Br  rr    b     b         1341  110  220 Ah Ad
+RockCtr   1000049293  2  1 Bc  kf    -     -         1451   10    0 
+RockCtr   1000049305  2  2 Br  -     -     -         1441   20   40 
+RockCtr   1000049313  2  1 Br  b     b     bc        1461   90    0 9d Qh
+RockCtr   1000049330  2  2 B   -     -     -         1371   10   15 
+RockCtr   1000049335  2  1 Bcc k     k     b         1376   40   60 
+RockCtr   1000049349  2  2 B   -     -     -         1396   10   15 
+RockCtr   1000049352  2  1 Bcc k     kc    kf        1401   40    0 
+RockCtr   1000049369  3  3 f   -     -     -         1361    0    0 
+RockCtr   1000049388  2  2 Br  b     b     b         1361   80  160 9c Jc
+RockCtr   1000049407  2  1 Bc  k     b     -         1441   30   40 
+RockCtr   1000049417  2  2 Bk  k     f     -         1451   10    0 
+RockCtr   1000049425  2  1 Bf  -     -     -         1441    5    0 
+RockCtr   1000049427  2  2 Bk  b     -     -         1436   20   30 
+RockCtr   1000049433  2  1 Bc  b     b     b         1446   60  100 
+RockCtr   1000049444  2  2 B   -     -     -         1486   10   15 
+RockCtr   1000049445  2  1 Bc  k     kf    -         1491   10    0 
+RockCtr   1000049453  2  2 Bc  r     -     -         1481   40   70 
+RockCtr   1000049459  2  1 Bf  -     -     -         1511    5    0 
+RockCtr   1000049462  2  2 Brc c     c     c         1506   90    0 9h 9s
+RockCtr   1000049478  2  1 Bf  -     -     -         1416    5    0 
+RockCtr   1000049483  2  2 Bc  f     -     -         1411   20    0 
+RockCtr   1000049487  2  1 Bc  k     b     -         1391   30   40 
+RockCtr   1000049494  2  2 Br  k     c     c         1401   70    0 Kc Ad
+RockCtr   1000049506  2  1 Br  b     b     b         1331   70  120 
+RockCtr   1000049520  2  2 B   -     -     -         1381   10   15 
+RockCtr   1000049522  2  1 Bc  k     b     -         1386   30   40 
+RockCtr   1000049530  2  2 B   -     -     -         1396   10   15 
+RockCtr   1000049532  2  1 Bf  -     -     -         1401    5    0 
+RockCtr   1000049535  2  2 B   -     -     -         1396   10   15 
+RockCtr   1000049537  2  1 Bf  -     -     -         1401    5    0 
+RockCtr   1000049539  2  2 Bc  c     c     f         1396   50    0 
+RockCtr   1000049549  2  1 Bcc kc    kc    kc        1346   70    0 Qc 6c
+RockCtr   1000049565  2  2 Bf  -     -     -         1276   10    0 
+RockCtr   1000049570  2  1 Brc kc    k     bc        1266   80    0 Qd 8d
+RockCtr   1000049585  2  2 Bf  -     -     -         1186   10    0 
+RockCtr   1000049590  2  1 Br  b     -     -         1176   30   50 
+RockCtr   1000049597  2  2 Bk  f     -     -         1196   10    0 
+RockCtr   1000049601  2  1 Bc  k     k     k         1186   10   20 4h Qd
+RockCtr   1000049613  2  2 Bf  -     -     -         1196   10    0 
+RockCtr   1000049618  2  1 Brc b     k     k         1186   40    0 Kd 9d
+RockCtr   1000049633  3  2 Bk  k     k     r         1146   50   90 
+RockCtr   1000049656  3  1 Br  b     b     b         1186   70  140 Kh 8h
+RockCtr   1000049671  3  3 cc  brc   c     r         1256  120  250 6c 8s
+RockCtr   1000049701  3  2 Bk  k     b     -         1386   30   45 
+RockCtr   1000049723  4  1 Bc  kc    kc    kf        1401   40    0 
+RockCtr   1000049748  4  4 c   f     -     -         1361   20    0 
+RockCtr   1000049769  4  3 c   k     b     c         1341   50    0 Ac 9c
+RockCtr   1000049797  4  2 Bk  b     -     -         1291   20   40 
+RockCtr   1000049808  4  1 Bf  -     -     -         1311    5    0 
+RockCtr   1000049822  4  4 f   -     -     -         1306    0    0 
+RockCtr   1000049838  4  3 cc  b     k     k         1306   30    0 4c 3h
+RockCtr   1000049864  4  2 Br  k     k     b         1276   40   85 7c 7d
+RockCtr   1000049881  4  1 Bc  k     bc    kc        1321   90    0 4d 2s
+RockCtr   1000049910  4  4 c   c     f     -         1231   20    0 
+RockCtr   1000049937  4  3 cc  k     b     b         1211   60  120 
+RockCtr   1000049962  4  2 Brc c     c     c         1271   90    0 Jd Js
+RockCtr   1000049981  4  1 Bf  -     -     -         1181    5    0 
+RockCtr   1000050004  4  4 f   -     -     -         1176    0    0 
+RockCtr   1000050022  5  3 c   k     k     c         1176   30    0 Ac 8d
+RockCtr   1000050041  5  2 Bk  b     b     rc        1146  100    0 Js 7s
+RockCtr   1000050078  5  1 Bc  k     kf    -         1046   10    0 
+RockCtr   1000050119  5  5 c   k     k     k         1036   20    0 4d 5c
+RockCtr   1000050149  5  4 c   fQ    -     -         1016   20    0 
+RockCtr   1000076464  3  2 Bk  k     k     kf         996   10    0 
+RockCtr   1000076477  3  1 Bc  kf    -     -          986   20    0 
+RockCtr   1000076499  3  3 c   k     k     rr         966   90   95 5d 2d
+RockCtr   1000076522  3  2 Bc  k     b     b          971   60  140 Ts Ah
+RockCtr   1000076541  3  1 Bf  -     -     -         1051    5    0 
+RockCtr   1000076548  3  3 c   c     b     c         1046   60    0 8s 9h
+RockCtr   1000076569  3  2 Bc  k     k     b          986   40   80 
+RockCtr   1000076588  3  1 Bf  -     -     -         1026    5    0 
+RockCtr   1000076590  3  3 f   -     -     -         1021    0    0 
+RockCtr   1000076604  3  2 Bk  b     b     b         1021   60  120 
+RockCtr   1000076621  3  1 Bc  kc    k     k         1081   30    0 4h 5s
+RockCtr   1000076637  3  3 cc  c     c     f         1051   50    0 
+RockCtr   1000076659  3  2 Bc  k     k     f         1001   20    0 
+RockCtr   1000076672  3  1 Bc  k     k     k          981   20    0 Tc 4h
+RockCtr   1000076684  3  3 f   -     -     -          961    0    0 
+RockCtr   1000076692  3  2 Bc  k     k     k          961   20    0 Qd 7d
+RockCtr   1000076707  3  1 Br  b     b     b          941   70  140 9h Jh
+RockCtr   1000076721  3  3 f   -     -     -         1011    0    0 
+RockCtr   1000076733  3  2 Bf  -     -     -         1011   10    0 
+RockCtr   1000076747  3  1 Bc  kc    k     b         1001   50  120 Kd 9h
+RockCtr   1000076764  3  3 f   -     -     -         1071    0    0 
+RockCtr   1000076783  3  2 Bf  -     -     -         1071   10    0 
+RockCtr   1000076794  3  1 Bc  k     k     k         1061   20    0 Kc Js
+RockCtr   1000076809  3  3 f   -     -     -         1041    0    0 
+RockCtr   1000076820  3  2 Bc  c     k     k         1041   30   90 As Qs
+RockCtr   1000076835  3  1 Bc  k     b     b         1101   50    0 9d Qh
+RockCtr   1000076850  3  3 cc  f     -     -         1051   20    0 
+RockCtr   1000076867  3  2 Bc  rc    c     r         1031  110  120 Kc As
+RockCtr   1000076897  3  1 Bc  k     b     -         1041   30   40 
+RockCtr   1000076910  3  3 cc  rc    c     k         1051   70    0 Qd As
+RockCtr   1000076934  3  2 Bc  b     k     c          981   50    0 5d 4h
+RockCtr   1000076956  3  1 Bc  kf    -     -          931   20    0 
+RockCtr   1000076975  3  3 cc  r     b     -          911   60  120 
+RockCtr   1000076995  3  2 Bk  b     b     -          971   40   65 
+RockCtr   1000077003  3  1 Bc  b     b     br         996  100  200 As Jc
+RockCtr   1000077018  3  3 cc  cc    c     f         1096  100    0 
+RockCtr   1000077054  3  2 Bc  kc    kc    k          996   50    0 6s 7d
+RockCtr   1000077087  4  1 Bc  bc    kf    -          946   40    0 
+RockCtr   1000077125  4  4 f   -     -     -          906    0    0 
+RockCtr   1000077159  4  3 f   -     -     -          906    0    0 
+RockCtr   1000077179  4  2 Bcc k     kf    -          906   40    0 
+RockCtr   1000077206  4  1 Bc  kcc   kcc   kf         866  110    0 
+RockCtr   1000077252  4  4 c   b     b     f          756   50    0 
+RockCtr   1000077281  4  3 c   c     c     b          706   60  190 Ks 8d
+RockCtr   1000077305  3  1 Bc  k     b     b          836   60  180 2h 3h
+RockCtr   1000077344  4  1 Bf  -     -     -          956    5    0 
+RockCtr   1000077380  4  4 cc  c     r     -          951   70  140 
+RockCtr   1000077415  3  2 Bk  f     -     -         1021   10    0 
+RockCtr   1000077448  3  1 Bf  -     -     -         1011    5    0 
+RockCtr   1000077474  3  3 cc  c     f     -         1006   30    0 
+RockCtr   1000077509  3  2 Bk  k     k     k          976   10    0 3h 5s
+RockCtr   1000077530  3  1 Br  k     b     -          966   40   60 
+RockCtr   1000077541  3  3 f   -     -     -          986    0    0 
+RockCtr   1000077545  3  2 Br  bc    kc    kc         986   80    0 9c 9s
+RockCtr   1000077576  3  1 Bc  k     k     k          906   10    0 7h Jc
+RockCtr   1000077598  3  3 f   -     -     -          896    0    0 
+RockCtr   1000077644  3  2 Bk  b     bc    k          896   60    0 Th Qs
+RockCtr   1000077695  3  1 Bc  kc    b     -          836   50  100 
+RockCtr   1000077723  4  4 c   f     -     -          886   20    0 
+RockCtr   1000077756  4  3 f   -     -     -          866    0    0 
+RockCtr   1000077805  5  3 rr  c     c     bc         866  110    0 Kh Ks
+RockCtr   1000077876  4  1 Br  b     b     b          756   70  170 
+RockCtr   1000077916  4  1 Bc  kc    k     kf         856   30    0 
+RockCtr   1000077974  4  4 cc  cc    f     -          826   60    0 
+RockCtr   1000078035  4  3 f   -     -     -          766    0    0 
+RockCtr   1000078069  5  3 f   -     -     -          766    0    0 
+RockCtr   1000078088  5  2 Bf  -     -     -          766   10    0 
+RockCtr   1000078159  5  1 Bc  kf    -     -          756   20    0 
+RockCtr   1000078209  5  5 c   k     c     k          736   30    0 8c Tc
+RockCtr   1000078255  6  5 c   k     k     k          706   10   17 Th 5h
+RockCtr   1000078279  6  4 c   r     k     k          713   30    0 2c 3c
+RockCtr   1000078313  6  3 f   -     -     -          683    0    0 
+RockCtr   1000078383  6  2 Bc  kf    Q     -          683   20    0 
+RockCtr   1000162367 10  7 c   k     k     f          663   10    0 
+RockCtr   1000162420 10  6 cc  c     c     b          653   70  200 3c Ac
+RockCtr   1000162453  9  5 c   b     b     b          783   60  185 8d 9h
+RockCtr   1000162511  9  4 cc  k     kc    k          908   40    0 Jc Kd
+RockCtr   1000162571  9  3 f   -     -     -          868    0    0 
+RockCtr   1000162600  9  2 Bk  f     -     -          868   10    0 
+RockCtr   1000162656  9  1 Bc  k     b     k          858   40    0 9s 8c
+RockCtr   1000162689  9  9 c   f     -     -          818   10    0 
+RockCtr   1000162721  8  7 c   k     k     b          808   30    0 7c 7h
+RockCtr   1000162750  8  6 c   c     c     f          778   40    0 
+RockCtr   1000162786  8  5 f   -     -     -          738    0    0 
+RockCtr   1000162811  8  4 cc  r     b     b          738  100  350 
+RockCtr   1000162879  8  3 cc  f     -     -          988   30    0 
+RockCtr   1000162930  8  2 Bc  kc    kc    kf         958   70    0 
+RockCtr   1000162992  8  1 Bc  kf    -     -          888   10    0 
+RockCtr   1000163023  8  8 cc  c     f     -          878   40    0 
+RockCtr   1000163070  8  7 c   c     f     -          838   30    0 
+RockCtr   1000163095  8  6 c   c     c     k          808   50    0 9h 2h
+RockCtr   1000163140  8  5 c   r     b     -          758   50  125 
+RockCtr   1000163179  8  4 ccc f     -     -          833   40    0 
+RockCtr   1000163254 10  4 r   b     rc    b          793  110    0 As Ac
+RockCtr   1000163304 10  3 fQ  -     -     -          683    0    0 
+RockCtr   1000236440  2  1 Bc  k     k     k          683   10    0 7s 8d
+RockCtr   1000236461  2  2 B   -     -     -          673   10   15 
+RockCtr   1000236470  3  1 Bcc bc    k     br         678  110  135 7d Js
+RockCtr   1000236584  3  3 f   -     -     -          703    0    0 
+RockCtr   1000236591  3  2 Bk  c     c     fQ         703   40    0 
+RockCtr   1000237011  4  2 Bk  f     -     -          663   10    0 
+RockCtr   1000237024  4  1 Bc  k     k     k          653   20   25 4h As
+RockCtr   1000237048  4  4 c   b     -     -          658   20   40 
+RockCtr   1000237070  4  3 f   -     -     -          678    0    0 
+RockCtr   1000237092  4  2 B   -     -     -          678   10   15 
+RockCtr   1000237096  4  1 Bc  b     b     -          683   50  120 
+RockCtr   1000237116  4  4 c   b     -     -          753   20   40 
+RockCtr   1000237135  4  3 f   -     -     -          773    0    0 
+RockCtr   1000237168  4  2 Br  b     kr    b          773  100  205 Qc Qs
+RockCtr   1000237192  4  1 Bf  -     -     -          878    5    0 
+RockCtr   1000237204  4  4 c   rc    c     k          873   70    0 5h 3c
+RockCtr   1000237241  4  3 c   k     k     b          803   30   45 
+RockCtr   1000237286  4  2 Br  b     b     b          818   70  165 Td Ts
+RockCtr   1000237312  4  1 Bc  b     -     -          913   20   30 
+RockCtr   1000237333  4  4 c   f     -     -          923   20    0 
+RockCtr   1000237376  4  3 c   b     -     -          903   20   35 
+RockCtr   1000237389  4  2 Bf  -     -     -          918   10    0 
+RockCtr   1000237401  4  1 Bf  -     -     -          908    5    0 
+RockCtr   1000237449  5  4 c   r     b     b          903   70  125 
+RockCtr   1000237481  5  4 f   -     -     -          958    0    0 
+RockCtr   1000237494  4  2 B   -     -     -          958   10   15 
+RockCtr   1000237505  4  1 Bc  k     kf    -          963   20    0 
+RockCtr   1000237544  4  4 f   -     -     -          943    0    0 
+RockCtr   1000237574  4  3 c   b     b     b          943   60  145 9s 7d
+RockCtr   1000237605  4  2 Bk  k     k     k         1028   10    0 2c Ks
+RockCtr   1000237651  4  1 Bc  kc    kc    kf        1018   50    0 
+RockCtr   1000237696  4  4 f   -     -     -          968    0    0 
+RockCtr   1000237718  4  3 Q   -     -     -          968    0    0 
+RockCtr   1000247498  5  3 c   b     k     k          968   20    0 Th 5s
+RockCtr   1000247553  5  2 Bk  k     b     -          948   30   55 
+RockCtr   1000247588  7  1 Bc  kcc   kc    kf         973   60    0 
+RockCtr   1000247633  7  7 c   f     -     -          913   10    0 
+RockCtr   1000247705  8  7 c   k     f     -          903   10    0 
+RockCtr   1000247829  8  7 c   k     k     k          893   10    0 3d Ah
+RockCtr   1000247956  6  3 c   KQ    -     -          883   10    0 
+RockCtr   1000425022 10  6 c   c     f     -          873   30    0 
+RockCtr   1000425084  9  5 cc  kc    kc    kf         843   50    0 
+RockCtr   1000425189  8  3 c   k     k     k          793   10    0 8h 7s
+RockCtr   1000425218  8  3 cc  bcc   kc    brc        783  180    0 Ks 9h
+RockCtr   1000425289  8  2 Bc  kf    -     -          603   20    0 
+RockCtr   1000425324  8  1 Bc  bc    k     bc         583   80    0 Th Jc
+RockCtr   1000425360  8  8 c   k     f     -          503   20    0 
+RockCtr   1000425413  8  7 c   b     b     b          483   60  150 
+RockCtr   1000425468  9  6 cc  c     c     f          573   80    0 
+RockCtr   1000425550  9  5 c   k     k     f          493   10    0 
+RockCtr   1000425597 10  4 c   cc    bc    b          483  100  395 Th As
+RockCtr   1000425647 10  3 c   k     k     k          778   10    0 7s Th
+RockCtr   1000425703 10  2 Bc  f     -     -          768   20    0 
+RockCtr   1000425749 10  1 Bc  kc    kc    kf         748   40    0 
+RockCtr   1000425827 10 10 f   -     -     -          708    0    0 
+RockCtr   1000425935 10  9 c   c     r     b          708  100  152 8d Qd
+RockCtr   1000425987  9  7 c   c     c     f          760   40    0 
+RockCtr   1000426095  8  5 cc  kf    -     -          720   20    0 
+RockCtr   1000426204  7  4 cc  kf    -     -          700   20    0 
+RockCtr   1000426242  7  3 c   b     -     -          680   20   45 
+RockCtr   1000426297  6  2 Bc  kc    kc    kf         705   60    0 
+RockCtr   1000426355  6  1 Bf  -     -     -          645    5    0 
+RockCtr   1000426392  5  5 c   c     c     k          640   40    0 8h Kh
+RockCtr   1000426412  5  4 cc  cc    b     b          600   90  120 Td 5d
+RockCtr   1000426570  4  3 f   -     -     -          630    0    0 
+RockCtr   1000426620  5  3 c   c     f     -          630   20    0 
+RockCtr   1000426660  5  2 Bk  k     kf    -          610   10    0 
+RockCtr   1000426684  5  1 Bc  b     b     br         600  100  180 
+RockCtr   1000426712  6  5 c   rr    b     b          680   90  280 8s 7s
+RockCtr   1000426781  6  4 cc  f     -     -          870   20    0 
+RockCtr   1000426847  6  3 r   b     b     b          850   70  180 
+RockCtr   1000426898  5  1 Bc  kf    -     -          960   20    0 
+RockCtr   1000426932  5  1 Bf  -     -     -          940    5    0 
+RockCtr   1000426995  6  6 f   -     -     -          935    0    0 
+RockCtr   1000427029  6  5 c   cc    f     -          935   30    0 
+RockCtr   1000427086  6  4 c   f     -     -          905   10    0 
+RockCtr   1000427120  6  3 c   kf    -     -          895   10    0 
+RockCtr   1000427157  6  2 Bk  kc    kc    kc         885   60    0 Ah 4d
+RockCtr   1000427198  6  1 Br  bc    b     b          825   80  270 Ad Ah
+RockCtr   1000427255  6  6 c   k     k     r         1015   50  110 Js 3s
+RockCtr   1000427305  6  5 cc  k     f     -         1075   20    0 
+RockCtr   1000427355  6  4 c   r     b     -         1055   50  120 
+RockCtr   1000427428  5  2 c   k     k     r         1125   50    0 3c Tc
+RockCtr   1000427487  5  2 Bc  brc   kc    bc        1075  120  305 Td 7h
+RockCtr   1000427536  5  1 Bf  -     -     -         1260    5    0 
+RockCtr   1000427582  5  5 f   -     -     -         1255    0    0 
+RockCtr   1000427618  5  4 cc  c     c     r         1255   90  220 
+RockCtr   1000427664  6  4 cc  kf    -     -         1385   30    0 
+RockCtr   1000427735  7  3 cc  b     k     k         1355   40    0 3h 2s
+RockCtr   1000427788  7  2 Bk  kf    -     -         1315   10    0 
+RockCtr   1000427824  7  1 Bc  br    b     b         1305   90  200 8s 8h
+RockCtr   1000427862  7  7 f   -     -     -         1415    0    0 
+RockCtr   1000427927  6  5 f   -     -     -         1415    0    0 
+RockCtr   1000427991  7  4 c   c     c     f         1415   40    0 
+RockCtr   1000428037  7  3 r   -     -     -         1375   20   35 
+RockCtr   1000428051  7  2 Bk  b     k     b         1390   40  100 Ts Kc
+RockCtr   1000428095  8  1 Bc  kc    kc    k         1450   40    0 Js 9c
+RockCtr   1000428157  8  8 f   -     -     -         1410    0    0 
+RockCtr   1000428222  9  8 c   b     -     -         1410   20   45 
+RockCtr   1000428255  8  6 f   -     -     -         1435    0    0 
+RockCtr   1000428336  9  5 c   c     bc    f         1435   70    0 
+RockCtr   1000428399 10  4 c   c     kf    -         1365   20    0 
+RockCtr   1000428503 10  3 f   -     -     -         1345    0    0 
+RockCtr   1000428564 10  2 Bk  k     k     brc       1345   90    0 Jh 4d
+RockCtr   1000428645 10  1 Bc  b     bc    br        1255  120  400 Tc Ks
+RockCtr   1000428721 10 10 c   c     k     k         1535   20    0 Jh 7c
+RockCtr   1000428773 10  9 f   -     -     -         1515    0    0 
+RockCtr   1000428824 10  8 c   b     k     f         1515   20    0 
+RockCtr   1000428911 10  7 c   f     -     -         1495   10    0 
+RockCtr   1000428963  9  5 c   k     k     k         1485   10    0 Td Jc
+RockCtr   1000428998  9  4 c   k     k     f         1475   10    0 
+RockCtr   1000429039 10  4 f   -     -     -         1465    0    0 
+RockCtr   1000429125 10  3 cc  k     kc    kf        1465   60    0 
+RockCtr   1000429218 10  2 Bc  f     -     -         1405   20    0 
+RockCtr   1000429263 10  1 Bc  bc    k     k         1385   30    0 9d Kd
+RockCtr   1000429332 10 10 c   fQ    -     -         1355   20    0 

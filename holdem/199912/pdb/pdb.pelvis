@@ -1,0 +1,93 @@
+pelvis    944851883 10  9 c   c     f     -         1000   20    0 
+pelvis    944851960 10  8 f   -     -     -          980    0    0 
+pelvis    944852031 10  7 f   -     -     -          980    0    0 
+pelvis    944852105 10  6 f   -     -     -          980    0    0 
+pelvis    944852180 10  5 f   -     -     -          980    0    0 
+pelvis    944852310 10  4 f   -     -     -          980    0    0 
+pelvis    944852348 10  3 c   b     b     br         980  100  270 Ks 2s
+pelvis    944852412 10  2 Bc  kf    -     -         1150   20    0 
+pelvis    944852496 10  1 Bc  kf    -     -         1130   10    0 
+pelvis    944852580 10 10 f   -     -     -         1120    0    0 
+pelvis    944852655 10  9 f   -     -     -         1120    0    0 
+pelvis    944852708 10  8 f   -     -     -         1120    0    0 
+pelvis    944852750 10  8 c   b     b     -         1120   40   80 
+pelvis    944852794 10  6 f   -     -     -         1160    0    0 
+pelvis    944852845 10  5 c   k     kf    -         1160   10    0 
+pelvis    944852984 10  4 f   -     -     -         1150    0    0 
+pelvis    944853039 10  3 f   -     -     -         1150    0    0 
+pelvis    944853146 10  2 Bc  kc    kc    kc        1150   70    0 Js 5h
+pelvis    944853225 10  1 Bf  -     -     -         1080    5    0 
+pelvis    944853287 10 10 c   b     b     b         1075   60    0 Qs Jh
+pelvis    944853405 10  9 c   b     -     -         1015   20   35 
+pelvis    944853461 10  8 f   -     -     -         1030    0    0 
+pelvis    944853523 10  7 c   c     c     f         1030   50    0 
+pelvis    944853622 10  6 f   -     -     -          980    0    0 
+pelvis    944853660 10  5 f   -     -     -          980    0    0 
+pelvis    944853793 10  4 c   rc    brc   k          980  140    0 Ah Jh
+pelvis    944853876 10  3 c   k     k     k          840   10    0 8c Qc
+pelvis    944853956 10  2 Bc  kf    -     -          830   20    0 
+pelvis    944854027 10  1 Bc  k     b     -          810   30   70 
+pelvis    944854072 10 10 f   -     -     -          850    0    0 
+pelvis    944854153 10  9 f   -     -     -          850    0    0 
+pelvis    944854216  9  7 c   f     -     -          850   10    0 
+pelvis    944854304  9  6 c   f     -     -          840   10    0 
+pelvis    944854354  9  5 f   -     -     -          830    0    0 
+pelvis    944854398  9  4 c   f     -     -          830   20    0 
+pelvis    944854454  9  3 c   b     b     br         810  100  235 Qh 5d
+pelvis    944854497  9  2 Bk  kf    -     -          945   10    0 
+pelvis    944854559  9  1 Bc  kf    -     -          935   10    0 
+pelvis    944854607  9  9 c   b     b     b          925   60  115 
+pelvis    944854653  8  7 f   -     -     -          980    0    0 
+pelvis    944854700  8  6 f   -     -     -          980    0    0 
+pelvis    944854744  8  5 f   -     -     -          980    0    0 
+pelvis    944854809  9  5 cc  bc    bc    b          980  100    0 6c Ah
+pelvis    944854878  9  4 f   -     -     -          880    0    0 
+pelvis    944854928  9  3 c   b     -     -          880   20   45 
+pelvis    944854954  9  2 Br  b     b     b          905   70  195 5c 9h
+pelvis    944855002  9  1 Bc  b     bc    b         1030   80    0 8d Jd
+pelvis    944855072  9  9 c   r     b     b          950   70    0 As 3h
+pelvis    944855131  9  8 Q   -     -     -          880    0    0 
+pelvis    945008254  9  8 f   -     -     -          880    0    0 
+pelvis    945008313  9  7 c   r     b     rr         880  140    0 2s Ks
+pelvis    945008374  9  6 f   -     -     -          740    0    0 
+pelvis    945008421  9  5 c   kf    -     -          740   10    0 
+pelvis    945008483  9  4 c   b     brc   bc         730  140  305 Ac Ah
+pelvis    945008562  8  2 Bk  k     b     b          895   50  100 
+pelvis    945008635 10  1 Bf  -     -     -          945    5    0 
+pelvis    945008691 10 10 f   -     -     -          940    0    0 
+pelvis    945008724 10  9 f   -     -     -          940    0    0 
+pelvis    945008770 10  8 c   b     b     -          940   40   95 
+pelvis    945008812 10  7 f   -     -     -          995    0    0 
+pelvis    945008865 10  6 c   b     -     -          995   20   45 
+pelvis    945008887 10  5 f   -     -     -         1020    0    0 
+pelvis    945008922 10  4 f   -     -     -         1020    0    0 
+pelvis    945008952 10  3 c   bc    b     bc        1020   90    0 Ah Qd
+pelvis    945009008 10  2 Bf  -     -     -          930   10    0 
+pelvis    945009070 10  1 Br  b     b     b          920   70    0 Ad Ks
+pelvis    945009113 10 10 f   -     -     -          850    0    0 
+pelvis    945009186 10  9 c   b     -     -          850   20   45 
+pelvis    945009213 10  8 c   b     b     b          875   60    0 Js Jh
+pelvis    945009258  9  6 f   -     -     -          815    0    0 
+pelvis    945009341  9  6 c   r     k     k          815   40  115 Jh 3h
+pelvis    945009392  9  4 Q   -     -     -          890    0    0 
+pelvis    945167213  9  3 c   b     b     b          890   60    0 9c 9d
+pelvis    945167284  9  2 Bk  k     k     kc         830   30    0 9s Qh
+pelvis    945167328 10  1 Br  brc   br    b          800  160  420 Qc Ad
+pelvis    945167414 10 10 c   k     b     k         1060   30   95 Jh Qd
+pelvis    945167487 10  9 c   b     b     br        1125  120  450 6h 6c
+pelvis    945167601 10  8 f   -     -     -         1455    0    0 
+pelvis    945167709 10  7 c   c     f     -         1455   20    0 
+pelvis    945167801 10  7 c   f     -     -         1435   20    0 
+pelvis    945167880  8  5 f   -     -     -         1415    0    0 
+pelvis    945167930  7  3 f   -     -     -         1415    0    0 
+pelvis    945167989  7  2 Bk  k     kc    k         1415   30    0 2s 7c
+pelvis    945168038  7  1 Bf  -     -     -         1385    5    0 
+pelvis    945168085  7  7 f   -     -     -         1380    0    0 
+pelvis    945168168  9  8 f   -     -     -         1380    0    0 
+pelvis    945168230 10  8 c   c     bc    k         1380   70    0 6c Qd
+pelvis    945168325 10  7 f   -     -     -         1310    0    0 
+pelvis    945168356 10  6 f   -     -     -         1310    0    0 
+pelvis    945168394 10  5 f   -     -     -         1310    0    0 
+pelvis    945168448 10  4 f   -     -     -         1310    0    0 
+pelvis    945168504 10  3 r   b     b     b         1310   70  270 3c Ah
+pelvis    945168554 10  2 Bk  kfQ   -     -         1510   10    0 

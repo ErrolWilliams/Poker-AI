@@ -1,0 +1,816 @@
+Riemann   947574431  7  5 f   -     -     -          440    0    0 
+Riemann   947574630  6  3 f   -     -     -          440    0    0 
+Riemann   947574655  7  2 Bk  k     k     k          440   10   55 Td 9d
+Riemann   947574737  8  1 Bf  -     -     -          485    5    0 
+Riemann   947574793  9  9 f   -     -     -          480    0    0 
+Riemann   947574851  8  7 f   -     -     -          480    0    0 
+Riemann   947574923  7  6 f   -     -     -          480    0    0 
+Riemann   947575045  8  5 f   -     -     -          480    0    0 
+Riemann   947575110  8  4 f   -     -     -          480    0    0 
+Riemann   947575194  9  3 f   -     -     -          480    0    0 
+Riemann   947575309  9  2 Bc  cc    kc    kr         480  100  330 Tc Jc
+Riemann   947575442  8  1 Bf  -     -     -          710    5    0 
+Riemann   947575501  8  8 f   -     -     -          705    0    0 
+Riemann   947575557  9  7 rc  c     cc    cc         705  160    0 Qc Qd
+Riemann   947575741  8  6 f   -     -     -          545    0    0 
+Riemann   947575799  9  5 f   -     -     -          545    0    0 
+Riemann   947575862  9  4 f   -     -     -          545    0    0 
+Riemann   947575994  9  3 c   kf    -     -          545   10    0 
+Riemann   947576127  9  2 Bk  k     k     kf         535   10    0 
+Riemann   947576206  9  1 Bf  -     -     -          525    5    0 
+Riemann   947576299  9  9 f   -     -     -          520    0    0 
+Riemann   947576383  9  8 f   -     -     -          520    0    0 
+Riemann   947576447  8  6 c   k     b     r          520   80  210 Jc Qh
+Riemann   947576538  8  6 f   -     -     -          650    0    0 
+Riemann   947576578  8  5 r   c     c     c          650   70    0 Kd Ks
+Riemann   947576638  8  4 f   -     -     -          580    0    0 
+Riemann   947576686  8  3 c   bc    c     r          580   90  220 Ks Qc
+Riemann   947576775  9  2 Bf  -     -     -          710   10    0 
+Riemann   947576856  8  1 Bf  -     -     -          700    5    0 
+Riemann   947576914  8  8 c   b     c     f          695   40    0 
+Riemann   947577018  8  7 c   f     -     -          655   10    0 
+Riemann   947577100  8  6 f   -     -     -          645    0    0 
+Riemann   947577159  9  5 f   -     -     -          645    0    0 
+Riemann   947577232  9  4 f   -     -     -          645    0    0 
+Riemann   947577304  9  3 c   kc    kf    -          645   20    0 
+Riemann   947577454 10  2 Bk  kc    kf    -          625   20    0 
+Riemann   947577584 10  1 Bf  -     -     -          605    5    0 
+Riemann   947577650 10 10 f   -     -     -          600    0    0 
+Riemann   947577742  9  8 f   -     -     -          600    0    0 
+Riemann   947577846 10  8 f   -     -     -          600    0    0 
+Riemann   947577891 10  7 f   -     -     -          600    0    0 
+Riemann   947577967 10  6 c   kc    kc    kf         600   40    0 
+Riemann   947578064 10  5 f   -     -     -          560    0    0 
+Riemann   947578160  9  5 c   kc    k     k          560   20   90 7h 7c
+Riemann   947578269  8  3 f   -     -     -          630    0    0 
+Riemann   947578359  8  2 Bk  kc    kf    -          630   30    0 
+Riemann   947578435  8  1 Bf  -     -     -          600    5    0 
+Riemann   947578560  8  8 f   -     -     -          595    0    0 
+Riemann   947578629  8  7 c   c     f     -          595   20    0 
+Riemann   947578712  9  6 f   -     -     -          575    0    0 
+Riemann   947578764  9  5 r   f     -     -          575   20    0 
+Riemann   947578833 10  4 f   -     -     -          555    0    0 
+Riemann   947578894 10  3 f   -     -     -          555    0    0 
+Riemann   947578940 10  2 Bf  -     -     -          555   10    0 
+Riemann   947578976 10  1 Bf  -     -     -          545    5    0 
+Riemann   947579096 10 10 f   -     -     -          540    0    0 
+Riemann   947579201 10  9 f   -     -     -          540    0    0 
+Riemann   947579278 10  8 f   -     -     -          540    0    0 
+Riemann   947579376 10  7 f   -     -     -          540    0    0 
+Riemann   947579409 10  6 c   kc    kf    -          540   20    0 
+Riemann   947579494 10  5 f   -     -     -          520    0    0 
+Riemann   947579551 10  4 f   -     -     -          520    0    0 
+Riemann   947579607 10  3 f   -     -     -          520    0    0 
+Riemann   947579740 10  2 Bk  kf    -     -          520   10    0 
+Riemann   947579796 10  1 Bf  -     -     -          510    5    0 
+Riemann   947579937 10 10 f   -     -     -          505    0    0 
+Riemann   947580060 10  9 f   -     -     -          505    0    0 
+Riemann   947580134 10  8 c   k     f     -          505   10    0 
+Riemann   947580237 10  7 f   -     -     -          495    0    0 
+Riemann   947580344 10  6 f   -     -     -          495    0    0 
+Riemann   947580438 10  5 f   -     -     -          495    0    0 
+Riemann   947580468 10  4 f   -     -     -          495    0    0 
+Riemann   947580563 10  3 f   -     -     -          495    0    0 
+Riemann   947580640 10  2 Bk  k     kf    -          495   10    0 
+Riemann   947580752 10  1 Bf  -     -     -          485    5    0 
+Riemann   947580831  9  9 c   f     -     -          480   10    0 
+Riemann   947580919 10  9 f   -     -     -          470    0    0 
+Riemann   947580986 10  8 c   kc    kc    kc         470   60    0 9h 9c
+Riemann   947581082 10  7 f   -     -     -          410    0    0 
+Riemann   947581191  9  5 f   -     -     -          410    0    0 
+Riemann   947581230  9  4 f   -     -     -          410    0    0 
+Riemann   947581274  9  3 f   -     -     -          410    0    0 
+Riemann   947581357 10  2 Bk  kf    -     -          410   10    0 
+Riemann   947581454 10  1 Bc  k     k     b          400   30   90 4d Tc
+Riemann   947581529 10 10 f   -     -     -          460    0    0 
+Riemann   947581616 10  9 c   f     -     -          460   20    0 
+Riemann   947581741 10  8 f   -     -     -          440    0    0 
+Riemann   947581859 10  7 f   -     -     -          440    0    0 
+Riemann   947581987 10  6 f   -     -     -          440    0    0 
+Riemann   947582085 10  5 cc  kf    -     -          440   20    0 
+Riemann   947582228 10  4 f   -     -     -          420    0    0 
+Riemann   947582328 10  3 f   -     -     -          420    0    0 
+Riemann   947582404 10  2 Bk  kc    kr    kf         420   60    0 
+Riemann   947582554 10  1 Bf  -     -     -          360    5    0 
+Riemann   947582593 10 10 f   -     -     -          355    0    0 
+Riemann   947582639 10  9 cc  cc    cc    kc         355  110    0 Ad 4h
+Riemann   947582759 10  8 f   -     -     -          245    0    0 
+Riemann   947582808 10  7 c   k     k     k          245   10    0 2c 2s
+Riemann   947582891 10  6 f   -     -     -          235    0    0 
+Riemann   947582965 10  5 f   -     -     -          235    0    0 
+Riemann   947582996 10  4 f   -     -     -          235    0    0 
+Riemann   947583049 10  3 f   -     -     -          235    0    0 
+Riemann   947583086 10  2 Bk  f     -     -          235   10    0 
+Riemann   947583192 10  1 Bc  k     kf    -          225   10    0 
+Riemann   947583266 10 10 r   b     b     k          215   50  165 Ac Ad
+Riemann   947583358 10  9 f   -     -     -          330    0    0 
+Riemann   947583431 10  8 c   k     k     r          330   50    0 2s Ad
+Riemann   947583568 10  7 f   -     -     -          280    0    0 
+Riemann   947583642 10  6 cf  -     -     -          280   10    0 
+Riemann   947583790 10  5 c   k     k     f          270   10    0 
+Riemann   947583857 10  4 f   -     -     -          260    0    0 
+Riemann   947583921 10  3 f   -     -     -          260    0    0 
+Riemann   947583963 10  2 Bf  -     -     -          260   10    0 
+Riemann   947584025 10  1 Bc  b     kc    kc         250   60    0 As 3s
+Riemann   947584121 10 10 f   -     -     -          190    0    0 
+Riemann   947584181  9  8 c   c     c     c          190   60  160 Th Ts
+Riemann   947584282 10  8 f   -     -     -          290    0    0 
+Riemann   947584399 10  7 f   -     -     -          290    0    0 
+Riemann   947584476 10  6 c   k     c     c          290   50    0 Td Ah
+Riemann   947584600 10  5 f   -     -     -          240    0    0 
+Riemann   947584693 10  4 f   -     -     -          240    0    0 
+Riemann   947584763 10  3 f   -     -     -          240    0    0 
+Riemann   947584858  9  2 Bk  k     k     kr         240   50   90 
+Riemann   947584914  9  1 Bf  -     -     -          280    5    0 
+Riemann   947584953  9  9 f   -     -     -          275    0    0 
+Riemann   947585020  9  8 c   b     r     b          275   80  215 Ks 3s
+Riemann   947585107  9  7 f   -     -     -          410    0    0 
+Riemann   947585200 10  6 f   -     -     -          410    0    0 
+Riemann   947585264 10  5 c   k     c     b          410   50    0 8d Ac
+Riemann   947585383 10  4 f   -     -     -          360    0    0 
+Riemann   947585463 10  3 c   kf    -     -          360   10    0 
+Riemann   947585609 10  2 Bk  kcc   kc    kf         350   50    0 
+Riemann   947585734 10  1 Bc  kf    -     -          300   10    0 
+Riemann   947585829 10 10 f   -     -     -          290    0    0 
+Riemann   947585935 10  9 f   -     -     -          290    0    0 
+Riemann   947586021 10  8 f   -     -     -          290    0    0 
+Riemann   947586112 10  7 f   -     -     -          290    0    0 
+Riemann   947586195 10  6 c   c     k     c          290   40  115 Ad 7s
+Riemann   947586241 10  5 f   -     -     -          365    0    0 
+Riemann   947586304 10  4 f   -     -     -          365    0    0 
+Riemann   947586436 10  3 f   -     -     -          365    0    0 
+Riemann   947586516 10  2 Bf  -     -     -          365   10    0 
+Riemann   947586635 10  1 Bc  k     kf    -          355   10    0 
+Riemann   947586719 10 10 cc  c     c     f          345   50    0 
+Riemann   947586781 10  9 cc  c     c     f          295   80    0 
+Riemann   947586938 10  8 f   -     -     -          215    0    0 
+Riemann   947586998 10  7 Q   -     -     -          215    0    0 
+Riemann   947651359  6  3 f   -     -     -         1000    0    0 
+Riemann   947651445  6  2 Bk  k     kf    -         1000   10    0 
+Riemann   947651578  8  1 Bc  kf    -     -          990   20    0 
+Riemann   947651648  7  7 f   -     -     -          970    0    0 
+Riemann   947651738  7  6 f   -     -     -          970    0    0 
+Riemann   947651788  7  5 c   cf    -     -          970   20    0 
+Riemann   947651865  7  4 cc  f     -     -          950   20    0 
+Riemann   947651931  9  3 f   -     -     -          930    0    0 
+Riemann   947651998  9  2 Bk  kf    -     -          930   10    0 
+Riemann   947652051  9  1 Bf  -     -     -          920    5    0 
+Riemann   947652096 10 10 c   b     f     -          915   20    0 
+Riemann   947652185 10  9 f   -     -     -          895    0    0 
+Riemann   947652306 10  8 c   k     c     k          895   30    0 5h 6d
+Riemann   947652379  9  6 f   -     -     -          865    0    0 
+Riemann   947652452 10  6 f   -     -     -          865    0    0 
+Riemann   947652561 10  5 f   -     -     -          865    0    0 
+Riemann   947652654 10  4 f   -     -     -          865    0    0 
+Riemann   947652732 10  3 f   -     -     -          865    0    0 
+Riemann   947652809 10  2 Bc  k     b     k          865   40  160 8d As
+Riemann   947652897 10  1 Bf  -     -     -          985    5    0 
+Riemann   947652976 10 10 c   f     -     -          980   10    0 
+Riemann   947653053 10  9 f   -     -     -          970    0    0 
+Riemann   947653135 10  8 f   -     -     -          970    0    0 
+Riemann   947653224  9  6 f   -     -     -          970    0    0 
+Riemann   947653313 10  6 f   -     -     -          970    0    0 
+Riemann   947653365  9  5 f   -     -     -          970    0    0 
+Riemann   947653427  9  4 f   -     -     -          970    0    0 
+Riemann   947653482  9  4 f   -     -     -          970    0    0 
+Riemann   947653530  8  2 Bk  kf    -     -          970   10    0 
+Riemann   947653592  6  1 Bc  k     kf    -          960   10    0 
+Riemann   947653656  6  6 cc  cc    f     -          950   70    0 
+Riemann   947653774  5  5 f   -     -     -          880    0    0 
+Riemann   947653813  6  4 c   kf    -     -          880   10    0 
+Riemann   947653876  7  4 r   b     k     c          870   50    0 Qh Qc
+Riemann   947653924  7  4 f   -     -     -          820    0    0 
+Riemann   947653957  6  2 Bk  kc    kc    krr        820  120  140 3h Qd
+Riemann   947654022  5  1 Bf  -     -     -          840    5    0 
+Riemann   947654078  6  6 c   cc    c     c          835  110    0 Qs Qc
+Riemann   947654142  7  6 c   c     k     c          725   50    0 Ad Td
+Riemann   947654207  6  4 f   -     -     -          675    0    0 
+Riemann   947654254  6  4 rc  c     k     k          675   40  115 Th 4d
+Riemann   947654292  6  3 cc  c     c     c          750   70    0 Kh 8h
+Riemann   947654342  5  2 Bc  br    b     b          680   90    0 Ts Ad
+Riemann   947654385  5  1 Bc  kc    kc    br         590  110    0 6c 5c
+Riemann   947654457  6  6 c   k     c     b          480   50  140 Ks 8s
+Riemann   947654508  8  6 c   f     -     Q          570   10    0 
+Riemann   948007319 10  9 cc  c     c     f         1910   50    0 
+Riemann   948007389 10  8 fQ  -     -     -         1860    0    0 
+Riemann   948227934  8  4 f   -     -     -         2185    0    0 
+Riemann   948228037 10  3 f   -     -     -         2185    0    0 
+Riemann   948228095  9  2 Bf  -     -     -         2185   10    0 
+Riemann   948228145 10  1 Bf  -     -     -         2175    5    0 
+Riemann   948228192 10 10 f   -     -     -         2170    0    0 
+Riemann   948228236 10  9 c   f     -     -         2170   10    0 
+Riemann   948228281 10  8 c   f     -     Q         2160   10    0 
+Riemann   948309884  9  9 c   cc    r     b         3320  130  640 4c Qc
+Riemann   948309965  9  8 f   -     -     -         3830    0    0 
+Riemann   948310035 10  8 f   -     -     -         3830    0    0 
+Riemann   948310124  9  7 f   -     -     -         3830    0    0 
+Riemann   948310183  9  6 f   -     -     -         3830    0    0 
+Riemann   948310250  9  5 cc  c     kc    kf        3830   50    0 
+Riemann   948310330  9  4 f   -     -     -         3780    0    0 
+Riemann   948310396  8  2 Bk  kf    -     -         3780   10    0 
+Riemann   948310466  8  1 Bc  k     k     k         3770   10    0 Qd Js
+Riemann   948310565  8  8 c   c     c     b         3760   60    0 3s 3c
+Riemann   948310621  7  6 c   f     -     -         3700   10    0 
+Riemann   948310662  8  5 f   -     -     -         3690    0    0 
+Riemann   948310748  8  4 f   -     -     -         3690    0    0 
+Riemann   948310804  9  3 f   -     -     -         3690    0    0 
+Riemann   948310891  9  2 Bcc kf    -     -         3690   30    0 
+Riemann   948311016 10  1 Bc  kf    -     -         3660   10    0 
+Riemann   948311136  9  9 f   -     -     -         3650    0    0 
+Riemann   948311194  9  8 f   -     -     -         3650    0    0 
+Riemann   948311307 10  7 c   c     f     -         3650   20    0 
+Riemann   948311433 10  6 c   kf    -     -         3630   10    0 
+Riemann   948311509 10  5 f   -     -     -         3620    0    0 
+Riemann   948311592 10  4 f   -     -     -         3620    0    0 
+Riemann   948311707 10  3 f   -     -     -         3620    0    0 
+Riemann   948311796 10  2 Bk  kf    -     -         3620   10    0 
+Riemann   948311901 10  1 BQ  -     -     -         3610    5    0 
+Riemann   948338960  8  2 Bf  -     -     -         4035   10    0 
+Riemann   948339014  9  1 Bf  -     -     -         4025    5    0 
+Riemann   948339078  9  9 cc  k     c     k         4020   40    0 4h 5h
+Riemann   948339151  9  8 f   -     -     -         3980    0    0 
+Riemann   948339211  9  7 f   -     -     -         3980    0    0 
+Riemann   948339273  9  6 f   -     -     -         3980    0    0 
+Riemann   948339313 10  5 cc  k     k     b         3980   40  135 Jc Tc
+Riemann   948339405 10  4 c   kc    kc    krc       4075  100    0 Ks 5s
+Riemann   948339500 10  3 f   -     -     -         3975    0    0 
+Riemann   948339572 10  2 Bc  kf    -     -         3975   20    0 
+Riemann   948339639 10  1 Bc  kc    kc    kc        3955   80    0 4d Kd
+Riemann   948339723 10 10 c   c     k     c         3875   40    0 Kd Qd
+Riemann   948339798 10  9 c   r     b     b         3835   70  260 Td Qc
+Riemann   948339881 10  8 c   f     -     -         4025   10    0 
+Riemann   948339923 10  7 f   -     -     -         4015    0    0 
+Riemann   948340015 10  6 f   -     -     -         4015    0    0 
+Riemann   948340105 10  5 f   -     -     -         4015    0    0 
+Riemann   948340160 10  4 ccc kf    -     -         4015   40    0 
+Riemann   948340237 10  3 f   -     -     -         3975    0    0 
+Riemann   948340333  9  2 Bf  -     -     -         3975   10    0 
+Riemann   948340391 10  1 Bf  -     -     -         3965    5    0 
+Riemann   948340451 10 10 c   r     b     b         3960   80  290 As Th
+Riemann   948340524 10  9 f   -     -     -         4170    0    0 
+Riemann   948340578 10  8 c   kf    -     -         4170   10    0 
+Riemann   948340645 10  7 f   -     -     -         4160    0    0 
+Riemann   948340699 10  6 cc  kf    -     -         4160   40    0 
+Riemann   948340908 10  5 f   -     -     -         4120    0    0 
+Riemann   948341014  9  3 f   -     -     -         4120    0    0 
+Riemann   948341042  9  2 Bf  -     -     -         4120   10    0 
+Riemann   948341096  9  1 Bf  -     -     -         4110    5    0 
+Riemann   948341176 10 10 f   -     -     -         4105    0    0 
+Riemann   948341259 10  9 f   -     -     -         4105    0    0 
+Riemann   948341326  9  8 f   -     -     -         4105    0    0 
+Riemann   948341404 10  7 f   -     -     -         4105    0    0 
+Riemann   948341461  9  6 cc  c     c     c         4105   70  290 Jc Td
+Riemann   948341547 10  5 f   -     -     -         4325    0    0 
+Riemann   948341624 10  4 f   -     -     -         4325    0    0 
+Riemann   948341736  8  3 f   -     -     -         4325    0    0 
+Riemann   948341787  8  2 Bk  k     k     k         4325   10   50 5c 2c
+Riemann   948341895  8  1 Bf  -     -     -         4365    5    0 
+Riemann   948341919  8  8 f   -     -     -         4360    0    0 
+Riemann   948341946  7  6 c   c     c     f         4360   40    0 
+Riemann   948341992  8  6 f   -     -     -         4320    0    0 
+Riemann   948342035  8  5 c   c     r     b         4320  100  380 8d 9c
+Riemann   948342130  6  4 f   -     -     -         4600    0    0 
+Riemann   948342162  7  4 c   b     b     -         4600   40   95 
+Riemann   948342205  7  3 f   -     -     -         4655    0    0 
+Riemann   948342260  6  2 Bc  k     k     k         4655   20   85 Qc Kd
+Riemann   948342298  6  1 Bc  kc    kc    kc        4720   70    0 3c Kc
+Riemann   948342359  8  8 f   -     -     -         4650    0    0 
+Riemann   948342406  8  7 f   -     -     -         4650    0    0 
+Riemann   948342448  8  6 f   -     -     -         4650    0    0 
+Riemann   948342483  8  5 f   -     -     -         4650    0    0 
+Riemann   948342536  9  4 f   -     -     -         4650    0    0 
+Riemann   948342626 10  3 f   -     -     -         4650    0    0 
+Riemann   948342701  9  2 Bk  kf    -     -         4650   10    0 
+Riemann   948342783  9  1 Bc  kc    kf    -         4640   20    0 
+Riemann   948342841  9  9 f   -     -     -         4620    0    0 
+Riemann   948342907  9  8 c   c     c     c         4620   70    0 As Qs
+Riemann   948342992  9  7 f   -     -     -         4550    0    0 
+Riemann   948343051  8  5 f   -     -     -         4550    0    0 
+Riemann   948343109  8  4 f   -     -     -         4550    0    0 
+Riemann   948343180  9  4 cc  b     b     brc       4550  130    0 Ks Ah
+Riemann   948343275  9  3 f   -     -     -         4420    0    0 
+Riemann   948343340  9  2 Bk  k     b     b         4420   50  140 
+Riemann   948343448  9  1 Bf  -     -     -         4510    5    0 
+Riemann   948343543  9  9 f   -     -     -         4505    0    0 
+Riemann   948343661 10  9 f   -     -     -         4505    0    0 
+Riemann   948343731 10  8 f   -     -     -         4505    0    0 
+Riemann   948343822 10  7 c   f     -     -         4505   10    0 
+Riemann   948343897 10  6 f   -     -     -         4495    0    0 
+Riemann   948344068 10  5 f   -     -     -         4495    0    0 
+Riemann   948344126 10  4 f   -     -     -         4495    0    0 
+Riemann   948344196 10  3 cc  c     k     f         4495   30    0 
+Riemann   948344349 10  2 Bk  kc    kc    k         4465   40  140 Qd 8h
+Riemann   948344443 10  1 Bc  k     kf    -         4565   10    0 
+Riemann   948344541 10 10 c   c     c     k         4555   40    0 Qh 6h
+Riemann   948344631 10  9 f   -     -     -         4515    0    0 
+Riemann   948344701 10  8 c   k     bc    f         4515   50    0 
+Riemann   948344780  9  7 f   -     -     -         4465    0    0 
+Riemann   948344849 10  6 c   c     c     k         4465   40    0 Kc Qh
+Riemann   948344915  9  4 fQ  -     -     -         4425    0    0 
+Riemann   948481967  3  2 f   -     -     -         4315    0    0 
+Riemann   948481982  3  2 B   -     -     -         4315   10   15 
+Riemann   948481985  3  1 Bf  -     -     -         4320    5    0 
+Riemann   948481994  4  4 f   -     -     -         4315    0    0 
+Riemann   948482023  4  3 cc  c     k     b         4315   50  140 
+Riemann   948482075  4  2 Bf  -     -     -         4405   10    0 
+Riemann   948482087  4  1 Bc  k     b     -         4395   30   40 
+Riemann   948482110  4  4 f   -     -     -         4405    0    0 
+Riemann   948482127  4  3 f   -     -     -         4405    0    0 
+Riemann   948482150  4  2 Bc  c     c     c         4405   70    0 Ts 5s
+Riemann   948482182  4  1 Bc  kf    -     -         4335   10    0 
+Riemann   948482203  4  4 f   -     -     -         4325    0    0 
+Riemann   948482219  4  3 f   -     -     -         4325    0    0 
+Riemann   948482260  4  2 Bc  b     b     k         4325   50  120 Jc Js
+Riemann   948482303  4  1 Bf  -     -     -         4395    5    0 
+Riemann   948482339  4  4 f   -     -     -         4390    0    0 
+Riemann   948482346  4  3 f   -     -     -         4390    0    0 
+Riemann   948482379  4  2 Bk  k     b     -         4390   30   45 
+Riemann   948482410  4  1 Bc  kf    -     -         4405   10    0 
+Riemann   948482433  4  4 f   -     -     -         4395    0    0 
+Riemann   948482440  4  3 f   -     -     -         4395    0    0 
+Riemann   948482463  4  2 Bf  -     -     -         4395   10    0 
+Riemann   948482479  5  1 Bf  -     -     -         4385    5    0 
+Riemann   948482552  5  5 f   -     -     -         4380    0    0 
+Riemann   948482611  6  4 f   -     -     -         4380    0    0 
+Riemann   948482659  6  3 c   k     b     c         4380   50  120 Jc 8c
+Riemann   948482734  9  3 c   k     kc    kc        4450   50    0 7s 7d
+Riemann   948482822  9  2 Bk  kf    -     -         4400   10    0 
+Riemann   948482867 10  1 Bf  -     -     -         4390    5    0 
+Riemann   948482920  9  9 c   c     c     k         4385   40    0 4d 4s
+Riemann   948482979  8  7 f   -     -     -         4345    0    0 
+Riemann   948483043  9  7 c   b     b     b         4345   70  235 9c 9h
+Riemann   948483102  9  6 c   ccc   f     -         4510   50    0 
+Riemann   948483209 10  6 f   -     -     -         4460    0    0 
+Riemann   948483319  9  5 cc  c     r     b         4460   90  270 8h Kh
+Riemann   948483389  9  4 f   -     -     -         4640    0    0 
+Riemann   948483429  9  3 f   -     -     -         4640    0    0 
+Riemann   948483472  9  2 Bk  c     cc    kc        4640   80    0 Jc 4h
+Riemann   948483524 10  1 Bf  -     -     -         4560    5    0 
+Riemann   948483570 10 10 c   c     c     f         4555   50    0 
+Riemann   948483629 10  9 c   f     -     -         4505   10    0 
+Riemann   948483722 10  8 f   -     -     -         4495    0    0 
+Riemann   948483787  9  6 f   -     -     -         4495    0    0 
+Riemann   948483879 10  6 f   -     -     -         4495    0    0 
+Riemann   948483946 10  5 f   -     -     -         4495    0    0 
+Riemann   948484004 10  4 f   -     -     -         4495    0    0 
+Riemann   948484103 10  3 f   -     -     -         4495    0    0 
+Riemann   948484157 10  2 Bk  k     kf    -         4495   10    0 
+Riemann   948484234 10  1 Bf  -     -     -         4485    5    0 
+Riemann   948484319 10 10 f   -     -     -         4480    0    0 
+Riemann   948484376 10  9 c   c     k     bc        4480   70    0 6s 6c
+Riemann   948484470 10  8 f   -     -     -         4410    0    0 
+Riemann   948484532 10  7 f   -     -     -         4410    0    0 
+Riemann   948484604 10  6 f   -     -     -         4410    0    0 
+Riemann   948484655 10  5 f   -     -     -         4410    0    0 
+Riemann   948484749 10  4 c   kf    -     -         4410   10    0 
+Riemann   948484813 10  4 cc  c     b     b         4400   70  143 Jh Kh
+Riemann   948484889 10  2 BfQ -     -     -         4473   10    0 
+Riemann   948502053  9  5 c   k     b     b         5013   50  125 
+Riemann   948502218  8  4 f   -     -     -         5188    0    0 
+Riemann   948502250  8  3 f   -     -     -         5188    0    0 
+Riemann   948502294  9  2 Bk  kf    -     -         5168   10    0 
+Riemann   948502366 10  1 Bf  -     -     -         5063    5    0 
+Riemann   948502409 10 10 c   c     f     -         5058   20    0 
+Riemann   948502461 10  9 c   k     b     b         5038   60  195 Qc Js
+Riemann   948502565 10  8 f   -     -     -         4973    0    0 
+Riemann   948502628 10  7 f   -     -     -         4968    0    0 
+Riemann   948502683 10  6 f   -     -     -         4968    0    0 
+Riemann   948502736 10  5 f   -     -     -         4908    0    0 
+Riemann   948502764 10  4 f   -     -     -         4908    0    0 
+Riemann   948502822 10  3 f   -     -     -         4908    0    0 
+Riemann   948502872 10  2 Bk  c     b     b         4908   60    0 Kh 5h
+Riemann   948502939 10  1 Bf  -     -     -         4798    5    0 
+Riemann   948503009 10 10 f   -     Q     -         4793    0    0 
+Riemann   948743149 10  3 f   Q     -     -         6008    0    0 
+Riemann   948757416  7  6 f   -     -     -         5953    0    0 
+Riemann   948757447  7  5 cc  b     k     f         5953   30    0 
+Riemann   948757505  7  4 c   b     k     b         5923   40  105 Ah 9c
+Riemann   948757556  7  3 f   -     -     -         5988    0    0 
+Riemann   948757614  7  2 Bk  k     kc    kc        5988   50    0 3s 3d
+Riemann   948757660  7  1 Bf  -     -     -         5938    5    0 
+Riemann   948757716  7  7 f   -     -     -         5933    0    0 
+Riemann   948757753  6  4 f   -     -     -         5933    0    0 
+Riemann   948757796  6  4 f   -     -     -         5933    0    0 
+Riemann   948757838  6  3 c   brc   kc    kc        5933  110    0 8s 7d
+Riemann   948757912  6  2 Bk  b     kf    -         5823   20    0 
+Riemann   948757972  7  1 Bf  -     -     -         5803    5    0 
+Riemann   948758034  7  7 f   -     -     -         5798    0    0 
+Riemann   948758082  7  6 f   -     -     -         5798    0    0 
+Riemann   948758116  7  5 f   -     -     -         5798    0    0 
+Riemann   948758172  7  4 rc  rc    kc    kc        5798  110    0 Ah As
+Riemann   948758225  7  3 f   -     -     -         5688    0    0 
+Riemann   948758272  7  2 Bf  -     -     -         5688   10    0 
+Riemann   948758315  7  1 Bc  kf    -     -         5678   10    0 
+Riemann   948758347  7  7 c   rr    k     f         5668   50    0 
+Riemann   948758404  8  7 f   -     -     -         5618    0    0 
+Riemann   948758451  9  6 c   r     kc    kf        5618   50    0 
+Riemann   948758555  9  5 f   -     -     -         5568    0    0 
+Riemann   948758618 10  4 f   -     -     -         5568    0    0 
+Riemann   948758684 10  3 f   -     -     -         5568    0    0 
+Riemann   948758742  9  2 Bk  kf    -     -         5568   10    0 
+Riemann   948758775 10  1 Bf  -     -     -         5558    5    0 
+Riemann   948758814 10 10 f   -     -     -         5553    0    0 
+Riemann   948758845 10  9 c   f     -     -         5553   10    0 
+Riemann   948758873 10  8 f   -     -     -         5543    0    0 
+Riemann   948758913  9  6 f   -     -     -         5543    0    0 
+Riemann   948758954  9  5 c   kf    -     -         5543   10    0 
+Riemann   948759014  9  4 f   -     -     -         5533    0    0 
+Riemann   948759029  9  3 f   -     -     -         5533    0    0 
+Riemann   948759089  9  2 Bf  -     -     -         5533   10    0 
+Riemann   948759171  9  1 Bf  -     -     -         5523    5    0 
+Riemann   948759230  9  9 c   f     -     -         5518   10    0 
+Riemann   948759280 10  9 c   f     -     -         5508   10    0 
+Riemann   948759328 10  8 f   -     -     -         5498    0    0 
+Riemann   948759393 10  7 c   f     -     -         5498   10    0 
+Riemann   948759462 10  6 f   -     -     -         5488    0    0 
+Riemann   948759501 10  5 f   -     -     -         5488    0    0 
+Riemann   948759533 10  4 f   -     -     -         5488    0    0 
+Riemann   948759581 10  3 c   bc    krc   kf        5488   90    0 
+Riemann   948759652 10  2 Bk  cc    kc    kf        5398   50    0 
+Riemann   948759711 10  1 BQ  -     -     -         5348    5    0 
+Riemann   948846581  4  2 Bf  -     -     -         5928   10    0 
+Riemann   948846607  4  1 Bf  -     -     -         5918    5    0 
+Riemann   948846636  5  4 c   b     b     krc       5913  100  220 6c Ad
+Riemann   948846680  5  3 cc  f     -     -         6033   20    0 
+Riemann   948846734  7  2 Bf  -     -     -         6013   10    0 
+Riemann   948846790  8  1 Bf  -     -     -         6003    5    0 
+Riemann   948846849  8  8 c   r     b     b         5998   80  205 Ac 7c
+Riemann   948846921  9  8 f   -     -     -         6123    0    0 
+Riemann   948847008 10  9 cc  c     f     -         6123   40    0 
+Riemann   948847117 10  7 c   f     -     -         6083   10    0 
+Riemann   948847167 10  6 f   -     -     -         6073    0    0 
+Riemann   948847254 10  5 r   b     kc    kc        6073   70    0 Ts As
+Riemann   948847306 10  4 f   -     -     -         6003    0    0 
+Riemann   948847374 10  3 f   -     -     -         6003    0    0 
+Riemann   948847418 10  2 Bf  -     -     -         6003   10    0 
+Riemann   948847488 10  1 Bf  -     -     -         5993    5    0 
+Riemann   948847547 10 10 c   b     -     -         5988   20   50 
+Riemann   948847590 10  9 c   c     b     b         6018   60   85 Js Kh
+Riemann   948847653 10  8 c   c     c     c         6043   60    0 Ac Jd
+Riemann   948847713 10  7 f   -     -     -         5983    0    0 
+Riemann   948847756 10  3 Q   -     -     -         5983    0    0 
+Riemann   949043724  5  2 Bf  -     -     -         5743   10    0 
+Riemann   949043752  5  1 Bf  -     -     -         5733    5    0 
+Riemann   949043781  5  5 cc  f     -     -         5728   20    0 
+Riemann   949043814  5  4 c   bc    k     b         5708   50  170 Kd Js
+Riemann   949043890  6  3 f   -     -     -         5828    0    0 
+Riemann   949043958  6  2 Bk  k     kf    -         5828   10    0 
+Riemann   949044063  6  1 Brc kc    kcc   kf        5818   90    0 
+Riemann   949044166  8  8 f   -     -     -         5728    0    0 
+Riemann   949044230  7  6 c   k     k     c         5728   30    0 5c 6c
+Riemann   949044280  7  5 f   -     -     -         5698    0    0 
+Riemann   949044352  8  5 f   -     -     -         5698    0    0 
+Riemann   949044390  7  4 c   k     f     -         5698   10    0 
+Riemann   949044543  6  2 Bk  kc    k     b         5688   40  115 6d 8c
+Riemann   949044623  6  1 Br  b     brc   kc        5763  130    0 Ad Kd
+Riemann   949044736  6  6 f   -     -     -         5633    0    0 
+Riemann   949044757  6  5 c   k     f     -         5633   10    0 
+Riemann   949044808  7  5 r   b     b     b         5623   70  215 Ad Qd
+Riemann   949044854  7  4 f   -     -     -         5768    0    0 
+Riemann   949044904  7  3 f   -     -     -         5768    0    0 
+Riemann   949044984  7  2 Bk  kc    kr    b         5768   80    0 7c Qs
+Riemann   949045040  7  1 Bf  -     -     -         5688    5    0 
+Riemann   949045095  7  7 c   f     -     -         5683   10    0 
+Riemann   949045222  6  5 f   -     -     -         5673    0    0 
+Riemann   949045320  6  5 f   -     -     -         5673    0    0 
+Riemann   949045384  6  4 f   -     -     -         5673    0    0 
+Riemann   949045421  6  3 f   -     -     -         5673    0    0 
+Riemann   949045449  6  2 Bf  -     -     -         5673   10    0 
+Riemann   949045513  5  1 Bc  br    b     b         5663   80    0 Jd 2d
+Riemann   949045543  4  4 r   b     brc   f         5583  110    0 
+Riemann   949045647  3  2 B   -     -     -         5473   10   15 
+Riemann   949045652  3  1 Bc  kr    -     -         5478   30   50 
+Riemann   949045672  2  2 B   -     -     -         5498   10   15 
+Riemann   949045674  2  1 Br  -     -     -         5503   20   30 
+Riemann   949045678  2  2 Brr c     r     b         5513  110    0 7d Jc
+Riemann   949045698  2  1 Br  kf    -     -         5403   20    0 
+Riemann   949045710  2  2 B   -     -     -         5383   10   15 
+Riemann   949045713  2  1 Bf  -     -     -         5388    5    0 
+Riemann   949045716  2  2 Brc c     r     b         5383  100  200 As 8s
+Riemann   949045732  2  1 Bf  -     -     -         5483    5    0 
+Riemann   949045738  2  2 Bf  -     -     -         5478   10    0 
+Riemann   949045740  2  1 Bf  -     -     -         5468    5    0 
+Riemann   949045743  2  2 B   -     -     -         5463   10   15 
+Riemann   949045746  2  1 Br  br    b     kc        5468   90    0 Ts Qc
+Riemann   949045769  2  2 Bk  f     -     -         5378   10    0 
+Riemann   949045783  2  1 Br  br    k     kc        5368   70  140 9d 7c
+Riemann   949045807  2  2 Bc  c     c     k         5438   50  100 4c Ad
+Riemann   949045826  2  1 Bf  -     -     -         5488    5    0 
+Riemann   949045831  2  2 B   -     -     -         5483   10   15 
+Riemann   949045833  2  1 Bf  -     -     -         5488    5    0 
+Riemann   949045836  2  2 Bf  -     -     -         5483   10    0 
+Riemann   949045840  2  1 Br  br    kc    k         5473   70    0 Qh Kc
+Riemann   949045863  2  2 B   -     -     -         5403   10   15 
+Riemann   949045868  2  1 Brr br    br    brc       5408  210    0 Qd Ad
+Riemann   949045901  2  2 Bf  -     -     -         5198   10    0 
+Riemann   949045908  2  1 Bf  -     -     -         5188    5    0 
+Riemann   949045910  2  2 Br  r     b     -         5183   70  120 
+Riemann   949045924  2  1 Bc  b     b     -         5233   40   60 
+Riemann   949045941  2  2 Bc  c     c     f         5253   50    0 
+Riemann   949045960  2  1 Br  -     -     -         5203   20   30 
+Riemann   949045963  2  2 B   -     -     -         5213   10   15 
+Riemann   949045966  2  1 Br  -     -     -         5218   20   30 
+Riemann   949045971  2  2 Bf  -     -     -         5228   10    0 
+Riemann   949045975  2  1 Bf  -     -     -         5218    5    0 
+Riemann   949045978  2  2 Bf  -     -     -         5213   10    0 
+Riemann   949045980  2  1 Bc  br    b     -         5203   60  100 
+Riemann   949045996  2  2 B   -     -     -         5243   10   15 
+Riemann   949045999  2  1 Bf  -     -     -         5248    5    0 
+Riemann   949046002  2  2 Bc  c     b     b         5243   70  120 
+Riemann   949046020  2  1 Brr b     k     k         5293   50  100 Jh Js
+Riemann   949046038  2  2 Bf  -     -     -         5343   10    0 
+Riemann   949046043  2  1 Br  -     -     -         5333   20   30 
+Riemann   949046047  2  2 Bf  -     -     -         5343   10    0 
+Riemann   949046050  2  1 Bc  b     -     -         5333   20   30 
+Riemann   949046059  2  2 Bf  -     -     -         5343   10    0 
+Riemann   949046063  2  1 Br  -     -     -         5333   20   30 
+Riemann   949046066  2  2 Bf  -     -     -         5343   10    0 
+Riemann   949046071  2  1 Bf  -     -     -         5333    5    0 
+Riemann   949046076  2  2 Br  b     -     -         5328   40   70 
+Riemann   949046087  2  1 Br  -     -     -         5358   20   30 
+Riemann   949046090  2  2 Bc  c     c     c         5368   70  140 4h Qs
+Riemann   949046105  2  1 Br  -     -     -         5438   20   30 
+Riemann   949046112  2  2 B   -     -     -         5448   10   15 
+Riemann   949046114  2  1 Br  -     -     -         5453   20   30 
+Riemann   949046118  2  2 Br  -     -     -         5463   30   50 
+Riemann   949046122  2  1 Bf  -     -     -         5483    5    0 
+Riemann   949046127  2  2 B   -     -     -         5478   10   15 
+Riemann   949046130  2  1 Br  b     kc    kc        5483   70    0 Kc 6c
+Riemann   949046151  2  2 B   -     -     -         5413   10   15 
+Riemann   949046156  2  1 Bf  -     -     -         5418    5    0 
+Riemann   949046158  2  2 Bf  -     -     -         5413   10    0 
+Riemann   949046161  2  1 Br  k     k     kc        5403   40    0 Ts Js
+Riemann   949046176  2  2 B   -     -     -         5363   10   15 
+Riemann   949046181  2  1 Br  -     -     -         5368   20   30 
+Riemann   949046185  2  2 Bc  c     r     -         5378   70  120 
+Riemann   949046199  2  1 Bf  -     -     -         5428    5    0 
+Riemann   949046203  2  2 Bf  -     -     -         5423   10    0 
+Riemann   949046206  2  1 Br  brc   k     kc        5413   80    0 Qc Jd
+Riemann   949046237  2  2 Bc  r     b     b         5333   80  160 8s Ts
+Riemann   949046259  2  1 Bf  -     -     -         5413    5    0 
+Riemann   949046264  2  2 Bc  r     c     c         5408   80    0 8h 6h
+Riemann   949046284  2  1 Br  b     -     -         5328   30   50 
+Riemann   949046295  2  2 B   -     -     -         5348   10   15 
+Riemann   949046296  2  1 Bc  br    b     b         5353   80  160 Qd 5c
+Riemann   949046315  2  2 Bf  -     -     -         5433   10    0 
+Riemann   949046322  2  1 Bcf -     -     -         5423   10    0 
+Riemann   949046327  2  2 Bf  -     -     -         5413   10    0 
+Riemann   949046330  2  1 Br  b     -     -         5403   30   50 
+Riemann   949046336  2  2 Bf  -     -     -         5423   10    0 
+Riemann   949046339  2  1 Br  b     -     -         5413   30   50 
+Riemann   949046347  2  2 Br  -     -     -         5433   30   50 
+Riemann   949046356  2  1 Bf  -     -     -         5453    5    0 
+Riemann   949046358  2  2 Bf  -     -     -         5448   10    0 
+Riemann   949046361  2  1 Bf  -     -     -         5438    5    0 
+Riemann   949046363  2  2 Bf  -     -     -         5433   10    0 
+Riemann   949046367  2  1 Bf  -     -     -         5423    5    0 
+Riemann   949046369  2  2 Bf  -     -     -         5418   10    0 
+Riemann   949046372  2  1 Br  -     -     -         5408   20   30 
+Riemann   949046375  2  2 Br  b     b     -         5418   60  100 
+Riemann   949046392  2  1 Bf  -     -     -         5458    5    0 
+Riemann   949046394  2  2 Bc  f     -     -         5453   20    0 
+Riemann   949046400  2  1 Bc  b     -     -         5433   20   30 
+Riemann   949046408  2  2 B   -     -     -         5443   10   15 
+Riemann   949046410  2  1 Br  -     -     -         5448   20   30 
+Riemann   949046414  2  2 Brr c     c     r         5458  110  200 
+Riemann   949046439  2  1 Bc  k     k     k         5548   10   20 7s 8h
+Riemann   949046464  2  2 Bf  -     -     -         5558   10    0 
+Riemann   949046468  2  1 Bf  -     -     -         5548    5    0 
+Riemann   949046470  2  2 Bf  -     -     -         5543   10    0 
+Riemann   949046473  2  1 Br  b     b     -         5533   50   80 
+Riemann   949046485  2  2 B   -     -     -         5563   10   15 
+Riemann   949046488  2  1 Br  -     -     -         5568   20   30 
+Riemann   949046492  2  2 Bf  -     -     -         5578   10    0 
+Riemann   949046497  2  1 Br  -     -     -         5568   20   30 
+Riemann   949046500  2  2 B   -     -     -         5578   10   15 
+Riemann   949046502  2  1 Br  br    kf    -         5583   50    0 
+Riemann   949046520  2  2 Br  b     -     -         5533   40   70 
+Riemann   949046528  2  1 Br  -     -     -         5563   20   30 
+Riemann   949046531  2  2 Br  r     b     b         5573   90  180 6c Ad
+Riemann   949046549  2  1 Bf  -     -     -         5663    5    0 
+Riemann   949046556  2  2 Bf  -     -     -         5658   10    0 
+Riemann   949046559  2  1 Br  b     b     -         5648   50   80 
+Riemann   949046569  2  2 B   -     -     -         5678   10   15 
+Riemann   949046571  2  1 Brr b     b     kf        5683   70    0 
+Riemann   949046593  2  2 B   -     -     -         5613   10   15 
+Riemann   949046596  2  1 Brr br    b     b         5618  110  220 5d 5h
+Riemann   949046609  2  2 Bf  -     -     -         5728   10    0 
+Riemann   949046619  2  1 Brr brc   kc    kc        5718  120    0 Jd Kd
+Riemann   949046645  2  2 Brc f     -     -         5598   30    0 
+Riemann   949046657  2  1 Bcf -     -     -         5568   10    0 
+Riemann   949046662  2  2 Br  b     b     b         5558   80  140 
+Riemann   949046677  2  1 Brc kc    kc    kc        5618   80    0 Qd 8d
+Riemann   949046700  2  2 Bf  -     -     -         5538   10    0 
+Riemann   949046706  2  1 Bc  b     -     -         5528   20   30 
+Riemann   949046715  2  2 B   -     -     -         5538   10   15 
+Riemann   949046718  2  1 Br  -     -     -         5543   20   30 
+Riemann   949046724  3  3 r   b     b     r         5553   90  165 
+Riemann   949046747  3  2 Bk  k     c     c         5628   50  100 4c Qd
+Riemann   949046763  3  1 Br  b     -     -         5678   30   50 
+Riemann   949046774  3  3 c   f     -     -         5698   10    0 
+Riemann   949046785  3  2 Bk  k     r     b         5688   70  140 Ad 3d
+Riemann   949046804  3  1 Bf  -     -     -         5758    5    0 
+Riemann   949046824  3  3 c   b     f     -         5753   20    0 
+Riemann   949046842  3  2 Bk  kf    -     -         5733   10    0 
+Riemann   949046853  3  1 Bf  -     -     -         5723    5    0 
+Riemann   949046865  3  3 r   b     brc   c         5718  130  280 5s 6s
+Riemann   949046901  3  2 Bk  b     b     k         5868   40    0 5s 7s
+Riemann   949046926  3  1 Brc kf    -     -         5828   30    0 
+Riemann   949046941  3  3 f   -     -     -         5798    0    0 
+Riemann   949046956  3  2 Bk  b     c     c         5798   60  120 3h Td
+Riemann   949046978  3  1 Bf  -     -     -         5858    5    0 
+Riemann   949046985  3  3 c   b     b     b         5853   60  125 3h Ah
+Riemann   949047002  3  2 B   -     -     -         5918   10   15 
+Riemann   949047007  3  1 Br  kr    k     k         5923   40    0 8h 7c
+Riemann   949047036  3  3 f   -     -     -         5883    0    0 
+Riemann   949047044  3  2 Bk  k     b     bc        5883   70  140 As 4c
+Riemann   949047070  4  1 Bcf -     -     -         5953   10    0 
+Riemann   949047089  4  4 f   -     -     -         5943    0    0 
+Riemann   949047105  4  3 f   -     -     -         5943    0    0 
+Riemann   949047117  4  2 Br  r     c     f         5943   60    0 
+Riemann   949047152  4  1 Bf  -     -     -         5883    5    0 
+Riemann   949047168  4  4 r   c     c     k         5878   50  120 2s Ah
+Riemann   949047192  4  3 cf  -     -     -         5948   10    0 
+Riemann   949047214  4  2 Bc  b     b     -         5938   50   18 6s 7h
+Riemann   949047230  4  1 Br  bf    -     -         5906   30    0 
+Riemann   949047252  4  4 f   -     -     -         5876    0    0 
+Riemann   949047266  4  3 f   -     -     -         5876    0    0 
+Riemann   949047303  4  2 Bf  -     -     -         5876   10    0 
+Riemann   949047339  4  1 Bf  -     -     -         5866    5    0 
+Riemann   949047346  4  4 f   -     -     -         5861    0    0 
+Riemann   949047363  3  3 c   k     b     -         5861   30   45 
+Riemann   949047373  3  2 B   -     -     -         5876   10   15 
+Riemann   949047377  3  1 Br  b     b     -         5881   50   80 
+Riemann   949047392  3  3 r   f     -     -         5911   20    0 
+Riemann   949047438  3  2 Br  b     -     -         5891   30   50 
+Riemann   949047458  3  1 Brr -     -     -         5911   40   73 Jd 9c
+Riemann   949047469  2  2 r   -     -     -         5944   20   30 
+Riemann   949047480  3  2 Br  rc    c     c         5954   90    0 Tc Td
+Riemann   949047522  3  1 Bf  -     -     -         5864    5    0 
+Riemann   949047531  3  3 r   rr    r     b         5859  120  245 9c Ts
+Riemann   949047579  3  2 Br  r     b     b         5984   80  160 Ts 7s
+Riemann   949047612  3  1 Bf  -     -     -         6064    5    0 
+Riemann   949047622  3  3 f   -     -     -         6059    0    0 
+Riemann   949047627  3  2 Br  brc   kc    kc        6059  100  260 Ks Ts
+Riemann   949047678  3  1 Bf  -     -     -         6219    5    0 
+Riemann   949047724  3  3 r   r     r     b         6214  100  220 6s Qh
+Riemann   949047766  3  2 Bf  -     -     -         6334   10    0 
+Riemann   949047797  3  1 Br  b     -     -         6324   30   70 
+Riemann   949047818  3  3 r   b     -     -         6364   30   70 
+Riemann   949047832  3  2 Br  rc    c     f         6404   70    0 
+Riemann   949047867  3  1 Br  b     -     -         6334   30   50 
+Riemann   949047882  3  3 f   -     -     -         6354    0    0 
+Riemann   949047898  3  2 Bf  -     -     -         6354   10    0 
+Riemann   949047931  3  1 Br  b     b     bc        6344   90    0 Kc Th
+Riemann   949047976  3  3 f   -     -     -         6254    0    0 
+Riemann   949048018  3  2 B   -     -     -         6254   10   15 
+Riemann   949048029  3  1 Br  kr    b     bc        6259  100    0 5d Kh
+Riemann   949048062  3  3 r   c     k     k         6159   30    0 Kc 8d
+Riemann   949048092  3  2 B   -     -     -         6129   10   15 
+Riemann   949048100  3  1 Bf  -     -     -         6134    5    0 
+Riemann   949048126  3  3 f   -     -     -         6129    0    0 
+Riemann   949048158  3  2 B   -     -     -         6129   10   15 
+Riemann   949048162  3  1 Bf  -     -     -         6134    5    0 
+Riemann   949048179  3  3 r   b     b     k         6129   50    0 8d As
+Riemann   949048203  3  2 Bf  -     -     -         6079   10    0 
+Riemann   949048215  3  1 Br  b     k     k         6069   30    0 6c Ts
+Riemann   949048243  3  3 crc c     c     c         6039   90  190 Ks 4s
+Riemann   949048276  3  2 Bk  c     f     -         6139   20    0 
+Riemann   949048331  3  1 Bf  -     -     -         6119    5    0 
+Riemann   949048355  3  3 r   r     f     -         6114   40    0 
+Riemann   949048415  3  2 Br  b     b     -         6074   50   80 
+Riemann   949048443  3  1 Br  b     bc    kc        6104   90    0 4s 2d
+Riemann   949048470  4  3 c   f     -     -         6014   10    0 
+Riemann   949048495  3  2 Bf  -     -     -         6004   10    0 
+Riemann   949048504  3  1 Bf  -     -     -         5994    5    0 
+Riemann   949048510  3  3 r   -     -     -         5989   20   35 
+Riemann   949048515  3  2 Bf  -     -     -         6004   10    0 
+Riemann   949048533  3  1 Bc  kc    kc    kf        5994   50    0 
+Riemann   949048565  3  3 f   -     -     -         5944    0    0 
+Riemann   949048591  3  2 Br  b     b     b         5944   70  145 5c Qh
+Riemann   949048624  3  1 Bf  -     -     -         6019    5    0 
+Riemann   949048632  3  3 cc  f     -     -         6014   20    0 
+Riemann   949048645  3  2 B   -     -     -         5994   10   15 
+Riemann   949048648  3  1 Bc  kf    -     -         5999   10    0 
+Riemann   949048673  3  3 f   -     -     -         5989    0    0 
+Riemann   949048676  3  2 Bk  b     -     -         5989   20   40 
+Riemann   949048693  3  1 Br  b     b     kc        6009   70    0 4s Qh
+Riemann   949048727  3  3 c   b     -     -         5939   20   35 
+Riemann   949048745  3  2 Bf  -     -     -         5954   10    0 
+Riemann   949048753  3  1 Bc  kf    -     -         5944   10    0 
+Riemann   949048769  3  3 r   r     b     -         5934   60  110 
+Riemann   949048790  3  2 Br  f     -     -         5984   20    0 
+Riemann   949048829  3  1 Bc  k     kc    kc        5964   50  110 7d Jd
+Riemann   949048866  3  3 c   b     -     -         6024   20   40 
+Riemann   949048881  3  2 Br  rc    c     f         6044   70    0 
+Riemann   949048923  3  1 Br  b     b     b         5974   70  140 Ks 5s
+Riemann   949048945  3  3 f   -     -     -         6044    0    0 
+Riemann   949048979  3  2 Bk  k     b     -         6044   30   40 
+Riemann   949049007  3  1 Br  kf    -     -         6054   20    0 
+Riemann   949049027  3  3 c   r     f     -         6034   30    0 
+Riemann   949049067  3  2 Br  k     b     k         6004   40    0 8d 7s
+Riemann   949049088  4  1 Br  k     kf    -         5964   20    0 
+Riemann   949049117  4  4 r   -     -     -         5944   20   35 
+Riemann   949049124  4  3 r   r     c     c         5959   80  180 9s 9h
+Riemann   949049152  4  2 Bk  b     -     -         6059   20   30 
+Riemann   949049175  4  1 Bc  kc    kc    kc        6069   70  170 Kh Ad
+Riemann   949049226  4  4 cf  -     -     -         6169   10    0 
+Riemann   949049256  4  3 f   -     -     -         6159    0    0 
+Riemann   949049265  4  2 Bf  -     -     -         6159   10    0 
+Riemann   949049278  4  1 Bf  -     -     -         6149    5    0 
+Riemann   949049284  4  4 f   -     -     -         6144    0    0 
+Riemann   949049307  4  3 rc  cc    k     b         6144   70  195 3c 3s
+Riemann   949049343  4  2 Bc  kr    kf    -         6269   40    0 
+Riemann   949049371  4  1 Bf  -     -     -         6229    5    0 
+Riemann   949049377  4  4 r   rc    c     rr        6224  150  390 9s As
+Riemann   949049430  4  3 f   -     -     -         6464    0    0 
+Riemann   949049444  4  2 Bk  k     k     kf        6464   10    0 
+Riemann   949049463  4  1 Bf  -     -     -         6454    5    0 
+Riemann   949049468  4  4 f   -     -     -         6449    0    0 
+Riemann   949049483  4  3 r   rc    c     c         6449   90    0 Th Ts
+Riemann   949049507  4  2 Bf  -     -     -         6359   10    0 
+Riemann   949049515  4  1 Bf  -     -     -         6349    5    0 
+Riemann   949049557  4  4 f   -     -     -         6344    0    0 
+Riemann   949049575  4  3 r   b     b     bc        6344   90    0 Tc Kc
+Riemann   949049609  4  2 Br  b     bc    c         6254   90    0 5s 4c
+Riemann   949049650  4  1 Bc  k     kf    -         6164   10    0 
+Riemann   949049676  4  4 r   r     c     f         6154   60    0 
+Riemann   949049707  4  3 rr  c     f     -         6094   50    0 
+Riemann   949049761  4  2 Bf  -     -     -         6044   10    0 
+Riemann   949049772  4  1 Bf  -     -     -         6034    5    0 
+Riemann   949049795  4  4 cc  rc    f     -         6029   50    0 
+Riemann   949049833  4  3 f   -     -     -         5979    0    0 
+Riemann   949049840  4  2 Bk  c     rr    b         5979  120  220 
+Riemann   949049878  4  1 Bf  -     -     -         6079    5    0 
+Riemann   949049902  5  5 c   c     c     f         6074   40    0 
+Riemann   949049955  5  5 f   -     -     -         6034    0    0 
+Riemann   949049981  5  4 f   -     -     -         6034    0    0 
+Riemann   949050004  6  3 f   -     -     -         6034    0    0 
+Riemann   949050033  6  2 Bf  -     -     -         6034   10    0 
+Riemann   949050086  6  1 Bf  -     -     -         6024    5    0 
+Riemann   949050118  6  6 f   -     -     -         6019    0    0 
+Riemann   949050152  7  6 cc  c     f     -         6019   50    0 
+Riemann   949050215  6  4 f   -     -     -         5969    0    0 
+Riemann   949050279  5  4 f   -     -     -         5969    0    0 
+Riemann   949050313  5  2 Bk  r     -     -         5969   30   60 
+Riemann   949050338  5  1 Br  brc   kc    kc        5999  100    0 Js Jc
+Riemann   949050388  6  6 f   -     -     -         5899    0    0 
+Riemann   949050411  5  4 f   -     -     -         5899    0    0 
+Riemann   949050457  5  3 f   -     -     -         5899    0    0 
+Riemann   949050502  5  2 Bf  -     -     -         5899   10    0 
+Riemann   949050541  5  1 Bf  -     -     -         5889    5    0 
+Riemann   949050558  5  5 f   -     -     -         5884    0    0 
+Riemann   949050583  5  4 f   -     -     -         5884    0    0 
+Riemann   949050628  5  3 f   -     -     -         5884    0    0 
+Riemann   949050652  5  2 Bf  -     -     -         5884   10    0 
+Riemann   949050688  5  1 Bf  -     -     -         5874    5    0 
+Riemann   949050716  5  5 f   -     -     -         5869    0    0 
+Riemann   949050731  5  4 cc  k     kc    kc        5869   60  145 Ks Qs
+Riemann   949050772  4  2 Bc  k     k     k         5954   20    0 8c 9d
+Riemann   949050796  4  1 Bf  -     -     -         5934    5    0 
+Riemann   949050805  4  4 f   -     -     -         5929    0    0 
+Riemann   949050815  4  3 cc  rr    b     b         5929  100    0 Ts Jh
+Riemann   949050848  4  2 Br  rr    c     c         5829  120    0 Qd Ks
+Riemann   949050879  4  1 Bf  -     -     -         5709    5    0 
+Riemann   949050891  4  4 cc  c     b     b         5704   80  200 
+Riemann   949050926  4  3 cc  c     c     b         5824   70  160 Ks Ts
+Riemann   949050949  4  2 Bf  -     -     -         5914   10    0 
+Riemann   949050960  4  1 Bf  -     -     -         5904    5    0 
+Riemann   949050978  4  4 cc  c     r     b         5899  120  340 8c 7h
+Riemann   949051006  3  2 c   r     b     c         6119   70  140 7h 8c
+Riemann   949051039  2  2 Br  b     r     c         6189   90  180 Kc Qh
+Riemann   949051063  2  1 Bf  -     -     -         6279    5    0 
+Riemann   949051067  2  2 B   -     -     -         6274   10   15 
+Riemann   949051070  2  1 Bc  b     kc    kf        6279   40    0 
+Riemann   949051106  2  2 Br  b     b     b         6239   70  140 6s 6h
+Riemann   949051124  2  1 Bc  k     b     -         6309   30   40 
+Riemann   949051140  2  2 Br  b     -     -         6319   30   50 
+Riemann   949051150  2  1 Bf  -     -     -         6339    5    0 
+Riemann   949051154  2  2 B   -     -     -         6334   10   15 
+Riemann   949051157  2  1 Br  b     -     -         6339   30   50 
+Riemann   949051162  2  2 Bk  f     -     -         6359   10    0 
+Riemann   949051169  2  1 Bc  kr    b     b         6349   70  140 6h 8d
+Riemann   949051190  2  2 B   -     -     -         6419   10   15 
+Riemann   949051195  2  1 Bc  k     b     b         6424   50  100 4h 6d
+Riemann   949051213  2  2 B   -     -     -         6474   10   15 
+Riemann   949051218  4  1 Bf  -     -     -         6479    5    0 
+Riemann   949051263  4  4 r   b     b     k         6474   50  155 Qs Qh
+Riemann   949051293  4  3 f   -     -     -         6579    0    0 
+Riemann   949051320  4  2 Bk  k     kf    -         6579   10    0 
+Riemann   949051336  4  1 Br  kc    kc    kc        6569   70    0 As 3s
+Riemann   949051366  4  4 f   -     -     -         6499    0    0 
+Riemann   949051374  4  3 r   k     kf    -         6499   20    0 
+Riemann   949051407  4  2 Bk  b     kc    kc        6479   60    0 6d Kc
+Riemann   949051441  4  1 Bf  -     -     -         6419    5    0 
+Riemann   949051473  4  4 c   f     -     -         6414   20    0 
+Riemann   949051513  5  3 cc  c     c     c         6394   80    0 Qh Tc
+Riemann   949051549  5  2 Bf  -     -     -         6314   10    0 
+Riemann   949051570  5  1 Bc  kc    kf    -         6304   20    0 
+Riemann   949051603  6  6 f   -     -     -         6284    0    0 
+Riemann   949051627  8  7 c   c     c     c         6284   70    0 Kc As
+Riemann   949051699  9  7 f   -     -     -         6214    0    0 
+Riemann   949051756  9  6 cc  r     b     b         6214   80  245 
+Riemann   949051852  8  4 Q   -     -     -         6364    0    0 
+Riemann   949139129  8  6 c   KQ    -     -         6349   10    0 
+Riemann   949139233 10  5 rc  kf    -     -         6259   40    0 
+Riemann   949139279 10  4 f   -     Q     -         6059    0    0 

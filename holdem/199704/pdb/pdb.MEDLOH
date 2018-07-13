@@ -1,0 +1,133 @@
+MEDLOH    861381918  7  4 rr  br    -     -         1000   70  140 
+MEDLOH    861381952  8  3 cc  kc    kc    kf        1070   60    0 
+MEDLOH    861382013  8  2 Bk  kc    kc    kf        1010   40    0 
+MEDLOH    861382070  8  1 Bc  b     kc    kf         970   50    0 
+MEDLOH    861382108  8  8 c   c     r     r          920  100    0 Ah 6d
+MEDLOH    861382149  8  7 f   -     -     -          820    0    0 
+MEDLOH    861382172  8  6 f   -     -     -          820    0    0 
+MEDLOH    861382237  7  5 f   -     -     -          820    0    0 
+MEDLOH    861382287  8  4 c   f     -     -          820   10    0 
+MEDLOH    861382359  8  3 f   -     -     -          810    0    0 
+MEDLOH    861382467  8  2 Br  bc    kc    bc         810  120    0 6d 3d
+MEDLOH    861382579  8  1 Bf  -     -     -          690    5    0 
+MEDLOH    861382619  8  8 f   -     -     -          685    0    0 
+MEDLOH    861382702  9  8 f   -     -     -          685    0    0 
+MEDLOH    861382728  9  7 f   -     -     -          685    0    0 
+MEDLOH    861382847 11  8 cc  kc    k     k          685   30    0 7c As
+MEDLOH    861382919 11  7 r   kc    kc    k          655   50    0 7d 7h
+MEDLOH    861383066 11  7 c   c     c     f          605   40    0 
+MEDLOH    861383141 10  6 f   -     -     -          565    0    0 
+MEDLOH    861383234 10  5 c   r     c     c          565   80    0 Qc 5c
+MEDLOH    861383276 10  4 f   -     -     -          485    0    0 
+MEDLOH    861383317 11  3 c   c     k     b          485   40  150 Ah 5c
+MEDLOH    861383435 11  2 Bk  r     br    r          595  130  260 
+MEDLOH    861383546 12  1 Bc  kc    kc    kf         725   40    0 
+MEDLOH    861383788 12 12 cc  c     k     k          685   30    0 Jh 9c
+MEDLOH    861383958 12 11 f   -     -     -          655    0    0 
+MEDLOH    861383992 12 10 c   rrc   r     b          655  120  280 2c Jc
+MEDLOH    861384090  8  7 f   -     -     -          815    0    0 
+MEDLOH    861384119  8  6 f   -     QQ    -          815    0    0 
+MEDLOH    861391832  6  3 f   -     -     -          815    0    0 
+MEDLOH    861391859  6  2 Br  k     bc    kc         815   80    0 Ah 7h
+MEDLOH    861391904  6  1 Bc  kc    kf    -          735   30    0 
+MEDLOH    861391949  7  7 c   k     f     -          705   10    0 
+MEDLOH    861392013  8  7 c   c     k     f          695   20    0 
+MEDLOH    861392062  8  6 f   -     -     -          675    0    0 
+MEDLOH    861392141  8  5 f   -     -     -          675    0    0 
+MEDLOH    861392238 10  6 r   b     b     b          675   80    0 Kh Jd
+MEDLOH    861392304 10  5 c   kc    kc    k          595   40    0 Qs 2s
+MEDLOH    861392382 10  4 r   k     c     k          555   40  130 7d Jd
+MEDLOH    861392425  9  2 Bk  b     b     b          645   60  150 7c Td
+MEDLOH    861392472  9  1 Bf  -     -     -          735    5    0 
+MEDLOH    861392535 11 11 r   k     k     f          730   40    0 
+MEDLOH    861392580 11 10 c   c     c     c          690   80    0 Th 5h
+MEDLOH    861392682 11  9 c   b     b     b          610   60  170 9d Qc
+MEDLOH    861392738 11  8 f   -     -     -          720    0    0 
+MEDLOH    861392802 11  7 cc  c     cc    f          720   80    0 
+MEDLOH    861392870 11  6 cc  br    b     bf         640   90    0 
+MEDLOH    861392947 11  5 f   -     -     -          550    0    0 
+MEDLOH    861393051 10  3 r   brc   brc   kc         550  160    0 7c 5c
+MEDLOH    861393187  9  2 Br  b     -     -          390   30   70 
+MEDLOH    861393234  9  1 Brr br    b     b          430  110    0 8d 7d
+MEDLOH    861393293  9  9 r   r     b     b          320   80    0 7h 7d
+MEDLOH    861393368  9  8 r   b     b     b          240   80  195 2s 2c
+MEDLOH    861393407  9  6 fQ  -     -     -          355    0    0 
+MEDLOH    862027455 12  6 c   c     c     k         1613   50    0 7c Jh
+MEDLOH    862027517 12  5 ccc cc    k     f         1563   70    0 
+MEDLOH    862027655 12  4 cc  cc    f     -         1493   90    0 
+MEDLOH    862027794 11  2 Bc  kc    kf    -         1403   30    0 
+MEDLOH    862027868 12  1 Br  b     bc    kf        1373   80    0 
+MEDLOH    862027920 12 12 r   c     f     -         1293   30    0 
+MEDLOH    862028016 12 11 r   r     cc    f         1263  110    0 
+MEDLOH    862028108 12 10 rc  b     b     b         1153   90  330 Qs 6s
+MEDLOH    862028171 12 10 r   k     k     f         1393   20    0 
+MEDLOH    862028296 11  8 f   -     -     -         1373    0    0 
+MEDLOH    862028378 11  7 r   k     b     rf        1373   80    0 
+MEDLOH    862028441 11  6 rc  kc    kc    kf        1293   70    0 
+MEDLOH    862028512 11  5 cc  b     b     -         1223   60  210 
+MEDLOH    862028574 11  4 f   -     -     -         1373    0    0 
+MEDLOH    862028660 11  3 f   -     -     -         1373    0    0 
+MEDLOH    862028697 12  2 Bk  kc    kf    -         1373   20    0 
+MEDLOH    862028781 12  1 Bc  kc    kf    -         1353   20    0 
+MEDLOH    862028848 12 12 rr  r     b     b         1333  100    0 6h Qh
+MEDLOH    862028931 12 11 f   -     -     -         1233    0    0 
+MEDLOH    862029029 12 10 f   -     -     -         1233    0    0 
+MEDLOH    862029151 11  8 c   b     b     b         1233   60  160 
+MEDLOH    862029231 12  8 f   -     -     -         1333    0    0 
+MEDLOH    862029272 12  7 r   br    b     -         1333   70  210 
+MEDLOH    862029352 12  6 cc  f     -     -         1473   30    0 
+MEDLOH    862029426 12  5 crc c     c     f         1443   70    0 
+MEDLOH    862029548 12  4 r   b     b     -         1373   50  135 
+MEDLOH    862029611 12  3 crc r     r     c         1458  120  240 Ad Tc
+MEDLOH    862029693 11  2 Brc b     k     kf        1578   50    0 
+MEDLOH    862029765 11  1 BQQ -     -     -         1528    5    0 
+MEDLOH    862132895  8  6 c   ccc   f     -         1523   50    0 
+MEDLOH    862132987  8  5 rr  br    brc   k         1473  150    0 5d Ad
+MEDLOH    862133124  8  4 c   kr    b     -         1323   50  180 
+MEDLOH    862133225  8  3 crc kccc  k     kf        1453   80    0 
+MEDLOH    862133381  8  2 Bc  kcc   f     -         1373   50    0 
+MEDLOH    862133567  7  1 Br  b     b     b         1323   70  200 
+MEDLOH    862133697  8  8 f   -     -     -         1453    0    0 
+MEDLOH    862133878  7  6 f   -     -     -         1453    0    0 
+MEDLOH    862134003  7  5 f   -     -     -         1453    0    0 
+MEDLOH    862134064  7  4 f   -     -     -         1453    0    0 
+MEDLOH    862134136  7  3 rr  b     k     kcf       1453   70    0 
+MEDLOH    862134243  7  2 Bf  -     -     -         1383   10    0 
+MEDLOH    862134342  7  1 Brc bc    kf    -         1373   50    0 
+MEDLOH    862134439  7  7 r   rr    rc    f         1323  140    0 
+MEDLOH    862134581  7  6 rc  cc    k     f         1183   70    0 
+MEDLOH    862134674  7  5 f   -     Q     -         1113    0    0 
+MEDLOH    862175680  7  4 f   -     -     -         1113    0    0 
+MEDLOH    862175764  8  3 f   -     -     -         1113    0    0 
+MEDLOH    862175865  8  2 Br  b     b     -         1113   50  140 
+MEDLOH    862175936  8  1 Brc b     b     b         1203   90  320 Kh Qd
+MEDLOH    862176006  8  8 f   -     -     -         1433    0    0 
+MEDLOH    862176075  8  7 r   b     b     b         1433   70  180 
+MEDLOH    862176130  8  6 c   f     QQ    -         1543   30    0 
+MEDLOH    862177438  7  5 f   -     -     -         1513    0    0 
+MEDLOH    862177483  7  4 c   k     k     kf        1513   10    0 
+MEDLOH    862177562  7  3 r   k     f     -         1503   20    0 
+MEDLOH    862177603  7  2 Brc krrc  kc    kc        1483  130  330 Ad 7c
+MEDLOH    862177674  7  1 Br  kc    kc    kf        1683   50    0 
+MEDLOH    862177757  8  8 f   -     -     -         1633    0    0 
+MEDLOH    862177826  7  6 f   -     -     -         1633    0    0 
+MEDLOH    862177856  7  6 c   rc    c     k         1633   60    0 5c 4d
+MEDLOH    862177961  7  5 c   k     c     f         1573   30    0 
+MEDLOH    862178036  8  4 f   -     -     -         1543    0    0 
+MEDLOH    862178090  7  2 Bk  kc    kc    k         1543   40    0 6d 2h
+MEDLOH    862178170  7  1 Br  kc    b     b         1503   80    0 Js Kc
+MEDLOH    862178294  7  7 c   k     c     f         1423   30    0 
+MEDLOH    862178368  6  5 f   -     -     -         1393    0    0 
+MEDLOH    862178442  6  4 r   b     k     f         1393   30    0 
+MEDLOH    862178546  7  3 f   -     -     -         1363    0    0 
+MEDLOH    862178746  6  2 Bf  -     -     -         1363   10    0 
+MEDLOH    862178805  6  1 Bc  k     kc    k         1353   30    0 5c 2d
+MEDLOH    862178883  7  7 r   c     f     -         1323   30    0 
+MEDLOH    862178976  7  6 rr  k     b     b         1293   80    0 Ah Kc
+MEDLOH    862179076  7  6 r   f     -     -         1213   20    0 
+MEDLOH    862179137  6  4 c   k     k     k         1193   10    0 7d 6s
+MEDLOH    862179222  6  3 r   b     b     b         1183   70    0 Kh 9d
+MEDLOH    862179269  5  1 Br  b     b     b         1113   70  140 7s 7d
+MEDLOH    862179310  4  1 Br  k     k     k         1183   20    0 Kh Th
+MEDLOH    862179378  4  4 r   k     k     k         1163   20    0 8h 9h
+MEDLOH    862179418  4  3 c   k     k     Q         1143   10    0 

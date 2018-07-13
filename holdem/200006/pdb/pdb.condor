@@ -1,0 +1,308 @@
+condor    961873957  8  3 f   -     -     -         1550    0    0 
+condor    961873989  8  2 Bk  b     b     b         1550   60  140 
+condor    961874040  9  1 Bc  k     b     b         1630   50  110 
+condor    961874113  9  9 f   -     -     -         1740    0    0 
+condor    961874191  8  7 f   -     -     -         1740    0    0 
+condor    961874222  8  6 c   b     b     b         1740   60  130 
+condor    961874281  8  4 f   -     -     -         1760    0    0 
+condor    961874339  8  3 c   b     b     kc        1760   60    0 6h 6d
+condor    961874383  8  2 Bk  k     kf    -         1700   10    0 
+condor    961874410  7  1 Bc  b     b     br        1690  100  330 9c 8h
+condor    961874453  7  7 cc  b     b     b         1910   70  200 6c 5c
+condor    961874518  7  6 f   -     -     -         2035    0    0 
+condor    961874582  7  5 f   -     -     -         2035    0    0 
+condor    961874641  7  4 f   -     -     -         2035    0    0 
+condor    961874665  7  3 f   -     -     -         2035    0    0 
+condor    961874703  7  2 Bk  k     kf    -         2035   10    0 
+condor    961874746  7  1 Bcc kf    -     -         2025   20    0 
+condor    961874779  7  7 r   b     rc    c         2005  110  225 6s 5s
+condor    961874809  8  7 f   -     -     -         2120    0    0 
+condor    961874851  7  5 f   -     -     -         2120    0    0 
+condor    961874909  6  4 f   -     -     -         2120    0    0 
+condor    961874932  6  3 r   b     k     k         2120   30    0 As Qs
+condor    961874951  6  2 Bc  kr    kc    kc        2090   80  185 Kd 7d
+condor    961874984  6  1 Bcf -     -     -         2195   10    0 
+condor    961875027  6  6 f   -     -     -         2185    0    0 
+condor    961875055  6  5 r   bc    kr    rc        2185  140    0 Td Ts
+condor    961875083  6  4 f   -     -     -         2045    0    0 
+condor    961875122  7  3 cc  kc    bc    kf        2045   70    0 
+condor    961875162  7  2 Bk  kf    -     -         1975   10    0 
+condor    961875201  7  1 Bc  kf    -     -         1965   10    0 
+condor    961875227  7  7 c   f     -     -         1955   10    0 
+condor    961875272  7  6 r   kc    kc    kc        1945   70  155 Jh Kh
+condor    961875297  8  6 f   -     -     -         2030    0    0 
+condor    961875336  8  5 f   -     -     -         2030    0    0 
+condor    961875380  8  4 f   -     -     -         2030    0    0 
+condor    961875425  8  3 f   -     -     -         2030    0    0 
+condor    961875473  8  2 Bk  k     k     b         2030   30    0 3s Ks
+condor    961875520  8  1 Bc  kf    -     -         2000   10    0 
+condor    961875562  8  8 f   -     -     -         1990    0    0 
+condor    961875612  8  7 f   -     -     -         1990    0    0 
+condor    961875655  9  6 f   -     -     -         1990    0    0 
+condor    961875713 10  5 c   b     f     -         1990   20    0 
+condor    961875771  9  4 f   -     -     -         1970    0    0 
+condor    961875818  8  3 f   -     -     -         1970    0    0 
+condor    961875849  8  2 Bk  kf    -     -         1970   10    0 
+condor    961875889  9  1 Bc  kr    b     b         1960   80  320 Kc Qc
+condor    961875937  9  9 f   -     -     -         2200    0    0 
+condor    961875972  8  7 r   k     b     b         2200   60  130 
+condor    961876005  9  7 f   -     -     -         2270    0    0 
+condor    961876069 10  6 f   -     -     -         2270    0    0 
+condor    961876135 10  5 f   -     -     -         2270    0    0 
+condor    961876201 10  4 f   -     -     -         2270    0    0 
+condor    961876252 10  3 f   -     -     -         2270    0    0 
+condor    961876309 10  2 Bk  k     b     -         2270   30   65 
+condor    961876404  9  1 Bc  b     bc    kc        2305   80    0 Qs 5s
+condor    961876473 10 10 f   -     -     -         2225    0    0 
+condor    961876520 10  9 f   -     -     -         2225    0    0 
+condor    961876555 10  8 f   -     -     -         2225    0    0 
+condor    961876618 10  7 f   -     -     -         2225    0    0 
+condor    961876706 10  6 f   -     -     -         2225    0    0 
+condor    961876765 10  5 r   b     b     b         2225   70  175 Qc Qd
+condor    961876834 10  4 f   -     -     -         2330    0    0 
+condor    961876876 10  3 f   -     -     -         2330    0    0 
+condor    961876955 10  2 Bk  f     -     -         2330   10    0 
+condor    961877009 10  1 Bf  -     -     -         2320    5    0 
+condor    961877054 10 10 rc  r     f     -         2315   70    0 
+condor    961877120 10  9 f   -     -     -         2245    0    0 
+condor    961877214 10  8 f   -     -     -         2245    0    0 
+condor    961877312 10  7 f   -     -     -         2245    0    0 
+condor    961877346 10  6 f   -     -     -         2245    0    0 
+condor    961877370 10  5 f   -     -     -         2245    0    0 
+condor    961877417 10  4 f   -     -     -         2245    0    0 
+condor    961877462 10  3 f   -     -     -         2245    0    0 
+condor    961877533 10  2 Bk  kr    b     kf        2245   50    0 
+condor    961877593 10  1 Bc  bc    krc   bf        2195  120    0 
+condor    961877679 10 10 f   -     -     -         2075    0    0 
+condor    961877708 10  9 r   k     b     b         2075   60  190 Ks Qd
+condor    961877765 10  8 f   -     -     -         2205    0    0 
+condor    961877794 10  7 f   -     -     -         2205    0    0 
+condor    961877820 10  6 r   -     -     -         2205   20   35 
+condor    961877849 10  5 c   kc    r     b         2220   80    0 Tc Kc
+condor    961877902 10  4 f   -     -     -         2140    0    0 
+condor    961877956 10  3 f   -     -     -         2140    0    0 
+condor    961878004 10  2 Bk  r     k     k         2140   30    0 Jc 2c
+condor    961878041 10  1 Bc  k     kf    -         2110   10    0 
+condor    961878083 10 10 f   -     -     -         2100    0    0 
+condor    961878119 10  9 f   -     -     -         2100    0    0 
+condor    961878209 10  8 f   -     -     -         2100    0    0 
+condor    961878244 10  7 r   b     b     b         2100   70  250 Ad Kd
+condor    961878312 10  6 f   -     -     -         2280    0    0 
+condor    961878344 10  5 f   -     -     -         2280    0    0 
+condor    961878410 10  4 cc  f     -     -         2280   20    0 
+condor    961878493  9  3 cc  c     rc    c         2260  110  375 Jc Qc
+condor    961878569  9  2 Bk  kf    -     -         2525   10    0 
+condor    961878644  9  1 Bf  -     -     -         2515    5    0 
+condor    961878694  9  9 f   -     -     -         2510    0    0 
+condor    961878735  9  8 f   -     -     -         2510    0    0 
+condor    961878760  8  6 f   -     -     -         2510    0    0 
+condor    961878788  8  5 f   -     -     -         2510    0    0 
+condor    961878854  9  4 f   -     -     -         2510    0    0 
+condor    961878926  9  3 f   -     -     -         2510    0    0 
+condor    961878975  9  2 Bk  k     kf    -         2510   10    0 
+condor    961879031  9  1 Bf  -     -     -         2500    5    0 
+condor    961879094  8  8 c   r     b     k         2495   50  115 Qc Jh
+condor    961879136  9  8 r   b     b     -         2560   50   95 
+condor    961879196  9  7 f   -     -     -         2605    0    0 
+condor    961879237  9  6 r   f     -     -         2605   20    0 
+condor    961879271 10  6 f   -     -     -         2585    0    0 
+condor    961879321  9  5 f   -     -     -         2585    0    0 
+condor    961879361  9  4 r   b     b     b         2585   70  185 
+condor    961879386 10  3 f   -     -     -         2700    0    0 
+condor    961879432 10  2 Bc  kf    -     -         2700   20    0 
+condor    961879486 10  1 Bf  -     -     -         2680    5    0 
+condor    961879529 10 10 f   -     -     -         2675    0    0 
+condor    961879598 10  9 f   -     -     -         2675    0    0 
+condor    961879659 10  8 c   rcc   k     k         2675   50    0 Qh Js
+condor    961879755 10  7 f   -     -     -         2625    0    0 
+condor    961879819 10  6 c   k     k     b         2625   30   90 
+condor    961879890 10  5 c   k     b     b         2685   50  145 7c Ac
+condor    961879934 10  4 f   -     -     -         2780    0    0 
+condor    961879972 10  3 fQ  -     -     -         2780    0    0 
+condor    962167202  9  6 f   -     -     -         2058    0    0 
+condor    962167264 10  6 f   -     -     -         2058    0    0 
+condor    962167350 10  5 f   -     -     -         2278    0    0 
+condor    962167454  8  4 rc  b     f     -         1998   50    0 
+condor    962167531  8  3 f   -     -     -         1758    0    0 
+condor    962167595  7  1 BQ  -     -     -         1758   10    0 
+condor    962248113  9  7 r   f     -     -         1958   30    0 
+condor    962248160 10  6 c   c     c     r         1928   90  250 7s 4s
+condor    962248205 10  5 r   b     b     b         2088   70  155 Qd As
+condor    962248236 10  4 f   -     -     -         2173    0    0 
+condor    962248281 10  3 f   -     -     -         2173    0    0 
+condor    962248374  9  2 Bf  -     -     -         2133   10    0 
+condor    962248408  9  1 Bc  kf    -     -         2123   20    0 
+condor    962248498  9  9 f   -     -     -         2163    0    0 
+condor    962248580  8  7 c   rc    c     c         2163   90  210 3c Qc
+condor    962248613  9  7 c   cf    -     -         2243   20    0 
+condor    962248666 10  7 f   -     -     -         2313    0    0 
+condor    962248714 10  6 cc  c     rr    rr        2213  210  650 Th Ah
+condor    962248814  9  4 cc  f     -     -         2573   30    0 
+condor    962248847  9  3 f   -     -     -         2543    0    0 
+condor    962248914  9  2 Bf  -     -     -         2583   10    0 
+condor    962248965 10  1 Brc bc    kf    -         2533   70    0 
+condor    962249031 10 10 f   -     -     -         2453    0    0 
+condor    962249122 10  9 c   f     -     -         2453   20    0 
+condor    962249171  9  7 f   -     -     -         2433    0    0 
+condor    962249291 10  6 f   -     -     -         2493    0    0 
+condor    962249336 10  5 cc  f     -     -         2563   40    0 
+condor    962249460 10  4 f   -     -     -         2643    0    0 
+condor    962249519  9  2 cc  kf    -     -         2643   20    0 
+condor    962249601  9  2 Bc  kf    -     -         2693   20    0 
+condor    962249655  9  1 Bf  -     -     -         2593    5    0 
+condor    962249696  8  8 f   -     -     -         2578    0    0 
+condor    962249780  9  8 c   k     k     k         2578   10    0 Jh Qd
+condor    962249838  9  7 f   -     -     -         2528    0    0 
+condor    962249895  9  6 f   -     -     Q         2528    0    0 
+condor    962335728 10  5 f   -     -     -         2028    0    0 
+condor    962335782 10  4 f   -     -     -         2028    0    0 
+condor    962335850 10  3 f   -     -     -         2028    0    0 
+condor    962335925 10  2 Bc  bc    br    b         2028  120  285 2s 2d
+condor    962335969 10  1 Bc  kf    -     -         2193   30    0 
+condor    962336025 10 10 f   -     -     -         2163    0    0 
+condor    962336082  9  8 rc  c     c     c         2163   80    0 Kh Jh
+condor    962336134  9  7 f   -     -     -         2083    0    0 
+condor    962336168  9  7 c   b     -     -         2083   20   40 
+condor    962336200  9  6 c   b     b     b         2103   60  160 Qs Jh
+condor    962336255  9  5 f   -     -     -         2203    0    0 
+condor    962336335 10  4 f   -     -     -         2203    0    0 
+condor    962336411  8  3 cc  b     b     b         2203   70  200 6c 6d
+condor    962336463  7  2 Bk  c     r     b         2333   80  160 
+condor    962336513  6  1 Brc kc    kc    kc        2413   90    0 Qc Ad
+condor    962336540  6  6 f   -     -     -         2323    0    0 
+condor    962336562  5  5 c   bc    c     r         2323   90    0 3h 5h
+condor    962336609  5  4 f   -     -     -         2233    0    0 
+condor    962336631  6  3 cc  k     b     b         2233   60    0 2h 2d
+condor    962336658  6  2 B   -     -     -         2173   10   15 
+condor    962336666  6  1 Bc  kf    -     -         2178   10    0 
+condor    962336687  6  6 c   c     r     r         2168  110  280 Qc Js
+condor    962336718  6  5 f   -     -     -         2338    0    0 
+condor    962336739  6  4 c   c     r     b         2338   90  205 Qs 9s
+condor    962336758  7  3 f   -     -     -         2453    0    0 
+condor    962336794  7  2 Bc  kf    -     -         2453   30    0 
+condor    962336821  7  1 Bcc kc    kc    kc        2423   70    0 4s 3s
+condor    962336859  8  8 f   -     -     -         2353    0    0 
+condor    962336892  8  7 f   -     -     -         2353    0    0 
+condor    962336946  9  7 f   -     -     -         2353    0    0 
+condor    962336984 10  6 f   -     -     -         2353    0    0 
+condor    962337023 10  5 c   kf    -     -         2353   10    0 
+condor    962337067 10  4 f   -     -     -         2343    0    0 
+condor    962337100  9  2 Bk  f     -     -         2343   10    0 
+condor    962337148  9  1 Bf  -     -     -         2333    5    0 
+condor    962337181  9  9 r   br    c     r         2328  110  235 
+condor    962337213  8  7 f   -     -     -         2453    0    0 
+condor    962337239  8  6 f   -     -     -         2453    0    0 
+condor    962337267  8  5 c   rc    f     -         2453   40    0 
+condor    962337287  8  4 f   -     -     -         2413    0    0 
+condor    962337318  8  3 ccc cr    r     b         2413  140    0 7c 9c
+condor    962337369  8  2 Bf  -     -     -         2273   10    0 
+condor    962337417  9  1 Bc  kr    krc   krc       2263  170    0 Ts Jd
+condor    962337493 10 10 f   -     -     -         2093    0    0 
+condor    962337552 10  9 c   k     f     -         2093   10    0 
+condor    962337648 10  8 f   -     -     -         2083    0    0 
+condor    962337700 10  7 f   -     -     -         2083    0    0 
+condor    962337766 10  6 f   -     -     -         2083    0    0 
+condor    962337819 10  5 f   -     -     -         2083    0    0 
+condor    962337888 10  4 f   -     -     -         2083    0    0 
+condor    962337951 10  3 f   -     -     -         2083    0    0 
+condor    962338007  9  2 Bf  -     -     -         2083   10    0 
+condor    962338075  9  1 Bf  -     -     -         2073    5    0 
+condor    962338128  9  9 f   -     -     -         2068    0    0 
+condor    962338199  8  7 rc  c     r     k         2068   90    0 Qc Ac
+condor    962338310 10  8 c   f     -     -         1978   10    0 
+condor    962338369  9  6 f   -     -     -         1968    0    0 
+condor    962338406  8  4 cc  k     br    b         1968  100  270 Qh Ks
+condor    962338461  7  2 Bf  -     -     -         2138   10    0 
+condor    962338496  6  1 Bf  -     -     -         2128    5    0 
+condor    962338530  6  6 c   cc    c     b         2123   80  210 
+condor    962338577  6  5 c   k     r     k         2253   50  120 7c Qc
+condor    962338627  6  4 f   -     -     -         2323    0    0 
+condor    962338693  6  4 f   -     -     -         2323    0    0 
+condor    962338729  5  2 Bf  -     -     -         2323   10    0 
+condor    962338740  5  1 Bf  -     -     -         2313    5    0 
+condor    962338777  5  5 r   c     b     b         2308   70  130 
+condor    962338804  6  5 c   c     r     c         2368   80   85 6d Td
+condor    962338860  5  3 f   -     -     -         2373    0    0 
+condor    962338890  5  3 fQ  -     -     -         2373    0    0 
+condor    962383050  6  3 f   -     -     -         1000    0    0 
+condor    962383078  6  2 Bf  -     -     -         1000   10    0 
+condor    962383133  7  1 Bcc brc   b     b          990  120  500 5h 6h
+condor    962383181  8  8 c   k     k     k         1370   20    0 6h 4h
+condor    962383249  9  8 f   -     -     -         1350    0    0 
+condor    962383303 10  8 f   -     -     -         1350    0    0 
+condor    962383329 10  7 f   -     -     -         1350    0    0 
+condor    962383371 10  6 f   -     -     -         1350    0    0 
+condor    962383406 10  5 f   -     -     -         1350    0    0 
+condor    962383473 10  4 f   -     -     -         1350    0    0 
+condor    962383526 10  3 cc  kQ    -     -         1350   20    0 
+condor    962383963  9  6 f   -     -     -         1330    0    0 
+condor    962384007 10  7 f   -     -     -         1330    0    0 
+condor    962384031  9  5 cc  rc    r     k         1330  100    0 Ad Td
+condor    962384067 10  4 cc  k     bf    -         1230   50    0 
+condor    962384134 10  3 f   -     -     -         1180    0    0 
+condor    962384215 10  2 Bf  -     -     -         1180   10    0 
+condor    962384269  9  1 Bc  k     b     k         1170   50  180 Td 8d
+condor    962384325 10 10 f   -     -     -         1300    0    0 
+condor    962384427  8  7 f   -     -     -         1300    0    0 
+condor    962384475  8  7 c   r     f     -         1300   30    0 
+condor    962384522  8  6 f   -     -     -         1270    0    0 
+condor    962384558  8  5 f   -     -     -         1270    0    0 
+condor    962384608  8  4 r   b     b     -         1270   50  105 
+condor    962384646  7  2 Bk  k     b     k         1325   30    0 8d 6d
+condor    962384688  7  1 Bc  kc    kc    kr        1295   90  230 As 7s
+condor    962384720  8  8 f   -     -     -         1435    0    0 
+condor    962384803  8  7 f   -     -     -         1435    0    0 
+condor    962384862  9  7 f   -     -     -         1435    0    0 
+condor    962384912 10  6 cc  rc    b     b         1435   90    0 Kc 4c
+condor    962384958 10  5 c   f     -     -         1345   10    0 
+condor    962384981 10  4 f   -     -     -         1335    0    0 
+condor    962385027 10  3 ccc kc    kf    -         1335   50    0 
+condor    962385076 10  2 Bk  kc    k     b         1285   40    0 Qd 7d
+condor    962385132 10  1 Bc  kr    bf    -         1245   60    0 
+condor    962385241 10 10 c   f     -     -         1185   20    0 
+condor    962385284 10  9 r   k     kf    -         1165   20    0 
+condor    962385342 10  8 f   -     -     -         1145    0    0 
+condor    962385373  9  6 f   -     -     -         1145    0    0 
+condor    962385423 10  5 cc  brf   -     -         1145   50    0 
+condor    962385479 10  4 cc  r     r     r         1095  140  520 5h Kh
+condor    962385535 10  3 f   -     -     -         1475    0    0 
+condor    962385600 10  2 Bf  -     -     -         1475   10    0 
+condor    962385634 10  1 Bc  kf    -     -         1465   20    0 
+condor    962385740 10 10 f   -     -     -         1445    0    0 
+condor    962385798 10  9 fQ  -     -     -         1445    0    0 
+condor    962413260  9  2 Bk  b     b     k         2040   40    0 As 8s
+condor    962413327  7  1 Bc  kf    -     -         2000   10    0 
+condor    962413359  7  7 f   -     -     -         1990    0    0 
+condor    962413400  8  6 f   -     -     -         1990    0    0 
+condor    962413473  9  5 rc  br    b     b         1990  100    0 Qh Qc
+condor    962413529  8  3 cc  r     b     k         1890   60  160 8d 8s
+condor    962413573  8  2 Bf  -     -     -         1990   10    0 
+condor    962413646  8  1 Bc  kc    kr    br        1980  130    0 9s 8s
+condor    962413728  8  8 cc  r     k     b         1850   60  210 
+condor    962413825  9  8 c   c     r     r         2000  100  340 2h 2d
+condor    962413910  8  6 c   b     b     b         2240   60  190 Th As
+condor    962413995  9  6 f   -     -     -         2370    0    0 
+condor    962414065 10  5 f   -     -     -         2370    0    0 
+condor    962414131  8  4 f   -     -     -         2370    0    0 
+condor    962414205  9  3 f   -     -     -         2370    0    0 
+condor    962414254 10  2 Bk  kf    -     -         2370   10    0 
+condor    962414319 10  1 Bc  b     b     b         2360   60    0 7h 8d
+condor    962414360 10 10 f   -     -     -         2300    0    0 
+condor    962414418 10  9 r   r     b     rr        2300  160    0 8d 7d
+condor    962414491 10  8 cc  r     brc   b         2140  140    0 Ad 9d
+condor    962414591 10  7 f   -     -     -         2000    0    0 
+condor    962414641 10  6 f   -     -     -         2000    0    0 
+condor    962414714 10  5 f   -     -     -         2000    0    0 
+condor    962414754  9  3 r   bc    bc    kr        2000  120    0 Kh Kd
+condor    962414796  9  2 Bk  kr    k     kf        1880   30    0 
+condor    962414848  9  1 Bc  kc    kf    -         1850   20    0 
+condor    962414886 10 10 f   -     -     -         1830    0    0 
+condor    962414925 10  9 f   -     -     -         1830    0    0 
+condor    962414959 10  8 f   -     -     -         1830    0    0 
+condor    962415035 10  7 c   c     f     -         1830   20    0 
+condor    962415122 10  6 f   -     -     -         1810    0    0 
+condor    962415168 10  5 f   -     -     -         1810    0    0 
+condor    962415239 10  4 f   -     -     -         1810    0    0 
+condor    962415289 10  3 f   -     -     -         1810    0    0 
+condor    962415337 10  2 Bc  kf    -     -         1810   20    0 
+condor    962415368 10  1 Bf  -     -     -         1790    5    0 

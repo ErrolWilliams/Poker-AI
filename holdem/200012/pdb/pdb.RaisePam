@@ -1,0 +1,795 @@
+RaisePam  975930182  8  8 f   -     -     -         1000    0    0 
+RaisePam  975930226  8  8 fQ  -     -     -         1000    0    0 
+RaisePam  975930341 10  6 cc  ccc   k     k         1000   80  495 Ah Qd
+RaisePam  975930414 10  5 c   cf    -     -         1415   20    0 
+RaisePam  975930512 10  4 cc  kc    kc    k         1395   60    0 Js Ks
+RaisePam  975930558 10  3 f   -     -     -         1335    0    0 
+RaisePam  975930675  9  2 Bc  kc    kc    f         1335   70    0 
+RaisePam  975930789 10  1 Bf  -     -     -         1265    5    0 
+RaisePam  975930881  9  9 c   c     c     c         1260   60  160 Kc Ac
+RaisePam  975930937  9  8 c   b     c     k         1360   50  270 Tc Ah
+RaisePam  975931035  9  7 r   b     b     b         1580   70    0 Th Td
+RaisePam  975931137  9  6 c   bc    kc    kc        1510   80    0 Qh 6h
+RaisePam  975931258  9  5 c   k     k     c         1430   30    0 3c 3s
+RaisePam  975931360  9  4 f   -     -     -         1400    0    0 
+RaisePam  975931417  9  3 f   -     -     -         1400    0    0 
+RaisePam  975931453  9  2 Bk  k     kf    -         1400   10    0 
+RaisePam  975931479  9  1 Bf  -     -     -         1390    5    0 
+RaisePam  975931555  9  9 f   -     -     -         1385    0    0 
+RaisePam  975931607  9  8 f   -     -     -         1385    0    0 
+RaisePam  975931675  9  7 c   f     -     -         1385   20    0 
+RaisePam  975931706  9  6 f   -     -     -         1365    0    0 
+RaisePam  975931776  9  5 c   c     kc    f         1365   40    0 
+RaisePam  975931816  9  4 f   -     -     -         1325    0    0 
+RaisePam  975931976  9  3 c   b     brc   b         1325  120  255 Ad 8d
+RaisePam  975932025  9  2 Bc  f     -     -         1460   20    0 
+RaisePam  975932083  9  1 Bf  -     -     -         1440    5    0 
+RaisePam  975932108  8  8 c   k     k     k         1435   10    0 6s Js
+RaisePam  975932151  8  7 c   f     -     -         1425   10    0 
+RaisePam  975932191  8  6 c   c     c     k         1415   40  160 7s As
+RaisePam  975932232  8  5 cc  b     k     k         1535   30    0 Qh Ts
+RaisePam  975932277  7  4 f   -     -     -         1505    0    0 
+RaisePam  975932298  7  3 f   -     -     -         1505    0    0 
+RaisePam  975932326  7  2 Bf  -     -     -         1505   10    0 
+RaisePam  975932341  8  1 Bf  -     -     -         1495    5    0 
+RaisePam  975932367  8  8 c   b     k     k         1490   20   60 Ks Th
+RaisePam  975932401  8  7 c   b     -     -         1530   20   45 
+RaisePam  975932417  8  6 f   -     -     -         1555    0    0 
+RaisePam  975932464  8  5 f   -     -     -         1555    0    0 
+RaisePam  975932468  8  4 cc  ccc   kc    k         1555   80    0 Ad Qh
+RaisePam  975932523  9  4 f   -     -     -         1475    0    0 
+RaisePam  975932553  9  3 cc  kc    k     kf        1475   30    0 
+RaisePam  975932605  9  2 B   -     -     -         1445   10   15 
+RaisePam  975932619  9  1 Bc  b     -     -         1450   20   40 
+RaisePam  975932636  9  9 f   -     -     -         1470    0    0 
+RaisePam  975932649  9  8 f   -     -     -         1470    0    0 
+RaisePam  975932694  9  7 c   b     b     c         1470   60  140 Ks Jd
+RaisePam  975932733  9  6 f   -     -     -         1550    0    0 
+RaisePam  975932760  9  5 c   b     b     -         1550   40  100 
+RaisePam  975932804  9  4 f   -     -     -         1610    0    0 
+RaisePam  975932842  9  3 c   k     k     b         1610   30   75 
+RaisePam  975932891 10  2 Bk  kf    -     -         1655   10    0 
+RaisePam  975932918 10  1 Bc  b     k     k         1645   20    0 8s 5h
+RaisePam  975932948 10 10 f   -     -     -         1625    0    0 
+RaisePam  975933007 10  9 f   -     -     -         1625    0    0 
+RaisePam  975933047 10  8 f   -     -     -         1625    0    0 
+RaisePam  975933072 10  7 f   -     -     -         1625    0    0 
+RaisePam  975933099 10  6 c   c     c     c         1625   70    0 7s Ks
+RaisePam  975933131 10  5 f   -     -     -         1555    0    0 
+RaisePam  975933171 10  4 f   -     -     -         1555    0    0 
+RaisePam  975933233 10  3 f   -     -     -         1555    0    0 
+RaisePam  975933279 10  2 Bf  -     -     -         1555   10    0 
+RaisePam  975933311 10  1 Bc  kf    -     -         1545   20    0 
+RaisePam  975933344 10 10 f   -     -     -         1525    0    0 
+RaisePam  975933411 10  9 c   c     c     k         1525   40    0 Ah 8h
+RaisePam  975933445 10  8 f   -     -     -         1485    0    0 
+RaisePam  975933489 10  7 f   -     -     -         1485    0    0 
+RaisePam  975933510 10  6 cc  cc    cf    -         1485   80    0 
+RaisePam  975933585 10  5 f   -     -     -         1405    0    0 
+RaisePam  975933611 10  4 f   -     -     -         1405    0    0 
+RaisePam  975933714  9  3 cf  -     -     -         1405   10    0 
+RaisePam  975933738 10  2 Bk  kf    -     -         1395   10    0 
+RaisePam  975933770 10  1 Bf  -     -     -         1385    5    0 
+RaisePam  975933802 10 10 cc  k     c     c         1380   80  245 8h 9d
+RaisePam  975933844 10  9 f   -     -     -         1545    0    0 
+RaisePam  975933886 10  8 cf  -     -     -         1545   10    0 
+RaisePam  975933954  9  6 c   f     -     -         1535   10    0 
+RaisePam  975933980  9  5 c   k     k     k         1525   10    0 6s Qs
+RaisePam  975934014  9  4 f   -     -     -         1515    0    0 
+RaisePam  975934044  9  3 cc  b     bc    kc        1515   90    0 8s Kc
+RaisePam  975934085  9  2 Bk  k     k     k         1425   10    0 9s 5d
+RaisePam  975934133  9  1 Bc  kc    kc    kf        1415   50    0 
+RaisePam  975934166  8  8 c   c     k     k         1365   20    0 Ah Jc
+RaisePam  975934194  9  8 r   b     br    b         1345  110  315 Qs Qc
+RaisePam  975934228  9  7 f   -     -     -         1550    0    0 
+RaisePam  975934254  9  6 c   k     k     r         1550   50  160 Tc Js
+RaisePam  975934298  8  5 f   -     -     -         1660    0    0 
+RaisePam  975934347  8  4 c   k     k     k         1660   10    0 Qc Jc
+RaisePam  975934368  8  3 c   k     k     k         1650   10    0 5h 6d
+RaisePam  975934420  6  2 Bk  k     k     k         1640   10   25 4d 7c
+RaisePam  975934444  7  1 Bf  -     -     -         1655    5    0 
+RaisePam  975934477  7  7 cc  f     -     -         1650   20    0 
+RaisePam  975934522  7  6 f   -     -     -         1630    0    0 
+RaisePam  975934566  7  5 f   -     -     -         1630    0    0 
+RaisePam  975934588  7  4 c   k     b     b         1630   50   85 
+RaisePam  975934621  7  3 c   kf    -     -         1665   10    0 
+RaisePam  975934674  7  2 Bk  k     k     kf        1655   10    0 
+RaisePam  975934707  7  1 Bc  kc    kf    -         1645   20    0 
+RaisePam  975934754  7  7 c   r     b     b         1625   80  200 
+RaisePam  975934819  7  6 f   -     -     -         1745    0    0 
+RaisePam  975934880  7  5 f   -     -     -         1745    0    0 
+RaisePam  975934897  7  4 f   -     -     -         1745    0    0 
+RaisePam  975934910  8  3 f   -     -     -         1745    0    0 
+RaisePam  975934970  8  2 Bk  rc    kc    kc        1745   80  220 Ts Ah
+RaisePam  975935051  8  1 Bcc kc    kf    -         1885   40    0 
+RaisePam  975935112  8  8 c   c     c     f         1845   50    0 
+RaisePam  975935154  8  7 c   c     c     c         1795   70  195 7c 5c
+RaisePam  975935200  9  7 f   -     -     -         1920    0    0 
+RaisePam  975935264  9  6 f   -     -     -         1920    0    0 
+RaisePam  975935297  9  5 f   -     -     -         1920    0    0 
+RaisePam  975935322  9  4 f   -     -     -         1920    0    0 
+RaisePam  975935388 10  4 c   c     f     -         1920   30    0 
+RaisePam  975935440  9  3 cc  kc    kf    -         1890   30    0 
+RaisePam  975935492 10  2 Bc  k     kf    -         1860   20    0 
+RaisePam  975935585 10  1 Bf  -     -     -         1840    5    0 
+RaisePam  975935739  9  9 f   -     -     -         1835    0    0 
+RaisePam  975935817 10  9 cc  bc    b     c         1835   80  365 Kh Ad
+RaisePam  975935954 10  8 f   -     -     -         2120    0    0 
+RaisePam  975936074 10  7 c   k     c     f         2120   30    0 
+RaisePam  975936134 10  6 c   b     b     -         2090   40   70 
+RaisePam  975936204 10  5 f   -     -     -         2120    0    0 
+RaisePam  975936302 10  4 f   -     -     -         2120    0    0 
+RaisePam  975936405 10  3 f   -     -     -         2120    0    0 
+RaisePam  975936477 10  2 Bk  kc    kc    k         2120   40    0 Th 7d
+RaisePam  975936552 10  1 Bc  kc    b     k         2080   40  130 9h 7h
+RaisePam  975936644 10 10 f   -     -     -         2170    0    0 
+RaisePam  975936708 10  9 f   -     -     -         2170    0    0 
+RaisePam  975936754 10  8 c   c     f     -         2170   30    0 
+RaisePam  975936822 10  7 c   c     f     -         2140   20    0 
+RaisePam  975936879 10  6 c   b     b     b         2120   60  220 Ks Qs
+RaisePam  975936965 10  5 f   -     -     -         2280    0    0 
+RaisePam  975937052 10  4 f   -     -     -         2280    0    0 
+RaisePam  975937105 10  3 f   -     -     -         2280    0    0 
+RaisePam  975937160 10  2 Bk  kf    -     -         2280   10    0 
+RaisePam  975937234 10  1 Bc  b     bc    kc        2270   80  280 Jc Kc
+RaisePam  975937284 10 10 f   -     -     -         2470    0    0 
+RaisePam  975937400 10  9 f   -     -     -         2470    0    0 
+RaisePam  975937492 10  8 cc  f     -     -         2470   20    0 
+RaisePam  975937576  9  6 f   -     -     -         2450    0    0 
+RaisePam  975937704  8  4 f   -     -     -         2450    0    0 
+RaisePam  975937746  8  3 f   -     -     -         2450    0    0 
+RaisePam  975937826  8  2 Bk  k     k     b         2450   30   55 
+RaisePam  975937856  8  1 Bf  -     -     -         2475    5    0 
+RaisePam  975937917  8  8 f   -     -     -         2470    0    0 
+RaisePam  975937954  9  8 f   -     -     -         2470    0    0 
+RaisePam  975938027  9  7 f   -     -     -         2470    0    0 
+RaisePam  975938061 10  7 f   -     -     -         2470    0    0 
+RaisePam  975938163 10  6 f   -     -     -         2470    0    0 
+RaisePam  975938218 10  6 c   bc    kf    -         2470   30    0 
+RaisePam  975938272  9  4 f   -     -     -         2440    0    0 
+RaisePam  975938311 10  3 f   -     -     -         2440    0    0 
+RaisePam  975938409 10  2 Bk  kc    kf    -         2440   20    0 
+RaisePam  975938481 10  1 Bc  kf    -     -         2420   10    0 
+RaisePam  975938590 10 10 f   -     -     -         2410    0    0 
+RaisePam  975938714 10  9 f   -     -     -         2410    0    0 
+RaisePam  975938811 10  8 f   -     -     -         2410    0    0 
+RaisePam  975938863 10  7 f   -     -     -         2410    0    0 
+RaisePam  975938911 10  6 c   kf    -     -         2410   10    0 
+RaisePam  975939005 10  5 f   -     -     -         2400    0    0 
+RaisePam  975939127 10  4 c   bc    k     kc        2400   60    0 As Qs
+RaisePam  975939305 10  3 f   -     -     -         2340    0    0 
+RaisePam  975939402 10  2 Bk  kf    -     -         2340   10    0 
+RaisePam  975939456 10  1 Bf  -     -     -         2330    5    0 
+RaisePam  975939485 10 10 f   -     Q     -         2325    0    0 
+RaisePam  975942376  9  5 f   -     -     -         2325    0    0 
+RaisePam  975942440  9  4 f   -     -     -         2325    0    0 
+RaisePam  975942496  8  3 c   b     b     k         2325   40    0 2h Ad
+RaisePam  975942568  8  2 Bk  k     kf    -         2285   10    0 
+RaisePam  975942589  8  1 Bc  b     b     -         2275   40   80 
+RaisePam  975942615  8  8 f   -     -     -         2315    0    0 
+RaisePam  975942641  8  7 f   -     -     -         2315    0    0 
+RaisePam  975942722  9  7 f   -     -     -         2315    0    0 
+RaisePam  975942821  9  6 f   -     -     -         2315    0    0 
+RaisePam  975942858  9  5 c   kc    kc    k         2315   40    0 8d 9h
+RaisePam  975942895  9  4 c   r     bc    b         2275   90  205 9s Qh
+RaisePam  975942948  9  3 cc  rc    rcc   k         2390  130  655 6d 6s
+RaisePam  975943071  9  2 Bf  -     -     -         2915   10    0 
+RaisePam  975943192 10  1 Br  b     k     k         2905   30    0 Qc Qh
+RaisePam  975943261 10 10 f   -     -     -         2875    0    0 
+RaisePam  975943332 10  9 c   r     b     b         2875   80  265 8d 8s
+RaisePam  975943399 10  8 cc  cc    f     -         3060   40    0 
+RaisePam  975943450 10  7 f   -     -     -         3020    0    0 
+RaisePam  975943517 10  6 cc  c     c     c         3020   70    0 8h 9c
+RaisePam  975943556 10  5 cc  kc    kf    -         2950   40    0 
+RaisePam  975943656 10  4 f   -     -     -         2910    0    0 
+RaisePam  975943706 10  3 f   -     -     -         2910    0    0 
+RaisePam  975943746 10  2 Bk  k     kf    -         2910   10    0 
+RaisePam  975943798 10  1 Bf  -     -     -         2900    5    0 
+RaisePam  975943898 10 10 f   -     -     -         2895    0    0 
+RaisePam  975943964 10  9 f   -     -     -         2895    0    0 
+RaisePam  975944030 10  8 f   -     -     -         2895    0    0 
+RaisePam  975944077 10  7 r   b     b     b         2895   70  220 
+RaisePam  975944130 10  6 f   -     -     -         3045    0    0 
+RaisePam  975944187 10  5 f   -     -     -         3045    0    0 
+RaisePam  975944258 10  4 f   -     -     -         3045    0    0 
+RaisePam  975944289 10  3 f   -     -     -         3045    0    0 
+RaisePam  975944372 10  2 Bf  -     -     -         3045   10    0 
+RaisePam  975944408  9  1 Bf  -     -     -         3035    5    0 
+RaisePam  975944440  8  8 c   c     c     k         3030   40  120 Ad 8d
+RaisePam  975944480  8  8 cc  k     c     f         3110   40    0 
+RaisePam  975944537  8  7 cc  k     f     -         3070   20    0 
+RaisePam  975944581  9  6 cc  c     k     f         3050   30    0 
+RaisePam  975944657  9  5 f   -     -     -         3020    0    0 
+RaisePam  975944734 10  4 c   k     kc    rr        3020  110  290 Kd Qd
+RaisePam  975944824 10  3 cc  kf    -     -         3200   20    0 
+RaisePam  975944896 10  2 Bf  -     -     -         3180   10    0 
+RaisePam  975944949 10  1 Bc  k     bc    kc        3170   80  220 9s Qd
+RaisePam  975945040  9  9 f   -     -     -         3310    0    0 
+RaisePam  975945106  9  8 c   c     c     c         3310   70    0 Jh Ks
+RaisePam  975945145  9  7 c   f     -     -         3240   30    0 
+RaisePam  975945200  9  6 c   k     k     k         3210   10    0 4d Qd
+RaisePam  975945259  9  6 c   c     f     -         3200   20    0 
+RaisePam  975945315  9  5 c   k     kf    -         3180   10    0 
+RaisePam  975945376  9  4 f   -     -     -         3170    0    0 
+RaisePam  975945413  9  3 cc  kf    -     -         3170   20    0 
+RaisePam  975945468 10  2 Bcc kf    -     -         3150   40    0 
+RaisePam  975945522  9  1 Bf  -     -     -         3110    5    0 
+RaisePam  975945565  9  9 f   -     -     -         3105    0    0 
+RaisePam  975945600  9  8 f   -     -     -         3105    0    0 
+RaisePam  975945665  9  7 f   -     -     -         3105    0    0 
+RaisePam  975945739 10  7 c   b     b     kc        3105   60  260 3h Qh
+RaisePam  975945819 10  6 f   -     -     -         3305    0    0 
+RaisePam  975945896 10  5 c   b     b     b         3305   60  175 
+RaisePam  975945961 10  4 c   kc    k     k         3420   20    0 9d 8d
+RaisePam  975946019 10  3 f   -     -     -         3400    0    0 
+RaisePam  975946077 10  2 Bf  -     -     -         3400   10    0 
+RaisePam  975946116 10  1 Bc  b     b     b         3390   60  170 
+RaisePam  975946185 10 10 c   f     -     -         3500   10    0 
+RaisePam  975946273  9  8 f   -     -     -         3490    0    0 
+RaisePam  975946304 10  8 c   b     k     f         3490   20    0 
+RaisePam  975946343 10  7 c   k     c     k         3470   30    0 8s Ad
+RaisePam  975946383 10  6 f   -     -     -         3440    0    0 
+RaisePam  975946417 10  5 f   -     -     -         3440    0    0 
+RaisePam  975946455 10  4 c   k     k     b         3440   30   45 
+RaisePam  975946479 10  3 f   -     -     -         3455    0    0 
+RaisePam  975946518 10  2 Br  b     b     b         3455   70  160 Js As
+RaisePam  975946579 10  1 Brc kc    kc    kc        3545   90    0 Js Jh
+RaisePam  975946651 10 10 c   k     f     -         3455   10    0 
+RaisePam  975946733 10  9 c   c     f     -         3445   20    0 
+RaisePam  975946769 10  8 f   -     -     -         3425    0    0 
+RaisePam  975946816 10  7 f   -     -     -         3425    0    0 
+RaisePam  975946839 10  6 f   -     -     -         3425    0    0 
+RaisePam  975946875 10  5 f   -     -     -         3425    0    0 
+RaisePam  975946942 10  4 f   -     -     -         3425    0    0 
+RaisePam  975947005 10  3 r   b     b     b         3425   70  355 Kd Kc
+RaisePam  975947056 10  2 Bf  -     -     -         3710   10    0 
+RaisePam  975947124 10  1 Bc  kf    -     -         3700   20    0 
+RaisePam  975947245 10 10 f   -     -     -         3680    0    0 
+RaisePam  975947319 10  9 f   -     -     -         3680    0    0 
+RaisePam  975947375 10  8 f   -     -     -         3680    0    0 
+RaisePam  975947416 10  7 f   -     -     -         3680    0    0 
+RaisePam  975947499 10  6 ccc kcf   -     -         3680   60    0 
+RaisePam  975947579 10  5 f   -     -     -         3620    0    0 
+RaisePam  975947636 10  4 ccc kcc   kf    -         3620   80    0 
+RaisePam  975947775 10  3 c   c     f     -         3540   20    0 
+RaisePam  975947832 10  2 Bk  kf    -     -         3520   10    0 
+RaisePam  975947883 10  1 Bf  -     -     -         3510    5    0 
+RaisePam  975948000 10 10 f   -     -     -         3505    0    0 
+RaisePam  975948070 10  9 c   k     c     f         3505   30    0 
+RaisePam  975948118 10  8 c   f     -     -         3475   10    0 
+RaisePam  975948157 10  7 f   -     -     -         3465    0    0 
+RaisePam  975948238 10  6 c   f     -     -         3465   20    0 
+RaisePam  975948321 10  5 f   -     -     -         3445    0    0 
+RaisePam  975948408  9  4 f   -     -     -         3445    0    0 
+RaisePam  975948473 10  3 f   -     -     -         3445    0    0 
+RaisePam  975948558  8  2 Bk  b     -     -         3445   20   45 
+RaisePam  975948575  8  1 Bf  -     -     -         3470    5    0 
+RaisePam  975948605  8  8 c   f     -     -         3465   20    0 
+RaisePam  975948628  7  7 c   f     -     -         3445   10    0 
+RaisePam  975948664  8  6 c   b     -     -         3435   20   55 
+RaisePam  975948697  8  5 f   -     -     -         3470    0    0 
+RaisePam  975948755  9  5 cc  f     -     -         3470   20    0 
+RaisePam  975948816  9  4 cc  kc    kf    -         3450   30    0 
+RaisePam  975948862 10  4 c   k     k     k         3420   10    0 Jc 5c
+RaisePam  975948915 10  3 c   bc    rc    bcc       3410  170    0 8d Qs
+RaisePam  975948987 10  2 Bk  k     kf    -         3240   10    0 
+RaisePam  975949051 10  1 Bc  kc    kf    -         3230   30    0 
+RaisePam  975949109 10 10 f   -     -     -         3200    0    0 
+RaisePam  975949139  9  8 c   k     k     k         3200   10   35 7c 6c
+RaisePam  975949169 10  8 f   -     -     -         3225    0    0 
+RaisePam  975949199 10  7 f   -     -     -         3225    0    0 
+RaisePam  975949263 10  6 f   -     -     -         3225    0    0 
+RaisePam  975949294 10  5 f   -     -     -         3225    0    0 
+RaisePam  975949320 10  4 f   -     -     -         3225    0    0 
+RaisePam  975949361 10  3 f   -     -     -         3225    0    0 
+RaisePam  975949394 10  2 Bc  kc    kf    -         3225   30    0 
+RaisePam  975949439 10  1 Bf  -     -     -         3195    5    0 
+RaisePam  975949471 10 10 f   -     -     -         3190    0    0 
+RaisePam  975949521 10  9 f   -     -     -         3190    0    0 
+RaisePam  975949565 10  8 f   -     -     -         3190    0    0 
+RaisePam  975949617 10  7 f   -     -     -         3190    0    0 
+RaisePam  975949671 10  6 cc  kc    k     k         3190   40  230 Kd Td
+RaisePam  975949745 10  5 r   c     c     k         3380   50    0 Js Ks
+RaisePam  975949803 10  4 f   -     -     -         3330    0    0 
+RaisePam  975949866 10  3 f   -     -     -         3330    0    0 
+RaisePam  975949917  9  1 Bf  -     -     -         3330   10    0 
+RaisePam  975950028 10  1 Bc  k     kf    -         3320   10    0 
+RaisePam  975950088 10 10 c   k     k     k         3310   10   40 Qs 5s
+RaisePam  975950143 10  9 f   -     -     -         3340    0    0 
+RaisePam  975950208 10  8 c   b     b     k         3340   40  210 Th Jd
+RaisePam  975950290 10  7 f   -     -     -         3510    0    0 
+RaisePam  975950324 10  6 f   -     -     -         3510    0    0 
+RaisePam  975950369 10  5 f   -     -     -         3510    0    0 
+RaisePam  975950428 10  4 f   -     -     -         3510    0    0 
+RaisePam  975950482 10  3 f   -     -     -         3510    0    0 
+RaisePam  975950561 10  2 Bf  -     -     -         3510   10    0 
+RaisePam  975950626 10  1 Bf  -     -     -         3500    5    0 
+RaisePam  975950680 10 10 f   -     -     -         3495    0    0 
+RaisePam  975950741 10  9 c   k     br    b         3495   90  220 Ah 9d
+RaisePam  975950802 10  8 cc  c     c     k         3625   50    0 Td Kh
+RaisePam  975950865 10  7 c   k     kf    -         3575   10    0 
+RaisePam  975950973 10  6 cc  kf    -     -         3565   20    0 
+RaisePam  975951060 10  5 c   rr    rr    b         3545  150  385 7d 8d
+RaisePam  975951151  9  4 f   -     -     -         3780    0    0 
+RaisePam  975951253 10  3 f   -     -     -         3780    0    0 
+RaisePam  975951308 10  2 Bk  kf    -     -         3780   10    0 
+RaisePam  975951380 10  1 Bc  k     k     k         3770   10    0 4c 4s
+RaisePam  975951438 10 10 f   -     -     -         3760    0    0 
+RaisePam  975951490 10  9 c   c     c     c         3760   70  265 Ac Kh
+RaisePam  975951538 10  8 f   -     -     -         3955    0    0 
+RaisePam  975951617 10  7 f   -     -     -         3955    0    0 
+RaisePam  975951682 10  6 f   -     -     -         3955    0    0 
+RaisePam  975951728 10  5 f   -     -     -         3955    0    0 
+RaisePam  975951802 10  4 cc  cc    k     krc       3955  100    0 Qh 6h
+RaisePam  975951932 10  3 cc  kc    b     b         3855   70  230 Jh Qh
+RaisePam  975952030 10  2 Bk  kf    -     -         4015   10    0 
+RaisePam  975952111 10  1 Bc  kf    -     -         4005   10    0 
+RaisePam  975952184 10 10 f   -     -     -         3995    0    0 
+RaisePam  975952258 10  9 c   f     -     -         3995   10    0 
+RaisePam  975952332  9  7 ccf -     -     -         3985   30    0 
+RaisePam  975952465 10  7 c   k     k     k         3955   10   40 As Qd
+RaisePam  975952526 10  6 r   b     c     k         3985   50    0 Ks Kd
+RaisePam  975952613 10  5 cf  -     -     -         3935   10    0 
+RaisePam  975952689 10  4 cf  -     -     -         3925   10    0 
+RaisePam  975952777  9  3 c   bc    bc    kc        3915   90    0 Qh Jd
+RaisePam  975952890  9  2 Bf  -     -     -         3825   10    0 
+RaisePam  975952986  9  1 Bc  kc    k     k         3815   30    0 8h Ah
+RaisePam  975953051 10 10 c   f     -     -         3785   10    0 
+RaisePam  975953126 10  9 c   kc    k     b         3775   50  160 9h As
+RaisePam  975953202 10  8 f   -     -     -         3885    0    0 
+RaisePam  975953267 10  7 f   -     -     -         3885    0    0 
+RaisePam  975953316 10  6 c   c     c     r         3885   90  270 7d 9d
+RaisePam  975953369 10  5 f   -     -     -         4065    0    0 
+RaisePam  975953435 10  4 cf  -     -     -         4065   10    0 
+RaisePam  975953499 10  3 f   -     -     -         4055    0    0 
+RaisePam  975953572 10  2 Bf  -     -     -         4055   10    0 
+RaisePam  975953621 10  1 Bc  b     kc    kc        4045   70  160 9c Kh
+RaisePam  975953694 10 10 f   -     -     -         4135    0    0 
+RaisePam  975953743  9  8 f   -     -     -         4135    0    0 
+RaisePam  975953781 10  8 f   -     -     -         4135    0    0 
+RaisePam  975953860 10  7 c   k     c     f         4135   30    0 
+RaisePam  975953910 10  6 f   -     -     -         4105    0    0 
+RaisePam  975953979 10  5 f   -     -     -         4105    0    0 
+RaisePam  975954035 10  4 f   -     -     -         4105    0    0 
+RaisePam  975954084 10  4 c   k     k     k         4105   10    0 8h Ac
+RaisePam  975954141  8  2 Bf  -     -     -         4095   10    0 
+RaisePam  975954190  7  1 Bf  -     -     -         4085    5    0 
+RaisePam  975954205  7  7 f   -     -     -         4080    0    0 
+RaisePam  975954250  7  6 f   -     -     -         4080    0    0 
+RaisePam  975954314  7  5 f   -     -     -         4080    0    0 
+RaisePam  975954343  7  4 f   -     -     -         4080    0    0 
+RaisePam  975954362  7  3 f   -     -     -         4080    0    0 
+RaisePam  975954387  7  2 Bk  k     k     k         4080   10    0 3c Td
+RaisePam  975954420  8  1 Bc  k     k     k         4070   10   40 Kh Qs
+RaisePam  975954482  9  9 c   f     -     -         4100   20    0 
+RaisePam  975954530 10  9 f   -     -     -         4080    0    0 
+RaisePam  975954594 10  8 f   -     -     -         4080    0    0 
+RaisePam  975954647 10  7 cc  k     f     -         4080   30    0 
+RaisePam  975954712  9  5 cc  kf    -     -         4050   20    0 
+RaisePam  975954761 10  5 c   f     -     -         4030   20    0 
+RaisePam  975954829 10  4 f   -     -     -         4010    0    0 
+RaisePam  975954887 10  3 f   -     -     -         4010    0    0 
+RaisePam  975954947 10  2 Bk  f     -     -         4010   10    0 
+RaisePam  975955016 10  1 Bf  -     -     -         4000    5    0 
+RaisePam  975955196 10 10 c   rc    c     c         3995   80    0 Jd As
+RaisePam  975955272  9  9 f   -     -     -         3915    0    0 
+RaisePam  975955326 10  8 c   k     f     -         3915   10    0 
+RaisePam  975955385 10  7 f   -     -     -         3905    0    0 
+RaisePam  975955453 10  6 r   b     bc    k         3905   70  215 Kd Kh
+RaisePam  975955618  9  4 f   -     -     -         4050    0    0 
+RaisePam  975955712  9  4 f   -     -     -         4050    0    0 
+RaisePam  975955736 10  3 c   k     kf    -         4050   10    0 
+RaisePam  975955842  9  1 Bc  k     k     k         4040   20    0 Td 5d
+RaisePam  975955890  9  1 Bf  -     -     -         4020    5    0 
+RaisePam  975955939  9  9 c   c     k     b         4015   40   95 7c Qc
+RaisePam  975955985  8  8 f   -     -     -         4070    0    0 
+RaisePam  975956027  8  7 f   -     -     -         4070    0    0 
+RaisePam  975956073  8  6 f   -     -     -         4070    0    0 
+RaisePam  975956091  8  5 c   cc    b     k         4070   50  200 5c Qc
+RaisePam  975956172  8  4 f   -     -     -         4220    0    0 
+RaisePam  975956234  9  3 c   r     b     b         4220   70  200 Ad 8d
+RaisePam  975956303  9  2 Bk  k     k     f         4350   10    0 
+RaisePam  975956337  8  1 Bc  kf    -     -         4340   10    0 
+RaisePam  975956398  8  8 c   c     k     k         4330   20    0 Ac Qh
+RaisePam  975956446  8  7 c   c     f     -         4310   30    0 
+RaisePam  975956475  8  6 f   -     -     -         4280    0    0 
+RaisePam  975956512  7  5 c   b     c     r         4280   80  107 2c 3c
+RaisePam  975956570  7  4 f   -     -     -         4307    0    0 
+RaisePam  975956595  7  3 f   -     -     -         4307    0    0 
+RaisePam  975956652  7  2 B   -     -     -         4307   10   15 
+RaisePam  975956664  7  1 Bc  kf    -     -         4312   10    0 
+RaisePam  975956719  7  7 c   k     b     k         4302   30   90 6s Js
+RaisePam  975956783  7  6 f   -     -     -         4362    0    0 
+RaisePam  975956823  7  5 f   -     -     -         4362    0    0 
+RaisePam  975956840  7  4 cc  k     cc    cf        4362   80    0 
+RaisePam  975956946  7  3 f   -     -     -         4282    0    0 
+RaisePam  975957006  7  2 Bc  kf    -     -         4282   20    0 
+RaisePam  975957052  6  1 Bc  k     kc    b         4262   50  190 Ac 5c
+RaisePam  975957129  7  6 c   k     k     f         4402   10    0 
+RaisePam  975957189  7  5 cc  cc    c     f         4392   90    0 
+RaisePam  975957242  8  4 c   k     k     f         4302   10    0 
+RaisePam  975957285  8  3 f   -     -     -         4292    0    0 
+RaisePam  975957354 10  3 cf  -     -     -         4292   10    0 
+RaisePam  975957437 10  2 Bk  kf    -     -         4282   10    0 
+RaisePam  975957535 10  1 Bf  -     -     -         4272    5    0 
+RaisePam  975957645 10 10 f   -     -     -         4267    0    0 
+RaisePam  975957727 10  9 c   k     c     f         4267   30    0 
+RaisePam  975957797 10  8 f   -     -     -         4237    0    0 
+RaisePam  975957882 10  7 c   k     k     f         4237   10    0 
+RaisePam  975957952 10  6 c   f     -     -         4227   10    0 
+RaisePam  975958028 10  5 f   -     -     -         4217    0    0 
+RaisePam  975958084  9  3 f   -     -     -         4217    0    0 
+RaisePam  975958178 10  2 Bk  k     kf    -         4217   10    0 
+RaisePam  975958236 10  1 Bc  b     b     b         4207   70  260 6d Ad
+RaisePam  975958305 10 10 c   c     c     f         4397   40    0 
+RaisePam  975958416  9  9 f   -     -     -         4357    0    0 
+RaisePam  975958444  9  8 f   -     -     -         4357    0    0 
+RaisePam  975958492  9  7 cc  k     f     -         4357   40    0 
+RaisePam  975958593  9  6 f   -     -     -         4317    0    0 
+RaisePam  975958634 10  5 c   k     f     -         4317   10    0 
+RaisePam  975958690 10  4 f   -     -     -         4307    0    0 
+RaisePam  975958778 10  3 f   -     -     -         4307    0    0 
+RaisePam  975958822 10  2 Bf  -     -     -         4307   10    0 
+RaisePam  975958861  9  1 Bf  -     -     -         4297    5    0 
+RaisePam  975958922 10 10 f   -     -     -         4292    0    0 
+RaisePam  975958996 10  9 f   -     -     -         4292    0    0 
+RaisePam  975959044  8  6 f   -     -     -         4292    0    0 
+RaisePam  975959116 10  6 c   k     c     c         4292   50   80 Ac 9c
+RaisePam  975959185 10  5 c   c     k     k         4322   20  105 2s 2c
+RaisePam  975959243 10  4 f   -     -     -         4407    0    0 
+RaisePam  975959286 10  3 c   c     c     k         4407   40    0 6c 6s
+RaisePam  975959355 10  2 Bk  k     k     kf        4367   10    0 
+RaisePam  975959434 10  1 Bc  k     kf    -         4357   10    0 
+RaisePam  975959540 10 10 r   rc    k     c         4347   80    0 Qs Qc
+RaisePam  975959684  7  7 f   -     -     -         4267    0    0 
+RaisePam  975959756  7  5 r   k     kc    kf        4267   40    0 
+RaisePam  975959804  7  4 c   c     c     c         4227   60  170 Qc Ad
+RaisePam  975959881  7  4 f   -     -     -         4337    0    0 
+RaisePam  975959903  7  3 f   -     -     -         4337    0    0 
+RaisePam  975959955  6  1 Bk  k     b     b         4337   50  130 6s Qd
+RaisePam  975959976  7  1 Bf  -     -     -         4417    5    0 
+RaisePam  975960053  8  8 r   ccc   c     c         4412  120    0 Qh Qs
+RaisePam  975960138  8  7 c   c     f     -         4292   40    0 
+RaisePam  975960209  8  6 cc  f     -     -         4252   30    0 
+RaisePam  975960267  8  5 cc  k     kc    k         4222   40    0 Qd 3h
+RaisePam  975960382  8  5 r   b     -     -         4182   30   95 
+RaisePam  975960442  7  4 c   c     c     c         4247   60    0 6s 6d
+RaisePam  975960539  7  3 cc  c     kf    -         4187   30    0 
+RaisePam  975960628  7  2 Bf  -     -     -         4157   10    0 
+RaisePam  975960693  8  1 Bf  -     -     -         4147    5    0 
+RaisePam  975960733  8  8 c   k     f     -         4142   10    0 
+RaisePam  975960800  8  7 r   b     b     b         4132   70  220 Kd Kc
+RaisePam  975960869  8  6 f   -     -     -         4282    0    0 
+RaisePam  975960912  8  5 f   -     -     -         4282    0    0 
+RaisePam  975960968  8  5 cc  b     c     c         4282   80    0 Jd 8d
+RaisePam  975961144  8  4 cc  kc    kc    b         4202   70  140 
+RaisePam  975961190  8  4 f   -     -     -         4272    0    0 
+RaisePam  975961255  8  4 f   -     -     -         4272    0    0 
+RaisePam  975961340  7  2 Bk  cc    kf    -         4272   30    0 
+RaisePam  975961429  7  1 Bc  kc    kf    -         4242   20    0 
+RaisePam  975961524  7  7 f   -     -     -         4222    0    0 
+RaisePam  975961587  7  6 f   -     -     -         4222    0    0 
+RaisePam  975961654  8  5 f   -     -     -         4222    0    0 
+RaisePam  975961729  8  4 f   -     -     -         4222    0    0 
+RaisePam  975961807 10  3 cc  kc    kc    kc        4222   70  200 4d 3d
+RaisePam  975961877 10  2 Br  b     b     kc        4352   70    0 Jc Jh
+RaisePam  975961955  9  1 Bc  kc    k     kf        4282   40    0 
+RaisePam  975962046 10  9 f   -     -     -         4242    0    0 
+RaisePam  975962134  9  7 f   -     -     -         4242    0    0 
+RaisePam  975962224  9  6 f   -     -     -         4242    0    0 
+RaisePam  975962282  8  4 cc  c     f     -         4242   30    0 
+RaisePam  975962336  8  3 f   -     -     -         4212    0    0 
+RaisePam  975962417  8  2 Bf  -     -     -         4212   10    0 
+RaisePam  975962495  8  1 Bf  -     -     -         4202    5    0 
+RaisePam  975962570  9  9 f   -     -     -         4197    0    0 
+RaisePam  975962632  9  8 f   -     -     -         4197    0    0 
+RaisePam  975962730 10  9 c   c     c     f         4197   50    0 
+RaisePam  975962884  8  7 c   k     f     -         4147   40    0 
+RaisePam  975962962  8  6 f   -     -     -         4107    0    0 
+RaisePam  975962978  8  5 c   c     c     r         4107   90  255 Qc 9c
+RaisePam  975963076  8  4 f   -     -     -         4272    0    0 
+RaisePam  975963145  7  2 Bf  -     -     -         4272   10    0 
+RaisePam  975963207  7  1 Bc  kc    kf    -         4262   30    0 
+RaisePam  975963265  7  7 f   -     -     -         4232    0    0 
+RaisePam  975963345  8  6 c   b     b     k         4232   40  125 Jh 9s
+RaisePam  975963395  9  5 c   kc    kc    kf        4317   40    0 
+RaisePam  975963473  9  4 r   b     b     b         4277   70    0 Jh Ah
+RaisePam  975963547  9  3 f   -     -     -         4207    0    0 
+RaisePam  975963634  9  2 f   -     -     -         4207    0    0 
+RaisePam  975963652  9  2 Bk  kf    -     -         4207   10    0 
+RaisePam  975963691  9  1 Bf  -     -     -         4197    5    0 
+RaisePam  975963732  8  8 r   b     b     b         4192   70  220 Jc Jh
+RaisePam  975963819  8  7 c   kf    -     -         4342   10    0 
+RaisePam  975963939  8  6 cc  f     -     -         4332   20    0 
+RaisePam  975964027  8  5 c   rr    b     b         4312   90  340 Kh 9s
+RaisePam  975964099  8  4 f   -     -     -         4562    0    0 
+RaisePam  975964153  8  3 f   Q     -     -         4562    0    0 
+RaisePam  975996270 10  3 f   -     -     -         4483    0    0 
+RaisePam  975996339 10  2 Bc  k     k     bc        4483   60    0 8h Th
+RaisePam  975996397 10  1 Bcc kc    kc    kf        4423   50    0 
+RaisePam  975996498 10 10 f   -     -     -         4373    0    0 
+RaisePam  975996557 10  9 f   -     -     -         4373    0    0 
+RaisePam  975996606 10  8 ccc kc    kc    kf        4373   70    0 
+RaisePam  975996661 10  7 c   k     b     b         4303   50  165 Th 7s
+RaisePam  975996726 10  6 rr  bc    cc    f         4418  100    0 
+RaisePam  975996798 10  5 c   k     f     -         4318   10    0 
+RaisePam  975996846 10  4 cc  kcf   -     -         4308   40    0 
+RaisePam  975996914 10  3 ccc kc    b     kc        4268  100    0 As Ts
+RaisePam  975996990 10  2 Bk  kf    -     -         4168   10    0 
+RaisePam  975997051 10  1 Bc  k     kf    -         4158   10    0 
+RaisePam  975997112 10 10 c   cc    f     -         4148   30    0 
+RaisePam  975997205 10  9 c   k     k     k         4118   10   25 Qc Kh
+RaisePam  975997254 10  8 f   Q     -     -         4133    0    0 
+RaisePam  976023249 10  9 f   -     -     -         4133    0    0 
+RaisePam  976023284 10  8 f   -     -     -         4133    0    0 
+RaisePam  976023307 10  7 f   -     -     -         4133    0    0 
+RaisePam  976023334 10  6 f   -     -     -         4133    0    0 
+RaisePam  976023369 10  5 f   -     -     -         4133    0    0 
+RaisePam  976023413 10  4 f   -     -     -         4133    0    0 
+RaisePam  976023488 10  3 c   k     k     k         4133   10    0 Js Ah
+RaisePam  976023541 10  2 Bk  b     b     b         4123   60  240 9c 5d
+RaisePam  976023597 10  1 Bcc kf    -     -         4303   20    0 
+RaisePam  976023660 10 10 f   -     -     -         4283    0    0 
+RaisePam  976023675 10  9 f   -     -     -         4283    0    0 
+RaisePam  976023700 10  8 f   -     -     -         4283    0    0 
+RaisePam  976023742 10  7 f   -     -     -         4283    0    0 
+RaisePam  976023786 10  6 f   -     -     -         4283    0    0 
+RaisePam  976023865 10  5 f   -     -     -         4283    0    0 
+RaisePam  976023925 10  4 c   b     b     b         4283   60  150 
+RaisePam  976023975 10  3 f   -     -     -         4373    0    0 
+RaisePam  976024022 10  2 Bc  bc    k     k         4373   40  160 As Kh
+RaisePam  976024105 10  1 Bc  k     k     k         4493   20    0 Ts Jh
+RaisePam  976024145 10 10 c   k     k     f         4473   10    0 
+RaisePam  976024227 10  9 f   -     -     -         4463    0    0 
+RaisePam  976024286 10  8 f   -     -     -         4463    0    0 
+RaisePam  976024321 10  7 f   -     -     -         4463    0    0 
+RaisePam  976024372 10  6 c   r     b     c         4463   70    0 As Js
+RaisePam  976024456 10  5 f   -     -     -         4393    0    0 
+RaisePam  976024510 10  4 f   -     -     -         4393    0    0 
+RaisePam  976024605  9  2 Bf  -     -     -         4393   10    0 
+RaisePam  976024636  9  1 Bc  k     k     k         4383   30    0 8h 9h
+RaisePam  976024726  8  8 f   -     -     -         4353    0    0 
+RaisePam  976024844  9  8 f   -     -     -         4353    0    0 
+RaisePam  976024915  9  7 f   -     -     -         4353    0    0 
+RaisePam  976024988  9  6 f   -     -     -         4353    0    0 
+RaisePam  976025032  8  5 f   -     -     -         4353    0    0 
+RaisePam  976025066  8  4 f   -     -     -         4353    0    0 
+RaisePam  976025118  8  3 f   -     -     -         4353    0    0 
+RaisePam  976025147  9  2 Bk  kf    -     -         4353   10    0 
+RaisePam  976025213  9  1 Bf  -     -     -         4343    5    0 
+RaisePam  976025276  8  8 c   f     -     -         4338   10    0 
+RaisePam  976025316  8  7 f   -     -     -         4328    0    0 
+RaisePam  976025358  8  6 c   c     c     c         4328   70    0 8s Qh
+RaisePam  976025400 10  5 c   c     c     k         4258   50    0 Th Td
+RaisePam  976025449 10  4 cf  -     -     -         4208   10    0 
+RaisePam  976025544 10  3 c   k     f     -         4198   10    0 
+RaisePam  976025601 10  2 Bk  bf    -     -         4188   20    0 
+RaisePam  976025648 10  1 Bc  kc    b     b         4168   70    0 Ah Qd
+RaisePam  976025707 10 10 f   -     -     -         4098    0    0 
+RaisePam  976025784 10  9 c   k     f     -         4098   10    0 
+RaisePam  976025849 10  8 f   -     -     -         4088    0    0 
+RaisePam  976025879 10  7 f   -     -     -         4088    0    0 
+RaisePam  976025952 10  6 f   -     -     -         4088    0    0 
+RaisePam  976026010 10  5 f   -     -     -         4088    0    0 
+RaisePam  976026041 10  4 f   -     -     -         4088    0    0 
+RaisePam  976026087 10  3 f   -     -     -         4088    0    0 
+RaisePam  976026162 10  2 Bc  kc    kf    -         4088   30    0 
+RaisePam  976026245 10  1 Bc  kf    -     -         4058   20    0 
+RaisePam  976026340 10 10 f   -     -     -         4038    0    0 
+RaisePam  976026374 10  9 f   -     -     -         4038    0    0 
+RaisePam  976026425 10  8 c   c     k     k         4038   20    0 Ac 9h
+RaisePam  976026468 10  7 fQ  -     -     -         4018    0    0 
+RaisePam  976045157  9  7 c   c     f     -         4018   20    0 
+RaisePam  976045281  9  7 f   -     -     -         3998    0    0 
+RaisePam  976045343  9  6 f   -     -     -         3998    0    0 
+RaisePam  976045446 10  5 f   -     -     -         3998    0    0 
+RaisePam  976045551  9  4 f   -     -     -         3998    0    0 
+RaisePam  976045636  8  2 Bk  f     -     -         3998   10    0 
+RaisePam  976045682  9  1 Bc  bc    b     kc        3988   70    0 Qs 6c
+RaisePam  976045753 10 10 f   -     -     -         3918    0    0 
+RaisePam  976045793 10  9 f   -     -     -         3918    0    0 
+RaisePam  976045869 10  8 f   -     -     -         3918    0    0 
+RaisePam  976045920  8  6 f   -     -     -         3918    0    0 
+RaisePam  976045965  8  5 cc  kc    kc    k         3918   50  215 5c As
+RaisePam  976046032  9  4 f   -     -     -         4083    0    0 
+RaisePam  976046102  9  3 f   -     -     -         4083    0    0 
+RaisePam  976046203  9  2 Bc  kf    -     -         4083   20    0 
+RaisePam  976046261  9  1 Bc  k     kf    -         4063   10    0 
+RaisePam  976046303  9  9 c   c     c     f         4053   40    0 
+RaisePam  976046401  8  7 c   k     f     -         4013   10    0 
+RaisePam  976046451  8  8 c   b     -     -         4003   20   35 
+RaisePam  976046487  9  7 f   -     -     -         4018    0    0 
+RaisePam  976046532  9  6 c   kc    kf    -         4018   20    0 
+RaisePam  976046616  9  5 f   -     -     -         3998    0    0 
+RaisePam  976046658  9  4 c   b     b     b         3998   60    0 As Ah
+RaisePam  976046703  9  3 cc  kc    kc    k         3938   50  115 8c As
+RaisePam  976046738  9  2 Bk  kc    kcc   kf        4003   60    0 
+RaisePam  976046818  9  1 Bf  -     -     -         3943    5    0 
+RaisePam  976046863  9  8 c   c     c     k         3938   50    0 8s 8c
+RaisePam  976046913  9  7 cc  k     kc    k         3888   40    0 4d Ad
+RaisePam  976046963  9  6 f   -     -     -         3848    0    0 
+RaisePam  976047005  9  5 c   kc    k     k         3848   20    0 4c Ad
+RaisePam  976047049  9  4 c   k     b     b         3828   50  100 
+RaisePam  976047105  9  3 c   r     c     f         3878   50    0 
+RaisePam  976047182 10  2 Bf  -     -     -         3828   10    0 
+RaisePam  976047235  9  1 Bc  b     b     k         3818   40  130 Js Td
+RaisePam  976047287  8  8 c   b     -     -         3908   20   40 
+RaisePam  976047314  9  8 c   b     b     b         3928   60  155 Kh Qd
+RaisePam  976047369 10  8 f   -     -     -         4023    0    0 
+RaisePam  976047413  9  6 f   -     -     -         4023    0    0 
+RaisePam  976047447  9  5 f   -     -     -         4023    0    0 
+RaisePam  976047497  9  4 cf  -     -     -         4023   10    0 
+RaisePam  976047550  9  3 c   k     kf    -         4013   10    0 
+RaisePam  976047607  9  2 Bf  -     -     -         4003   10    0 
+RaisePam  976047622  9  1 Bf  -     -     -         3993    5    0 
+RaisePam  976047653  9  9 f   -     -     -         3988    0    0 
+RaisePam  976047696  9  8 c   k     f     -         3988   10    0 
+RaisePam  976047742 10  8 f   -     -     -         3978    0    0 
+RaisePam  976047784 10  7 f   -     -     -         3978    0    0 
+RaisePam  976047844 10  6 f   -     -     -         3978    0    0 
+RaisePam  976047901 10  5 c   b     -     -         3978   20   55 
+RaisePam  976047955  8  3 c   kf    -     -         4013   10    0 
+RaisePam  976047988  8  2 Br  b     b     -         4003   60  165 
+RaisePam  976048027  8  1 Bc  kf    -     -         4108   10    0 
+RaisePam  976048081  9  9 f   -     -     -         4098    0    0 
+RaisePam  976048114  9  8 f   -     -     -         4098    0    0 
+RaisePam  976048141  9  7 f   -     -     -         4098    0    0 
+RaisePam  976048179  9  6 rc  rc    bc    kc        4098  130    0 Tc Ad
+RaisePam  976048228  9  6 rc  kc    kc    kf        3968   60    0 
+RaisePam  976048267  9  5 c   k     c     k         3908   30    0 Ad 6c
+RaisePam  976048300  9  4 c   b     bc    f         3878   80    0 
+RaisePam  976048359 10  3 cc  b     b     b         3798   70  155 9c Th
+RaisePam  976048396 10  2 Bf  -     -     -         3883   10    0 
+RaisePam  976048437 10  1 Bf  -     -     -         3873    5    0 
+RaisePam  976048454 10 10 f   -     -     -         3868    0    0 
+RaisePam  976048575  9  8 f   -     -     -         3868    0    0 
+RaisePam  976048633 10  8 fQ  -     -     -         3868    0    0 
+RaisePam  976110385 10  2 Bf  -     -     -         3965   10    0 
+RaisePam  976110462  9  1 Bf  -     -     -         3955    5    0 
+RaisePam  976110514  8  8 f   -     -     -         3950    0    0 
+RaisePam  976110561  8  8 f   -     -     -         3950    0    0 
+RaisePam  976110615  8  7 f   -     -     -         3950    0    0 
+RaisePam  976110660  8  6 f   -     -     -         3950    0    0 
+RaisePam  976110701  8  5 cf  -     -     -         3950   10    0 
+RaisePam  976110810  8  4 cc  cc    cf    Q         3940   80    0 
+RaisePam  976193522  5  4 f   -     -     -         2875    0    0 
+RaisePam  976193543  6  3 f   -     -     -         2875    0    0 
+RaisePam  976193586  7  2 Br  b     b     b         2875   70    0 9h 9c
+RaisePam  976193692  7  1 Bc  b     b     b         2805   60  150 
+RaisePam  976193830  6  6 f   -     -     -         2895    0    0 
+RaisePam  976193851  5  5 f   -     -     -         2895    0    0 
+RaisePam  976193871  5  4 r   -     -     -         2895   20   35 
+RaisePam  976193884  5  3 f   -     -     -         2910    0    0 
+RaisePam  976193916  7  3 f   -     -     -         2910    0    0 
+RaisePam  976194043  6  1 Bk  kc    kf    -         2910   20    0 
+RaisePam  976194095  6  1 Bc  k     k     k         2890   20   60 9c 7d
+RaisePam  976194125  6  6 c   k     k     k         2930   20    0 6d 5c
+RaisePam  976194226  6  5 c   k     k     k         2910   10    0 Js 7d
+RaisePam  976194285  6  4 c   b     -     -         2900   20   40 
+RaisePam  976194364  5  2 Bk  b     b     k         2920   40    0 As Kd
+RaisePam  976194392  5  1 Bc  b     b     -         2880   40   80 
+RaisePam  976194411  6  6 c   k     c     c         2920   50    0 Td Kh
+RaisePam  976194442  6  5 c   r     b     c         2870   70    0 7s 5d
+RaisePam  976194490  6  4 f   -     -     -         2800    0    0 
+RaisePam  976194519  6  3 c   k     k     b         2800   30   60 
+RaisePam  976194548  7  3 c   cc    bc    kc        2830   90    0 7s 8h
+RaisePam  976194624  7  2 Bc  c     c     f         2740   50    0 
+RaisePam  976194684  7  1 Bc  b     k     kf        2690   20    0 
+RaisePam  976194727  7  7 f   -     -     -         2670    0    0 
+RaisePam  976194762  7  6 f   -     -     -         2670    0    0 
+RaisePam  976194786  7  5 c   f     -     -         2670   10    0 
+RaisePam  976194837  7  4 c   b     b     bc        2660   80    0 2d Ah
+RaisePam  976194891  8  3 f   -     -     -         2580    0    0 
+RaisePam  976194914  8  2 BQ  -     -     -         2580   10    0 
+RaisePam  976194968  8  8 c   f     -     -         2570   10    0 
+RaisePam  976195018  8  7 cc  c     c     k         2560   80    0 Qd Qh
+RaisePam  976195072  8  6 f   -     -     -         2480    0    0 
+RaisePam  976195116  9  5 f   -     -     -         2480    0    0 
+RaisePam  976195173  9  4 f   -     -     -         2480    0    0 
+RaisePam  976195203  9  3 f   -     -     -         2480    0    0 
+RaisePam  976195236  9  2 Bf  -     -     -         2480   10    0 
+RaisePam  976195269  9  1 Bf  -     -     -         2470    5    0 
+RaisePam  976195309 10 10 c   c     f     -         2465   20    0 
+RaisePam  976195383 10  9 cc  bc    kc    kf        2445   60    0 
+RaisePam  976195441 10  8 cc  c     ccc   f         2385  120    0 
+RaisePam  976195520 10  7 rc  brc   brc   kc        2265  180    0 Ts Tc
+RaisePam  976195626 10  6 rr  rc    rr    r         2085  190  420 Ad Ac
+RaisePam  976195671 10  5 ccc kc    k     f         2315   50    0 
+RaisePam  976195724  8  5 c   cc    kf    -         2265   30    0 
+RaisePam  976195789  7  3 c   kc    kc    kf        2235   40    0 
+RaisePam  976195842  7  2 Bf  -     -     -         2195   10    0 
+RaisePam  976195869  7  1 Bf  -     -     -         2185    5    0 
+RaisePam  976195895  7  7 f   -     -     -         2180    0    0 
+RaisePam  976195933  7  6 f   -     -     -         2180    0    0 
+RaisePam  976195965  7  5 c   k     k     f         2180   10    0 
+RaisePam  976195993  7  4 f   -     -     -         2170    0    0 
+RaisePam  976196013  7  3 f   -     -     -         2170    0    0 
+RaisePam  976196036  7  2 Bk  kc    kf    -         2170   20    0 
+RaisePam  976196084  7  1 Bc  kc    kc    kc        2150   70    0 Ad 9c
+RaisePam  976196134  7  7 f   -     -     -         2080    0    0 
+RaisePam  976196179  7  6 c   bc    k     k         2080   30    0 Ah Td
+RaisePam  976196212  5  4 f   -     -     -         2050    0    0 
+RaisePam  976196226  5  4 f   -     -     -         2050    0    0 
+RaisePam  976196236  6  3 c   bc    ccc   k         2050  110    0 9s Jc
+RaisePam  976196298  7  2 Bc  kf    -     -         1940   30    0 
+RaisePam  976196356  7  1 Bc  b     bc    kc        1910   80    0 5h 7h
+RaisePam  976196392  8  7 c   c     f     -         1830   20    0 
+RaisePam  976196434  8  6 c   k     k     f         1810   10    0 
+RaisePam  976196477  8  5 cc  crc   bc    k         1800  100    0 Ts Tc
+RaisePam  976196523  9  4 f   -     -     -         1700    0    0 
+RaisePam  976196616  7  3 f   -     -     -         1700    0    0 
+RaisePam  976196653  7  2 Bk  k     f     -         1700   10    0 
+RaisePam  976196685  7  1 Bf  -     -     -         1690    5    0 
+RaisePam  976196714  7  7 c   c     f     -         1685   30    0 
+RaisePam  976196746  7  6 f   -     -     -         1655    0    0 
+RaisePam  976196775  7  5 f   -     -     -         1655    0    0 
+RaisePam  976196798  7  4 c   c     c     k         1655   50    0 Tc 9d
+RaisePam  976196832  7  3 cf  -     -     -         1605   10    0 
+RaisePam  976196876  7  2 Bf  -     -     -         1595   10    0 
+RaisePam  976196931  7  1 Bc  kc    kf    -         1585   20    0 
+RaisePam  976196988  8  7 f   -     -     -         1565    0    0 
+RaisePam  976197022  8  6 c   b     b     k         1565   40    0 Js 7s
+RaisePam  976197067  8  5 f   -     -     -         1525    0    0 
+RaisePam  976197101  8  4 c   k     k     b         1525   30  110 7c Tc
+RaisePam  976197131  7  2 Bk  k     kf    -         1605   10    0 
+RaisePam  976197175  8  1 Bf  -     -     -         1595    5    0 
+RaisePam  976197203  8  8 c   c     k     c         1590   50    0 5s Ac
+RaisePam  976197279  8  7 r   b     bc    kc        1540   90    0 3h Ah
+RaisePam  976197384  8  6 f   -     -     -         1450    0    0 
+RaisePam  976197434  8  5 f   -     -     -         1450    0    0 
+RaisePam  976197462  8  4 c   bc    b     k         1450   50  190 3d Ah
+RaisePam  976197536 10  3 f   -     -     -         1590    0    0 
+RaisePam  976197614 10  2 Bc  kf    -     -         1590   20    0 
+RaisePam  976197669 10  1 Bf  -     -     -         1570    5    0 
+RaisePam  976197721 10 10 c   c     f     -         1565   20    0 
+RaisePam  976197769 10  9 c   c     f     -         1545   30    0 
+RaisePam  976197843 10  8 c   k     f     -         1515   10    0 
+RaisePam  976197921 10  7 c   b     bc    kf        1505   60    0 
+RaisePam  976198021  9  5 c   c     c     c         1445   60    0 Qc Js
+RaisePam  976198084  9  5 c   kc    kf    -         1385   30    0 
+RaisePam  976198163  8  4 f   -     -     -         1355    0    0 
+RaisePam  976198222  8  3 f   -     -     -         1355    0    0 
+RaisePam  976198285  8  2 Bk  kc    kf    -         1355   20    0 
+RaisePam  976198340  8  1 Bc  b     kr    -         1335   60  130 
+RaisePam  976198428 10 10 c   c     f     -         1405   20    0 
+RaisePam  976198521 10  9 f   -     -     -         1385    0    0 
+RaisePam  976198593  9  7 c   f     -     -         1385   10    0 
+RaisePam  976198687 10  7 c   b     kc    kc        1375   60   75 8h 9c
+RaisePam  976198779 10  6 f   -     -     -         1390    0    0 
+RaisePam  976198848 10  5 c   kc    kc    kf        1390   40    0 
+RaisePam  976198909 10  4 c   b     bc    kc        1350   80    0 5s Qs
+RaisePam  976198975 10  3 c   kf    -     -         1270   10    0 
+RaisePam  976199044 10  2 Bk  f     -     -         1260   10    0 
+RaisePam  976199119 10  1 Bf  -     -     -         1250    5    0 
+RaisePam  976199167 10 10 c   c     f     -         1245   30    0 
+RaisePam  976199261 10  9 f   -     -     -         1215    0    0 
+RaisePam  976199427  9  7 c   k     f     -         1215   10    0 
+RaisePam  976199480 10  6 c   c     r     rc        1205  120    0 6c 5d
+RaisePam  976199523  9  5 c   cc    f     -         1085   30    0 
+RaisePam  976199610  9  4 f   -     -     -         1055    0    0 
+RaisePam  976199664 10  3 f   -     -     -         1055    0    0 
+RaisePam  976199775 10  2 Bc  kc    kc    kc        1055   90    0 4d 4s
+RaisePam  976199907 10  1 Bc  kc    b     bc         965  100    0 8d 4d
+RaisePam  976200051 10 10 c   rr    rc    rr         865  190  815 Kc 7c
+RaisePam  976200219 10  9 f   -     -     -         1490    0    0 
+RaisePam  976200301  8  7 c   k     f     -         1490   10    0 
+RaisePam  976200347  9  7 f   -     -     -         1480    0    0 
+RaisePam  976200374  9  6 f   -     -     -         1480    0    0 
+RaisePam  976200458  9  5 f   -     -     -         1480    0    0 
+RaisePam  976200532  9  4 f   -     -     -         1480    0    0 
+RaisePam  976200630 10  3 c   bc    k     kf        1480   30    0 
+RaisePam  976200689 10  2 Bk  k     kf    -         1450   10    0 
+RaisePam  976200774 10  1 Bf  -     -     -         1440    5    0 
+RaisePam  976200814 10 10 f   Q     -     -         1435    0    0 
+RaisePam  976226312 10 10 f   -     -     -         1435    0    0 
+RaisePam  976226359 10  9 f   -     -     -         1435    0    0 
+RaisePam  976226402 10  8 f   -     -     -         1435    0    0 
+RaisePam  976226465  9  7 f   -     -     -         1435    0    0 
+RaisePam  976226499  8  5 f   -     -     -         1435    0    0 
+RaisePam  976226514  7  3 f   -     -     -         1435    0    0 
+RaisePam  976226561  7  3 f   -     -     -         1435    0    0 
+RaisePam  976226595  7  2 Bk  f     -     -         1435   10    0 
+RaisePam  976226634  7  1 Bf  -     -     -         1425    5    0 
+RaisePam  976226642  7  7 f   -     -     -         1420    0    0 
+RaisePam  976226661  7  6 f   -     -     -         1420    0    0 
+RaisePam  976226697  6  4 f   -     -     Q         1420    0    0 

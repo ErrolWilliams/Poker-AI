@@ -1,0 +1,945 @@
+Orbot     889876695  7  5 c   f     -     -         1000   10    0 
+Orbot     889876766  7  3 cc  kf    -     -          990   20    0 
+Orbot     889876840  7  3 c   k     f     -          970   10    0 
+Orbot     889876891  7  2 Br  br    brc   brc        960  220  585 Ks Kd
+Orbot     889876957  7  1 Bcc kc    kc    kf        1325   60    0 
+Orbot     889877033  7  7 c   k     f     -         1265   10    0 
+Orbot     889877060  7  6 c   b     -     -         1255   20   50 
+Orbot     889877085  7  5 cc  c     kc    k         1285   70  225 3d Jd
+Orbot     889877136  7  4 c   kc    kf    -         1440   20    0 
+Orbot     889877186  7  3 f   -     -     -         1420    0    0 
+Orbot     889877225  7  2 Br  kc    k     kc        1420   60    0 Qd Qs
+Orbot     889877268  7  1 Bc  k     kc    kf        1360   30    0 
+Orbot     889877323  7  7 f   -     -     -         1330    0    0 
+Orbot     889877348  7  6 c   k     f     -         1330   10    0 
+Orbot     889877373  7  5 cc  c     c     f         1320   50    0 
+Orbot     889877411  7  4 f   -     -     -         1270    0    0 
+Orbot     889877448  7  3 cc  kf    -     -         1270   20    0 
+Orbot     889877501  7  2 Bc  kcc   kf    -         1250   60    0 
+Orbot     889877588  7  1 Bc  kf    -     -         1190   20    0 
+Orbot     889877649  7  7 c   c     c     k         1170   50    0 7d 9d
+Orbot     889877681  7  6 c   f     -     -         1120   20    0 
+Orbot     889877723  7  5 c   k     k     kf        1100   10    0 
+Orbot     889877757  7  4 f   -     -     -         1090    0    0 
+Orbot     889877797  7  3 c   k     c     k         1090   30    0 3d 2d
+Orbot     889877835  7  2 Bc  k     kf    -         1060   20    0 
+Orbot     889877911  6  1 Bc  k     k     kf        1040   10    0 
+Orbot     889877972  6  5 rc  c     f     -         1030   40    0 
+Orbot     889878018  6  4 c   c     c     c          990   60  140 8c 7s
+Orbot     889878046  7  4 c   f     -     -         1070   20    0 
+Orbot     889878076  7  3 c   kc    k     kf        1050   20    0 
+Orbot     889878143  8  2 Bc  k     kf    -         1030   20    0 
+Orbot     889878188  8  1 Bcc k     kf    -         1010   20    0 
+Orbot     889878232  8  8 c   c     k     f          990   30    0 
+Orbot     889878279  8  7 c   cf    -     -          960   20    0 
+Orbot     889878347  8  6 c   ccc   kc    k          940   80  410 Ac 5c
+Orbot     889878417  8  5 c   k     c     c         1270   50    0 6h 5h
+Orbot     889878471  8  4 ccc kc    kc    k         1220   60    0 Ks 7s
+Orbot     889878580  6  2 f   -     -     -         1160    0    0 
+Orbot     889878621  4  2 Bc  k     k     kf        1160   20    0 
+Orbot     889878668  4  1 Bc  kc    kc    kf        1140   40    0 
+Orbot     889878761  5  5 r   r     b     b         1100   80  260 8d 8h
+Orbot     889878974  4  3 c   k     kf    -         1280   10    0 
+Orbot     889879001  3  2 Bc  c     c     c         1270   70    0 7c 5c
+Orbot     889879060  4  1 Bc  k     k     kf        1200   10    0 
+Orbot     889879100  3  3 fQ  Q     -     -         1190    0    0 
+Orbot     889880742  5  2 Bk  k     k     kf        1190   10    0 
+Orbot     889880788  5  1 Bc  k     k     kf        1180   10    0 
+Orbot     889880824  5  5 c   c     c     b         1170   60  170 8d 4s
+Orbot     889880871  5  5 c   k     f     -         1280   10    0 
+Orbot     889880908  4  3 cc  k     c     c         1270   70  260 4s Kd
+Orbot     889880966  4  2 Bk  k     k     kf        1460   10    0 
+Orbot     889881007  3  1 Bcc k     k     bc        1450   60  120 6s Kh
+Orbot     889881037  3  3 c   c     c     c         1510   60  130 Js 7c
+Orbot     889881061  3  2 B   -     -     -         1580   10   15 
+Orbot     889881079  3  1 Bc  k     k     kf        1585   10    0 
+Orbot     889881129  3  3 cc  k     k     f         1575   20    0 
+Orbot     889881190  4  2 Bk  k     f     -         1555   10    0 
+Orbot     889881220  4  1 Bc  kc    b     -         1545   50   90 
+Orbot     889881254  4  4 c   k     c     b         1585   50   90 
+Orbot     889881291  4  3 c   k     c     rr        1625  110    0 5h Qc
+Orbot     889881320  4  2 Bcc k     kf    -         1515   40    0 
+Orbot     889881379  4  1 Bc  k     kf    -         1475   10    0 
+Orbot     889881427  3  3 c   f     -     -         1465   10    0 
+Orbot     889881470  3  3 cc  c     c     k         1455   50  150 9c 2c
+Orbot     889881524  3  2 B   -     -     -         1555   10   15 
+Orbot     889881535  3  1 Bc  k     kc    kc        1560   50    0 4d 9h
+Orbot     889881566  5  3 cc  k     c     f         1510   40    0 
+Orbot     889881634  5  2 Bk  k     k     kc        1470   30    0 Qs Jh
+Orbot     889881685  6  1 Bc  k     kf    -         1440   10    0 
+Orbot     889881730  7  7 c   c     c     c         1430   70    0 4d 4c
+Orbot     889881765  7  6 cc  k     c     c         1360   60    0 Qs Ac
+Orbot     889881810  6  4 c   k     k     k         1300   10    0 8s 4d
+Orbot     889881864  7  4 c   k     f     -         1290   10    0 
+Orbot     889881908  8  3 c   f     -     -         1280   10    0 
+Orbot     889881965  8  2 Bk  kf    -     -         1270   10    0 
+Orbot     889882018  8  1 Br  b     b     b         1260   70  150 
+Orbot     889882062  8  8 c   c     c     k         1340   50    0 4s Ts
+Orbot     889882147  9  8 c   k     k     b         1290   40  135 Ah 8h
+Orbot     889882226  9  7 c   c     k     f         1385   20    0 
+Orbot     889882271  9  6 cc  k     f     -         1365   40    0 
+Orbot     889882329  9  5 f   -     -     -         1325    0    0 
+Orbot     889882414  9  4 c   bc    kc    kc        1325   80    0 As Qh
+Orbot     889882544 10  3 cc  kc    kc    kc        1245   70    0 7h As
+Orbot     889882628 10  2 Bc  kf    -     -         1175   20    0 
+Orbot     889882708 10  1 Bc  k     kf    -         1155   20    0 
+Orbot     889882780 10 10 r   r     c     k         1135   60    0 Kc Kd
+Orbot     889882877  8  7 f   -     -     -         1075    0    0 
+Orbot     889882946  7  7 c   c     cc    f         1075   70    0 
+Orbot     889883011  8  7 c   c     k     b         1005   50  180 
+Orbot     889883072  8  6 f   -     -     -         1135    0    0 
+Orbot     889883111  8  5 cc  kc    kf    -         1135   30    0 
+Orbot     889883178  8  4 r   b     bc    b         1105  100  255 8d 8c
+Orbot     889883236  7  3 rc  ccc   kf    -         1260   80    0 
+Orbot     889883313  7  2 Bcc kc    kf    -         1180   50    0 
+Orbot     889883432  9  1 Bc  kf    -     -         1130   20    0 
+Orbot     889883559  7  7 cc  k     k     f         1110   30    0 
+Orbot     889883648  7  6 ccc c     c     c         1080   90    0 Jd 9c
+Orbot     889883729  8  6 c   kc    kf    -          990   20    0 
+Orbot     889883790  8  5 c   f     -     -          970   10    0 
+Orbot     889883841  8  4 cc  k     k     cc         960   60    0 7h 6s
+Orbot     889883890  9  4 c   k     c     c          900   60    0 Ah 7s
+Orbot     889883934  9  3 cc  kf    -     -          840   30    0 
+Orbot     889884011 10  2 Bc  c     b     b          810   70    0 7c 2d
+Orbot     889884074  9  1 Br  b     b     b          740   70    0 5c 3s
+Orbot     889884131  9  9 r   brc   br    br         670  180    0 8c Ad
+Orbot     889884192  9  8 r   b     b     r          490   90    0 Qh 4d
+Orbot     889884257  9  7 rr  br    b     b          400  110  350 5c 2h
+Orbot     889884350 10  6 r   brc   b     brc        640  160    0 9s 6h
+Orbot     889884465 10  5 r   b     b     b          480   70    0 As Qd
+Orbot     889884518 10  4 rr  b     b     brc        410  150    0 4h 9d
+Orbot     889884616 10  3 r   b     brc   br         260  170    0 5s 8h
+Orbot     889884723  8  2 Br  br    b     cA          90   90    0 8c 2c
+Orbot     889884907  8  8 c   brc   brc   rc        1000  210    0 5d 8h
+Orbot     889885026  9  7 cc  f     -     -          790   20    0 
+Orbot     889885125  9  6 r   c     r     k          770   70  360 Qs Qd
+Orbot     889885199 10  5 c   kf    -     -         1060   10    0 
+Orbot     889885282 10  5 cc  kc    kc    kc        1050   90  285 Kh Ad
+Orbot     889885340  9  3 c   kf    -     -         1245   10    0 
+Orbot     889885417  9  2 Bc  kf    -     -         1235   20    0 
+Orbot     889885482  9  1 Bc  k     kf    -         1215   10    0 
+Orbot     889885544 10 10 c   f     -     -         1205   10    0 
+Orbot     889885623  8  7 c   c     c     c         1195   70    0 3c 7d
+Orbot     889885705  8  6 c   cf    -     -         1125   40    0 
+Orbot     889885771  7  4 cc  f     -     -         1085   30    0 
+Orbot     889885825  7  4 f   -     -     -         1055    0    0 
+Orbot     889885873  7  3 c   c     f     -         1055   20    0 
+Orbot     889885941  7  2 Bf  -     -     -         1035   10    0 
+Orbot     889885991  8  1 Bc  kc    brc   brc       1025  200  680 3d 4c
+Orbot     889886079  9  9 c   c     f     -         1505   20    0 
+Orbot     889886155 10  9 c   f     -     -         1485   10    0 
+Orbot     889886270  9  7 cc  f     -     -         1475   20    0 
+Orbot     889886389 10  6 f   -     -     -         1455    0    0 
+Orbot     889886442 10  5 f   -     -     -         1455    0    0 
+Orbot     889886506 10  4 c   cc    f     -         1455   30    0 
+Orbot     889886588 10  3 cc  kc    kc    kc        1425   70    0 Jh 7s
+Orbot     889886649 10  2 Bc  kc    kc    kc        1355   70  165 2s 3c
+Orbot     889886698 10  1 Bc  kc    kc    kf        1450   50    0 
+Orbot     889886828 10 10 r   rr    b     rc        1400  180  775 Ks Kh
+Orbot     889886943 10  9 c   c     f     -         1995   20    0 
+Orbot     889887034 10  8 c   cc    k     c         1975   70    0 Kh 5s
+Orbot     889887135 10  7 c   cf    -     -         1905   20    0 
+Orbot     889887220  9  5 c   kc    k     kc        1885   40    0 4d Kd
+Orbot     889887324  8  3 QQ  -     -     -         1845    0    0 
+Orbot     889889635  9  2 Bk  k     k     kc        1845   50    0 Jc 4c
+Orbot     889889705  9  1 Brc kc    k     k         1795   50  200 Ac Ad
+Orbot     889889786  9  9 c   c     c     c         1945   60    0 2d 7h
+Orbot     889889873 10  8 c   f     -     -         1885   10    0 
+Orbot     889889913 10  7 f   -     -     -         1875    0    0 
+Orbot     889889979 10  6 c   c     f     -         1875   30    0 
+Orbot     889890048  7  2 c   k     k     k         1845   10    0 Jc 6c
+Orbot     889890086  7  2 Brc kc    kc    kf        1835   80    0 
+Orbot     889890174  7  1 Bc  k     kf    -         1755   10    0 
+Orbot     889890218  6  3 QQ  -     -     -         1745    0    0 
+Orbot     889891470  7  4 c   f     -     -         1745   10    0 
+Orbot     889891526  7  3 cc  k     f     -         1735   20    0 
+Orbot     889891593  7  2 Bc  kc    kc    k         1715   50    0 8h 3s
+Orbot     889891677  7  1 Bc  kc    kc    kf        1665   40    0 
+Orbot     889891752  8  7 c   c     k     f         1625   30    0 
+Orbot     889891799  9  6 f   -     -     -         1595    0    0 
+Orbot     889891868 10  5 c   kc    kf    -         1595   20    0 
+Orbot     889891950 10  4 c   k     k     b         1575   30   32 6h Ac
+Orbot     889892004 10  3 c   f     -     -         1577   10    0 
+Orbot     889892097 10  2 Bk  bc    br    b         1567  110  380 9c 8c
+Orbot     889892203 10  1 Bc  kc    kf    -         1837   20    0 
+Orbot     889892304 10 10 c   k     k     f         1817   10    0 
+Orbot     889892354 10  9 c   c     k     f         1807   30    0 
+Orbot     889892437 10  8 c   f     -     -         1777   10    0 
+Orbot     889892505 10  7 c   f     -     -         1767   20    0 
+Orbot     889892565 10  6 c   f     -     -         1747   10    0 
+Orbot     889892662 10  5 c   f     -     -         1737   20    0 
+Orbot     889892782 10  4 c   f     -     -         1717   10    0 
+Orbot     889892835 10  3 c   c     c     f         1707   40    0 
+Orbot     889892895 10  2 Bc  k     cc    kc        1667   80  130 Jd 9d
+Orbot     889892943 10  1 Bc  k     k     kc        1717   40    0 Jd 8s
+Orbot     889892989 10 10 c   k     cc    c         1677   70    0 Kc 3d
+Orbot     889893061 10  9 cc  c     k     f         1607   40    0 
+Orbot     889893166 10  8 c   b     b     b         1567   60  130 
+Orbot     889893274 10  7 c   k     k     f         1637   10    0 
+Orbot     889893342 10  6 c   c     c     k         1627   50    0 6d Js
+Orbot     889893401 10  5 r   bc    k     cf        1577   60    0 
+Orbot     889893487 10  4 c   f     -     -         1517   20    0 
+Orbot     889893543 10  3 c   f     -     -         1497   10    0 
+Orbot     889893598 10  2 Br  b     b     b         1487   70  210 
+Orbot     889893672 10  1 Bcc kc    kcc   kc        1627  130    0 4h 9h
+Orbot     889893753 10 10 c   k     f     -         1497   10    0 
+Orbot     889893824 10  7 QQ  -     -     -         1487    0    0 
+Orbot     890078491  5  2 Bk  k     f     -         1487   10    0 
+Orbot     890078540  5  1 Bc  kc    kc    kf        1477   40    0 
+Orbot     890078600  5  5 c   c     k     c         1437   40    0 Qs Kc
+Orbot     890078649  5  4 c   k     b     r         1397   70   80 3s 5c
+Orbot     890078721  6  3 cc  f     -     -         1407   20    0 
+Orbot     890078787  7  2 B   -     -     -         1387   10   15 
+Orbot     890078810  7  1 Bc  kc    kc    k         1392   40    0 Qh Kd
+Orbot     890079035  6  6 f   -     -     -         1352    0    0 
+Orbot     890079050  5  5 c   k     k     b         1352   30   55 
+Orbot     890079106  4  3 c   k     k     b         1377   30   40 
+Orbot     890079140  4  3 c   k     k     b         1387   30   50 
+Orbot     890079222  3  1 Bc  kc    kf    -         1407   30    0 
+Orbot     890079264  3  1 Bc  k     kc    k         1377   30   60 2s 4h
+Orbot     890079327  3  3 cc  k     k     k         1407   20    0 Kh 3h
+Orbot     890079374  5  4 r   cc    c     f         1387   70    0 
+Orbot     890079428  5  3 c   k     f     -         1317   10    0 
+Orbot     890079481  5  2 Bc  b     -     -         1307   30   75 
+Orbot     890079521  5  1 Br  bc    k     k         1352   50    0 4d Ks
+Orbot     890079574  5  5 r   k     b     b         1302   60  160 As Js
+Orbot     890079633  5  4 KQ  -     -     -         1402    0    0 
+Orbot     890161634 10  6 f   -     -     -         1402    0    0 
+Orbot     890161684 10  5 cc  kf    -     -         1402   20    0 
+Orbot     890161766  9  4 f   -     -     -         1382    0    0 
+Orbot     890161834  8  2 Bk  k     k     b         1382   30   45 
+Orbot     890161868  9  1 Bc  kc    kc    k         1397   50    0 Th 8s
+Orbot     890161924  8  8 c   k     k     k         1347   20    0 9d Th
+Orbot     890161982  7  6 c   k     c     b         1327   50   85 
+Orbot     890162063  7  5 c   Q     -     -         1362   10    0 
+Orbot     890436006  8  7 f   -     -     -         1352    0    0 
+Orbot     890436053  9  6 cc  f     -     -         1352   20    0 
+Orbot     890436086  9  5 c   kc    kf    -         1332   20    0 
+Orbot     890436121 10  4 cc  kf    -     -         1312   20    0 
+Orbot     890436164 10  3 cc  kf    -     -         1292   20    0 
+Orbot     890436239  9  2 Bc  kc    bc    kf        1272   70    0 
+Orbot     890436281  9  1 Br  br    -     -         1202   60  140 
+Orbot     890436337  9  9 c   f     -     -         1282   20    0 
+Orbot     890436424 10  9 cc  b     b     bc        1262  110    0 6h 6d
+Orbot     890436512 10  8 c   f     -     -         1152   10    0 
+Orbot     890436555 10  7 c   kf    -     -         1142   10    0 
+Orbot     890436620 10  6 c   kf    -     -         1132   10    0 
+Orbot     890436671 10  5 cc  k     kc    k         1122   50  215 9c 8d
+Orbot     890436728 10  4 c   c     k     f         1287   20    0 
+Orbot     890436798  8  3 c   kc    kf    -         1267   30    0 
+Orbot     890436886 10  2 Bk  kf    -     -         1237   10    0 
+Orbot     890436971 10  1 Bc  kc    kf    -         1227   30    0 
+Orbot     890437031 10 10 cc  c     c     f         1197   50    0 
+Orbot     890437096 10  9 c   c     c     b         1147   60  155 Qs 4s
+Orbot     890437168  9  8 f   -     -     -         1242    0    0 
+Orbot     890437263  8  5 c   f     -     -         1242   10    0 
+Orbot     890437323 10  6 c   k     k     b         1232   30   75 
+Orbot     890437385 10  5 f   -     -     -         1277    0    0 
+Orbot     890437456  9  4 cc  kc    kf    -         1277   30    0 
+Orbot     890437567  9  3 c   kc    kf    -         1247   20    0 
+Orbot     890437633 10  2 Bc  kf    -     -         1227   20    0 
+Orbot     890437699  9  1 Bcc kcf   -     -         1207   50    0 
+Orbot     890437783  9  9 cc  c     c     f         1157  100    0 
+Orbot     890437860  9  8 f   -     -     -         1057    0    0 
+Orbot     890437903  9  7 f   -     -     -         1057    0    0 
+Orbot     890437946  9  6 cc  cc    f     -         1057   40    0 
+Orbot     890437999  9  5 cc  f     -     -         1017   20    0 
+Orbot     890438058 10  4 cc  kc    kc    kf         997   60    0 
+Orbot     890438140 10  3 f   -     -     -          937    0    0 
+Orbot     890438211 10  2 Bc  kf    -     -          937   30    0 
+Orbot     890438319 10  1 Bcc kcc   k     kc         907  100  380 5c Ks
+Orbot     890438419 10 10 c   f     -     -         1187   20    0 
+Orbot     890438473 10  9 c   f     -     -         1167   20    0 
+Orbot     890438532 10  8 ccc f     -     -         1147   40    0 
+Orbot     890438610 10  7 cc  f     -     -         1107   20    0 
+Orbot     890438683 10  6 cc  kc    kc    kf        1087   70    0 
+Orbot     890438751 10  5 cc  brc   br    brc       1017  220    0 5c 6d
+Orbot     890438866 10  4 cc  kc    kf    -          797   30    0 
+Orbot     890438963 10  3 f   -     -     -          767    0    0 
+Orbot     890439005  9  1 Bc  kcc   kcc   kcc        767  220  730 7s Kh
+Orbot     890439119  8  1 Bf  -     -     -         1277    5    0 
+Orbot     890439159 10  9 cc  f     -     -         1272   40    0 
+Orbot     890439253 10  8 cc  f     -     -         1232   30    0 
+Orbot     890439309  9  8 cc  cc    c     f         1202   80    0 
+Orbot     890439425  9  6 cc  kf    -     -         1122   20    0 
+Orbot     890439502  8  4 cc  kc    kc    k         1102   50    0 Qh 9c
+Orbot     890439555  9  3 cc  kc    kf    -         1052   30    0 
+Orbot     890439605  9  2 Bc  kc    kc    k         1022   50    0 Qs 6s
+Orbot     890439678 10  1 Bcc kfQ   Q     -          972   40    0 
+Orbot     890440765  9  6 ccc c     c     f          932   70    0 
+Orbot     890440881 10  6 cc  c     c     c          862  100    0 Qh 2h
+Orbot     890440975 10  5 ccc kf    -     -          762   40    0 
+Orbot     890441061  9  3 cc  kc    kc    cc         722  110    0 2d 2c
+Orbot     890441162  9  3 f   -     -     -          612    0    0 
+Orbot     890441257  9  2 BcQ Q     -     -          612   30    0 
+Orbot     890592410 10  5 cc  f     -     -          582   20    0 
+Orbot     890592477 10  4 cc  f     -     -          562   20    0 
+Orbot     890592527 10  3 Q   -     -     -          542    0    0 
+Orbot     890592984  9  7 c   c     c     f          542   50    0 
+Orbot     890593040  9  6 c   rc    r     c          492  130    0 8c 6s
+Orbot     890593143  8  4 c   k     f     -          362   10    0 
+Orbot     890593197  8  3 r   b     b     -          352   50  105 
+Orbot     890593231  8  2 Br  k     k     k          407   20   45 Qs Ac
+Orbot     890593268  8  1 Br  kf    -     -          432   30    0 
+Orbot     890593316  8  8 c   k     k     f          402   10    0 
+Orbot     890593361  9  8 cc  c     f     -          392   30    0 
+Orbot     890593411  8  6 r   b     b     -          362   50  120 
+Orbot     890593439  8  5 c   c     k     b          432   40  170 Qh Tc
+Orbot     890593521  8  3 r   b     b     b          562   70  130 
+Orbot     890593557  8  3 r   k     k     b          622   40   75 
+Orbot     890593587  8  2 Bk  k     kf    -          657   10    0 
+Orbot     890593630  9  1 Bc  kf    -     -          647   20    0 
+Orbot     890593676  7  7 c   c     f     -          627   30    0 
+Orbot     890593724  7  6 c   f     -     -          597   20    0 
+Orbot     890593746  7  5 cc  k     k     b          577   40  100 
+Orbot     890593791  7  4 c   k     k     b          637   30    0 5c 2s
+Orbot     890593832  8  3 f   -     -     -          607    0    0 
+Orbot     890593897  9  2 Bc  kc    c     kc         607   80    0 Qh 9d
+Orbot     890593960 10  1 Bc  kc    kcc   kc         527  110    0 3d 2s
+Orbot     890594055 10 10 f   -     -     -          417    0    0 
+Orbot     890594111  9  8 f   -     -     -          417    0    0 
+Orbot     890594212 10  8 c   c     f     -          417   20    0 
+Orbot     890594313  9  6 c   c     c     c          397   60    0 8s Ac
+Orbot     890594365 10  6 rc  kf    -     -          337   40    0 
+Orbot     890594418 10  7 r   k     b     b          297   60  125 
+Orbot     890594467  9  4 r   b     b     r          362   90  210 Qd Ad
+Orbot     890594518 10  3 r   b     -     -          482   30   65 
+Orbot     890594563 10  2 Br  b     b     b          517   90  355 Ah Kd
+Orbot     890594601 10  1 Br  b     kf    -          782   40    0 
+Orbot     890594666 10 10 f   -     -     -          742    0    0 
+Orbot     890594737  9  8 f   -     -     -          742    0    0 
+Orbot     890594824 10  8 cc  f     -     -          742   40    0 
+Orbot     890594924 10  7 r   k     c     fQ         702   60    0 
+Orbot     890595898 10  2 Bk  k     k     k          642   10   45 4h 9d
+Orbot     890595964 10  1 Bc  kc    k     k          677   20    0 5h Th
+Orbot     890596014 10 10 c   k     b     -          657   30   55 
+Orbot     890596046 10  9 f   -     -     -          682    0    0 
+Orbot     890596083 10  8 cc  f     -     -          682   30    0 
+Orbot     890596165 10  7 c   c     c     f          652   50    0 
+Orbot     890596256 10  7 r   k     r     f          602   60    0 
+Orbot     890596311  9  5 rr  b     b     b          542   90    0 3d Td
+Orbot     890596344  9  4 rr  b     b     b          452   90    0 7c Ad
+Orbot     890596413  9  3 r   b     br    b          362  110  300 Ks 6c
+Orbot     890596484  9  2 Br  b     b     bc         552  110  205 Td Ac
+Orbot     890596547 10  1 Br  b     b     b          647   80    0 2d 3h
+Orbot     890596626 10 10 rc  rr    r     b          567  140    0 8c 9s
+Orbot     890596780 10  9 r   k     f     -          427   30    0 
+Orbot     890596843 10  8 rr  brc   b     b          397  120    0 8s 7h
+Orbot     890596976 10  7 rr  rc    r     r          277  160    0 5h 2d
+Orbot     890597084 10  6 rc  br    bcA   -          117  117    0 Tc Kc
+Orbot     890597318 10  2 Bk  k     kc    kc        1000   50  125 6c Jd
+Orbot     890597406  9  1 Bc  kr    kc    kc        1075  140    0 Jh Th
+Orbot     890597512 10 10 c   f     -     -          935   10    0 
+Orbot     890597576 10  9 c   cc    f     -          925   60    0 
+Orbot     890597656 10  8 c   k     c     f          865   30    0 
+Orbot     890597721 10  8 f   -     -     -          835    0    0 
+Orbot     890597761 10  6 cc  cc    kf    -          835   50    0 
+Orbot     890597841 10  5 c   kc    kc    b          785   60  185 8c 6h
+Orbot     890597911  9  3 cc  kc    kc    k          910   50    0 Th 7s
+Orbot     890598009 10  3 cc  Q     -     -          860   20    0 
+Orbot     890680205  8  6 Q   -     -     -          840    0    0 
+Orbot     890683233 10  2 Bc  kc    c     c          840  100    0 As Td
+Orbot     890683345  9  1 Bc  kc    kf    -          740   30    0 
+Orbot     890683431 10  9 c   f     -     -          710   20    0 
+Orbot     890683503 10  8 cc  c     f     -          690   50    0 
+Orbot     890683583 10  7 c   c     rr    rr         640  190  570 4d 7c
+Orbot     890683782 10  6 cc  cc    cc    k         1020  150    0 7h 6s
+Orbot     890683960  8  4 f   -     -     -          870    0    0 
+Orbot     890684035  9  4 c   k     kc    kf         870   30    0 
+Orbot     890684168  9  2 f   -     -     -          840    0    0 
+Orbot     890684207  9  2 Bk  kc    f     -          840   30    0 
+Orbot     890684257 10  1 Bf  -     -     -          810    5    0 
+Orbot     890684325 10 10 c   f     -     -          805   10    0 
+Orbot     890684375 10  9 r   b     br    c          795  110    0 6h 6d
+Orbot     890684519 10  8 rc  c     c     f          685   70    0 
+Orbot     890684599 10  7 c   c     c     c          615   60    0 8c Kd
+Orbot     890684659 10  6 c   f     -     -          555   20    0 
+Orbot     890684702 10  5 cc  kf    -     -          535   20    0 
+Orbot     890684753 10  4 c   f     -     -          515   10    0 
+Orbot     890684858 10  3 cc  kc    f     -          505   40    0 
+Orbot     890684962 10  2 Brc kf    -     -          465   40    0 
+Orbot     890685130  9  1 Bc  kc    kc    kc         425   70    0 6h Td
+Orbot     890685306  8  8 c   k     k     b          355   30    0 As 9d
+Orbot     890685360  9  3 Q   -     -     -          325    0    0 
+Orbot     890686731 10  3 c   r     r     b          325   90    0 Td As
+Orbot     890686796  9  2 Br  br    b     b          235   90    0 Tc 9d
+Orbot     890686854  9  1 Brc br    b     b          145  110    0 Qs 7h
+Orbot     890687021  9  9 r   rA    -     -           35   35  110 Th Tc
+Orbot     890687161  8  7 r   c     c     rcA        110  110    0 6h Qc
+Orbot     890687274  9  6 cc  cf    -     -         1000   30    0 
+Orbot     890687344 10  5 cc  f     -     -          970   20    0 
+Orbot     890687436 10  4 c   cc    cc    f          950  100    0 
+Orbot     890687506 10  3 c   c     c     c          850   60  165 Td Qs
+Orbot     890687577 10  2 Bc  kc    kc    k          955   50    0 4h Th
+Orbot     890687655 10  1 Bc  kc    k     kf         905   40    0 
+Orbot     890687769  9  9 f   -     -     -          865    0    0 
+Orbot     890687855 10  9 c   c     cc    kc         865  120  136 9c Ks
+Orbot     890688012 10  8 c   c     c     c          881   90  370 9c 3d
+Orbot     890688112 10  8 c   k     kc    k         1161   30  150 Td Qh
+Orbot     890688217 10  4 Q   -     -     -         1281    0    0 
+Orbot     890689064 10 10 c   cc    c     c         1281   70    0 3s 8d
+Orbot     890689221  7  6 c   kc    kc    kf        1211   50    0 
+Orbot     890689325  8  6 c   f     -     -         1161   10    0 
+Orbot     890689375  8  6 c   c     b     -         1151   40   65 
+Orbot     890689403  7  4 c   c     kf    -         1176   20    0 
+Orbot     890689510  7  3 c   kc    kf    -         1156   20    0 
+Orbot     890689601  5  1 Bc  k     kc    k         1136   40    0 Qs 4h
+Orbot     890689646  4  1 Bc  k     k     kf        1096   10    0 
+Orbot     890689667  4  4 c   k     k     k         1086   10   35 Ks 4d
+Orbot     890689691  4  4 c   c     f     -         1111   30    0 
+Orbot     890689724  5  4 r   b     -     -         1081   30   55 
+Orbot     890689740  5  3 r   k     k     b         1106   40   70 
+Orbot     890689779  5  2 Brc kc    kf    -         1136   50    0 
+Orbot     890689815  5  1 Bc  k     kc    kf        1086   40    0 
+Orbot     890689863  5  5 f   -     -     -         1046    0    0 
+Orbot     890689881  6  5 cc  k     k     k         1046   20    0 Tc 8h
+Orbot     890689955  6  4 f   -     -     -         1026    0    0 
+Orbot     890689993  6  3 c   k     kf    -         1026   10    0 
+Orbot     890690123  7  3 c   c     c     c         1016   60    0 6s 2d
+Orbot     890690172  8  3 r   kf    -     -          956   20    0 
+Orbot     890690266  8  2 Bc  f     -     -          936   40    0 
+Orbot     890690322  9  1 Br  k     k     k          896   20    0 Qc 9c
+Orbot     890690418  9  9 c   fQ    Q     -          876   30    0 
+Orbot     890943878 10  2 BQ  -     -     -          846   10    0 
+Orbot     890944527 10  7 cc  cc    cc    c          836  120  595 2d Qd
+Orbot     890944626 10  6 c   r     k     b         1311   60  165 6h 4d
+Orbot     890944734 10  5 c   kc    k     kf        1416   20    0 
+Orbot     890944823  9  4 cc  k     kf    -         1396   20    0 
+Orbot     890944903 10  4 c   k     f     -         1376   10    0 
+Orbot     890945055  9  2 Bc  k     kc    kc        1366   60  165 Td 7h
+Orbot     890945166  8  1 Bc  kc    kc    kf        1471   60    0 
+Orbot     890945272  9  9 f   -     -     -         1411    0    0 
+Orbot     890945337  9  8 c   c     c     c         1411   60  195 9h 2h
+Orbot     890945407  9  7 cc  kc    kc    kc        1546   70  195 8h Ks
+Orbot     890945492  9  6 cc  f     -     -         1671   20    0 
+Orbot     890945555  9  5 c   k     kc    kf        1651   30    0 
+Orbot     890945630  9  5 cc  kc    kc    brc       1621  130    0 3d 3s
+Orbot     890945693  9  4 cc  kc    kr    b         1491   90  195 Ks Ad
+Orbot     890945726  9  3 c   kf    -     -         1596   10    0 
+Orbot     890945784  9  2 Bc  kc    k     b         1586   50  105 Ah Js
+Orbot     890945837  8  1 Bc  kcc   kc    kf        1641   60    0 
+Orbot     890945891  8  8 c   k     c     k         1581   30   70 Ad 9c
+Orbot     890945940  8  7 c   c     r     b         1621   90  230 Qc Ac
+Orbot     890946000  8  6 cc  kc    kc    k         1761   50  115 Ts Ah
+Orbot     890946070  8  5 c   k     r     b         1826   70  220 Qc Kh
+Orbot     890946131  8  5 cQQ -     -     -         1976   10    0 
+Orbot     890946811 10  6 cc  kf    -     -         1966   20    0 
+Orbot     890946894  9  4 cc  kc    b     -         1946   50  150 
+Orbot     890946968 10  3 c   kc    kc    kf        2046   40    0 
+Orbot     890947054 10  2 BQ  -     -     -         2006   10    0 
+Orbot     890947593 10  3 cc  cc    kc    kf        1996   60    0 
+Orbot     890947703 10  2 Bk  k     k     f         1936   10    0 
+Orbot     890947784 10  1 Bc  k     kc    kc        1926   50  120 3c Qh
+Orbot     890947927 10 10 c   k     c     c         1996   50  210 5c Th
+Orbot     890947989 10  9 r   bc    kc    c         2156   80    0 Ks Kh
+Orbot     890948045  9  7 c   c     f     -         2076   20    0 
+Orbot     890948117  9  6 c   c     c     c         2056   60    0 5d 7s
+Orbot     890948157 10  6 cc  c     c     c         1996   90    0 Jd 6d
+Orbot     890948230 10  5 c   c     c     kf        1906   40    0 
+Orbot     890948301 10  4 c   kf    -     -         1866   10    0 
+Orbot     890948377 10  3 c   kc    kf    -         1856   20    0 
+Orbot     890948455  8  1 Bk  kc    kf    -         1836   20    0 
+Orbot     890948512 10  1 Bc  k     kQ    -         1816   10    0 
+Orbot     891015046  9  9 c   f     -     -         1806   20    0 
+Orbot     891015079  9  8 c   k     k     f         1786   20    0 
+Orbot     891015117  9  7 c   kf    -     -         1766   10    0 
+Orbot     891015163  8  5 c   k     b     b         1756   50  125 
+Orbot     891015229  9  5 c   k     b     b         1831   50  130 
+Orbot     891015274 10  4 c   f     -     -         1911   10    0 
+Orbot     891015337  9  2 cc  c     c     f         1901   60    0 
+Orbot     891015388 10  2 Bk  c     f     -         1841   20    0 
+Orbot     891015428 10  1 Bc  kcc   kc    k         1821   70    0 6h Ks
+Orbot     891015521 10 10 c   c     k     k         1751   30  145 Ah Kd
+Orbot     891015591 10  9 c   k     f     -         1866   10    0 
+Orbot     891015645 10  8 c   c     f     -         1856   20    0 
+Orbot     891015698  9  6 c   f     -     -         1836   10    0 
+Orbot     891015755  9  5 cc  kf    -     -         1826   20    0 
+Orbot     891015822  9  3 cc  kc    kc    k         1806   50    0 9c 8c
+Orbot     891015869  9  2 Bk  k     kc    k         1756   30    0 5h 5c
+Orbot     891015916  9  1 Bc  k     k     k         1726   10    0 6d 3c
+Orbot     891015969  9  9 c   c     f     -         1716   20    0 
+Orbot     891016028 10  9 c   c     b     b         1696   60  160 4s 3h
+Orbot     891016082 10  8 c   k     c     k         1796   30    0 4d Qc
+Orbot     891016117 10  7 c   k     kf    -         1766   10    0 
+Orbot     891016171 10  6 c   k     k     k         1756   10    0 4d 9d
+Orbot     891016208 10  5 cc  k     k     k         1746   20    0 9h Th
+Orbot     891016251 10  4 c   k     kf    -         1726   10    0 
+Orbot     891016302 10  3 c   k     k     kc        1716   30    0 5d Jd
+Orbot     891016360 10  2 Bk  k     kc    k         1686   30    0 Jh 2d
+Orbot     891016413 10  1 Bc  k     -     -         1656   10   20 
+Orbot     891016430 10 10 c   k     k     f         1666   10    0 
+Orbot     891016468 10  9 c   f     -     -         1656   10    0 
+Orbot     891016511 10  8 cc  kr    k     b         1646   60  135 Js 8c
+Orbot     891016587  9  6 c   k     f     -         1721   10    0 
+Orbot     891016641  9  5 c   k     k     k         1711   10   40 5s Jh
+Orbot     891016697  9  4 cc  kc    kf    -         1741   30    0 
+Orbot     891016780  9  3 c   c     c     k         1711   40    0 7d Qh
+Orbot     891016819  9  2 Bc  kf    -     -         1671   20    0 
+Orbot     891016851  9  1 Bc  kr    kc    kc        1651   80  240 6c Qs
+Orbot     891016915  9  9 c   k     c     b         1811   50  170 9s Jh
+Orbot     891017000  8  7 c   k     k     b         1931   30    0 Kc 2d
+Orbot     891017053 10  7 c   c     c     kf        1901   60    0 
+Orbot     891017118 10  6 c   kc    kf    -         1841   20    0 
+Orbot     891017207  9  4 c   kf    -     -         1821   10    0 
+Orbot     891017269  8  3 cc  kf    -     -         1811   20    0 
+Orbot     891017344 10  2 Bk  kc    kc    kf        1791   40    0 
+Orbot     891017421 10  1 Bc  kf    -     -         1751   10    0 
+Orbot     891017480 10 10 c   c     k     k         1741   20   45 6d Js
+Orbot     891017546  9  8 c   f     -     -         1766   20    0 
+Orbot     891017615  9  7 c   c     c     r         1746   90  250 As Tc
+Orbot     891017702  8  5 c   kc    kf    -         1906   20    0 
+Orbot     891017780  8  3 c   kc    kc    kr        1886   80  220 2s 7h
+Orbot     891017850  9  3 c   f     -     -         2026   10    0 
+Orbot     891017904 10  2 Bc  k     c     k         2016   50    0 4s 2s
+Orbot     891017982 10  1 Bc  kc    kf    -         1966   30    0 
+Orbot     891018075  9  9 c   f     -     -         1936   10    0 
+Orbot     891018153  9  8 c   c     c     kf        1926   40    0 
+Orbot     891018217  9  7 cc  f     -     -         1886   30    0 
+Orbot     891018289  9  6 c   k     k     kf        1856   10    0 
+Orbot     891018351  8  5 c   k     b     b         1846   50  145 Qd Td
+Orbot     891018388  9  4 r   r     b     b         1941   80  260 Qd Qc
+Orbot     891018438  9  3 c   kf    -     -         2121   10    0 
+Orbot     891018474  9  2 Bk  kcc   kf    -         2111   30    0 
+Orbot     891018540  9  1 Bc  kc    kf    -         2081   20    0 
+Orbot     891018583  8  8 c   c     k     k         2061   40    0 4c 7h
+Orbot     891018619  8  7 c   c     c     k         2021   40    0 8s 9d
+Orbot     891018655  9  7 cc  c     k     k         1981   30    0 2h Td
+Orbot     891018704 10  7 cc  kf    -     -         1951   20    0 
+Orbot     891018795 10  6 c   k     b     -         1931   30   65 
+Orbot     891018836 10  5 cc  kc    kc    kc        1966   70    0 3d Kd
+Orbot     891018904  9  4 c   k     f     -         1896   10    0 
+Orbot     891018941  8  3 ccc kc    kc    kc        1886   90  500 8h Js
+Orbot     891019115 10  2 Bk  kc    kf    -         2296   20    0 
+Orbot     891019171 10  1 Bc  kf    -     -         2276   10    0 
+Orbot     891019234 10 10 cc  c     k     c         2266   80    0 Kd 9h
+Orbot     891019318 10  9 f   -     -     -         2186    0    0 
+Orbot     891019447 10  8 c   kc    c     kc        2186   60    0 4s 4d
+Orbot     891019590  8  5 c   cf    -     -         2126   20    0 
+Orbot     891019652 10  6 c   cc    kc    kf        2106   50    0 
+Orbot     891019714 10  5 cc  k     k     kc        2056   40  175 Jc 8c
+Orbot     891019801 10  4 cc  kf    -     -         2191   20    0 
+Orbot     891019881 10  3 r   b     bc    kc        2171   90    0 As Ac
+Orbot     891019926  9  2 Bk  kc    kc    kf        2081   40    0 
+Orbot     891020001  8  1 Bc  kc    kc    k         2041   40    0 8s 3d
+Orbot     891020068 10 10 c   c     f     -         2001   20    0 
+Orbot     891020126 10  9 c   c     c     f         1981   40    0 
+Orbot     891020190 10  8 c   f     -     -         1941   10    0 
+Orbot     891020268  9  6 c   c     c     k         1931   40   85 9c 4s
+Orbot     891020336  9  5 c   f     -     -         1976   10    0 
+Orbot     891020359  8  4 cc  kf    -     -         1966   20    0 
+Orbot     891020409 10  3 cc  b     b     b         1946   70  235 
+Orbot     891020459 10  2 Bk  kc    kf    -         2111   20    0 
+Orbot     891020519 10  1 Bc  kf    -     -         2091   10    0 
+Orbot     891020564  9  9 c   f     -     -         2081   10    0 
+Orbot     891020610 10  9 c   f     -     -         2071   10    0 
+Orbot     891020703 10  8 c   c     c     k         2061   50  190 9c 2c
+Orbot     891020773 10  7 c   kc    kc    kc        2201   60    0 Ad 4s
+Orbot     891020846 10  6 cc  kf    -     -         2141   20    0 
+Orbot     891020908 10  5 r   bc    kc    k         2121   90    0 Jd Jh
+Orbot     891021019  9  4 cc  kc    b     rc        2031  110    0 8c 9h
+Orbot     891021099  9  3 cc  kf    -     -         1921   20    0 
+Orbot     891021154  9  2 Bk  kf    -     -         1901   10    0 
+Orbot     891021199  8  1 Bcc kc    kc    kf        1891   50    0 
+Orbot     891021288 10 10 cc  f     -     -         1841   40    0 
+Orbot     891021340  9  9 cc  cc    c     c         1801   90  325 4h Th
+Orbot     891021407  9  8 r   k     k     c         2036   40   95 Jh Jc
+Orbot     891021445  9  7 cc  c     f     -         2091   30    0 
+Orbot     891021509 10  6 c   kc    kf    -         2061   20    0 
+Orbot     891021587 10  5 cc  k     f     -         2041   20    0 
+Orbot     891021651  9  3 c   kc    kf    -         2021   20    0 
+Orbot     891021716  9  3 c   kc    kc    kc        2001   60    0 2c Qc
+Orbot     891021781  8  1 Bc  kc    k     kc        1941   60    0 5h Kc
+Orbot     891021837  9  1 Bc  k     kc    kc        1881   50    0 7h Th
+Orbot     891021928  8  8 c   r     r     r         1831  110  320 Th 9d
+Orbot     891021994  7  6 c   f     -     -         2041   10    0 
+Orbot     891022075  5  4 c   k     f     -         2031   10    0 
+Orbot     891022112  5  3 c   k     c     k         2021   30    0 3d Ac
+Orbot     891022147  5  2 B   -     -     -         1991   10   15 
+Orbot     891022153  5  1 Bc  k     k     k         1996   10    0 2d 3h
+Orbot     891022178  6  6 c   k     k     b         1986   30   60 
+Orbot     891022230  8  7 c   c     c     c         2016   60    0 Qc 8c
+Orbot     891022270  8  6 c   cc    f     -         1956   30    0 
+Orbot     891022315  8  5 c   c     r     r         1926  100  310 Qd 8d
+Orbot     891022357  8  4 cc  kf    -     -         2136   20    0 
+Orbot     891022424  8  3 c   c     c     f         2116   40    0 
+Orbot     891022462  8  2 Bc  kc    kf    -         2076   30    0 
+Orbot     891022528  9  1 Bc  kf    -     -         2046   10    0 
+Orbot     891022569  9  9 r   -     -     -         2036   20   35 
+Orbot     891022583  9  8 c   k     cc    c         2051   80    0 Ad 7s
+Orbot     891022674  9  7 cc  kc    kr    b         1971   90  195 Th Jd
+Orbot     891022729 10  6 c   k     f     -         2076   10    0 
+Orbot     891022774  9  5 cc  cc    kc    c         2066  100    0 Qd Ac
+Orbot     891022879 10  4 c   k     c     c         1966   50   77 Th 9c
+Orbot     891022930 10  3 cc  kf    -     -         1993   20    0 
+Orbot     891022993  9  2 Bc  kc    kc    kf        1973   50    0 
+Orbot     891023048  8  1 Bc  k     k     k         1923   10    0 Jd 9d
+Orbot     891023087 10 10 c   c     k     f         1913   30    0 
+Orbot     891023131 10  9 c   c     k     c         1883   40    0 7c Kh
+Orbot     891023179  9  7 cc  f     -     -         1843   20    0 
+Orbot     891023246 10  7 ccc c     cf    -         1823   70    0 
+Orbot     891023402 10  7 c   cc    kcc   k         1753   90  385 Ad 7h
+Orbot     891023512 10  5 rc  kc    kc    f         2048   60    0 
+Orbot     891023668 10  4 ccc kf    -     -         1988   40    0 
+Orbot     891023794 10  4 cc  cc    kc    kc        1948   80  270 6d 7c
+Orbot     891023916  9  2 Bk  kf    -     -         2138   10    0 
+Orbot     891024012  8  1 Bc  kc    krc   kc        2128  110  450 6s 2s
+Orbot     891024087 10 10 c   k     k     f         2468   10    0 
+Orbot     891024170 10  9 c   k     k     b         2458   30   60 
+Orbot     891024263 10  8 c   k     kc    f         2488   30    0 
+Orbot     891024350  9  7 c   kf    -     -         2458   10    0 
+Orbot     891024440  8  5 c   kc    kf    -         2448   20    0 
+Orbot     891024513 10  5 c   kc    kf    -         2428   20    0 
+Orbot     891024593  9  4 c   k     f     -         2408   10    0 
+Orbot     891024680  8  3 c   k     kf    -         2398   10    0 
+Orbot     891024770 10  2 Bk  k     k     k         2388   10   30 Qs 9c
+Orbot     891024861  9  1 Bcc kc    kc    kf        2408   80    0 
+Orbot     891024974  9  9 c   f     -     -         2328   10    0 
+Orbot     891025034  9  8 c   c     kf    -         2318   20    0 
+Orbot     891025125  8  6 cc  c     c     c         2298   70  180 Jc Qd
+Orbot     891025183  9  6 cc  kc    kc    kc        2408  110    0 Kc Jd
+Orbot     891025288  9  5 cc  k     kf    -         2298   30    0 
+Orbot     891025385  8  3 c   k     kc    kc        2268   50    0 Qc 7d
+Orbot     891025450 10  4 cc  kf    -     -         2218   20    0 
+Orbot     891025548  9  2 Bk  k     k     b         2198   30  100 5h 9c
+Orbot     891025621  8  1 Bc  kc    kc    kf        2268   40    0 
+Orbot     891025708  8  8 c   k     k     k         2228   10   50 7d 4d
+Orbot     891025772  8  7 c   c     f     Q         2268   30    0 
+Orbot     891025923  8  6 c   k     k     f         2238   10    0 
+Orbot     891025971  8  6 c   k     k     k         2228   10   25 5d 7d
+Orbot     891026001  7  4 c   k     k     k         2243   10    0 9s 5c
+Orbot     891026033  8  3 c   r     r     b         2233   90  380 Ah Qh
+Orbot     891026070  9  2 Bcc cc    kc    kc        2523   90    0 Qs Jh
+Orbot     891026152 10  1 Bc  k     kc    k         2433   30    0 5s Th
+Orbot     891026221 10 10 c   c     c     f         2403   40    0 
+Orbot     891026283  8  7 c   c     k     k         2363   20    0 4h 4d
+Orbot     891026344  9  7 cc  cc    kc    kf        2343   60    0 
+Orbot     891026427  9  6 cc  f     -     -         2283   20    0 
+Orbot     891026511  9  5 c   k     b     k         2263   30  120 Tc 5d
+Orbot     891026578  9  4 c   k     k     b         2353   30   90 Td Kh
+Orbot     891026645 10  3 cc  cf    -     -         2413   30    0 
+Orbot     891026764 10  2 Bk  kc    b     bc        2383   90    0 Th 3c
+Orbot     891026840 10  1 Bc  kf    -     -         2293   10    0 
+Orbot     891026927 10 10 c   c     b     b         2283   60  175 Qc Ac
+Orbot     891026979 10  9 c   c     c     c         2398   80    0 6h 5d
+Orbot     891027069 10  8 c   k     c     k         2318   30    0 3d 4s
+Orbot     891027184  9  7 cc  k     kc    c         2288   60    0 Ad Td
+Orbot     891027305  9  6 cc  f     -     -         2228   20    0 
+Orbot     891027378 10  5 c   k     k     b         2208   30  100 3h 8s
+Orbot     891027466 10  4 c   k     k     k         2278   10    0 Td 2h
+Orbot     891027569  8  3 c   kc    k     bc        2268   70    0 8h Ad
+Orbot     891027647 10  2 Bk  f     -     -         2198   10    0 
+Orbot     891027703 10  1 Bc  kf    -     -         2188   20    0 
+Orbot     891027774 10 10 c   c     Q     -         2168   50    0 
+Orbot     891081965  7  7 c   b     b     b         2118   60  125 Ts 7h
+Orbot     891082017  7  6 c   f     -     -         2183   10    0 
+Orbot     891082048  6  5 cc  f     -     -         2173   20    0 
+Orbot     891082104  6  4 c   c     c     c         2153   70    0 9h 8s
+Orbot     891082145  6  3 f   -     -     -         2083    0    0 
+Orbot     891082152  6  2 Bk  f     -     -         2083   10    0 
+Orbot     891082189  6  1 Bc  kf    -     -         2073   10    0 
+Orbot     891082218  6  6 c   k     f     -         2063   10    0 
+Orbot     891082251  6  5 c   kf    -     -         2053   10    0 
+Orbot     891082284  6  4 c   c     c     c         2043   60    0 8s 8d
+Orbot     891082338  6  3 cc  k     k     f         1983   20    0 
+Orbot     891082390  6  2 Bk  c     f     -         1963   20    0 
+Orbot     891082446  5  1 Bc  kf    -     -         1943   10    0 
+Orbot     891082475  5  5 c   k     f     -         1933   10    0 
+Orbot     891082495  3  3 c   k     rr    k         1923   90   92 7s 9s
+Orbot     891082537  3  2 Bc  f     -     -         1925   20    0 
+Orbot     891082570  4  1 Bcc kc    kc    bc        1905   90  180 3c 8c
+Orbot     891082658  4  4 c   c     k     k         1995   20    0 Js 8h
+Orbot     891082700  4  3 c   k     c     b         1975   50   90 
+Orbot     891082765  4  2 Bk  kc    kc    k         2015   40    0 5s As
+Orbot     891082820  4  1 Br  k     k     k         1975   20   40 8d Td
+Orbot     891082854  4  4 c   k     k     bc        1995   50  120 5s Ac
+Orbot     891082903  4  3 c   k     f     -         2065   10    0 
+Orbot     891082947  4  2 Bk  kf    -     -         2055   10    0 
+Orbot     891082998  4  1 Bc  kc    kc    kf        2045   40    0 
+Orbot     891083054  4  4 cc  c     c     k         2005   50  150 Jc 8s
+Orbot     891083091  3  2 Bc  f     -     -         2105   20    0 
+Orbot     891083114  3  1 Bc  kc    kc    kc        2085   60  160 As Tc
+Orbot     891083159  4  4 c   c     c     f         2185   40    0 
+Orbot     891083192  4  3 cc  k     k     f         2145   20    0 
+Orbot     891083228  4  2 Bk  c     r     c         2125   80    0 Ac Th
+Orbot     891083261  4  1 Bc  kf    -     -         2045   20    0 
+Orbot     891083285  4  4 c   k     f     -         2025   10    0 
+Orbot     891083308  4  3 c   k     b     -         2015   30   45 
+Orbot     891083351  5  2 Bc  brc   kc    kc        2030  100    0 9s 4d
+Orbot     891083399  5  1 Brr b     b     b         1930   90  160 
+Orbot     891083448  4  4 c   c     c     r         2000   90  195 3s Qs
+Orbot     891083510  4  4 cc  f     -     -         2105   30    0 
+Orbot     891083546  4  3 ccc f     -     -         2075   40    0 
+Orbot     891083608  4  2 Bc  kc    kf    -         2035   30    0 
+Orbot     891083637  4  1 Bc  kc    k     k         2005   20   40 Ts Ks
+Orbot     891083670  4  4 cc  f     -     -         2025   20    0 
+Orbot     891083721  4  3 cc  c     c     f         2005   50    0 
+Orbot     891083769  4  2 Bc  kc    kc    kf        1955   50    0 
+Orbot     891083802  4  1 Bc  k     k     kf        1905   10    0 
+Orbot     891083860  4  4 cc  c     c     rc        1895  130    0 3d 7h
+Orbot     891083909  5  3 c   k     kc    kf        1765   30    0 
+Orbot     891083979  6  2 Bc  kc    kc    k         1735   50  105 8s Kh
+Orbot     891084019  7  1 Bc  kc    kc    kc        1790   80  270 Jc 6h
+Orbot     891084063  7  7 cc  f     -     -         1980   20    0 
+Orbot     891084109  7  5 Q   -     -     -         1960    0    0 
+Orbot     891084205  7  3 cc  kc    kc    c         1960   90  260 Jd Ad
+Orbot     891084260  7  2 Bk  c     f     -         2130   20    0 
+Orbot     891084303  6  1 Bcc kc    kc    kc        2110   70    0 5s 8h
+Orbot     891084351  6  6 c   c     c     c         2040   70    0 3c Qs
+Orbot     891084374  6  5 c   c     k     k         1970   20    0 5d Ah
+Orbot     891084396  6  4 c   br    b     b         1950   80  215 9d 8s
+Orbot     891084444  6  3 c   kc    b     b         2085   60  130 
+Orbot     891084485  6  2 Bk  k     kf    -         2155   10    0 
+Orbot     891084507  6  1 Bc  k     k     k         2145   10   20 Qh 2h
+Orbot     891084523  6  6 cc  c     f     -         2155   30    0 
+Orbot     891084556  6  5 c   c     c     f         2125   50    0 
+Orbot     891084594  7  4 c   kc    k     kf        2075   20    0 
+Orbot     891084640  8  4 c   kc    b     b         2055   60  190 
+Orbot     891084679  8  3 cc  kc    kc    kf        2185   50    0 
+Orbot     891084718  8  2 Bc  kf    -     -         2135   20    0 
+Orbot     891084748  8  1 Bc  kc    kc    kc        2115   70    0 8s Jc
+Orbot     891084793  8  8 c   c     cc    f         2045   70    0 
+Orbot     891084850  8  7 r   br    b     b         1975   90  195 Ks Kh
+Orbot     891084875  8  6 cf  -     -     -         2080   10    0 
+Orbot     891084920  8  5 cc  cc    f     -         2070   40    0 
+Orbot     891084981  8  4 c   k     f     -         2030   10    0 
+Orbot     891085027  8  3 cc  kf    -     -         2020   30    0 
+Orbot     891085116  8  2 Bc  kc    kc    k         1990   50    0 5d 2c
+Orbot     891085192  8  1 Bc  kc    kc    kf        1940   40    0 
+Orbot     891085233  9  9 c   f     -     -         1900   10    0 
+Orbot     891085253  9  8 c   c     k     c         1890   50    0 4d Ks
+Orbot     891085321  9  7 c   k     kc    kf        1840   30    0 
+Orbot     891085384  7  5 c   f     -     -         1810   10    0 
+Orbot     891085399  7  4 c   f     -     -         1800   10    0 
+Orbot     891085443  7  3 cc  kc    br    kc        1790  140  208 Qs As
+Orbot     891085505  7  2 Bk  k     k     k         1858   10   35 7h Ts
+Orbot     891085536  8  1 Bc  kc    kc    k         1883   40   90 Jd Js
+Orbot     891085598  8  8 c   f     -     -         1933   10    0 
+Orbot     891085620  8  7 c   c     r     b         1923   80    0 Qd Qc
+Orbot     891085658  9  7 c   cc    b     b         1843   90  255 4h Kh
+Orbot     891085715  8  5 cc  f     -     -         2008   40    0 
+Orbot     891085780  9  5 c   ccc   kc    k         1968   80    0 3s 2d
+Orbot     891085851  9  4 ccc c     f     -         1888   50    0 
+Orbot     891085942 10  4 cc  cf    -     -         1838   40    0 
+Orbot     891086027  9  3 cc  k     k     kf        1798   20    0 
+Orbot     891086104 10  2 Bcc kc    kc    kf        1778   80    0 
+Orbot     891086321  8  1 Bc  k     k     k         1698   20    0 8c 7d
+Orbot     891086407  6  5 c   k     b     b         1678   50  120 Qh 9s
+Orbot     891086444  7  5 c   kc    kf    -         1748   20    0 
+Orbot     891086480  6  3 c   c     c     k         1728   40   90 4h 2s
+Orbot     891086500  6  2 Bk  kf    -     -         1778   10    0 
+Orbot     891086555  6  1 Bc  kc    kc    k         1768   40  110 3h Ad
+Orbot     891086598  8  8 cc  c     c     c         1838   70    0 9c Jc
+Orbot     891086640  8  7 cc  c     kc    kc        1768   70  225 8h 2h
+Orbot     891086705  8  6 c   f     -     -         1923   20    0 
+Orbot     891086722  8  5 c   c     c     k         1903   40   95 8h Ah
+Orbot     891086748  8  4 c   f     -     -         1958   10    0 
+Orbot     891086775  9  3 cc  bc    kc    kc        1948   80  185 8h 8s
+Orbot     891086810  9  2 Bc  kcc   kc    kc        2053  120    0 Js 8d
+Orbot     891086903  9  1 Bc  kf    -     -         1933   30    0 
+Orbot     891086958 10 10 cc  f     -     -         1903   40    0 
+Orbot     891087038  9  9 c   k     k     f         1863   10    0 
+Orbot     891087097  9  8 c   c     f     -         1853   30    0 
+Orbot     891087178  9  7 c   k     f     -         1823   20    0 
+Orbot     891087215  9  5 cc  kc    c     c         1803   80  215 5c 4c
+Orbot     891087257  9  4 c   k     f     -         1938   10    0 
+Orbot     891087290  9  3 c   k     b     br        1928   90  190 
+Orbot     891087343  9  2 Bc  k     kf    -         2028   20    0 
+Orbot     891087416  9  1 Bcc k     kc    k         2008   40    0 Js Kh
+Orbot     891087454  8  8 c   c     r     b         1968   80  175 8c 2h
+Orbot     891087507 10  9 c   kc    kc    kf        2063   40    0 
+Orbot     891087564 10  8 c   c     k     b         2023   50  155 9c Qc
+Orbot     891087606  9  6 cc  b     brc   c         2128  130    0 3c 8d
+Orbot     891087655  9  5 cc  k     k     f         1998   20    0 
+Orbot     891087706  9  4 c   f     -     -         1978   20    0 
+Orbot     891087749  9  3 cc  r     brc   kc        1958  140    0 6d Jd
+Orbot     891087818 10  2 Bc  k     k     b         1818   40  105 
+Orbot     891087860  9  1 Bc  kc    k     kc        1883   70    0 6c Ac
+Orbot     891087938  9  9 c   k     f     -         1813   10    0 
+Orbot     891087984  9  8 f   -     -     -         1803    0    0 
+Orbot     891088044  9  7 c   c     f     -         1803   30    0 
+Orbot     891088106  9  6 c   k     c     c         1773   50  125 9d 9s
+Orbot     891088178  9  5 c   k     k     r         1848   50   85 
+Orbot     891088220 10  4 cc  c     f     -         1883   30    0 
+Orbot     891088258 10  3 c   f     -     -         1853   10    0 
+Orbot     891088317 10  2 Bk  kc    kc    kc        1843   60    0 6s Th
+Orbot     891088408 10  1 Bc  kf    -     -         1783   10    0 
+Orbot     891088469  9  9 c   c     c     f         1773   50    0 
+Orbot     891088528  9  8 c   Q     -     -         1723   10    0 
+Orbot     891088638  9  6 c   c     f     -         1713   20    0 
+Orbot     891088664  9  5 f   -     -     -         1693    0    0 
+Orbot     891088707  9  4 cc  c     c     c         1693   70  255 4d 8h
+Orbot     891088769  9  3 cc  c     c     c         1878   70    0 9s 4c
+Orbot     891088859  9  2 Bc  cc    kf    -         1808   40    0 
+Orbot     891088927  9  1 Bc  kcQ   Q     -         1768   30    0 
+Orbot     891089493 10  3 cf  -     -     -         1738   10    0 
+Orbot     891089549  8  2 BKQ -     -     -         1728   10    0 
+Orbot     891089779 10  6 c   f     -     -         1718   10    0 
+Orbot     891089821  9  5 c   kc    b     -         1708   40   75 
+Orbot     891089865  9  4 c   k     k     b         1743   30    0 5c 2s
+Orbot     891089900  8  3 c   k     c     f         1713   30    0 
+Orbot     891089949 10  2 Bk  cc    k     kc        1683   60    0 7c Ad
+Orbot     891090029 10  1 Bc  kc    kf    -         1623   20    0 
+Orbot     891090094 10 10 f   -     -     -         1603    0    0 
+Orbot     891090157  9  8 c   k     c     f         1603   60    0 
+Orbot     891090199  9  8 c   k     k     k         1543   10    0 4c Qd
+Orbot     891090235 10  7 ccQ -     -     Q         1533   30    0 
+Orbot     891289513 10  6 cc  kf    -     -         1503   20    0 
+Orbot     891289556  7  2 cc  kc    kc    kc        1483   90    0 7h 2h
+Orbot     891289659  7  2 Bc  kc    kf    -         1393   30    0 
+Orbot     891289734  6  1 Bc  kc    kc    kc        1363   60  180 9s Kc
+Orbot     891289784  7  7 c   k     f     -         1483   20    0 
+Orbot     891289857  7  6 c   c     c     b         1463   70  185 7d Ah
+Orbot     891289927  7  6 c   k     k     f         1578   10    0 
+Orbot     891289979  6  4 c   k     kf    -         1568   10    0 
+Orbot     891290025  7  3 Q   -     -     -         1558    0    0 
+Orbot     891291217 10  7 ccc kf    -     -         1558   40    0 
+Orbot     891291312 10  6 ccc kc    kc    kf        1518   80    0 
+Orbot     891291429 10  5 c   k     c     k         1438   30    0 Th 9s
+Orbot     891291469 10  4 c   kc    kc    kf        1408   70    0 
+Orbot     891291542 10  3 cc  kc    k     kf        1338   40    0 
+Orbot     891291668  9  2 Bc  k     k     f         1298   20    0 
+Orbot     891291784  9  1 Bc  k     kf    -         1278   10    0 
+Orbot     891291825 10 10 c   f     -     -         1268   10    0 
+Orbot     891291906 10  9 c   f     -     -         1258   20    0 
+Orbot     891291950 10  8 c   k     c     c         1238   70    0 5d Kh
+Orbot     891292040 10  7 c   c     c     c         1168   60    0 Kh Ad
+Orbot     891292126 10  6 c   cf    -     -         1108   20    0 
+Orbot     891292188 10  5 c   k     f     -         1088   20    0 
+Orbot     891292278 10  4 c   k     f     -         1068   20    0 
+Orbot     891292348 10  4 cc  k     kc    f         1048   40    0 
+Orbot     891292490  8  2 Bk  kc    kc    kc        1008   60  175 Ah Qs
+Orbot     891292563  9  1 Bc  k     kr    b         1123   70  150 
+Orbot     891292605  9  9 c   k     f     -         1203   10    0 
+Orbot     891292652  9  8 c   c     cf    -         1193   50    0 
+Orbot     891292695  9  7 r   c     c     r         1143   90  305 Qh Qc
+Orbot     891292767  8  6 cc  k     kf    -         1358   20    0 
+Orbot     891292814 10  5 cc  cc    k     c         1338  100    0 Ks Kc
+Orbot     891292886  9  4 cc  kf    -     -         1238   20    0 
+Orbot     891292955  9  2 Bc  kf    -     -         1218   20    0 
+Orbot     891293041 10  1 Bc  kcc   kc    kc        1198   90    0 Qh Ah
+Orbot     891293155 10 10 c   c     ccc   k         1108  110    0 9h As
+Orbot     891293218 10  9 cc  ccc   cc    cc         998  190    0 Kd 6h
+Orbot     891293318  9  7 c   f     -     -          808   20    0 
+Orbot     891293382 10  7 c   k     kc    k          788   30    0 Jd 8d
+Orbot     891293430 10  6 c   kc    kc    kc         758   60    0 9s 6s
+Orbot     891293472 10  5 c   kr    k     b          698   50  145 4s Qc
+Orbot     891293521 10  4 cc  kc    kc    kc         793   70    0 9s 3h
+Orbot     891293596 10  3 cc  kc    kc    kc         723   70    0 Ts Ks
+Orbot     891293664 10  2 Bc  kc    kc    kc         653   90    0 2c Kc
+Orbot     891293744 10  1 Bcc kc    kf    -          563   60    0 
+Orbot     891293822 10 10 c   k     k     f          503   10    0 
+Orbot     891293870 10  9 c   c     c     c          493   60    0 Ad 7h
+Orbot     891293953 10  8 c   cc    c     c          433   90    0 7s Jd
+Orbot     891294071  9  7 c   kc    brc   brc        343  200  383 8h Js
+Orbot     891294190  9  6 cc  f     -     -          526   20    0 
+Orbot     891294293  9  5 c   c     c     k          506   40    0 As 5s
+Orbot     891294356  8  3 c   k     kc    kc         466   50  140 Qh Kc
+Orbot     891294457  8  2 Bk  kf    -     -          556   10    0 
+Orbot     891294505  8  1 BQ  -     -     -          546    5    0 
+Orbot     891378235  9  7 c   c     c     c          541   60  155 Ac 2d
+Orbot     891378289  8  5 c   c     cc    k          636   80    0 8d Ah
+Orbot     891378385  7  3 c   c     c     c          556   60  120 5c 9h
+Orbot     891378426  7  3 cc  kc    kc    k          616   60    0 6c 9h
+Orbot     891378471  8  2 Bk  kc    kf    -          556   20    0 
+Orbot     891378520  8  1 Bc  kc    kc    k          536   40    0 Kh 6c
+Orbot     891378564  8  8 c   k     c     f          496   30    0 
+Orbot     891378592  8  7 c   c     c     c          466   70  225 7h Ad
+Orbot     891378642  8  6 cc  c     c     c          621  110    0 6s 6h
+Orbot     891378694 10  7 c   kc    k     f          511   30    0 
+Orbot     891378800 10  6 cc  kc    kc    r          481  120  475 Th 7h
+Orbot     891378867  9  5 c   c     c     c          836   70    0 9s Kc
+Orbot     891378916  9  4 c   cc    k     k          766   40  160 Tc 9c
+Orbot     891378968  9  3 ccc kc    k     kf         886   50    0 
+Orbot     891379046  8  2 Bk  kc    kc    kf         836   40    0 
+Orbot     891379110  9  1 Bc  kc    kc    kc         796   60    0 4c Jd
+Orbot     891379195  7  7 rc  k     c     f          736   50    0 
+Orbot     891379268  6  5 c   c     r     b          686   80  210 9c 3s
+Orbot     891379326  6  4 c   k     c     r          816   70  155 
+Orbot     891379370  7  3 c   c     c     f          901   40    0 
+Orbot     891379417  7  2 Bk  c     f     -          861   20    0 
+Orbot     891379464  7  1 Bc  k     kf    -          841   20    0 
+Orbot     891379520  8  8 c   k     f     -          821   10    0 
+Orbot     891379562  8  7 c   c     c     f          811   40    0 
+Orbot     891379603  8  6 c   cf    -     -          771   30    0 
+Orbot     891379662  8  6 c   k     c     c          741   50  140 Qs 7d
+Orbot     891379711  9  5 c   cc    c     f          831   50    0 
+Orbot     891379812  9  4 rc  c     c     b          781   80  245 Tc Kh
+Orbot     891379891  9  3 c   kc    kc    k          946   40    0 Qd 3d
+Orbot     891379975  9  2 Bc  kc    kc    kf         906   70    0 
+Orbot     891380081  8  1 Bc  kc    kr    kr         836  100  310 4s Th
+Orbot     891380157  8  8 c   cf    -     -         1046   20    0 
+Orbot     891380221  8  7 c   c     c     c         1026   60    0 5d 4d
+Orbot     891380282  9  6 c   f     -     -          966   20    0 
+Orbot     891380348  9  5 c   c     c     c          946   70  225 Js Jd
+Orbot     891380398 10  4 cc  f     -     -         1101   60    0 
+Orbot     891380515 10  3 cc  c     cf    -         1041   60    0 
+Orbot     891380599  8  2 Bk  kc    kf    -          981   20    0 
+Orbot     891380727  6  1 Bc  kc    kr    b          961  100  300 4d 3h
+Orbot     891380800  9  9 c   cc    c     c         1161   90  355 Qh Js
+Orbot     891380876 10  8 ccc kc    c     cc        1426  120    0 Kd 7d
+Orbot     891381004  8  5 c   c     k     c         1306   50  145 7d 3c
+Orbot     891381058  8  4 c   f     -     -         1401   20    0 
+Orbot     891381114  8  3 cc  c     c     r         1381   90  240 6d 5s
+Orbot     891381170  8  2 Bk  kc    kc    f         1531   40    0 
+Orbot     891381214  8  1 Bcc kc    kc    kf        1491   80    0 
+Orbot     891381301  8  8 c   cc    cc    c         1411  160    0 Kc Ac
+Orbot     891381376  8  7 c   c     r     k         1251   70  155 Ah 8c
+Orbot     891381415  7  5 cc  cc    c     k         1336   80    0 4h 7h
+Orbot     891381515  6  4 ccc c     c     f         1256   70    0 
+Orbot     891381572  7  3 c   c     c     f         1186   40    0 
+Orbot     891381603  7  2 Bk  kc    kc    kf        1146   40    0 
+Orbot     891381654  6  1 Bc  k     kc    kf        1106   30    0 
+Orbot     891381702  6  6 c   c     c     b         1076   60  125 8h Ad
+Orbot     891381721  5  4 c   k     f     -         1141   20    0 
+Orbot     891381740  4  3 c   kr    k     br        1121   90    0 Qh 9h
+Orbot     891381781  3  2 Bc  k     c     c         1031   60  130 9d 8h
+Orbot     891381811  3  1 Bc  kr    k     br        1101  100  220 Ac 7h
+Orbot     891381843  3  3 c   k     c     c         1221   50  105 2d 5c
+Orbot     891381878  3  2 Bc  cc    kc    kc        1276   80  220 8s 2s
+Orbot     891381954  3  1 Bc  k     k     k         1416   10   20 8c Js
+Orbot     891381982  3  3 c   k     k     c         1426   30   32 Kc 3s
+Orbot     891382004  3  2 Bk  c     c     k         1428   40    0 Jd 2d
+Orbot     891382031  3  1 Bc  k     kr    b         1388   70  150 Jh 4h
+Orbot     891382077  4  4 cc  k     k     k         1468   40    0 4d Qd
+Orbot     891382114  4  3 c   k     c     f         1428   30    0 
+Orbot     891382155  4  2 Bc  kr    k     kr        1398   90    0 4d Kh
+Orbot     891382200  4  1 Bc  k     k     bc        1308   50  100 Js 8c
+Orbot     891382231  5  5 c   k     k     c         1358   30   80 Jd 5c
+Orbot     891382261  6  5 cc  f     -     -         1408   20    0 
+Orbot     891382307  8  5 cc  c     c     c         1388   90  310 Tc 4d
+Orbot     891382343  8  4 c   c     c     c         1608   70    0 9d 7s
+Orbot     891382382  8  3 cc  k     k     k         1538   30   95 As 9d
+Orbot     891382426  8  2 Bcc Q     -     -         1603   40    0 
+Orbot     891382812  9  6 cc  cc    c     c         1563  100  310 Js 5c
+Orbot     891382872 10  6 cc  cc    cc    k         1773  160  850 Ad 9c
+Orbot     891382954 10  5 cc  ccc   ccc   f         2463  150    0 
+Orbot     891383056  9  4 cc  kcc   kc    kf        2313   80    0 
+Orbot     891383163 10  3 ccc kf    -     -         2233   40    0 
+Orbot     891383293 10  2 Bc  kc    kc    kr        2193   90  173 2h Kc
+Orbot     891383429 10  1 Bc  kc    kc    kc        2276   70    0 Kc 4d
+Orbot     891383505 10 10 cc  c     cc    f         2206  100    0 
+Orbot     891383582 10  9 c   c     c     k         2106   50  160 Jh Js
+Orbot     891383647 10  8 cc  c     f     -         2216   30    0 
+Orbot     891383720 10  7 c   kc    c     k         2186   50  150 Kd Qd
+Orbot     891383784 10  6 cc  cc    k     cc        2286  100  480 Kc Th
+Orbot     891383898 10  5 cc  kcc   kf    -         2666   60    0 
+Orbot     891384059  9  5 cc  f     -     -         2606   20    0 
+Orbot     891384146  9  3 cc  kcc   kc    kc        2586  120    0 2s Td
+Orbot     891384206 10  2 Bk  k     kc    kr        2466   70    0 Jc 5c
+Orbot     891384280 10  1 Bc  k     k     b         2396   40    0 8s Th
+Orbot     891384339 10 10 c   c     f     -         2356   30    0 
+Orbot     891384369 10  9 cc  f     -     -         2326   40    0 
+Orbot     891384434 10  8 f   -     -     -         2286    0    0 
+Orbot     891384490  8  6 cc  c     c     c         2286   70  165 Kh Qc
+Orbot     891384539  8  4 cc  k     k     k         2381   20    0 3c As
+Orbot     891384596  9  3 ccc cf    -     -         2361   50    0 
+Orbot     891384676 10  2 Bcc kc    kc    kf        2311   70    0 
+Orbot     891384762 10  1 Bcc kc    kf    -         2241   50    0 
+Orbot     891384870  9  9 cc  c     c     k         2191   70  205 Ks Qh
+Orbot     891384928  9  8 c   c     c     f         2326   50    0 
+Orbot     891384961  9  7 cc  ccc   ccc   cc        2276  200    0 Ks Ts
+Orbot     891385014  9  6 c   c     k     b         2076   40  115 As Qd
+Orbot     891385057  9  5 c   kc    kf    -         2151   20    0 
+Orbot     891385115  9  4 cc  kc    kc    kc        2131   70  175 Qh 6c
+Orbot     891385185  9  3 cc  kc    krr   krc       2236  170  425 Jd Ks
+Orbot     891385336 10  2 BKQ -     -     -         2491   10    0 

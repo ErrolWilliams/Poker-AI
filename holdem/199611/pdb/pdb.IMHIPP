@@ -1,0 +1,871 @@
+IMHIPP    847444970  7  4 f   -     -     -         1180    0    0 
+IMHIPP    847445001  8  3 f   -     -     -         1180    0    0 
+IMHIPP    847445079  9  2 Bc  kf    -     -         1180   20    0 
+IMHIPP    847445138  9  1 Bc  k     kf    -         1160   10    0 
+IMHIPP    847445213  8  8 cc  f     -     Q         1150   20    0 
+IMHIPP    847609562 11  4 cc  r     bc    kc        1130  100  300 5s 4s
+IMHIPP    847609703 12  3 ccc bc    kcc   c         1330  170  355 Js Kd
+IMHIPP    847609915 12  2 BfQ -     -     -         1515   10    0 
+IMHIPP    847612015  4  2 Bk  k     k     k         1505   10   25 Qd 5h
+IMHIPP    847612068  5  1 Bf  -     -     -         1520    5    0 
+IMHIPP    847612103  4  4 c   f     -     -         1515   10    0 
+IMHIPP    847612153  4  4 cc  f     -     -         1505   20    0 
+IMHIPP    847612201  4  3 rc  b     b     k         1485   60    0 3d 9d
+IMHIPP    847612361  4  2 Bk  kf    -     -         1425   10    0 
+IMHIPP    847612510  3  1 Bf  -     -     -         1415    5    0 
+IMHIPP    847612561  4  4 c   b     bc    c         1410   80    0 Ks 9s
+IMHIPP    847612685  4  3 f   -     -     -         1330    0    0 
+IMHIPP    847612696  4  2 Bk  br    br    k         1330  100  205 5s Qc
+IMHIPP    847612778  4  1 Bf  -     -     -         1435    5    0 
+IMHIPP    847612878  4  4 f   -     -     -         1430    0    0 
+IMHIPP    847612951  4  3 f   -     -     -         1430    0    0 
+IMHIPP    847613002  4  2 Bf  -     -     -         1430   10    0 
+IMHIPP    847613073  4  1 Bcc kf    -     -         1420   20    0 
+IMHIPP    847613103  4  4 f   -     -     -         1400    0    0 
+IMHIPP    847613130  4  3 cc  bc    kc    kf        1400   60    0 
+IMHIPP    847613191  4  2 Bf  -     -     -         1340   10    0 
+IMHIPP    847613237  4  1 Bcc k     kc    kc        1330   80    0 Th Tc
+IMHIPP    847613332  4  4 c   b     -     -         1250   20   45 
+IMHIPP    847613416  3  3 f   -     Q     -         1275    0    0 
+IMHIPP    847654264  4  4 f   -     -     -         1275    0    0 
+IMHIPP    847654307  5  3 cf  -     -     -         1275   10    0 
+IMHIPP    847654369  5  2 Bf  -     -     -         1265   10    0 
+IMHIPP    847654400  5  1 Bf  -     -     -         1255    5    0 
+IMHIPP    847654433  5  5 f   -     -     -         1250    0    0 
+IMHIPP    847654445  5  4 f   -     -     -         1250    0    0 
+IMHIPP    847654492  5  3 cc  f     -     -         1250   25    0 
+IMHIPP    847654525  5  2 Bf  -     -     -         1225   10    0 
+IMHIPP    847654554  6  1 Bf  -     -     -         1215    5    0 
+IMHIPP    847654622  7  7 f   -     -     -         1210    0    0 
+IMHIPP    847654680  8  6 f   -     -     -         1210    0    0 
+IMHIPP    847654733  8  5 cc  b     c     r         1210  100  340 Js Qs
+IMHIPP    847654824  7  3 f   -     -     -         1450    0    0 
+IMHIPP    847654867  7  2 Bf  -     -     -         1450   10    0 
+IMHIPP    847654936  7  1 Bf  -     Q     -         1440    5    0 
+IMHIPP    847669111  6  6 c   b     b     b         1435   60  130 
+IMHIPP    847669183  6  5 f   -     -     -         1505    0    0 
+IMHIPP    847669231  6  4 c   c     c     b         1505   60    0 4s Qs
+IMHIPP    847669311  6  3 c   k     k     k         1445   10    0 5h Qh
+IMHIPP    847669359  9  2 Bk  k     c     k         1435   30  100 3h 3c
+IMHIPP    847669415  8  1 Bcc kc    kf    -         1505   40    0 
+IMHIPP    847669531  8  8 f   -     -     -         1465    0    0 
+IMHIPP    847669622  8  7 c   f     -     -         1465   10    0 
+IMHIPP    847669707  8  6 f   -     -     -         1455    0    0 
+IMHIPP    847669814  8  5 f   -     -     -         1455    0    0 
+IMHIPP    847669917  8  4 c   f     -     -         1455   10    0 
+IMHIPP    847670040  8  3 c   b     k     k         1445   20   90 Js 9d
+IMHIPP    847670156  7  2 Bf  -     -     -         1515   10    0 
+IMHIPP    847670201  7  1 Bc  k     k     k         1505   10    0 Th Qs
+IMHIPP    847670285  7  7 f   -     -     -         1495    0    0 
+IMHIPP    847670331  7  6 f   -     -     -         1495    0    0 
+IMHIPP    847670387  7  5 f   -     -     -         1495    0    0 
+IMHIPP    847670489  8  4 cc  f     -     -         1495   20    0 
+IMHIPP    847670539  8  3 c   k     k     k         1475   10    0 4h 4c
+IMHIPP    847670615 10  2 Bf  -     -     -         1465   10    0 
+IMHIPP    847670720 11  1 Bf  -     -     -         1455    5    0 
+IMHIPP    847670817 11 11 f   -     -     -         1450    0    0 
+IMHIPP    847670875 11 10 f   -     -     -         1450    0    0 
+IMHIPP    847671033 10  8 cc  cf    -     -         1450   30    0 
+IMHIPP    847671130 10  7 cc  c     f     -         1420   30    0 
+IMHIPP    847671206 11  6 f   -     -     -         1390    0    0 
+IMHIPP    847671324 10  5 f   -     -     -         1390    0    0 
+IMHIPP    847671423  9  4 f   -     -     -         1390    0    0 
+IMHIPP    847671484  8  2 f   -     -     -         1390    0    0 
+IMHIPP    847671658  8  2 Bf  -     -     -         1390   10    0 
+IMHIPP    847671760 10  1 Bf  -     -     -         1380    5    0 
+IMHIPP    847671884 10 10 f   -     -     -         1375    0    0 
+IMHIPP    847671982  9  9 c   rc    b     b         1375   80  135 4d Ad
+IMHIPP    847672170  9  8 cc  k     f     -         1430   20    0 
+IMHIPP    847672259  9  7 f   -     -     -         1410    0    0 
+IMHIPP    847672587  6  3 Q   -     -     -         1410    0    0 
+IMHIPP    847691261  5  2 Bc  k     k     kf        1410   30    0 
+IMHIPP    847691318  6  1 Bc  k     kf    -         1380   10    0 
+IMHIPP    847691370  6  6 f   -     -     -         1370    0    0 
+IMHIPP    847691417  6  5 f   -     -     -         1370    0    0 
+IMHIPP    847691501  7  5 f   -     -     -         1370    0    0 
+IMHIPP    847691568  7  4 cc  kf    -     -         1370   20    0 
+IMHIPP    847691696  7  3 f   -     -     -         1350    0    0 
+IMHIPP    847691746  6  2 Bk  kf    -     -         1350   10    0 
+IMHIPP    847691824  6  1 Bc  b     kf    -         1340   30    0 
+IMHIPP    847691887  5  5 c   brc   b     k         1310   70    0 As 2h
+IMHIPP    847691954  5  4 f   -     -     -         1240    0    0 
+IMHIPP    847691995  4  3 f   -     -     -         1240    0    0 
+IMHIPP    847692023  5  2 Bk  k     k     r         1240   50   80 
+IMHIPP    847692084  4  1 Bf  -     -     -         1270    5    0 
+IMHIPP    847692122  4  4 f   -     -     -         1265    0    0 
+IMHIPP    847692170  4  3 f   -     -     -         1265    0    0 
+IMHIPP    847692196  4  2 Bc  f     -     -         1265   20    0 
+IMHIPP    847692217  4  1 Bf  -     -     -         1245    5    0 
+IMHIPP    847692237  4  4 c   c     f     -         1240   30    0 
+IMHIPP    847692271  4  3 c   rc    r     -         1210   90  190 
+IMHIPP    847692318  4  2 Bf  -     -     -         1310   10    0 
+IMHIPP    847692341  5  1 Bf  -     -     -         1300    5    0 
+IMHIPP    847692374  4  4 f   -     -     -         1295    0    0 
+IMHIPP    847692420  6  4 c   f     -     -         1295   10    0 
+IMHIPP    847692481  5  2 Bk  k     kf    -         1285   10    0 
+IMHIPP    847692535  5  1 Bc  k     b     -         1275   30   40 
+IMHIPP    847692587  6  6 c   r     b     k         1285   70    0 5h 6h
+IMHIPP    847692638  7  6 f   -     -     -         1215    0    0 
+IMHIPP    847692692  7  5 cc  k     f     -         1215   20    0 
+IMHIPP    847692796  7  4 f   -     -     -         1195    0    0 
+IMHIPP    847692891  7  3 c   c     kc    k         1195   40    0 9h Ah
+IMHIPP    847692994  7  3 c   f     -     -         1155   10    0 
+IMHIPP    847693064  8  2 Bf  -     -     -         1145   10    0 
+IMHIPP    847693150  9  1 Bf  -     -     -         1135    5    0 
+IMHIPP    847693275 10 10 f   -     -     -         1130    0    0 
+IMHIPP    847693415  9  8 f   -     -     -         1130    0    0 
+IMHIPP    847693526  8  6 f   -     -     -         1130    0    0 
+IMHIPP    847693599  8  6 c   b     c     b         1130   60  205 Ad 3d
+IMHIPP    847693702  8  5 c   c     c     bc        1275   80  185 Ts Ac
+IMHIPP    847693785  8  4 fQ  -     -     -         1380    0    0 
+IMHIPP    847695505  7  6 f   -     -     -         1380    0    0 
+IMHIPP    847695554  7  5 f   -     -     -         1380    0    0 
+IMHIPP    847695599  7  4 cc  c     c     c         1380   70    0 Th Qs
+IMHIPP    847695646  7  3 c   k     kc    b         1310   50  115 Js 5s
+IMHIPP    847695684  6  2 Bc  bc    kc    k         1375   60    0 3d Ah
+IMHIPP    847695717  6  1 Bf  -     -     -         1315    5    0 
+IMHIPP    847695736  6  6 f   -     -     -         1310    0    0 
+IMHIPP    847695778  6  5 f   -     -     -         1310    0    0 
+IMHIPP    847695816  6  4 c   c     c     b         1310   60  140 
+IMHIPP    847695864  6  3 f   -     -     -         1390    0    0 
+IMHIPP    847695876  6  2 Bc  k     k     kf        1390   20    0 
+IMHIPP    847695967  7  1 Bf  -     -     -         1370    5    0 
+IMHIPP    847696015  7  7 c   c     c     f         1365   40    0 
+IMHIPP    847696074  7  6 c   f     -     -         1325   10    0 
+IMHIPP    847696122  7  5 cc  kf    -     -         1315   20    0 
+IMHIPP    847696199  7  4 f   -     -     -         1295    0    0 
+IMHIPP    847696224  6  3 c   k     c     f         1295   30    0 
+IMHIPP    847696279  6  2 Bk  k     k     k         1265   10    0 5d Jh
+IMHIPP    847696337  6  1 Bc  kc    kf    -         1255   20    0 
+IMHIPP    847696392  7  7 f   -     -     -         1235    0    0 
+IMHIPP    847696437  7  6 f   -     -     -         1235    0    0 
+IMHIPP    847696533  7  5 cc  f     -     -         1235   20    0 
+IMHIPP    847696582  7  4 c   k     c     f         1215   30    0 
+IMHIPP    847696617  7  3 KQ  -     -     -         1185    0    0 
+IMHIPP    847699193  6  2 Bk  k     k     kf        1185   10    0 
+IMHIPP    847699230  6  1 Bc  b     b     -         1175   40  100 
+IMHIPP    847699268  7  7 f   -     -     -         1235    0    0 
+IMHIPP    847699297  6  5 c   k     k     k         1235   20    0 3h 2h
+IMHIPP    847699328  6  4 c   c     f     -         1215   20    0 
+IMHIPP    847699370  6  3 c   kf    -     -         1195   10    0 
+IMHIPP    847699405  6  2 Bf  -     -     -         1185   10    0 
+IMHIPP    847699465  7  1 Bf  -     -     -         1175    5    0 
+IMHIPP    847699537  7  7 f   -     -     -         1170    0    0 
+IMHIPP    847699610  7  6 f   -     -     -         1170    0    0 
+IMHIPP    847699647  7  5 r   b     bc    c         1170   90    0 Kh As
+IMHIPP    847699707  7  4 cc  c     f     -         1080   30    0 
+IMHIPP    847699748  5  3 f   -     -     -         1050    0    0 
+IMHIPP    847699774  4  2 Bk  k     k     k         1050   10   30 3h Qd
+IMHIPP    847699805  4  1 Bf  -     -     -         1070    5    0 
+IMHIPP    847699816  4  4 c   b     b     -         1065   40   70 
+IMHIPP    847699847  4  3 c   k     k     k         1095   10    0 Qd 7d
+IMHIPP    847699871  4  2 Bk  kc    kf    -         1085   20    0 
+IMHIPP    847699900  4  1 Bc  kc    kf    -         1065   20    0 
+IMHIPP    847699936  4  4 f   -     -     -         1045    0    0 
+IMHIPP    847699965  4  3 f   -     -     -         1045    0    0 
+IMHIPP    847699985  4  2 Bk  f     -     -         1045   10    0 
+IMHIPP    847699999  4  1 Bc  k     k     kf        1035   10    0 
+IMHIPP    847700037  4  4 f   -     -     -         1025    0    0 
+IMHIPP    847700058  4  3 c   c     f     -         1025   20    0 
+IMHIPP    847700081  4  2 Bk  b     b     b         1005   60  110 
+IMHIPP    847700110  4  1 Bf  -     -     -         1055    5    0 
+IMHIPP    847700145  4  4 f   -     -     -         1050    0    0 
+IMHIPP    847700162  4  3 f   -     -     -         1050    0    0 
+IMHIPP    847700182  4  2 Bk  k     k     k         1050   10   18 7c 9d
+IMHIPP    847700209  4  1 Bc  kf    -     -         1058   10    0 
+IMHIPP    847700246  4  4 f   -     -     -         1048    0    0 
+IMHIPP    847700259  3  2 Bf  -     -     -         1048   10    0 
+IMHIPP    847700288  3  1 Bc  k     kc    kf        1038   30    0 
+IMHIPP    847700324  3  3 c   c     c     c         1008   60    0 4d 4h
+IMHIPP    847700351  3  2 Br  k     b     b          948   60    0 Ac 3c
+IMHIPP    847700381  3  1 Bf  -     -     -          888    5    0 
+IMHIPP    847700390  3  3 f   -     -     -          883    0    0 
+IMHIPP    847700398  3  2 Br  f     -     -          883   20    0 
+IMHIPP    847700420  3  1 Bf  -     -     -          863    5    0 
+IMHIPP    847700426  3  3 c   b     b     k          858   40    0 3s 4s
+IMHIPP    847700449  2  2 Bk  k     c     r          818   70  120 
+IMHIPP    847700480  2  1 Bc  b     -     -          868   20   30 
+IMHIPP    847700490  2  2 Br  b     -     -          878   30   50 
+IMHIPP    847700505  2  1 Bf  -     -     -          898    5    0 
+IMHIPP    847700511  2  2 Bk  r     brc   c          893  130    0 Td 9d
+IMHIPP    847700550  2  1 Bf  -     -     -          763    5    0 
+IMHIPP    847700557  2  2 Bk  k     k     k          758   10    0 3d 2d
+IMHIPP    847700577  2  1 Bcc kf    -     -          748   20    0 
+IMHIPP    847700601  3  2 Bc  kc    k     kf         728   30    0 
+IMHIPP    847700637  3  1 Brr b     -     -          698   50   90 
+IMHIPP    847700657  3  3 f   -     -     -          738    0    0 
+IMHIPP    847700674  3  2 Br  b     b     bc         738   90    0 Ah As
+IMHIPP    847700708  3  1 Bf  -     -     -          648    5    0 
+IMHIPP    847700727  3  3 f   -     -     -          643    0    0 
+IMHIPP    847700740  3  2 Bf  -     -     -          643   10    0 
+IMHIPP    847700748  3  1 Bf  -     -     -          633    5    0 
+IMHIPP    847700771  3  3 f   -     -     -          628    0    0 
+IMHIPP    847700797  3  2 Bk  k     k     k          628   10   13 Th 3s
+IMHIPP    847700823  3  1 Br  b     b     bc         631   90  180 As 2s
+IMHIPP    847700854  3  3 r   b     b     k          721   50  105 9h 7h
+IMHIPP    847700884  3  2 Br  kc    kf    -          776   30    0 
+IMHIPP    847700919  4  1 Bf  -     -     -          746    5    0 
+IMHIPP    847700950  4  4 rc  b     b     b          741   80  230 
+IMHIPP    847700988  4  3 f   -     -     -          891    0    0 
+IMHIPP    847700995  4  2 Brc c     c     r          891  100  180 
+IMHIPP    847701035  4  1 Bf  -     -     -          971    5    0 
+IMHIPP    847701067  4  4 c   k     k     c          966   30   65 Qh Ts
+IMHIPP    847701127  3  3 r   b     -     -         1001   30   55 
+IMHIPP    847701142  3  2 Bf  -     -     -         1026   10    0 
+IMHIPP    847701175  3  1 Bcf -     -     -         1016   10    0 
+IMHIPP    847701188  3  3 f   -     -     -         1006    0    0 
+IMHIPP    847701206  3  2 Bc  b     bc    c         1006   90  250 8s 6s
+IMHIPP    847701242  4  1 Bf  -     -     -         1166    5    0 
+IMHIPP    847701254  4  4 f   -     -     -         1161    0    0 
+IMHIPP    847701270  4  3 c   b     b     c         1161   60  125 8c Qc
+IMHIPP    847701308  4  2 Bf  -     -     -         1226   10    0 
+IMHIPP    847701346  4  1 Bc  b     b     -         1216   40   70 
+IMHIPP    847701370  4  4 Q   -     -     -         1246    0    0 
+IMHIPP    847701452  4  2 Bc  kc    kc    kc        1246   70  190 Qd As
+IMHIPP    847701500  5  1 Bf  -     -     -         1366    5    0 
+IMHIPP    847701549  5  5 f   -     -     -         1361    0    0 
+IMHIPP    847701575  5  4 f   -     -     -         1361    0    0 
+IMHIPP    847701626  5  3 f   -     -     -         1361    0    0 
+IMHIPP    847701664  5  2 Bc  k     k     k         1361   20    0 5c Ah
+IMHIPP    847701700  4  1 Bc  kf    -     -         1341   10    0 
+IMHIPP    847701722  4  4 f   -     -     -         1331    0    0 
+IMHIPP    847701743  4  3 cc  rc    kc    kf        1331   80    0 
+IMHIPP    847701803  3  2 Bf  -     -     -         1251   10    0 
+IMHIPP    847701834  3  1 Bc  k     k     kf        1241   10    0 
+IMHIPP    847701877  3  3 rrrr b     bc    c         1231  150  310 Jc Jh
+IMHIPP    847701913  3  2 Bf  -     -     -         1391   10    0 
+IMHIPP    847701921  3  1 Brrrc kc    kf    -         1381   80    0 
+IMHIPP    847701955  3  3 cc  c     c     f         1301   50    0 
+IMHIPP    847701984  3  2 Bf  -     -     -         1251   10    0 
+IMHIPP    847702007  3  1 Bf  -     -     -         1241    5    0 
+IMHIPP    847702026  3  3 f   -     -     -         1236    0    0 
+IMHIPP    847702065  3  2 Bf  -     -     -         1236   10    0 
+IMHIPP    847702093  3  1 Bf  -     -     -         1226    5    0 
+IMHIPP    847702107  3  3 f   -     -     -         1221    0    0 
+IMHIPP    847702129  3  2 Bcc f     -     -         1221   40    0 
+IMHIPP    847702166  3  1 Bc  kc    b     k         1181   50   65 7d 5d
+IMHIPP    847702203  3  3 f   -     -     -         1196    0    0 
+IMHIPP    847702232  3  2 Bf  -     -     -         1196   10    0 
+IMHIPP    847702262  3  1 Bf  -     -     -         1186    5    0 
+IMHIPP    847702279  3  3 f   -     -     -         1181    0    0 
+IMHIPP    847702300  3  2 Bf  -     -     -         1181   10    0 
+IMHIPP    847702309  3  1 Bc  kc    kc    k         1171   50    0 Th As
+IMHIPP    847702346  3  3 rr  b     b     b         1121   90  200 
+IMHIPP    847702383  3  2 Br  brc   kc    k         1231   90    0 Qh Ah
+IMHIPP    847702439  3  1 Bf  -     -     -         1141    5    0 
+IMHIPP    847702448  3  3 f   -     -     -         1136    0    0 
+IMHIPP    847702457  3  2 Bf  -     -     -         1136   10    0 
+IMHIPP    847702480  3  1 Bc  k     k     k         1126   10    0 Ac 7d
+IMHIPP    847702508  3  3 cc  f     -     -         1116   20    0 
+IMHIPP    847702522  3  2 Bf  -     -     -         1096   10    0 
+IMHIPP    847702553  3  1 Bcc kc    bc    b         1086   90  160 
+IMHIPP    847702585  3  3 ccc c     f     -         1156   50    0 
+IMHIPP    847702614  3  2 Bf  -     -     -         1106   10    0 
+IMHIPP    847702622  3  1 Bf  -     -     -         1096    5    0 
+IMHIPP    847702652  3  3 f   -     -     -         1091    0    0 
+IMHIPP    847702673  3  2 Bf  -     -     -         1091   10    0 
+IMHIPP    847702681  3  1 Bf  -     -     -         1081    5    0 
+IMHIPP    847702690  3  3 f   -     -     -         1076    0    0 
+IMHIPP    847702714  3  2 Bf  -     -     -         1076   10    0 
+IMHIPP    847702721  3  1 Bf  -     -     -         1066    5    0 
+IMHIPP    847702730  3  3 f   -     -     -         1061    0    0 
+IMHIPP    847702743  3  2 Bf  -     -     -         1061   10    0 
+IMHIPP    847702752  3  1 Bf  -     -     -         1051    5    0 
+IMHIPP    847702759  3  3 rrrc r     b     b         1046  130  270 As Ah
+IMHIPP    847702793  3  2 Bc  bc    k     k         1186   40  100 Qh Kh
+IMHIPP    847702821  3  1 Bcc b     -     -         1246   30   50 
+IMHIPP    847702839  4  4 f   -     -     -         1266    0    0 
+IMHIPP    847702854  4  3 f   -     -     -         1266    0    0 
+IMHIPP    847702889  4  2 Bf  -     -     -         1266   10    0 
+IMHIPP    847702908  4  1 Bcc kf    -     -         1256   20    0 
+IMHIPP    847702928  4  4 f   -     -     -         1236    0    0 
+IMHIPP    847702949  4  3 f   -     -     -         1236    0    0 
+IMHIPP    847702987  4  2 Bf  -     -     -         1236   10    0 
+IMHIPP    847703012  4  1 Bf  -     -     -         1226    5    0 
+IMHIPP    847703033  4  4 cc  c     f     -         1221   30    0 
+IMHIPP    847703066  4  3 cc  k     k     kf        1191   20    0 
+IMHIPP    847703100  4  2 Bf  -     -     -         1171   10    0 
+IMHIPP    847703133  4  1 Bcc b     b     -         1161   50   80 
+IMHIPP    847703157  4  4 f   -     -     -         1191    0    0 
+IMHIPP    847703183  4  3 f   -     -     -         1191    0    0 
+IMHIPP    847703214  4  2 Bc  br    b     k         1191   80  220 8c Qc
+IMHIPP    847703255  4  1 Bf  -     -     -         1331    5    0 
+IMHIPP    847703284  5  4 c   r     b     b         1326   70  175 
+IMHIPP    847703347  5  3 f   -     -     -         1431    0    0 
+IMHIPP    847703368  4  1 Bf  -     -     -         1431   10    0 
+IMHIPP    847703389  3  1 Bcc k     k     kc        1421   40   80 6d 4d
+IMHIPP    847703414  4  4 f   -     -     -         1461    0    0 
+IMHIPP    847703480  4  3 cc  k     kc    k         1461   40   95 As 5d
+IMHIPP    847703531  3  1 Bf  -     -     -         1516   10    0 
+IMHIPP    847703555  3  1 Bf  -     -     -         1506    5    0 
+IMHIPP    847703564  3  3 rr  b     b     b         1501   90  250 Ac As
+IMHIPP    847703593  3  2 Bc  kf    -     -         1661   20    0 
+IMHIPP    847703610  3  1 Bf  -     -     -         1641    5    0 
+IMHIPP    847703638  3  3 rr  b     b     b         1636   90  220 Kd Ad
+IMHIPP    847703666  3  2 Bf  -     -     -         1766   10    0 
+IMHIPP    847703685  3  1 Bcc b     b     kf        1756   50    0 
+IMHIPP    847703719  3  3 f   -     -     -         1706    0    0 
+IMHIPP    847703744  3  2 Bc  kc    kf    -         1706   30    0 
+IMHIPP    847703775  3  1 Bcc kf    -     -         1676   20    0 
+IMHIPP    847703798  3  3 f   -     -     -         1656    0    0 
+IMHIPP    847703815  3  2 Bc  b     bc    c         1656   90    0 Ts 8s
+IMHIPP    847703843  3  1 Bc  k     b     -         1566   30   50 
+IMHIPP    847703862  3  3 cc  c     c     b         1586   70    0 Kc Qs
+IMHIPP    847703891  3  2 Bc  kc    kc    bc        1516   90    0 Ad 4h
+IMHIPP    847703922  3  1 Bf  -     -     -         1426    5    0 
+IMHIPP    847703938  3  3 KQ  -     -     -         1421    0    0 
+IMHIPP    847781594  9  4 c   kf    -     -         1421   10    0 
+IMHIPP    847781647 10  3 c   kf    -     -         1411   10    0 
+IMHIPP    847781750 11  2 Bf  -     -     -         1401   10    0 
+IMHIPP    847781833 11  1 Bf  -     -     -         1391    5    0 
+IMHIPP    847781917  9  9 f   -     -     -         1386    0    0 
+IMHIPP    847782010  8  7 c   f     -     -         1386   10    0 
+IMHIPP    847782207  8  6 f   -     -     -         1376    0    0 
+IMHIPP    847782288  9  6 cc  f     -     -         1376   20    0 
+IMHIPP    847782472  7  4 f   -     -     -         1356    0    0 
+IMHIPP    847782545  7  4 cc  f     -     -         1356   30    0 
+IMHIPP    847782644  7  3 f   -     -     -         1326    0    0 
+IMHIPP    847782715  7  2 Bf  -     -     -         1326   10    0 
+IMHIPP    847782768  7  1 Bf  -     -     -         1316    5    0 
+IMHIPP    847782861  7  7 f   -     -     -         1311    0    0 
+IMHIPP    847782923  6  5 f   -     -     -         1311    0    0 
+IMHIPP    847782938  7  5 f   -     -     -         1311    0    0 
+IMHIPP    847783016  7  4 f   -     -     -         1311    0    0 
+IMHIPP    847783121  7  3 c   kf    -     -         1311   10    0 
+IMHIPP    847783196  7  2 Bc  kf    -     -         1301   30    0 
+IMHIPP    847783279  7  1 Bc  b     b     -         1271   40   80 
+IMHIPP    847783313  7  7 f   -     -     -         1311    0    0 
+IMHIPP    847783402  7  6 f   -     -     -         1311    0    0 
+IMHIPP    847783484  8  6 f   -     -     -         1311    0    0 
+IMHIPP    847783536  8  5 cc  f     -     -         1311   30    0 
+IMHIPP    847783624  9  4 c   f     -     -         1281   10    0 
+IMHIPP    847783685 10  3 cc  c     f     -         1271   30    0 
+IMHIPP    847783772  9  2 Bc  rr    kr    b         1241  120    0 7s Ts
+IMHIPP    847783894 11  1 Bf  -     -     -         1121    5    0 
+IMHIPP    847783989 11 11 c   b     c     f         1116   40    0 
+IMHIPP    847784057 10  9 f   -     -     -         1076    0    0 
+IMHIPP    847784104 10  8 c   f     -     -         1076   10    0 
+IMHIPP    847784161 10  7 c   kf    -     -         1066   10    0 
+IMHIPP    847784235 11  7 r   b     b     k         1056   50    0 8s Ks
+IMHIPP    847784300 11  6 f   -     -     -         1006    0    0 
+IMHIPP    847784362 11  5 cc  c     c     k         1006   50    0 Ts Th
+IMHIPP    847784429 11  4 f   -     -     -          956    0    0 
+IMHIPP    847784505 10  3 f   -     -     -          956    0    0 
+IMHIPP    847784580  9  2 Bk  kf    -     -          956   10    0 
+IMHIPP    847784682 10  1 Bf  -     -     -          946    5    0 
+IMHIPP    847784718 10 10 f   -     -     -          941    0    0 
+IMHIPP    847784784 11 10 f   -     -     -          941    0    0 
+IMHIPP    847784861 10  8 f   -     -     -          941    0    0 
+IMHIPP    847784936  9  6 f   -     -     -          941    0    0 
+IMHIPP    847785012 11  6 c   f     -     -          941   10    0 
+IMHIPP    847785060 11  5 f   -     -     -          931    0    0 
+IMHIPP    847785133 10  4 cc  k     k     kc         931   40  100 6c Ac
+IMHIPP    847785213 10  3 f   -     -     -          991    0    0 
+IMHIPP    847785310 11  2 Bk  k     kf    -          991   10    0 
+IMHIPP    847785389 11  1 Bf  -     -     -          981    5    0 
+IMHIPP    847785561  9  9 f   -     -     -          976    0    0 
+IMHIPP    847785621  9  8 c   c     c     b          976   70  205 9h Jc
+IMHIPP    847785745 10  8 cc  c     f     -         1111   30    0 
+IMHIPP    847785964 11  8 f   -     -     -         1081    0    0 
+IMHIPP    847786087 12  9 f   -     -     -         1081    0    0 
+IMHIPP    847786171  9  6 c   k     c     b         1081   50  140 
+IMHIPP    847786264 10  6 cc  cc    kf    -         1171   40    0 
+IMHIPP    847786343 10  5 cc  f     -     -         1131   20    0 
+IMHIPP    847786403 10  4 f   -     -     -         1111    0    0 
+IMHIPP    847786470 10  3 c   kc    kf    -         1111   20    0 
+IMHIPP    847786536 10  2 Br  k     kf    -         1091   20    0 
+IMHIPP    847786603 10  1 Bf  -     -     -         1071    5    0 
+IMHIPP    847786642 10 10 c   c     f     -         1066   20    0 
+IMHIPP    847786719 10  9 c   b     k     k         1046   20  100 9c 9s
+IMHIPP    847786783 10  8 rc  bc    c     c         1126  100  335 Ah As
+IMHIPP    847786865 11  8 c   kc    kc    kf        1361   40    0 
+IMHIPP    847786977 10  7 r   b     b     b         1321   70  240 
+IMHIPP    847787099 10  6 fQ  -     -     -         1491    0    0 
+IMHIPP    847790433  9  9 c   f     -     -         1491   10    0 
+IMHIPP    847790566  9  8 c   k     b     b         1481   50  120 
+IMHIPP    847790656  9  7 c   f     -     -         1551   10    0 
+IMHIPP    847790710  9  6 f   -     -     -         1541    0    0 
+IMHIPP    847790755  8  6 f   -     -     -         1541    0    0 
+IMHIPP    847790822  8  5 f   -     -     -         1541    0    0 
+IMHIPP    847790871  8  4 c   c     f     -         1541   20    0 
+IMHIPP    847790921  8  3 cc  r     b     b         1521   80  225 
+IMHIPP    847790972  8  2 Bk  kf    -     -         1666   10    0 
+IMHIPP    847791014  8  1 Bc  kf    -     -         1656   10    0 
+IMHIPP    847791069  8  8 f   -     -     -         1646    0    0 
+IMHIPP    847791082  8  7 c   c     f     -         1646   20    0 
+IMHIPP    847791140  8  6 f   -     -     -         1626    0    0 
+IMHIPP    847791187  8  5 f   -     -     -         1626    0    0 
+IMHIPP    847791216  8  4 f   -     -     -         1626    0    0 
+IMHIPP    847791298  9  3 cc  f     -     -         1626   20    0 
+IMHIPP    847791383  9  2 Bk  c     kf    -         1606   20    0 
+IMHIPP    847791449  9  1 Bf  -     -     -         1586    5    0 
+IMHIPP    847791548  9  9 f   -     -     -         1581    0    0 
+IMHIPP    847791618  9  8 cc  rr    b     f         1581   80    0 
+IMHIPP    847791699  8  6 cc  cf    -     -         1501   40    0 
+IMHIPP    847791789  9  6 c   kc    kf    -         1461   20    0 
+IMHIPP    847791877  9  5 c   c     f     -         1441   20    0 
+IMHIPP    847791931  8  4 f   -     -     -         1421    0    0 
+IMHIPP    847791972  9  3 f   -     -     -         1421    0    0 
+IMHIPP    847792024  9  2 Bf  -     -     -         1421   10    0 
+IMHIPP    847792090  9  1 Bc  kc    kf    -         1411   30    0 
+IMHIPP    847792148  9  9 f   -     -     -         1381    0    0 
+IMHIPP    847792280  9  8 c   k     f     -         1381   10    0 
+IMHIPP    847792332  9  7 f   -     -     -         1371    0    0 
+IMHIPP    847792390  9  6 f   -     -     -         1371    0    0 
+IMHIPP    847792462  9  5 f   -     -     -         1371    0    0 
+IMHIPP    847792533  9  4 f   -     -     -         1371    0    0 
+IMHIPP    847792573  9  3 cc  r     k     k         1371   40    0 Jc 8c
+IMHIPP    847792637  9  2 Bc  kc    f     -         1331   40    0 
+IMHIPP    847792740  9  1 Bf  -     -     -         1291    5    0 
+IMHIPP    847792803  9  9 c   k     f     -         1286   10    0 
+IMHIPP    847792860  9  8 f   -     -     -         1276    0    0 
+IMHIPP    847792925  9  7 f   -     -     -         1276    0    0 
+IMHIPP    847792959  9  6 c   c     c     k         1276   40   62 5c Ac
+IMHIPP    847793022 10  5 f   -     -     -         1298    0    0 
+IMHIPP    847793087 10  4 f   -     -     -         1298    0    0 
+IMHIPP    847793146 10  3 Q   -     -     -         1298    0    0 
+IMHIPP    847793439  9  9 c   f     -     -         1298   10    0 
+IMHIPP    847793545  9  8 c   c     k     c         1288   40  100 8c 8s
+IMHIPP    847793607  9  7 c   k     f     -         1348   10    0 
+IMHIPP    847793665  9  6 c   c     f     -         1338   20    0 
+IMHIPP    847793732  9  5 c   b     -     -         1318   20   40 
+IMHIPP    847793769  9  4 c   k     f     -         1338   10    0 
+IMHIPP    847793852  9  3 c   f     -     -         1328   10    0 
+IMHIPP    847793923  9  2 Bk  f     -     -         1318   10    0 
+IMHIPP    847793973 10  1 Bf  -     -     -         1308    5    0 
+IMHIPP    847794061 10 10 f   -     -     -         1303    0    0 
+IMHIPP    847794147 10  9 f   -     -     -         1303    0    0 
+IMHIPP    847794206 10  8 f   -     -     -         1303    0    0 
+IMHIPP    847794296 10  7 f   -     -     -         1303    0    0 
+IMHIPP    847794415 11  7 cc  ccc   cf    -         1303   80    0 
+IMHIPP    847794519 10  5 c   r     k     k         1223   30   75 Ah As
+IMHIPP    847794567 10  5 f   -     -     -         1268    0    0 
+IMHIPP    847794636  9  3 f   -     -     -         1268    0    0 
+IMHIPP    847794699  9  2 Bc  c     c     f         1268   50    0 
+IMHIPP    847794761  9  1 Bf  -     -     -         1218    5    0 
+IMHIPP    847794826 10 10 f   -     -     -         1213    0    0 
+IMHIPP    847794933 10  9 f   -     -     -         1213    0    0 
+IMHIPP    847795028 10  8 f   -     -     -         1213    0    0 
+IMHIPP    847795142 10  7 f   -     -     -         1213    0    0 
+IMHIPP    847795229 10  6 c   kc    k     kf        1213   20    0 
+IMHIPP    847795304 11  7 c   rc    c     r         1193  100    0 7d 9d
+IMHIPP    847795394 10  4 c   k     k     k         1093   10    0 2c 9c
+IMHIPP    847795533 11  3 f   -     -     -         1083    0    0 
+IMHIPP    847795677 10  2 Br  kc    kc    kc        1083   90  295 As Ac
+IMHIPP    847795746  9  1 Bc  kf    -     -         1288   20    0 
+IMHIPP    847795818  8  8 f   -     -     -         1268    0    0 
+IMHIPP    847795869  8  7 c   c     f     -         1268   30    0 
+IMHIPP    847795929  8  6 f   -     -     -         1238    0    0 
+IMHIPP    847796031  6  4 f   -     -     -         1238    0    0 
+IMHIPP    847796163  6  4 f   -     -     -         1238    0    0 
+IMHIPP    847796190  6  3 cc  kf    -     -         1238   20    0 
+IMHIPP    847796221  6  2 Bf  -     -     -         1218   10    0 
+IMHIPP    847796321  6  1 Bf  -     -     -         1208    5    0 
+IMHIPP    847796355  6  6 f   -     -     -         1203    0    0 
+IMHIPP    847796406  6  5 f   -     -     -         1203    0    0 
+IMHIPP    847796436  6  4 f   -     -     -         1203    0    0 
+IMHIPP    847796492  6  3 c   k     k     f         1203   10    0 
+IMHIPP    847796575  6  2 Bc  f     -     -         1193   20    0 
+IMHIPP    847796607  7  1 Bf  -     -     -         1173    5    0 
+IMHIPP    847796650  7  7 f   -     -     -         1168    0    0 
+IMHIPP    847796723  7  6 f   -     -     -         1168    0    0 
+IMHIPP    847796863  7  5 f   -     -     -         1168    0    0 
+IMHIPP    847796954  6  4 c   b     b     -         1168   40   75 
+IMHIPP    847797036  6  3 f   -     -     -         1203    0    0 
+IMHIPP    847797080  6  1 Bk  k     k     k         1203   10   30 Kc 7h
+IMHIPP    847797122  5  1 Bf  -     -     -         1223    5    0 
+IMHIPP    847797149  5  5 f   -     -     -         1218    0    0 
+IMHIPP    847797197  5  4 f   -     -     -         1218    0    0 
+IMHIPP    847797337  6  4 c   kc    kf    -         1218   20    0 
+IMHIPP    847797440  7  4 c   k     k     f         1198   10    0 
+IMHIPP    847797572  7  3 fQ  -     -     -         1188    0    0 
+IMHIPP    847832565 11  6 Q   -     -     -         1188    0    0 
+IMHIPP    847949324  8  2 Bf  -     -     -         1188   10    0 
+IMHIPP    847949424  8  1 Bc  kf    -     -         1178   20    0 
+IMHIPP    847949498  8  8 c   c     f     -         1158   30    0 
+IMHIPP    847949578  8  8 c   b     k     k         1128   30    0 Th 5h
+IMHIPP    847949641  8  3 Q   -     -     -         1098    0    0 
+IMHIPP    847953610  8  3 cc  b     k     k         1098   30  120 Qd 5d
+IMHIPP    847953677  8  2 Bf  -     -     -         1188   10    0 
+IMHIPP    847953726  8  1 Bc  k     kf    -         1178   10    0 
+IMHIPP    847953773  8  8 f   -     -     -         1168    0    0 
+IMHIPP    847953895  8  7 f   -     -     -         1168    0    0 
+IMHIPP    847953963  8  6 f   -     -     -         1168    0    0 
+IMHIPP    847954035  8  4 c   bc    bc    c         1168  110    0 Ah Ks
+IMHIPP    847954118  8  3 f   -     -     -         1058    0    0 
+IMHIPP    847954184  8  2 Bk  cc    f     -         1058   30    0 
+IMHIPP    847954281  9  1 Bf  -     -     -         1028    5    0 
+IMHIPP    847954351  9  9 c   c     c     c         1023   80    0 Js Jd
+IMHIPP    847954443 10  9 f   -     -     -          943    0    0 
+IMHIPP    847954546 11  9 f   -     -     -          943    0    0 
+IMHIPP    847954671 10  7 f   -     -     -          943    0    0 
+IMHIPP    847954839  9  5 f   -     -     -          943    0    0 
+IMHIPP    847954965  7  4 c   b     kc    bc         943   80    0 3c Ac
+IMHIPP    847955042  8  4 f   -     -     -          863    0    0 
+IMHIPP    847955092  8  3 c   kf    -     -          863   10    0 
+IMHIPP    847955160  7  2 Bk  c     c     r          853   80  170 Jc Qs
+IMHIPP    847955223  7  1 Bc  kc    kf    -          943   20    0 
+IMHIPP    847955303  8  8 f   -     -     -          923    0    0 
+IMHIPP    847955357  9  8 f   -     -     -          923    0    0 
+IMHIPP    847955418  9  6 cc  c     c     b          923   70  235 8c 8s
+IMHIPP    847955489  9  5 c   bc    k     kf        1088   30    0 
+IMHIPP    847955553  9  4 f   -     -     -         1058    0    0 
+IMHIPP    847955628  9  3 f   -     -     -         1058    0    0 
+IMHIPP    847955680  9  2 Bk  k     k     k         1058   10   25 5s Jh
+IMHIPP    847955710  9  1 Bf  -     -     -         1073    5    0 
+IMHIPP    847955792  8  8 c   f     -     -         1068   10    0 
+IMHIPP    847955827  8  7 c   c     c     b         1058   80  235 As Ac
+IMHIPP    847955921  9  7 f   -     -     -         1213    0    0 
+IMHIPP    847955971  9  6 c   f     -     -         1213   10    0 
+IMHIPP    847956016  9  5 f   -     -     -         1203    0    0 
+IMHIPP    847956054  9  4 f   -     -     -         1203    0    0 
+IMHIPP    847956144  8  3 f   -     -     -         1203    0    0 
+IMHIPP    847956186  8  2 Bc  kf    -     -         1203   40    0 
+IMHIPP    847956290  8  1 Bc  k     k     k         1163   10    0 Ts 7c
+IMHIPP    847956340  7  7 f   -     -     -         1153    0    0 
+IMHIPP    847956391  7  6 f   -     -     -         1153    0    0 
+IMHIPP    847956437  7  5 c   k     f     -         1153   10    0 
+IMHIPP    847956504  7  4 c   k     f     -         1143   10    0 
+IMHIPP    847956557  7  3 f   -     -     -         1133    0    0 
+IMHIPP    847956596  7  2 Bk  kc    k     k         1133   20   55 Qc Qh
+IMHIPP    847956633  7  1 Bc  kf    -     -         1168   10    0 
+IMHIPP    847956695  7  7 f   -     -     -         1158    0    0 
+IMHIPP    847956730  7  6 f   -     -     -         1158    0    0 
+IMHIPP    847956749  7  5 f   -     -     -         1158    0    0 
+IMHIPP    847956801  9  4 f   -     Q     -         1158    0    0 
+IMHIPP    847956970 11  7 c   k     k     f         1158   10    0 
+IMHIPP    847957099 10  5 f   -     -     -         1148    0    0 
+IMHIPP    847957139 10  4 f   -     -     -         1148    0    0 
+IMHIPP    847957238  9  3 c   k     kf    -         1148   10    0 
+IMHIPP    847957368  8  1 Bk  kf    -     -         1138   10    0 
+IMHIPP    847957450  8  1 Bf  -     -     -         1128    5    0 
+IMHIPP    847957518  7  7 c   c     c     f         1123   50    0 
+IMHIPP    847957607  7  7 f   -     -     -         1073    0    0 
+IMHIPP    847957672  7  6 f   -     -     -         1073    0    0 
+IMHIPP    847957735  7  5 f   -     -     -         1073    0    0 
+IMHIPP    847957811  7  4 f   -     -     -         1073    0    0 
+IMHIPP    847957840  7  3 f   -     -     -         1073    0    0 
+IMHIPP    847957901  7  2 Bf  -     -     -         1073   10    0 
+IMHIPP    847957986  7  1 Bc  bc    kc    kc        1063   70  190 7s Th
+IMHIPP    847958079  7  7 f   -     -     -         1183    0    0 
+IMHIPP    847958160  7  6 f   -     -     -         1183    0    0 
+IMHIPP    847958260  8  5 f   -     -     -         1183    0    0 
+IMHIPP    847958330  7  4 f   -     -     -         1183    0    0 
+IMHIPP    847958390  7  3 c   c     c     f         1183   40    0 
+IMHIPP    847958451  7  2 Bk  c     f     -         1143   20    0 
+IMHIPP    847958516  7  1 Bf  -     -     -         1123    5    0 
+IMHIPP    847958552  7  7 f   -     -     -         1118    0    0 
+IMHIPP    847958610  7  5 f   -     -     -         1118    0    0 
+IMHIPP    847958648  7  4 f   -     -     -         1118    0    0 
+IMHIPP    847958698  7  3 cc  kf    -     -         1118   20    0 
+IMHIPP    847958813  6  2 Bk  k     k     kf        1098   10    0 
+IMHIPP    847958868  6  1 Bf  -     -     -         1088    5    0 
+IMHIPP    847958917  6  6 c   c     f     -         1083   30    0 
+IMHIPP    847958988  7  5 f   -     -     -         1053    0    0 
+IMHIPP    847959092  6  3 f   -     -     -         1053    0    0 
+IMHIPP    847959115  7  2 Bf  -     -     -         1053   10    0 
+IMHIPP    847959157  7  1 Bf  -     -     -         1043    5    0 
+IMHIPP    847959178  7  7 f   -     -     -         1038    0    0 
+IMHIPP    847959191  7  6 f   -     -     -         1038    0    0 
+IMHIPP    847959260  4  4 f   -     -     -         1038    0    0 
+IMHIPP    847959269  4  3 cc  b     b     k         1038   60  170 Th 6h
+IMHIPP    847959320  4  2 B   -     -     -         1148   10   15 
+IMHIPP    847959330  4  1 Bf  -     -     -         1153    5    0 
+IMHIPP    847959357  3  3 f   -     -     -         1148    0    0 
+IMHIPP    847959375  3  2 Bk  k     k     k         1148   10    0 Kd 4c
+IMHIPP    847959389  3  1 Bf  -     -     -         1138    5    0 
+IMHIPP    847959396  2  2 Bk  k     k     b         1133   30   40 
+IMHIPP    847959416  2  1 Bc  kc    kf    -         1143   20    0 
+IMHIPP    847959442  2  2 B   -     -     -         1123   10   15 
+IMHIPP    847959446  2  1 Bf  -     -     -         1128    5    0 
+IMHIPP    847959451  2  2 Bk  b     -     -         1123   20   30 
+IMHIPP    847959462  2  1 Bcf -     -     -         1133   10    0 
+IMHIPP    847959474  2  2 Bk  br    b     -         1123   60  100 
+IMHIPP    847959493  2  1 Bf  -     -     -         1163    5    0 
+IMHIPP    847959503  2  2 B   -     -     -         1158   10   15 
+IMHIPP    847959509  2  1 Bf  -     -     -         1163    5    0 
+IMHIPP    847959518  2  2 B   -     -     -         1158   10   15 
+IMHIPP    847959520  2  1 BQ  -     -     -         1163    5   15 
+IMHIPP    847959850  3  1 BQ  -     -     -         1173    5    0 
+IMHIPP    847959978  4  3 r   c     f     -         1168   30    0 
+IMHIPP    847960005  4  2 Bk  k     k     k         1138   10    0 Js Qh
+IMHIPP    847960036  5  1 Bc  kc    kf    -         1128   20    0 
+IMHIPP    847960071  5  5 f   -     -     -         1108    0    0 
+IMHIPP    847960112  5  4 c   k     k     b         1108   30   45 
+IMHIPP    847960151  5  3 c   k     bc    c         1123   70  150 Kc Js
+IMHIPP    847960254  2  1 Bk  k     k     k         1203   10   20 6h Kh
+IMHIPP    847960273  2  1 Bf  -     -     -         1213    5    0 
+IMHIPP    847960279  2  2 Bf  -     -     -         1208   10    0 
+IMHIPP    847960285  2  1 Bc  k     b     -         1198   30   40 
+IMHIPP    847960297  2  2 Br  b     r     -         1208   80  140 
+IMHIPP    847960315  3  1 Bc  k     kc    k         1268   30   70 8d Kd
+IMHIPP    847960345  3  3 c   f     -     -         1308   10    0 
+IMHIPP    847960363  3  2 Bk  k     k     k         1298   10   10 7s 3h
+IMHIPP    847960397  3  1 Bc  kf    -     -         1298   10    0 
+IMHIPP    847960426  3  3 f   -     -     -         1288    0    0 
+IMHIPP    847960438  3  2 Bf  -     -     -         1288   10    0 
+IMHIPP    847960450  3  1 Bf  -     -     -         1278    5    0 
+IMHIPP    847960468  3  3 f   -     -     -         1273    0    0 
+IMHIPP    847960476  3  2 Bf  -     -     -         1273   10    0 
+IMHIPP    847960498  3  1 Bf  -     -     -         1263    5    0 
+IMHIPP    847960522  3  3 cc  f     -     -         1258   20    0 
+IMHIPP    847960557  3  2 Bk  f     -     -         1238   10    0 
+IMHIPP    847960574  3  1 Bf  -     -     -         1228    5    0 
+IMHIPP    847960592  4  4 f   -     -     -         1223    0    0 
+IMHIPP    847960610  4  3 f   -     -     -         1223    0    0 
+IMHIPP    847960636  4  2 Bk  kf    QQ    -         1223   10    0 
+IMHIPP    847960942  2  1 B   -     -     -         1213    5   15 
+IMHIPP    847961867  2  1 BQ  -     -     -         1223    5    0 
+IMHIPP    848213234  4  2 Bk  k     k     k         1218   10    0 Tc Jc
+IMHIPP    848213298  5  1 Bc  k     k     k         1208   10    0 3h 2h
+IMHIPP    848213416  6  6 f   -     -     -         1198    0    0 
+IMHIPP    848213452  6  5 f   -     -     -         1198    0    0 
+IMHIPP    848213482  5  3 f   -     -     -         1198    0    0 
+IMHIPP    848213522  5  2 Bf  -     -     -         1198   10    0 
+IMHIPP    848213536  6  1 Bf  -     -     -         1188    5    0 
+IMHIPP    848213601  6  6 f   -     -     -         1183    0    0 
+IMHIPP    848213660  6  5 f   -     -     -         1183    0    0 
+IMHIPP    848213699  6  4 f   -     -     -         1183    0    0 
+IMHIPP    848213737  6  3 cc  cc    kf    -         1183   50    0 
+IMHIPP    848213798  6  2 Bf  -     -     -         1133   10    0 
+IMHIPP    848213859  6  1 Bf  -     -     -         1123    5    0 
+IMHIPP    848213988  5  5 f   -     -     -         1118    0    0 
+IMHIPP    848214030  5  4 c   c     b     -         1118   40   70 
+IMHIPP    848214058  5  3 f   -     -     -         1148    0    0 
+IMHIPP    848214078  5  2 Bk  k     k     k         1148   10    0 4h 5d
+IMHIPP    848214107  5  1 Bf  -     -     -         1138    5    0 
+IMHIPP    848214144  5  5 f   -     -     -         1133    0    0 
+IMHIPP    848214162  5  4 f   -     -     -         1133    0    0 
+IMHIPP    848214192  5  3 f   -     -     -         1133    0    0 
+IMHIPP    848214240  5  2 Bk  f     -     -         1133   10    0 
+IMHIPP    848214276  5  1 Bf  -     -     -         1123    5    0 
+IMHIPP    848214291  5  5 f   -     -     -         1118    0    0 
+IMHIPP    848214334  6  4 f   -     -     -         1118    0    0 
+IMHIPP    848214396  6  3 f   -     -     -         1118    0    0 
+IMHIPP    848214451  6  2 Bk  r     k     b         1118   50  130 2h 3h
+IMHIPP    848214493  7  1 Bf  -     -     -         1198    5    0 
+IMHIPP    848214601  7  7 f   -     -     -         1193    0    0 
+IMHIPP    848214680  8  7 f   -     -     -         1193    0    0 
+IMHIPP    848214717  8  6 f   -     -     -         1193    0    0 
+IMHIPP    848214783  9  6 c   kf    -     -         1193   10    0 
+IMHIPP    848214883  9  5 f   -     -     -         1183    0    0 
+IMHIPP    848214948  9  4 f   -     -     -         1183    0    0 
+IMHIPP    848215003  9  3 f   -     -     -         1183    0    0 
+IMHIPP    848215091  9  2 Bk  kf    -     -         1183   10    0 
+IMHIPP    848215158 10  1 Bc  kf    -     -         1173   20    0 
+IMHIPP    848215256 11 11 f   -     -     -         1153    0    0 
+IMHIPP    848215318 11 10 f   -     -     -         1153    0    0 
+IMHIPP    848215382 12 10 f   -     -     -         1153    0    0 
+IMHIPP    848215455 11  9 cc  f     -     -         1153   20    0 
+IMHIPP    848215589  9  6 f   -     -     -         1133    0    0 
+IMHIPP    848215663 11  5 f   -     -     -         1133    0    0 
+IMHIPP    848215769  8  3 c   k     k     k         1133   10    0 Ks Tc
+IMHIPP    848215834  9  2 Br  kc    kf    -         1123   30    0 
+IMHIPP    848215957  9  1 Bf  -     -     -         1093    5    0 
+IMHIPP    848216047  9  9 r   c     r     c         1088   90    0 Qs Ts
+IMHIPP    848216153  9  8 cc  c     f     -          998   40    0 
+IMHIPP    848216248 10  7 f   -     -     -          958    0    0 
+IMHIPP    848216396 10  4 Q   -     -     -          958    0    0 
+IMHIPP    848372183 12 12 f   -     -     -          958    0    0 
+IMHIPP    848372292 11 10 f   -     -     -          958    0    0 
+IMHIPP    848372394 12 10 f   -     -     -          958    0    0 
+IMHIPP    848372531 12  9 f   -     -     -          958    0    0 
+IMHIPP    848372625 12  8 f   -     -     -          958    0    0 
+IMHIPP    848372684 12  7 f   -     -     -          958    0    0 
+IMHIPP    848372738 12  6 c   f     -     -          958   10    0 
+IMHIPP    848372818 12  5 c   bc    kf    -          948   30    0 
+IMHIPP    848372905  9  3 c   k     k     k          918   10    0 Td Qd
+IMHIPP    848373016 10  2 Bk  kfQ   -     -          908   10    0 
+IMHIPP    848486044  5  5 f   -     -     -          898    0    0 
+IMHIPP    848486063  6  4 f   -     -     -          898    0    0 
+IMHIPP    848486103  6  3 f   -     -     -          898    0    0 
+IMHIPP    848486137  5  2 Bf  -     -     -          898   10    0 
+IMHIPP    848486163  5  1 Bf  -     -     -          888    5    0 
+IMHIPP    848486196  5  5 c   c     b     b          883   60   70 6d 2d
+IMHIPP    848486240  5  4 c   b     k     k          893   20    0 7h Jh
+IMHIPP    848486280  5  3 f   -     -     -          873    0    0 
+IMHIPP    848486294  5  2 Bc  kc    kc    kc         873   70  145 7h 7s
+IMHIPP    848486330  5  1 Bc  kf    -     -          948   10    0 
+IMHIPP    848486408  5  5 f   -     -     -          938    0    0 
+IMHIPP    848486422  5  4 cc  kc    kc    bc         938   90  215 6h 3h
+IMHIPP    848486488  5  3 c   k     c     k         1063   30    0 2h Th
+IMHIPP    848486535  5  2 Bk  c     bc    c         1033   80    0 2c Ts
+IMHIPP    848486605  4  1 Bc  k     k     kf         953   10    0 
+IMHIPP    848486655  3  3 c   b     -     -          943   20   30 
+IMHIPP    848486679  3  3 cc  c     f     -          953   30    0 
+IMHIPP    848486700  3  2 Bf  -     -     -          923   10    0 
+IMHIPP    848486717  3  1 B   -     -     -          913    5   15 
+IMHIPP    848486730  2  2 f   -     -     -          923    0    0 
+IMHIPP    848486738  2  2 B   -     -     -          923   10   15 
+IMHIPP    848486746  2  1 Bc  k     k     k          928   10    0 As 3d
+IMHIPP    848486782  2  2 B   -     -     -          918   10   15 
+IMHIPP    848486788  2  1 Bf  -     -     -          923    5    0 
+IMHIPP    848486793  2  2 B   -     -     -          918   10   15 
+IMHIPP    848486798  2  1 Bf  -     -     -          923    5    0 
+IMHIPP    848486802  2  2 B   -     -     -          918   10   15 
+IMHIPP    848486805  2  1 Bcc kc    kc    k          923   50  100 4d Ad
+IMHIPP    848486845  2  2 Bk  b     -     -          973   20   30 
+IMHIPP    848486868  2  1 Bf  -     -     -          983    5    0 
+IMHIPP    848486873  2  2 Bc  c     k     k          978   30    0 5c 2c
+IMHIPP    848486898  2  1 Bc  kc    kc    kf         948   40    0 
+IMHIPP    848486931  2  2 B   -     -     -          908   10   15 
+IMHIPP    848486939  2  1 Bc  kf    -     -          913   10    0 
+IMHIPP    848486957  2  2 Bc  b     -     -          903   30   50 
+IMHIPP    848486975  3  1 Bc  k     k     k          923   10   20 8h Kc
+IMHIPP    848486998  3  3 c   c     k     k          933   20    0 Td Ad
+IMHIPP    848487025  3  2 Bc  r     -     -          913   40   70 
+IMHIPP    848487049  4  1 Bf  -     -     -          943    5    0 
+IMHIPP    848487059  4  4 f   -     -     -          938    0    0 
+IMHIPP    848487083  4  3 c   c     k     f          938   20    0 
+IMHIPP    848487121  4  2 Bf  -     -     -          918   10    0 
+IMHIPP    848487146  4  1 Bc  kc    kc    kf         908   40    0 
+IMHIPP    848487186  4  4 f   -     -     -          868    0    0 
+IMHIPP    848487192  4  3 f   -     -     -          868    0    0 
+IMHIPP    848487226  4  2 Bk  f     -     -          868   10    0 
+IMHIPP    848487248  4  1 Bc  k     k     k          858   10    0 7h Tc
+IMHIPP    848487286  4  4 f   -     -     -          848    0    0 
+IMHIPP    848487310  4  3 c   k     f     -          848   10    0 
+IMHIPP    848487341  4  2 Bc  kf    -     -          838   20    0 
+IMHIPP    848487361  4  1 Bc  b     -     -          818   20   40 
+IMHIPP    848487376  4  4 c   c     c     c          838   60   65 Tc Jc
+IMHIPP    848487395  4  3 f   -     -     -          843    0    0 
+IMHIPP    848487436  4  2 Bk  b     -     -          843   20   45 
+IMHIPP    848487455  4  1 Bf  -     -     -          868    5    0 
+IMHIPP    848487488  4  4 c   f     -     -          863   10    0 
+IMHIPP    848487518  4  3 f   -     -     -          853    0    0 
+IMHIPP    848487526  4  2 Bk  f     -     -          853   10    0 
+IMHIPP    848487544  4  1 Bc  k     k     kc         843   30    0 Qs 3s
+IMHIPP    848487585  4  4 f   -     -     -          813    0    0 
+IMHIPP    848487650  4  3 f   -     -     -          813    0    0 
+IMHIPP    848487660  4  2 B   -     -     -          813   10   15 
+IMHIPP    848487666  4  1 Bc  kc    kf    -          818   20    0 
+IMHIPP    848487700  4  4 f   -     -     -          798    0    0 
+IMHIPP    848487716  4  3 c   b     -     -          798   20   35 
+IMHIPP    848487740  5  2 Bk  b     f     -          813   20    0 
+IMHIPP    848487791  5  1 Bc  kf    -     -          793   10    0 
+IMHIPP    848487823  4  4 f   -     -     -          783    0    0 
+IMHIPP    848487855  4  3 f   -     -     -          783    0    0 
+IMHIPP    848487893  4  2 Bf  -     -     -          783   10    0 
+IMHIPP    848487905  4  1 Bf  -     -     -          773    5    0 
+IMHIPP    848487929  4  4 f   -     -     -          768    0    0 
+IMHIPP    848487973  4  3 f   -     -     -          768    0    0 
+IMHIPP    848488014  4  2 Bf  -     -     -          768   10    0 
+IMHIPP    848488055  4  1 Bf  -     -     -          758    5    0 
+IMHIPP    848488086  4  4 f   -     -     -          753    0    0 
+IMHIPP    848488117  4  3 f   -     -     -          753    0    0 
+IMHIPP    848488131  4  2 B   -     -     -          753   10   15 
+IMHIPP    848488140  4  1 Bf  -     -     -          758    5    0 
+IMHIPP    848488166  4  4 f   -     -     -          753    0    0 
+IMHIPP    848488220  5  4 f   -     -     -          753    0    0 
+IMHIPP    848488253  5  3 f   -     -     -          753    0    0 
+IMHIPP    848488299  5  2 Bc  kf    -     -          753   20    0 
+IMHIPP    848488338  4  1 Bf  -     -     -          733    5    0 
+IMHIPP    848488371  4  4 f   -     -     -          728    0    0 
+IMHIPP    848488406  4  3 f   -     -     -          728    0    0 
+IMHIPP    848488430  4  2 Bf  -     -     -          728   10    0 
+IMHIPP    848488445  4  1 Bf  -     -     -          718    5    0 
+IMHIPP    848488472  4  4 f   -     -     -          713    0    0 
+IMHIPP    848488496  4  3 c   k     b     -          713   30   55 
+IMHIPP    848488521  4  2 Bc  r     b     b          738   80  220 
+IMHIPP    848488561  4  1 Bf  -     -     -          878    5    0 
+IMHIPP    848488571  4  4 c   k     f     -          873   10    0 
+IMHIPP    848488596  4  3 f   -     -     -          863    0    0 
+IMHIPP    848488602  4  2 Bf  -     -     -          863   10    0 
+IMHIPP    848488628  4  1 Bc  k     kc    kf         853   30    0 
+IMHIPP    848488690  6  4 f   -     -     -          823    0    0 
+IMHIPP    848488739  6  3 f   -     -     -          823    0    0 
+IMHIPP    848488779  6  2 Bf  -     -     -          823   10    0 
+IMHIPP    848488843  6  1 Bf  -     -     -          813    5    0 
+IMHIPP    848488896  6  6 f   -     -     -          808    0    0 
+IMHIPP    848488947  6  5 c   c     bc    r          808  110  260 3c Qc
+IMHIPP    848488986  6  4 f   -     -     -          958    0    0 
+IMHIPP    848489045  6  3 f   -     -     -          958    0    0 
+IMHIPP    848489075  6  2 Bf  -     -     -          958   10    0 
+IMHIPP    848489107  6  1 Bf  -     -     -          948    5    0 
+IMHIPP    848489166  6  6 f   -     -     -          943    0    0 
+IMHIPP    848489222  6  5 f   -     -     -          943    0    0 
+IMHIPP    848489257  6  4 f   -     -     -          943    0    0 
+IMHIPP    848489323  6  3 f   -     -     -          943    0    0 
+IMHIPP    848489417  6  2 Bf  -     -     -          943   10    0 
+IMHIPP    848489477  6  1 BfQ -     -     -          933    5    0 
+IMHIPP    848571056  4  2 Bk  k     k     k          928   10   30 2c 9c
+IMHIPP    848571107  4  1 Bf  -     -     -          948    5    0 
+IMHIPP    848571136  4  4 f   -     -     -          943    0    0 
+IMHIPP    848571160  5  4 f   -     -     -          943    0    0 
+IMHIPP    848571200  4  2 f   -     -     -          943    0    0 
+IMHIPP    848571213  4  2 B   -     -     -          943   10   15 
+IMHIPP    848571232  5  1 Bf  -     -     -          948    5    0 
+IMHIPP    848571242  4  4 f   -     -     -          943    0    0 
+IMHIPP    848571265  4  3 cc  k     f     -          943   20    0 
+IMHIPP    848571299  4  2 Bk  b     b     b          923   60  120 5d Ks
+IMHIPP    848571358  5  1 Bf  -     -     -          983    5    0 
+IMHIPP    848571451  4  4 f   -     -     -          978    0    0 
+IMHIPP    848571483  4  3 f   -     -     -          978    0    0 
+IMHIPP    848571539  4  2 Bk  k     k     k          978   10   20 3d 6h
+IMHIPP    848571567  4  1 Bc  kc    kc    kf         988   50    0 
+IMHIPP    848571603  4  4 f   -     -     -          938    0    0 
+IMHIPP    848571654  4  3 f   -     -     -          938    0    0 
+IMHIPP    848571684  4  2 Bk  kf    -     -          938   10    0 
+IMHIPP    848571725  4  1 Bc  kf    -     -          928   10    0 
+IMHIPP    848571776  4  4 f   -     -     -          918    0    0 
+IMHIPP    848571791  4  3 f   -     -     -          918    0    0 
+IMHIPP    848571846  4  2 Bk  k     k     k          918   10    0 2d 4h
+IMHIPP    848571901  4  1 Bf  -     -     -          908    5    0 
+IMHIPP    848571927  4  4 c   b     -     -          903   20   45 
+IMHIPP    848571953  4  3 c   b     k     f          928   20    0 
+IMHIPP    848571979  4  2 Bk  f     -     -          908   10    0 
+IMHIPP    848572006  4  1 Bc  k     k     kf         898   10    0 
+IMHIPP    848572040  4  4 f   -     -     -          888    0    0 
+IMHIPP    848572070  4  3 f   -     -     -          888    0    0 
+IMHIPP    848572116  4  2 Bf  -     -     -          888   10    0 
+IMHIPP    848572159  4  1 Bc  k     kf    -          878   10    0 
+IMHIPP    848572188  4  4 f   -     -     -          868    0    0 
+IMHIPP    848572227  4  3 f   -     -     -          868    0    0 
+IMHIPP    848572267  4  2 Bk  k     k     b          868   30   60 3s 4c
+IMHIPP    848572318  4  1 Bf  -     -     -          898    5    0 
+IMHIPP    848572370  4  4 c   f     -     -          893   10    0 
+IMHIPP    848572413  4  3 f   -     -     -          883    0    0 
+IMHIPP    848572457  4  2 Bk  k     b     c          883   50  100 Jd Qs
+IMHIPP    848572507  4  1 Bc  k     k     k          933   10   30 Kh Ac
+IMHIPP    848572562  4  4 f   -     -     -          953    0    0 
+IMHIPP    848572596  4  3 f   -     -     -          953    0    0 
+IMHIPP    848572633  4  2 Bk  k     k     k          953   10    0 2c 5c
+IMHIPP    848572682  4  1 BQ  -     -     -          943    5    0 
+IMHIPP    848974918  9  9 f   -     -     -          938    0    0 
+IMHIPP    848975049  9  8 f   -     -     -          938    0    0 
+IMHIPP    848975139 10  8 f   -     -     -          938    0    0 
+IMHIPP    848975236 10  7 f   -     -     -          938    0    0 
+IMHIPP    848975342 11  7 f   -     -     -          938    0    0 
+IMHIPP    848975465 12  7 f   -     -     -          938    0    0 
+IMHIPP    848975627 10  5 f   -     -     -          938    0    0 
+IMHIPP    848975738 10  4 f   -     -     -          938    0    0 
+IMHIPP    848975837 11  3 f   -     -     -          938    0    0 
+IMHIPP    848975909 12  2 Bf  -     -     -          938   10    0 
+IMHIPP    848976069 12  1 Bf  -     -     -          928    5    0 
+IMHIPP    848976200 12 12 f   -     -     -          923    0    0 
+IMHIPP    848976339 11 10 f   -     -     -          923    0    0 
+IMHIPP    848976603 11  9 cr  c     b     kf         923   60    0 
+IMHIPP    848976780 12  9 c   k     f     -          863   20    0 
+IMHIPP    848976914 12  9 f   -     -     -          843    0    0 
+IMHIPP    848977069 11  7 f   -     -     -          843    0    0 
+IMHIPP    848977162 11  6 cc  f     -     -          843   40    0 
+IMHIPP    848977343 10  6 f   -     -     -          803    0    0 
+IMHIPP    848977422 11  4 f   -     -     -          803    0    0 
+IMHIPP    848977549 10  2 Bk  kc    kc    kc         803   60    0 8s 7c
+IMHIPP    848977607  9  1 Bc  kf    -     -          743   20    0 
+IMHIPP    848977690  9  9 f   -     -     -          723    0    0 
+IMHIPP    848977733  9  8 f   -     -     -          723    0    0 
+IMHIPP    848977840 12  9 f   -     -     -          723    0    0 
+IMHIPP    848977949 12  8 ccc cc    cc    f          723  140    0 
+IMHIPP    848978131 12  7 c   kf    -     -          583   20    0 
+IMHIPP    848978326 12  6 f   -     -     -          563    0    0 
+IMHIPP    848978391 12  5 f   -     -     -          563    0    0 
+IMHIPP    848978469 12  4 f   -     -     -          563    0    0 
+IMHIPP    848978612 12  3 c   k     kf    -          563   10    0 
+IMHIPP    848978700 11  2 Bc  bc    kc    kc         553  100    0 5h 5s
+IMHIPP    848978815 11  1 Bf  -     -     -          453    5    0 
+IMHIPP    848978960 11 11 f   -     -     -          448    0    0 
+IMHIPP    848979090 12 11 c   r     b     c          448   90    0 6s Qs
+IMHIPP    848979233 12 10 f   -     Q     -          358    0    0 
+IMHIPP    849057337  8  6 f   -     -     -          358    0    0 
+IMHIPP    849057397  9  5 cc  Q     -     -          358   20    0 

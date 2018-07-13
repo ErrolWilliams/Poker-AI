@@ -1,0 +1,57 @@
+deadline  931537222 10  2 Bf  -     -     -          905   10    0 
+deadline  931537270  9  1 Bf  -     -     -          895    5    0 
+deadline  931537300  7  7 f   -     -     -          890    0    0 
+deadline  931537356  7  6 f   -     -     -          890    0    0 
+deadline  931537383  8  6 c   f     -     -          890   10    0 
+deadline  931537416  8  5 f   -     -     -          880    0    0 
+deadline  931537464  8  4 f   -     -     -          880    0    0 
+deadline  931537502  9  3 f   -     -     -          880    0    0 
+deadline  931537542 10  2 Bf  -     -     -          880   10    0 
+deadline  931537568 10  1 Bf  -     -     -          870    5    0 
+deadline  931537583 10 10 f   -     -     -          865    0    0 
+deadline  931537641 10  9 f   -     -     -          865    0    0 
+deadline  931537662 10  8 f   -     -     -          865    0    0 
+deadline  931537695 10  7 f   -     -     -          865    0    0 
+deadline  931537758 10  6 c   c     c     k          865   50  155 Ks 6s
+deadline  931537812 10  5 cc  b     k     -          970   30  130 
+deadline  931538013 10  4 f   -     -     -         1070    0    0 
+deadline  931538077  9  3 f   -     -     -         1070    0    0 
+deadline  931538161 10  2 Bf  -     -     -         1070   10    0 
+deadline  931538218 10  1 Bc  b     kc    kf        1060   50    0 
+deadline  931538275 10 10 f   -     -     -         1010    0    0 
+deadline  931538363  7  6 f   -     -     -         1010    0    0 
+deadline  931538404  8  6 f   -     -     -         1010    0    0 
+deadline  931538424  9  6 f   -     -     -         1010    0    0 
+deadline  931538485  9  5 c   k     f     -         1010   10    0 
+deadline  931538531 10  4 cc  r     b     rc        1000  120    0 Jc Tc
+deadline  931538576 10  3 cc  c     c     c          880   70    0 8s Qs
+deadline  931538627 10  2 Bk  b     b     k          810   40   90 3s Ks
+deadline  931538656 10  1 Bf  -     -     -          860    5    0 
+deadline  931538697 10 10 f   -     -     -          855    0    0 
+deadline  931538742  9  8 f   -     -     -          855    0    0 
+deadline  931538790 10  8 f   -     -     -          855    0    0 
+deadline  931538823 10  7 f   -     -     -          855    0    0 
+deadline  931538879 10  6 ccc c     f     -          855   60    0 
+deadline  931538939 10  5 f   -     -     -          795    0    0 
+deadline  931538964 10  4 f   -     -     -          795    0    0 
+deadline  931538994 10  3 f   -     -     -          795    0    0 
+deadline  931539055 10  2 Bk  k     kf    -          795   10    0 
+deadline  931539128 10  1 Bf  -     -     -          785    5    0 
+deadline  931539186 10 10 f   -     -     -          780    0    0 
+deadline  931539229 10  9 c   k     k     f          780   10    0 
+deadline  931539276 10  8 c   k     f     -          770   20    0 
+deadline  931539306 10  7 c   k     k     c          750   40    0 Jc 8c
+deadline  931539342 10  6 cc  r     c     k          710   80    0 8h Jh
+deadline  931539393 10  5 f   -     -     -          630    0    0 
+deadline  931539425 10  4 ccc kf    -     -          630   40    0 
+deadline  931539502 10  3 f   -     -     -          590    0    0 
+deadline  931539557 10  2 Bf  -     -     -          590   10    0 
+deadline  931539620 10  1 Bf  -     -     -          580    5    0 
+deadline  931539653 10 10 f   -     -     -          575    0    0 
+deadline  931539683 10  9 f   -     -     -          575    0    0 
+deadline  931539729 10  8 f   -     -     -          575    0    0 
+deadline  931539791 10  7 f   -     -     -          575    0    0 
+deadline  931539862 10  6 f   -     -     -          575    0    0 
+deadline  931539946 10  5 cc  k     f     -          575   20    0 
+deadline  931540011 10  4 cc  f     -     -          555   20    0 
+deadline  931540051 10  3 fQ  -     -     -          535    0    0 

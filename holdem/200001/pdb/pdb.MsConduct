@@ -1,0 +1,552 @@
+MsConduct 949041268 10  4 ccc kcc   kc    kc        1000  110    0 Qs Ts
+MsConduct 949041430 10  3 c   c     c     f          890   40    0 
+MsConduct 949041493 10  2 Bk  kf    -     -          850   10    0 
+MsConduct 949041560 10  1 Bf  -     -     -          840    5    0 
+MsConduct 949041654 10 10 f   -     -     -          835    0    0 
+MsConduct 949041704 10  9 f   -     -     -          835    0    0 
+MsConduct 949041778 10  8 f   -     -     -          835    0    0 
+MsConduct 949041869 10  7 f   -     -     -          835    0    0 
+MsConduct 949041950 10  6 f   -     -     -          835    0    0 
+MsConduct 949042023 10  5 f   -     -     -          835    0    0 
+MsConduct 949042091  9  4 c   ccc   cc    f          835   90    0 
+MsConduct 949042198  9  3 c   kc    kc    kf         745   40    0 
+MsConduct 949042255  7  1 Bf  -     -     -          705   10    0 
+MsConduct 949042283  5  1 Bcc br    b     -          695   70  200 
+MsConduct 949042341  5  5 cc  c     k     r          825   80  280 2h 7h
+MsConduct 949042435  5  4 f   -     -     -         1025    0    0 
+MsConduct 949042490  5  3 c   k     k     k         1025   10    0 3h Th
+MsConduct 949042547  5  2 Bk  kf    -     -         1015   10    0 
+MsConduct 949042608  5  1 Bf  -     -     -         1005    5    0 
+MsConduct 949042668  5  5 f   -     -     -         1000    0    0 
+MsConduct 949042694  5  4 f   -     -     -         1000    0    0 
+MsConduct 949042782  5  3 f   -     -     -         1000    0    0 
+MsConduct 949042849  5  2 Bk  kf    -     -         1000   10    0 
+MsConduct 949042885  5  1 Bf  -     -     -          990    5    0 
+MsConduct 949042920  5  5 f   -     -     -          985    0    0 
+MsConduct 949042947  5  4 f   -     -     -          985    0    0 
+MsConduct 949042961  5  3 f   -     -     -          985    0    0 
+MsConduct 949043004  5  2 Bk  kc    kc    kf         985   40    0 
+MsConduct 949043039  5  1 Bc  b     b     -          945   40   70 
+MsConduct 949043071  5  5 f   -     -     -          975    0    0 
+MsConduct 949043122  5  4 c   b     kc    cc         975   80    0 Kc Tc
+MsConduct 949043199  5  3 f   -     -     -          895    0    0 
+MsConduct 949043239  4  2 Bc  c     c     c          895   70    0 Ks Qh
+MsConduct 949043289  5  1 Br  b     b     b          825   80  170 Ks Kc
+MsConduct 949043323  4  4 cc  c     k     c          915   50    0 4s 4d
+MsConduct 949043371  4  3 cc  r     r     b          865  100  250 8c 5c
+MsConduct 949043409  4  2 Bc  c     kf    -         1015   30    0 
+MsConduct 949043456  4  1 Bc  kc    k     kc         985   60   80 8c Jh
+MsConduct 949043511  4  4 c   c     c     f         1005   40    0 
+MsConduct 949043549  5  4 f   -     -     -          965    0    0 
+MsConduct 949043577  5  3 f   -     -     -          965    0    0 
+MsConduct 949043608  5  2 Bf  -     -     -          965   10    0 
+MsConduct 949043636  4  1 Bc  kc    k     kf         955   30    0 
+MsConduct 949043658  4  4 f   -     -     -          925    0    0 
+MsConduct 949043676  4  3 cc  kc    k     f          925   30    0 
+MsConduct 949043724  5  3 cc  c     k     k          895   30    0 Ah 5c
+MsConduct 949043752  5  2 Bf  -     -     -          865   10    0 
+MsConduct 949043781  5  1 Bf  -     -     -          855    5    0 
+MsConduct 949043814  5  5 c   f     -     -          850   10    0 
+MsConduct 949043890  6  5 f   -     -     -          840    0    0 
+MsConduct 949043958  6  4 f   -     -     -          840    0    0 
+MsConduct 949044063  6  3 f   -     -     -          840    0    0 
+MsConduct 949044166  8  2 Bc  kc    kc    kf         840   50    0 
+MsConduct 949044230  7  1 Bf  -     -     -          790    5    0 
+MsConduct 949044280  7  7 f   -     -     -          785    0    0 
+MsConduct 949044352  8  7 c   c     c     f          785   40    0 
+MsConduct 949044390  7  6 c   k     f     -          745   10    0 
+MsConduct 949044543  6  3 c   kc    k     c          735   40    0 Ks Th
+MsConduct 949044623  6  2 Bc  c     ccc   kc         695  130    0 4h 4c
+MsConduct 949044736  6  1 Bf  -     -     -          565    5    0 
+MsConduct 949044757  6  6 f   -     -     -          560    0    0 
+MsConduct 949044808  7  6 c   c     c     c          560   70    0 As 9s
+MsConduct 949044854  7  5 c   b     c     k          490   40  125 6d Qd
+MsConduct 949044904  7  4 c   cc    kcc   f          575  100    0 
+MsConduct 949044984  7  3 c   kc    kf    -          475   20    0 
+MsConduct 949045040  7  2 Bf  -     -     -          455   10    0 
+MsConduct 949045095  7  1 Bc  kc    kf    -          445   30    0 
+MsConduct 949045222  6  6 cc  c     k     c          415   70    0 Kh 5c
+MsConduct 949045320  6  6 f   Q     -     -          345    0    0 
+MsConduct 949052977 10  3 f   -     -     -          695    0    0 
+MsConduct 949053056 10  2 Bk  c     f     -          695   20    0 
+MsConduct 949053116 10  1 Bf  -     -     -          675    5    0 
+MsConduct 949053190 10 10 c   c     c     f          670   40    0 
+MsConduct 949053248 10  9 f   -     -     -          630    0    0 
+MsConduct 949053315 10  8 cc  c     c     f          630   50    0 
+MsConduct 949053392 10  7 c   c     c     f          580   50    0 
+MsConduct 949053477 10  6 f   -     -     -          530    0    0 
+MsConduct 949053527 10  5 c   k     c     kf         530   30    0 
+MsConduct 949053602 10  4 ccc kf    -     -          500   40    0 
+MsConduct 949053686 10  3 f   -     -     -          460    0    0 
+MsConduct 949053761 10  2 Bf  -     -     -          460   10    0 
+MsConduct 949053824 10  1 Bf  -     -     -          450    5    0 
+MsConduct 949053867 10 10 f   -     -     -          445    0    0 
+MsConduct 949053956 10  9 f   -     -     -          445    0    0 
+MsConduct 949054011 10  8 cc  cc    cc    f          445  100    0 
+MsConduct 949054135 10  7 f   -     -     -          345    0    0 
+MsConduct 949054215 10  6 f   -     -     -          345    0    0 
+MsConduct 949054333 10  5 f   -     -     Q          345    0    0 
+MsConduct 949089777  9  5 f   -     -     -         1658    0    0 
+MsConduct 949089845 10  4 f   -     -     -         1658    0    0 
+MsConduct 949089987 10  3 f   -     -     -         1658    0    0 
+MsConduct 949090087  9  2 Bf  -     -     -         1658   10    0 
+MsConduct 949090124  7  1 Bc  kc    kc    kc        1648   80    0 Jh 8h
+MsConduct 949090201  7  7 f   -     -     -         1568    0    0 
+MsConduct 949090252  6  5 f   Q     -     -         1568    0    0 
+MsConduct 949154874 10  7 f   -     -     -         1668    0    0 
+MsConduct 949154927 10  6 c   c     f     -         1668   20    0 
+MsConduct 949154975 10  5 f   -     -     -         1648    0    0 
+MsConduct 949155029 10  4 f   -     -     -         1648    0    0 
+MsConduct 949155137  9  2 Bk  kf    -     -         1648   10    0 
+MsConduct 949155178 10  1 Bc  k     b     -         1638   30   60 
+MsConduct 949155216  8  8 f   -     -     -         1668    0    0 
+MsConduct 949155273  8  7 f   -     -     -         1668    0    0 
+MsConduct 949155378  8  6 f   -     -     -         1668    0    0 
+MsConduct 949155429  8  5 c   c     f     -         1668   20    0 
+MsConduct 949155486  8  4 f   -     -     -         1648    0    0 
+MsConduct 949155583 10  3 ccc kc    kc    kf        1648   60    0 
+MsConduct 949155681  9  2 Bk  cc    kf    -         1588   30    0 
+MsConduct 949155758  8  1 Bc  kc    kc    kf        1558   40    0 
+MsConduct 949155859  9  9 c   f     -     -         1518   10    0 
+MsConduct 949155941  9  8 c   f     -     -         1508   20    0 
+MsConduct 949156060  9  7 f   -     -     -         1488    0    0 
+MsConduct 949156106  9  6 c   kc    kc    kr        1488   80  215 Qs Kh
+MsConduct 949156170  9  5 c   k     k     b         1623   30    0 9s Qd
+MsConduct 949156233 10  4 f   -     -     -         1593    0    0 
+MsConduct 949156300 10  3 c   kc    c     k         1593   40    0 Qc Ts
+MsConduct 949156402 10  2 Bk  k     kf    -         1553   10    0 
+MsConduct 949156447 10  1 Br  b     b     b         1543   90  430 Kd Ad
+MsConduct 949156575 10 10 f   -     -     -         1883    0    0 
+MsConduct 949156679  9  9 c   c     Q     -         1883   30    0 
+MsConduct 949188854  9  8 c   c     f     -         1853   20    0 
+MsConduct 949188906  8  7 c   k     k     c         1833   30    0 Ah Qc
+MsConduct 949188947 10  7 f   -     -     -         1803    0    0 
+MsConduct 949188978 10  6 f   -     -     -         1803    0    0 
+MsConduct 949189089 10  5 cc  kc    kc    kc        1803   70    0 Ah Jc
+MsConduct 949189143 10  4 c   kf    -     -         1733   10    0 
+MsConduct 949189242 10  3 c   b     bc    kc        1723   80  175 6h 6s
+MsConduct 949189281 10  2 Bk  kc    c     kc        1818   60    0 Jh 6d
+MsConduct 949189346 10  1 Bf  -     -     -         1758    5    0 
+MsConduct 949189385 10 10 f   -     -     -         1753    0    0 
+MsConduct 949189423 10  9 f   -     -     -         1753    0    0 
+MsConduct 949189461 10  8 c   b     b     c         1753   60   65 Ac Ts
+MsConduct 949189516  9  6 c   rr    rr    rr        1758  210  700 Td 7d
+MsConduct 949189592 10  6 c   k     c     c         2248   50    0 Jc 9d
+MsConduct 949189635 10  5 cc  c     c     c         2198   80  175 5d 6h
+MsConduct 949189700 10  4 c   brc   b     b         2293   90  200 Js 9c
+MsConduct 949189814 10  3 f   -     -     -         2403    0    0 
+MsConduct 949189875 10  2 Bk  kc    kf    -         2403   20    0 
+MsConduct 949189917 10  1 Bcc kc    kc    kc        2383   80    0 Qd 9c
+MsConduct 949189972 10 10 f   -     -     -         2303    0    0 
+MsConduct 949189994 10  9 f   -     -     -         2303    0    0 
+MsConduct 949190034 10  8 f   -     -     -         2303    0    0 
+MsConduct 949190076 10  7 f   -     -     -         2303    0    0 
+MsConduct 949190131 10  6 f   -     -     -         2303    0    0 
+MsConduct 949190149 10  5 cc  kc    kc    kf        2303   50    0 
+MsConduct 949190194 10  4 fQ  -     -     -         2253    0    0 
+MsConduct 949226758 10  9 f   -     -     -         2253    0    0 
+MsConduct 949226813 10  8 f   -     -     -         2253    0    0 
+MsConduct 949226852 10  7 c   cc    c     c         2253   90    0 Qh Js
+MsConduct 949226941 10  6 c   k     b     k         2163   30   95 9d As
+MsConduct 949226985 10  5 f   -     -     -         2228    0    0 
+MsConduct 949227020 10  4 c   k     kf    -         2228   10    0 
+MsConduct 949227061 10  3 c   b     bc    k         2218   60    0 Kc Ks
+MsConduct 949227116 10  2 Bf  -     -     -         2158   10    0 
+MsConduct 949227200  8  1 Bc  kc    kc    kc        2148   60    0 5d 4c
+MsConduct 949227265  9  8 cc  kf    -     -         2088   20    0 
+MsConduct 949227284  9  7 r   br    b     k         2068   70  235 Jc Jh
+MsConduct 949227317  9  6 f   -     -     -         2233    0    0 
+MsConduct 949227343  9  5 c   k     f     -         2233   10    0 
+MsConduct 949227378  9  4 f   -     -     -         2223    0    0 
+MsConduct 949227422  9  3 cc  c     c     k         2223   60  270 4h 5c
+MsConduct 949227497  9  2 Bk  kc    kf    -         2433   20    0 
+MsConduct 949227542  9  1 Bf  -     -     -         2413    5    0 
+MsConduct 949227574  9  9 f   -     -     -         2408    0    0 
+MsConduct 949227628  9  8 c   c     f     -         2408   30    0 
+MsConduct 949227668  9  7 c   c     f     -         2378   20    0 
+MsConduct 949227719  9  6 f   -     -     -         2358    0    0 
+MsConduct 949227749  9  5 c   kf    -     -         2358   10    0 
+MsConduct 949227791  9  4 f   -     -     -         2348    0    0 
+MsConduct 949227842  9  3 f   -     -     -         2348    0    0 
+MsConduct 949227878  9  2 Bc  k     f     -         2348   20    0 
+MsConduct 949227917  9  1 Bc  k     k     k         2328   10    0 Qh 7h
+MsConduct 949227992  9  9 f   -     -     -         2318    0    0 
+MsConduct 949228026  9  8 f   -     -     -         2318    0    0 
+MsConduct 949228042 10  8 c   f     -     -         2318   10    0 
+MsConduct 949228115 10  7 cc  kf    -     -         2308   20    0 
+MsConduct 949228162 10  6 c   c     cc    rr        2288  170    0 Ts 9d
+MsConduct 949228277 10  5 cc  c     f     -         2118   30    0 
+MsConduct 949228410 10  4 f   -     -     -         2088    0    0 
+MsConduct 949228468 10  4 cc  c     c     f         2088   60    0 
+MsConduct 949228553 10  2 Bf  -     -     -         2028   10    0 
+MsConduct 949228706  9  1 Bf  -     -     -         2018    5    0 
+MsConduct 949228733  9  9 f   -     -     -         2013    0    0 
+MsConduct 949228771  9  8 cc  f     -     -         2013   40    0 
+MsConduct 949228828  9  7 f   -     -     -         1973    0    0 
+MsConduct 949228862 10  7 cc  cf    -     -         1973   50    0 
+MsConduct 949228928 10  6 f   -     -     -         1923    0    0 
+MsConduct 949229024 10  5 cc  kc    kc    kc        1923   70  170 Ac Js
+MsConduct 949229068 10  4 c   kf    -     -         2023   10    0 
+MsConduct 949229101 10  3 cc  k     b     b         2013   60  115 
+MsConduct 949229125 10  2 Bk  k     k     kc        2068   30    0 6d Tc
+MsConduct 949229190 10  1 Bf  -     -     -         2038    5    0 
+MsConduct 949229270 10 10 f   -     -     -         2033    0    0 
+MsConduct 949229321 10  9 f   -     -     -         2033    0    0 
+MsConduct 949229373 10  8 f   -     -     -         2033    0    0 
+MsConduct 949229431 10  7 f   -     -     -         2033    0    0 
+MsConduct 949229480 10  6 f   -     -     -         2033    0    0 
+MsConduct 949229518 10  5 f   -     -     -         2033    0    0 
+MsConduct 949229558 10  4 f   -     -     -         2033    0    0 
+MsConduct 949229634 10  3 f   -     -     -         2033    0    0 
+MsConduct 949229693 10  2 Bf  -     -     -         2033   10    0 
+MsConduct 949229745 10  1 Bf  -     -     -         2023    5    0 
+MsConduct 949229791 10 10 f   -     -     -         2018    0    0 
+MsConduct 949229885 10  9 f   -     -     -         2018    0    0 
+MsConduct 949229942 10  8 f   -     -     -         2018    0    0 
+MsConduct 949230007 10  7 f   -     -     -         2018    0    0 
+MsConduct 949230094 10  6 f   -     -     -         2018    0    0 
+MsConduct 949230163 10  5 f   -     -     -         2018    0    0 
+MsConduct 949230208 10  4 f   -     -     -         2018    0    0 
+MsConduct 949230250 10  3 f   -     -     -         2018    0    0 
+MsConduct 949230289 10  2 Bf  -     -     -         2018   10    0 
+MsConduct 949230340 10  1 Bf  -     -     -         2008    5    0 
+MsConduct 949230426 10 10 f   -     -     -         2003    0    0 
+MsConduct 949230478 10  9 f   -     -     -         2003    0    0 
+MsConduct 949230514 10  8 f   -     -     -         2003    0    0 
+MsConduct 949230568 10  7 f   -     -     -         2003    0    0 
+MsConduct 949230631 10  6 f   -     -     -         2003    0    0 
+MsConduct 949230702 10  5 f   -     -     -         2003    0    0 
+MsConduct 949230762 10  4 f   -     -     -         2003    0    0 
+MsConduct 949230825 10  3 f   -     -     -         2003    0    0 
+MsConduct 949230896 10  2 Bk  cc    kf    -         2003   30    0 
+MsConduct 949230974 10  1 Bcc kc    kc    kc        1973   70    0 9d 7c
+MsConduct 949231025 10 10 ccc f     -     -         1903   40    0 
+MsConduct 949231124 10  9 f   -     -     -         1863    0    0 
+MsConduct 949231227 10  8 cc  kf    -     -         1863   20    0 
+MsConduct 949231296 10  7 cc  cc    k     f         1843   50    0 
+MsConduct 949231421 10  6 cc  kc    k     f         1793   30    0 
+MsConduct 949231504 10  5 f   -     -     -         1763    0    0 
+MsConduct 949231555 10  4 f   -     -     -         1763    0    0 
+MsConduct 949231649 10  3 f   -     -     -         1763    0    0 
+MsConduct 949231719 10  2 Bf  -     -     -         1763   10    0 
+MsConduct 949231810  9  1 Br  kc    kc    kf        1753   80    0 
+MsConduct 949231897  9  9 f   -     -     -         1673    0    0 
+MsConduct 949231941  9  8 c   c     c     c         1673   60  165 Ks Qs
+MsConduct 949231988  9  7 cc  kc    kc    kc        1778   70  255 Jc Td
+MsConduct 949232066  9  7 f   -     -     -         1963    0    0 
+MsConduct 949232146  8  5 cc  kcc   kc    kc        1963  100    0 9c 9d
+MsConduct 949232199  8  4 c   kc    c     f         1863   40    0 
+MsConduct 949232267  8  3 f   -     -     -         1823    0    0 
+MsConduct 949232334  8  2 Bk  bc    k     b         1823   50  170 Qd Qc
+MsConduct 949232395 10  1 Bf  -     -     -         1943    5    0 
+MsConduct 949232499 10 10 c   f     -     -         1938   10    0 
+MsConduct 949232555 10  9 cc  kc    kf    -         1928   30    0 
+MsConduct 949232616 10  8 f   -     -     -         1898    0    0 
+MsConduct 949232700 10  7 cc  bc    kc    br        1898  120  397 Kc Tc
+MsConduct 949232783  9  6 c   c     c     c         2175   60   90 Ac 4s
+MsConduct 949232841  9  5 cc  kc    kc    kc        2205   70    0 Qh 9d
+MsConduct 949232911  9  4 cc  kc    kf    -         2135   30    0 
+MsConduct 949232964  9  2 Bc  bc    k     kf        2105   50    0 
+MsConduct 949233020 10  1 Bc  kc    kc    kf        2055   40    0 
+MsConduct 949233143  9  9 c   k     f     -         2015   10    0 
+MsConduct 949233206 10  9 c   c     f     -         2005   20    0 
+MsConduct 949233279 10  8 f   -     -     -         1985    0    0 
+MsConduct 949233400 10  7 f   -     -     -         1985    0    0 
+MsConduct 949233517 10  6 cc  kcc   kc    k         1985   80    0 Ah 6d
+MsConduct 949233661 10  3 Q   -     -     -         1905    0    0 
+MsConduct 949289013  7  4 cc  f     -     -         1814   20    0 
+MsConduct 949289061  7  3 cc  cc    cc    cc        1794  190    0 Qc 7c
+MsConduct 949289154  9  2 Bk  kf    Q     -         1604   10    0 
+MsConduct 949307550 10  7 c   k     c     f         1862   30    0 
+MsConduct 949307640 10  6 f   -     -     -         1832    0    0 
+MsConduct 949307691 10  5 f   -     -     -         1832    0    0 
+MsConduct 949307743  9  4 c   k     k     k         1832   10    0 Ah Qc
+MsConduct 949307801  9  2 f   -     -     -         1822    0    0 
+MsConduct 949307845  9  2 Bk  c     kc    k         1822   40    0 Ad 2h
+MsConduct 949307908  9  1 Bc  kc    kf    -         1782   40    0 
+MsConduct 949307964  9  9 c   k     k     f         1742   10    0 
+MsConduct 949308042 10  9 cc  c     k     c         1732   50  185 Ac 9s
+MsConduct 949308129 10  8 c   c     c     kf        1867   40    0 
+MsConduct 949308184 10  7 f   -     -     -         1827    0    0 
+MsConduct 949308232 10  6 cc  bc    kc    kc        1827   80    0 Kd Th
+MsConduct 949308321 10  6 f   -     -     -         1747    0    0 
+MsConduct 949308380  9  4 f   -     -     -         1747    0    0 
+MsConduct 949308424  9  3 f   -     -     -         1747    0    0 
+MsConduct 949308473  9  2 Bk  kf    -     -         1747   10    0 
+MsConduct 949308518  9  1 Bf  -     -     -         1737    5    0 
+MsConduct 949308566 10 10 f   -     -     -         1732    0    0 
+MsConduct 949308619 10  9 f   -     -     -         1732    0    0 
+MsConduct 949308706 10  8 c   c     c     c         1732   60    0 Ad 3c
+MsConduct 949308761 10  7 f   -     -     -         1672    0    0 
+MsConduct 949308864 10  6 f   -     -     -         1672    0    0 
+MsConduct 949308946 10  5 f   -     -     -         1672    0    0 
+MsConduct 949308984 10  4 f   -     -     -         1672    0    0 
+MsConduct 949309054 10  3 f   -     -     -         1672    0    0 
+MsConduct 949309119 10  2 Bf  -     Q     -         1672   10    0 
+MsConduct 949310203 10  7 f   -     -     -         1662    0    0 
+MsConduct 949310266 10  6 c   c     c     c         1662   80  315 Qd Kd
+MsConduct 949310324 10  5 c   c     c     f         1897   40    0 
+MsConduct 949310378 10  4 c   b     b     b         1857   60  140 
+MsConduct 949310451 10  3 f   -     -     -         1937    0    0 
+MsConduct 949310508 10  2 Bk  kc    kf    -         1937   20    0 
+MsConduct 949310566 10  1 Bc  kf    -     -         1917   20    0 
+MsConduct 949310656 10 10 c   f     -     -         1897   10    0 
+MsConduct 949310746 10  9 f   -     -     -         1887    0    0 
+MsConduct 949310849 10  8 f   -     -     -         1887    0    0 
+MsConduct 949310929 10  7 f   -     -     -         1887    0    0 
+MsConduct 949310995 10  6 cc  c     c     kf        1887   50    0 
+MsConduct 949311061 10  5 f   -     -     -         1837    0    0 
+MsConduct 949311170 10  4 f   -     -     -         1837    0    0 
+MsConduct 949311270  9  2 c   kf    -     -         1837   10    0 
+MsConduct 949311338  9  2 Bc  k     f     -         1827   20    0 
+MsConduct 949311395  9  1 Bf  -     -     -         1807    5    0 
+MsConduct 949311437  8  8 c   c     c     r         1802   80  200 
+MsConduct 949311503  8  7 f   -     -     -         1922    0    0 
+MsConduct 949311550  8  6 cc  f     -     -         1922   20    0 
+MsConduct 949311606  8  5 c   kf    -     -         1902   10    0 
+MsConduct 949311663  8  4 f   -     -     -         1892    0    0 
+MsConduct 949311722  8  3 f   -     -     -         1892    0    0 
+MsConduct 949311762  8  2 Bf  -     -     -         1892   10    0 
+MsConduct 949311821  8  1 Bf  -     -     -         1882    5    0 
+MsConduct 949311939  9  9 f   -     -     -         1877    0    0 
+MsConduct 949311977  9  8 f   -     -     -         1877    0    0 
+MsConduct 949312021  9  7 f   -     -     -         1877    0    0 
+MsConduct 949312083  9  6 f   -     -     -         1877    0    0 
+MsConduct 949312136  9  5 f   -     -     -         1877    0    0 
+MsConduct 949312230  9  4 f   -     -     -         1877    0    0 
+MsConduct 949312296  9  3 f   -     -     -         1877    0    0 
+MsConduct 949312381 10  2 Bf  -     -     -         1877   10    0 
+MsConduct 949312464 10  1 Bf  -     -     -         1867    5    0 
+MsConduct 949312565 10 10 f   -     -     -         1862    0    0 
+MsConduct 949312617 10  9 f   -     -     -         1862    0    0 
+MsConduct 949312697 10  8 f   -     -     -         1862    0    0 
+MsConduct 949312786 10  7 f   -     -     -         1862    0    0 
+MsConduct 949312879 10  6 f   -     -     -         1862    0    0 
+MsConduct 949312961 10  5 f   -     -     -         1862    0    0 
+MsConduct 949313034 10  4 f   -     -     -         1862    0    0 
+MsConduct 949313131 10  3 f   -     -     -         1862    0    0 
+MsConduct 949313212 10  2 Bf  -     -     -         1862   10    0 
+MsConduct 949313307 10  1 Bf  -     -     -         1852    5    0 
+MsConduct 949313408 10 10 f   -     -     -         1847    0    0 
+MsConduct 949313498 10  9 f   -     -     -         1847    0    0 
+MsConduct 949313572 10  8 f   -     -     -         1847    0    0 
+MsConduct 949313639 10  7 f   -     -     -         1847    0    0 
+MsConduct 949313682 10  6 f   -     -     -         1847    0    0 
+MsConduct 949313714 10  5 f   -     -     -         1847    0    0 
+MsConduct 949313778 10  4 f   -     -     -         1847    0    0 
+MsConduct 949313837 10  3 f   -     -     -         1847    0    0 
+MsConduct 949313905 10  2 Bk  kf    -     -         1847   10    0 
+MsConduct 949313960 10  1 Bf  -     -     -         1837    5    0 
+MsConduct 949314019 10 10 f   -     -     -         1832    0    0 
+MsConduct 949314109 10  9 c   f     -     -         1832   10    0 
+MsConduct 949314180 10  8 c   r     b     b         1822   70  210 7h 7s
+MsConduct 949314297 10  7 f   -     -     -         1962    0    0 
+MsConduct 949314409 10  6 c   f     -     -         1962   10    0 
+MsConduct 949314497 10  5 f   -     -     -         1952    0    0 
+MsConduct 949314570 10  4 c   b     b     -         1952   40   80 
+MsConduct 949314615 10  3 cc  c     c     c         1992   70  280 6s 3s
+MsConduct 949314694 10  2 Bk  kf    -     -         2202   10    0 
+MsConduct 949314760 10  1 Bf  -     -     -         2192    5    0 
+MsConduct 949314801 10 10 c   c     c     f         2187   40    0 
+MsConduct 949314882 10  9 f   -     -     -         2147    0    0 
+MsConduct 949314944 10  8 c   k     c     f         2147   30    0 
+MsConduct 949315004 10  7 c   k     f     -         2117   10    0 
+MsConduct 949315082 10  6 f   -     -     -         2107    0    0 
+MsConduct 949315145 10  5 c   kf    -     -         2107   10    0 
+MsConduct 949315248 10  4 f   -     -     -         2097    0    0 
+MsConduct 949315358 10  3 f   -     -     -         2097    0    0 
+MsConduct 949315449 10  2 Bc  k     kf    -         2097   20    0 
+MsConduct 949315514 10  1 Bf  -     -     -         2077    5    0 
+MsConduct 949315578 10 10 f   -     -     -         2072    0    0 
+MsConduct 949315669 10  9 f   -     -     -         2072    0    0 
+MsConduct 949315813 10  8 f   -     -     -         2072    0    0 
+MsConduct 949315868 10  7 f   -     -     -         2072    0    0 
+MsConduct 949315915 10  6 cc  kc    kc    kf        2072   50    0 
+MsConduct 949315992 10  5 f   -     -     -         2022    0    0 
+MsConduct 949316070 10  4 f   -     -     -         2022    0    0 
+MsConduct 949316131 10  3 c   c     c     k         2022   40    0 7c Jc
+MsConduct 949316205 10  2 Bf  -     -     -         1982   10    0 
+MsConduct 949316263 10  1 Bf  -     -     -         1972    5    0 
+MsConduct 949316347 10 10 c   k     b     k         1967   40   58 Ac 2s
+MsConduct 949316426 10  9 f   -     -     -         1985    0    0 
+MsConduct 949316496 10  8 f   -     -     -         1985    0    0 
+MsConduct 949316551 10  7 f   -     -     -         1985    0    0 
+MsConduct 949316614 10  6 f   -     -     -         1985    0    0 
+MsConduct 949316665 10  5 c   k     k     f         1985   10    0 
+MsConduct 949316762 10  4 c   k     kf    -         1975   10    0 
+MsConduct 949316884 10  3 f   -     -     -         1965    0    0 
+MsConduct 949316982 10  2 Bf  -     -     -         1965   10    0 
+MsConduct 949317062 10  1 Bc  kc    kc    k         1955   40    0 Kc Ah
+MsConduct 949317184 10 10 c   k     f     -         1915   10    0 
+MsConduct 949317271 10  9 f   -     -     -         1905    0    0 
+MsConduct 949317351 10  8 f   -     -     -         1905    0    0 
+MsConduct 949317413 10  7 f   -     -     -         1905    0    0 
+MsConduct 949317542 10  6 cc  kf    Q     -         1905   20    0 
+MsConduct 949327597 10  8 c   c     c     k         1885   60    0 5c Ad
+MsConduct 949327656 10  7 cc  kf    -     -         1825   20    0 
+MsConduct 949327708 10  6 f   -     -     -         1805    0    0 
+MsConduct 949327782 10  5 ccc kc    kcc   kc        1805  160  252 5c Ad
+MsConduct 949327872 10  4 cc  c     kc    k         1897   50  200 Qs Jd
+MsConduct 949327933 10  3 f   -     -     -         2047    0    0 
+MsConduct 949327984 10  2 Bk  f     -     -         2047   10    0 
+MsConduct 949328039 10  1 Bf  -     -     -         2037    5    0 
+MsConduct 949328123 10 10 f   -     -     -         2032    0    0 
+MsConduct 949328192 10  9 c   k     cc    f         2032   50    0 
+MsConduct 949328283 10  8 f   -     -     -         1982    0    0 
+MsConduct 949328362 10  7 f   -     -     -         1982    0    0 
+MsConduct 949328443 10  6 f   -     -     -         1982    0    0 
+MsConduct 949328488 10  5 f   -     -     -         1982    0    0 
+MsConduct 949328514 10  4 c   k     kf    -         1982   10    0 
+MsConduct 949328573 10  3 f   -     -     -         1972    0    0 
+MsConduct 949328619 10  2 Bk  k     kf    -         1972   10    0 
+MsConduct 949328672 10  1 Bf  -     -     -         1962    5    0 
+MsConduct 949328733 10 10 f   -     -     -         1957    0    0 
+MsConduct 949328821 10  9 f   -     -     -         1957    0    0 
+MsConduct 949328890 10  8 c   k     f     -         1957   10    0 
+MsConduct 949328948 10  7 c   kc    kf    -         1947   20    0 
+MsConduct 949329017 10  6 f   -     -     -         1927    0    0 
+MsConduct 949329059 10  5 f   -     -     -         1927    0    0 
+MsConduct 949329096 10  4 cc  brc   b     b         1927  100  305 
+MsConduct 949329150 10  3 f   -     -     -         2132    0    0 
+MsConduct 949329187 10  2 Bk  kf    -     -         2132   10    0 
+MsConduct 949329217 10  1 Bf  -     -     -         2122    5    0 
+MsConduct 949329265 10 10 f   -     -     -         2117    0    0 
+MsConduct 949329351 10  9 cc  c     f     -         2117   50    0 
+MsConduct 949329402 10  8 f   -     -     -         2067    0    0 
+MsConduct 949329508 10  7 f   -     -     -         2067    0    0 
+MsConduct 949329561 10  6 f   -     -     -         2067    0    0 
+MsConduct 949329625 10  5 c   k     c     r         2067   70  150 Kc Td
+MsConduct 949329686 10  4 c   b     kc    kf        2147   40    0 
+MsConduct 949329781 10  3 c   k     kc    br        2107   90  210 6s 6d
+MsConduct 949329852 10  2 Bk  k     kf    -         2227   10    0 
+MsConduct 949329904 10  1 Bc  k     b     b         2217   50  130 Qh Qd
+MsConduct 949329982 10 10 f   -     -     -         2297    0    0 
+MsConduct 949330055 10  9 f   -     -     -         2297    0    0 
+MsConduct 949330102 10  8 f   -     -     -         2297    0    0 
+MsConduct 949330169 10  7 f   -     -     -         2297    0    0 
+MsConduct 949330218 10  6 c   k     cc    f         2297   70    0 
+MsConduct 949330298 10  5 f   -     -     -         2227    0    0 
+MsConduct 949330344 10  4 f   -     -     -         2227    0    0 
+MsConduct 949330410 10  3 cc  c     c     b         2227   70  225 7h 7c
+MsConduct 949330464 10  2 Bk  k     kc    kc        2382   50  130 7h Kc
+MsConduct 949330513 10  1 Bf  -     -     -         2462    5    0 
+MsConduct 949330565 10 10 c   k     c     c         2457   50    0 5h Th
+MsConduct 949330628 10  9 c   b     -     -         2407   20   65 
+MsConduct 949330684  9  7 c   b     -     -         2452   20   35 
+MsConduct 949330701 10  7 f   -     -     -         2467    0    0 
+MsConduct 949330750 10  6 f   -     -     -         2467    0    0 
+MsConduct 949330795 10  5 c   k     k     kc        2467   30    0 7h 7c
+MsConduct 949330885 10  4 f   -     -     -         2437    0    0 
+MsConduct 949330968 10  4 f   -     -     -         2437    0    0 
+MsConduct 949331016  9  2 Bk  kc    kc    kc        2437   60  150 8h Jh
+MsConduct 949331079 10  1 Bc  kc    k     b         2527   50  220 9c Kc
+MsConduct 949331187  9  9 f   -     -     -         2697    0    0 
+MsConduct 949331239  8  8 c   k     f     -         2697   10    0 
+MsConduct 949331279 10  8 f   -     -     -         2687    0    0 
+MsConduct 949331339 10  7 cc  k     c     f         2687   40    0 
+MsConduct 949331392 10  6 f   -     -     -         2647    0    0 
+MsConduct 949331436 10  5 f   -     -     -         2647    0    0 
+MsConduct 949331469 10  4 cc  k     c     kf        2647   40    0 
+MsConduct 949331543 10  3 f   -     -     -         2607    0    0 
+MsConduct 949331603 10  2 Bf  -     -     -         2607   10    0 
+MsConduct 949331630 10  1 Bc  k     k     k         2597   10    0 7h Qh
+MsConduct 949331659 10 10 f   -     -     -         2587    0    0 
+MsConduct 949331711 10  9 f   -     -     -         2587    0    0 
+MsConduct 949331735 10  8 f   -     -     -         2587    0    0 
+MsConduct 949331767 10  7 f   -     -     -         2587    0    0 
+MsConduct 949331807 10  6 c   kc    kc    kc        2587   60    0 9s 9c
+MsConduct 949331861 10  5 f   -     -     -         2527    0    0 
+MsConduct 949331899 10  4 f   -     -     -         2527    0    0 
+MsConduct 949331928 10  3 f   -     -     -         2527    0    0 
+MsConduct 949331961 10  2 Bk  f     -     -         2527   10    0 
+MsConduct 949331993 10  1 Bc  kf    -     -         2517   20    0 
+MsConduct 949332046 10 10 c   c     c     k         2497   40    0 9d 9s
+MsConduct 949332107 10  9 c   c     c     c         2457   70    0 8s Ks
+MsConduct 949332154 10  3 Q   -     -     -         2387    0    0 
+MsConduct 949358534  9  4 c   c     k     f         2387   20    0 
+MsConduct 949358572  9  3 f   -     -     -         2367    0    0 
+MsConduct 949358623  9  2 Bc  k     b     b         2367   60  185 2c Qc
+MsConduct 949358661  8  1 Bc  kf    -     -         2492   10    0 
+MsConduct 949358706  9  9 c   f     -     -         2482   10    0 
+MsConduct 949358754  9  8 c   f     -     -         2472   10    0 
+MsConduct 949358779  9  7 c   b     bc    c         2462   80    0 As Qd
+MsConduct 949358836  9  6 f   -     -     -         2382    0    0 
+MsConduct 949358884  9  5 c   kc    kc    k         2382   40    0 Kd Kh
+MsConduct 949358926  9  4 r   b     b     b         2342   70  230 
+MsConduct 949358982  8  2 Bk  kc    kc    kc        2502   60    0 6s Jc
+MsConduct 949359022  8  1 Bf  -     -     -         2442    5    0 
+MsConduct 949359056  8  8 c   c     c     k         2437   40    0 Qd Ac
+MsConduct 949359078  8  7 f   -     -     -         2397    0    0 
+MsConduct 949359118  8  6 c   c     c     c         2397   60    0 Ac Ts
+MsConduct 949359161  9  6 f   -     -     -         2337    0    0 
+MsConduct 949359217  8  5 c   k     k     f         2337   10    0 
+MsConduct 949359247  8  4 f   -     -     -         2327    0    0 
+MsConduct 949359265  7  3 c   kc    kc    k         2327   40  140 Ac 9c
+MsConduct 949359325  7  2 Bk  kf    -     -         2427   10    0 
+MsConduct 949359358  8  1 Bc  k     k     b         2417   30   70 
+MsConduct 949359416  8  8 f   -     -     -         2457    0    0 
+MsConduct 949359467  8  7 c   f     -     -         2457   10    0 
+MsConduct 949359506  9  7 c   c     k     b         2447   50  122 Kd Th
+MsConduct 949359559  8  6 c   c     c     c         2519   60    0 Ks Qh
+MsConduct 949359605  8  5 c   kc    kc    kc        2459   60    0 2h Ac
+MsConduct 949359645  8  4 f   -     -     -         2399    0    0 
+MsConduct 949359676  8  3 f   -     -     -         2399    0    0 
+MsConduct 949359726  8  2 Bk  k     k     b         2399   30   65 
+MsConduct 949359773  8  1 Bf  -     -     -         2434    5    0 
+MsConduct 949359832  8  8 c   c     f     -         2429   20    0 
+MsConduct 949359861  8  7 c   c     c     c         2409   60  170 Kc 4c
+MsConduct 949359900  8  6 c   f     -     -         2519   10    0 
+MsConduct 949359955  9  5 f   -     -     -         2509    0    0 
+MsConduct 949360001  9  4 c   c     c     c         2509   60  190 Kc Kh
+MsConduct 949360044  9  3 c   f     -     -         2639   10    0 
+MsConduct 949360102  9  2 Bk  k     c     c         2629   50   60 Ah 7d
+MsConduct 949360137  9  1 Bc  kf    -     -         2639   20    0 
+MsConduct 949360203 10 10 cc  k     c     f         2619   40    0 
+MsConduct 949360284 10  9 c   k     c     f         2579   30    0 
+MsConduct 949360336 10  8 f   -     -     -         2549    0    0 
+MsConduct 949360390 10  7 c   f     -     -         2549   10    0 
+MsConduct 949360449 10  6 f   -     -     -         2539    0    0 
+MsConduct 949360499 10  5 c   cc    f     -         2539   50    0 
+MsConduct 949360583  9  3 f   -     -     -         2489    0    0 
+MsConduct 949360624  8  2 Bk  kc    k     b         2489   40  105 7c Ac
+MsConduct 949360662  8  1 Bc  kf    -     -         2554   10    0 
+MsConduct 949360695  8  8 f   -     -     -         2544    0    0 
+MsConduct 949360707  8  7 c   f     -     -         2544   10    0 
+MsConduct 949360743  8  6 c   kc    kf    -         2534   20    0 
+MsConduct 949360806  8  5 f   -     -     -         2514    0    0 
+MsConduct 949360846  8  4 f   -     -     -         2514    0    0 
+MsConduct 949360880  8  3 f   -     -     -         2514    0    0 
+MsConduct 949360930  9  2 Bk  f     -     -         2514   10    0 
+MsConduct 949361033  8  1 Bf  -     -     -         2504    5    0 
+MsConduct 949361062  7  7 f   -     -     -         2499    0    0 
+MsConduct 949361108  8  7 f   -     -     -         2499    0    0 
+MsConduct 949361169  8  6 f   -     -     -         2499    0    0 
+MsConduct 949361222  8  5 c   f     -     -         2499   10    0 
+MsConduct 949361248  8  4 cc  c     c     c         2489   70  180 Ad Ks
+MsConduct 949361299  9  3 f   -     -     -         2599    0    0 
+MsConduct 949361360  9  2 Bk  kf    -     -         2599   10    0 
+MsConduct 949361387 10  1 Bf  -     -     -         2589    5    0 
+MsConduct 949361429 10 10 cc  f     -     -         2584   30    0 
+MsConduct 949361498 10  9 f   -     -     -         2554    0    0 
+MsConduct 949361596 10  8 c   c     cc    kc        2554   90  187 Qs Ac
+MsConduct 949361667  9  6 f   -     -     -         2651    0    0 
+MsConduct 949361735  9  5 f   -     -     -         2651    0    0 
+MsConduct 949361772  9  4 cc  c     kf    -         2651   30    0 
+MsConduct 949361880 10  3 c   c     k     kf        2621   20    0 
+MsConduct 949361952  9  2 Bk  k     k     k         2601   10   25 6d Jh
+MsConduct 949362028 10  1 Bf  -     -     -         2616    5    0 
+MsConduct 949362070 10 10 f   -     -     -         2611    0    0 
+MsConduct 949362110 10  9 c   cc    cc    c         2611  130    0 Ad 6d
+MsConduct 949362138 10  8 c   k     bc    c         2481   80    0 Ad 2d
+MsConduct 949362184 10  7 c   k     f     -         2401   10    0 
+MsConduct 949362270 10  6 c   kf    -     -         2391   10    0 
+MsConduct 949362345 10  5 f   -     -     -         2381    0    0 
+MsConduct 949362411  9  3 f   -     -     -         2381    0    0 
+MsConduct 949362435  9  3 f   -     -     -         2381    0    0 
+MsConduct 949362472 10  2 Bk  kf    -     -         2381   10    0 
+MsConduct 949362513 10  1 Bf  -     -     -         2371    5    0 
+MsConduct 949362565 10 10 f   -     -     -         2366    0    0 
+MsConduct 949362633  9  8 f   -     -     -         2366    0    0 
+MsConduct 949362685  9  7 f   -     -     -         2366    0    0 
+MsConduct 949362746  9  6 f   -     -     -         2366    0    0 
+MsConduct 949362780 10  6 fQ  -     -     -         2366    0    0 

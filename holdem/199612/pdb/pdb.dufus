@@ -1,0 +1,243 @@
+dufus     850018255 12  2 Bcc kf    -     -         1000   40    0 
+dufus     850018402 12  1 Brc kc    kf    -          960   60    0 
+dufus     850018531 12 12 f   -     -     -          900    0    0 
+dufus     850018632 12 11 cc  f     -     -          900   40    0 
+dufus     850018744 11  9 c   f     -     -          860   20    0 
+dufus     850018812 11  8 f   -     -     -          840    0    0 
+dufus     850018873 12  8 f   -     -     -          840    0    0 
+dufus     850019004 12  7 f   -     -     -          840    0    0 
+dufus     850019073 12  6 cc  f     -     -          840   20    0 
+dufus     850019248 12  7 c   k     k     f          820   10    0 
+dufus     850019418 10  4 cc  kf    -     -          810   20    0 
+dufus     850019547 12  3 f   -     -     -          790    0    0 
+dufus     850019653 12  2 Br  br    kr    b          790  130    0 Ah As
+dufus     850019753 11  1 Bf  -     -     -          660    5    0 
+dufus     850019859 11 11 f   -     -     -          655    0    0 
+dufus     850020002 11 10 f   -     -     -          655    0    0 
+dufus     850020086 11  9 c   cc    c     c          655  100    0 5s Kc
+dufus     850020234 10  7 f   -     -     -          555    0    0 
+dufus     850020305 11  7 c   f     -     -          555   20    0 
+dufus     850020358 10  6 c   f     -     -          535   20    0 
+dufus     850020467  9  5 c   rc    rr    c          515  152  430 5s 8s
+dufus     850020625  9  4 cc  k     kf    -          793   40    0 
+dufus     850020733  9  2 f   -     -     -          753    0    0 
+dufus     850020806  9  2 Bc  k     kf    -          753   20    0 
+dufus     850020885  8  1 Bc  b     -     -          733   20   40 
+dufus     850020930  8  8 c   f     -     -          753   30    0 
+dufus     850021009  8  7 cc  k     f     -          723   20    0 
+dufus     850021075  8  6 c   Q     -     -          703   10    0 
+dufus     850093582  3  2 Bf  -     -     -          693   10    0 
+dufus     850093592  3  1 Br  b     f     -          683   30    0 
+dufus     850093631  3  3 r   k     f     -          653   20    0 
+dufus     850093667  3  2 BQ  -     -     -          633   10    0 
+dufus     850093811  3  3 f   -     -     -          623    0    0 
+dufus     850093861  4  2 Bk  f     -     -          623   10    0 
+dufus     850093892  4  1 Bf  -     -     -          613    5    0 
+dufus     850093924  4  4 cc  c     c     c          608   90    0 Ad 8c
+dufus     850093977  4  3 cc  f     -     -          518   20    0 
+dufus     850094019  4  2 Bf  -     -     -          498   10    0 
+dufus     850094031  4  1 Bf  -     -     -          488    5    0 
+dufus     850094045  4  4 f   -     -     -          483    0    0 
+dufus     850094084  4  3 c   b     -     -          483   20   35 
+dufus     850094121  6  2 Bf  -     -     -          498   10    0 
+dufus     850094244  7  1 Bf  -     -     -          488    5    0 
+dufus     850094294  7  7 r   r     b     b          483   90  220 Qd Kh
+dufus     850094375  8  7 r   rr    b     b          613  110    0 Td Jc
+dufus     850094503  8  7 rc  f     -     -          503   40    0 
+dufus     850094609  8  6 r   b     b     f          463   50    0 
+dufus     850094732 10  6 f   -     -     -          413    0    0 
+dufus     850094824 11  6 f   -     -     -          413    0    0 
+dufus     850094951 12  6 rc  f     Q     -          413   40    0 
+dufus     850150386  8  7 c   rc    c     c          373   90    0 3s Kc
+dufus     850150443  8  6 c   f     -     -          283   20    0 
+dufus     850150515  8  5 c   k     k     c          263   30    0 2d Qd
+dufus     850150569  9  4 c   r     c     k          233   50   58 Ks 8d
+dufus     850150638  8  3 c   k     f     -          241   10    0 
+dufus     850150697  9  2 Bk  kc    kcc   k          231   60    0 4s As
+dufus     850150854  9  1 Bcc kf    -     -          171   40    0 
+dufus     850151113  8  8 cc  k     k     f          131   40    0 
+dufus     850151210  7  7 c   f     -     -           91   20    0 
+dufus     850151265  7  6 c   k     k     b           71   50  166 7c Kd
+dufus     850151319  6  4 r   rrc   rrrA  -          187  187    0 Jh Qh
+dufus     850151449  6  2 Bcc k     k     kf        1000   40    0 
+dufus     850151479  6  1 Br  br    b     b          960  100  290 9s 9c
+dufus     850151516  7  6 c   k     f     -         1150   20    0 
+dufus     850151563  7  5 c   rr    r     b         1130  120    0 4s 8s
+dufus     850151652  7  4 cc  kf    -     -         1010   40    0 
+dufus     850151714  8  4 cc  c     k     f          970   30    0 
+dufus     850151766  8  2 Bc  k     f     -          940   20    0 
+dufus     850151902  8  1 Bc  krr   b     k          920   70    0 Qs 9c
+dufus     850151971  8  8 cc  c     c     f          850   80    0 
+dufus     850152039  8  7 c   c     c     f          770   60    0 
+dufus     850152085  8  6 rr  rrrc  rrr   k          710  240    0 Qh Qc
+dufus     850152127  8  5 rc  r     b     b          470  100  315 Ac Ad
+dufus     850152184  9  4 c   b     b     kf         685   40    0 
+dufus     850152243  8  2 Bc  c     c     f          645   50    0 
+dufus     850152289  9  1 Bc  b     b     -          595   40   90 
+dufus     850152346  9  9 c   k     f     -          645   10    0 
+dufus     850152383 10  9 c   bc    f     -          635   30    0 
+dufus     850152485 12 10 c   cc    k     f          605   30    0 
+dufus     850152577 11  9 c   k     f     -          575   10    0 
+dufus     850152668 11  8 c   c     f     -          565   40    0 
+dufus     850152785 12  7 c   k     k     k          525   10   35 6d 5c
+dufus     850152828 12  6 c   k     f     -          550   10    0 
+dufus     850152869 12  5 cc  b     kr    k          540   70  155 Ad 9c
+dufus     850152920 12  4 c   f     -     -          625   20    0 
+dufus     850153008 12  3 c   k     kc    kf         605   30    0 
+dufus     850153126 12  2 Br  b     b     b          575   80  215 
+dufus     850153200 11  1 Bc  k     kf    -          710   20    0 
+dufus     850153289 12 12 c   c     c     f          690   50    0 
+dufus     850153369 11 10 c   cf    -     -          640   20    0 
+dufus     850153479 11  9 r   k     c     f          620   50    0 
+dufus     850153546 11  8 cc  k     c     f          570   40    0 
+dufus     850153689 11  8 c   r     b     kf         530   60    0 
+dufus     850153918 10  6 c   b     k     kf         470   20    0 
+dufus     850154031  7  3 c   r     c     Q          450   50    0 
+dufus     850154280  8  2 Bc  f     -     -          400   20    0 
+dufus     850154381  8  1 Bc  br    br    bf         380  140    0 
+dufus     850154451  8  7 f   -     -     -          240    0    0 
+dufus     850154508  8  6 f   -     -     -          240    0    0 
+dufus     850154631  9  6 c   kf    -     -          240   10    0 
+dufus     850154724  9  5 c   r     b     -          230   50   80 
+dufus     850154767  9  5 rr  c     r     b          260  110  315 Ad Kh
+dufus     850154862  9  4 cc  kc    kc    kf         465   50    0 
+dufus     850154988  9  3 c   kf    -     -          415   10    0 
+dufus     850155039 10  2 Bk  b     b     b          405   60  190 5s 8h
+dufus     850155107  9  1 Br  k     b     kf         535   40    0 
+dufus     850155175 11 11 rc  k     b     b          495   80  280 7c Ac
+dufus     850155509 12  8 c   kf    -     -         1300   10    0 
+dufus     850155591 12  7 c   k     k     f         1290   10    0 
+dufus     850155699 12  8 c   k     f     -         1280   10    0 
+dufus     850155778 10  5 rc  rr    k     b         1270  100    0 Qs 7s
+dufus     850155851 10  5 cc  kc    bcc   kf        1170  130    0 
+dufus     850155955  9  3 c   kf    -     -         1040   10    0 
+dufus     850156011  9  2 Bc  kf    -     -         1030   20    0 
+dufus     850156126 11  1 Bc  br    b     b         1010   80  115 3d Qh
+dufus     850200916  7  2 Bc  ccc   f     -          985   60    0 
+dufus     850200994  7  1 Bc  krr   br    bc         925  180    0 As Ac
+dufus     850201092  8  8 c   r     c     c          745   90    0 Ac 4c
+dufus     850201220  8  7 cQ  -     -     -          655   20    0 
+dufus     850236067 10 10 rc  k     c     f          635   60    0 
+dufus     850236137 10  9 f   -     -     -          575    0    0 
+dufus     850236188 10  8 f   -     -     -          575    0    0 
+dufus     850236233  9  6 r   KQ    -     -          575   40    0 
+dufus     850329360  4  4 c   c     c     f          535   40    0 
+dufus     850329381  4  3 cc  c     r     b          495   90  215 9c 8s
+dufus     850329426  4  2 Bk  c     f     -          620   20    0 
+dufus     850329459  4  1 Bc  b     -     -          600   20   30 
+dufus     850329470  4  4 r   k     b     bc         610   80    0 Ks 3c
+dufus     850329496  4  3 r   k     k     k          530   20   45 9d Kd
+dufus     850329514  4  2 Bk  c     f     -          555   20    0 
+dufus     850329540  4  1 Br  -     -     -          535   20   30 
+dufus     850329551  4  4 f   -     -     -          545    0    0 
+dufus     850329583  4  3 c   k     k     f          545   10    0 
+dufus     850329622  4  2 Bc  f     -     -          535   20    0 
+dufus     850329649  4  1 Br  -     -     -          515   20   30 
+dufus     850329660  4  4 c   c     k     k          525   40    0 Kd 4d
+dufus     850329695  5  3 r   b     b     -          485   50  115 
+dufus     850329734  5  2 Bk  c     c     r          550   80    0 Jc Qh
+dufus     850329762  5  1 Br  kc    b     b          470   80    0 Ts Qs
+dufus     850329823  6  6 c   k     k     k          390   10   15 Qh 4c
+dufus     850329874  5  4 cc  k     krc   kc         395  100    0 6s Js
+dufus     850329914  5  3 c   b     -     -          295   20   50 
+dufus     850329936  5  2 Br  kc    k     b          325   60    0 Kh 5h
+dufus     850329977  4  1 Bc  k     kf    -          265   10    0 
+dufus     850330013  3  3 f   -     -     -          255    0    0 
+dufus     850330048  3  2 Bc  c     r     b          255   90  180 7s Jc
+dufus     850330087  3  1 Bf  -     -     -          345    5    0 
+dufus     850330095  3  3 cr  r     k     c          340   70    0 Th 9h
+dufus     850330125  3  2 Bk  r     k     k          270   30   60 9d Qh
+dufus     850330152  3  1 Bc  b     b     b          300   70  150 2d Kd
+dufus     850330190  3  3 c   f     -     -          380   10    0 
+dufus     850330231  3  2 Bc  c     c     f          370   50    0 
+dufus     850330249  3  1 Bc  kf    -     -          320   20    0 
+dufus     850330259  3  3 rr  k     k     k          300   40   90 6s Qs
+dufus     850330288  3  2 B   -     -     -          350   10   15 
+dufus     850330304  3  1 Bcc b     b     -          355   50   80 
+dufus     850330332  4  4 cf  -     -     -          385   10    0 
+dufus     850330374  4  3 cc  rc    kc    k          375   70    0 4c Qs
+dufus     850330440  5  2 Br  kc    kf    -          305   30    0 
+dufus     850330476  6  1 Bf  -     -     -          275    5    0 
+dufus     850330590  6  6 c   c     k     f          270   20    0 
+dufus     850330683  6  5 r   b     b     c          250   70  175 Jh Ad
+dufus     850330749  6  4 cc  rrc   c     f          355  100    0 
+dufus     850330876  5  3 f   -     -     -          255    0    0 
+dufus     850330888  5  2 Bc  brc   bc    b          255  120    0 Th 7h
+dufus     850331044  4  1 Bc  k     k     k          135   10    0 Jd 6h
+dufus     850331084  5  4 f   -     -     -          125    0    0 
+dufus     850331154  5  3 f   -     -     -          125    0    0 
+dufus     850331221  5  2 Brc brc   brA   -          125  125  380 Ks 7c
+dufus     850331318  5  1 Bc  kc    kf    -          380   30    0 
+dufus     850331367  5  5 cc  r     r     b          350  100    0 3h 5s
+dufus     850331438  5  4 c   r     rr    c          250  130  400 2d 4h
+dufus     850331542  5  3 cc  kf    -     -          520   20    0 
+dufus     850331657  7  2 Bc  brc   brc   bc         500  180    0 Ac 4c
+dufus     850331741  6  1 Bc  kc    kf    -          320   30    0 
+dufus     850331802  6  6 c   b     b     r          290   80  190 9d 8d
+dufus     850331909  6  5 c   k     c     f          400   50    0 
+dufus     850331961  6  4 r   k     k     b          350   40  125 Kc 8c
+dufus     850332021  7  3 f   -     -     -          435    0    0 
+dufus     850332091  7  2 Bk  k     bc    k          435   50    0 5c 3h
+dufus     850332169  7  1 Brc kc    kf    -          385   50    0 
+dufus     850332228  8  8 r   r     c     f          335   60    0 
+dufus     850332314  8  7 c   r     b     b          275   70  260 9s Th
+dufus     850332439 10  8 r   rc    r     c          465  120    0 Js Qh
+dufus     850332570  9  6 cc  r     c     k          345   70    0 Qs 7d
+dufus     850332644 11  8 c   c     c     f          275   40    0 
+dufus     850332735 10  7 rc  f     -     -          235   40    0 
+dufus     850332921 10  5 cc  c     ccc   c          195  130    0 7c 5c
+dufus     850333052 11  5 c   kf    -     -           65   10    0 
+dufus     850333295  8  2 r   b     b     bA          55   55    0 Qh Kd
+dufus     850333476  6  6 cc  cc    f     -         1000   60    0 
+dufus     850333580  7  5 ccc c     c     cf         940   90    0 
+dufus     850333680  8  4 c   kc    k     kf         850   30    0 
+dufus     850333813  6  3 r   bc    kcc   f          820  140    0 
+dufus     850333925  6  2 Bk  kc    kf    -          680   20    0 
+dufus     850334005  7  1 Br  k     kf    -          660   40    0 
+dufus     850334092  8  8 rc  c     f     -          620   50    0 
+dufus     850334273  7  7 r   k     k     f          570   20    0 
+dufus     850334396  8  6 f   -     -     -          550    0    0 
+dufus     850334468 10  7 c   f     -     -          550   20    0 
+dufus     850334553 10  6 c   r     k     b          530   60  215 Qc 8c
+dufus     850334666  9  4 c   kcc   b     rr         685  140  370 9c Tc
+dufus     850334834  9  5 r   k     kf    -          915   20    0 
+dufus     850334889  9  3 c   kf    -     -          895   10    0 
+dufus     850335091 10  2 Br  kcc   bc    k          885  100  180 Jc Kh
+dufus     850335226 11  1 Bc  kc    kc    kf         965   50    0 
+dufus     850335340 11 11 r   b     r     rc         915  150  555 Jd Jh
+dufus     850335517 12 11 c   k     c     k         1320   30    0 5d 7s
+dufus     850335598 10  8 r   b     bc    c         1290   90    0 Jc Jh
+dufus     850335722 11  9 rc  c     c     c         1200   90    0 7c 7h
+dufus     850335801  9  5 c   k     kf    -         1110   10    0 
+dufus     850335969  8  4 c   ccc   kc    kf        1100   70    0 
+dufus     850336051  9  3 cc  br    kc    kf        1030   70    0 
+dufus     850336189 10  2 Bk  kc    kc    kf         960   40    0 
+dufus     850336305  9  1 Br  brr   b     kc         920  110  130 Kc Qc
+dufus     850336376  9  9 c   f     -     -          940   20    0 
+dufus     850336490 12 10 c   rc    c     f          920   60    0 
+dufus     850336594 10  8 r   br    brc   kf         860  130    0 
+dufus     850336688  9  6 c   c     c     k          730   50    0 9h 4h
+dufus     850336726  9  5 c   k     c     f          680   30    0 
+dufus     850336763  9  4 c   r     brc   kc         650  130  200 Ad 8s
+dufus     850336844  9  3 c   b     -     -          720   20   55 
+dufus     850336899  9  2 Br  krc   br    kcf        755  200    0 
+dufus     850337052  8  1 Bc  kc    kc    kc         555   60    0 Kc 4d
+dufus     850337103  6  6 c   r     f     -          495   30    0 
+dufus     850337142  6  5 rA  -     -     -           15   15    0 Ts 6h
+dufus     850405802 11  9 c   f     -     -         1000   10    0 
+dufus     850405885 11  8 f   -     -     -          990    0    0 
+dufus     850405937 10  6 c   k     r     f          990   50    0 
+dufus     850406009 10  6 c   r     r     f          940   80    0 
+dufus     850406120 10  6 rr  b     kf    -          860   50    0 
+dufus     850406212 10  6 r   k     c     f          810   40    0 
+dufus     850406297  9  3 r   b     kc    kc         770   70    0 7h Kd
+dufus     850406369  9  2 Br  kcc   kf    -          700   60    0 
+dufus     850406500  9  1 Br  b     kc    kf         640   50    0 
+dufus     850406586 10 10 r   rr    rr    c          590  155    0 Qh As
+dufus     850406700 10  9 rr  b     b     f          435   70    0 
+dufus     850406810 10  8 c   b     b     f          365   40    0 
+dufus     850406940  9  6 c   br    b     bc         325  100    0 4d Qs
+dufus     850407028  9  5 rc  krr   b     k          225   90    0 2c 5c
+dufus     850407150  9  5 cc  f     -     Q          135   30    0 
+dufus     850465088  8  8 cc  c     f     -           95   60    0 
+dufus     850465191  8  7 cA  -     KQ    -           35   35    0 

@@ -1,0 +1,512 @@
+ZMonster  941454822 10  9 f   -     -     -         1743    0    0 
+ZMonster  941454871 10  8 f   -     -     -         1743    0    0 
+ZMonster  941454902 10  7 f   -     -     -         1743    0    0 
+ZMonster  941454912 10  6 f   -     -     -         1743    0    0 
+ZMonster  941454950 10  5 c   k     k     k         1743   10    0 Ts Jd
+ZMonster  941455018 10  4 f   -     -     -         1733    0    0 
+ZMonster  941455065 10  4 f   -     -     -         1733    0    0 
+ZMonster  941455109 10  2 Bc  kf    -     -         1733   20    0 
+ZMonster  941455166 10  1 Bf  -     -     -         1713    5    0 
+ZMonster  941455207 10 10 f   -     -     -         1708    0    0 
+ZMonster  941455265 10  9 f   -     -     -         1708    0    0 
+ZMonster  941455337 10  8 f   -     -     -         1708    0    0 
+ZMonster  941455367 10  7 f   -     -     -         1708    0    0 
+ZMonster  941455399 10  6 cc  b     -     -         1708   30  165 
+ZMonster  941455463 10  5 f   -     -     -         1843    0    0 
+ZMonster  941455542 10  4 c   b     kc    b         1843   60    0 2c Ac
+ZMonster  941455597 10  3 f   -     -     -         1783    0    0 
+ZMonster  941455658 10  2 Bf  -     -     -         1783   10    0 
+ZMonster  941455694 10  1 Bf  -     -     -         1773    5    0 
+ZMonster  941455721 10 10 f   -     -     -         1768    0    0 
+ZMonster  941455769 10  9 r   rc    c     c         1768   90    0 Ac Kd
+ZMonster  941455834  8  6 f   -     -     -         1678    0    0 
+ZMonster  941455871  8  5 f   -     -     -         1678    0    0 
+ZMonster  941455909  8  4 c   bc    kc    k         1678   50  135 9c Jc
+ZMonster  941455950  9  3 f   -     -     -         1763    0    0 
+ZMonster  941455993  9  2 Bk  kc    b     b         1763   60  145 Ks 9d
+ZMonster  941456028 10  1 Bf  -     -     -         1848    5    0 
+ZMonster  941456060 10 10 r   f     -     -         1843   20    0 
+ZMonster  941456091 10  9 c   k     f     -         1823   10    0 
+ZMonster  941456132 10  8 f   -     -     -         1813    0    0 
+ZMonster  941456194 10  7 r   -     -     -         1813   20   35 
+ZMonster  941456226 10  6 f   -     -     -         1828    0    0 
+ZMonster  941456267 10  5 f   -     -     -         1828    0    0 
+ZMonster  941456317 10  4 cc  k     kf    -         1828   30    0 
+ZMonster  941456353 10  3 f   -     -     -         1798    0    0 
+ZMonster  941456417 10  2 Bk  k     b     bc        1798   70    0 9c Td
+ZMonster  941456450 10  1 Bf  -     -     -         1728    5    0 
+ZMonster  941456483 10 10 f   -     -     -         1723    0    0 
+ZMonster  941456500 10  9 cc  f     -     -         1723   20    0 
+ZMonster  941456564 10  8 c   f     -     -         1703   20    0 
+ZMonster  941456646  8  5 f   -     -     -         1683    0    0 
+ZMonster  941456685  8  4 f   -     -     -         1683    0    0 
+ZMonster  941456712  8  3 c   k     b     b         1683   50  115 9c 8s
+ZMonster  941456753  8  2 Bk  bf    -     -         1748   20    0 
+ZMonster  941456793  7  1 Br  bf    -     -         1728   30    0 
+ZMonster  941456840  7  7 f   -     -     -         1698    0    0 
+ZMonster  941456887  6  5 f   -     -     -         1698    0    0 
+ZMonster  941456919  5  3 r   b     -     -         1698   30   55 
+ZMonster  941456938  5  2 Bf  -     -     -         1723   10    0 
+ZMonster  941456993  5  1 Bf  -     -     -         1713    5    0 
+ZMonster  941457001  5  5 r   -     -     -         1708   20   35 
+ZMonster  941457010  5  4 r   b     -     -         1723   30   70 
+ZMonster  941457020  5  3 r   b     b     b         1763   70  175 Qs Kd
+ZMonster  941457043  5  2 Bk  kf    -     -         1868   10    0 
+ZMonster  941457073  5  1 Bc  krf   -     -         1858   40    0 
+ZMonster  941457101  5  5 r   b     c     k         1818   50    0 Kh 9c
+ZMonster  941457158  5  4 rc  f     -     -         1768   40    0 
+ZMonster  941457197  5  3 r   b     bcc   f         1728  110    0 
+ZMonster  941457244  5  2 Bk  b     -     -         1618   20   35 
+ZMonster  941457276  5  1 Bc  kr    b     b         1633   90    0 8c Qc
+ZMonster  941457310  5  5 f   -     -     -         1543    0    0 
+ZMonster  941457319  5  4 f   -     -     -         1543    0    0 
+ZMonster  941457342  5  3 r   b     b     b         1543   70  175 4d Ad
+ZMonster  941457405  5  2 Bk  kf    -     -         1648   10    0 
+ZMonster  941457423  5  1 Bf  -     -     -         1638    5    0 
+ZMonster  941457430  5  5 r   r     k     k         1633   40    0 Jd Qc
+ZMonster  941457448  4  3 f   -     -     -         1593    0    0 
+ZMonster  941457464  4  3 f   -     -     -         1593    0    0 
+ZMonster  941457470  4  2 Bc  kr    k     k         1593   40    0 6c 5h
+ZMonster  941457483  3  1 Br  -     -     -         1553   20   30 
+ZMonster  941457495  2  2 B   -     -     -         1563   10   15 
+ZMonster  941478747 10  6 f   -     -     -         1568    0    0 
+ZMonster  941478788 10  5 f   -     -     -         1568    0    0 
+ZMonster  941478823  9  5 f   -     -     -         1568    0    0 
+ZMonster  941478854  9  3 f   -     -     -         1568    0    0 
+ZMonster  941478895  9  2 Bf  -     -     -         1568   10    0 
+ZMonster  941478945  9  1 Bf  -     -     -         1558    5    0 
+ZMonster  941479006  9  9 f   -     -     -         1553    0    0 
+ZMonster  941479077 10  9 f   -     -     -         1553    0    0 
+ZMonster  941479133 10  8 ccc b     b     k         1553   70  270 Td Ks
+ZMonster  941479290  8  6 f   -     -     -         1753    0    0 
+ZMonster  941479335  9  6 f   -     -     -         1753    0    0 
+ZMonster  941479350  9  5 f   -     -     -         1753    0    0 
+ZMonster  941479396 10  4 f   -     -     -         1753    0    0 
+ZMonster  941479442 10  3 f   -     -     -         1753    0    0 
+ZMonster  941479503 10  2 Bf  -     -     -         1753   10    0 
+ZMonster  941479520 10  1 Bc  bc    kc    k         1743   60    0 Jh 9h
+ZMonster  941479594  9  9 f   -     -     -         1683    0    0 
+ZMonster  941479659 10  9 f   -     -     -         1683    0    0 
+ZMonster  941479735 10  8 f   -     -     -         1683    0    0 
+ZMonster  941479794 10  7 f   -     -     -         1683    0    0 
+ZMonster  941479872 10  6 f   -     -     -         1683    0    0 
+ZMonster  941479924 10  5 f   -     -     -         1683    0    0 
+ZMonster  941479973 10  4 r   bc    kf    -         1683   40    0 
+ZMonster  941480057  9  3 f   -     -     -         1643    0    0 
+ZMonster  941480095  9  2 Br  b     b     k         1643   50  125 Qc Jc
+ZMonster  941480139  9  1 Bf  -     -     -         1718    5    0 
+ZMonster  941480198  9  9 f   -     -     -         1713    0    0 
+ZMonster  941480224  9  8 f   -     -     -         1713    0    0 
+ZMonster  941480332  9  7 f   -     -     -         1713    0    0 
+ZMonster  941480408  9  6 f   -     -     -         1713    0    0 
+ZMonster  941480493  9  6 r   b     -     -         1713   30   85 
+ZMonster  941480522  9  4 cc  cf    -     -         1768   30    0 
+ZMonster  941480606  9  3 f   -     -     -         1738    0    0 
+ZMonster  941480681  8  2 Bk  kf    -     -         1738   10    0 
+ZMonster  941480744  9  1 Bc  b     b     k         1728   40  120 3c As
+ZMonster  941480829  9  9 f   -     -     -         1808    0    0 
+ZMonster  941480893  9  8 f   -     -     -         1808    0    0 
+ZMonster  941481022 10  7 f   -     -     -         1808    0    0 
+ZMonster  941481115 10  6 f   -     -     -         1808    0    0 
+ZMonster  941481219 10  5 f   -     -     -         1808    0    0 
+ZMonster  941481291 10  4 f   -     -     -         1808    0    0 
+ZMonster  941481330 10  3 f   -     -     -         1808    0    0 
+ZMonster  941481382 10  2 Bk  kf    -     -         1808   10    0 
+ZMonster  941481436  9  1 Bf  -     -     -         1798    5    0 
+ZMonster  941481526  8  8 f   -     -     -         1793    0    0 
+ZMonster  941481603  8  7 f   -     -     -         1793    0    0 
+ZMonster  941481646  9  7 f   -     -     -         1793    0    0 
+ZMonster  941481745  9  6 c   b     b     b         1793   60  150 
+ZMonster  941481857  9  5 f   -     -     -         1883    0    0 
+ZMonster  941481903 10  5 f   -     -     -         1883    0    0 
+ZMonster  941481960 10  4 r   r     c     c         1883   80    0 Jc Ah
+ZMonster  941482024 10  3 c   kf    -     -         1803   10    0 
+ZMonster  941482090 10  2 Bk  kf    -     -         1793   10    0 
+ZMonster  941482188 10  1 Bc  kf    -     -         1783   10    0 
+ZMonster  941482231 10 10 r   b     b     b         1773   70  165 Kd Ks
+ZMonster  941482317 10  9 f   -     -     -         1868    0    0 
+ZMonster  941482363 10  8 f   -     -     -         1868    0    0 
+ZMonster  941482411 10  8 cf  -     -     -         1868   10    0 
+ZMonster  941482488  9  6 f   -     -     -         1858    0    0 
+ZMonster  941482567  8  5 f   -     -     -         1858    0    0 
+ZMonster  941482659  8  4 cc  k     b     k         1858   40   95 Ah 4h
+ZMonster  941482720  7  2 Bk  kf    -     -         1913   10    0 
+ZMonster  941482797  7  1 Bf  -     -     -         1903    5    0 
+ZMonster  941482838  7  7 f   -     -     -         1898    0    0 
+ZMonster  941482865  7  6 f   -     -     -         1898    0    0 
+ZMonster  941482946  7  5 f   -     -     -         1898    0    0 
+ZMonster  941482999  7  4 f   -     -     -         1898    0    0 
+ZMonster  941483048  8  3 cc  bc    kf    -         1898   40    0 
+ZMonster  941483157  9  2 Bf  -     -     -         1858   10    0 
+ZMonster  941483222  9  1 Bc  kf    -     -         1848   20    0 
+ZMonster  941483333  9  9 f   -     -     -         1828    0    0 
+ZMonster  941483402  8  7 cf  -     -     -         1828   10    0 
+ZMonster  941483489  9  7 f   -     -     -         1818    0    0 
+ZMonster  941483557 10  6 KQ  -     -     -         1818    0    0 
+ZMonster  941609289 10  2 Bc  kf    -     -         2131   20    0 
+ZMonster  941609335 10  1 Bc  kf    -     -         2111   10    0 
+ZMonster  941609378 10 10 c   b     brc   rr        2101  180  385 Kc Ts
+ZMonster  941609461 10  9 c   k     f     -         2306   10    0 
+ZMonster  941609537 10  8 r   b     b     -         2296   50  100 
+ZMonster  941609608 10  7 f   -     -     -         2346    0    0 
+ZMonster  941609702 10  6 f   -     -     -         2346    0    0 
+ZMonster  941609762 10  5 f   -     -     -         2346    0    0 
+ZMonster  941609828 10  4 f   -     -     -         2346    0    0 
+ZMonster  941609916 10  3 f   -     -     -         2346    0    0 
+ZMonster  941610011 10  2 Br  kf    -     -         2346   20    0 
+ZMonster  941610096 10  1 Bf  -     -     -         2326    5    0 
+ZMonster  941610159 10 10 c   b     b     c         2321   60  175 Td 9d
+ZMonster  941610217 10  9 f   -     -     -         2436    0    0 
+ZMonster  941610297 10  8 f   -     -     -         2436    0    0 
+ZMonster  941610327 10  7 c   f     -     -         2436   10    0 
+ZMonster  941610392 10  6 f   -     -     -         2426    0    0 
+ZMonster  941610421 10  5 f   -     -     -         2426    0    0 
+ZMonster  941610459 10  4 f   -     -     -         2426    0    0 
+ZMonster  941610667 10  3 f   -     -     -         2426    0    0 
+ZMonster  941610754 10  2 Bf  -     -     -         2426   10    0 
+ZMonster  941610805 10  1 Bf  -     -     -         2416    5    0 
+ZMonster  941610875 10 10 f   -     -     -         2411    0    0 
+ZMonster  941610914 10  9 c   f     -     -         2411   10    0 
+ZMonster  941610984 10  8 f   -     -     -         2401    0    0 
+ZMonster  941611062  9  7 f   -     -     -         2401    0    0 
+ZMonster  941611094 10  6 f   -     -     -         2401    0    0 
+ZMonster  941611129 10  5 f   -     -     -         2401    0    0 
+ZMonster  941611185 10  4 f   -     -     -         2401    0    0 
+ZMonster  941611210 10  3 f   -     -     -         2401    0    0 
+ZMonster  941611238 10  2 Bc  krc   kf    -         2401   50    0 
+ZMonster  941611307  9  1 Bf  -     -     -         2351    5    0 
+ZMonster  941611328  9  9 f   -     -     -         2346    0    0 
+ZMonster  941611346  9  8 f   -     -     -         2346    0    0 
+ZMonster  941611414 10  7 f   -     -     -         2346    0    0 
+ZMonster  941611440 10  6 f   -     -     -         2346    0    0 
+ZMonster  941611491 10  5 r   c     rr    b         2346  130  310 Qd Qc
+ZMonster  941611558 10  4 f   -     -     -         2526    0    0 
+ZMonster  941611603 10  3 f   -     -     -         2526    0    0 
+ZMonster  941611656 10  2 Bc  b     br    b         2526  110  265 Qh Jh
+ZMonster  941611706 10  1 Bf  -     -     -         2681    5    0 
+ZMonster  941611744  9  9 f   -     -     -         2676    0    0 
+ZMonster  941611833  9  8 r   b     bc    k         2676   70   72 Ts Ah
+ZMonster  941611895  9  7 f   -     -     -         2678    0    0 
+ZMonster  941611945 10  7 f   -     -     -         2678    0    0 
+ZMonster  941612030 10  6 f   -     -     -         2678    0    0 
+ZMonster  941612053 10  5 f   -     -     -         2678    0    0 
+ZMonster  941612108 10  4 f   -     -     -         2678    0    0 
+ZMonster  941612182  9  2 Bc  kf    -     -         2678   20    0 
+ZMonster  941612230  9  1 Bf  -     -     -         2658    5    0 
+ZMonster  941612278  8  8 f   -     -     -         2653    0    0 
+ZMonster  941612333  8  7 f   -     -     -         2653    0    0 
+ZMonster  941612369  8  6 rc  bc    kc    f         2653   70    0 
+ZMonster  941612453  9  6 cc  r     b     -         2583   60  130 
+ZMonster  941612525  9  5 f   -     -     -         2653    0    0 
+ZMonster  941612575  8  4 f   -     -     -         2653    0    0 
+ZMonster  941612595  8  3 f   -     -     -         2653    0    0 
+ZMonster  941612665  9  3 c   b     -     -         2653   20   45 
+ZMonster  941612714  8  1 Bf  -     -     -         2678   10    0 
+ZMonster  941612759  8  1 Bf  -     -     -         2668    5    0 
+ZMonster  941612810  9  9 f   -     -     -         2663    0    0 
+ZMonster  941612829  9  8 c   r     c     k         2663   50  165 Qc Js
+ZMonster  941612910  9  7 f   -     -     -         2778    0    0 
+ZMonster  941612953  9  6 f   -     -     -         2778    0    0 
+ZMonster  941612988  9  5 f   -     -     -         2778    0    0 
+ZMonster  941613047  9  4 c   k     bc    kr        2778   90  210 2d Ad
+ZMonster  941613145  8  3 f   -     -     -         2898    0    0 
+ZMonster  941613198  9  2 Bk  k     k     kf        2898   10    0 
+ZMonster  941613261 10  1 Bc  kf    -     -         2888   10    0 
+ZMonster  941613316 10 10 c   c     c     f         2878   40    0 
+ZMonster  941613337 10  9 f   -     -     -         2838    0    0 
+ZMonster  941613398 10  8 f   -     -     -         2838    0    0 
+ZMonster  941613429 10  7 f   -     -     -         2838    0    0 
+ZMonster  941613494 10  6 f   -     -     -         2838    0    0 
+ZMonster  941613534  9  4 f   -     -     -         2838    0    0 
+ZMonster  941613556  8  3 f   -     -     -         2838    0    0 
+ZMonster  941613593  8  2 Bc  f     -     -         2838   20    0 
+ZMonster  941613663  8  1 Bf  -     -     -         2818    5    0 
+ZMonster  941613699  9  9 f   -     -     -         2813    0    0 
+ZMonster  941613711  9  8 c   f     -     -         2813   10    0 
+ZMonster  941613742  9  7 c   r     b     b         2803   70  170 9c Qc
+ZMonster  941613788 10  6 c   r     k     c         2903   50    0 Kh 9h
+ZMonster  941613851 10  5 f   -     -     -         2853    0    0 
+ZMonster  941613913 10  4 f   -     -     -         2853    0    0 
+ZMonster  941613951 10  3 f   -     -     -         2853    0    0 
+ZMonster  941614008 10  2 Bc  bc    kf    -         2853   40    0 
+ZMonster  941614039 10  1 Bf  -     -     -         2813    5    0 
+ZMonster  941614047 10 10 f   -     -     -         2808    0    0 
+ZMonster  941614095  9  8 c   b     -     -         2808   20   45 
+ZMonster  941614140 10  8 f   -     -     -         2833    0    0 
+ZMonster  941614170 10  7 f   -     -     -         2833    0    0 
+ZMonster  941614200 10  7 r   b     bc    c         2833   90    0 Kh Kd
+ZMonster  941614247  9  5 f   -     -     -         2743    0    0 
+ZMonster  941614274  9  4 f   -     -     -         2743    0    0 
+ZMonster  941614306 10  3 f   -     -     -         2743    0    0 
+ZMonster  941614334  9  2 Bk  k     k     k         2743   10    0 5s Jh
+ZMonster  941614359  9  1 Bf  -     -     -         2733    5    0 
+ZMonster  941614397  9  9 c   f     -     -         2728   20    0 
+ZMonster  941614447 10  8 f   -     -     -         2708    0    0 
+ZMonster  941614470 10  7 f   -     -     -         2708    0    0 
+ZMonster  941614494 10  6 f   -     -     -         2708    0    0 
+ZMonster  941614523 10  5 c   r     -     -         2708   30   65 
+ZMonster  941614542 10  4 f   -     -     -         2743    0    0 
+ZMonster  941614576 10  3 f   -     -     -         2743    0    0 
+ZMonster  941614594 10  2 Bk  kr    kc    kc        2743   70    0 Ks 3d
+ZMonster  941614628 10  1 Bc  k     kf    -         2673   10    0 
+ZMonster  941614662 10 10 f   -     -     -         2663    0    0 
+ZMonster  941614714 10  9 r   b     b     b         2663   90  350 Kc Ks
+ZMonster  941614780 10  8 f   -     -     -         2923    0    0 
+ZMonster  941614848 10  7 f   -     -     -         2923    0    0 
+ZMonster  941614896 10  6 f   -     -     -         2923    0    0 
+ZMonster  941614926 10  5 f   -     -     -         2923    0    0 
+ZMonster  941614975 10  4 f   -     -     -         2923    0    0 
+ZMonster  941615040 10  3 c   bc    k     kf        2923   30    0 
+ZMonster  941615099 10  2 Bf  -     -     -         2893   10    0 
+ZMonster  941615133 10  1 Bf  -     -     -         2883    5    0 
+ZMonster  941615172 10 10 f   -     -     -         2878    0    0 
+ZMonster  941615210 10  9 f   -     -     -         2878    0    0 
+ZMonster  941615246 10  8 f   -     -     -         2878    0    0 
+ZMonster  941615277 10  7 r   b     b     -         2878   50   95 
+ZMonster  941615292 10  6 f   -     -     -         2923    0    0 
+ZMonster  941615329 10  5 f   -     -     -         2923    0    0 
+ZMonster  941615389  9  4 f   -     -     -         2923    0    0 
+ZMonster  941615419  9  3 c   r     k     f         2923   30    0 
+ZMonster  941615451  9  2 Bc  krc   k     kc        2893   70  145 Jc 9c
+ZMonster  941615488 10  1 Bf  -     -     -         2968    5    0 
+ZMonster  941615526 10 10 f   -     -     -         2963    0    0 
+ZMonster  941615581 10  9 cc  rc    f     -         2963   50    0 
+ZMonster  941615634 10  8 r   f     -     -         2913   20    0 
+ZMonster  941615675 10  7 f   -     -     -         2893    0    0 
+ZMonster  941615710 10  6 c   r     f     -         2893   30    0 
+ZMonster  941615748 10  5 c   f     -     -         2863   10    0 
+ZMonster  941615787 10  4 f   -     -     -         2853    0    0 
+ZMonster  941615821 10  3 c   k     b     -         2853   30   60 
+ZMonster  941615855 10  2 Bk  c     rc    kc        2883  100    0 9d Jd
+ZMonster  941615923 10  1 Bf  -     -     -         2783    5    0 
+ZMonster  941615964  9  9 f   -     -     -         2778    0    0 
+ZMonster  941616079  8  7 f   -     -     -         2778    0    0 
+ZMonster  941616122  9  7 f   -     -     -         2778    0    0 
+ZMonster  941616154  8  5 rc  f     -     -         2778   30    0 
+ZMonster  941616192  8  4 f   -     -     -         2748    0    0 
+ZMonster  941616230 10  4 f   -     -     -         2748    0    0 
+ZMonster  941616250 10  3 f   -     -     -         2748    0    0 
+ZMonster  941616287 10  2 Bf  -     -     -         2748   10    0 
+ZMonster  941616298 10  1 Br  -     -     -         2738   20   30 
+ZMonster  941616314 10 10 f   -     -     -         2748    0    0 
+ZMonster  941616342 10  9 f   -     -     -         2748    0    0 
+ZMonster  941616370 10  8 f   -     -     -         2748    0    0 
+ZMonster  941616423 10  7 c   b     b     -         2748   40   95 
+ZMonster  941616461 10  6 f   -     -     -         2803    0    0 
+ZMonster  941616490 10  5 f   -     -     -         2803    0    0 
+ZMonster  941616500 10  4 f   -     -     -         2803    0    0 
+ZMonster  941616571 10  3 f   -     -     -         2803    0    0 
+ZMonster  941616601 10  2 Bk  k     f     -         2803   10    0 
+ZMonster  941616639 10  1 Bf  -     -     -         2793    5    0 
+ZMonster  941616649 10 10 r   -     -     -         2788   20   35 
+ZMonster  941616668 10  9 f   -     -     -         2803    0    0 
+ZMonster  941616714 10  8 f   -     -     -         2803    0    0 
+ZMonster  941616756 10  7 f   -     -     -         2803    0    0 
+ZMonster  941616784 10  6 c   b     -     -         2803   20   35 
+ZMonster  941616807 10  5 f   -     -     -         2818    0    0 
+ZMonster  941616841 10  4 f   -     -     -         2818    0    0 
+ZMonster  941616863 10  3 c   b     b     b         2818   60  195 5s 6s
+ZMonster  941616915 10  2 Bf  -     -     -         2953   10    0 
+ZMonster  941616955 10  1 Bc  b     b     k         2943   40    0 8d 7h
+ZMonster  941616994 10 10 f   -     -     -         2903    0    0 
+ZMonster  941617046 10  9 c   k     f     -         2903   10    0 
+ZMonster  941617078 10  8 f   -     -     -         2893    0    0 
+ZMonster  941617115 10  7 rr  bf    -     -         2893   50    0 
+ZMonster  941617159 10  6 cc  kc    f     -         2843   30    0 
+ZMonster  941617196 10  5 f   -     -     -         2813    0    0 
+ZMonster  941617237 10  4 c   b     b     b         2813   60  140 
+ZMonster  941617308 10  3 f   -     -     -         2893    0    0 
+ZMonster  941617350  9  2 Bk  bc    kf    -         2893   30    0 
+ZMonster  941617439 10  1 Bf  -     -     -         2863    5    0 
+ZMonster  941617484 10 10 f   -     -     -         2858    0    0 
+ZMonster  941617523 10  9 rf  -     -     -         2858   20    0 
+ZMonster  941617568 10  8 f   -     -     -         2838    0    0 
+ZMonster  941617609 10  7 r   b     b     -         2838   50   85 
+ZMonster  941617641 10  6 f   -     -     -         2873    0    0 
+ZMonster  941617665 10  5 f   -     -     -         2873    0    0 
+ZMonster  941617694 10  4 f   -     -     -         2873    0    0 
+ZMonster  941617761 10  3 f   -     -     -         2873    0    0 
+ZMonster  941617820 10  2 Bk  k     b     -         2873   30   45 
+ZMonster  941617861 10  1 Bc  b     b     -         2888   40   90 
+ZMonster  941617919 10 10 c   k     b     c         2938   50    0 Qc 9c
+ZMonster  941617992 10  9 f   -     -     -         2888    0    0 
+ZMonster  941618073 10  8 f   -     -     -         2888    0    0 
+ZMonster  941618116 10  7 c   c     f     -         2888   20    0 
+ZMonster  941618174 10  6 f   -     -     -         2868    0    0 
+ZMonster  941618223 10  5 f   -     -     -         2868    0    0 
+ZMonster  941618251 10  4 c   b     k     c         2868   40  105 9s Ts
+ZMonster  941618300 10  3 f   -     -     -         2933    0    0 
+ZMonster  941618360 10  2 Bk  b     k     b         2933   40   70 
+ZMonster  941618498  9  1 Bf  -     -     -         2963    5    0 
+ZMonster  941618527  9  9 cc  f     -     -         2958   20    0 
+ZMonster  941618606  9  8 f   -     -     -         2938    0    0 
+ZMonster  941618652  8  6 f   -     -     -         2938    0    0 
+ZMonster  941618739  8  5 f   -     -     -         2938    0    0 
+ZMonster  941618826  9  4 f   -     -     -         2938    0    0 
+ZMonster  941618879 10  3 cc  bf    -     -         2938   30    0 
+ZMonster  941618922 10  2 Bf  -     -     -         2908   10    0 
+ZMonster  941618992 10  1 Bf  -     -     -         2898    5    0 
+ZMonster  941619095 10 10 f   -     -     -         2893    0    0 
+ZMonster  941619161 10  9 f   -     -     -         2893    0    0 
+ZMonster  941619202 10  8 c   f     -     -         2893   20    0 
+ZMonster  941619265 10  7 f   -     -     -         2873    0    0 
+ZMonster  941619300  9  5 f   -     -     -         2873    0    0 
+ZMonster  941619314  9  3 cc  b     bc    kf        2873   70    0 
+ZMonster  941619375 10  2 Bk  k     kf    -         2803   10    0 
+ZMonster  941619402 10  1 Bf  -     -     -         2793    5    0 
+ZMonster  941619414 10 10 f   -     -     -         2788    0    0 
+ZMonster  941619463 10  9 f   -     -     -         2788    0    0 
+ZMonster  941619533 10  8 c   kf    -     -         2788   10    0 
+ZMonster  941619600 10  7 cc  cc    f     -         2778   40    0 
+ZMonster  941619670  9  7 f   -     -     -         2738    0    0 
+ZMonster  941619697  8  5 r   -     -     -         2738   20   35 
+ZMonster  941619709  8  4 f   -     -     -         2753    0    0 
+ZMonster  941619718  8  3 rr  bc    kc    kc        2753  100    0 Ad Ks
+ZMonster  941619779  8  2 Bk  bc    kf    -         2653   30    0 
+ZMonster  941619799  8  1 Br  b     bc    kc        2623   90    0 9s 9d
+ZMonster  941619826  8  8 f   -     -     -         2533    0    0 
+ZMonster  941619860  8  7 cc  k     b     b         2533   60  145 
+ZMonster  941619901  8  6 f   -     -     -         2618    0    0 
+ZMonster  941619905  8  5 r   cc    kf    -         2618   40    0 
+ZMonster  941619937  8  4 f   -     -     -         2578    0    0 
+ZMonster  941619950  8  3 r   b     -     -         2578   30   65 
+ZMonster  941619963  8  2 Bk  kf    -     -         2613   10    0 
+ZMonster  941620007  8  1 Brc kc    kc    kc        2603   80    0 4h Ac
+ZMonster  941620049  8  8 f   -     -     -         2523    0    0 
+ZMonster  941620095  8  7 c   b     b     -         2523   40   80 
+ZMonster  941620129  8  6 c   f     -     -         2563   10    0 
+ZMonster  941620150  8  5 c   rc    c     f         2553   60    0 
+ZMonster  941620180  8  4 f   -     -     -         2493    0    0 
+ZMonster  941620196  8  3 c   b     b     kf        2493   40    0 
+ZMonster  941620248  8  2 Bf  -     -     -         2453   10    0 
+ZMonster  941620275  8  1 Br  b     kf    -         2443   30    0 
+ZMonster  941620305  8  8 f   -     -     -         2413    0    0 
+ZMonster  941620343  8  7 f   -     -     -         2413    0    0 
+ZMonster  941620358  8  6 f   -     -     -         2413    0    0 
+ZMonster  941620379  8  5 f   -     -     -         2413    0    0 
+ZMonster  941620411  8  4 f   -     -     -         2413    0    0 
+ZMonster  941620434  8  3 f   -     -     -         2413    0    0 
+ZMonster  941620488  7  2 Br  b     b     bc        2413   90    0 9d Ad
+ZMonster  941620513  8  1 Br  b     -     -         2323   30   70 
+ZMonster  941620541  8  8 r   b     b     k         2363   50  175 Jc Ac
+ZMonster  941620582  8  7 c   bc    kc    f         2488   50    0 
+ZMonster  941620633  8  6 c   f     -     -         2438   20    0 
+ZMonster  941620660  8  5 f   -     -     -         2418    0    0 
+ZMonster  941620697  8  4 c   k     f     -         2418   10    0 
+ZMonster  941620740  8  3 f   -     -     -         2408    0    0 
+ZMonster  941620767  8  2 B   -     -     -         2408   10   15 
+ZMonster  941620775  8  1 Bf  -     -     -         2413    5    0 
+ZMonster  941620797  8  8 f   -     -     -         2408    0    0 
+ZMonster  941620832  8  7 f   -     -     -         2408    0    0 
+ZMonster  941620877  8  6 r   b     b     k         2408   60  165 Qc 8c
+ZMonster  941620909  8  5 Q   -     -     -         2513    0    0 
+ZMonster  941647421  6  3 f   -     -     -         2513    0    0 
+ZMonster  941647449  6  2 Bk  k     kf    -         2513   10    0 
+ZMonster  941647521  7  1 Bc  kf    -     -         2503   20    0 
+ZMonster  941647602  6  6 f   -     -     -         2483    0    0 
+ZMonster  941647661  6  5 c   f     -     -         2483   10    0 
+ZMonster  941647734  8  3 f   -     -     -         2473    0    0 
+ZMonster  941647867  8  3 f   -     -     -         2473    0    0 
+ZMonster  941647941  7  2 Bf  -     -     -         2473   10    0 
+ZMonster  941648013  8  1 Bc  k     kf    -         2463   20    0 
+ZMonster  941648061  8  8 f   -     -     -         2443    0    0 
+ZMonster  941648127  8  7 c   c     c     bc        2443   90    0 As 3s
+ZMonster  941648224  8  6 f   -     -     -         2353    0    0 
+ZMonster  941648276  9  5 f   -     -     -         2353    0    0 
+ZMonster  941648352  8  3 c   b     k     k         2353   20   80 8h 6h
+ZMonster  941648391  8  3 f   -     -     -         2413    0    0 
+ZMonster  941648415  8  2 BQ  -     -     -         2413   10    0 
+ZMonster  942063699 10  4 f   -     -     -         4553    0    0 
+ZMonster  942063719 10  3 f   -     -     -         4553    0    0 
+ZMonster  942063754 10  2 Bf  -     -     -         4553   10    0 
+ZMonster  942063783 10  1 Bc  kc    kr    b         4543   90  170 
+ZMonster  942063828 10 10 f   -     -     -         4623    0    0 
+ZMonster  942063893 10  9 r   b     b     b         4623   70  205 Ac 9s
+ZMonster  942063943 10  8 f   -     -     -         4758    0    0 
+ZMonster  942064051 10  7 f   -     -     -         4758    0    0 
+ZMonster  942064146 10  6 f   -     -     -         4758    0    0 
+ZMonster  942064267 10  5 f   -     -     -         4758    0    0 
+ZMonster  942064347 10  4 f   -     -     -         4758    0    0 
+ZMonster  942064456 10  3 f   -     -     -         4758    0    0 
+ZMonster  942064500 10  2 Bk  krc   kc    kf        4758   60    0 
+ZMonster  942064613  9  1 Br  k     -     -         4698   20   40 
+ZMonster  942064643  9  9 f   -     -     -         4718    0    0 
+ZMonster  942064741 10  9 r   r     b     b         4718   80  155 
+ZMonster  942064798 10  8 f   -     -     -         4793    0    0 
+ZMonster  942064899 10  7 f   -     -     -         4793    0    0 
+ZMonster  942064998 10  6 f   -     -     -         4793    0    0 
+ZMonster  942065042 10  5 r   b     b     -         4793   50  130 Tc Ts
+ZMonster  942065097  9  4 r   k     b     -         4873   40   70 
+ZMonster  942065147 10  3 r   kc    k     b         4903   50    0 Ad Qh
+ZMonster  942065248 10  2 Bf  -     -     -         4853   10    0 
+ZMonster  942065297 10  1 Bf  -     -     -         4843    5    0 
+ZMonster  942065366 10 10 f   -     -     -         4838    0    0 
+ZMonster  942065439 10  9 r   k     c     c         4838   60  175 Qc Ac
+ZMonster  942065519 10  8 f   -     -     -         4953    0    0 
+ZMonster  942065613 10  7 f   -     -     -         4953    0    0 
+ZMonster  942065668 10  6 f   -     -     -         4953    0    0 
+ZMonster  942065756 10  5 rc  kc    f     -         4953   40    0 
+ZMonster  942065818  9  3 f   -     -     -         4913    0    0 
+ZMonster  942065883  9  2 Bf  -     -     -         4913   10    0 
+ZMonster  942065931  9  1 Bf  -     -     -         4903    5    0 
+ZMonster  942066001  9  9 f   -     -     -         4898    0    0 
+ZMonster  942066053 10  9 f   -     -     -         4898    0    0 
+ZMonster  942066095 10  8 rc  f     -     -         4898   30    0 
+ZMonster  942066214 10  7 f   -     -     -         4868    0    0 
+ZMonster  942066269 10  6 f   -     -     -         4868    0    0 
+ZMonster  942066338 10  5 f   -     -     -         4868    0    0 
+ZMonster  942066383 10  4 f   -     -     -         4868    0    0 
+ZMonster  942066497 10  3 c   b     b     kc        4868   60    0 Th Qh
+ZMonster  942066572 10  2 Bk  k     k     k         4808   10    0 8c 5d
+ZMonster  942066705 10  1 Bf  -     -     -         4798    5    0 
+ZMonster  942066747 10 10 r   br    r     b         4793  110  250 Ah Ad
+ZMonster  942066826 10  9 f   Q     -     -         4933    0    0 
+ZMonster  942391937  7  4 f   -     -     -         1488    0    0 
+ZMonster  942391955  7  3 f   -     -     -         1488    0    0 
+ZMonster  942391990  7  2 Bf  -     -     -         1488   10    0 
+ZMonster  942392028  7  1 Bc  kf    -     -         1478   20    0 
+ZMonster  942392050  7  7 f   -     -     -         1458    0    0 
+ZMonster  942392066  7  6 f   -     -     -         1458    0    0 
+ZMonster  942392157  7  5 f   -     -     -         1458    0    0 
+ZMonster  942392229  7  4 f   -     -     -         1458    0    0 
+ZMonster  942392286  6  2 f   -     -     -         1458    0    0 
+ZMonster  942392335  6  2 Bk  kf    -     -         1458   10    0 
+ZMonster  942392355  6  1 Bf  -     -     -         1448    5    0 
+ZMonster  942392399  6  6 f   -     -     -         1443    0    0 
+ZMonster  942392415  6  5 f   -     -     -         1443    0    0 
+ZMonster  942392462  6  4 r   r     b     -         1443   60  115 
+ZMonster  942392508  6  3 f   -     -     -         1498    0    0 
+ZMonster  942392543  6  2 Bf  -     -     -         1498   10    0 
+ZMonster  942392556  6  1 Bf  -     -     -         1488    5    0 
+ZMonster  942392574  6  6 f   -     -     -         1483    0    0 
+ZMonster  942392602  6  5 f   -     -     -         1483    0    0 
+ZMonster  942392618  6  4 f   -     -     -         1483    0    0 
+ZMonster  942392651  6  3 f   -     -     -         1483    0    0 
+ZMonster  942392714  6  2 Bf  -     -     -         1483   10    0 
+ZMonster  942392750  5  1 Bc  b     -     -         1473   30   70 
+ZMonster  942392763  5  5 f   -     -     -         1513    0    0 
+ZMonster  942392785  5  4 r   bf    -     -         1513   30    0 
+ZMonster  942392810  5  3 f   -     -     -         1483    0    0 
+ZMonster  942392824  5  2 Br  b     -     -         1483   30   50 
+ZMonster  942392857  5  1 Bc  bc    k     br        1503  100  250 2h 3h
+ZMonster  942392888  5  5 r   -     -     -         1653   20   35 
+ZMonster  942392904  5  4 r   bc    kc    kc        1668   80    0 Td Ts
+ZMonster  942392920  5  3 f   -     -     -         1588    0    0 
+ZMonster  942392942  6  2 Bc  k     k     b         1588   40   65 
+ZMonster  942392957  6  1 Bf  -     -     -         1613    5    0 
+ZMonster  942392976  6  6 r   b     -     -         1608   40   85 
+ZMonster  942392985  6  5 f   -     -     -         1653    0    0 
+ZMonster  942393002  6  4 c   br    k     b         1653   60    0 As 8s
+ZMonster  942393039  6  3 rc  k     c     c         1593   70    0 Ad Jc
+ZMonster  942393084  6  2 Br  bc    bc    kc        1523  100  220 Kd Td
+ZMonster  942393127  6  1 Bf  -     -     -         1643    5    0 
+ZMonster  942393141  6  6 f   -     -     -         1638    0    0 
+ZMonster  942393160  6  5 f   -     -     -         1638    0    0 
+ZMonster  942393188  6  4 f   -     -     -         1638    0    0 
+ZMonster  942393233  6  3 c   k     f     -         1638   10    0 
+ZMonster  942393267  6  2 Bc  kf    -     -         1628   20    0 
+ZMonster  942393295  6  1 Bc  bc    k     k         1608   30    0 4d 6d
+ZMonster  942393324  6  6 f   -     -     -         1578    0    0 
+ZMonster  942393345  7  6 f   -     -     -         1578    0    0 
+ZMonster  942393360  7  5 f   -     -     -         1578    0    0 
+ZMonster  942393404  7  4 fQ  -     -     -         1578    0    0 

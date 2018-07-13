@@ -1,0 +1,90 @@
+vpomurf   975199261 10 10 c   k     k     cc        1000   50    0 Ah 5h
+vpomurf   975199326 10  9 f   -     -     -          950    0    0 
+vpomurf   975199413 10  8 c   b     b     rr         950  120  410 9h Tc
+vpomurf   975199493 10  7 f   -     -     -         1240    0    0 
+vpomurf   975199550 10  6 cc  c     c     c         1240   80    0 Kc 4s
+vpomurf   975199631 10  5 cc  k     c     kf        1160   40    0 
+vpomurf   975199709 10  4 r   kc    kc    k         1120   50    0 2h Th
+vpomurf   975199780  9  2 c   kc    kc    b         1070   60  230 6d As
+vpomurf   975199841  8  2 Bk  kc    kc    kf        1240   40    0 
+vpomurf   975199903  9  1 Bc  kr    br    b         1200  110    0 As Qc
+vpomurf   975199964 10 10 r   b     b     b         1090   90  385 As Ac
+vpomurf   975200056 10  9 r   c     k     c         1385   70    0 Qh Kc
+vpomurf   975200115 10  8 rc  cc    ccc   kf        1315  170    0 
+vpomurf   975200230 10  7 r   f     -     -         1145   20    0 
+vpomurf   975200285 10  6 c   kf    -     -         1125   10    0 
+vpomurf   975200389 10  5 rc  rr    rr    kc        1115  180    0 9d Qd
+vpomurf   975200515  8  3 rc  c     ccc   cf         935  150    0 
+vpomurf   975200662  9  3 f   -     -     -          785    0    0 
+vpomurf   975200780 10  2 Bc  kcc   kc    kc         785  140    0 Jd Qh
+vpomurf   975200944 10  1 Bcc br    brc   brc        645  240  611 Qs Th
+vpomurf   975201076 10 10 f   -     -     -         1016    0    0 
+vpomurf   975201133 10  9 cc  cc    cc    cc        1016  180    0 4c Jc
+vpomurf   975201277 10  8 f   -     -     -          836    0    0 
+vpomurf   975201365  9  6 c   cc    k     k          836   30    0 6h As
+vpomurf   975201427 10  6 f   -     -     -          806    0    0 
+vpomurf   975201530 10  5 cc  cc    rc    br         806  200    0 Qc 7d
+vpomurf   975201640 10  4 rr  br    b     b          606  110    0 As 7c
+vpomurf   975201743 10  3 f   -     -     -          496    0    0 
+vpomurf   975201859  9  2 Bc  cc    b     b          496   80  300 4d Tc
+vpomurf   975201963 10  1 Bcc kf    -     -          716   40    0 
+vpomurf   975202082 10 10 c   f     -     -          676   10    0 
+vpomurf   975202167 10  9 f   -     -     -          666    0    0 
+vpomurf   975202230 10  8 cc  cc    f     -          666   60    0 
+vpomurf   975202358 10  7 rc  f     -     -          606   40    0 
+vpomurf   975202436 10  7 c   r     b     b          566   90  202 6h Ad
+vpomurf   975202509  9  5 r   c     f     -          678   30    0 
+vpomurf   975202577  9  3 f   -     -     -          648    0    0 
+vpomurf   975202608  9  2 Br  bc    kc    k          648   70    0 2s Js
+vpomurf   975202645  8  1 Bc  k     k     kc         578   30    0 4s Kd
+vpomurf   975202700  8  8 c   k     k     k          548   20    0 7c 4c
+vpomurf   975202740  8  7 f   -     -     -          528    0    0 
+vpomurf   975202814  8  6 c   f     -     -          528   10    0 
+vpomurf   975202869  9  6 f   -     -     -          518    0    0 
+vpomurf   975202908  9  5 c   cc    c     f          518   50    0 
+vpomurf   975202982 10  5 cc  b     b     b          468   70    0 Kh 2d
+vpomurf   975203031 10  4 r   kf    -     -          398   20    0 
+vpomurf   975203102 10  3 cc  k     kc    k          378   40    0 5h 9c
+vpomurf   975203169  8  2 Bc  kc    kc    kf         338   50    0 
+vpomurf   975203227  8  1 Bf  -     -     -          288    5    0 
+vpomurf   975203258  8  8 f   -     -     -          283    0    0 
+vpomurf   975203271  8  7 rc  c     c     k          283   70    0 7h 3h
+vpomurf   975203337  8  6 rc  rr    rr    c          213  180    0 6c 8c
+vpomurf   975203411  9  6 r   rA    -     -           33   33    0 9d Jd
+vpomurf   975230184 10  6 cc  cc    cc    f         1000  190    0 
+vpomurf   975230345  9  5 f   -     -     -          810    0    0 
+vpomurf   975230407  7  3 cc  ccc   f     -          810   60    0 
+vpomurf   975230478  7  3 cc  f     -     -          750   20    0 
+vpomurf   975230504  7  2 Bc  kc    kc    k          730   50    0 4d 4s
+vpomurf   975230564  7  1 Bc  kc    kc    kc         680   70    0 2d Kh
+vpomurf   975230629  7  7 c   cc    c     rr         610  160    0 8d 2h
+vpomurf   975230692  6  5 cc  r     rr    c          450  140    0 Ts 9d
+vpomurf   975230758  6  4 c   r     c     c          310   90  285 Jd 9s
+vpomurf   975230855  5  3 cc  b     kc    krc        505  110    0 Ah 9c
+vpomurf   975230922  5  2 Bc  kc    kc    kf         395   50    0 
+vpomurf   975230984  5  1 Br  br    b     kf         345   80    0 
+vpomurf   975231082  5  5 r   rc    cc    ccc        265  220    0 3h 3c
+vpomurf   975231240  4  3 c   k     KQ    -           45   10    0 
+vpomurf   975268380  8  5 c   k     k     k           35   10    0 4d Kd
+vpomurf   975268477  9  5 ccA -     -     -           25   25    0 Tc Qh
+vpomurf   975268614  9  3 cf  -     -     -         1000   10    0 
+vpomurf   975268742 10  2 Bf  -     -     -          990   10    0 
+vpomurf   975268843 10  1 Bcc kc    b     k          980   60  300 Qc Kc
+vpomurf   975268941 10 10 f   -     -     -         1220    0    0 
+vpomurf   975269019 10  9 rc  ccc   c     b         1220  110    0 6c 6h
+vpomurf   975269159 10  8 f   -     -     -         1110    0    0 
+vpomurf   975269255 10  7 c   r     k     c         1110   60    0 Ah 7c
+vpomurf   975269331 10  6 f   -     -     -         1050    0    0 
+vpomurf   975269477 10  5 ccc brc   kc    kc        1050  120  425 8h Qh
+vpomurf   975269569 10  4 f   -     -     -         1355    0    0 
+vpomurf   975269655  9  3 ccc b     b     b         1355   80  310 
+vpomurf   975269744 10  2 Bcc kc    kf    -         1585   50    0 
+vpomurf   975269863 10  1 Bf  -     -     -         1535    5    0 
+vpomurf   975269955 10 10 r   rc    rc    r         1530  180    0 As Ah
+vpomurf   975270175 10  9 c   f     -     -         1350   10    0 
+vpomurf   975270249 10  8 f   -     -     -         1340    0    0 
+vpomurf   975270317 10  7 r   rc    f     -         1340   60    0 
+vpomurf   975270471 10  7 cc  f     -     -         1280   20    0 
+vpomurf   975270570  9  5 crc ccc   cc    c         1260  140    0 Ac 5d
+vpomurf   975270742  9  4 f   -     -     -         1120    0    0 
+vpomurf   975270903  6  3 f   -     Q     -         1120    0    0 

@@ -1,0 +1,569 @@
+batfish   896835817  9  9 f   -     -     -         2038    0    0 
+batfish   896835853  8  7 f   -     -     -         2038    0    0 
+batfish   896835907  9  6 f   -     -     -         2038    0    0 
+batfish   896835943  9  5 c   f     -     -         2038   10    0 
+batfish   896835983  9  4 f   -     -     -         2028    0    0 
+batfish   896836059  8  3 f   -     -     -         2028    0    0 
+batfish   896836085  8  2 Bk  b     -     -         2028   20   40 
+batfish   896836119  8  1 Bf  -     -     -         2048    5    0 
+batfish   896836237  8  8 f   -     -     -         2043    0    0 
+batfish   896836270  8  7 r   -     -     -         2043   20   35 
+batfish   896836286  9  7 f   -     -     -         2058    0    0 
+batfish   896836361 10  7 rc  f     -     -         2058   30    0 
+batfish   896836404 10  6 f   -     -     -         2028    0    0 
+batfish   896836442  9  4 f   -     -     -         2028    0    0 
+batfish   896836478 10  4 f   -     -     -         2028    0    0 
+batfish   896836515 10  3 f   -     -     -         2028    0    0 
+batfish   896836566 10  2 Bk  kf    -     -         2028   10    0 
+batfish   896836599 10  1 Bf  -     -     -         2018    5    0 
+batfish   896836636 10 10 f   -     -     -         2013    0    0 
+batfish   896836688 10  9 f   -     -     -         2013    0    0 
+batfish   896836758 10  8 f   -     -     -         2013    0    0 
+batfish   896836839 10  7 f   -     -     -         2013    0    0 
+batfish   896836919 10  6 c   b     b     k         2013   40  100 9s 9d
+batfish   896836973 10  5 f   -     -     -         2073    0    0 
+batfish   896837015 10  4 f   -     -     -         2073    0    0 
+batfish   896837058 10  3 f   -     -     -         2073    0    0 
+batfish   896837101 10  2 Bc  kc    kf    -         2073   30    0 
+batfish   896837147 10  1 Bf  -     -     -         2043    5    0 
+batfish   896837191 10 10 f   -     -     -         2038    0    0 
+batfish   896837255 10  9 f   -     -     -         2038    0    0 
+batfish   896837299 10  8 f   -     -     -         2038    0    0 
+batfish   896837352 10  7 r   r     f     -         2038   40    0 
+batfish   896837384 10  6 f   -     -     -         1998    0    0 
+batfish   896837437 10  5 f   -     -     -         1998    0    0 
+batfish   896837450 10  4 f   -     -     -         1998    0    0 
+batfish   896837486 10  3 f   -     -     -         1998    0    0 
+batfish   896837534 10  2 Bf  -     -     -         1998   10    0 
+batfish   896837579 10  1 Bf  -     -     -         1988    5    0 
+batfish   896837621 10 10 f   -     -     -         1983    0    0 
+batfish   896837653 10  9 f   -     -     -         1983    0    0 
+batfish   896837702 10  8 r   -     -     -         1983   20   35 
+batfish   896837720 10  7 f   -     -     -         1998    0    0 
+batfish   896837779 10  6 f   -     -     -         1998    0    0 
+batfish   896837820 10  5 f   -     -     -         1998    0    0 
+batfish   896837860 10  4 f   -     -     -         1998    0    0 
+batfish   896837914 10  3 f   -     -     -         1998    0    0 
+batfish   896837957 10  2 Bf  -     -     -         1998   10    0 
+batfish   896838019 10  1 Bf  -     -     -         1988    5    0 
+batfish   896838065 10 10 c   rc    c     f         1983   70    0 
+batfish   896838126 10  9 r   b     k     k         1913   30  135 Qs Kh
+batfish   896838188 10  8 f   -     -     -         2018    0    0 
+batfish   896838250 10  7 f   -     -     -         2018    0    0 
+batfish   896838259 10  6 f   -     -     -         2018    0    0 
+batfish   896838308 10  5 r   b     k     k         2018   30  125 9c 9s
+batfish   896838382 10  4 rc  c     c     b         2113   80  240 
+batfish   896838438 10  3 f   -     -     -         2273    0    0 
+batfish   896838477 10  2 Bk  kf    -     -         2273   10    0 
+batfish   896838560 10  1 Bc  k     k     k         2263   10    0 Ac 7s
+batfish   896838620 10 10 f   -     -     -         2253    0    0 
+batfish   896838698 10  9 f   -     -     -         2253    0    0 
+batfish   896838752 10  8 f   -     -     -         2253    0    0 
+batfish   896838855 10  7 rc  c     f     -         2253   50    0 
+batfish   896838907 10  6 f   -     -     -         2203    0    0 
+batfish   896838977 10  5 f   -     -     -         2203    0    0 
+batfish   896839002 10  4 f   -     -     -         2203    0    0 
+batfish   896839096 10  3 f   -     -     -         2203    0    0 
+batfish   896839171 10  2 Bk  k     kf    -         2203   10    0 
+batfish   896839231 10  1 Bc  k     k     k         2193   10    0 3d 9d
+batfish   896839291  9  9 f   -     -     -         2183    0    0 
+batfish   896839330  9  8 f   -     -     -         2183    0    0 
+batfish   896839406 10  8 f   -     -     -         2183    0    0 
+batfish   896839468 10  7 f   -     -     -         2183    0    0 
+batfish   896839497 10  6 f   -     -     -         2183    0    0 
+batfish   896839549 10  5 cc  c     f     -         2183   30    0 
+batfish   896839594  9  4 f   -     -     -         2153    0    0 
+batfish   896839639  9  3 f   -     -     -         2153    0    0 
+batfish   896839679  9  2 Bc  kc    kr    b         2153   90    0 Js Ah
+batfish   896839732  9  1 Bf  -     -     -         2063    5    0 
+batfish   896839845  9  9 f   -     -     -         2058    0    0 
+batfish   896839903 10  9 c   b     b     c         2058   60    0 Ah 4s
+batfish   896839956 10  8 c   c     c     f         1998   40    0 
+batfish   896840010 10  7 c   kf    -     -         1958   10    0 
+batfish   896840052 10  6 f   -     -     -         1948    0    0 
+batfish   896840082 10  5 f   -     -     -         1948    0    0 
+batfish   896840130 10  4 f   -     -     -         1948    0    0 
+batfish   896840196 10  3 c   b     b     b         1948   60    0 Ad 2d
+batfish   896840231 10  2 Bk  kf    -     -         1888   10    0 
+batfish   896840273 10  1 Bc  kf    -     -         1878   10    0 
+batfish   896840336 10 10 c   c     k     r         1868   60  175 4h Qh
+batfish   896840391 10  9 f   -     -     -         1983    0    0 
+batfish   896840427 10  8 f   -     -     -         1983    0    0 
+batfish   896840475 10  7 f   -     -     -         1983    0    0 
+batfish   896840521 10  6 cc  k     c     c         1983   60    0 As 8d
+batfish   896840560 10  5 f   -     -     -         1923    0    0 
+batfish   896840573 10  4 cc  k     bc    kf        1923   60    0 
+batfish   896840640 10  3 f   -     -     -         1863    0    0 
+batfish   896840671 10  2 Bc  kc    kc    k         1863   50    0 Qs 4s
+batfish   896840752 10  1 Bc  kf    -     -         1813   10    0 
+batfish   896840781 10 10 f   -     -     -         1803    0    0 
+batfish   896840812 10  9 f   -     -     -         1803    0    0 
+batfish   896840860 10  8 f   -     -     -         1803    0    0 
+batfish   896840911 10  7 r   c     k     c         1803   50    0 9s 9d
+batfish   896840944 10  6 c   b     b     b         1753   60    0 6s 6c
+batfish   896841020 10  5 f   -     -     -         1693    0    0 
+batfish   896841061 10  4 f   -     -     -         1693    0    0 
+batfish   896841116 10  3 c   kc    k     k         1693   20    0 9d 9h
+batfish   896841185 10  2 Bf  -     -     -         1673   10    0 
+batfish   896841215 10  1 Bf  -     -     -         1663    5    0 
+batfish   896841263 10 10 f   -     -     -         1658    0    0 
+batfish   896841299 10  9 f   -     -     -         1658    0    0 
+batfish   896841418 10  8 f   -     -     -         1658    0    0 
+batfish   896841497 10  7 f   -     -     -         1658    0    0 
+batfish   896841564 10  6 cc  c     b     b         1658   70  260 
+batfish   896841658 10  5 f   -     -     -         1848    0    0 
+batfish   896841762 10  4 f   -     -     -         1848    0    0 
+batfish   896841828 10  3 cf  -     -     -         1848   10    0 
+batfish   896841857 10  2 BQQ -     -     -         1838   10    0 
+batfish   897426983  9  7 c   b     k     k         1828   20    0 Jd 3d
+batfish   897427043  9  5 f   -     -     -         1808    0    0 
+batfish   897427090  9  4 f   -     -     -         1808    0    0 
+batfish   897427162  9  3 f   -     -     -         1808    0    0 
+batfish   897427197 10  2 Bk  k     k     k         1808   10    0 Qc Jh
+batfish   897427287  9  1 BQQQ -     -     -         1798    5    0 
+batfish   897444228 10  7 rc  b     b     b         1793   90  265 Ah As
+batfish   897444302 10  6 f   -     -     -         1968    0    0 
+batfish   897444364  9  5 r   b     b     b         1968   70    0 Qs Qh
+batfish   897444405 10  4 c   c     c     bc        1898   80    0 7d 6d
+batfish   897444494 10  3 f   -     -     -         1818    0    0 
+batfish   897444569 10  2 Bf  -     -     -         1818   10    0 
+batfish   897444604 10  1 Bf  -     -     -         1808    5    0 
+batfish   897444686 10 10 f   -     -     -         1803    0    0 
+batfish   897444736 10  9 f   -     -     -         1803    0    0 
+batfish   897444796 10  8 f   -     -     -         1803    0    0 
+batfish   897444851 10  7 f   -     -     -         1803    0    0 
+batfish   897444898 10  6 f   -     -     -         1803    0    0 
+batfish   897444956 10  5 f   -     -     -         1803    0    0 
+batfish   897445016 10  4 f   -     -     -         1803    0    0 
+batfish   897445061 10  3 f   -     -     -         1803    0    0 
+batfish   897445160 10  2 Bf  -     -     -         1803   10    0 
+batfish   897445214 10  1 Bf  -     -     -         1793    5    0 
+batfish   897445258 10 10 f   -     -     -         1788    0    0 
+batfish   897445300 10  9 f   -     -     -         1788    0    0 
+batfish   897445327 10  8 c   c     c     f         1788   50    0 
+batfish   897445369 10  7 f   -     -     -         1738    0    0 
+batfish   897445397 10  6 f   -     -     -         1738    0    0 
+batfish   897445430 10  5 f   -     -     -         1738    0    0 
+batfish   897445476 10  4 f   -     -     -         1738    0    0 
+batfish   897445564 10  3 f   -     -     -         1738    0    0 
+batfish   897445607 10  2 Bc  kf    -     -         1738   20    0 
+batfish   897445651 10  1 Bf  -     -     -         1718    5    0 
+batfish   897445683  9  9 c   k     k     k         1713   20    0 Td Kh
+batfish   897445729  9  8 f   -     -     -         1693    0    0 
+batfish   897445765  9  7 f   -     -     -         1693    0    0 
+batfish   897445827  9  6 f   -     -     -         1693    0    0 
+batfish   897445854  9  5 cc  f     -     -         1693   20    0 
+batfish   897445902 10  4 r   b     b     b         1673   70    0 2d 3c
+batfish   897445941 10  3 f   -     -     -         1603    0    0 
+batfish   897446006 10  2 Bk  kf    -     -         1603   10    0 
+batfish   897446024 10  1 Bc  kc    kc    k         1593   50    0 7c 9s
+batfish   897446086 10 10 f   -     -     -         1543    0    0 
+batfish   897446146 10  9 f   -     -     -         1543    0    0 
+batfish   897446198 10  8 f   -     -     -         1543    0    0 
+batfish   897446242 10  7 f   -     -     -         1543    0    0 
+batfish   897446272 10  6 f   -     -     -         1543    0    0 
+batfish   897446341 10  5 f   -     -     -         1543    0    0 
+batfish   897446387 10  4 f   -     -     -         1543    0    0 
+batfish   897446423 10  3 QQ  -     -     -         1543    0    0 
+batfish   897600733 10  9 c   f     -     -         1000   10    0 
+batfish   897600781 10  8 f   -     -     -          990    0    0 
+batfish   897600876 10  7 f   -     -     -          990    0    0 
+batfish   897600956 10  6 cf  -     -     -          990   10    0 
+batfish   897600978 10  5 f   -     -     -          980    0    0 
+batfish   897601026 10  4 rc  kc    kc    kf         980   60    0 
+batfish   897601097 10  3 cc  kc    k     k          920   30   95 Kc Th
+batfish   897601142 10  2 Bk  k     k     b          985   30    0 9h Ad
+batfish   897601176 10  1 Bc  k     kf    -          955   20    0 
+batfish   897601262 10 10 r   b     k     k          935   30  125 5h 5s
+batfish   897601313 10  4 QQ  -     -     -         1030    0    0 
+batfish   897612518 10  6 f   -     -     -         1030    0    0 
+batfish   897612641 10  5 cc  kc    k     b         1030   50  145 8d As
+batfish   897612696 10  4 c   b     k     c         1125   40  170 Js 8s
+batfish   897612756  7  3 f   -     -     -         1255    0    0 
+batfish   897612799  8  2 Bf  -     -     -         1255   10    0 
+batfish   897612845  8  1 Bf  -     -     -         1245    5    0 
+batfish   897612873  8  8 r   k     b     c         1240   60    0 Jd As
+batfish   897612918  8  7 f   -     -     -         1180    0    0 
+batfish   897612949  7  5 f   -     -     -         1180    0    0 
+batfish   897612959  8  5 f   -     -     -         1180    0    0 
+batfish   897612992  8  4 r   c     c     c         1180   70  190 Qc Ac
+batfish   897613056  9  3 f   -     -     -         1300    0    0 
+batfish   897613121  9  2 Bf  -     -     -         1300   10    0 
+batfish   897613150  9  1 Br  kc    krc   kcc       1290  150    0 Ad Ah
+batfish   897613225  8  8 r   c     k     r         1140   70  155 
+batfish   897613283  8  7 c   rc    c     f         1225   70    0 
+batfish   897613316  9  6 f   -     -     -         1155    0    0 
+batfish   897613346  9  5 r   c     r     b         1155   90  235 Th Ad
+batfish   897613389 10  4 cc  f     -     -         1300   40    0 
+batfish   897613440 10  3 f   -     -     -         1260    0    0 
+batfish   897613497 10  2 Bk  b     b     b         1260   60  130 
+batfish   897613548 10  1 Bf  -     -     -         1330    5    0 
+batfish   897613598  9  9 f   -     -     -         1325    0    0 
+batfish   897613634  9  9 rc  f     -     -         1325   30    0 
+batfish   897613656 10  8 f   -     -     -         1295    0    0 
+batfish   897613678 10  7 f   -     -     -         1295    0    0 
+batfish   897613712 10  6 r   b     -     -         1295   30   65 
+batfish   897613729 10  5 f   -     -     -         1330    0    0 
+batfish   897613793 10  4 cc  kcc   kc    f         1330   90    0 
+batfish   897613881  9  3 f   -     -     -         1240    0    0 
+batfish   897613924  9  2 Bk  krc   kf    -         1240   40    0 
+batfish   897613988 10  1 Bc  kc    kf    -         1200   20    0 
+batfish   897614056 10  5 QQ  -     -     -         1180    0    0 
+batfish   897778198 10  3 cc  kf    -     -         1180   20    0 
+batfish   897778263  9  2 Bf  -     -     -         1160   10    0 
+batfish   897778311  9  1 Bf  -     -     -         1150    5    0 
+batfish   897778376  9  9 cc  c     b     c         1145   70    0 9h Jd
+batfish   897778429 10  9 f   -     -     -         1075    0    0 
+batfish   897778519  9  7 rc  kc    kr    -         1075   80  185 
+batfish   897778559  9  6 f   -     -     -         1180    0    0 
+batfish   897778606 10  6 cf  -     -     -         1180   10    0 
+batfish   897778654 10  5 f   -     -     -         1170    0    0 
+batfish   897778698 10  4 f   -     -     -         1170    0    0 
+batfish   897778797 10  3 f   -     -     -         1170    0    0 
+batfish   897778852 10  2 Bf  -     -     -         1170   10    0 
+batfish   897778907 10  1 Bf  -     -     -         1160    5    0 
+batfish   897778995 10 10 cc  c     c     k         1155   50    0 Th 5h
+batfish   897779042 10  9 cc  f     -     -         1105   40    0 
+batfish   897779109 10  9 f   -     -     -         1065    0    0 
+batfish   897779165 10  7 f   -     -     -         1065    0    0 
+batfish   897779206  9  5 f   -     -     -         1065    0    0 
+batfish   897779245  9  4 f   -     -     -         1065    0    0 
+batfish   897779295  9  3 c   k     b     b         1065   50  115 
+batfish   897779369  8  2 Bf  -     -     -         1130   10    0 
+batfish   897779445  8  1 Bf  -     -     -         1120    5    0 
+batfish   897779491  8  8 f   -     -     -         1115    0    0 
+batfish   897779548  8  7 c   c     b     c         1115   70    0 Jd Qd
+batfish   897779587  8  6 c   f     -     -         1045   10    0 
+batfish   897779618  9  5 rc  r     b     b         1035   85  215 Qd Qc
+batfish   897779683  7  4 f   -     -     -         1165    0    0 
+batfish   897779733  7  3 cc  kc    kf    -         1165   30    0 
+batfish   897779784  7  2 Bf  -     -     -         1135   10    0 
+batfish   897779814  8  1 Bc  kf    -     -         1125   20    0 
+batfish   897779867  8  8 r   b     b     -         1105   50   95 
+batfish   897779923  8  7 f   -     -     -         1150    0    0 
+batfish   897779973  8  6 c   f     -     -         1150   20    0 
+batfish   897780018  8  5 f   -     -     -         1130    0    0 
+batfish   897780063  8  4 cr  brc   k     kc        1130   90    0 Ah Ac
+batfish   897780138  8  3 cc  k     kc    b         1040   60  170 
+batfish   897780199  8  2 Bk  kf    -     -         1150   10    0 
+batfish   897780241  8  1 Bc  kf    -     -         1140   10    0 
+batfish   897780275  8  8 f   -     -     -         1130    0    0 
+batfish   897780308  9  8 f   -     -     -         1130    0    0 
+batfish   897780364 10  7 f   -     -     -         1130    0    0 
+batfish   897780425  9  6 f   -     -     -         1130    0    0 
+batfish   897780471  9  5 crc brc   br    bcc       1130  220  755 Ah As
+batfish   897780561 10  4 f   -     -     -         1665    0    0 
+batfish   897780642 10  3 f   -     -     -         1665    0    0 
+batfish   897780693 10  2 Bf  -     -     -         1665   10    0 
+batfish   897780735 10  1 Bf  -     -     -         1655    5    0 
+batfish   897780786  7  4 QQ  -     -     -         1650    0    0 
+batfish   897875838 10  2 Bk  k     kf    -         1650   10    0 
+batfish   897875892 10  1 Bc  k     kf    -         1640   10    0 
+batfish   897875926 10 10 c   f     -     -         1630   10    0 
+batfish   897875988 10  9 f   -     -     -         1620    0    0 
+batfish   897876029 10  8 f   -     -     -         1620    0    0 
+batfish   897876158  9  6 f   -     -     -         1620    0    0 
+batfish   897876210 10  6 f   -     -     -         1620    0    0 
+batfish   897876257 10  5 cf  -     -     -         1620   10    0 
+batfish   897876302 10  4 f   -     -     -         1610    0    0 
+batfish   897876360 10  3 f   -     -     -         1610    0    0 
+batfish   897876408 10  2 Bc  kc    c     f         1610   60    0 
+batfish   897876462 10  1 Bc  kf    -     -         1550   10    0 
+batfish   897876536 10 10 f   -     -     -         1540    0    0 
+batfish   897876614 10  9 f   -     -     -         1540    0    0 
+batfish   897876708 10  8 f   -     -     -         1540    0    0 
+batfish   897876781 10  7 rc  kf    -     -         1540   30    0 
+batfish   897876816 10  6 rc  kcc   kf    -         1510   70    0 
+batfish   897876931  9  4 f   -     -     -         1440    0    0 
+batfish   897876963  9  3 f   -     -     -         1440    0    0 
+batfish   897877028  9  2 Bf  -     -     -         1440   10    0 
+batfish   897877070  9  1 Bc  kc    k     b         1430   50  110 Kd Kc
+batfish   897877119  9  9 c   c     c     b         1490   60  180 7d Qd
+batfish   897877181  9  8 cc  f     -     -         1610   20    0 
+batfish   897877218  9  7 f   -     -     -         1590    0    0 
+batfish   897877276  9  6 c   kf    -     -         1590   10    0 
+batfish   897877326  8  4 f   -     -     -         1580    0    0 
+batfish   897877366  8  3 f   -     -     -         1580    0    0 
+batfish   897877464  8  2 Bk  kc    kc    b         1580   60   88 Tc Kc
+batfish   897877592 10  1 Bcc kf    -     -         1608   20    0 
+batfish   897877716  7  7 r   -     -     -         1588   20   35 
+batfish   897877732  7  6 f   -     -     -         1603    0    0 
+batfish   897877764  7  5 f   -     -     -         1603    0    0 
+batfish   897877780  7  4 f   -     -     -         1603    0    0 
+batfish   897877800  8  3 c   k     c     c         1603   50    0 8c Ah
+batfish   897877845  8  2 Bk  k     k     f         1553   10    0 
+batfish   897877902  9  1 Bf  -     -     -         1543    5    0 
+batfish   897877918  9  9 f   -     -     -         1538    0    0 
+batfish   897877948  9  8 f   -     -     -         1538    0    0 
+batfish   897877977 10  7 rr  bc    c     cf        1538  120    0 
+batfish   897878038 10  6 f   -     -     -         1418    0    0 
+batfish   897878120 10  5 f   -     -     -         1418    0    0 
+batfish   897878154 10  4 cc  kc    k     b         1418   50  140 
+batfish   897878285  9  3 f   -     -     -         1508    0    0 
+batfish   897878318 10  2 Bk  kf    -     -         1508   10    0 
+batfish   897878364 10  1 Bc  b     bc    kc        1498   90    0 6s 6c
+batfish   897878398 10 10 f   -     -     -         1408    0    0 
+batfish   897878456 10  9 f   -     -     -         1408    0    0 
+batfish   897878490  9  7 r   c     r     f         1408   80    0 
+batfish   897878534  8  6 f   -     -     -         1328    0    0 
+batfish   897878566  8  5 f   -     -     -         1328    0    0 
+batfish   897878605  8  4 f   -     -     -         1328    0    0 
+batfish   897878630  8  3 f   -     -     -         1328    0    0 
+batfish   897878664  8  2 Bf  -     -     -         1328   10    0 
+batfish   897878680  8  1 Bf  -     -     -         1318    5    0 
+batfish   897878731  9  9 f   -     -     -         1313    0    0 
+batfish   897878751  8  7 f   -     -     -         1313    0    0 
+batfish   897878764  8  6 f   -     -     -         1313    0    0 
+batfish   897878798  9  5 f   -     -     -         1313    0    0 
+batfish   897878830 10  4 f   -     -     -         1313    0    0 
+batfish   897878879 10  3 f   -     -     -         1313    0    0 
+batfish   897878929 10  2 Bk  kf    -     -         1313   10    0 
+batfish   897879004 10  1 Bf  -     -     -         1303    5    0 
+batfish   897879052 10 10 f   -     -     -         1298    0    0 
+batfish   897879084 10  9 f   -     -     -         1298    0    0 
+batfish   897879132 10  8 f   -     -     -         1298    0    0 
+batfish   897879176 10  7 f   -     -     -         1298    0    0 
+batfish   897879199 10  6 f   -     -     -         1298    0    0 
+batfish   897879243 10  5 c   b     k     k         1298   20    0 8s 9c
+batfish   897879292 10  4 f   -     -     -         1278    0    0 
+batfish   897879306 10  3 f   -     -     -         1278    0    0 
+batfish   897879334 10  2 Bk  kf    -     -         1278   10    0 
+batfish   897879376 10  1 Bc  kf    -     -         1268   10    0 
+batfish   897879476 10 10 f   -     -     -         1258    0    0 
+batfish   897879489 10  9 f   -     -     -         1258    0    0 
+batfish   897879519 10  8 f   -     -     -         1258    0    0 
+batfish   897879556 10  7 cc  kc    kc    k         1258   50  130 Tc Kh
+batfish   897879647 10  6 f   -     -     -         1338    0    0 
+batfish   897879688 10  5 f   -     -     -         1338    0    0 
+batfish   897879732 10  4 f   -     -     -         1338    0    0 
+batfish   897879794 10  3 f   -     -     -         1338    0    0 
+batfish   897879833  9  2 Bf  -     -     -         1338   10    0 
+batfish   897879884 10  1 Bc  kf    -     -         1328   20    0 
+batfish   897879927 10 10 f   -     -     -         1308    0    0 
+batfish   897879971 10  9 f   -     -     -         1308    0    0 
+batfish   897879998 10  8 f   -     -     -         1308    0    0 
+batfish   897880046 10  7 f   -     -     -         1308    0    0 
+batfish   897880073 10  6 c   f     -     -         1308   10    0 
+batfish   897880127 10  5 f   -     -     -         1298    0    0 
+batfish   897880188 10  4 f   -     -     -         1298    0    0 
+batfish   897880219 10  3 f   -     -     -         1298    0    0 
+batfish   897880267 10  2 Bk  k     kf    -         1298   10    0 
+batfish   897880304 10  1 Bc  k     kf    -         1288   10    0 
+batfish   897880343 10 10 c   r     b     b         1278   80  215 5s 5c
+batfish   897880374 10  9 f   -     -     -         1413    0    0 
+batfish   897880411 10  8 f   QQ    -     -         1413    0    0 
+batfish   897957818 10  7 f   -     -     -         1413    0    0 
+batfish   897957905 10  6 f   -     -     -         1413    0    0 
+batfish   897957955 10  5 f   -     -     -         1413    0    0 
+batfish   897958063 10  4 f   -     -     -         1413    0    0 
+batfish   897958122 10  3 f   -     -     -         1413    0    0 
+batfish   897958187 10  2 Bf  -     -     -         1413   10    0 
+batfish   897958250 10  1 Bc  kc    kc    k         1403   50  240 Tc Jd
+batfish   897958324 10 10 c   f     -     -         1593   10    0 
+batfish   897958378 10  9 c   f     -     -         1583   10    0 
+batfish   897958437 10  8 r   f     -     -         1573   20    0 
+batfish   897958511 10  7 f   -     -     -         1553    0    0 
+batfish   897958607 10  6 f   -     -     -         1553    0    0 
+batfish   897958646 10  5 rc  kc    kc    k         1553   60  255 Ac Tc
+batfish   897958709 10  4 f   -     -     -         1748    0    0 
+batfish   897958753 10  3 f   -     -     -         1748    0    0 
+batfish   897958784 10  2 Bc  kc    kc    k         1748   50  195 Tc Kh
+batfish   897958830  9  1 Br  b     b     b         1893   70  130 
+batfish   897958870  8  8 f   -     -     -         1953    0    0 
+batfish   897958904  8  7 cc  f     -     -         1953   20    0 
+batfish   897958950  8  6 f   -     -     -         1933    0    0 
+batfish   897959008  7  4 f   -     -     -         1933    0    0 
+batfish   897959070  9  4 r   r     b     k         1933   60  190 Jh Jd
+batfish   897959110  9  3 fQ  Q     -     -         2063    0    0 
+batfish   898114080  9  2 Bk  f     -     -         2343   10    0 
+batfish   898114139  9  1 Bf  -     -     -         2333    5    0 
+batfish   898114175  9  9 f   -     -     -         2328    0    0 
+batfish   898114227  9  8 f   -     -     -         2328    0    0 
+batfish   898114245  9  8 f   -     -     -         2328    0    0 
+batfish   898114275  8  6 f   -     -     -         2328    0    0 
+batfish   898114309  7  4 f   -     -     -         2328    0    0 
+batfish   898114351  8  3 f   -     -     -         2328    0    0 
+batfish   898114418  9  3 f   -     -     -         2328    0    0 
+batfish   898114486  9  2 Bf  -     -     -         2328   10    0 
+batfish   898114514 10  1 Bf  -     -     -         2318    5    0 
+batfish   898114556 10 10 f   -     -     -         2313    0    0 
+batfish   898114592 10  9 f   -     -     -         2313    0    0 
+batfish   898114632  9  7 r   r     rr    b         2313  140  370 Qc As
+batfish   898114706 10  7 c   k     k     k         2543   10   35 5c Ac
+batfish   898114753 10  6 f   -     -     -         2568    0    0 
+batfish   898114769 10  5 f   -     -     -         2568    0    0 
+batfish   898114801 10  4 f   -     -     -         2568    0    0 
+batfish   898114848  9  3 f   -     -     -         2568    0    0 
+batfish   898114906 10  2 Bk  kf    -     -         2568   10    0 
+batfish   898114968 10  1 Bf  -     -     -         2558    5    0 
+batfish   898115003 10 10 f   -     -     -         2553    0    0 
+batfish   898115050 10  9 f   -     -     -         2553    0    0 
+batfish   898115129 10  8 f   -     -     -         2553    0    0 
+batfish   898115166 10  7 f   -     -     -         2553    0    0 
+batfish   898115222 10  6 f   -     -     -         2553    0    0 
+batfish   898115303  9  5 f   -     -     -         2553    0    0 
+batfish   898115349 10  4 f   -     -     -         2553    0    0 
+batfish   898115386 10  3 cc  f     -     -         2553   20    0 
+batfish   898115454 10  2 Bk  kf    -     -         2533   10    0 
+batfish   898115513 10  1 Bc  kc    k     bc        2523  100    0 As Qs
+batfish   898115583 10 10 c   b     bc    c         2423   80    0 9h As
+batfish   898115633 10  9 f   -     -     -         2343    0    0 
+batfish   898115693 10  8 rc  cc    k     b         2343   70  250 
+batfish   898115749 10  7 f   -     -     -         2523    0    0 
+batfish   898115779 10  6 f   -     -     -         2523    0    0 
+batfish   898115820 10  5 f   -     -     -         2523    0    0 
+batfish   898115867 10  4 cc  kf    -     -         2523   20    0 
+batfish   898115906 10  3 f   -     -     -         2503    0    0 
+batfish   898115958 10  2 Bk  kf    -     -         2503   10    0 
+batfish   898116014 10  1 Bf  -     -     -         2493    5    0 
+batfish   898116076 10 10 f   -     -     -         2488    0    0 
+batfish   898116116 10  9 rc  c     rc    c         2488  120    0 6d Ah
+batfish   898116166 10  8 r   k     f     -         2368   20    0 
+batfish   898116204 10  7 f   -     -     -         2348    0    0 
+batfish   898116294 10  6 rc  c     c     b         2348  100    0 Jd Js
+batfish   898116360 10  5 f   -     -     -         2248    0    0 
+batfish   898116457 10  5 f   -     -     QQ        2248    0    0 
+batfish   898198831 10  3 f   -     -     -         1558    0    0 
+batfish   898198892 10  2 Bc  k     k     kf        1558   30    0 
+batfish   898198981 10  1 Bc  bf    -     -         1528   20    0 
+batfish   898199090 10 10 r   b     c     f         1508   50    0 
+batfish   898199169 10  9 f   -     -     -         1458    0    0 
+batfish   898199179 10  8 c   f     -     -         1458   30    0 
+batfish   898199274 10  7 c   f     -     -         1428   10    0 
+batfish   898199353 10  6 f   -     -     -         1418    0    0 
+batfish   898199372 10  5 f   -     -     -         1418    0    0 
+batfish   898199492 10  4 f   -     -     QQ        1418    0    0 
+batfish   898563141 10  2 Bf  -     -     -         1418   10    0 
+batfish   898563167 10  1 Bc  kf    -     -         1408   10    0 
+batfish   898563207 10 10 f   -     -     -         1398    0    0 
+batfish   898563242 10  9 r   -     -     -         1398   20   35 
+batfish   898563266 10  8 c   b     b     b         1413   60    0 Jh 8h
+batfish   898563324 10  7 f   -     -     -         1353    0    0 
+batfish   898563415 10  6 f   -     -     -         1353    0    0 
+batfish   898563514 10  5 f   -     -     -         1353    0    0 
+batfish   898563548 10  4 f   -     -     -         1353    0    0 
+batfish   898563615 10  3 f   -     -     -         1353    0    0 
+batfish   898563651 10  2 Bk  b     kf    -         1353   20    0 
+batfish   898563698 10  1 Brc kc    k     b         1333   60  100 
+batfish   898563745 10 10 f   -     -     -         1373    0    0 
+batfish   898563809 10  9 r   b     -     -         1373   30   65 
+batfish   898563847 10  8 c   cc    kf    -         1408   40    0 
+batfish   898563895 10  7 f   -     -     -         1368    0    0 
+batfish   898563934 10  6 c   bc    k     b         1368   60  175 
+batfish   898564010 10  5 f   -     -     -         1483    0    0 
+batfish   898564063 10  4 f   -     -     -         1483    0    0 
+batfish   898564101 10  3 f   -     -     -         1483    0    0 
+batfish   898564162 10  2 Bk  k     brc   kc        1483  110    0 Jc 9h
+batfish   898564228 10  1 Bc  bc    bc    bc        1373  110    0 Th 9s
+batfish   898564286 10 10 f   -     -     -         1263    0    0 
+batfish   898564407 10  9 r   b     b     b         1263   70  145 
+batfish   898564470 10  8 f   -     -     -         1338    0    0 
+batfish   898564532 10  7 f   -     -     -         1338    0    0 
+batfish   898564588 10  6 rc  rc    c     c         1338  110    0 Jh Jd
+batfish   898564655 10  5 r   bc    kc    kr        1228  100  275 3c 5c
+batfish   898564725 10  4 f   -     -     -         1403    0    0 
+batfish   898564810 10  4 f   -     -     -         1403    0    0 
+batfish   898564882  8  2 Bc  f     -     -         1403   20    0 
+batfish   898564958  9  1 Bf  -     -     -         1383    5    0 
+batfish   898565022  9  9 f   -     -     -         1378    0    0 
+batfish   898565092 10  9 f   -     -     -         1378    0    0 
+batfish   898565156 10  8 f   -     -     -         1378    0    0 
+batfish   898565214 10  8 cc  c     bcc   b         1378  125   20 Qh Ac
+batfish   898565387  8  5 rr  bc    kc    k         1273   80  250 Ks Kd
+batfish   898565452  9  5 f   -     -     -         1443    0    0 
+batfish   898565521  9  4 f   -     -     -         1443    0    0 
+batfish   898565629  8  3 r   k     b     -         1443   40   75 
+batfish   898565653  9  2 Bf  -     -     -         1478   10    0 
+batfish   898565684 10  1 Bc  krc   kc    k         1468   80  240 Kh Ac
+batfish   898565749 10 10 f   -     -     -         1628    0    0 
+batfish   898565804 10  9 r   r     b     b         1628   80  175 
+batfish   898565858 10  8 c   f     -     -         1723   10    0 
+batfish   898565900 10  7 f   -     -     -         1713    0    0 
+batfish   898565927  8  4 r   b     bc    r         1713  110  220 
+batfish   898565983  8  4 r   k     k     k         1823   20   55 Ks Ts
+batfish   898566010  8  3 f   -     -     -         1858    0    0 
+batfish   898566063  8  2 Bc  kc    kc    kf        1858   60    0 
+batfish   898566108  9  1 Bf  -     -     -         1798    5    0 
+batfish   898566151 10 10 f   -     -     -         1793    0    0 
+batfish   898566200 10  9 r   b     b     b         1793   80  205 Jh Jd
+batfish   898566250 10  8 r   r     k     bc        1918   90  225 Td Ts
+batfish   898566315 10  7 c   k     f     -         2053   10    0 
+batfish   898566367 10  6 f   -     -     -         2043    0    0 
+batfish   898566424 10  5 f   -     -     -         2043    0    0 
+batfish   898566511 10  4 r   -     -     -         2043   20   45 
+batfish   898566529 10  3 f   -     -     -         2068    0    0 
+batfish   898566626 10  2 Bf  -     -     -         2068   10    0 
+batfish   898566703 10  1 Bf  Q     Q     -         2058    5    0 
+batfish   898735229 10  7 f   -     -     -         2053    0    0 
+batfish   898735297 10  6 f   -     -     -         2053    0    0 
+batfish   898735323 10  5 cc  kc    kc    kc        2053   70    0 Jd 9c
+batfish   898735387 10  4 f   -     -     -         1983    0    0 
+batfish   898735448 10  3 c   c     k     kf        1983   20    0 
+batfish   898735503 10  2 Bc  kc    kcc   kf        1963   70    0 
+batfish   898735590 10  1 Bc  k     kf    -         1893   10    0 
+batfish   898735657 10 10 f   -     -     -         1883    0    0 
+batfish   898735716 10  9 f   -     -     -         1883    0    0 
+batfish   898735790 10  8 cc  c     c     c         1883   80  375 Qh Th
+batfish   898735871 10  7 r   r     b     c         2178   80    0 Qc Kc
+batfish   898735917  8  5 QQ  -     -     -         2098    0    0 
+batfish   898818271 10  2 Bk  f     -     -         2013   10    0 
+batfish   898818311 10  1 Bc  k     kc    kf        2003   30    0 
+batfish   898818364 10 10 c   rc    c     c         1973   80  205 9s 9h
+batfish   898818424 10  9 c   r     c     f         2098   50    0 
+batfish   898818472 10  8 f   -     -     -         2048    0    0 
+batfish   898818542 10  7 f   -     -     -         2048    0    0 
+batfish   898818626 10  7 c   b     -     -         2048   30   65 
+batfish   898818665  7  5 f   -     -     -         2083    0    0 
+batfish   898818708  7  4 f   -     -     -         2083    0    0 
+batfish   898818717  7  3 rc  bc    c     k         2083   70    0 4c 4d
+batfish   898818766  6  1 Bf  -     -     -         2013   10    0 
+batfish   898818810  7  1 Bf  -     -     -         2003    5    0 
+batfish   898818860  8  8 f   -     -     -         1998    0    0 
+batfish   898818924  9  8 cc  c     r     b         1998  120  187 Ac Jh
+batfish   898818972  9  7 f   -     -     -         2065    0    0 
+batfish   898819036 10  7 ccc kf    -     -         2065   30    0 
+batfish   898819087 10  6 f   -     -     -         2035    0    0 
+batfish   898819174 10  5 r   r     b     b         2035   80  205 Kc Jc
+batfish   898819219 10  4 cc  kc    kr    b         2160   90  375 4h 4s
+batfish   898819343 10  3 f   -     -     -         2445    0    0 
+batfish   898819397 10  2 Bf  -     -     -         2445   10    0 
+batfish   898819444 10  1 Bc  kcc   kf    -         2435   50    0 
+batfish   898819554 10 10 f   -     -     -         2385    0    0 
+batfish   898819640 10  9 f   -     -     -         2385    0    0 
+batfish   898819678  9  7 f   -     -     -         2385    0    0 
+batfish   898819753 10  6 f   -     -     -         2385    0    0 
+batfish   898819814 10  5 r   b     rf    -         2385   70    0 
+batfish   898819862 10  4 f   -     -     -         2315    0    0 
+batfish   898819919 10  3 f   -     -     -         2315    0    0 
+batfish   898820003  9  2 Bf  -     -     -         2315   10    0 
+batfish   898820048  9  1 Bc  kc    kc    k         2305   50    0 Qc Ts
+batfish   898820120  9  9 c   c     c     c         2255   70  225 9c Kh
+batfish   898820153  9  8 c   k     b     b         2410   50  110 
+batfish   898820205 10  7 rc  r     b     b         2470  100  240 
+batfish   898820255 10  6 r   b     b     b         2610   70    0 Th Ah
+batfish   898820291 10  4 QQ  -     -     -         2540    0    0 
+batfish   898893510 10  8 cc  f     -     -         2540   20    0 
+batfish   898893582 10  6 f   -     -     -         2520    0    0 
+batfish   898893639 10  5 fQQ -     -     -         2520    0    0 
+batfish   899083004 10  6 f   -     -     -         2250    0    0 
+batfish   899083062 10  5 f   -     -     -         2250    0    0 
+batfish   899083086 10  4 r   -     -     -         2250   20   35 
+batfish   899083099 10  3 f   -     -     -         2265    0    0 
+batfish   899083121 10  2 Bc  kf    -     -         2265   20    0 
+batfish   899083175 10  1 Bc  k     b     -         2245   30   50 
+batfish   899083227 10 10 c   c     b     -         2265   50  130 
+batfish   899083263 10  9 c   b     k     b         2345   40  150 Jh Qs
+batfish   899083323 10  8 f   -     -     -         2455    0    0 
+batfish   899083370 10  7 f   -     -     -         2455    0    0 
+batfish   899083428 10  6 f   -     -     -         2455    0    0 
+batfish   899083475  9  5 r   k     kf    -         2455   20    0 
+batfish   899083539  9  4 c   c     r     b         2435   80  160 
+batfish   899083580  9  3 cc  kc    bc    k         2515   70    0 Jd Ah
+batfish   899083629  9  1 Bc  bc    kc    kf        2445   70    0 
+batfish   899083667  9  1 Bc  k     kc    kf        2375   30    0 
+batfish   899083731  8  8 f   -     -     -         2345    0    0 
+batfish   899083759  9  8 f   -     -     -         2345    0    0 
+batfish   899083779  8  6 f   -     -     -         2345    0    0 
+batfish   899083798  8  5 f   -     -     -         2345    0    0 
+batfish   899083869  9  4 rc  c     kc    b         2345   80  270 2s 4s
+batfish   899083912  8  2 f   Q     Q     -         2535    0    0 

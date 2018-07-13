@@ -1,0 +1,434 @@
+dontcheck 960158352  9  6 f   -     -     -          950    0    0 
+dontcheck 960158411  9  5 Q   -     -     -          950    0    0 
+dontcheck 960211072 10  5 f   -     -     -         1245    0    0 
+dontcheck 960211124 10  4 f   Q     -     -         1245    0    0 
+dontcheck 960286952  7  4 cc  c     c     f          940   50    0 
+dontcheck 960287002  7  2 Bk  k     k     f          890   10    0 
+dontcheck 960287068  7  1 Bf  -     -     -          880    5    0 
+dontcheck 960287135  7  7 c   c     rc    rr         875  160  385 8h Jh
+dontcheck 960287177  7  6 f   -     -     -         1100    0    0 
+dontcheck 960287215  7  5 f   -     -     -         1100    0    0 
+dontcheck 960287257  7  4 f   -     -     -         1100    0    0 
+dontcheck 960287300  7  3 cc  cc    kf    -         1100   40    0 
+dontcheck 960287369  7  2 Bf  -     -     -         1060   10    0 
+dontcheck 960287440  7  1 Bcc brc   brc   b         1050  164    0 Ts 8s
+dontcheck 960287537  6  6 f   -     -     -          886    0    0 
+dontcheck 960287638  7  5 f   -     -     -          886    0    0 
+dontcheck 960287672  7  4 f   -     -     -          886    0    0 
+dontcheck 960287752  6  2 Bk  kf    -     -          886   10    0 
+dontcheck 960287823  5  1 Bc  kf    -     -          876   10    0 
+dontcheck 960287853  5  5 f   -     -     -          866    0    0 
+dontcheck 960287874  5  4 c   r     b     k          866   60    0 8d 4d
+dontcheck 960287913  5  3 f   -     -     -          806    0    0 
+dontcheck 960287998  5  2 Bf  -     -     -          806   10    0 
+dontcheck 960288032  5  1 Bf  -     -     -          796    5    0 
+dontcheck 960288051  4  4 f   -     -     -          791    0    0 
+dontcheck 960288077  4  4 f   -     -     -          791    0    0 
+dontcheck 960288087  5  3 f   -     -     -          791    0    0 
+dontcheck 960288122  4  1 Br  b     k     kf         791   30    0 
+dontcheck 960288147  4  1 Bf  Q     -     -          761    5    0 
+dontcheck 960341394 10  6 f   -     -     -          841    0    0 
+dontcheck 960341459 10  5 f   -     -     -          841    0    0 
+dontcheck 960341517 10  5 c   f     -     -          841   20    0 
+dontcheck 960341581  8  3 f   -     -     -          821    0    0 
+dontcheck 960341661  9  2 Bc  b     b     b          821   70  235 
+dontcheck 960341714  9  1 Bc  k     kf    -          986   10    0 
+dontcheck 960341760 10 10 f   -     -     -          976    0    0 
+dontcheck 960341812 10  9 f   -     -     -          976    0    0 
+dontcheck 960341876 10  8 c   kf    -     -          976   10    0 
+dontcheck 960341928 10  7 f   -     -     -          966    0    0 
+dontcheck 960341981 10  6 f   -     -     -          966    0    0 
+dontcheck 960342047 10  5 cf  -     -     -          966   10    0 
+dontcheck 960342144 10  4 f   -     -     -          956    0    0 
+dontcheck 960342203 10  3 cc  kf    -     -          956   20    0 
+dontcheck 960342304 10  2 Bk  brc   krr   b          936  150    0 Jc 8d
+dontcheck 960342394 10  1 Bc  k     kf    -          786   10    0 
+dontcheck 960342471 10 10 f   -     -     -          776    0    0 
+dontcheck 960342529 10  9 f   -     -     -          776    0    0 
+dontcheck 960342615 10  8 rc  b     kc    kc         776   90  310 Js Ks
+dontcheck 960342678 10  7 f   -     -     -          996    0    0 
+dontcheck 960342725 10  6 cc  rr    rr    b          996  180  685 9s 6s
+dontcheck 960342819 10  5 f   -     -     -         1501    0    0 
+dontcheck 960342854 10  4 f   -     -     -         1501    0    0 
+dontcheck 960342901 10  3 cc  brc   krc   krr       1501  210  775 8h 4h
+dontcheck 960343000  9  2 Bk  k     kf    -         2066   10    0 
+dontcheck 960343073 10  1 Bf  -     -     -         2056    5    0 
+dontcheck 960343131 10 10 r   b     -     -         2051   30   85 
+dontcheck 960343173 10  9 c   f     -     -         2106   10    0 
+dontcheck 960343268 10  8 fQ  -     -     -         2096    0    0 
+dontcheck 960374344  5  5 f   -     -     -         2416    0    0 
+dontcheck 960374390  5  4 f   -     -     -         2416    0    0 
+dontcheck 960374428  5  3 f   -     -     -         2416    0    0 
+dontcheck 960374460  6  2 Bcf -     -     -         2416   20    0 
+dontcheck 960374499  7  1 Bf  -     -     -         2396    5    0 
+dontcheck 960374546  7  7 f   -     -     -         2391    0    0 
+dontcheck 960374580  7  6 f   -     -     -         2391    0    0 
+dontcheck 960374606  7  5 c   c     c     f         2391   40    0 
+dontcheck 960374635  6  4 f   -     -     -         2351    0    0 
+dontcheck 960374648  6  3 c   k     f     -         2351   10    0 
+dontcheck 960374681  6  2 Bc  br    -     -         2341   50   95 
+dontcheck 960374707  6  1 Bf  -     -     -         2386    5    0 
+dontcheck 960374728  6  6 f   -     -     -         2381    0    0 
+dontcheck 960374749  6  5 f   -     -     -         2381    0    0 
+dontcheck 960374777  6  4 f   -     -     -         2381    0    0 
+dontcheck 960374806  6  3 f   -     -     -         2381    0    0 
+dontcheck 960374824  6  2 Bf  -     -     -         2381   10    0 
+dontcheck 960374846  6  1 Bc  kf    -     -         2371   10    0 
+dontcheck 960374883  6  6 f   -     -     -         2361    0    0 
+dontcheck 960374897  6  5 f   -     -     -         2361    0    0 
+dontcheck 960374917  6  4 f   -     -     -         2361    0    0 
+dontcheck 960374938  6  3 f   -     -     -         2361    0    0 
+dontcheck 960374943  6  2 Bk  b     bc    kf        2361   60    0 
+dontcheck 960375001  7  1 Bf  -     -     -         2301    5    0 
+dontcheck 960375036  7  7 c   c     rf    -         2296   60    0 
+dontcheck 960375092  7  6 rc  cc    c     r         2236  110  280 
+dontcheck 960375138  7  5 c   bcc   f     -         2406   40    0 
+dontcheck 960375177  7  4 f   -     -     -         2366    0    0 
+dontcheck 960375197  7  3 r   b     b     b         2366   70  130 
+dontcheck 960375228  7  2 Bf  -     -     -         2426   10    0 
+dontcheck 960375253  7  1 Bf  -     -     -         2416    5    0 
+dontcheck 960375292  7  7 rr  r     k     c         2411   80    0 Ad Qc
+dontcheck 960375325  7  6 cc  f     -     -         2331   20    0 
+dontcheck 960375367  8  5 f   -     -     -         2311    0    0 
+dontcheck 960375398  8  4 f   -     -     -         2311    0    0 
+dontcheck 960375438  8  3 cc  b     b     k         2311   50    0 6h Kh
+dontcheck 960375466  8  2 Bcc kf    -     -         2261   40    0 
+dontcheck 960375511  8  1 Bc  kf    -     -         2221   10    0 
+dontcheck 960375539  8  8 f   -     -     -         2211    0    0 
+dontcheck 960375591  8  7 c   k     k     f         2211   10    0 
+dontcheck 960375628  8  6 f   -     -     -         2201    0    0 
+dontcheck 960375655  7  4 f   -     -     -         2201    0    0 
+dontcheck 960375690  7  3 f   -     -     -         2201    0    0 
+dontcheck 960375717  7  2 Bk  b     k     kf        2201   20    0 
+dontcheck 960375753  7  1 Bf  -     -     -         2181    5    0 
+dontcheck 960375776  7  7 rc  rc    c     f         2176  100    0 
+dontcheck 960375824  7  6 f   -     -     -         2076    0    0 
+dontcheck 960375856  7  5 c   k     f     -         2076   10    0 
+dontcheck 960375915  7  4 ccf -     -     -         2066   20    0 
+dontcheck 960375963  7  3 c   k     k     f         2046   10    0 
+dontcheck 960375999  7  2 Bf  -     -     -         2036   10    0 
+dontcheck 960376032  7  1 Bf  -     -     -         2026    5    0 
+dontcheck 960376061  7  7 c   f     -     -         2021   20    0 
+dontcheck 960376079  7  6 f   -     -     -         2001    0    0 
+dontcheck 960376114  7  5 f   -     -     -         2001    0    0 
+dontcheck 960376150  7  4 c   r     b     bf        2001   70    0 
+dontcheck 960376201  7  3 cc  kf    -     -         1931   20    0 
+dontcheck 960376232  8  2 Bcr bc    k     f         1911   60    0 
+dontcheck 960376313  7  1 Bf  -     -     -         1851    5    0 
+dontcheck 960376370  8  8 c   c     k     f         1846   20    0 
+dontcheck 960376408  8  7 f   -     -     -         1826    0    0 
+dontcheck 960376459  8  6 f   -     -     -         1826    0    0 
+dontcheck 960376484  8  5 f   -     -     -         1826    0    0 
+dontcheck 960376523  8  4 f   -     -     -         1826    0    0 
+dontcheck 960376589  8  3 f   -     -     -         1826    0    0 
+dontcheck 960376665  8  2 Bk  k     b     b         1826   50  125 
+dontcheck 960376718  8  1 Bf  -     -     -         1901    5    0 
+dontcheck 960376768  8  8 c   cc    bc    f         1896   70    0 
+dontcheck 960376826  8  7 rc  kf    -     -         1826   30    0 
+dontcheck 960376856  8  6 f   -     -     -         1796    0    0 
+dontcheck 960376881  8  5 c   k     b     k         1796   30   75 5s 6s
+dontcheck 960376926  9  5 ccc c     bcc   kf        1841  110    0 
+dontcheck 960376991  8  4 f   -     -     -         1731    0    0 
+dontcheck 960377019  8  3 f   -     -     -         1731    0    0 
+dontcheck 960377083  9  2 Bf  -     -     -         1731   10    0 
+dontcheck 960377128 10  1 Bf  -     -     -         1721    5    0 
+dontcheck 960377188 10 10 fQ  -     -     -         1716    0    0 
+dontcheck 960459079  7  5 c   cf    -     -         1716   20    0 
+dontcheck 960459141  7  4 c   bc    kr    bf        1696   90    0 
+dontcheck 960459193  7  3 f   -     -     -         1606    0    0 
+dontcheck 960459240  7  2 Bc  krr   b     b         1606  100  185 
+dontcheck 960459281  7  1 Bf  -     -     -         1691    5    0 
+dontcheck 960459321  7  7 f   -     -     -         1686    0    0 
+dontcheck 960459356  7  6 cc  c     f     -         1686   30    0 
+dontcheck 960459394  7  5 cc  r     b     bc        1656  100    0 Tc 9s
+dontcheck 960459438  7  4 c   f     -     -         1556   10    0 
+dontcheck 960459508  7  3 f   -     -     -         1546    0    0 
+dontcheck 960459552  7  2 Bk  kc    kr    k         1546   60    0 8s 7s
+dontcheck 960459606  7  1 Bf  -     -     -         1486    5    0 
+dontcheck 960459652  7  7 f   -     -     -         1481    0    0 
+dontcheck 960459690  7  6 c   k     k     f         1481   10    0 
+dontcheck 960459735  7  5 f   -     -     -         1471    0    0 
+dontcheck 960459783  7  4 f   -     -     -         1471    0    0 
+dontcheck 960459833  7  3 c   kf    -     -         1471   10    0 
+dontcheck 960459890  7  2 Bc  krc   br    bc        1461  160    0 Qh Th
+dontcheck 960459982  8  1 Bf  -     -     -         1301    5    0 
+dontcheck 960460039  8  8 f   -     -     -         1296    0    0 
+dontcheck 960460079  8  7 r   r     k     k         1296   40    0 Qd Ks
+dontcheck 960460135  8  6 f   -     -     -         1256    0    0 
+dontcheck 960460180  8  5 c   k     f     -         1256   10    0 
+dontcheck 960460226  8  4 f   -     -     -         1246    0    0 
+dontcheck 960460274  8  3 f   -     -     -         1246    0    0 
+dontcheck 960460318  8  2 Bk  kQ    -     -         1246   10    0 
+dontcheck 960461342  7  2 Bk  c     c     f         1236   40    0 
+dontcheck 960461390  7  1 Bf  -     -     -         1196    5    0 
+dontcheck 960461445  7  7 c   f     -     -         1191   20    0 
+dontcheck 960461465  7  6 f   -     -     -         1171    0    0 
+dontcheck 960461504  7  5 f   -     -     -         1171    0    0 
+dontcheck 960461583  7  4 f   -     -     -         1171    0    0 
+dontcheck 960461638  7  3 cc  bc    krr   bc        1171  160    0 6s Qs
+dontcheck 960461782  6  2 Bc  k     k     k         1011   20   45 5c 9c
+dontcheck 960461819  6  1 Bf  -     -     -         1036    5    0 
+dontcheck 960461866  6  6 c   c     f     -         1031   20    0 
+dontcheck 960461906  6  5 c   rr    b     k         1011   80    0 Qs 5s
+dontcheck 960461937  7  4 f   -     -     -          931    0    0 
+dontcheck 960461970  7  3 f   -     -     -          931    0    0 
+dontcheck 960462006  7  2 Bc  kf    -     -          931   20    0 
+dontcheck 960462042  8  1 Bc  kc    kf    -          911   20    0 
+dontcheck 960462084  8  8 r   k     c     f          891   40    0 
+dontcheck 960462127  8  7 f   -     -     -          851    0    0 
+dontcheck 960462132  8  6 f   -     -     -          851    0    0 
+dontcheck 960462177  8  5 c   c     f     -          851   20    0 
+dontcheck 960462214  8  4 f   -     -     -          831    0    0 
+dontcheck 960462266  8  3 f   -     -     -          831    0    0 
+dontcheck 960462297  8  2 Bk  kf    -     -          831   10    0 
+dontcheck 960462375  7  1 Bc  krr   br    brc        821  200    0 8c 9s
+dontcheck 960462421  9  9 f   -     -     -          621    0    0 
+dontcheck 960462485  9  8 f   -     -     -          621    0    0 
+dontcheck 960462551  9  7 r   k     rc    f          621  100    0 
+dontcheck 960462614  9  6 f   -     -     -          521    0    0 
+dontcheck 960462649 10  6 rr  rr    brc   b          521  180  585 Ac Ah
+dontcheck 960462733 10  5 c   r     b     bf         926   70    0 
+dontcheck 960462806 10  4 f   -     -     -          856    0    0 
+dontcheck 960462853  9  3 f   -     -     -          856    0    0 
+dontcheck 960462915 10  2 Bf  -     -     -          856   10    0 
+dontcheck 960462975 10  1 Bcc kf    -     -          846   50    0 
+dontcheck 960463050 10 10 f   -     -     -          796    0    0 
+dontcheck 960463100 10  9 rc  f     -     -          796   50    0 
+dontcheck 960463196  8  7 f   -     -     -          746    0    0 
+dontcheck 960463226  8  7 cc  c     c     rr         746  130  375 5h Jh
+dontcheck 960463307  8  6 f   -     -     -          991    0    0 
+dontcheck 960463354  8  5 f   -     -     -          991    0    0 
+dontcheck 960463448  6  3 f   -     -     -          991    0    0 
+dontcheck 960463474  6  2 Bk  f     -     -          991   10    0 
+dontcheck 960463532  6  1 Bc  kc    kf    -          981   30    0 
+dontcheck 960463577  5  5 f   -     -     -          951    0    0 
+dontcheck 960463606  5  4 c   kc    c     f          951   40    0 
+dontcheck 960463645  5  3 cc  rr    b     b          911  100    0 7s Qs
+dontcheck 960463686  5  2 BQ  -     -     -          811   10    0 
+dontcheck 960544932  2  1 Bc  k     b     b          801   50   80 
+dontcheck 960544965  2  2 Bk  c     b     rc         831  100  200 3s 6s
+dontcheck 960545003  2  1 Bc  kf    -     -          931   10    0 
+dontcheck 960545020  2  2 Bk  b     b     b          921   60  100 
+dontcheck 960545058  2  1 Bf  -     -     -          961    5    0 
+dontcheck 960545061  2  2 Bk  k     r     b          956   70  140 6h 5h
+dontcheck 960545087  2  1 Bc  k     k     b         1026   30   40 
+dontcheck 960545119  2  2 Br  b     br    b         1036  110  220 Tc As
+dontcheck 960545150  2  1 Bf  -     -     -         1146    5    0 
+dontcheck 960545156  2  2 B   -     -     -         1141   10   15 
+dontcheck 960545162  2  1 Bf  -     -     -         1146    5    0 
+dontcheck 960545165  2  2 Bk  r     c     c         1141   70   70 3d Kc
+dontcheck 960545189  2  1 Bc  k     kf    -         1141   10    0 
+dontcheck 960545222  2  2 Bk  k     k     k         1131   10    0 6s 3c
+dontcheck 960545239  3  1 Br  kc    kf    -         1121   30    0 
+dontcheck 960545277  3  3 f   -     -     -         1091    0    0 
+dontcheck 960545318  3  2 Bc  k     k     f         1091   20    0 
+dontcheck 960545353  3  1 Bcc kf    -     -         1071   20    0 
+dontcheck 960545388  4  4 f   -     -     -         1051    0    0 
+dontcheck 960545430  4  3 crc rc    b     b         1051  120  440 Jd Jh
+dontcheck 960545491  4  2 Bc  f     -     -         1371   20    0 
+dontcheck 960545526  4  1 Bf  -     -     -         1351    5    0 
+dontcheck 960545573  4  4 c   k     f     -         1346   10    0 
+dontcheck 960545603  3  2 Bc  c     c     f         1336   50    0 
+dontcheck 960545625  3  1 Bf  -     -     -         1286    5    0 
+dontcheck 960545663  3  3 f   Q     -     -         1281    0    0 
+dontcheck 960626540 10  9 KQ  -     -     -         1281    0    0 
+dontcheck 960629800 10  6 f   -     -     -         1281    0    0 
+dontcheck 960629880 10  5 c   f     -     -         1281   10    0 
+dontcheck 960629917 10  5 f   -     -     -         1271    0    0 
+dontcheck 960629977 10  3 f   -     -     Q         1271    0    0 
+dontcheck 960810253 10  3 f   -     -     -         1581    0    0 
+dontcheck 960810298  9  2 Bf  -     -     -         1581   10    0 
+dontcheck 960810358  9  1 Bc  kf    -     -         1571   10    0 
+dontcheck 960810414  9  9 c   r     k     f         1561   30    0 
+dontcheck 960810482 10  9 c   f     -     -         1531   10    0 
+dontcheck 960810566 10  8 f   -     -     -         1521    0    0 
+dontcheck 960810616 10  7 f   -     -     -         1521    0    0 
+dontcheck 960810691 10  6 f   -     -     -         1521    0    0 
+dontcheck 960810735 10  5 f   -     -     -         1521    0    0 
+dontcheck 960810795 10  4 c   b     b     b         1521   60  155 
+dontcheck 960810853 10  3 f   -     -     -         1616    0    0 
+dontcheck 960810916 10  2 Bk  kf    -     -         1616   10    0 
+dontcheck 960810969 10  1 Bf  -     -     -         1606    5    0 
+dontcheck 960811033 10 10 f   -     -     -         1601    0    0 
+dontcheck 960811121 10  9 f   -     -     -         1601    0    0 
+dontcheck 960811197 10  8 r   b     b     b         1601   80  355 Kh Kd
+dontcheck 960811308 10  7 f   -     Q     -         1876    0    0 
+dontcheck 960835338  9  9 f   -     -     -         1876    0    0 
+dontcheck 960835403  9  7 f   -     -     -         1876    0    0 
+dontcheck 960835443  9  6 c   rr    k     f         1876   50    0 
+dontcheck 960835503 10  6 f   -     -     -         1826    0    0 
+dontcheck 960835555 10  5 f   -     -     -         1826    0    0 
+dontcheck 960835622 10  4 f   -     -     -         1826    0    0 
+dontcheck 960835667 10  3 f   -     -     -         1826    0    0 
+dontcheck 960835734  8  1 Bf  -     -     -         1826   10    0 
+dontcheck 960835779  8  1 Bf  -     -     -         1816    5    0 
+dontcheck 960835811  8  8 f   -     -     -         1811    0    0 
+dontcheck 960835850  8  7 f   -     -     -         1811    0    0 
+dontcheck 960835911  8  6 c   kc    f     -         1811   20    0 
+dontcheck 960835984  7  4 f   -     -     -         1791    0    0 
+dontcheck 960836030  7  3 f   -     -     -         1791    0    0 
+dontcheck 960836063  7  2 Bk  f     -     -         1791   10    0 
+dontcheck 960836103  6  1 Bf  -     -     -         1781    5    0 
+dontcheck 960836128  7  7 f   -     -     -         1776    0    0 
+dontcheck 960836157  7  6 cc  f     -     -         1776   20    0 
+dontcheck 960836200  6  4 f   -     -     -         1756    0    0 
+dontcheck 960836219  6  3 f   -     -     -         1756    0    0 
+dontcheck 960836242  6  2 Bf  -     -     -         1756   10    0 
+dontcheck 960836289  6  1 Bf  -     -     -         1746    5    0 
+dontcheck 960836345  5  5 r   r     f     -         1741   40    0 
+dontcheck 960836394  5  4 c   b     b     -         1701   40   80 
+dontcheck 960836477  5  2 f   -     -     -         1741    0    0 
+dontcheck 960836482  5  2 Bf  -     -     -         1741   10    0 
+dontcheck 960836494  5  1 BQ  -     -     -         1731    5    0 
+dontcheck 960975829  2  2 BQ  -     -     -         1346   10    0 
+dontcheck 961099747  9  4 ccc ccc   ccc   f         1021  160    0 
+dontcheck 961099810  9  3 cc  kf    -     -          861   20    0 
+dontcheck 961099855 10  2 Bk  k     kf    -          841   10    0 
+dontcheck 961099897 10  1 Bf  -     -     -          831    5    0 
+dontcheck 961099939 10 10 f   -     -     -          826    0    0 
+dontcheck 961099987 10  9 f   -     -     -          826    0    0 
+dontcheck 961100033 10  8 c   f     -     -          826   20    0 
+dontcheck 961100095 10  7 f   -     -     -          806    0    0 
+dontcheck 961100128 10  6 f   -     -     -          806    0    0 
+dontcheck 961100184 10  5 f   -     -     -          806    0    0 
+dontcheck 961100262 10  4 cc  c     f     -          806   50    0 
+dontcheck 961100370 10  3 Q   -     -     -          756    0    0 
+dontcheck 961411416  4  3 c   f     -     -          751   10    0 
+dontcheck 961411457  4  2 Bc  k     f     -          741   20    0 
+dontcheck 961411518  4  1 Bf  -     -     -          721    5    0 
+dontcheck 961411549  4  4 c   k     f     -          716   10    0 
+dontcheck 961411583  5  3 f   -     -     -          706    0    0 
+dontcheck 961411633  5  2 Bk  bc    kf    -          706   30    0 
+dontcheck 961411668  6  1 Bc  kf    -     -          676   20    0 
+dontcheck 961411738  7  7 c   f     Q     -          656   10    0 
+dontcheck 961440443 10  5 f   -     -     -          611    0    0 
+dontcheck 961440491 10  4 c   ccc   kc    bc         611  110  238 Kd 5d
+dontcheck 961440569 10  3 f   -     -     -          739    0    0 
+dontcheck 961440681 10  2 Bc  f     -     -          659   20    0 
+dontcheck 961440764 10  1 Br  bf    -     -          619   30    0 
+dontcheck 961440847 10 10 f   -     -     -          589    0    0 
+dontcheck 961440956 10  9 f   -     -     -          559    0    0 
+dontcheck 961441023 10  8 f   -     -     -          559    0    0 
+dontcheck 961441075 10  7 f   -     -     -          554    0    0 
+dontcheck 961441133 10  6 f   -     -     -          554    0    0 
+dontcheck 961441214 10  5 f   -     -     -          554    0    0 
+dontcheck 961441277 10  4 f   -     -     -          554    0    0 
+dontcheck 961441323 10  3 f   -     -     -          554    0    0 
+dontcheck 961441398 10  2 Bk  k     k     k          554   10   25 8d 4d
+dontcheck 961441427 10  1 Bf  -     -     -          569    5    0 
+dontcheck 961441462 10 10 f   Q     -     -          564    0    0 
+dontcheck 961471346  6  4 f   -     -     -          584    0    0 
+dontcheck 961471376  6  3 c   f     -     -          544   10    0 
+dontcheck 961471420  6  2 Bk  k     k     k          534   10    0 7c Td
+dontcheck 961471459  6  1 Br  kf    -     -          524   20    0 
+dontcheck 961471516  7  7 c   k     f     -          494   10    0 
+dontcheck 961471578  9  8 c   f     -     -          469   10    0 
+dontcheck 961471637 10  8 c   f     -     -          419   10    0 
+dontcheck 961471732 10  8 f   -     -     -          399    0    0 
+dontcheck 961471813 10  6 rc  c     c     c          359   90  490 Jh Ad
+dontcheck 961471879 10  5 f   -     -     -          759    0    0 
+dontcheck 961471934 10  4 f   -     -     -          749    0    0 
+dontcheck 961472015 10  3 f   -     -     -          749    0    0 
+dontcheck 961472060 10  2 Br  b     b     bc         739   90  285 Ad Ks
+dontcheck 961472127 10  1 Br  b     k     b          929   50  170 Qs Qh
+dontcheck 961472173 10 10 c   f     -     -         1049   20    0 
+dontcheck 961472238 10  9 c   k     f     -         1019   10    0 
+dontcheck 961472323 10  8 f   -     -     -          889    0    0 
+dontcheck 961472374 10  7 f   -     -     -          889    0    0 
+dontcheck 961472430 10  6 f   -     -     -          949    0    0 
+dontcheck 961472481 10  5 f   -     -     -          949    0    0 
+dontcheck 961472512 10  4 f   -     -     -          939    0    0 
+dontcheck 961472563 10  3 f   -     -     -          934    0    0 
+dontcheck 961472644 10  2 Bk  b     br    b          934  100    0 Ah 2s
+dontcheck 961472699 10  1 Bf  -     -     -          804    5    0 
+dontcheck 961472830 10 10 f   -     -     -         1004    0    0 
+dontcheck 961472926 10  9 cc  f     -     -         1004   40    0 
+dontcheck 961473027 10  8 r   r     r     k          964   80  295 Qh Jh
+dontcheck 961473085 10  7 f   -     -     -         1179    0    0 
+dontcheck 961473138 10  6 f   -     -     -         1169    0    0 
+dontcheck 961473248 10  5 c   kf    -     -         1164   10    0 
+dontcheck 961473317 10  4 r   f     -     -         1144   20    0 
+dontcheck 961473366 10  3 c   kf    -     -         1124   10    0 
+dontcheck 961473416 10  2 Bc  k     kf    -         1114   20    0 
+dontcheck 961473477 10  1 Bf  -     -     -         1094    5    0 
+dontcheck 961473554 10 10 c   Q     -     -         1369   10    0 
+dontcheck 961761665  4  4 f   -     -     -         1879    0    0 
+dontcheck 961761676  4  3 fQ  -     -     -         1879    0    0 
+dontcheck 961843646  6  2 Bf  -     -     -         1799   10    0 
+dontcheck 961843683  6  1 Bc  k     kf    -         1789   10    0 
+dontcheck 961843742  7  6 f   -     -     -         1779    0    0 
+dontcheck 961843794  6  5 f   -     -     -         1779    0    0 
+dontcheck 961843837  6  4 f   -     -     -         1779    0    0 
+dontcheck 961843870  7  3 f   -     -     -         1779    0    0 
+dontcheck 961843904  8  2 Br  b     bc    b         1779   90  180 
+dontcheck 961843949  8  1 Bc  kc    kf    -         1869   20    0 
+dontcheck 961843990  8  8 f   -     -     -         1849    0    0 
+dontcheck 961844050  9  8 c   rc    c     f         1849   70    0 
+dontcheck 961844109  9  7 c   k     f     -         1779   10    0 
+dontcheck 961844145  9  6 f   -     -     -         1769    0    0 
+dontcheck 961844173  9  5 f   -     -     -         1769    0    0 
+dontcheck 961844186  9  4 c   rc    c     f         1769   60    0 
+dontcheck 961844241  9  3 f   -     -     -         1709    0    0 
+dontcheck 961844296  9  2 Bf  -     -     -         1709   10    0 
+dontcheck 961844347  9  1 Bf  -     -     -         1699    5    0 
+dontcheck 961844374  9  9 c   rr    r     f         1694  100    0 
+dontcheck 961844422  9  8 r   rc    b     b         1594  110    0 As Jd
+dontcheck 961844531 10  8 f   -     -     -         1484    0    0 
+dontcheck 961844566 10  7 f   -     -     -         1484    0    0 
+dontcheck 961844647 10  6 f   -     -     -         1484    0    0 
+dontcheck 961844690 10  5 f   -     -     -         1484    0    0 
+dontcheck 961844737 10  4 f   -     -     -         1484    0    0 
+dontcheck 961844778 10  3 f   -     -     -         1484    0    0 
+dontcheck 961844852  9  2 Br  bc    br    b         1484  140    0 6s 5s
+dontcheck 961844905 10  1 Bc  kc    k     kf        1344   20    0 
+dontcheck 961844973 10 10 c   k     k     k         1324   10    0 7h 8d
+dontcheck 961845014 10  9 f   -     -     -         1314    0    0 
+dontcheck 961845089 10  8 r   b     b     k         1314   50  170 3s As
+dontcheck 961845136 10  7 f   -     -     -         1434    0    0 
+dontcheck 961845237 10  6 c   k     k     b         1434   30   80 
+dontcheck 961845292 10  5 f   -     -     -         1484    0    0 
+dontcheck 961845345 10  4 f   -     -     -         1484    0    0 
+dontcheck 961845380 10  3 f   -     -     -         1484    0    0 
+dontcheck 961845481 10  2 Bc  kc    kc    kf        1484   50    0 
+dontcheck 961845548 10  1 Bf  -     -     -         1434    5    0 
+dontcheck 961845622  9  9 f   -     -     -         1429    0    0 
+dontcheck 961845656  8  7 r   k     b     -         1429   40   65 
+dontcheck 961845696  8  6 f   -     -     -         1454    0    0 
+dontcheck 961845733 10  7 cc  f     -     Q         1454   20    0 
+dontcheck 961876005  9  6 f   -     -     -         1434    0    0 
+dontcheck 961876069 10  5 f   -     -     -         1434    0    0 
+dontcheck 961876135 10  4 f   -     -     -         1434    0    0 
+dontcheck 961876201 10  3 f   -     -     -         1434    0    0 
+dontcheck 961876252 10  2 Bk  kf    -     -         1434   10    0 
+dontcheck 961876309 10  1 BKQ -     -     -         1424    5    0 
+dontcheck 961876834 10 10 f   -     -     -         1419    0    0 
+dontcheck 961876876 10  9 c   cc    r     k         1419   80    0 Jd 9c
+dontcheck 961876955 10  8 c   c     f     -         1339   20    0 
+dontcheck 961877009 10  7 f   -     -     -         1319    0    0 
+dontcheck 961877054 10  6 cc  rc    f     -         1319   70    0 
+dontcheck 961877120 10  5 f   -     -     -         1249    0    0 
+dontcheck 961877214 10  4 c   k     k     f         1249   10    0 
+dontcheck 961877312 10  3 f   -     -     -         1239    0    0 
+dontcheck 961877346 10  2 Bc  kf    -     -         1239   20    0 
+dontcheck 961877370 10  1 Bf  -     -     -         1219    5    0 
+dontcheck 961877417 10 10 f   -     -     -         1214    0    0 
+dontcheck 961877462 10  9 r   b     b     rr        1214  130    0 As Jh
+dontcheck 961877533 10  8 f   -     -     -         1084    0    0 
+dontcheck 961877593 10  7 f   -     -     -         1084    0    0 
+dontcheck 961877679 10  6 f   -     -     -         1084    0    0 
+dontcheck 961877708 10  5 f   -     -     -         1084    0    0 
+dontcheck 961877765 10  4 r   b     -     -         1084   30   65 
+dontcheck 961877794 10  3 r   b     b     b         1119   70  175 Th Ts
+dontcheck 961877820 10  2 Bf  -     -     -         1224   10    0 
+dontcheck 961877849 10  1 Bf  -     -     -         1214    5    0 
+dontcheck 961877902 10 10 c   c     r     f         1209   60    0 
+dontcheck 961877956 10  9 f   -     -     -         1149    0    0 
+dontcheck 961878004 10  8 f   -     -     -         1149    0    0 
+dontcheck 961878041 10  7 f   -     -     -         1149    0    0 
+dontcheck 961878083 10  6 f   -     -     -         1149    0    0 
+dontcheck 961878119 10  6 c   k     f     -         1149   10    0 
+dontcheck 961878209 10  4 c   f     -     -         1139   10    0 
+dontcheck 961878244 10  3 cc  kf    -     -         1129   20    0 
+dontcheck 961878312 10  2 Bf  -     -     -         1109   10    0 
+dontcheck 961878344 10  1 Bf  -     -     -         1099    5    0 
+dontcheck 961878410 10  6 Q   -     -     -         1094    0    0 

@@ -1,0 +1,330 @@
+Conn      913742497 10  4 rr  brc   k     k         1000   80    0 6s Ks
+Conn      913742580 10  3 rr  brc   c     k          920  100    0 As Tc
+Conn      913742687  9  2 Bc  brc   kc    brc        820  160    0 Kh 4h
+Conn      913742740  9  1 Br  bcc   kc    kr         660  120    0 Qs 4s
+Conn      913742817 10 10 c   c     c     brc        540  140    0 Jd 3c
+Conn      913742889 10  9 rc  br    rr    rr         400  240  890 Js 8s
+Conn      913742981 10  8 f   -     -     -         1050    0    0 
+Conn      913743037 10  7 c   k     k     b         1050   30    0 6h 7c
+Conn      913743092 10  6 r   c     c     c         1020  130    0 9h 6s
+Conn      913743137 10  5 c   b     r     k          890   60  155 4d 7c
+Conn      913743203  9  3 rc  k     r     br         985  140    0 3s 9h
+Conn      913743271 10  3 r   k     k     kf         845   20    0 
+Conn      913743347 10  2 Bcc krc   kccc  brc        825  240    0 Jh 7s
+Conn      913743483 10  1 Br  k     kc    k          585   70    0 5c Ad
+Conn      913743572 10 10 c   r     b     -          515   50  185 
+Conn      913743701 10  9 rc  k     c     f          650   60    0 
+Conn      913743803 10  8 r   k     c     cf         590  120    0 
+Conn      913743886 10  7 r   kc    kf    -          470   40    0 
+Conn      913743943 10  6 c   c     b     br         430  110    0 4d 3s
+Conn      913743990 10  5 Q   -     -     -          320    0    0 
+Conn      913744831  8  4 cf  -     -     -          320   10    0 
+Conn      913744871  8  3 c   c     k     f          310   20    0 
+Conn      913744936  7  2 Br  cc    kcc   f          290  120    0 
+Conn      913745023  7  1 Bc  b     b     b          170   60  160 Qs Qh
+Conn      913745066  7  7 rc  k     c     c          270   80    0 5c 2s
+Conn      913745128  8  7 c   b     r     b          190   80    0 8h 9d
+Conn      913745182  8  6 rr  c     rcA   -          110  110  455 2h Td
+Conn      913745291  7  4 rc  rr    rr    rc         455  240  760 4d Kd
+Conn      913745378  7  4 r   k     c     k          975   40  200 Tc Qc
+Conn      913745437  7  3 rc  bc    c     f         1135  120    0 
+Conn      913745517  7  2 Brc c     ccc   kc        1015  170    0 5c Th
+Conn      913745619  7  1 Bc  kc    kc    kf         845   40    0 
+Conn      913745685  6  6 cc  cc    k     f          805   80    0 
+Conn      913745771  7  6 c   b     b     -          725   50  105 
+Conn      913745816  7  6 r   c     ccc   k          780  120    0 2h 6h
+Conn      913745914  7  5 cc  c     cc    cc         660  182    0 Ks 7c
+Conn      913746010  6  3 c   k     b     r          478   70  145 9s Jh
+Conn      913746063  5  2 Br  br    rr    c          553  160    0 3c Ah
+Conn      913746132  7  1 Brc k     kc    kf         393   50    0 
+Conn      913746210  8  8 c   b     k     rf         343   80    0 
+Conn      913746286  8  7 r   k     c     b          263   70  155 Qd Js
+Conn      913746364  8  6 c   b     b     -          348   40   85 
+Conn      913746478  7  4 rr  br    b     b          393  110  305 4d Ad
+Conn      913746544  7  3 c   c     c     rf         588   80    0 
+Conn      913746596  8  2 Bf  -     -     -          508   10    0 
+Conn      913746652  7  1 BQ  -     -     -          498    5    0 
+Conn      913747019  7  7 r   br    b     b          493   90  170 
+Conn      913747074  7  6 r   b     b     b          573   70  235 9c 9h
+Conn      913747146  8  6 r   b     b     b          738   70  135 
+Conn      913747216  9  5 r   k     r     r          803  100  245 4d 8d
+Conn      913747349  9  4 rr  br    br    b          948  150  665 5c 8c
+Conn      913747511 10  3 r   r     b     br        1463  120    0 Ad 2s
+Conn      913747585 10  2 Bk  br    b     b         1343   80  230 
+Conn      913747685  9  1 Br  bc    kc    bc        1493  100    0 Th 4h
+Conn      913747747  9  9 c   r     rr    b         1393  140  430 Jh 3c
+Conn      913747790 10  9 f   -     -     -         1683    0    0 
+Conn      913747848  9  7 c   c     cf    -         1683   60    0 
+Conn      913747928  7  5 f   -     -     -         1623    0    0 
+Conn      913747981  7  4 c   k     kf    -         1623   10    0 
+Conn      913748060  7  3 c   k     kf    -         1613   10    0 
+Conn      913748099  8  2 Br  br    r     r         1603  150  560 5c 6c
+Conn      913748194  8  1 Bcc krr   br    brc       2013  225    0 2h Jc
+Conn      913748331  8  8 r   b     -     -         1788   30   65 
+Conn      913748373  8  6 rc  c     c     rr        1823  150  450 Kh Qd
+Conn      913748444  8  6 f   -     -     -         2123    0    0 
+Conn      913748482  7  3 Q   -     -     -         2123    0    0 
+Conn      913753282 10  9 r   k     b     r         2123   80    0 3d 4d
+Conn      913753352 10  8 rr  rr    rc    rc        2043  240    0 6c 6d
+Conn      913753539  9  6 cc  bc    c     r         1803  100    0 2s Ah
+Conn      913753643 10  6 r   b     b     b         1703   70    0 6c 8h
+Conn      913753800  6  4 f   -     -     -         1633    0    0 
+Conn      913753860  7  4 c   k     kf    -         1633   10    0 
+Conn      913753924  7  3 cc  b     b     br        1623  110    0 8h Ac
+Conn      913754003  7  2 Bcc b     b     brc       1513  150    0 4c Ks
+Conn      913754094  8  1 Br  k     b     b         1363   60  150 As Ac
+Conn      913754137  8  8 c   rc    rr    rr        1453  210    0 3h 3d
+Conn      913754234  9  8 ccc r     c     r         1243  120    0 4h 2d
+Conn      913754354  9  7 c   b     kr    b         1123   80    0 8c 5h
+Conn      913754415 10  7 c   c     c     b         1043   70    0 9s Kc
+Conn      913754508 10  6 r   k     c     c          973   70    0 8d 3c
+Conn      913754631 10  5 c   bc    kc    b          903   70    0 6s 9d
+Conn      913754744  9  4 ccc kc    kc    b          833   90    0 Qh 2c
+Conn      913754833  9  3 rc  kc    brc   br         743  190    0 7c 8c
+Conn      913754997  8  2 Br  bc    krc   kc         553  180    0 5c 4c
+Conn      913755101  8  1 Br  b     b     b          373   70    0 4c 8c
+Conn      913755155  9  8 r   c     rr    rr         303  190    0 3d Th
+Conn      913755227  9  7 r   b     brc   cA         113  113    0 3s Ts
+Conn      913755357  8  5 rc  kr    br    b         1000  140    0 Td Ts
+Conn      913755451  7  3 c   k     rr    c          860  110    0 9s Tc
+Conn      913755521  7  2 Bk  b     b     -          750   40   90 
+Conn      913755582  7  1 Br  -     -     -          800   20   30 
+Conn      913755611  7  7 c   rr    r     b          810  120    0 7c Ah
+Conn      913755663  8  7 rc  r     rr    b          690  150  245 4d Ah
+Conn      913755803  6  4 Q   -     -     -          785    0    0 
+Conn      913757113  7  4 c   krr   br    b          785  130    0 8s 6s
+Conn      913757198  7  2 c   b     br    b          655  100    0 Qs Ad
+Conn      913757257  7  2 Bc  kc    kf    -          555   30    0 
+Conn      913757313  8  1 Bc  kc    kc    kf         525   60    0 
+Conn      913757370  9  9 r   r     rr    rr         465  200    0 6d 8d
+Conn      913757487  9  8 c   c     c     c          265   80    0 9d Jh
+Conn      913757595  8  6 r   brc   rr    rcA        185  185    0 7d 8d
+Conn      913757771  9  9 c   c     c     c         1000   60    0 Kc 2d
+Conn      913757829  9  8 c   rc    b     b          940   90  270 2h 9h
+Conn      913757900 10  8 rc  k     cr    kr        1120  130    0 8h 8s
+Conn      913758015 10  7 f   -     -     -          990    0    0 
+Conn      913758082 10  6 c   cc    kc    kf         990   60    0 
+Conn      913758177 10  5 c   k     cc    br         930  110  315 2c 3h
+Conn      913758248 10  4 rc  bc    c     f         1135   70    0 
+Conn      913758307 10  3 cc  k     k     kr        1065   60    0 3d Kd
+Conn      913758407 10  2 Bk  k     b     br        1005   90  235 Ad 6d
+Conn      913758500 10  1 Bc  kc    k     kf        1150   30    0 
+Conn      913758591 10 10 c   c     k     f         1120   20    0 
+Conn      913758678  8  7 r   r     c     f         1100   70    0 
+Conn      913758829  9  6 f   -     -     -         1030    0    0 
+Conn      913758893 10  6 c   k     c     f         1030   30    0 
+Conn      913758955 10  5 cc  rc    brc   bc        1000  180    0 Qd 3c
+Conn      913759128 10  4 Q   -     -     -          820    0    0 
+Conn      913760997  7  7 r   c     r     c         1095   90    0 As 2s
+Conn      913761068  6  5 c   c     cc    b         1005   90    0 4s 3d
+Conn      913761125  8  5 c   r     rr    rc         915  190  610 7c 5h
+Conn      913761232  6  3 c   k     b     -         1335   30   60 
+Conn      913761345  7  2 Bf  -     -     -         1365   10    0 
+Conn      913761476  7  1 Bc  b     kc    k         1355   50    0 Qc 9c
+Conn      913761546  8  8 c   r     b     c         1305   70  155 9c Ac
+Conn      913761633  9  7 c   rr    rc    c         1390  170    0 2c Qc
+Conn      913761797  8  6 c   c     c     rf        1220   80    0 
+Conn      913761864  9  5 f   -     -     -         1140    0    0 
+Conn      913761976  8  4 cc  br    b     b         1140   90    0 Ts Js
+Conn      913762038  8  2 cc  k     b     b         1050   60  180 6d Kd
+Conn      913762083  7  2 Brc krc   kc    kc        1170  120    0 9h 8s
+Conn      913762166  9  1 Brc kr    b     b         1050  110    0 Jd Kh
+Conn      913762240  8  8 f   -     -     -          940    0    0 
+Conn      913762288  7  6 cc  c     c     b          940   70    0 Qc Ac
+Conn      913762345  7  5 cc  kcc   krr   b          870  160    0 2s 5c
+Conn      913762393  8  4 cc  brc   bc    b          710  120  275 4h As
+Conn      913762428  7  2 Bc  brc   kf    -          865   60    0 
+Conn      913762478  8  1 Bcc kr    b     b          805  100    0 Ad 2s
+Conn      913762545  8  8 f   -     -     -          705    0    0 
+Conn      913762603  8  7 Q   -     -     -          705    0    0 
+Conn      913834997 10  7 cc  kc    k     c          705   60    0 Ac 5c
+Conn      913835106 10  6 cc  brc   b     b          645  100  195 
+Conn      913835181 10  3 Q   -     -     -          740    0    0 
+Conn      913837523  7  4 c   c     k     r          740   60    0 4d 6s
+Conn      913837555  8  3 r   k     b     b          680   60  170 Kh Jh
+Conn      913837587  8  2 Bcc kc    kc    b          790  100    0 2d 7c
+Conn      913837655  8  1 Bc  k     b     brc        690  120    0 2d 8s
+Conn      913837699  8  8 r   r     r     r          570  120    0 Th 2d
+Conn      913837743  8  7 c   r     -     -          450   30   90 
+Conn      913837784  7  5 c   kc    c     r          510   80    0 2h 9h
+Conn      913837828  7  4 rc  k     crc   br         430  170    0 Qc 5c
+Conn      913837880  7  3 c   br    Q     -          260   40    0 
+Conn      913840060 10  9 r   r     rr    rr         220  200    0 Qs Qd
+Conn      913840159  9  7 rA  Q     -     -           20   20    0 
+Conn      913840314  8  8 c   k     k     r         1000   50  110 
+Conn      913840392  8  7 c   k     k     r         1060   60    0 Th 2c
+Conn      913840465 10  7 c   c     r     brc       1000  150    0 Kd 6s
+Conn      913840578 10  6 cc  b     b     br         850  110    0 Kd Ah
+Conn      913840702 10  5 c   b     k     rr         740  100  138 Jd 5h
+Conn      913840801  9  4 c   c     cc    br         778  120    0 Jd 8h
+Conn      913840931  9  3 cc  kc    kc    kf         658   50    0 
+Conn      913841033  9  2 Bc  kc    br    b          608  130    0 2s 3h
+Conn      913841131  9  1 Bc  kc    kc    b          478   60  280 5d 2d
+Conn      913841222 10 10 c   c     cc    f          698   80    0 
+Conn      913841302 10  9 c   cc    c     k          618   90    0 Kh 2s
+Conn      913841445  9  7 c   c     c     f          528   60    0 
+Conn      913841514  9  6 c   c     k     k          468   30    0 6d Ad
+Conn      913841603 10  5 rc  kcc   k     kf         438   80    0 
+Conn      913841683 10  5 cc  rc    rc    c          358  160    0 7h 3d
+Conn      913841791  9  3 r   rr    brc   brA        198  198    0 8s 6s
+Conn      913842659  8  3 crc brc   brc   b         1000  180    0 7h 7d
+Conn      913842834  7  2 Bk  krc   kc    brc        820  140    0 4c Qs
+Conn      913842910  7  1 Bc  kr    kc    b          680   80  330 9c Qs
+Conn      913843059  8  8 c   k     cf    -          930   50    0 
+Conn      913843152  8  7 cc  kc    kc    k          880   60    0 7c Jc
+Conn      913843233  6  4 c   c     f     -          820   20    0 
+Conn      913843291  8  5 ccc kf    -     -          800   40    0 
+Conn      913843379  8  4 cc  krr   brc   brc        760  220  600 7h 5d
+Conn      913843520  9  3 cc  cc    kcc   b         1140  140    0 3c 8h
+Conn      913843602  8  2 Br  br    b     b         1000   90  245 Td Tc
+Conn      913843691  9  1 Bcc kc    k     k         1155   40    0 4s 6c
+Conn      913843761 10 10 f   -     -     -         1115    0    0 
+Conn      913843823 10  9 c   c     c     c         1115   70    0 6s Jc
+Conn      913843885 10  8 c   cc    f     -         1045   40    0 
+Conn      913844008 10  7 r   r     rr    rr        1005  200    0 Qc 9h
+Conn      913844094 10  6 cc  rc    c     c          805  110    0 5s Ks
+Conn      913844254 10  5 rr  brc   brc   brc        695  240    0 7s 7c
+Conn      913844324  9  3 cc  brc   brc   b          455  170    0 5s 7s
+Conn      913844487  9  3 cr  b     brc   brf        285  180    0 
+Conn      913844655  9  2 Brc b     b     b          105   90  355 9s 9d
+Conn      913844804  8  1 Bc  brc   b     brc        370  160    0 5c Tc
+Conn      913844869  8  8 r   r     rr    b          210  140    0 Tc 6d
+Conn      913844980  8  7 rr  rA    -     -           70   70    0 Qh Th
+Conn      914018570  8  4 c   rr    b     b         1000  100  375 4c 9d
+Conn      914018625  8  2 Bk  kr    brc   brc       1275  190    0 3s Kd
+Conn      914018723  9  1 Bcc kcc   b     br        1085  140  570 Ad 6c
+Conn      914018822 10 10 f   -     -     -         1515    0    0 
+Conn      914018873 10  9 cc  rr    b     brc       1515  160    0 Js 8d
+Conn      914018986 10  8 rc  k     c     f         1355   50    0 
+Conn      914019060 10  7 cc  rr    bc    k         1305  120    0 4h 2s
+Conn      914019140 10  6 cc  cc    kc    b         1185   80    0 Kh Ac
+Conn      914019206 10  5 c   kc    kc    b         1105   80    0 Js 8h
+Conn      914019278 10  4 c   cc    b     b         1025   90    0 9d Ac
+Conn      914019353 10  3 c   b     k     k          935   20    0 7s Jc
+Conn      914019403 10  2 Bk  kr    b     b          915   70    0 6d 3s
+Conn      914019478 10  1 BQ  -     -     -          845    5    0 
+Conn      914060720  7  6 f   -     -     -          840    0    0 
+Conn      914060778  8  6 c   cc    rc    b          840  180    0 Qc 2d
+Conn      914060883  8  5 c   k     kc    kr         660   70  160 
+Conn      914060941  8  3 c   kc    kc    b          750   70  210 Ac 4h
+Conn      914061001  9  3 cc  cc    kc    br         890  120    0 7s Ac
+Conn      914061085  9  2 Brc brc   b     b          770  120    0 8d 8c
+Conn      914061155  9  1 BQ  -     -     -          650    5    0 
+Conn      914084167 10 10 c   c     c     c          645   70    0 9s 3s
+Conn      914084226 10  9 c   k     c     k          575   30    0 7d 5d
+Conn      914084298 10  8 cc  cc    cc    f          545  150    0 
+Conn      914084370 10  7 rc  cr    rc    krr        395  240    0 8h 9d
+Conn      914084490 10  6 rr  rc    rcA   -          155  155    0 Td Ah
+Conn      914084653 10  4 cc  f     -     -         1000   20    0 
+Conn      914084701  9  2 Bc  kc    kc    kf         980   50    0 
+Conn      914084754  9  1 Bf  -     -     -          930    5    0 
+Conn      914084807  9  9 f   -     -     -          925    0    0 
+Conn      914084863  9  8 c   c     r     b          925   80  105 Ac 6h
+Conn      914084916  9  7 cc  kc    kc    kf         950   60    0 
+Conn      914084990  9  6 f   -     -     -          890    0    0 
+Conn      914085031  9  5 c   k     kf    -          890   10    0 
+Conn      914085080  9  4 cc  kc    kf    -          880   30    0 
+Conn      914085138  8  3 c   k     kc    kf         850   30    0 
+Conn      914085230  8  2 Bc  r     b     bf         820   90    0 
+Conn      914085280  9  1 Bc  k     k     b          730   30   80 
+Conn      914085377  8  8 c   br    rc    rr         780  180    0 Qc 6c
+Conn      914085433  8  7 c   c     c     c          600   70    0 Td Kc
+Conn      914085494  8  6 cQ  -     -     -          530   20    0 
+Conn      914152938 10  7 cc  cf    -     -          510   50    0 
+Conn      914153050 10  6 c   kc    kc    kf         460   40    0 
+Conn      914153101 10  5 ccc rr    rc    brc        420  240    0 2c Kd
+Conn      914153301 10  5 rc  kr    brc   b          180  150  288 2d 5d
+Conn      914153396 10  3 rc  rr    r     rr         318  200    0 4d Kh
+Conn      914153485 10  2 Bc  r     r     bcA        118  118    0 4d 6s
+Conn      914168318 10  1 Bc  b     b     b         1000   60  140 
+Conn      914168367 10 10 f   -     -     -         1080    0    0 
+Conn      914168426 10  9 c   c     c     b         1080   60    0 Kd 2c
+Conn      914168484 10  8 c   rr    r     r         1020  140  395 
+Conn      914168575 10  7 c   c     c     f         1275   50    0 
+Conn      914168634  9  5 f   -     -     -         1225    0    0 
+Conn      914168683  9  4 c   c     c     c         1225   60    0 Td Ah
+Conn      914168715 10  3 rr  br    b     b         1165  110    0 9c 9s
+Conn      914168753 10  2 Bc  bc    kc    b         1055  100  315 Td 6s
+Conn      914168831 10  1 Bc  kc    k     k         1270   40    0 Th Qd
+Conn      914168889 10 10 c   c     c     f         1230   60    0 
+Conn      914168945 10  9 c   c     c     r         1170  100    0 Jh 6d
+Conn      914169010 10  8 rc  c     c     c         1070   90    0 Kc Js
+Conn      914169075 10  7 c   c     rr    brc        980  190    0 Ks 3s
+Conn      914169146 10  6 r   r     b     b          790   80  245 8d 8s
+Conn      914169237 10  5 cc  kc    kc    bc         955  110    0 7s 6h
+Conn      914169309  9  4 r   k     k     c          845   40    0 Kh Ah
+Conn      914169333 10  3 cc  brc   bcc   f          805  140    0 
+Conn      914169419  9  2 Bc  kc    kc    b          665   70  125 
+Conn      914169449  9  1 Bc  b     b     b          720   70  160 
+Conn      914169486 10 10 c   c     f     -          810   20    0 
+Conn      914169536 10  9 rc  k     c     rc         790  120    0 3d Ad
+Conn      914169657  9  4 Q   -     -     -          670    0    0 
+Conn      914170831  9  3 f   Q     -     -          670    0    0 
+Conn      914189661 10  5 f   -     -     -          670    0    0 
+Conn      914189736 10  4 ccc cr    krr   br         670  220  655 Qc 2s
+Conn      914189871 10  3 ccc kcc   kcc   brc       1105  220    0 Ks 6s
+Conn      914189971 10  2 Bc  ccc   c     f          885   80    0 
+Conn      914190056 10  1 BQ  -     -     -          805    5    0 
+Conn      914270418 10  8 c   r     k     f          800   30    0 
+Conn      914270473 10  7 cc  br    b     bc         770  120    0 Jh Ts
+Conn      914270540 10  6 cr  b     rr    b          650  140    0 3d Ad
+Conn      914270673  9  6 c   c     b     b          510   60    0 Ks 2h
+Conn      914270723  8  4 f   -     -     -          450    0    0 
+Conn      914270773 10  3 cc  kc    kc    b          450   70    0 Qs 5d
+Conn      914270830  9  1 Bk  kc    br    b          380  100  220 Ad Kd
+Conn      914270899 10  1 Bc  kc    kc    b          500   80    0 7s 3s
+Conn      914270975  9  9 c   f     -     -          420   10    0 
+Conn      914271042  8  7 c   k     b     rr         410  110    0 5d 4s
+Conn      914271095  9  7 c   br    brc   brc        300  200    0 Tc Jd
+Conn      914271157  9  3 Q   -     -     -          100    0    0 
+Conn      914349135  4  3 cc  cr    r     bf         420  110    0 
+Conn      914349187  4  3 cc  c     c     rr         310  130    0 Kh Qs
+Conn      914349221  4  2 Br  br    brc   k          180  150    0 2h 7c
+Conn      914349270  4  1 BrA -     -     -           30   30    0 Qd 6c
+Conn      914610655 10  6 f   -     -     -         1010    0    0 
+Conn      914610701 10  5 cc  kc    kc    bc        1010  100    0 6c 4s
+Conn      914610771 10  4 cc  kc    f     -          910   30    0 
+Conn      914610833 10  3 c   brc   kc    k          880   70    0 5c Ah
+Conn      914610886 10  2 Bc  c     c     rc         810  110    0 5h 6c
+Conn      914610929 10  1 Br  bc    kc    b          700   80  240 Jc Kd
+Conn      914610997 10 10 r   b     k     b          860   50  135 
+Conn      914611062 10  9 r   b     brc   rr         945  190  555 6c 6s
+Conn      914611125 10  8 c   c     b     brc       1310  120    0 Qs 3h
+Conn      914611180 10  7 cc  kc    k     c         1190   50    0 Kc 4c
+Conn      914611233 10  6 c   kf    -     -         1140   10    0 
+Conn      914611312 10  5 f   -     -     -         1130    0    0 
+Conn      914611354 10  4 r   k     kc    b         1130   60  225 
+Conn      914611412 10  4 c   kc    kc    k         1295   40    0 Th 9h
+Conn      914611464 10  2 Bk  b     b     b         1255   60    0 Qs 7d
+Conn      914611517 10  1 Brc brc   bcc   bc        1195  200    0 3h As
+Conn      914611599 10 10 r   cc    b     rc         995  130    0 Jc Ad
+Conn      914611718 10  9 cc  cc    kc    cf         865   80    0 
+Conn      914611788 10  8 c   r     b     b          785   70  190 Td 8c
+Conn      914611834 10  7 c   b     br    b          905  100  250 Td 8d
+Conn      914611887 10  6 cc  kc    kc    bc        1055  120    0 Td 9s
+Conn      914611921 10  5 cc  c     r     b          935   90    0 8d 9c
+Conn      914611976 10  4 cr  krc   br    br         845  240    0 Td 6d
+Conn      914612019 10  3 ccc b     b     b          605   90  305 6c 7d
+Conn      914612070 10  2 Brc bcc   kcc   br         820  240    0 6d 9h
+Conn      914612139 10  1 BQ  -     -     -          580    5    0 
+Conn      915123273 10  2 Bc  kc    kc    kc        2200   70    0 5c Ah
+Conn      915123356 10  1 Bc  kc    kr    b         2130   90    0 3s 5d
+Conn      915123410 10 10 c   c     c     f         2040   50    0 
+Conn      915123489 10  9 c   r     b     b         1990   90  245 5h Qc
+Conn      915123546 10  8 rc  rr    rr    b         2145  180  385 
+Conn      915123611 10  7 cc  cc    c     f         2350   80    0 
+Conn      915123663 10  6 cc  kc    kc    bc        2270   90    0 5c 7d
+Conn      915123707 10  5 c   kf    -     -         2180   10    0 
+Conn      915123749 10  4 cc  k     k     k         2170   20   28 Ac 6s
+Conn      915123786 10  3 c   kc    b     b         2178   60  130 
+Conn      915123839 10  2 Bk  kc    kc    kf        2248   40    0 
+Conn      915123868 10  1 Bc  k     kc    kf        2208   40    0 
+Conn      915123917 10 10 r   c     c     f         2168   60    0 
+Conn      915123972 10  9 c   k     b     -         2108   30   65 
+Conn      915124041 10  8 f   -     -     -         2143    0    0 
+Conn      915124072 10  7 rr  r     bc    c         2143  120    0 6h As
+Conn      915124134 10  6 c   kcc   c     b         2023  100    0 5h 9h
+Conn      915124202 10  5 c   cc    kc    c         1923   80    0 Kh 5s
+Conn      915124257 10  4 c   c     f     -         1843   20    0 
+Conn      915124282 10  3 c   c     c     f         1823   40    0 
+Conn      915124339 10  2 BQ  -     -     -         1783   10    0 

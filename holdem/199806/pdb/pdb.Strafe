@@ -1,0 +1,825 @@
+Strafe    898412669 10 10 f   -     -     -         1000    0    0 
+Strafe    898412763 10  9 f   -     -     -         1000    0    0 
+Strafe    898412809 10  8 cc  kc    kc    kc        1000   70  260 Qd 3d
+Strafe    898412923 10  7 c   k     f     -         1190   20    0 
+Strafe    898413036 10  6 f   -     -     -         1170    0    0 
+Strafe    898413106 10  5 f   -     -     -         1170    0    0 
+Strafe    898413166 10  4 f   -     -     -         1170    0    0 
+Strafe    898413230 10  3 cc  kc    kc    kf        1170   50    0 
+Strafe    898413312 10  2 Bf  -     -     -         1120   10    0 
+Strafe    898413383 10  1 Bf  -     -     -         1110    5    0 
+Strafe    898413427 10 10 c   c     f     -         1105   30    0 
+Strafe    898413501  9  8 f   -     -     -         1075    0    0 
+Strafe    898413541  9  7 rc  kcc   kc    k         1075   90    0 Qd Qs
+Strafe    898413622  9  6 c   f     -     -          985   10    0 
+Strafe    898413696  9  5 c   b     -     -          975   30   75 
+Strafe    898413721  9  4 cc  br    b     b         1020  100  290 Qh 7h
+Strafe    898413809  9  4 crc cc    c     c         1210  110  365 Qs Qd
+Strafe    898413863 10  3 ccc rc    rc    rr        1465  240 1010 4s 4c
+Strafe    898413964 10  2 Brc kc    kc    kc        2235  110  400 Tc Td
+Strafe    898414039 10  1 Bf  -     -     -         2525    5    0 
+Strafe    898414125 10  3 QQ  -     -     -         2520    0    0 
+Strafe    898443808 10  1 Bc  kf    -     -         2520   10    0 
+Strafe    898443854 10 10 f   -     -     -         2510    0    0 
+Strafe    898443936 10  9 f   -     -     -         2510    0    0 
+Strafe    898443993 10  8 f   -     -     -         2510    0    0 
+Strafe    898444047 10  7 c   b     b     -         2510   40  105 
+Strafe    898444097 10  6 f   -     -     -         2575    0    0 
+Strafe    898444146 10  5 f   -     -     -         2575    0    0 
+Strafe    898444180 10  4 f   -     -     -         2575    0    0 
+Strafe    898444200 10  3 c   k     kc    k         2575   30    0 5c 7c
+Strafe    898444282 10  2 Bc  f     -     -         2545   20    0 
+Strafe    898444340 10  1 Bf  -     -     -         2525    5    0 
+Strafe    898444400 10  7 QQ  -     -     -         2520    0    0 
+Strafe    898448290  9  3 f   -     -     -         2520    0    0 
+Strafe    898448328 10  2 Bk  f     -     -         2520   10    0 
+Strafe    898448408 10  1 Bf  -     -     -         2510    5    0 
+Strafe    898448452 10 10 f   -     -     -         2505    0    0 
+Strafe    898448503 10  9 f   -     -     -         2505    0    0 
+Strafe    898448571 10  8 cc  b     b     k         2505   50  170 As 9c
+Strafe    898448629 10  7 f   -     -     -         2625    0    0 
+Strafe    898448707 10  6 f   -     -     -         2625    0    0 
+Strafe    898448736 10  5 f   -     -     -         2625    0    0 
+Strafe    898448817 10  4 f   -     -     -         2625    0    0 
+Strafe    898448880 10  3 f   -     -     -         2625    0    0 
+Strafe    898448946 10  2 Bk  k     kf    -         2625   10    0 
+Strafe    898448979 10  1 Bc  kf    -     -         2615   10    0 
+Strafe    898449041 10 10 c   c     f     -         2605   20    0 
+Strafe    898449106 10  9 cc  f     -     -         2585   20    0 
+Strafe    898449195 10  8 f   -     -     -         2565    0    0 
+Strafe    898449230  9  7 f   -     -     -         2565    0    0 
+Strafe    898449313  9  6 c   c     c     c         2565   60    0 Ad 6c
+Strafe    898449394  9  5 f   -     -     -         2505    0    0 
+Strafe    898449439  9  4 f   -     -     -         2505    0    0 
+Strafe    898449462 10  3 c   kcrc  kc    kc        2505   90  360 Tc Ah
+Strafe    898449555  9  2 Bcc kc    c     kc        2775   90  320 Kc 5c
+Strafe    898449610  8  1 Bc  kc    kf    -         3005   30    0 
+Strafe    898449643  8  8 f   -     -     -         2975    0    0 
+Strafe    898449705  8  7 f   -     -     -         2975    0    0 
+Strafe    898449719  8  6 f   -     -     -         2975    0    0 
+Strafe    898449746  8  5 f   -     -     -         2975    0    0 
+Strafe    898449776  9  4 c   b     b     -         2975   40  105 
+Strafe    898449814  9  3 cc  kc    kc    kc        3040   70  155 3d As
+Strafe    898449850  9  2 Bk  kc    kc    k         3125   40    0 Qc 8c
+Strafe    898449906  9  1 Bf  -     -     -         3085    5    0 
+Strafe    898449948  9  9 f   -     -     -         3080    0    0 
+Strafe    898449984  9  8 f   -     -     -         3080    0    0 
+Strafe    898450041  9  7 f   -     -     -         3080    0    0 
+Strafe    898450103 10  7 f   -     -     -         3080    0    0 
+Strafe    898450145  9  6 f   -     -     -         3080    0    0 
+Strafe    898450220 10  5 f   -     -     -         3080    0    0 
+Strafe    898450276 10  5 f   -     -     -         3080    0    0 
+Strafe    898450311 10  3 cc  b     b     k         3080   50    0 9h 7h
+Strafe    898450383 10  2 Bk  c     cc    kc        3030   80    0 Qs 6s
+Strafe    898450466 10  1 Bc  k     kc    kc        2950   50  110 8s 9s
+Strafe    898450526 10 10 c   f     -     -         3010   10    0 
+Strafe    898450585 10  9 c   c     c     k         3000   40    0 9c 2c
+Strafe    898450633 10  8 c   c     c     f         2960   40    0 
+Strafe    898450714 10  7 c   b     b     b         2920   60    0 7c 9c
+Strafe    898450778 10  6 f   -     -     -         2860    0    0 
+Strafe    898450817 10  5 c   k     k     kc        2860   40  190 Ah 6d
+Strafe    898450944 10  4 f   -     -     -         3010    0    0 
+Strafe    898451063 10  3 f   -     -     -         3010    0    0 
+Strafe    898451155 10  2 Bc  kf    -     -         3010   20    0 
+Strafe    898451205 10  1 Bf  -     -     -         2990    5    0 
+Strafe    898451271 10  3 QQ  -     -     -         2985    0    0 
+Strafe    898467174 10  2 Bk  f     -     -         2985   10    0 
+Strafe    898467202 10  1 Bf  -     -     -         2975    5    0 
+Strafe    898467227 10 10 c   k     f     -         2970   20    0 
+Strafe    898467269 10  9 c   f     -     -         2950   10    0 
+Strafe    898467291  9  7 f   -     -     -         2940    0    0 
+Strafe    898467302  9  6 f   -     -     -         2940    0    0 
+Strafe    898467327  9  5 c   ccc   k     k         2940   50  170 7h Qh
+Strafe    898467376  9  4 c   k     k     k         3060   10    0 8d As
+Strafe    898467421  9  3 cc  kc    kf    -         3050   40    0 
+Strafe    898467450  9  2 B   -     -     -         3010   10   15 
+Strafe    898467461 10  1 Bf  -     -     -         3015    5    0 
+Strafe    898467530 10 10 f   -     -     -         3010    0    0 
+Strafe    898467546 10  9 f   -     -     -         3010    0    0 
+Strafe    898467603 10  8 f   -     -     -         3010    0    0 
+Strafe    898467632 10  7 f   -     -     -         3010    0    0 
+Strafe    898467652 10  6 f   -     -     -         3010    0    0 
+Strafe    898467662  9  5 f   -     -     -         3010    0    0 
+Strafe    898467680 10  4 f   -     -     -         3010    0    0 
+Strafe    898467714 10  3 f   -     -     -         3010    0    0 
+Strafe    898467755 10  2 Bc  kc    k     k         3010   30    0 Js Qs
+Strafe    898467780  9  1 Bc  k     k     kf        2980   10    0 
+Strafe    898467807  9  9 f   -     -     -         2970    0    0 
+Strafe    898467825  9  8 f   -     -     -         2970    0    0 
+Strafe    898467860  9  7 c   c     c     c         2970   60  140 Th Ac
+Strafe    898467895 10  6 f   -     -     -         3050    0    0 
+Strafe    898467908 10  5 f   -     -     -         3050    0    0 
+Strafe    898467925 10  4 f   -     -     -         3050    0    0 
+Strafe    898467958 10  3 f   -     -     -         3050    0    0 
+Strafe    898468003 10  2 Bc  k     kr    -         3050   60  105 
+Strafe    898468036 10  1 Bf  -     -     -         3095    5    0 
+Strafe    898468066 10 10 f   -     -     -         3090    0    0 
+Strafe    898468077 10  9 f   -     -     -         3090    0    0 
+Strafe    898468093 10  8 f   -     -     -         3090    0    0 
+Strafe    898468127 10  7 f   -     -     -         3090    0    0 
+Strafe    898468140 10  6 f   -     -     -         3090    0    0 
+Strafe    898468174 10  5 f   -     -     -         3090    0    0 
+Strafe    898468191 10  4 f   -     -     -         3090    0    0 
+Strafe    898468241 10  3 f   -     -     -         3090    0    0 
+Strafe    898468279 10  2 Bf  -     -     -         3090   10    0 
+Strafe    898468292 10  1 Bf  -     -     -         3080    5    0 
+Strafe    898468344 10 10 f   -     -     -         3075    0    0 
+Strafe    898468398 10  9 f   -     -     -         3075    0    0 
+Strafe    898468441 10  8 f   -     -     -         3075    0    0 
+Strafe    898468469 10  7 c   b     b     b         3075   60  125 
+Strafe    898468513 10  6 f   -     -     -         3140    0    0 
+Strafe    898468543 10  5 cc  kf    -     -         3140   20    0 
+Strafe    898468590 10  4 f   -     -     -         3120    0    0 
+Strafe    898468639 10  3 f   -     -     -         3120    0    0 
+Strafe    898468653 10  2 Bf  -     -     -         3120   10    0 
+Strafe    898468665 10  1 Bc  kc    k     k         3110   30   70 Ts 7s
+Strafe    898468698 10 10 f   -     -     -         3150    0    0 
+Strafe    898468776 10  9 f   -     -     -         3150    0    0 
+Strafe    898468834 10  8 c   b     b     -         3150   40   75 
+Strafe    898468870 10  7 f   -     -     -         3185    0    0 
+Strafe    898468925 10  6 f   -     -     -         3185    0    0 
+Strafe    898468960 10  6 f   -     -     -         3185    0    0 
+Strafe    898469011 10  4 f   -     -     -         3185    0    0 
+Strafe    898469051 10  3 f   -     -     -         3185    0    0 
+Strafe    898469098 10  2 Bf  -     -     -         3185   10    0 
+Strafe    898469137 10  1 Bf  -     -     -         3175    5    0 
+Strafe    898469217  9  9 f   -     -     -         3170    0    0 
+Strafe    898469251  9  8 f   -     -     -         3170    0    0 
+Strafe    898469298  9  6 f   -     -     -         3170    0    0 
+Strafe    898469327  9  5 f   -     -     -         3170    0    0 
+Strafe    898469402  9  4 f   -     -     -         3170    0    0 
+Strafe    898469463  9  4 c   f     -     -         3170   10    0 
+Strafe    898469521  9  3 cc  kc    kc    kc        3160   80    0 Jh Qs
+Strafe    898469583  8  2 Bf  -     -     -         3080   10    0 
+Strafe    898469627  8  1 Bc  kc    kc    kc        3070  120    0 Jh Kh
+Strafe    898469669  7  7 f   -     -     -         2950    0    0 
+Strafe    898469686  9  9 c   b     b     k         2950   40   95 Qs 7s
+Strafe    898469730  9  8 f   -     -     -         3005    0    0 
+Strafe    898469774  9  7 c   b     c     c         3005   60    0 6s 7s
+Strafe    898469822  8  5 f   -     -     -         2945    0    0 
+Strafe    898469860  8  4 cc  rr    kc    b         2945  110  300 Tc Qc
+Strafe    898469928  9  5 cc  kc    kc    kc        3135   70  195 5c Ac
+Strafe    898469985  7  3 f   -     -     -         3260    0    0 
+Strafe    898470016  8  2 Bk  kf    -     -         3260   10    0 
+Strafe    898470039  7  1 Bf  -     -     -         3250    5    0 
+Strafe    898470082  8  8 r   b     br    b         3245  110  235 Ks Kh
+Strafe    898470113  8  7 c   c     f     -         3370   30    0 
+Strafe    898470166  8  5 QQ  -     -     -         3340    0    0 
+Strafe    898487954 10 10 c   c     f     -         3515   20    0 
+Strafe    898488011 10  9 f   -     -     -         3495    0    0 
+Strafe    898488083  9  7 f   -     -     -         3495    0    0 
+Strafe    898488141  9  6 f   -     -     -         3495    0    0 
+Strafe    898488189  9  4 f   -     -     -         3495    0    0 
+Strafe    898488248 10  3 f   -     -     -         3495    0    0 
+Strafe    898488313 10  2 Bf  -     -     -         3495   10    0 
+Strafe    898488397 10  1 Bf  -     -     -         3485    5    0 
+Strafe    898488489 10 10 c   c     c     f         3480   50    0 
+Strafe    898488555  9  8 f   -     -     -         3430    0    0 
+Strafe    898488609 10  7 f   -     -     -         3430    0    0 
+Strafe    898488658 10  6 ccc c     k     b         3430   70  420 Kc Js
+Strafe    898488758 10  5 cc  kf    -     -         3780   20    0 
+Strafe    898488857 10  4 f   -     -     -         3760    0    0 
+Strafe    898488902 10  3 cc  kc    kc    kf        3760   60    0 
+Strafe    898488974 10  2 Bc  kf    -     -         3700   20    0 
+Strafe    898489098 10  1 Bcc kc    kc    kc        3680   90    0 5s 5d
+Strafe    898489226  9  9 f   -     -     -         3590    0    0 
+Strafe    898489297 10  8 f   -     -     -         3590    0    0 
+Strafe    898489392 10  7 c   c     c     r         3590   90  127 Qd Ad
+Strafe    898489452 10  6 f   -     -     -         3627    0    0 
+Strafe    898489494 10  5 c   bc    c     f         3627   60    0 
+Strafe    898489585 10  4 f   -     -     -         3567    0    0 
+Strafe    898489638 10  4 f   -     -     -         3567    0    0 
+Strafe    898489705 10  2 Bc  kf    -     -         3567   20    0 
+Strafe    898489776 10  1 Bc  kc    b     kc        3547   70    0 2s Qs
+Strafe    898489885 10 10 f   -     -     -         3477    0    0 
+Strafe    898489956 10  9 f   -     -     -         3477    0    0 
+Strafe    898490036 10  8 f   -     -     -         3477    0    0 
+Strafe    898490123 10  7 cc  f     -     -         3477   40    0 
+Strafe    898490211 10  6 cc  k     kf    -         3437   20    0 
+Strafe    898490299 10  5 f   -     -     -         3417    0    0 
+Strafe    898490360 10  4 f   -     -     -         3417    0    0 
+Strafe    898490413 10  3 f   -     -     -         3417    0    0 
+Strafe    898490509  9  2 Bk  k     k     k         3417   10   13 6c 4c
+Strafe    898490551  9  1 Bc  kc    k     b         3420   50   90 
+Strafe    898490609  9  9 f   -     -     -         3460    0    0 
+Strafe    898490656  9  8 f   -     -     -         3460    0    0 
+Strafe    898490724  9  7 f   -     -     -         3460    0    0 
+Strafe    898490782  9  6 f   -     -     -         3460    0    0 
+Strafe    898490864  9  5 c   kc    kc    kf        3460   40    0 
+Strafe    898490970  8  3 f   -     -     -         3420    0    0 
+Strafe    898491036  8  3 cc  kf    -     -         3420   20    0 
+Strafe    898491091  8  2 Bf  -     -     -         3400   10    0 
+Strafe    898491137  8  1 Bf  -     -     -         3390    5    0 
+Strafe    898491189  9  9 r   b     b     -         3385   50  130 
+Strafe    898491252  9  8 c   c     c     k         3465   50  125 Ac 7c
+Strafe    898491292  9  7 cc  c     cf    -         3540   70    0 
+Strafe    898491365  9  6 f   -     -     -         3470    0    0 
+Strafe    898491426 10  6 f   -     -     -         3470    0    0 
+Strafe    898491489 10  5 f   -     -     -         3470    0    0 
+Strafe    898491572 10  4 c   c     bc    c         3470   90    0 4c 7c
+Strafe    898491622 10  3 f   -     -     -         3380    0    0 
+Strafe    898491691 10  2 Bk  k     kf    -         3380   10    0 
+Strafe    898491744 10  1 Bf  -     -     -         3370    5    0 
+Strafe    898491783 10 10 rc  cc    c     c         3365  120    0 Qh Kh
+Strafe    898491861 10  9 f   -     -     -         3245    0    0 
+Strafe    898491931 10  8 rc  cc    cc    f         3245  130    0 
+Strafe    898491995 10  7 f   -     -     -         3115    0    0 
+Strafe    898492051 10  6 f   -     -     -         3115    0    0 
+Strafe    898492105 10  5 f   -     -     -         3115    0    0 
+Strafe    898492166  9  4 f   -     -     -         3115    0    0 
+Strafe    898492205 10  3 f   -     -     -         3115    0    0 
+Strafe    898492255 10  2 Bc  kc    kc    b         3115   70  250 Ts 5s
+Strafe    898492322 10  1 Bc  k     k     b         3295   30   80 6c 7c
+Strafe    898492386 10 10 f   -     -     -         3345    0    0 
+Strafe    898492470 10  9 f   -     -     -         3345    0    0 
+Strafe    898492511 10  8 f   -     -     -         3345    0    0 
+Strafe    898492602 10  7 c   f     -     -         3345   10    0 
+Strafe    898492648 10  6 f   -     -     -         3335    0    0 
+Strafe    898492680 10  5 cc  cc    k     kc        3335   80    0 Th 9h
+Strafe    898492781 10  4 r   b     b     c         3255   70    0 Kd Ks
+Strafe    898492842 10  3 f   -     -     -         3185    0    0 
+Strafe    898492903 10  2 Bc  kc    kc    kf        3185   50    0 
+Strafe    898492995 10  1 Bc  kf    -     -         3135   10    0 
+Strafe    898493091  9  9 f   -     -     -         3125    0    0 
+Strafe    898493144  8  7 f   -     -     -         3125    0    0 
+Strafe    898493214  8  6 c   f     -     -         3125   10    0 
+Strafe    898493275  8  6 f   -     -     -         3115    0    0 
+Strafe    898493322  7  4 c   b     b     c         3115   60    0 Ad As
+Strafe    898493389  7  3 f   -     QQ    -         3055    0    0 
+Strafe    898574970 10  8 c   c     c     f         3055   40    0 
+Strafe    898575036 10  7 f   -     -     -         3015    0    0 
+Strafe    898575088 10  6 c   bc    c     c         3015   80    0 Qs 8s
+Strafe    898575135 10  5 f   -     -     -         2935    0    0 
+Strafe    898575176  9  4 f   -     -     -         2935    0    0 
+Strafe    898575233  9  3 c   kc    kc    brc       2935  120  270 8d Jd
+Strafe    898575289  9  2 Bc  kc    kf    -         3085   30    0 
+Strafe    898575316  9  1 Bc  kc    kc    k         3055   40   90 5d 9d
+Strafe    898575351  9  9 c   c     f     -         3105   20    0 
+Strafe    898575393  9  8 f   -     -     -         3085    0    0 
+Strafe    898575456  9  7 f   -     -     -         3085    0    0 
+Strafe    898575505  9  6 c   k     f     -         3085   10    0 
+Strafe    898575577 10  5 c   bcc   kf    -         3075   50    0 
+Strafe    898575630 10  4 f   -     -     -         3025    0    0 
+Strafe    898575679 10  3 c   kc    kf    -         3025   20    0 
+Strafe    898575737 10  2 Bk  c     f     -         3005   20    0 
+Strafe    898575763 10  1 Bf  -     -     -         2985    5    0 
+Strafe    898575852  9  9 c   b     b     b         2980   80    0 Ah Jc
+Strafe    898575923  9  8 f   -     -     -         2900    0    0 
+Strafe    898575980  9  7 c   f     -     -         2900   10    0 
+Strafe    898576023  9  6 f   -     -     -         2890    0    0 
+Strafe    898576089  9  5 f   -     -     -         2890    0    0 
+Strafe    898576126 10  5 c   cc    kf    -         2890   40    0 
+Strafe    898576193 10  4 f   -     -     -         2850    0    0 
+Strafe    898576220 10  3 f   -     -     -         2850    0    0 
+Strafe    898576278 10  2 Bk  k     k     k         2850   10    0 Jh Kd
+Strafe    898576342  9  1 Bc  kf    -     -         2840   10    0 
+Strafe    898576413  8  8 f   -     -     -         2830    0    0 
+Strafe    898576484  9  8 f   -     -     -         2830    0    0 
+Strafe    898576562  9  7 f   -     -     -         2830    0    0 
+Strafe    898576644  9  6 cc  f     -     -         2830   20    0 
+Strafe    898576709  8  5 f   -     -     -         2810    0    0 
+Strafe    898576752  8  4 f   -     -     -         2810    0    0 
+Strafe    898576782  8  3 f   -     -     -         2810    0    0 
+Strafe    898576812  8  2 Bk  k     k     c         2810   30    0 Td Ts
+Strafe    898576867  8  1 Bc  kf    -     -         2780   20    0 
+Strafe    898576917  8  8 f   -     -     -         2760    0    0 
+Strafe    898576977  9  8 f   -     -     -         2760    0    0 
+Strafe    898577023  9  7 f   -     -     -         2760    0    0 
+Strafe    898577085 10  6 f   -     -     -         2760    0    0 
+Strafe    898577142 10  5 f   -     -     -         2760    0    0 
+Strafe    898577168 10  4 f   -     -     -         2760    0    0 
+Strafe    898577216  9  3 f   -     -     -         2760    0    0 
+Strafe    898577273  9  2 Bk  kc    kc    kc        2760   80    0 As Kh
+Strafe    898577356  9  1 Bf  -     -     -         2680    5    0 
+Strafe    898577396 10 10 f   -     -     -         2675    0    0 
+Strafe    898577442 10  9 cc  cc    kc    kc        2675   80    0 8h Ah
+Strafe    898577500 10  8 cc  cc    f     -         2595   50    0 
+Strafe    898577575 10  7 cc  kc    k     b         2545   50  115 
+Strafe    898577638  9  5 cc  c     kc    kf        2610   50    0 
+Strafe    898577711  9  4 c   kc    kc    kf        2560   40    0 
+Strafe    898577768  9  3 f   -     -     -         2520    0    0 
+Strafe    898577829  9  2 Bk  kc    kc    kc        2520   60  235 2d Th
+Strafe    898577886  9  1 Bc  kc    kf    -         2695   20    0 
+Strafe    898577981 10 10 f   -     -     -         2675    0    0 
+Strafe    898578054 10  9 f   -     -     -         2675    0    0 
+Strafe    898578158 10  8 f   -     -     -         2675    0    0 
+Strafe    898578223 10  7 f   -     -     -         2675    0    0 
+Strafe    898578283 10  6 f   -     -     -         2675    0    0 
+Strafe    898578332 10  5 f   -     -     -         2675    0    0 
+Strafe    898578431 10  4 cc  kc    k     c         2675   50    0 Ah 4s
+Strafe    898578499 10  3 f   -     -     -         2625    0    0 
+Strafe    898578552 10  2 Bc  kc    k     kr        2625   80  245 Jh 6h
+Strafe    898578656  9  1 Bf  -     -     -         2790    5    0 
+Strafe    898578686 10 10 cc  c     f     -         2785   30    0 
+Strafe    898578749 10  9 f   -     -     -         2755    0    0 
+Strafe    898578805 10  8 f   -     -     -         2755    0    0 
+Strafe    898578842 10  7 f   -     -     -         2755    0    0 
+Strafe    898578875 10  6 cc  kc    kr    b         2755   90  210 Ks Th
+Strafe    898578947 10  5 f   -     -     -         2875    0    0 
+Strafe    898578979 10  4 f   -     -     -         2875    0    0 
+Strafe    898579032 10  3 cc  kc    kc    k         2875   60    0 6d Ac
+Strafe    898579138 10  2 Bc  kc    kc    kf        2815   50    0 
+Strafe    898579201 10  1 Bcc kcf   -     -         2765   30    0 
+Strafe    898579281 10 10 f   -     -     -         2735    0    0 
+Strafe    898579381  9  8 cc  k     c     k         2735   40    0 As Ks
+Strafe    898579475  9  7 cc  k     c     f         2695   40    0 
+Strafe    898579556  9  6 f   -     -     -         2655    0    0 
+Strafe    898579598  9  5 cc  kf    -     -         2655   20    0 
+Strafe    898579634  9  4 cc  kc    k     bc        2635   80  275 Qs 7s
+Strafe    898579693 10  3 f   -     -     -         2830    0    0 
+Strafe    898579761 10  2 Bf  -     -     -         2830   10    0 
+Strafe    898579819 10  1 Bf  -     -     -         2820    5    0 
+Strafe    898579891  9  9 f   -     -     -         2815    0    0 
+Strafe    898579927  9  8 cf  -     -     -         2815   10    0 
+Strafe    898579978  9  7 f   -     -     -         2805    0    0 
+Strafe    898580018  9  6 f   -     -     -         2805    0    0 
+Strafe    898580060  9  5 f   -     -     -         2805    0    0 
+Strafe    898580082  9  4 cc  kc    kc    kc        2805   70    0 Kh Ac
+Strafe    898580147  9  3 c   kc    kf    -         2735   20    0 
+Strafe    898580185  9  2 Bf  -     -     -         2715   10    0 
+Strafe    898580207  9  1 Bf  -     -     -         2705    5    0 
+Strafe    898580227  9  9 f   -     -     -         2700    0    0 
+Strafe    898580290  9  8 cc  kf    -     -         2700   20    0 
+Strafe    898580353  9  7 cf  -     -     -         2680   10    0 
+Strafe    898580396  9  6 cc  f     -     -         2670   20    0 
+Strafe    898580442 10  6 f   -     -     -         2650    0    0 
+Strafe    898580510 10  5 cc  c     f     -         2650   50    0 
+Strafe    898580578 10  4 cc  k     k     k         2600   20    0 7c As
+Strafe    898580631 10  3 f   -     -     -         2580    0    0 
+Strafe    898580664  9  2 Bc  k     kf    -         2580   30    0 
+Strafe    898580713  9  1 Bc  k     bc    kc        2550   70    0 Jd Jh
+Strafe    898580789 10 10 f   -     -     -         2480    0    0 
+Strafe    898580825 10  9 c   cc    f     -         2480   60    0 
+Strafe    898580884 10  8 c   ccc   k     f         2420   50    0 
+Strafe    898580952 10  7 f   -     -     -         2370    0    0 
+Strafe    898580975 10  6 KQ  -     -     -         2370    0    0 
+Strafe    898581928 10 10 c   b     rc    c         2370  130    0 Tc Jd
+Strafe    898582015 10  9 c   c     f     -         2240   40    0 
+Strafe    898582067 10  8 cc  cfQ   Q     -         2200   60    0 
+Strafe    898739291 10  1 Bf  -     -     -         2140    5    0 
+Strafe    898739360  9  9 f   -     -     -         2135    0    0 
+Strafe    898739405  9  8 f   -     -     -         2135    0    0 
+Strafe    898739461  9  7 c   c     c     b         2135   60  170 Qs 7s
+Strafe    898739524  9  6 f   -     -     -         2245    0    0 
+Strafe    898739588  7  4 f   -     -     -         2245    0    0 
+Strafe    898739603  7  3 f   -     -     -         2245    0    0 
+Strafe    898739618  7  2 Bk  k     k     k         2245   10    0 9c 7s
+Strafe    898739664  6  1 Bc  k     b     -         2235   40   70 
+Strafe    898739697  6  6 f   -     -     -         2265    0    0 
+Strafe    898739732  6  5 c   b     -     -         2265   20   35 
+Strafe    898739761  6  4 c   c     bc    k         2280   60    0 Qc Ts
+Strafe    898739803  6  3 c   kc    k     k         2220   20    0 9d Tc
+Strafe    898739842  6  2 Bc  kc    kc    kf        2200   50    0 
+Strafe    898739890  6  1 Bc  kc    kf    -         2150   30    0 
+Strafe    898739970  6  6 f   -     -     -         2120    0    0 
+Strafe    898740081  5  4 f   -     -     -         2120    0    0 
+Strafe    898740100  4  2 Bf  -     -     -         2120   10    0 
+Strafe    898740112  4  1 Bc  k     -     -         2110   10   20 
+Strafe    898740124  3  3 c   c     c     k         2120   40    0 9h Qs
+Strafe    898740160  3  3 r   -     -     -         2080   20   35 
+Strafe    898740173  3  2 Bc  k     kf    -         2095   20    0 
+Strafe    898740188  3  1 Bf  -     -     -         2075    5    0 
+Strafe    898740192  3  3 f   -     -     -         2070    0    0 
+Strafe    898740216  3  2 Bf  -     -     -         2070   10    0 
+Strafe    898740224  3  1 Bf  -     -     -         2060    5    0 
+Strafe    898740234  3  3 f   -     -     -         2055    0    0 
+Strafe    898740257  3  2 B   -     -     -         2055   10   15 
+Strafe    898740263  3  1 Bf  -     -     -         2060    5    0 
+Strafe    898740266  3  3 c   c     f     -         2055   20    0 
+Strafe    898740284  3  2 Bc  k     c     k         2035   40    0 Jh 5h
+Strafe    898740308  3  1 Bcc brc   brc   kc        1995  160    0 Qs 6s
+Strafe    898740348  3  3 f   -     -     -         1835    0    0 
+Strafe    898740356  3  2 B   -     -     -         1835   10   15 
+Strafe    898740371  3  1 Bc  k     k     k         1840   10   20 7h 8d
+Strafe    898740411  4  4 f   -     -     -         1850    0    0 
+Strafe    898740427  4  3 f   -     -     -         1850    0    0 
+Strafe    898740434  4  2 Bc  kc    kc    k         1850   50  130 8c 6c
+Strafe    898740467  4  1 Bf  -     -     -         1930    5    0 
+Strafe    898740476  4  4 f   -     -     -         1925    0    0 
+Strafe    898740539  4  3 cc  kc    kf    -         1925   30    0 
+Strafe    898740560  4  2 Bf  -     -     -         1895   10    0 
+Strafe    898740575  4  1 Brc kc    kc    b         1885   90  190 Kh Ks
+Strafe    898740597  4  4 r   b     bc    c         1985   90  195 Qs Qh
+Strafe    898740622  4  3 f   -     -     -         2090    0    0 
+Strafe    898740657  5  3 c   c     c     c         2090   60    0 Th Td
+Strafe    898740700  6  3 f   -     -     -         2030    0    0 
+Strafe    898740738  6  2 Bc  kc    kc    k         2030   50    0 3h Qc
+Strafe    898740789  8  1 Bc  k     k     kf        1980   10    0 
+Strafe    898740884  9  9 c   br    b     b         1970   80  175 9c 8c
+Strafe    898740942  9  8 f   -     -     -         2065    0    0 
+Strafe    898740976  9  7 f   -     -     -         2065    0    0 
+Strafe    898741010  9  5 f   -     -     -         2065    0    0 
+Strafe    898741043  9  4 cc  br    b     b         2065   90  195 
+Strafe    898741089  9  3 cc  kf    -     -         2170   20    0 
+Strafe    898741139 10  3 f   -     -     -         2150    0    0 
+Strafe    898741174 10  2 Bc  kf    -     -         2150   20    0 
+Strafe    898741224 10  1 Bc  kc    kc    k         2130   40    0 5c 7c
+Strafe    898741299 10 10 c   c     k     k         2090   30    0 Td Jc
+Strafe    898741337 10  9 f   -     -     -         2060    0    0 
+Strafe    898741384 10  8 c   bc    rc    b         2060  110  325 7h Ad
+Strafe    898741453  9  6 f   -     -     -         2275    0    0 
+Strafe    898741486  9  5 f   -     -     -         2275    0    0 
+Strafe    898741532  9  4 cc  kc    kc    k         2275   60  215 Jc Kc
+Strafe    898741622 10  3 rr  bcc   kc    br        2430  160  525 Kc Kh
+Strafe    898741692  9  1 Bf  -     -     -         2795   10    0 
+Strafe    898741788  9  1 Bc  kc    k     k         2785   30    0 Jc 3c
+Strafe    898741848  9  9 c   f     -     -         2755   10    0 
+Strafe    898741881  9  8 f   -     -     -         2745    0    0 
+Strafe    898741913  9  7 f   -     -     -         2745    0    0 
+Strafe    898741930  9  6 cc  f     -     -         2745   20    0 
+Strafe    898742004  9  5 f   -     -     -         2725    0    0 
+Strafe    898742069  9  4 ccc kcc   kf    -         2725   80    0 
+Strafe    898742186  9  4 f   -     -     -         2645    0    0 
+Strafe    898742238  8  2 Bc  kf    -     -         2645   20    0 
+Strafe    898742327  9  1 Bf  -     -     -         2625    5    0 
+Strafe    898742386  9  9 f   -     -     -         2620    0    0 
+Strafe    898742412  9  8 f   -     -     -         2620    0    0 
+Strafe    898742472  8  6 f   -     -     -         2620    0    0 
+Strafe    898742505  8  5 f   -     -     -         2620    0    0 
+Strafe    898742602  8  3 r   kc    kc    b         2620   70  220 Ts Tc
+Strafe    898742678  9  3 cc  kc    kc    kc        2770   70    0 Ah 6c
+Strafe    898742740  8  2 Bf  -     -     -         2700   10    0 
+Strafe    898742784  8  1 Bc  k     k     b         2690   30   40 
+Strafe    898742852  8  8 f   -     -     -         2700    0    0 
+Strafe    898742883  8  7 c   k     f     -         2700   10    0 
+Strafe    898742935  8  6 c   b     -     -         2690   20   40 
+Strafe    898742967  8  5 f   -     -     -         2710    0    0 
+Strafe    898743004  8  4 c   k     kf    -         2710   10    0 
+Strafe    898743058  8  3 c   f     -     -         2700   10    0 
+Strafe    898743100  8  2 Bf  -     -     -         2690   10    0 
+Strafe    898743120  8  1 Bf  -     -     -         2680    5    0 
+Strafe    898743154  8  8 f   -     -     -         2675    0    0 
+Strafe    898743183  9  8 f   -     -     -         2675    0    0 
+Strafe    898743222  9  7 f   -     -     -         2675    0    0 
+Strafe    898743268  8  6 c   f     -     -         2675   20    0 
+Strafe    898743408  6  4 f   -     -     -         2655    0    0 
+Strafe    898743426  7  3 c   f     -     -         2655   10    0 
+Strafe    898743454  7  2 Bk  k     k     k         2645   10   25 2c Kd
+Strafe    898743505  7  1 Br  b     b     bc        2660   90    0 Jh Jd
+Strafe    898743542  6  6 c   c     c     b         2570   60  140 4d 4c
+Strafe    898743587  7  5 f   -     -     -         2650    0    0 
+Strafe    898743616  7  4 f   -     -     -         2650    0    0 
+Strafe    898743648  8  4 c   k     kc    k         2650   30   75 As Js
+Strafe    898743725  8  2 f   -     -     -         2695    0    0 
+Strafe    898743781 10  2 Bc  b     b     kc        2695   70    0 8c Jh
+Strafe    898743863 10  1 Bf  -     -     -         2625    5    0 
+Strafe    898743926 10 10 c   c     c     c         2620   70    0 Jc Ks
+Strafe    898743962 10  9 cc  f     -     -         2550   40    0 
+Strafe    898744038 10  8 f   -     -     -         2510    0    0 
+Strafe    898744098 10  7 cc  f     -     -         2510   20    0 
+Strafe    898744136 10  6 f   -     -     -         2490    0    0 
+Strafe    898744166 10  5 c   kc    kf    -         2490   20    0 
+Strafe    898744216 10  4 c   c     c     k         2470   40    0 Qs Ac
+Strafe    898744284 10  3 cc  kc    kf    -         2430   30    0 
+Strafe    898744337 10  2 Bf  -     -     -         2400   10    0 
+Strafe    898744357 10  1 Bf  -     -     -         2390    5    0 
+Strafe    898744414 10 10 f   -     -     -         2385    0    0 
+Strafe    898744494 10  9 cc  bc    rr    b         2385  140  360 Kh Qs
+Strafe    898744618 10  8 c   f     -     -         2605   30    0 
+Strafe    898744671 10  7 c   k     k     k         2575   10    0 6c 6d
+Strafe    898744733 10  6 cc  kc    kc    kc        2565   70    0 2d Qd
+Strafe    898744824 10  5 cc  kc    k     kc        2495   50    0 Ah Jc
+Strafe    898744903 10  4 f   -     QQ    -         2445    0    0 
+Strafe    898745461 10  8 c   cc    f     -         2445   60    0 
+Strafe    898745535 10  7 f   -     -     -         2385    0    0 
+Strafe    898745596 10  6 f   -     -     -         2385    0    0 
+Strafe    898745658 10  5 f   -     -     -         2385    0    0 
+Strafe    898745701 10  4 f   -     -     -         2385    0    0 
+Strafe    898745748 10  3 f   -     -     -         2385    0    0 
+Strafe    898745778 10  2 Bf  -     -     -         2385   10    0 
+Strafe    898745831 10  1 Bc  kr    b     bc        2375  110    0 Ah Ts
+Strafe    898745889 10 10 f   -     -     -         2265    0    0 
+Strafe    898745917 10  9 c   f     -     -         2265   10    0 
+Strafe    898745998 10  8 f   -     -     -         2255    0    0 
+Strafe    898746052 10  7 f   -     -     -         2255    0    0 
+Strafe    898746084 10  6 r   -     -     -         2255   20   35 
+Strafe    898746117 10  5 c   c     f     -         2270   20    0 
+Strafe    898746152 10  4 cc  f     -     -         2250   30    0 
+Strafe    898746216 10  3 f   -     -     -         2220    0    0 
+Strafe    898746251 10  2 Bc  kcf   -     -         2220   50    0 
+Strafe    898746344 10  1 Bf  -     -     -         2170    5    0 
+Strafe    898746405 10 10 c   cc    c     k         2165   70    0 Qc Ac
+Strafe    898746486 10  9 c   rr    rr    rr        2095  220    0 Qs 4s
+Strafe    898746608 10  8 c   QQ    -     -         1875   10    0 
+Strafe    898833233 10  2 Bc  cf    -     -         1865   30    0 
+Strafe    898833317 10  1 Bf  -     -     -         1835    5    0 
+Strafe    898833451 10 10 c   c     c     k         1830   60  290 Qs Td
+Strafe    898833530 10  9 f   -     Q     Q         2060    0    0 
+Strafe    898970647  3  2 Bk  k     k     c         3715   30   60 Qh Js
+Strafe    898970668  3  1 Bc  k     kf    -         3745   10    0 
+Strafe    898970687  3  3 c   k     k     k         3735   10   30 Kh 9h
+Strafe    898970708  3  2 Bk  k     k     c         3755   30   60 Qc 7s
+Strafe    898970728  3  1 Bf  -     -     -         3785    5    0 
+Strafe    898970735  3  3 c   k     f     -         3780   10    0 
+Strafe    898970754  3  2 Bk  k     k     k         3770   10    0 8d 9h
+Strafe    898970772  3  1 Bc  k     k     k         3760   10    0 4s Ac
+Strafe    898970809  3  3 c   c     k     k         3750   20   50 7h Ah
+Strafe    898970842  3  2 Bk  kf    -     -         3780   10    0 
+Strafe    898970861  2  1 Bc  k     k     k         3770   10   20 Kc 9h
+Strafe    898970882  2  2 BQ  -     -     -         3780   10   15 
+Strafe    899013348 10  3 f   -     -     -         3065    0    0 
+Strafe    899013406 10  2 Bf  -     -     -         3065   10    0 
+Strafe    899013471 10  1 Bc  kc    kc    kc        3055   70    0 5d 8d
+Strafe    899013540 10 10 f   -     -     -         2985    0    0 
+Strafe    899013601 10  9 cc  r     rr    r         2985  190  735 9d Jd
+Strafe    899013703 10  8 f   -     -     -         3530    0    0 
+Strafe    899013762 10  7 c   c     f     -         3530   30    0 
+Strafe    899013840 10  6 f   -     -     -         3500    0    0 
+Strafe    899013911 10  5 f   -     -     -         3500    0    0 
+Strafe    899013975 10  4 f   -     -     -         3500    0    0 
+Strafe    899014061 10  3 f   -     -     -         3500    0    0 
+Strafe    899014128 10  2 BKQ -     -     -         3500   10    0 
+Strafe    899014451  9  2 Bf  -     -     -         3490   10    0 
+Strafe    899014515  9  1 Bc  kc    kc    kc        3480   60  220 Kh Jh
+Strafe    899014568  9  9 f   -     -     -         3640    0    0 
+Strafe    899014615  8  8 f   -     -     -         3640    0    0 
+Strafe    899014654  9  7 f   -     -     -         3640    0    0 
+Strafe    899014701  9  6 f   -     -     -         3640    0    0 
+Strafe    899014751  9  5 f   -     -     -         3640    0    0 
+Strafe    899014791  9  4 cc  f     -     -         3640   20    0 
+Strafe    899014849  9  3 c   k     k     r         3620   50  130 Ac Jc
+Strafe    899014898  9  2 Bf  -     -     -         3700   10    0 
+Strafe    899014975  9  1 Bc  kc    kf    -         3690   20    0 
+Strafe    899015040  9  9 f   -     -     -         3670    0    0 
+Strafe    899015108  9  8 c   c     c     b         3670   70  260 6h Jh
+Strafe    899015170  9  7 f   -     -     -         3860    0    0 
+Strafe    899015210  9  6 f   -     -     -         3860    0    0 
+Strafe    899015275  9  5 f   -     -     -         3860    0    0 
+Strafe    899015347  9  4 c   kc    kc    kc        3860   60    0 Kd Ks
+Strafe    899015399  8  2 Bf  -     -     -         3800   10    0 
+Strafe    899015437  8  1 Bf  -     -     -         3790    5    0 
+Strafe    899015489  8  8 c   f     -     -         3785   10    0 
+Strafe    899015532  8  7 c   c     c     rc        3775  110    0 Qh Ad
+Strafe    899015590  8  6 c   c     k     c         3665   50  260 9c Td
+Strafe    899015659  8  5 f   -     -     -         3875    0    0 
+Strafe    899015702  8  4 f   -     -     -         3875    0    0 
+Strafe    899015738  8  3 f   -     -     -         3875    0    0 
+Strafe    899015780  8  2 Bk  k     kf    -         3875   10    0 
+Strafe    899015822  8  1 Bf  -     -     -         3865    5    0 
+Strafe    899015868  9  9 f   -     -     -         3860    0    0 
+Strafe    899015930  9  8 c   c     c     k         3860   50    0 Js Jc
+Strafe    899015958  9  7 f   -     -     -         3810    0    0 
+Strafe    899016010  9  6 c   c     c     f         3810   40    0 
+Strafe    899016048 10  5 c   k     k     kf        3770   10    0 
+Strafe    899016119  8  3 f   -     -     -         3760    0    0 
+Strafe    899016196  9  2 Bk  kf    -     -         3760   10    0 
+Strafe    899016229  9  1 Bcc k     kc    kc        3750   60    0 Ah Kd
+Strafe    899016281  9  9 f   -     -     -         3690    0    0 
+Strafe    899016326  9  8 f   -     -     -         3690    0    0 
+Strafe    899016401  9  7 f   -     -     -         3690    0    0 
+Strafe    899016460  9  6 f   -     -     -         3690    0    0 
+Strafe    899016494 10  6 f   -     -     -         3690    0    0 
+Strafe    899016543  9  5 cc  kc    kc    kc        3690   70  235 9c Qc
+Strafe    899016606  9  4 cc  f     -     -         3855   20    0 
+Strafe    899016668  9  3 f   -     -     -         3835    0    0 
+Strafe    899016715  9  2 Bk  k     kf    -         3835   10    0 
+Strafe    899016747  8  1 Bf  -     -     -         3825    5    0 
+Strafe    899016813  9  8 c   c     c     k         3820   40    0 8c Ac
+Strafe    899016876  9  7 f   -     -     -         3780    0    0 
+Strafe    899016922  9  6 c   b     b     k         3780   40  100 Ks 5s
+Strafe    899016970  9  5 f   -     -     -         3840    0    0 
+Strafe    899017026  9  4 c   k     kf    -         3840   10    0 
+Strafe    899017072  9  3 f   -     -     -         3830    0    0 
+Strafe    899017138  9  2 Bk  k     k     b         3830   30   90 Ks 5h
+Strafe    899017190  9  1 Bf  -     -     -         3890    5    0 
+Strafe    899017229  9  9 f   -     -     -         3885    0    0 
+Strafe    899017270  9  8 cc  kf    -     -         3885   20    0 
+Strafe    899017317  9  7 f   -     -     -         3865    0    0 
+Strafe    899017363  9  6 f   -     -     -         3865    0    0 
+Strafe    899017399  9  5 f   -     -     -         3865    0    0 
+Strafe    899017429  9  4 f   -     -     -         3865    0    0 
+Strafe    899017490  9  3 f   -     -     -         3865    0    0 
+Strafe    899017536  9  2 Bc  KQ    Q     -         3865   20    0 
+Strafe    899071692  9  8 c   k     k     kf        3845   20    0 
+Strafe    899071769  9  7 f   -     -     -         3825    0    0 
+Strafe    899071807  9  6 f   -     -     -         3825    0    0 
+Strafe    899071859  9  5 c   kf    -     -         3825   10    0 
+Strafe    899071931  9  4 f   -     -     -         3815    0    0 
+Strafe    899071953  9  3 f   -     -     -         3815    0    0 
+Strafe    899072005  9  2 Bf  -     -     -         3815   10    0 
+Strafe    899072060 10  1 Bf  -     -     -         3805    5    0 
+Strafe    899072132  9  9 c   c     f     -         3800   20    0 
+Strafe    899072172  9  8 c   c     b     b         3780   80  265 7h Qh
+Strafe    899072216 10  7 f   -     -     -         3965    0    0 
+Strafe    899072247 10  7 f   -     -     -         3965    0    0 
+Strafe    899072272  8  4 c   k     b     b         3965   50  120 
+Strafe    899072336 10  4 f   -     -     -         4035    0    0 
+Strafe    899072379 10  3 c   kf    -     -         4035   10    0 
+Strafe    899072452 10  2 Bk  b     kc    k         4025   40    0 Qd 7d
+Strafe    899072493  9  1 Br  kc    kc    kc        3985   70  190 Kc Kd
+Strafe    899072533 10 10 f   -     -     -         4105    0    0 
+Strafe    899072583 10  9 c   cc    cc    c         4105  160    0 9d Ad
+Strafe    899072674 10  8 f   -     -     -         3945    0    0 
+Strafe    899072745 10  7 f   -     -     -         3945    0    0 
+Strafe    899072811  9  5 f   -     -     -         3945    0    0 
+Strafe    899072906  9  4 f   -     -     -         3945    0    0 
+Strafe    899072946  9  3 f   -     -     -         3945    0    0 
+Strafe    899073002  9  2 Bc  kf    -     -         3945   20    0 
+Strafe    899073041  8  1 Bcc kc    k     kc        3925   50    0 6d 6s
+Strafe    899073118 10 10 f   -     -     -         3875    0    0 
+Strafe    899073189 10  9 f   -     -     -         3875    0    0 
+Strafe    899073231  9  7 f   -     -     -         3875    0    0 
+Strafe    899073259  9  6 f   -     -     -         3875    0    0 
+Strafe    899073299  9  5 c   kc    kc    kc        3875   60    0 8c Ah
+Strafe    899073340  9  4 f   -     -     -         3815    0    0 
+Strafe    899073381  9  3 f   -     -     -         3815    0    0 
+Strafe    899073419  9  2 Bc  kc    kc    kc        3815   70    0 2d Ac
+Strafe    899073478  9  1 BQQ -     -     -         3745    5    0 
+Strafe    899177448 10  8 cc  f     -     -         6130   40    0 
+Strafe    899177494 10  7 cc  cf    -     -         6090   50    0 
+Strafe    899177591 10  6 f   -     -     -         6040    0    0 
+Strafe    899177613 10  5 f   -     -     -         6040    0    0 
+Strafe    899177673 10  4 f   -     -     -         6040    0    0 
+Strafe    899177712 10  3 f   -     -     -         6040    0    0 
+Strafe    899177787 10  2 Bk  f     -     -         6040   10    0 
+Strafe    899177832 10  1 Bf  -     -     -         6030    5    0 
+Strafe    899177889 10 10 f   -     -     -         6025    0    0 
+Strafe    899177928 10  9 f   -     -     -         6025    0    0 
+Strafe    899177995 10  8 f   -     -     -         6025    0    0 
+Strafe    899178021 10  7 c   k     b     kc        6025   50    0 4s Js
+Strafe    899178084 10  6 f   -     -     -         5975    0    0 
+Strafe    899178139 10  5 f   -     -     -         5975    0    0 
+Strafe    899178170 10  4 f   -     -     -         5975    0    0 
+Strafe    899178320 10  3 c   kc    kf    -         5975   30    0 
+Strafe    899178381 10  2 Bf  -     -     -         5945   10    0 
+Strafe    899178425 10  1 Bf  -     -     -         5935    5    0 
+Strafe    899178462 10 10 f   -     -     -         5930    0    0 
+Strafe    899178554  9  8 f   -     -     -         5930    0    0 
+Strafe    899178590  9  7 cc  f     -     -         5930   20    0 
+Strafe    899178736 10  7 f   -     -     -         5910    0    0 
+Strafe    899178761 10  6 f   -     -     -         5910    0    0 
+Strafe    899178809 10  5 f   -     -     -         5910    0    0 
+Strafe    899178874 10  4 cc  kf    -     -         5910   20    0 
+Strafe    899178986 10  3 f   -     -     -         5890    0    0 
+Strafe    899179042  9  2 Bk  kf    -     -         5890   10    0 
+Strafe    899179083 10  1 Bc  kc    k     kf        5880   20    0 
+Strafe    899179135 10 10 f   -     -     -         5860    0    0 
+Strafe    899179193 10  9 f   -     -     -         5860    0    0 
+Strafe    899179259 10  8 f   -     -     -         5860    0    0 
+Strafe    899179320 10  7 f   -     -     -         5860    0    0 
+Strafe    899179362 10  6 f   -     -     -         5860    0    0 
+Strafe    899179399 10  5 f   -     -     -         5860    0    0 
+Strafe    899179442 10  4 f   -     -     -         5860    0    0 
+Strafe    899179501 10  3 c   k     kf    -         5860   10    0 
+Strafe    899179547 10  2 Bf  -     -     -         5850   10    0 
+Strafe    899179583 10  1 Bf  -     -     -         5840    5    0 
+Strafe    899179614 10 10 c   c     f     -         5835   30    0 
+Strafe    899179648 10  9 f   -     -     -         5805    0    0 
+Strafe    899179698 10  8 f   -     -     -         5805    0    0 
+Strafe    899179756 10  7 f   -     -     -         5805    0    0 
+Strafe    899179794 10  6 c   c     k     k         5805   20    0 9d Kd
+Strafe    899179847 10  5 cc  kf    -     -         5785   20    0 
+Strafe    899179909 10  4 c   k     k     bc        5765   50  135 Qh Qd
+Strafe    899179974 10  3 c   kf    -     -         5850   10    0 
+Strafe    899180091 10  2 Bf  -     -     -         5840   10    0 
+Strafe    899180131 10  1 Bf  -     -     -         5830    5    0 
+Strafe    899180183 10 10 f   -     -     -         5825    0    0 
+Strafe    899180223 10  9 f   -     -     -         5825    0    0 
+Strafe    899180294 10  8 c   kc    k     k         5825   20    0 4c 4s
+Strafe    899180348 10  7 f   -     -     -         5805    0    0 
+Strafe    899180433 10  6 f   -     -     -         5805    0    0 
+Strafe    899180481 10  5 c   kc    kc    kc        5805   60    0 Ad 8c
+Strafe    899180561 10  4 cc  f     -     -         5745   20    0 
+Strafe    899180657 10  3 f   -     -     -         5725    0    0 
+Strafe    899180725 10  2 Bk  kf    -     -         5725   10    0 
+Strafe    899180810 10  1 Bf  -     -     -         5715    5    0 
+Strafe    899180909 10 10 c   b     k     k         5710   20   70 Tc Td
+Strafe    899180967 10  9 f   -     -     -         5760    0    0 
+Strafe    899181045 10  8 fQ  -     -     -         5760    0    0 
+Strafe    899181834  9  5 c   c     c     c         5760   60    0 9c Jh
+Strafe    899181870  9  4 c   f     -     -         5700   10    0 
+Strafe    899181920  9  3 f   -     -     -         5690    0    0 
+Strafe    899181960 10  2 Bk  kf    -     -         5690   10    0 
+Strafe    899181994  9  1 Bf  -     -     -         5680    5    0 
+Strafe    899182024  9  9 cc  b     bc    rc        5675  150    0 Jc Kh
+Strafe    899182107  9  8 f   -     -     -         5525    0    0 
+Strafe    899182167  8  6 f   -     -     -         5525    0    0 
+Strafe    899182215 10  7 f   -     -     -         5525    0    0 
+Strafe    899182250 10  6 f   -     -     -         5525    0    0 
+Strafe    899182279 10  5 f   -     -     -         5525    0    0 
+Strafe    899182345 10  4 c   r     kf    -         5525   30    0 
+Strafe    899182425 10  3 f   -     -     -         5495    0    0 
+Strafe    899182493 10  2 Bk  kc    kc    k         5495   40   85 9c Qd
+Strafe    899182543 10  1 Bf  -     -     -         5540    5    0 
+Strafe    899182567 10 10 c   f     -     -         5535   10    0 
+Strafe    899182643 10  9 f   -     -     -         5525    0    0 
+Strafe    899182716 10  8 f   -     -     -         5525    0    0 
+Strafe    899182763 10  7 f   -     -     -         5525    0    0 
+Strafe    899182814 10  6 f   -     -     -         5525    0    0 
+Strafe    899182894 10  5 c   k     k     f         5525   10    0 
+Strafe    899182976 10  4 f   -     -     -         5515    0    0 
+Strafe    899183041 10  3 f   -     -     -         5515    0    0 
+Strafe    899183080 10  2 Bk  c     c     cc        5515   80    0 5c 5d
+Strafe    899183147 10  1 Bf  -     -     -         5435    5    0 
+Strafe    899183194 10 10 f   -     -     -         5430    0    0 
+Strafe    899183242 10  9 f   -     -     -         5430    0    0 
+Strafe    899183301 10  8 f   -     -     -         5430    0    0 
+Strafe    899183402 10  7 c   c     k     f         5430   20    0 
+Strafe    899183483 10  6 f   -     -     -         5410    0    0 
+Strafe    899183524 10  5 f   -     -     -         5410    0    0 
+Strafe    899183580 10  4 f   -     -     -         5410    0    0 
+Strafe    899183650 10  3 f   -     -     -         5410    0    0 
+Strafe    899183687 10  2 Bk  c     c     c         5410   60  160 7h 5s
+Strafe    899183732 10  1 Bc  kc    kc    kf        5510   50    0 
+Strafe    899183811 10 10 f   -     -     -         5460    0    0 
+Strafe    899183885 10  9 f   -     -     -         5460    0    0 
+Strafe    899183955 10  8 f   -     -     -         5460    0    0 
+Strafe    899183985 10  7 cc  f     -     -         5460   20    0 
+Strafe    899184040 10  6 cc  kf    -     -         5440   20    0 
+Strafe    899184091  9  4 f   -     -     -         5420    0    0 
+Strafe    899184130 10  3 f   -     -     -         5420    0    0 
+Strafe    899184209 10  2 Bf  -     -     -         5420   10    0 
+Strafe    899184293 10  1 Bf  -     -     -         5410    5    0 
+Strafe    899184353 10 10 c   c     k     k         5405   30    0 Kd Js
+Strafe    899184421 10  9 f   -     -     -         5375    0    0 
+Strafe    899184524 10  8 f   -     -     -         5375    0    0 
+Strafe    899184580  7  5 f   -     -     -         5375    0    0 
+Strafe    899184609  7  4 c   k     b     -         5375   30   70 
+Strafe    899184653  7  4 f   -     -     -         5415    0    0 
+Strafe    899184680  7  3 f   -     -     -         5415    0    0 
+Strafe    899184698  7  2 Bk  kf    -     -         5415   10    0 
+Strafe    899184736  7  1 Bf  -     -     -         5405    5    0 
+Strafe    899184776  6  6 f   -     -     -         5400    0    0 
+Strafe    899184805  7  5 c   k     b     -         5400   30   60 
+Strafe    899184825  7  4 cc  k     k     b         5430   40  120 Ts 8s
+Strafe    899184863  7  3 f   -     -     -         5510    0    0 
+Strafe    899184873  7  2 Bk  kc    kf    -         5510   20    0 
+Strafe    899184892  7  1 Bc  kc    kf    -         5490   30    0 
+Strafe    899184913  7  7 f   -     -     -         5460    0    0 
+Strafe    899184938  8  7 f   -     -     -         5460    0    0 
+Strafe    899184970  8  6 c   c     c     c         5460   70    0 Jd As
+Strafe    899185008  8  5 c   c     c     c         5390   60    0 Qs Ah
+Strafe    899185064  8  4 f   -     -     -         5330    0    0 
+Strafe    899185101  8  3 f   -     -     -         5330    0    0 
+Strafe    899185141  8  2 Bf  -     -     -         5330   10    0 
+Strafe    899185169  9  1 Bc  kc    kf    -         5320   30    0 
+Strafe    899185237 10  9 c   k     f     -         5290   10    0 
+Strafe    899185303  9  7 c   c     c     f         5280   40    0 
+Strafe    899185385 10  6 f   -     -     -         5240    0    0 
+Strafe    899185428 10  5 f   -     -     -         5240    0    0 
+Strafe    899185488 10  4 cc  kf    -     -         5240   20    0 
+Strafe    899185547 10  3 f   -     -     -         5220    0    0 
+Strafe    899185583  9  2 Bk  kf    -     -         5220   10    0 
+Strafe    899185628  9  1 Bf  -     -     -         5210    5    0 
+Strafe    899185729  9  9 c   f     -     -         5205   10    0 
+Strafe    899185811  9  8 c   k     k     r         5195   50  140 5d Kd
+Strafe    899185907 10  8 f   -     -     -         5285    0    0 
+Strafe    899186002  9  7 f   -     -     -         5285    0    0 
+Strafe    899186065  9  6 c   f     -     -         5285   10    0 
+Strafe    899186119 10  5 f   -     -     -         5275    0    0 
+Strafe    899186141 10  4 f   -     -     -         5275    0    0 
+Strafe    899186185 10  3 cc  kcc   f     -         5275   50    0 
+Strafe    899186240 10  2 Bf  -     -     -         5225   10    0 
+Strafe    899186294 10  1 Bf  -     -     -         5215    5    0 
+Strafe    899186338 10 10 f   -     -     -         5210    0    0 
+Strafe    899186381 10  9 c   c     k     f         5210   30    0 
+Strafe    899186439 10  8 c   c     b     r         5180   90  285 Ah 7h
+Strafe    899186519 10  7 f   -     -     -         5375    0    0 
+Strafe    899186581  9  6 f   -     -     -         5375    0    0 
+Strafe    899186633  9  5 f   -     -     -         5375    0    0 
+Strafe    899186677  9  4 f   -     -     -         5375    0    0 
+Strafe    899186692  9  3 cc  f     -     -         5375   20    0 
+Strafe    899186787  9  2 Bk  f     -     -         5355   10    0 
+Strafe    899186840  8  1 Bf  -     -     -         5345    5    0 
+Strafe    899186891  9  9 f   -     -     -         5340    0    0 
+Strafe    899186928  9  8 c   b     b     b         5340   70  215 Ad 8s
+Strafe    899186974  8  6 c   k     kc    b         5485   50  135 9h Ah
+Strafe    899187053  8  5 cc  kc    kc    kc        5570   70  165 Kh Ad
+Strafe    899187098  8  4 c   k     k     k         5665   10   30 Jh Kc
+Strafe    899187136  8  3 f   -     -     -         5685    0    0 
+Strafe    899187163  8  2 Bk  kf    -     -         5685   10    0 
+Strafe    899187181  8  1 Bf  -     -     -         5675    5    0 
+Strafe    899187214  9  9 c   k     f     -         5670   20    0 
+Strafe    899187239  9  8 f   -     -     -         5650    0    0 
+Strafe    899187264  9  7 f   -     -     -         5650    0    0 
+Strafe    899187316  9  6 cc  kc    kc    kc        5650   70    0 Kd Ts
+Strafe    899187366 10  5 f   -     -     -         5580    0    0 
+Strafe    899187400  9  4 cc  c     k     k         5580   30    0 Jh Js
+Strafe    899187439  9  3 f   -     -     -         5550    0    0 
+Strafe    899187475  9  2 Bk  kc    kf    -         5550   20    0 
+Strafe    899187526  9  1 Bc  kc    b     b         5530   70  180 
+Strafe    899187585  9  9 f   -     -     -         5640    0    0 
+Strafe    899187634  9  8 f   -     -     -         5640    0    0 
+Strafe    899187671  8  6 c   b     b     -         5640   40   85 
+Strafe    899187721  9  5 f   -     -     -         5685    0    0 
+Strafe    899187752  9  4 cc  k     c     k         5685   40    0 As 8c
+Strafe    899187877  7  3 f   -     -     -         5645    0    0 
+Strafe    899187926  8  2 Bk  kf    -     -         5645   10    0 
+Strafe    899188027  8  1 Bc  k     kf    -         5635   10    0 
+Strafe    899188052  8  8 f   -     -     -         5625    0    0 
+Strafe    899188123 10  9 f   -     -     -         5625    0    0 
+Strafe    899188177  9  7 f   -     -     -         5625    0    0 
+Strafe    899188240  9  6 f   -     -     -         5625    0    0 
+Strafe    899188283  9  5 c   kc    kf    -         5625   30    0 
+Strafe    899188352 10  4 c   kf    -     -         5595   10    0 
+Strafe    899188414 10  4 cc  kc    k     r         5585   70  175 
+Strafe    899188499  8  2 Bk  kf    -     -         5690   10    0 
+Strafe    899188537  9  1 Bf  -     -     -         5680    5    0 
+Strafe    899188573 10 10 f   -     -     -         5675    0    0 
+Strafe    899188601  9  8 cc  c     c     rc        5675  110  240 8d 7d
+Strafe    899188665  9  8 r   b     b     k         5805   50  165 Kd Kh
+Strafe    899188750  8  7 c   c     k     k         5920   20    0 2c As
+Strafe    899188800  9  6 f   -     -     -         5900    0    0 
+Strafe    899188839  9  5 c   b     -     -         5900   20   55 
+Strafe    899188857  9  4 c   kc    kc    b         5935   60  160 
+Strafe    899188905 10  3 fQQ -     -     -         6035    0    0 

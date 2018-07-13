@@ -1,0 +1,495 @@
+DragonFly 926913910  3  2 Bf  -     -     -         1000   10    0 
+DragonFly 926913940  3  1 Brc b     bf    -          990   70    0 
+DragonFly 926913975  3  3 r   b     r     c          920   90    0 Ts 9d
+DragonFly 926914004  3  2 Br  b     -     -          830   30   50 
+DragonFly 926914023  3  1 Br  bc    bc    kc         850  110  230 Jd Qd
+DragonFly 926914042  3  2 r   -     -     -          970   20   30 
+DragonFly 926914048  3  2 B   -     -     -          980   10   15 
+DragonFly 926914054  3  1 Br  b     b     b          985   70    0 8s 7h
+DragonFly 926914105  3  3 rc  rc    c     c          915  100    0 2s 2h
+DragonFly 926914126  3  2 Br  b     k     f          815   30    0 
+DragonFly 926914151  3  1 Br  bc    b     bc         785  100    0 Jd Kd
+DragonFly 926914183  3  3 r   b     r     b          685   90  185 Kc Ks
+DragonFly 926914205  3  2 Bc  r     r     f          780   80    0 
+DragonFly 926914235  3  1 Br  b     -     -          700   30   50 
+DragonFly 926914247  3  3 r   -     -     -          720   20   35 
+DragonFly 926914251  3  2 Br  k     k     k          735   20   40 Kc 6c
+DragonFly 926914265  4  1 Bc  b     -     -          755   20   40 
+DragonFly 926914319  4  4 f   -     -     -          775    0    0 
+DragonFly 926914354  4  3 f   -     -     -          775    0    0 
+DragonFly 926914376  4  2 Br  r     rc    c          775  120    0 Ad 7s
+DragonFly 926914405  4  1 Br  b     b     brc        655  130    0 3c Jc
+DragonFly 926914450  5  5 rc  b     b     brc        525  150  355 7d Ts
+DragonFly 926914503  5  5 r   b     r     b          730   90  270 Ad Jc
+DragonFly 926914564  5  4 r   b     cf    -          910   70    0 
+DragonFly 926914603  7  4 rc  bc    k     k          840   60    0 Kd 2c
+DragonFly 926914703  7  4 cc  bc    k     k          780   40   45 Jh 4d
+DragonFly 926914741  6  3 f   -     -     -          785    0    0 
+DragonFly 926914769  7  2 Bk  b     bc    f          785   60    0 
+DragonFly 926914809  7  1 Brc bc    bc    kc         725  120    0 Jh Qs
+DragonFly 926914833  7  7 rc  f     -     -          605   40    0 
+DragonFly 926914876  8  7 rc  brc   rc    f          565  160    0 
+DragonFly 926914962  8  6 f   -     -     -          405    0    0 
+DragonFly 926914998  8  5 r   r     brc   bc         405  160    0 Ks Jh
+DragonFly 926915074  8  4 rr  brc   brc   brc        245  240    0 Kh 3h
+DragonFly 926915155  8  4 cA  -     -     -            5    5    0 9s 6d
+DragonFly 926915295  7  1 Bk  bc    bc    kf        1000   70    0 
+DragonFly 926915331  7  1 Bf  -     -     -          930    5    0 
+DragonFly 926915356  7  7 r   b     k     k          925   30   65 5d Kc
+DragonFly 926915385  7  6 r   b     b     k          960   50    0 7h 5h
+DragonFly 926915435  7  5 rc  r     c     f          910   80    0 
+DragonFly 926915479  7  4 rc  k     f     -          830   40    0 
+DragonFly 926915515  7  3 rc  bc    bc    kf         790   90    0 
+DragonFly 926915572  8  3 f   -     -     -          700    0    0 
+DragonFly 926915600  8  2 Br  k     kr    b          700   80  220 
+DragonFly 926915664  8  1 Br  kcf   -     -          840   40    0 
+DragonFly 926915724 10  9 rc  brc   f     -          800   70    0 
+DragonFly 926915815  9  7 r   b     b     b          730   80  235 8d 6h
+DragonFly 926915853  9  6 rc  f     -     -          885   30    0 
+DragonFly 926915890  9  5 rc  bc    bc    cf         855  130    0 
+DragonFly 926915950  9  4 rr  rc    r     k          725  110    0 Td Qd
+DragonFly 926916014  9  3 r   kf    -     -          615   20    0 
+DragonFly 926916053 10  2 Br  brc   bc    k          595  100    0 Ah 6c
+DragonFly 926916157 10  1 Brc bc    b     b          495  100  350 Jh Jd
+DragonFly 926916212  9  9 r   rc    r     k          745   90    0 9d Jd
+DragonFly 926916253  9  8 r   bc    b     k          655   70    0 4h 4c
+DragonFly 926916337 10  7 rc  rc    rc    c          585  160    0 Jd Ts
+DragonFly 926916382  9  6 r   b     bc    k          425   80    0 Ah 8s
+DragonFly 926916434 10  5 rc  rc    rc    f          345  120    0 
+DragonFly 926916523  9  4 r   rc    c     f          225   70    0 
+DragonFly 926916565  9  3 rc  kf    -     -          155   30    0 
+DragonFly 926916625  8  2 Br  b     b     b          125   70  170 Ac Ah
+DragonFly 926916647  9  1 Br  k     k     brc        225  100  330 9d 7c
+DragonFly 926916694  9  9 r   f     -     -          455   20    0 
+DragonFly 926916761  9  8 r   k     r     f          435   70    0 
+DragonFly 926916818  9  7 r   b     -     -          365   30   85 
+DragonFly 926916841  9  6 r   b     b     b          420   70  155 
+DragonFly 926916877  9  5 rc  bc    bc    bf         505  110    0 
+DragonFly 926916928  9  4 rc  b     b     k          395   60  190 6c Ac
+DragonFly 926916959  9  3 f   -     -     -          525    0    0 
+DragonFly 926916994  9  2 Br  b     -     -          525   30   75 
+DragonFly 926917015 10  1 Brc brc   brc   kc         570  180  450 2h Qh
+DragonFly 926917070 10 10 f   -     -     -          840    0    0 
+DragonFly 926917105 10  9 f   -     -     -          840    0    0 
+DragonFly 926917131 10  8 r   rr    rr    r          840  180  375 
+DragonFly 926917164  8  6 f   -     -     -         1035    0    0 
+DragonFly 926917200  8  5 f   -     -     -         1035    0    0 
+DragonFly 926917219  9  5 r   bc    k     b         1035   60  135 
+DragonFly 926917261  9  4 rc  f     -     -         1110   30    0 
+DragonFly 926917274  9  3 rr  rr    r     rr        1080  200    0 Ac Jc
+DragonFly 926917315 10  2 Br  brc   bf    -          880   80    0 
+DragonFly 926917344  9  1 Bc  kf    -     -          800   10    0 
+DragonFly 926917385  9  9 r   rc    r     c          790  110    0 6d 6c
+DragonFly 926917424 10  9 r   b     kf    -          680   30    0 
+DragonFly 926917476 10  8 f   -     -     -          650    0    0 
+DragonFly 926917485 10  7 f   -     -     -          650    0    0 
+DragonFly 926917513 10  6 rr  b     br    k          650  110    0 Th Tc
+DragonFly 926917561  9  4 f   -     -     -          540    0    0 
+DragonFly 926917572  9  3 r   r     k     k          540   40    0 Kh 4h
+DragonFly 926917600  9  2 Br  b     k     k          500   40   85 5c 8c
+DragonFly 926917632  9  1 Br  b     b     kf         545   50    0 
+DragonFly 926917680  9  9 f   -     -     -          495    0    0 
+DragonFly 926917713  9  8 rc  f     -     -          495   30    0 
+DragonFly 926917750  9  7 r   f     -     -          465   20    0 
+DragonFly 926917759  9  6 rc  rc    r     b          445  130  255 
+DragonFly 926917800  9  5 r   -     -     -          570   20   35 
+DragonFly 926917807  9  4 r   k     b     -          585   40   90 
+DragonFly 926917836  9  3 r   kf    -     -          635   20    0 
+DragonFly 926917881 10  3 r   bc    bc    kf         615   80    0 
+DragonFly 926917909 10  2 Bf  -     -     -          535   10    0 
+DragonFly 926917950 10  1 Br  kf    -     -          525   30    0 
+DragonFly 926917993 10 10 rc  rc    f     -          495   70    0 
+DragonFly 926918037 10  9 rc  r     rr    rr         425  220    0 4d 2d
+DragonFly 926918112 10  8 rc  rc    rc    r          205  160  420 7c 6d
+DragonFly 926918198  9  6 f   -     -     -          465    0    0 
+DragonFly 926918221  9  5 f   -     -     -          465    0    0 
+DragonFly 926918273 10  5 rc  rc    r     r          465  170  555 4h 4s
+DragonFly 926918325  9  3 r   b     b     b          850   70  135 
+DragonFly 926918358  9  2 Br  bc    bc    kc         915  120    0 Th Td
+DragonFly 926918401  9  1 Brc b     bc    bf         795  110    0 
+DragonFly 926918446  9  9 cc  br    r     b          685  130  395 9h Ac
+DragonFly 926918524  9  8 f   -     -     -          950    0    0 
+DragonFly 926918564 10  8 f   -     -     -          950    0    0 
+DragonFly 926918607 10  7 rr  b     b     -          950   70  175 
+DragonFly 926918641 10  6 r   b     b     b         1055   80  160 Js Qs
+DragonFly 926918664  8  5 r   f     -     -         1135   20    0 
+DragonFly 926918691 10  4 r   b     -     -         1115   30   80 
+DragonFly 926918718 10  3 r   b     -     -         1165   30   65 
+DragonFly 926918751 10  2 Br  bc    bc    b         1200  100  185 
+DragonFly 926918794 10  1 Bc  b     b     b         1285   60  140 2s Qc
+DragonFly 926918827 10 10 f   -     -     -         1365    0    0 
+DragonFly 926918877  9  8 f   -     -     -         1365    0    0 
+DragonFly 926918923  9  7 f   -     -     -         1365    0    0 
+DragonFly 926918935  9  6 rc  r     r     k         1365  100    0 8d 7c
+DragonFly 926918972  9  5 r   bc    bc    k         1265   80    0 4d 6d
+DragonFly 926919015  9  4 c   f     -     -         1185   10    0 
+DragonFly 926919044 10  4 f   -     -     -         1175    0    0 
+DragonFly 926919056 10  3 r   b     b     b         1175   70  165 Jh Kh
+DragonFly 926919091 10  2 Br  bf    -     -         1270   30    0 
+DragonFly 926919148 10  1 Br  b     b     b         1240   70  190 5c Jc
+DragonFly 926919236  8  8 r   b     b     b         1360   70  155 
+DragonFly 926919265  8  7 r   b     b     -         1445   50   95 
+DragonFly 926919293  9  7 rc  b     -     -         1490   50  105 
+DragonFly 926919310  9  6 f   -     -     -         1545    0    0 
+DragonFly 926919370  8  5 r   b     b     k         1545   50    0 Ac 4h
+DragonFly 926919398  8  4 rc  kf    -     -         1495   30    0 
+DragonFly 926919450 10  3 f   -     -     -         1465    0    0 
+DragonFly 926919496 10  2 Bf  -     -     -         1465   10    0 
+DragonFly 926919545 10  1 Bf  -     -     -         1455    5    0 
+DragonFly 926919633 10 10 rc  f     -     -         1450   40    0 
+DragonFly 926919712  9  8 rc  r     f     -         1410   70    0 
+DragonFly 926919872 10  9 f   -     -     -         1340    0    0 
+DragonFly 926919905  9  7 rc  f     -     -         1340   30    0 
+DragonFly 926919942 10  6 rr  -     -     -         1310   40   88 Js Qh
+DragonFly 926919959  9  5 rc  r     r     r         1358  130  300 4h 3d
+DragonFly 926920011  9  4 f   -     -     -         1528    0    0 
+DragonFly 926920063  9  3 r   -     -     -         1528   20   35 
+DragonFly 926920085 10  2 Bc  kf    -     -         1543   20    0 
+DragonFly 926920106  9  1 Br  b     b     b         1523   70    0 9c Td
+DragonFly 926920133  9  9 f   -     -     -         1453    0    0 
+DragonFly 926920156  9  8 r   r     r     b         1453  100    0 9h Jh
+DragonFly 926920189  9  7 f   -     -     -         1353    0    0 
+DragonFly 926920220  9  6 r   b     b     c         1353   80    0 Ad Qc
+DragonFly 926920246  9  5 r   -     -     -         1273   20   35 
+DragonFly 926920260  9  4 r   b     -     -         1288   40   85 
+DragonFly 926920285  9  3 r   b     b     k         1333   50  105 9c 9d
+DragonFly 926920307  9  2 Br  bf    -     -         1388   30    0 
+DragonFly 926920354  9  1 Br  b     -     -         1358   30   70 
+DragonFly 926920382  9  9 r   -     -     -         1398   20   35 
+DragonFly 926920389  9  8 r   r     -     -         1413   40   85 
+DragonFly 926920405  9  7 r   bf    -     -         1458   30    0 
+DragonFly 926920424  9  6 rc  bf    -     -         1428   40    0 
+DragonFly 926920450  9  5 r   rc    rc    rc        1388  170    0 Ah Jc
+DragonFly 926920478 10  4 r   b     br    -         1218   90  220 
+DragonFly 926920521 10  3 r   b     b     b         1348   70  145 Ac Jc
+DragonFly 926920545 10  2 Bk  kf    -     -         1423   10    0 
+DragonFly 926920579 10  1 Br  b     b     kf        1413   60    0 
+DragonFly 926920617  9  9 r   rf    -     -         1353   40    0 
+DragonFly 926920670  9  8 r   r     r     cf        1313  100    0 
+DragonFly 926920727  9  7 r   kf    -     -         1213   20    0 
+DragonFly 926920806  9  6 f   -     -     -         1193    0    0 
+DragonFly 926920839  9  5 r   b     b     -         1193   50   95 
+DragonFly 926920858  9  4 r   br    b     b         1238   90  195 4s 4c
+DragonFly 926920885  8  3 r   f     -     -         1343   20    0 
+DragonFly 926920918  9  2 Bk  f     -     -         1323   10    0 
+DragonFly 926920946  9  1 Brc bc    bc    kc        1313  120    0 5c Tc
+DragonFly 926920990  9  9 f   -     -     -         1193    0    0 
+DragonFly 926921024  8  7 r   r     c     c         1193   80    0 3d Ts
+DragonFly 926921052  8  6 f   -     -     -         1113    0    0 
+DragonFly 926921096  8  5 r   f     -     -         1113   30    0 
+DragonFly 926921131  8  4 f   -     -     -         1083    0    0 
+DragonFly 926921157  8  3 r   rc    f     -         1083   50    0 
+DragonFly 926921187  8  2 Br  r     b     b         1033   80  260 9d Jd
+DragonFly 926921230  8  1 Brc bc    bc    kf        1213  100    0 
+DragonFly 926921271  8  8 rr  r     b     b         1113  100  245 Jh Jc
+DragonFly 926921289  8  7 f   -     -     -         1258    0    0 
+DragonFly 926921317  8  6 f   -     -     -         1258    0    0 
+DragonFly 926921328  8  5 r   b     -     -         1258   30   65 
+DragonFly 926921349  8  4 r   b     -     -         1293   30   65 
+DragonFly 926921360  8  3 r   b     b     k         1328   50    0 Ks Jd
+DragonFly 926921379  8  2 Bk  b     -     -         1278   20   50 
+DragonFly 926921409  8  1 Br  b     b     b         1308   70    0 6c As
+DragonFly 926921438  8  8 r   b     b     k         1238   50  115 4h 4s
+DragonFly 926921478  8  7 r   -     -     -         1303   20   35 
+DragonFly 926921494  7  5 rc  f     -     -         1318   40    0 
+DragonFly 926921533  8  5 r   r     -     -         1278   40   80 
+DragonFly 926921551  8  4 r   b     b     -         1318   50  135 
+DragonFly 926921587  8  3 f   -     -     -         1403    0    0 
+DragonFly 926921594  8  2 Br  b     -     -         1403   30   55 
+DragonFly 926921611  8  1 Bc  k     k     k         1428   10    0 5h Qc
+DragonFly 926921643  9  9 r   r     b     b         1418   90    0 9h 7s
+DragonFly 926921677  8  7 r   b     b     -         1328   50  125 
+DragonFly 926921720  8  6 r   b     b     -         1403   50  135 
+DragonFly 926921753 10  7 f   -     -     -         1488    0    0 
+DragonFly 926921805 10  6 r   b     kf    -         1488   30    0 
+DragonFly 926921850  9  4 r   b     -     -         1458   30   65 
+DragonFly 926921875 10  3 f   -     -     -         1493    0    0 
+DragonFly 926921932 10  2 Bc  br    bc    b         1493  110    0 8c 4h
+DragonFly 926921966  9  1 Br  b     b     b         1383   70    0 7h Td
+DragonFly 926922005 10 10 f   -     -     -         1313    0    0 
+DragonFly 926922048  9  8 r   f     -     -         1313   20    0 
+DragonFly 926922083 10  7 rc  r     b     bc        1293  110    0 Ad 9h
+DragonFly 926922137  9  5 r   r     b     b         1183   80    0 Tc Ts
+DragonFly 926922183 10  5 r   b     -     -         1103   30   80 
+DragonFly 926922214 10  4 f   -     -     -         1153    0    0 
+DragonFly 926922252 10  3 f   -     -     -         1153    0    0 
+DragonFly 926922316 10  2 Bk  k     k     b         1153   30    0 3d 5s
+DragonFly 926922367  8  1 Br  b     b     bf        1123   70    0 
+DragonFly 926922415  9  9 r   b     -     -         1053   30   65 
+DragonFly 926922443  9  8 r   r     r     f         1088   90    0 
+DragonFly 926922486 10  8 r   f     -     -          998   30    0 
+DragonFly 926922571 10  7 r   b     -     -          968   30   65 
+DragonFly 926922595 10  6 r   k     b     b         1003   60  150 
+DragonFly 926922645  9  5 f   -     -     -         1093    0    0 
+DragonFly 926922713  9  4 r   rc    f     -         1093   50    0 
+DragonFly 926922746  9  3 f   -     -     -         1043    0    0 
+DragonFly 926922805 10  2 Br  b     brc   bc        1043  150    0 4s 3s
+DragonFly 926922870 10  1 Br  bc    bc    k          893   80    0 Qc Ad
+DragonFly 926922952  9  9 r   b     -     -          813   30   55 
+DragonFly 926922991  9  8 f   -     -     -          838    0    0 
+DragonFly 926923020  9  7 r   -     -     -          838   20   35 
+DragonFly 926923038  9  6 f   -     -     -          853    0    0 
+DragonFly 926923079  9  5 r   -     -     -          853   20   35 
+DragonFly 926923090  9  4 f   -     -     -          868    0    0 
+DragonFly 926923118  9  3 r   b     b     bf         868   70    0 
+DragonFly 926923143  9  2 Br  kc    kf    -          798   50    0 
+DragonFly 926923184  9  1 Br  b     b     -          748   50   90 
+DragonFly 926923227  9  9 rc  r     b     b          788   90    0 Ac 6s
+DragonFly 926923255  9  8 r   k     k     f          698   30    0 
+DragonFly 926923288  9  7 f   -     -     -          668    0    0 
+DragonFly 926923298  9  6 f   -     -     -          668    0    0 
+DragonFly 926923315  8  5 r   r     b     c          668   80    0 Qc 4h
+DragonFly 926923336  9  4 r   bc    bc    kf         588   80    0 
+DragonFly 926923372  9  3 rc  b     b     kc         508   80  138 Ah 6h
+DragonFly 926923411  9  2 Br  r     b     b          566   80  160 As 7d
+DragonFly 926923439  9  1 Bf  -     -     -          646    5    0 
+DragonFly 926923526  9  9 f   -     -     -          641    0    0 
+DragonFly 926923537  9  8 rc  bc    b     b          641   90    0 7h Jd
+DragonFly 926923574  9  7 r   b     b     b          551   70  155 4d 4c
+DragonFly 926923611  8  5 r   -     -     -          636   20   35 
+DragonFly 926923622  8  4 r   b     b     b          651   70  150 
+DragonFly 926923650  8  4 f   -     -     -          731    0    0 
+DragonFly 926923688  7  2 Br  b     b     b          731   70  125 
+DragonFly 926923713  7  1 Br  bc    b     kc         786   90    0 9s Ad
+DragonFly 926923752  7  7 rc  rc    rc    c          696  140    0 Kh 4c
+DragonFly 926923800  7  6 r   r     rc    c          556  120    0 Qc 6s
+DragonFly 926923835  6  4 r   b     b     b          436   70    0 4s 8d
+DragonFly 926923871  6  3 rc  b     -     -          366   40   85 
+DragonFly 926923897  6  2 Br  bf    -     -          411   40    0 
+DragonFly 926923924  6  1 Brc brc   brc   brc        371  240    0 7d Tc
+DragonFly 926923973  6  6 r   rc    rc    c          131  130    0 As 6d
+DragonFly 926924011  7  5 cA  -     -     -            1    1    0 6c 6s
+DragonFly 927078026 10  2 Bk  bc    bf    -         1000   50    0 
+DragonFly 927078094  9  1 Bf  -     -     -          950    5    0 
+DragonFly 927078153  9  8 f   -     -     -          945    0    0 
+DragonFly 927078202  9  8 r   br    r     f          945   90    0 
+DragonFly 927078241  9  7 rc  bc    b     kc         855  100    0 7s 8h
+DragonFly 927078279 10  7 f   -     -     -          755    0    0 
+DragonFly 927078325  9  5 r   bc    bc    kc         755  100  225 Ts 9d
+DragonFly 927078368  9  4 f   -     -     -          880    0    0 
+DragonFly 927078434 10  3 f   -     -     -          880    0    0 
+DragonFly 927078515 10  2 Brc bc    b     kc         880   90    0 5s Ad
+DragonFly 927078599  9  1 Br  b     bc    brc        790  150  410 Jh Kc
+DragonFly 927078674  9  9 r   Q     -     -         1050   30    0 
+DragonFly 927139216  8  8 r   rc    rc    f          675  110    0 
+DragonFly 927139250  8  7 r   rc    c     c          565   90  275 Kc 6c
+DragonFly 927139282  8  6 r   rc    r     b          750  110  360 7h 6c
+DragonFly 927139318  8  5 rc  r     b     k         1000   70  220 6d 7s
+DragonFly 927139349  8  4 f   -     -     -         1150    0    0 
+DragonFly 927139367  8  3 f   -     -     -         1150    0    0 
+DragonFly 927139400  8  2 Br  bf    -     -         1150   40    0 
+DragonFly 927139428  8  1 Bc  b     b     k         1110   40    0 Js 2c
+DragonFly 927139451  8  8 rc  rc    c     f         1070  100    0 
+DragonFly 927139484  8  7 f   -     -     -          970    0    0 
+DragonFly 927139512  8  6 r   b     b     bc         970  100  310 4s 2s
+DragonFly 927139553  9  5 f   -     -     -         1180    0    0 
+DragonFly 927139586  9  4 f   -     -     -         1180    0    0 
+DragonFly 927139633  9  3 r   bf    -     -         1180   30    0 
+DragonFly 927139678  9  2 Brc bc    bcc   kf        1150  140    0 
+DragonFly 927139738  9  1 Br  bc    kf    -         1010   40    0 
+DragonFly 927139784  9  9 r   b     b     b          970   80  119 Jh 6h
+DragonFly 927139815  9  8 f   -     -     -         1009    0    0 
+DragonFly 927139853  9  7 f   -     -     -         1009    0    0 
+DragonFly 927139888  8  5 r   b     kc    kc        1009   70    0 Kd Jc
+DragonFly 927139910  8  5 f   -     -     -          939    0    0 
+DragonFly 927139933  8  4 f   -     -     -          939    0    0 
+DragonFly 927139953  8  3 r   b     b     b          939   70   17 Qs As
+DragonFly 927139988  8  2 Bk  kf    -     -          886   10    0 
+DragonFly 927140012  6  1 Br  b     -     -          876   40   80 
+DragonFly 927140027  6  6 f   -     -     -          916    0    0 
+DragonFly 927140058  6  6 r   r     r     c          916  100  220 As 5c
+DragonFly 927140083  6  5 f   -     -     -         1036    0    0 
+DragonFly 927140124  6  4 r   r     -     -         1036   40   85 
+DragonFly 927140150  6  3 f   -     -     -         1081    0    0 
+DragonFly 927140168  6  2 Bk  kf    -     -         1081   10    0 
+DragonFly 927140193  6  1 Bf  -     -     -         1071    5    0 
+DragonFly 927140215  6  6 r   r     r     rr        1066  160  380 Jd 9d
+DragonFly 927140257  6  5 f   -     -     -         1286    0    0 
+DragonFly 927140286  6  4 f   -     -     -         1286    0    0 
+DragonFly 927140297  6  3 rc  bc    kf    -         1286   50    0 
+DragonFly 927140318  6  2 Bf  -     -     -         1236   10    0 
+DragonFly 927140352  6  1 Br  b     b     kc        1226   70    0 Ks Js
+DragonFly 927140374  5  5 r   b     -     -         1156   30   55 
+DragonFly 927140391  4  3 f   -     -     -         1181    0    0 
+DragonFly 927140404  5  2 Br  b     b     b         1181   70  175 
+DragonFly 927140430  7  1 Bf  -     -     -         1286    5    0 
+DragonFly 927140461  7  7 r   -     -     -         1281   20   45 
+DragonFly 927140477  6  5 r   -     -     -         1306   20   35 
+DragonFly 927140485  7  5 r   b     b     k         1321   50  115 5c 5h
+DragonFly 927140510  6  3 r   b     b     bf        1386   70    0 
+DragonFly 927140531  6  2 Br  b     b     kc        1316   80    0 Qh Th
+DragonFly 927140559  8  1 Bf  -     -     -         1236    5    0 
+DragonFly 927140605  9  9 r   b     k     k         1231   30    0 2c Qh
+DragonFly 927140635  9  8 r   -     -     -         1201   20   35 
+DragonFly 927140646  9  8 r   -     -     -         1216   20   35 
+DragonFly 927140657  8  6 f   -     -     -         1231    0    0 
+DragonFly 927140691  8  5 f   -     -     -         1231    0    0 
+DragonFly 927140717  8  4 f   -     -     -         1231    0    0 
+DragonFly 927140729  8  3 r   b     b     b         1231   70  170 5c Ks
+DragonFly 927140753  9  2 Br  b     b     b         1331   70    0 9c 8h
+DragonFly 927140776  9  1 Br  b     b     b         1261   70  260 3h 2h
+DragonFly 927140814  9  9 f   -     -     -         1451    0    0 
+DragonFly 927140843  9  8 f   -     -     -         1451    0    0 
+DragonFly 927140854  9  7 rcc f     -     -         1451   40    0 
+DragonFly 927140902 10  7 r   b     b     b         1411   70    0 6s 7h
+DragonFly 927140934 10  6 f   -     -     -         1341    0    0 
+DragonFly 927140990 10  5 r   b     b     b         1341   70    0 Jc 4c
+DragonFly 927141014 10  4 f   -     -     -         1271    0    0 
+DragonFly 927141071 10  3 f   -     -     -         1271    0    0 
+DragonFly 927141112 10  2 Br  bf    -     -         1271   30    0 
+DragonFly 927141185 10  1 Br  b     b     k         1241   60    0 9s 9c
+DragonFly 927141222 10 10 r   f     -     -         1181   30    0 
+DragonFly 927141271 10  9 r   r     r     c         1151  100    0 6h 6s
+DragonFly 927141299 10  8 rr  r     rc    r         1051  180    0 Td Jh
+DragonFly 927141359 10  7 rr  rc    b     b          871  110  425 3d 3h
+DragonFly 927141418 10  6 f   -     -     -         1186    0    0 
+DragonFly 927141469 10  5 rc  rc    rc    r         1186  170  600 Jh Ah
+DragonFly 927141537 10  4 f   -     -     -         1616    0    0 
+DragonFly 927141605 10  3 f   -     -     -         1616    0    0 
+DragonFly 927141654 10  2 Bf  -     -     -         1616   10    0 
+DragonFly 927141673 10  1 Br  bf    -     -         1606   30    0 
+DragonFly 927141718 10 10 rc  rc    cc    f         1576  160    0 
+DragonFly 927141803 10  9 rc  rc    rc    kf        1416  140    0 
+DragonFly 927141859 10  8 rc  kf    -     -         1276   30    0 
+DragonFly 927141893 10  7 r   kf    -     -         1246   20    0 
+DragonFly 927141932 10  6 r   b     b     b         1226   70    0 8d 7h
+DragonFly 927141984 10  5 f   -     -     -         1156    0    0 
+DragonFly 927142036 10  4 r   b     b     k         1156   50  165 6s 7s
+DragonFly 927142067 10  3 r   rc    bcc   bc        1271  160    0 Kc Jc
+DragonFly 927142135 10  2 Bc  b     bc    kf        1111   70    0 
+DragonFly 927142174 10  1 Br  b     -     -         1041   30   50 
+DragonFly 927142192 10 10 r   k     k     f         1061   20    0 
+DragonFly 927142219 10  9 f   -     -     -         1041    0    0 
+DragonFly 927142276 10  8 r   r     b     k         1041   60  185 Qc Kc
+DragonFly 927142358  9  6 r   b     r     k         1166   70    0 As 4c
+DragonFly 927142388  9  5 f   -     -     -         1096    0    0 
+DragonFly 927142447  9  4 rc  k     bc    k         1096   70    0 7c Ac
+DragonFly 927142488 10  4 r   rc    r     kc        1026  110    0 Td 9h
+DragonFly 927142544 10  3 r   b     brc   bc         916  150    0 Td 9d
+DragonFly 927142589 10  2 Bf  -     -     -          766   10    0 
+DragonFly 927142638 10  1 Bf  -     -     -          756    5    0 
+DragonFly 927142685 10 10 f   -     -     -          751    0    0 
+DragonFly 927142697 10  9 f   -     -     -          751    0    0 
+DragonFly 927142729 10  8 f   -     -     -          751    0    0 
+DragonFly 927142762 10  7 f   -     -     -          751    0    0 
+DragonFly 927142815 10  7 f   -     -     -          751    0    0 
+DragonFly 927142879  9  4 f   -     -     -          751    0    0 
+DragonFly 927142923 10  4 f   -     -     -          751    0    0 
+DragonFly 927143019 10  3 f   -     -     -          751    0    0 
+DragonFly 927143085 10  2 Brr br    bc    kcf        751  130    0 
+DragonFly 927143232 10  1 Brc b     bf    -          621   60    0 
+DragonFly 927143325 10 10 r   f     -     -          561   20    0 
+DragonFly 927143376  9  8 r   b     b     -          541   50   90 
+DragonFly 927143416 10  8 rc  b     b     k          581   70  315 9c Qc
+DragonFly 927143492 10  7 f   -     -     -          826    0    0 
+DragonFly 927143585 10  6 rc  r     b     k          826   70    0 3s Qs
+DragonFly 927143660  9  4 f   -     -     -          756    0    0 
+DragonFly 927143712 10  4 rc  b     b     k          756   60    0 Th As
+DragonFly 927143753 10  3 r   br    b     k          696   70  195 9c 7h
+DragonFly 927143809 10  2 Brc b     b     b          821   90  320 9s Jh
+DragonFly 927143855 10  1 Br  b     k     kf        1051   30    0 
+DragonFly 927143895 10 10 f   -     -     -         1021    0    0 
+DragonFly 927143920  9  8 r   b     k     k         1021   30    0 Qc 8c
+DragonFly 927143956  9  7 r   b     k     k          991   30    0 8h 9h
+DragonFly 927143996 10  6 r   b     b     b          961   70    0 Ah 4d
+DragonFly 927144035 10  5 f   -     -     -          891    0    0 
+DragonFly 927144114 10  4 f   -     -     -          891    0    0 
+DragonFly 927144159 10  3 f   -     -     -          891    0    0 
+DragonFly 927144177 10  2 Bk  k     k     k          891   10   35 5d 2d
+DragonFly 927144205 10  1 Bf  -     -     -          916    5    0 
+DragonFly 927144240 10 10 f   -     -     -          911    0    0 
+DragonFly 927144274 10  9 f   -     -     -          911    0    0 
+DragonFly 927144308 10  8 f   -     -     -          911    0    0 
+DragonFly 927144333 10  7 f   -     -     -          911    0    0 
+DragonFly 927144399 10  6 f   -     -     -          911    0    0 
+DragonFly 927144446 10  5 f   -     -     -          911    0    0 
+DragonFly 927144512 10  4 f   -     -     -          911    0    0 
+DragonFly 927144577 10  3 f   -     -     -          911    0    0 
+DragonFly 927144629 10  2 Bk  k     k     k          911   10    0 9h Kc
+DragonFly 927144674 10  1 Bf  -     -     -          901    5    0 
+DragonFly 927144714 10 10 f   -     -     -          896    0    0 
+DragonFly 927144822 10  9 f   -     -     -          896    0    0 
+DragonFly 927144853  9  7 f   -     -     -          896    0    0 
+DragonFly 927144923  9  5 f   -     -     -          896    0    0 
+DragonFly 927144973 10  5 f   -     -     -          896    0    0 
+DragonFly 927145075 10  4 f   -     -     -          896    0    0 
+DragonFly 927145124 10  3 fQ  -     -     -          896    0    0 
+DragonFly 927172871 10  8 rc  f     -     -          896   40    0 
+DragonFly 927172928  9  6 r   b     bc    kf         856   70    0 
+DragonFly 927172998 10  5 f   -     -     -          786    0    0 
+DragonFly 927173053 10  4 r   b     b     b          786   70  195 
+DragonFly 927173139  9  3 r   brc   rc    c          911  140  410 7d 7s
+DragonFly 927173187 10  2 Bf  -     -     -         1181   10    0 
+DragonFly 927173266 10  1 Bf  -     -     -         1171    5    0 
+DragonFly 927173400 10 10 r   b     b     k         1166   60    0 Qd Kh
+DragonFly 927173451 10  9 r   r     r     f         1106  100    0 
+DragonFly 927173543 10  8 f   -     -     -         1006    0    0 
+DragonFly 927173594 10  7 f   -     -     -         1006    0    0 
+DragonFly 927173675  7  5 f   -     -     -         1006    0    0 
+DragonFly 927173721  7  4 r   b     b     k         1006   50    0 Ks Qc
+DragonFly 927173765  8  3 f   -     -     -          956    0    0 
+DragonFly 927173822  9  2 Brc bc    kf    -          956   60    0 
+DragonFly 927173870  9  1 Br  b     bc    kc         896   90  260 3c 3h
+DragonFly 927173928  7  7 rc  rc    b     c         1066  110    0 Ts Td
+DragonFly 927173998  8  3 Q   -     -     -          956    0    0 
+DragonFly 927213503  4  3 f   -     -     -          956    0    0 
+DragonFly 927213526  4  2 Bk  k     k     k          956   10    0 Jc 5s
+DragonFly 927213543  4  1 Bf  -     -     -          946    5    0 
+DragonFly 927213555  4  4 f   -     -     -          941    0    0 
+DragonFly 927213559  4  3 r   b     bc    rc         941  130    0 Js Ac
+DragonFly 927213580  4  2 Br  b     b     b          811   70    0 7c 8c
+DragonFly 927213616  5  1 Bf  -     -     -          741    5    0 
+DragonFly 927213621  6  5 r   r     b     k          736   60  170 Ah 6c
+DragonFly 927213647  7  4 r   r     r     k          846   80  300 8h 6s
+DragonFly 927213685  8  3 r   b     b     b         1066   70  125 
+DragonFly 927213709  8  2 Br  b     b     b         1121   70  230 9s Th
+DragonFly 927213745  8  1 Br  b     b     bf        1281   70    0 
+DragonFly 927213774  8  8 r   b     bc    f         1211   80    0 
+DragonFly 927213810  8  7 r   r     b     b         1131   80    0 4h Kd
+DragonFly 927213853  8  6 r   b     b     k         1051   50  125 Js Ac
+DragonFly 927213879  8  5 r   r     b     c         1126   80    0 5c Ac
+DragonFly 927213907  7  4 f   -     -     -         1046    0    0 
+DragonFly 927213920  7  3 f   -     -     -         1046    0    0 
+DragonFly 927213941  7  2 Br  b     b     bc        1046   90  210 Td Ad
+DragonFly 927213971  7  1 Brc b     b     k         1166   60    0 9s 5c
+DragonFly 927213998  7  7 f   -     -     -         1106    0    0 
+DragonFly 927214030  7  6 r   b     r     k         1106   70    0 Qh Ts
+DragonFly 927214046  7  5 rr  b     b     f         1036   70    0 
+DragonFly 927214093  7  4 f   -     -     -          966    0    0 
+DragonFly 927214118  7  3 rc  rc    r     k          966  100  210 6h 3h
+DragonFly 927214142  7  2 Br  b     b     b         1076   70    0 9c Jd
+DragonFly 927214171  7  1 Bf  -     -     -         1006    5    0 
+DragonFly 927214198  7  7 rc  r     f     -         1001   50    0 
+DragonFly 927214226  7  6 r   rc    r     r          951  130  390 7s 9s
+DragonFly 927214274  7  5 r   rc    r     c         1211  110    0 Jc Qc
+DragonFly 927214302  7  4 f   -     -     -         1101    0    0 
+DragonFly 927214311  7  4 r   b     b     -         1101   50   90 
+DragonFly 927214331  6  2 Br  b     r     b         1141   90  180 As 2s
+DragonFly 927214347  6  1 Bcc kf    -     -         1231   20    0 
+DragonFly 927214364  6  6 f   -     -     -         1211    0    0 
+DragonFly 927214386  6  5 r   r     r     k         1211   90    0 7h 9d
+DragonFly 927214414  6  4 r   b     b     b         1121   70  145 Jh 6h
+DragonFly 927214435  6  3 r   r     r     c         1196  100    0 Ac 5d
+DragonFly 927214462  6  2 Br  b     bc    kc        1096   90  185 Ad 4h
+DragonFly 927214489  7  1 Br  br    bc    b         1191  110    0 Ks 4c
+DragonFly 927214512  7  7 r   b     r     b         1081   90  265 As 2d
+DragonFly 927214543  7  6 r   b     -     -         1256   30   55 
+DragonFly 927214556  6  4 r   r     k     k         1281   40    0 2s Ac
+DragonFly 927214575  7  4 r   b     b     -         1241   50  120 
+DragonFly 927214595  7  3 rc  b     brc   b         1311  140  295 Jd 9d
+DragonFly 927214616  7  2 Br  b     b     bf        1466   70    0 
+DragonFly 927214643  7  1 Brc bc    br    b         1396  130  320 Ad 8d
+DragonFly 927214675  7  7 f   -     -     -         1586    0    0 
+DragonFly 927214697  7  6 r   b     b     b         1586   80    0 8d Jd
+DragonFly 927214718  6  4 r   b     b     k         1506   50  110 3h 5d
+DragonFly 927214740  6  3 r   b     b     r         1566   90   92 8s As
+DragonFly 927214755  6  2 Br  b     b     b         1568   70    0 Jh Qc
+DragonFly 927214775  7  1 Br  b     b     b         1498   80  220 
+DragonFly 927214805  7  7 f   -     -     -         1638    0    0 
+DragonFly 927214815  8  6 f   -     -     -         1638    0    0 
+DragonFly 927214842  8  5 f   -     -     -         1638    0    0 
+DragonFly 927214859  8  4 r   b     b     b         1638   70  181 6h Th
+DragonFly 927214879  7  2 r   bc    b     b         1749   80  230 Kc Js
+DragonFly 927214904  8  2 Bf  -     -     -         1899   10    0 
+DragonFly 927214939  8  1 Br  b     b     b         1889   70  220 Jc As
+DragonFly 927214963  8  8 Q   -     -     -         2039    0    0 

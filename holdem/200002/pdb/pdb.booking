@@ -1,0 +1,228 @@
+booking   950194903  8  1 Bf  -     -     -         1000   10    0 
+booking   950194942  8  1 Bc  kc    kc    kc         990   60    0 Ts 7s
+booking   950194973  9  9 c   c     c     f          930   50    0 
+booking   950195029  9  8 c   f     -     -          880   10    0 
+booking   950195049  9  7 c   f     -     -          870   10    0 
+booking   950195113  9  6 c   c     c     k          860   50    0 8c 8s
+booking   950195167 10  5 c   kc    kf    -          810   20    0 
+booking   950195240 10  4 c   f     -     -          790   10    0 
+booking   950195315 10  3 c   kc    krc   kc         780  110  325 3s Ts
+booking   950195415  8  1 Bc  kf    -     -          995   20    0 
+booking   950195474  8  1 Bc  kc    kc    kf         975   60    0 
+booking   950195541  8  8 f   -     -     -          915    0    0 
+booking   950195578  7  6 f   -     -     -          915    0    0 
+booking   950195621  8  6 cc  k     k     b          915   40  110 6s Js
+booking   950195652  8  5 c   kf    -     -          985   10    0 
+booking   950195694  8  4 f   -     -     -          975    0    0 
+booking   950195727  9  4 c   c     k     k          975   20    0 Qd 8s
+booking   950195783  9  3 c   k     k     k          955   10    0 2s 3c
+booking   950195814  9  2 Bk  k     k     b          945   30    0 2s Td
+booking   950195843  9  1 Bc  kc    kr    -          915   70  170 
+booking   950195876  9  9 f   -     -     -         1015    0    0 
+booking   950195906  9  9 c   b     b     -         1015   40   85 
+booking   950195935  9  8 c   k     f     -         1060   10    0 
+booking   950195978  9  7 c   k     c     c         1050   50    0 Th Ts
+booking   950196016  9  6 c   c     c     c         1000   70  195 2c 5h
+booking   950196067 10  5 c   cf    -     -         1125   20    0 
+booking   950196128 10  4 c   kc    c     r         1105   90  220 
+booking   950196184 10  3 c   b     b     b         1235   60  160 Tc Td
+booking   950196229 10  2 Bk  kf    -     -         1335   10    0 
+booking   950196278 10  1 Bc  kc    kf    -         1325   30    0 
+booking   950196338 10 10 c   f     -     -         1295   20    0 
+booking   950196358 10  9 c   k     k     f         1275   10    0 
+booking   950196421 10  8 c   k     f     -         1265   20    0 
+booking   950196466 10  7 f   -     -     -         1245    0    0 
+booking   950196510 10  6 f   -     -     -         1245    0    0 
+booking   950196563 10  5 c   kf    -     -         1245   10    0 
+booking   950196606 10  4 c   c     c     b         1235   60  190 Ah Qh
+booking   950196652 10  3 c   k     k     f         1365   10    0 
+booking   950196737 10  2 Bf  -     -     -         1355   10    0 
+booking   950196805 10  1 Bc  kc    brc   k         1345  110  350 8c 6c
+booking   950196871  9  9 c   f     -     -         1585   10    0 
+booking   950196925  8  7 cc  c     c     f         1575   70    0 
+booking   950197046  7  6 cc  f     -     -         1505   20    0 
+booking   950197103  5  3 c   kf    -     -         1485   10    0 
+booking   950197168  6  2 Bk  kc    kc    b         1475   60  160 3c 5s
+booking   950197235  6  1 Bc  k     k     k         1575   10   50 9s 6c
+booking   950197281  6  6 c   k     b     k         1615   30    0 Jh Tc
+booking   950197327  6  5 cc  c     c     c         1585   80  300 Kc 8s
+booking   950197369  6  4 cc  kc    kc    kc        1805   70  108 3h 5d
+booking   950197426  7  4 c   k     cf    -         1843   30    0 
+booking   950197490  7  3 cc  k     kf    -         1813   20    0 
+booking   950197535  8  3 f   -     -     -         1793    0    0 
+booking   950197577 10  2 Bcc kf    -     -         1793   40    0 
+booking   950197670 10  1 Bc  kc    kcc   kf        1753  120    0 
+booking   950197748 10 10 c   f     -     -         1633   30    0 
+booking   950197827 10  9 c   c     f     -         1603   30    0 
+booking   950197887 10  8 c   c     c     k         1573   50    0 Ac 9h
+booking   950197918 10  3 Q   -     -     -         1523    0    0 
+booking   950198683  8  5 cc  c     kc    kc        1523   70    0 Ts 9d
+booking   950198759  9  4 f   -     -     -         1453    0    0 
+booking   950198792  8  2 Bc  kc    kf    -         1453   30    0 
+booking   950198841  7  1 Bc  kf    -     -         1423   10    0 
+booking   950198882  7  7 c   k     f     -         1413   10    0 
+booking   950198907  7  6 c   c     kc    kf        1403   40    0 
+booking   950198960  7  5 c   f     -     -         1363   20    0 
+booking   950198982  7  4 c   f     -     -         1343   20    0 
+booking   950199029  7  3 c   kc    kc    kc        1323   60    0 Qc 4c
+booking   950199084  6  1 Bc  kf    -     -         1263   20    0 
+booking   950199173  5  1 Bc  kc    kc    kf        1243   40    0 
+booking   950199212  5  5 c   c     c     c         1203   60  170 As 5s
+booking   950199245  5  4 c   k     k     k         1313   10    0 Kh 3h
+booking   950199311  6  3 f   -     -     -         1303    0    0 
+booking   950199339  6  2 Bf  -     -     -         1303   10    0 
+booking   950199374  6  1 Bc  kc    kc    kf        1293   40    0 
+booking   950199438  5  5 c   k     k     k         1253   10    0 5s 4s
+booking   950199466  5  5 cc  r     k     k         1243   40  110 3c 2d
+booking   950199491  5  4 c   k     c     k         1313   30   70 Ad Ts
+booking   950199519  5  3 c   k     kc    kf        1353   30    0 
+booking   950199565  6  3 c   kc    kf    -         1323   30    0 
+booking   950199601  6  2 Bk  k     b     k         1293   30   70 8d 6c
+booking   950199630  7  1 Bc  kf    -     -         1333   20    0 
+booking   950199667  7  7 c   c     r     r         1313  100  240 3c 4c
+booking   950199713  7  6 c   b     r     b         1453   80    0 9c 9h
+booking   950199796  7  5 c   k     f     -         1373   10    0 
+booking   950199851  6  3 c   k     kc    k         1363   30    0 3d Ah
+booking   950199887  7  2 Bk  k     KQ    -         1333   10    0 
+booking   950207281  6  1 Bk  kf    -     -         1323   10    0 
+booking   950207376  5  1 Bc  kf    -     -         1313   20    0 
+booking   950207416  5  5 cc  rc    c     c         1293  100  420 3s 9c
+booking   950207478  6  5 c   f     -     -         1613   20    0 
+booking   950207508  6  4 cc  k     kf    -         1593   20    0 
+booking   950207557  6  3 c   c     b     b         1573   60  190 4d Qd
+booking   950207591  6  2 Bcc kr    bc    kc        1703  110  365 2s 2c
+booking   950207684  9  1 Bcc k     k     kf        1958   30    0 
+booking   950207811 10 10 f   -     -     -         1928    0    0 
+booking   950207847  9  8 f   -     -     -         1928    0    0 
+booking   950207893  9  7 c   c     c     k         1928   40    0 As Kd
+booking   950207950  9  6 c   cc    k     k         1888   30   32 8h Jd
+booking   950208042 10  6 c   f     -     -         1890   20    0 
+booking   950208113 10  5 c   cc    cc    f         1870   80    0 
+booking   950208216  9  4 c   ccc   kcf   -         1790  120    0 
+booking   950208348  9  3 cc  c     c     f         1670   50    0 
+booking   950208430  9  2 Bk  k     f     -         1620   10    0 
+booking   950208511 10  1 Bc  kc    kf    -         1610   40    0 
+booking   950208644 10 10 f   -     -     -         1570    0    0 
+booking   950208713 10  9 c   f     -     -         1570   10    0 
+booking   950208798 10  8 cc  cfQ   -     -         1560   40    0 
+booking   950279555  7  5 cc  f     -     -         1455   20    0 
+booking   950279609  7  4 f   -     -     -         1435    0    0 
+booking   950279639  8  3 cc  kcc   kcc   kr        1435  160  490 6d 8s
+booking   950279732  8  2 Bk  k     f     -         1765   10    0 
+booking   950279765  8  1 Bc  kc    k     b         1755   40  110 
+booking   950279826  8  8 cc  cf    -     -         1825   50    0 
+booking   950279901  7  6 c   c     rr    c         1775  130    0 Kh Ks
+booking   950279938  7  5 cc  k     f     -         1645   40    0 
+booking   950280006  7  4 cc  k     k     kc        1605   40    0 2c 2d
+booking   950280054  7  3 f   -     -     -         1565    0    0 
+booking   950280085  7  2 Bc  kc    kc    kf        1565   50    0 
+booking   950280139  7  1 BQ  -     -     -         1515    5    0 
+booking   950280994  5  3 c   k     kf    -         1510   10    0 
+booking   950281031  6  2 Bk  c     f     -         1500   20    0 
+booking   950281067  5  1 Bc  k     k     kf        1480   10    0 
+booking   950281117  5  5 c   f     -     -         1470   10    0 
+booking   950281153  5  4 c   c     c     r         1460   80  210 Kh 2h
+booking   950281187  5  3 c   k     k     r         1590   50  130 Ks Qc
+booking   950281233  5  2 Bk  k     kc    k         1670   30    0 Tc 8d
+booking   950281252  5  1 Bf  -     -     -         1640    5    0 
+booking   950281301  5  5 c   c     f     -         1635   30    0 
+booking   950281338  5  4 cc  c     k     kf        1605   40    0 
+booking   950281391  5  3 c   b     k     k         1565   20   80 Qc Ks
+booking   950281432  5  2 Bk  kf    -     -         1625   10    0 
+booking   950281466  7  1 Bc  brc   k     b         1615   80  280 Ts Tc
+booking   950281512  7  7 c   cf    -     -         1815   30    0 
+booking   950281559  7  6 c   c     r     b         1785   80  220 Kc Ah
+booking   950281620  6  4 c   c     bc    kc        1925   80    0 Qd Js
+booking   950281646  6  4 c   k     k     k         1845   10   35 Jh Kd
+booking   950281669  6  3 c   r     b     k         1870   50  190 5s 9h
+booking   950281707  7  2 Bc  kc    kc    k         2010   50    0 9s 3h
+booking   950281725  6  1 Bc  kc    k     k         1960   30    0 9s Ah
+booking   950281754  6  6 c   f     -     -         1930   20    0 
+booking   950281780  6  5 cc  kc    k     kf        1910   30    0 
+booking   950281824  6  4 c   k     c     k         1880   30   65 9s Kh
+booking   950281842  6  3 f   -     -     -         1915    0    0 
+booking   950281868  7  2 Bk  kc    kc    k         1915   40  110 9c 3h
+booking   950281902  8  1 Bf  -     -     -         1985    5    0 
+booking   950281952  8  8 c   c     c     cf        1980   60    0 
+booking   950281994  8  7 c   f     -     -         1920   10    0 
+booking   950282029  8  6 c   kc    kf    -         1910   20    0 
+booking   950282059  8  5 c   kc    f     -         1890   20    0 
+booking   950282113  7  3 cc  kc    kc    kf        1870   50    0 
+booking   950282185  9  3 cc  kc    bc    cc        1820  110    0 7d 8d
+booking   950282275  8  2 Bk  kcc   kc    kc        1710   70    0 Js Ac
+booking   950282319  7  1 Bc  kc    k     kf        1640   20    0 
+booking   950282380  7  7 c   b     b     b         1620   60    0 Kc Kd
+booking   950282444  7  6 c   k     k     k         1560   20    0 9d 3d
+booking   950282470  7  5 c   f     -     -         1540   20    0 
+booking   950282498  7  4 c   kc    b     k         1520   40  125 Ah 9d
+booking   950282548  7  3 cc  f     -     -         1605   20    0 
+booking   950282595  7  2 Bc  kc    k     b         1585   60  185 Th 2s
+booking   950282662  7  1 Bc  kcc   kc    kf        1710   60    0 
+booking   950282744  7  7 c   c     c     c         1650   70  170 Qc Th
+booking   950282774  7  6 c   f     -     -         1750   20    0 
+booking   950282808  7  5 c   k     k     k         1730   20   55 Td Qc
+booking   950282836  7  4 ccc kf    -     -         1765   40    0 
+booking   950282897  8  3 f   -     -     -         1725    0    0 
+booking   950282945  8  2 Bc  kc    kf    -         1725   50    0 
+booking   950282975  8  1 Bc  kc    k     k         1675   30    0 Tc 7c
+booking   950283032  8  8 f   -     -     -         1645    0    0 
+booking   950283095  8  7 f   -     -     -         1645    0    0 
+booking   950283147  8  6 f   -     -     -         1645    0    0 
+booking   950283184  8  5 cc  c     r     b         1645  100  235 
+booking   950283231  8  4 cc  kc    kc    k         1780   50    0 Jh Ts
+booking   950283277  9  3 cc  cf    -     -         1730   30    0 
+booking   950283399  9  2 Bk  kf    -     -         1700   10    0 
+booking   950283457 10  1 Bc  k     k     bc        1690   60  240 Qh 9c
+booking   950283549 10 10 c   c     r     b         1870   90    0 4d Ad
+booking   950283614 10  9 c   cc    c     f         1780   70    0 
+booking   950283670 10  8 c   rc    kc    kc        1710   90    0 Td Th
+booking   950283742 10  7 f   Q     -     -         1620    0    0 
+booking   950288824 10  5 cc  kc    kc    kf        1620   50    0 
+booking   950288890 10  4 cc  cf    -     -         1570   30    0 
+booking   950288957 10  3 cc  c     c     c         1540   70  260 2h Qs
+booking   950288999 10  2 Bk  kf    -     -         1730   10    0 
+booking   950289061 10  1 Bcc kc    kc    kf        1720   70    0 
+booking   950289122  9  9 c   b     b     b         1650   60    0 Tc Ks
+booking   950289192  9  8 c   c     kf    -         1590   20    0 
+booking   950289288  8  7 c   k     k     k         1570   10    0 Qh Ks
+booking   950289359  8  6 cc  b     b     -         1560   50  140 
+booking   950289415 10  6 cc  k     kf    -         1650   20    0 
+booking   950289491  9  4 cc  krc   kf    -         1630   50    0 
+booking   950289581  9  3 c   c     rc    c         1580  100    0 7s 7d
+booking   950289622  8  2 Bk  kc    k     k         1480   20    0 4h 9c
+booking   950289659  8  1 Bc  kf    -     -         1460   20    0 
+booking   950289708  8  8 c   c     c     cc        1440  110    0 2s Ks
+booking   950289761  9  8 c   c     c     rc        1330  110  335 Ac 2h
+booking   950289820  9  7 cc  c     f     -         1555   30    0 
+booking   950289863  8  5 c   k     k     k         1525   10    0 8c 7d
+booking   950289893  8  4 c   k     k     f         1515   10    0 
+booking   950289928  9  4 f   -     -     -         1505    0    0 
+booking   950289983  8  3 c   kf    -     -         1505   10    0 
+booking   950290011  8  2 Bk  k     k     k         1495   10    0 2s Jh
+booking   950290040  8  1 Bc  kc    kc    kf        1485   40    0 
+booking   950290074  7  7 cc  c     c     c         1445   80    0 Jd Ad
+booking   950290133  7  6 c   c     c     k         1365   50    0 Ah 7d
+booking   950290164  7  5 cc  f     -     -         1315   20    0 
+booking   950290216  7  4 c   kc    kc    kc        1295   60    0 8d 8h
+booking   950290245  7  3 cc  k     k     kf        1235   20    0 
+booking   950290282  7  2 Bc  k     k     kf        1215   20    0 
+booking   950290326  8  1 Bf  -     -     -         1195    5    0 
+booking   950290378  8  8 f   -     -     -         1190    0    0 
+booking   950290419  9  8 c   c     c     c         1190   60    0 Jh Ac
+booking   950290450  9  7 cc  f     -     -         1130   30    0 
+booking   950290491  8  5 c   kf    -     -         1100   10    0 
+booking   950290541  8  4 c   k     b     b         1090   50    0 Td 8c
+booking   950290579  7  3 cc  k     kc    k         1040   40    0 3c Jh
+booking   950290622  8  2 Bk  kc    kc    k         1000   40  125 As 3h
+booking   950290661  8  1 Bf  -     -     -         1085    5    0 
+booking   950290687  8  8 c   r     bc    c         1080  100    0 Qh Ts
+booking   950290748  9  8 c   c     c     f          980   40    0 
+booking   950290785 10  8 c   f     -     -          940   10    0 
+booking   950290833 10  7 c   f     -     -          930   20    0 
+booking   950290891 10  7 c   c     c     f          910   60    0 
+booking   950290933 10  5 cc  kc    kf    -          850   30    0 
+booking   950291015 10  4 ccc kcc   kf    -          820   80    0 
+booking   950291136 10  3 rr  kc    kc    kc         740   90    0 Qc Qh
+booking   950291178 10  2 Bk  KQ    -     -          650   10    0 
+booking   950300147  8  6 c   kc    kc    kc         640   60    0 Ks 4c
+booking   950300224  9  5 cc  k     k     cQ         580   40    0 

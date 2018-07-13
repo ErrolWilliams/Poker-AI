@@ -1,0 +1,535 @@
+Smooth-B  965420092 10  7 f   -     -     -         1000    0    0 
+Smooth-B  965420124  9  5 f   -     -     -         1000    0    0 
+Smooth-B  965420188 10  5 cc  k     k     f         1000   20    0 
+Smooth-B  965420239  9  3 f   -     -     -          980    0    0 
+Smooth-B  965420279 10  3 f   -     -     -          980    0    0 
+Smooth-B  965420321 10  2 Bc  kf    -     -          980   20    0 
+Smooth-B  965420372 10  1 Bf  -     -     -          960    5    0 
+Smooth-B  965420398 10 10 f   -     -     -          955    0    0 
+Smooth-B  965420455 10  9 f   -     -     -          955    0    0 
+Smooth-B  965420505 10  8 f   -     -     -          955    0    0 
+Smooth-B  965420537 10  7 f   -     -     -          955    0    0 
+Smooth-B  965420547 10  6 f   -     -     -          955    0    0 
+Smooth-B  965420614 10  5 f   -     -     -          955    0    0 
+Smooth-B  965420648 10  4 f   -     -     -          955    0    0 
+Smooth-B  965420692 10  3 f   -     -     -          955    0    0 
+Smooth-B  965420739 10  2 Bf  -     -     -          955   10    0 
+Smooth-B  965420779 10  1 Bc  kc    kc    k          945   40  110 Ad 3d
+Smooth-B  965420838 10 10 f   -     -     -         1015    0    0 
+Smooth-B  965420871 10  9 r   b     b     b         1015   70  155 
+Smooth-B  965420921 10  8 f   -     -     -         1100    0    0 
+Smooth-B  965420956 10  7 cc  b     b     b         1100   70  195 
+Smooth-B  965421014 10  6 f   -     -     -         1225    0    0 
+Smooth-B  965421119 10  5 f   -     -     -         1225    0    0 
+Smooth-B  965421191 10  4 f   -     -     -         1225    0    0 
+Smooth-B  965421273 10  3 f   -     -     -         1225    0    0 
+Smooth-B  965421342 10  2 Bf  -     -     -         1225   10    0 
+Smooth-B  965421430 10  1 Bf  -     -     -         1215    5    0 
+Smooth-B  965421465  9  9 f   -     -     -         1210    0    0 
+Smooth-B  965421501 10  9 c   b     b     -         1210   40   85 
+Smooth-B  965421578  8  7 f   -     -     -         1255    0    0 
+Smooth-B  965421630 10  7 c   kc    kc    kf        1255   40    0 
+Smooth-B  965421700 10  6 cc  bc    k     k         1215   40    0 Ks Jh
+Smooth-B  965421752 10  5 f   -     -     -         1175    0    0 
+Smooth-B  965421820 10  4 f   -     -     -         1175    0    0 
+Smooth-B  965421876 10  4 f   -     -     -         1175    0    0 
+Smooth-B  965421936 10  2 Bf  -     -     -         1175   10    0 
+Smooth-B  965422002 10  1 Bf  -     -     -         1165    5    0 
+Smooth-B  965422038 10 10 f   -     -     -         1160    0    0 
+Smooth-B  965422156 10  9 f   -     -     -         1160    0    0 
+Smooth-B  965422202 10  8 f   -     -     -         1160    0    0 
+Smooth-B  965422243 10  7 f   -     -     -         1160    0    0 
+Smooth-B  965422307 10  6 f   -     -     -         1160    0    0 
+Smooth-B  965422368 10  5 c   b     kc    k         1160   40  175 Js Ad
+Smooth-B  965422426 10  4 f   -     -     -         1295    0    0 
+Smooth-B  965422468 10  3 f   -     -     -         1295    0    0 
+Smooth-B  965422522 10  2 Bk  f     -     -         1295   10    0 
+Smooth-B  965422566 10  1 Bc  bc    kc    kf        1285   50    0 
+Smooth-B  965422614 10 10 f   -     -     -         1235    0    0 
+Smooth-B  965422677 10  9 f   -     -     -         1235    0    0 
+Smooth-B  965422725 10  8 c   f     -     -         1235   10    0 
+Smooth-B  965422797 10  7 f   -     -     -         1225    0    0 
+Smooth-B  965422860 10  6 f   -     -     -         1225    0    0 
+Smooth-B  965422908 10  5 f   -     -     -         1225    0    0 
+Smooth-B  965423006 10  4 f   -     -     -         1225    0    0 
+Smooth-B  965423077 10  3 c   b     b     b         1225   60  170 
+Smooth-B  965423149 10  2 Bc  kf    -     -         1335   20    0 
+Smooth-B  965423208 10  1 Bf  -     -     -         1315    5    0 
+Smooth-B  965423277 10 10 f   -     -     -         1310    0    0 
+Smooth-B  965423355 10  9 r   r     b     b         1310   80  215 
+Smooth-B  965423423 10  8 f   -     -     -         1445    0    0 
+Smooth-B  965423478 10  7 f   -     -     -         1445    0    0 
+Smooth-B  965423528 10  6 c   cc    kf    -         1445   40    0 
+Smooth-B  965423618 10  5 f   -     -     -         1405    0    0 
+Smooth-B  965423752 10  4 f   -     -     -         1405    0    0 
+Smooth-B  965423798 10  3 f   -     -     -         1405    0    0 
+Smooth-B  965423841 10  2 Bk  f     -     -         1405   10    0 
+Smooth-B  965423893 10  1 Bf  -     -     -         1395    5    0 
+Smooth-B  965423942 10 10 f   -     -     -         1390    0    0 
+Smooth-B  965424017 10  9 f   -     -     -         1390    0    0 
+Smooth-B  965424075 10  8 c   k     f     -         1390   10    0 
+Smooth-B  965424152 10  7 f   -     -     -         1380    0    0 
+Smooth-B  965424236 10  6 c   b     cc    f         1380   60    0 
+Smooth-B  965424318 10  5 f   -     -     -         1320    0    0 
+Smooth-B  965424396 10  4 f   -     -     -         1320    0    0 
+Smooth-B  965424484 10  3 f   -     -     -         1320    0    0 
+Smooth-B  965424575 10  2 Bf  -     -     -         1320   10    0 
+Smooth-B  965424679 10  1 Bc  kf    -     -         1310   10    0 
+Smooth-B  965424748 10 10 f   -     -     -         1300    0    0 
+Smooth-B  965424804 10  9 f   -     -     -         1300    0    0 
+Smooth-B  965424875 10  8 f   -     -     -         1300    0    0 
+Smooth-B  965424935 10  7 cc  f     -     -         1300   30    0 
+Smooth-B  965425011 10  6 f   -     -     -         1270    0    0 
+Smooth-B  965425058 10  5 f   -     -     -         1270    0    0 
+Smooth-B  965425132 10  4 f   -     -     -         1270    0    0 
+Smooth-B  965425215 10  3 f   -     -     -         1270    0    0 
+Smooth-B  965425305 10  2 Bf  -     -     -         1270   10    0 
+Smooth-B  965425351 10  1 Bc  kf    -     -         1260   20    0 
+Smooth-B  965425382 10 10 f   -     -     -         1240    0    0 
+Smooth-B  965425426 10  9 f   -     -     -         1240    0    0 
+Smooth-B  965425464 10  8 f   -     -     -         1240    0    0 
+Smooth-B  965425536 10  7 f   -     -     -         1240    0    0 
+Smooth-B  965425577 10  6 cc  bc    r     b         1240  100  360 Td Ac
+Smooth-B  965425693 10  5 f   -     -     -         1500    0    0 
+Smooth-B  965425774 10  4 f   -     -     -         1500    0    0 
+Smooth-B  965425830 10  3 f   -     -     -         1500    0    0 
+Smooth-B  965425911 10  2 Bk  bc    b     b         1500   70    0 8h 8d
+Smooth-B  965425948  9  1 Bc  kf    -     -         1430   10    0 
+Smooth-B  965426004  7  7 f   -     -     -         1420    0    0 
+Smooth-B  965426054  7  6 f   -     -     -         1420    0    0 
+Smooth-B  965426094  7  5 rc  bc    kc    k         1420   70    0 Jc Jh
+Smooth-B  965426146  7  4 f   -     -     -         1350    0    0 
+Smooth-B  965426181  7  3 rc  b     b     b         1350   80  155 
+Smooth-B  965426222  7  2 BQ  -     -     -         1425   10    0 
+Smooth-B  965427752 10 10 r   c     f     -         1415   30    0 
+Smooth-B  965427785 10  9 f   -     -     -         1385    0    0 
+Smooth-B  965427804 10  8 f   -     -     -         1385    0    0 
+Smooth-B  965427887  9  6 f   -     -     -         1385    0    0 
+Smooth-B  965427914  9  5 f   -     -     -         1385    0    0 
+Smooth-B  965427942  9  4 cc  kf    -     -         1385   20    0 
+Smooth-B  965427986  8  2 f   -     -     -         1365    0    0 
+Smooth-B  965428044  8  2 Bk  kf    -     -         1365   10    0 
+Smooth-B  965428089  8  1 Bf  -     -     -         1355    5    0 
+Smooth-B  965428134  8  8 f   -     -     -         1350    0    0 
+Smooth-B  965428143  8  7 f   -     -     -         1350    0    0 
+Smooth-B  965428177  8  6 f   -     -     -         1350    0    0 
+Smooth-B  965428222  8  5 f   -     -     -         1350    0    0 
+Smooth-B  965428244  8  4 f   -     -     -         1350    0    0 
+Smooth-B  965428315  8  3 f   -     -     -         1350    0    0 
+Smooth-B  965428368  8  2 Bf  -     -     -         1350   10    0 
+Smooth-B  965428416  7  1 Bf  -     -     -         1340    5    0 
+Smooth-B  965428443  8  8 f   -     -     -         1335    0    0 
+Smooth-B  965428480  8  7 f   -     -     -         1335    0    0 
+Smooth-B  965428519  8  6 f   -     -     -         1335    0    0 
+Smooth-B  965428569  8  6 c   c     f     -         1335   20    0 
+Smooth-B  965428613  7  4 f   -     -     -         1315    0    0 
+Smooth-B  965428665  7  3 f   -     -     -         1315    0    0 
+Smooth-B  965428711  7  2 Bk  b     b     -         1315   40   65 
+Smooth-B  965428773  7  1 Bc  kf    -     -         1340   10    0 
+Smooth-B  965428823  7  7 f   -     -     -         1330    0    0 
+Smooth-B  965428849  6  5 f   -     -     -         1330    0    0 
+Smooth-B  965428880  6  4 f   -     -     -         1330    0    0 
+Smooth-B  965428905  7  3 f   -     -     -         1330    0    0 
+Smooth-B  965428962  7  2 Bf  -     -     -         1330   10    0 
+Smooth-B  965428982  7  1 Bf  -     -     -         1320    5    0 
+Smooth-B  965429015  7  7 f   -     -     -         1315    0    0 
+Smooth-B  965429036  7  6 f   -     -     -         1315    0    0 
+Smooth-B  965429112  7  6 cc  f     -     -         1315   20    0 
+Smooth-B  965429152  9  7 f   -     -     -         1295    0    0 
+Smooth-B  965429237  9  6 f   -     -     -         1295    0    0 
+Smooth-B  965429331 10  5 f   -     -     -         1295    0    0 
+Smooth-B  965429386 10  4 f   -     -     -         1295    0    0 
+Smooth-B  965429465 10  4 f   -     -     -         1295    0    0 
+Smooth-B  965429536 10  2 Bc  r     b     f         1295   60    0 
+Smooth-B  965429591 10  1 Bf  -     -     -         1235    5    0 
+Smooth-B  965429645 10 10 c   f     -     -         1230   10    0 
+Smooth-B  965429721 10  9 c   f     -     -         1220   10    0 
+Smooth-B  965429761 10  8 f   -     -     -         1210    0    0 
+Smooth-B  965429833 10  7 f   -     -     -         1210    0    0 
+Smooth-B  965429913 10  6 f   -     -     -         1210    0    0 
+Smooth-B  965429954 10  5 f   -     -     -         1210    0    0 
+Smooth-B  965430026 10  4 f   -     -     -         1210    0    0 
+Smooth-B  965430074 10  3 f   -     -     -         1210    0    0 
+Smooth-B  965430132 10  2 Bf  -     -     -         1210   10    0 
+Smooth-B  965430205 10  1 Bf  -     -     -         1200    5    0 
+Smooth-B  965430244 10 10 f   -     -     -         1195    0    0 
+Smooth-B  965430313 10  9 f   -     -     -         1195    0    0 
+Smooth-B  965430396 10  8 f   -     -     -         1195    0    0 
+Smooth-B  965430452 10  7 f   -     -     -         1195    0    0 
+Smooth-B  965430539 10  6 f   -     -     -         1195    0    0 
+Smooth-B  965430595 10  6 f   -     -     -         1195    0    0 
+Smooth-B  965430685 10  4 f   -     -     -         1195    0    0 
+Smooth-B  965430727 10  3 f   -     -     -         1195    0    0 
+Smooth-B  965430794 10  2 Bf  -     -     -         1195   10    0 
+Smooth-B  965430853 10  1 Bf  -     -     -         1185    5    0 
+Smooth-B  965430881 10 10 f   -     -     -         1180    0    0 
+Smooth-B  965430931 10  9 f   -     -     -         1180    0    0 
+Smooth-B  965430984 10  8 f   -     -     -         1180    0    0 
+Smooth-B  965431071 10  7 cc  cc    f     -         1180   50    0 
+Smooth-B  965431166 10  6 f   -     -     -         1130    0    0 
+Smooth-B  965431304 10  5 cc  br    kcc   kf        1130  120    0 
+Smooth-B  965431405 10  4 f   -     -     -         1010    0    0 
+Smooth-B  965431482 10  3 f   -     -     -         1010    0    0 
+Smooth-B  965431549 10  2 Bf  -     -     -         1010   10    0 
+Smooth-B  965431673 10  1 Bf  -     -     -         1000    5    0 
+Smooth-B  965431750 10 10 rc  r     b     b          995   97  350 Qd Qc
+Smooth-B  965431837 10  9 f   -     -     -         1248    0    0 
+Smooth-B  965431884 10  8 f   -     -     -         1248    0    0 
+Smooth-B  965431959 10  7 f   -     -     -         1248    0    0 
+Smooth-B  965432015 10  6 f   -     -     -         1248    0    0 
+Smooth-B  965432066 10  5 f   -     -     -         1248    0    0 
+Smooth-B  965432120 10  4 f   -     -     -         1248    0    0 
+Smooth-B  965432174 10  3 f   -     -     -         1248    0    0 
+Smooth-B  965432257 10  2 Bf  -     -     -         1248   10    0 
+Smooth-B  965432307 10  1 Bf  -     -     -         1238    5    0 
+Smooth-B  965432392 10 10 f   -     -     -         1233    0    0 
+Smooth-B  965432477 10  9 f   -     -     -         1233    0    0 
+Smooth-B  965432582 10  8 c   b     b     rc        1233  100    0 8c Kc
+Smooth-B  965432685 10  7 f   -     -     -         1133    0    0 
+Smooth-B  965432746 10  6 f   -     -     -         1133    0    0 
+Smooth-B  965432792 10  5 cc  c     c     k         1133   50  180 Kc 7c
+Smooth-B  965432878  7  3 r   b     b     b         1263   70   90 As Kd
+Smooth-B  965432915  8  3 f   -     -     -         1283    0    0 
+Smooth-B  965432963  8  2 Bf  -     -     -         1283   10    0 
+Smooth-B  965432997  8  1 Br  kr    b     kf        1273   60    0 
+Smooth-B  965433051  8  8 c   c     f     -         1213   20    0 
+Smooth-B  965433096  8  7 f   -     -     -         1193    0    0 
+Smooth-B  965433130  8  6 f   -     -     -         1193    0    0 
+Smooth-B  965433164  8  5 f   -     -     -         1193    0    0 
+Smooth-B  965433211  9  4 f   -     -     -         1193    0    0 
+Smooth-B  965433262  9  3 f   -     -     -         1193    0    0 
+Smooth-B  965433296  8  2 Bk  kc    kf    -         1193   20    0 
+Smooth-B  965433429  8  1 Bf  Q     -     -         1173    5    0 
+Smooth-B  965674747  9  6 f   -     -     -         1168    0    0 
+Smooth-B  965674798  9  5 c   r     f     -         1168   40    0 
+Smooth-B  965674895 10  4 f   -     -     -         1128    0    0 
+Smooth-B  965674944 10  3 f   -     -     -         1128    0    0 
+Smooth-B  965675013 10  2 Bf  -     -     -         1128   10    0 
+Smooth-B  965675064 10  1 Bf  -     -     -         1118    5    0 
+Smooth-B  965675151 10 10 c   c     k     c         1113   40  160 7h 7c
+Smooth-B  965675227 10  9 f   -     -     -         1233    0    0 
+Smooth-B  965675277 10  8 c   cr    rr    c         1233  170  660 Ac Tc
+Smooth-B  965675398 10  7 f   -     -     -         1723    0    0 
+Smooth-B  965675444 10  6 f   -     -     -         1723    0    0 
+Smooth-B  965675504  9  4 f   -     -     -         1723    0    0 
+Smooth-B  965675568  8  3 f   -     -     -         1723    0    0 
+Smooth-B  965675629  7  1 Bk  kf    -     -         1723   10    0 
+Smooth-B  965675658  6  1 Bc  bc    kc    kf        1713   50    0 
+Smooth-B  965675716  5  5 f   -     -     -         1663    0    0 
+Smooth-B  965675742  5  4 r   -     -     -         1663   20   35 
+Smooth-B  965675763  5  3 f   -     -     -         1678    0    0 
+Smooth-B  965675798  5  2 Bf  -     -     -         1678   10    0 
+Smooth-B  965675825  5  1 Bc  k     k     k         1668   10   10 2c 8h
+Smooth-B  965675855  5  5 f   -     -     -         1668    0    0 
+Smooth-B  965675864  5  4 f   -     -     -         1668    0    0 
+Smooth-B  965675895  5  3 r   -     -     -         1668   20   35 
+Smooth-B  965675921  5  2 Bk  k     k     k         1683   10    0 Ks Td
+Smooth-B  965675944  5  1 Bf  -     -     -         1673    5    0 
+Smooth-B  965675983  5  5 f   -     -     -         1668    0    0 
+Smooth-B  965676030  5  4 c   b     k     k         1668   20    0 6s 6d
+Smooth-B  965676068  5  3 r   b     f     -         1648   30    0 
+Smooth-B  965676114  5  2 Bk  kc    kf    -         1618   20    0 
+Smooth-B  965676157  5  1 Bcc kf    -     -         1598   20    0 
+Smooth-B  965676197  5  5 f   -     -     -         1578    0    0 
+Smooth-B  965676223  5  4 c   k     c     k         1578   40  140 7d 7c
+Smooth-B  965676254  6  4 f   -     -     -         1678    0    0 
+Smooth-B  965676283  6  3 r   -     -     -         1678   20   35 
+Smooth-B  965676298  5  2 Bk  k     k     kf        1693   10    0 
+Smooth-B  965676349  3  1 Bcc b     bc    kc        1683   90    0 5h 5c
+Smooth-B  965676389  5  5 f   -     -     -         1593    0    0 
+Smooth-B  965676423  5  4 f   -     -     -         1593    0    0 
+Smooth-B  965676449  6  4 rc  c     kf    -         1593   40    0 
+Smooth-B  965676487  6  3 f   -     -     -         1553    0    0 
+Smooth-B  965676508  6  2 Bk  k     kf    -         1553   10    0 
+Smooth-B  965676540  6  1 Bf  -     -     -         1543    5    0 
+Smooth-B  965676582  6  6 f   -     -     -         1538    0    0 
+Smooth-B  965676626  6  5 f   -     -     -         1538    0    0 
+Smooth-B  965676655  6  5 f   -     -     -         1538    0    0 
+Smooth-B  965676709  5  3 f   -     -     -         1538    0    0 
+Smooth-B  965676744  5  2 Bf  -     -     -         1538   10    0 
+Smooth-B  965676772  5  1 Bc  kf    -     -         1528   20    0 
+Smooth-B  965676807  5  5 f   -     -     -         1508    0    0 
+Smooth-B  965676833  4  3 f   -     -     -         1508    0    0 
+Smooth-B  965676841  4  2 Bk  kf    -     -         1508   10    0 
+Smooth-B  965676857  4  1 Bc  k     k     k         1498   10    0 Qs 9s
+Smooth-B  965676883  4  4 r   -     -     -         1488   20   35 
+Smooth-B  965676892  4  3 r   k     f     -         1503   20    0 
+Smooth-B  965676915  5  2 Bk  k     f     -         1483   10    0 
+Smooth-B  965676943  5  1 B   -     -     -         1473    5   15 
+Smooth-B  965676949  4  4 f   -     -     -         1483    0    0 
+Smooth-B  965676988  3  3 f   -     -     -         1483    0    0 
+Smooth-B  965677004  4  2 Bf  -     -     -         1483   10    0 
+Smooth-B  965677022  4  1 Bc  kf    -     -         1473   10    0 
+Smooth-B  965677040  4  4 rc  rc    c     c         1463  100    0 9d Qs
+Smooth-B  965677082  4  3 rc  b     k     f         1363   40    0 
+Smooth-B  965677130  6  4 f   -     -     -         1323    0    0 
+Smooth-B  965677189  5  2 c   kf    -     -         1323   10    0 
+Smooth-B  965677249  5  2 Bk  k     k     k         1313   10    0 9c 8h
+Smooth-B  965677296  5  1 Bf  -     -     -         1303    5    0 
+Smooth-B  965677304  6  6 f   -     -     -         1298    0    0 
+Smooth-B  965677356  6  5 f   -     -     -         1298    0    0 
+Smooth-B  965677396  6  4 f   -     -     -         1298    0    0 
+Smooth-B  965677443  5  2 f   -     -     -         1298    0    0 
+Smooth-B  965677479  4  2 Bk  k     c     c         1298   50    0 Js 5c
+Smooth-B  965677527  3  1 Br  k     bc    kc        1248   80    0 Qs 7c
+Smooth-B  965677550  3  3 r   b     k     c         1168   50    0 6d 6c
+Smooth-B  965677576  3  2 Bk  k     c     c         1118   50  110 6h 2s
+Smooth-B  965677600  3  1 Bc  b     k     k         1178   20    0 7d Ad
+Smooth-B  965677621  3  3 r   b     k     f         1158   30    0 
+Smooth-B  965677644  3  2 Bk  k     k     k         1128   10    0 7d Qs
+Smooth-B  965677658  3  1 Bc  kf    -     -         1118   10    0 
+Smooth-B  965677682  4  3 r   b     b     -         1108   50   85 
+Smooth-B  965677697  4  2 Bk  bc    kc    bf        1143   70    0 
+Smooth-B  965677749  4  1 Br  k     b     b         1073   60  120 
+Smooth-B  965677778  3  3 f   -     -     -         1133    0    0 
+Smooth-B  965677783  3  2 Bk  b     b     k         1133   40    0 4s Ad
+Smooth-B  965677802  4  1 Bf  -     -     -         1093    5    0 
+Smooth-B  965677847  4  4 c   k     k     k         1088   10    0 6d 9d
+Smooth-B  965677892  6  5 f   -     -     -         1078    0    0 
+Smooth-B  965677941  6  4 f   -     -     -         1078    0    0 
+Smooth-B  965677966  5  2 Bk  k     k     k         1078   10   25 Jd 9c
+Smooth-B  965677980  5  1 Bf  -     -     -         1093    5    0 
+Smooth-B  965678009  5  5 r   b     b     -         1088   50   85 
+Smooth-B  965678025  6  5 f   -     -     -         1123    0    0 
+Smooth-B  965678059  6  4 f   -     -     -         1123    0    0 
+Smooth-B  965678071  6  3 f   -     -     -         1123    0    0 
+Smooth-B  965678091  6  2 Bk  kf    -     -         1123   10    0 
+Smooth-B  965678118  7  1 Bf  -     -     -         1113    5    0 
+Smooth-B  965678142  7  7 f   -     -     -         1108    0    0 
+Smooth-B  965678165  6  5 f   -     -     -         1108    0    0 
+Smooth-B  965678181  6  4 f   -     -     -         1108    0    0 
+Smooth-B  965678217  6  3 cc  c     r     b         1108   90    0 Qh Jd
+Smooth-B  965678255  6  2 Bk  kc    bc    k         1018   60  150 5h Qc
+Smooth-B  965678287  6  1 Bf  -     -     -         1108    5    0 
+Smooth-B  965678325  6  6 f   -     -     -         1103    0    0 
+Smooth-B  965678351  6  5 f   -     -     -         1103    0    0 
+Smooth-B  965678389  5  3 f   -     -     -         1103    0    0 
+Smooth-B  965678402  5  2 Bf  -     -     -         1103   10    0 
+Smooth-B  965678424  4  1 Bc  kf    -     -         1093   10    0 
+Smooth-B  965678449  4  4 f   -     -     -         1083    0    0 
+Smooth-B  965678455  3  3 f   -     -     -         1083    0    0 
+Smooth-B  965678464  3  2 Bk  kf    -     -         1083   10    0 
+Smooth-B  965678476  3  1 Bf  -     -     -         1073    5    0 
+Smooth-B  965678496  3  3 r   k     k     f         1068   20    0 
+Smooth-B  965678515  4  2 Bk  b     kc    kf        1048   40    0 
+Smooth-B  965678557  4  1 Bf  -     -     -         1008    5    0 
+Smooth-B  965678571  4  4 f   -     -     -         1003    0    0 
+Smooth-B  965678588  4  3 rc  k     f     -         1003   30    0 
+Smooth-B  965678616  4  2 Bc  b     k     b          973   50  135 3h 3d
+Smooth-B  965678637  4  1 Bf  -     -     -         1058    5    0 
+Smooth-B  965678661  4  4 f   -     -     -         1053    0    0 
+Smooth-B  965678676  4  3 r   b     b     k         1053   50  105 Ac Jh
+Smooth-B  965678695  4  2 Bc  b     b     k         1108   50    0 Ts Td
+Smooth-B  965678727  5  1 Bc  k     b     b         1058   50  100 
+Smooth-B  965678768  4  4 c   r     f     -         1108   40    0 
+Smooth-B  965678789  5  4 f   -     -     -         1068    0    0 
+Smooth-B  965678817  5  3 r   c     c     r         1068   90  230 Kc Kd
+Smooth-B  965678850  5  2 Bk  KQ    -     -         1208   10    0 
+Smooth-B  965678955  5  2 BQ  -     -     -         1198   10    0 
+Smooth-B  965679665  3  2 BKQ -     -     -         1188   10    0 
+Smooth-B  965679826  5  3 f   -     -     -         1178    0    0 
+Smooth-B  965679879  5  2 Br  k     b     b         1178   60  125 As Qc
+Smooth-B  965679922  5  1 Bc  b     b     k         1243   40    0 Jh 6h
+Smooth-B  965679952  5  5 c   b     r     c         1203   90  102 Qd Ah
+Smooth-B  965679990  5  4 f   -     -     -         1215    0    0 
+Smooth-B  965680013  6  3 f   -     -     -         1215    0    0 
+Smooth-B  965680035  7  2 Bk  kc    kf    -         1215   20    0 
+Smooth-B  965680069  7  1 Bf  -     -     -         1195    5    0 
+Smooth-B  965680084  7  7 f   -     -     -         1190    0    0 
+Smooth-B  965680165  8  7 cc  f     -     -         1190   20    0 
+Smooth-B  965680209  8  6 f   -     -     -         1170    0    0 
+Smooth-B  965680261  8  5 ccc brc   kc    bc        1170  140    0 7h 7s
+Smooth-B  965680336  7  4 cc  cc    f     -         1030   60    0 
+Smooth-B  965680399  8  3 c   k     f     -          970   10    0 
+Smooth-B  965680445  8  2 Bk  b     bc    kc         960   80  290 Jh Js
+Smooth-B  965680499  8  1 Bc  b     kf    -         1170   20    0 
+Smooth-B  965680535  8  8 f   -     -     -         1150    0    0 
+Smooth-B  965680585  9  8 f   -     -     -         1150    0    0 
+Smooth-B  965680605  9  7 cc  b     b     k         1150   50  205 Js Jd
+Smooth-B  965680656  9  6 f   -     -     -         1305    0    0 
+Smooth-B  965680703  9  5 f   -     -     -         1305    0    0 
+Smooth-B  965680737  9  4 f   -     -     -         1305    0    0 
+Smooth-B  965680796  9  3 cc  kf    -     -         1305   20    0 
+Smooth-B  965680839  9  2 Bf  -     -     -         1285   10    0 
+Smooth-B  965680870  9  1 Bf  -     -     -         1275    5    0 
+Smooth-B  965680894  9  9 f   -     -     -         1270    0    0 
+Smooth-B  965680939  9  8 cc  rc    rr    b         1270  150  370 Kh 2h
+Smooth-B  965680996  9  7 cc  kf    -     -         1490   20    0 
+Smooth-B  965681080  9  6 f   -     -     -         1470    0    0 
+Smooth-B  965681110  9  5 f   -     -     -         1470    0    0 
+Smooth-B  965681137  9  4 f   -     -     -         1470    0    0 
+Smooth-B  965681183  9  3 f   -     -     -         1470    0    0 
+Smooth-B  965681235  7  2 Bf  -     -     -         1470   10    0 
+Smooth-B  965681268  7  1 Bf  -     -     -         1460    5    0 
+Smooth-B  965681328  7  7 f   -     -     -         1455    0    0 
+Smooth-B  965681357  7  6 r   b     -     -         1455   30   75 
+Smooth-B  965681386  7  5 f   -     -     -         1500    0    0 
+Smooth-B  965681449  7  4 cc  kc    kc    kf        1500   50    0 
+Smooth-B  965681483  8  3 cr  bc    b     b         1450   90  245 
+Smooth-B  965681533  8  2 Bf  -     -     -         1605   10    0 
+Smooth-B  965681572  9  1 Bf  -     -     -         1595    5    0 
+Smooth-B  965681623  9  9 f   -     -     -         1590    0    0 
+Smooth-B  965681672  9  8 f   -     -     -         1590    0    0 
+Smooth-B  965681741 10  8 f   -     -     -         1590    0    0 
+Smooth-B  965681799 10  7 cc  f     -     -         1590   20    0 
+Smooth-B  965681867 10  6 f   -     -     -         1570    0    0 
+Smooth-B  965681940 10  6 f   -     -     -         1570    0    0 
+Smooth-B  965681988 10  4 f   -     -     -         1570    0    0 
+Smooth-B  965682074  9  3 f   -     -     -         1570    0    0 
+Smooth-B  965682104 10  2 Bc  kf    -     -         1570   20    0 
+Smooth-B  965682146  9  1 Bcc kc    kc    k         1550   70  300 Qd Kc
+Smooth-B  965682212 10 10 f   -     -     -         1780    0    0 
+Smooth-B  965682271 10  9 rc  bc    c     k         1780   80    0 4c Ac
+Smooth-B  965682333 10  8 f   -     -     -         1700    0    0 
+Smooth-B  965682404 10  7 cc  cc    f     -         1700   80    0 
+Smooth-B  965682470 10  6 cc  kf    -     -         1620   20    0 
+Smooth-B  965682530 10  5 f   -     -     -         1600    0    0 
+Smooth-B  965682602 10  4 f   -     -     -         1600    0    0 
+Smooth-B  965682621 10  3 cc  k     b     k         1600   40    0 3s As
+Smooth-B  965682685 10  2 Bf  -     -     -         1560   10    0 
+Smooth-B  965682738 10  1 Bf  -     -     -         1550    5    0 
+Smooth-B  965682778 10 10 c   c     f     -         1545   30    0 
+Smooth-B  965682820 10  9 f   -     -     -         1515    0    0 
+Smooth-B  965682864 10  8 c   f     -     -         1515   20    0 
+Smooth-B  965682935 10  7 f   -     -     -         1495    0    0 
+Smooth-B  965682995 10  6 f   -     -     -         1495    0    0 
+Smooth-B  965683045 10  5 f   -     -     -         1495    0    0 
+Smooth-B  965683138  8  3 cc  bc    kc    kf        1495   60    0 
+Smooth-B  965683183  9  2 Bf  -     -     -         1435   10    0 
+Smooth-B  965683230  8  1 Bf  -     -     -         1425    5    0 
+Smooth-B  965683255  8  8 ccc rr    c     rr        1420  200  755 7c 7d
+Smooth-B  965683347  8  7 f   -     -     -         1975    0    0 
+Smooth-B  965683417  7  5 f   -     -     -         1975    0    0 
+Smooth-B  965683475  9  6 cc  rc    c     c         1975  105    0 8d 8s
+Smooth-B  965683532  8  5 f   -     -     -         1870    0    0 
+Smooth-B  965683618  9  4 cc  cr    ccc   f         1870  140    0 
+Smooth-B  965683686 10  3 cc  kf    -     -         1730   20    0 
+Smooth-B  965683734 10  2 Bc  kf    -     -         1710   40    0 
+Smooth-B  965683813 10  1 BKQ -     -     -         1670    5    0 
+Smooth-B  965683967  8  2 Bc  kf    -     -         1665   20    0 
+Smooth-B  965684035  8  1 Bf  -     -     -         1645    5    0 
+Smooth-B  965684087  8  8 f   -     -     -         1640    0    0 
+Smooth-B  965684162  7  6 f   -     -     -         1640    0    0 
+Smooth-B  965684196  8  6 f   -     -     -         1640    0    0 
+Smooth-B  965684245  8  5 f   -     -     -         1640    0    0 
+Smooth-B  965684287  8  4 f   -     -     -         1640    0    0 
+Smooth-B  965684354 10  5 cc  f     -     -         1640   20    0 
+Smooth-B  965684423 10  4 cc  bc    kcc   kc        1620  130    0 Th Td
+Smooth-B  965684484 10  3 f   -     -     -         1490    0    0 
+Smooth-B  965684555 10  2 Bf  -     -     -         1490   10    0 
+Smooth-B  965684646 10  1 Bf  -     -     -         1480    5    0 
+Smooth-B  965684671 10 10 f   -     -     -         1475    0    0 
+Smooth-B  965684742 10  9 f   -     -     -         1475    0    0 
+Smooth-B  965684782 10  8 f   -     -     -         1475    0    0 
+Smooth-B  965684836 10  7 f   -     -     -         1475    0    0 
+Smooth-B  965684919 10  6 ccc ccc   f     -         1475   80    0 
+Smooth-B  965685011 10  5 cc  krr   brc   kc        1395  160  345 Ac Kc
+Smooth-B  965685062 10  4 cc  c     c     c         1580   80    0 8s 8d
+Smooth-B  965685133 10  4 f   -     -     -         1500    0    0 
+Smooth-B  965685326 10  2 Bf  -     -     -         1500   10    0 
+Smooth-B  965685404  8  1 Bc  bc    krc   b         1490  120    0 6s 6d
+Smooth-B  965685440  8  8 f   -     -     -         1370    0    0 
+Smooth-B  965685460  8  7 f   -     -     -         1370    0    0 
+Smooth-B  965685492  9  7 f   -     -     -         1370    0    0 
+Smooth-B  965685518 10  7 f   -     -     -         1370    0    0 
+Smooth-B  965685582  8  5 f   -     -     -         1370    0    0 
+Smooth-B  965685613  9  4 f   -     -     -         1370    0    0 
+Smooth-B  965685692  7  3 f   -     -     -         1370    0    0 
+Smooth-B  965685727  6  2 Bk  kc    bc    kf        1370   60    0 
+Smooth-B  965685760  7  1 Bc  kc    kc    kc        1310   70    0 Qd Ks
+Smooth-B  965685827  6  6 f   -     -     -         1240    0    0 
+Smooth-B  965685873  7  6 f   -     -     -         1240    0    0 
+Smooth-B  965685954  7  5 f   -     -     -         1240    0    0 
+Smooth-B  965685988  7  4 f   -     -     -         1240    0    0 
+Smooth-B  965686025  6  2 Bf  -     -     -         1240   10    0 
+Smooth-B  965686079  6  1 Bc  kf    -     -         1230   20    0 
+Smooth-B  965686131  5  5 f   -     -     -         1210    0    0 
+Smooth-B  965686170  5  5 f   -     -     -         1210    0    0 
+Smooth-B  965686231  6  4 rc  c     c     c         1210   90    0 Ah Jd
+Smooth-B  965686283  6  3 cc  krc   kf    -         1120   50    0 
+Smooth-B  965686371  5  2 Bf  -     -     -         1070   10    0 
+Smooth-B  965686410  5  1 Bcc kc    kc    kc        1060   90    0 9c Ac
+Smooth-B  965686470  4  4 f   -     -     -          970    0    0 
+Smooth-B  965686498  4  3 f   -     -     -          970    0    0 
+Smooth-B  965686529  4  2 Bf  -     -     -          970   10    0 
+Smooth-B  965686557  4  1 Bc  b     b     b          960   60  130 Qh Jh
+Smooth-B  965686580  4  4 f   -     -     -         1030    0    0 
+Smooth-B  965686599  4  3 rc  bc    bcc   ccc       1030  210    0 Kd Th
+Smooth-B  965686644  4  2 Bk  f     -     -          820   10    0 
+Smooth-B  965686727  4  1 Bf  -     -     -          810    5    0 
+Smooth-B  965686753  4  4 c   rc    cc    c          805  160    0 5c 5s
+Smooth-B  965686794  4  3 c   kc    kf    -          645   20    0 
+Smooth-B  965686827  4  2 Bf  -     -     -          625   10    0 
+Smooth-B  965686843  4  1 Bf  -     -     -          615    5    0 
+Smooth-B  965686873  4  4 f   -     -     -          610    0    0 
+Smooth-B  965686897  4  3 f   -     -     -          610    0    0 
+Smooth-B  965686916  4  2 Bk  kc    bc    kc         610   80    0 6c 2h
+Smooth-B  965686967  4  1 Bc  krr   krc   krr        530  210  630 Td Kc
+Smooth-B  965687020  4  4 f   -     -     -          950    0    0 
+Smooth-B  965687060  4  3 f   -     -     -          950    0    0 
+Smooth-B  965687076  3  2 Bk  b     bc    c          950   80    0 2h Kd
+Smooth-B  965687097  3  1 Bc  kf    -     -          870   10    0 
+Smooth-B  965687136  3  3 f   -     -     -          860    0    0 
+Smooth-B  965687152  4  2 Bk  f     -     -          860   10    0 
+Smooth-B  965687177  4  1 Bc  krc   bc    b          850  120  420 8s Qs
+Smooth-B  965687215  4  4 f   -     -     -         1150    0    0 
+Smooth-B  965687242  6  5 f   -     -     -         1150    0    0 
+Smooth-B  965687277  7  5 f   -     -     -         1150    0    0 
+Smooth-B  965687349  8  5 f   -     -     -         1150    0    0 
+Smooth-B  965687407  9  5 f   -     -     -         1150    0    0 
+Smooth-B  965687468  9  5 f   -     -     -         1150    0    0 
+Smooth-B  965687518  5  2 Br  b     -     -         1150   30   60 
+Smooth-B  965687542  5  1 Bf  -     -     -         1180    5    0 
+Smooth-B  965687563  5  5 f   -     -     -         1175    0    0 
+Smooth-B  965687586  5  4 c   c     rc    c         1175  120    0 9h Kc
+Smooth-B  965687638  5  3 f   -     -     -         1055    0    0 
+Smooth-B  965687693  7  2 Bk  kf    -     -         1055   10    0 
+Smooth-B  965687739  8  1 Bf  -     -     -         1045    5    0 
+Smooth-B  965687789  8  8 f   -     -     -         1040    0    0 
+Smooth-B  965687830  9  8 f   -     -     -         1040    0    0 
+Smooth-B  965687879  9  7 rr  cc    bc    kc        1040  120    0 Qd Qh
+Smooth-B  965687971  8  5 f   -     -     -          920    0    0 
+Smooth-B  965688066  9  5 f   -     -     -          920    0    0 
+Smooth-B  965688105  9  4 cr  br    b     bc         920  120    0 Kh Kd
+Smooth-B  965688168  9  3 c   f     -     -          800   10    0 
+Smooth-B  965688218  9  2 Bf  -     -     -          790   10    0 
+Smooth-B  965688309  9  1 Bf  -     -     -          780    5    0 
+Smooth-B  965688392  7  7 f   -     -     -          775    0    0 
+Smooth-B  965688437  6  6 f   -     -     -          775    0    0 
+Smooth-B  965688483  7  5 f   -     -     -          775    0    0 
+Smooth-B  965688518  8  4 f   -     -     -          775    0    0 
+Smooth-B  965688568  8  3 fQ  -     -     -          775    0    0 
+Smooth-B  965769806 10  6 f   -     -     -          775    0    0 
+Smooth-B  965769846 10  5 f   -     -     -          775    0    0 
+Smooth-B  965769915 10  4 f   -     -     -          775    0    0 
+Smooth-B  965769972 10  3 c   kf    -     -          775   10    0 
+Smooth-B  965770017 10  2 Bf  -     -     -          765   10    0 
+Smooth-B  965770105 10  1 Bf  -     -     -          755    5    0 
+Smooth-B  965770191 10 10 r   k     c     k          750   40    0 As Qs
+Smooth-B  965770295 10  9 f   -     -     -          710    0    0 
+Smooth-B  965770410  9  7 f   -     -     -          710    0    0 
+Smooth-B  965770491  9  6 f   Q     -     -          710    0    0 
+Smooth-B  966993844 10  2 BKQ -     -     -          810   10    0 
+Smooth-B  967752990 10  4 f   -     -     -         1250    0    0 
+Smooth-B  967753086  8  3 f   -     -     -         1250    0    0 
+Smooth-B  967753127  8  2 Bk  b     kc    kf        1250   40    0 
+Smooth-B  967753173  8  1 Bf  -     -     -         1210    5    0 
+Smooth-B  967753207  8  8 f   -     -     -         1205    0    0 
+Smooth-B  967753270  9  8 f   -     -     -         1205    0    0 
+Smooth-B  967753316 10  8 r   b     b     bc        1205   90    0 Jc Jh
+Smooth-B  967753398 10  7 f   -     -     -         1115    0    0 
+Smooth-B  967753470 10  6 f   -     -     -         1115    0    0 
+Smooth-B  967753498 10  5 f   -     -     -         1115    0    0 
+Smooth-B  967753602 10  4 f   -     -     -         1115    0    0 
+Smooth-B  967753628 10  3 f   -     -     -         1115    0    0 
+Smooth-B  967753678 10  2 Bk  b     b     -         1115   40   65 
+Smooth-B  967753714 10  1 Bc  k     k     kf        1140   10    0 
+Smooth-B  967753779 10 10 f   -     -     -         1130    0    0 
+Smooth-B  967753859 10  9 c   b     rc    c         1130  100    0 8d 8h
+Smooth-B  967753934 10  8 f   -     -     -         1030    0    0 
+Smooth-B  967754007 10  7 f   -     -     -         1030    0    0 
+Smooth-B  967754066 10  6 f   -     -     -         1030    0    0 
+Smooth-B  967754117 10  5 f   -     -     -         1030    0    0 
+Smooth-B  967754220 10  4 f   -     -     -         1030    0    0 
+Smooth-B  967754264 10  3 f   -     -     -         1030    0    0 
+Smooth-B  967754304 10  2 Bk  KQ    -     -         1030   10    0 

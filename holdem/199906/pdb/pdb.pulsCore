@@ -1,0 +1,320 @@
+pulsCore  928604586 10  6 c   kc    kf    -         1000   20    0 
+pulsCore  928604633 10  5 rc  kc    kc    f          980   70    0 
+pulsCore  928604704 10  4 r   r     f     -          910   40    0 
+pulsCore  928604801 10  3 f   -     -     -          870    0    0 
+pulsCore  928604880  9  2 Bc  f     -     -          870   20    0 
+pulsCore  928604944 10  1 Bf  -     -     -          850    5    0 
+pulsCore  928605024 10 10 rr  r     r     f          845  100    0 
+pulsCore  928605134 10  9 r   c     r     c          745  110    0 Js 8c
+pulsCore  928605211 10  8 c   r     r     b          635  100  320 9h 4s
+pulsCore  928605279 10  7 f   -     -     -          855    0    0 
+pulsCore  928605378 10  6 c   f     -     -          855   10    0 
+pulsCore  928605442 10  5 r   kc    kcc   kc         845  130    0 9s Kd
+pulsCore  928605535  9  4 r   b     b     b          715   70  260 
+pulsCore  928605597 10  3 r   brc   brc   bc         905  180  405 Ac Ts
+pulsCore  928605647 10  2 Br  br    b     b         1130   90  250 7d Ah
+pulsCore  928605697 10  1 Bc  kf    -     -         1290   20    0 
+pulsCore  928605768 10 10 r   rr    rr    r         1270  180  445 Kh Kd
+pulsCore  928605803 10  9 cc  r     k     cf        1535   60    0 
+pulsCore  928605887 10  8 f   -     -     -         1475    0    0 
+pulsCore  928605929 10  7 r   k     kf    -         1475   20    0 
+pulsCore  928605967 10  6 c   kf    -     -         1455   20    0 
+pulsCore  928606009 10  5 c   kr    b     b         1435   80  305 
+pulsCore  928606079 10  4 r   br    kc    kf        1660   70    0 
+pulsCore  928606124 10  3 f   -     -     -         1590    0    0 
+pulsCore  928606186 10  2 Br  kcc   kcc   kf        1590  120    0 
+pulsCore  928606295 10  1 Bc  Q     -     -         1470   20    0 
+pulsCore  928758264  2  2 BQ  -     -     -         1252   10    0 
+pulsCore  928758477  4  2 Br  b     b     b         1242   70  125 
+pulsCore  928758538  4  1 Bc  kc    k     k         1297   30   70 Ad Tc
+pulsCore  928758563  4  4 c   r     b     b         1337   80  220 Qh Th
+pulsCore  928758593  4  3 f   -     -     -         1477    0    0 
+pulsCore  928758609  4  2 B   -     -     -         1477   10   15 
+pulsCore  928758613  3  1 Br  k     k     k         1482   20    0 Kd 6h
+pulsCore  928758640  3  3 r   b     b     bc        1462   90    0 Ad 5h
+pulsCore  928758677  3  2 B   -     -     -         1372   10   15 
+pulsCore  928758685  3  1 Bf  -     -     -         1377    5    0 
+pulsCore  928758700  3  3 c   k     b     b         1372   50   90 
+pulsCore  928758725  3  2 Bk  b     -     -         1412   20   30 
+pulsCore  928758739  3  1 Bc  k     kf    -         1422   10    0 
+pulsCore  928758759  3  3 r   r     r     b         1412  100    0 Qc Qh
+pulsCore  928758786  3  2 Bk  k     k     k         1312   10   30 9h 4h
+pulsCore  928758824  3  1 Br  k     b     b         1332   60    0 2s 2h
+pulsCore  928758862  3  3 Q   -     -     -         1272    0    0 
+pulsCore  928765527  2  1 Bc  k     k     b         1272   30   40 
+pulsCore  928765565  2  2 Br  k     f     -         1282   30    0 
+pulsCore  928765576  2  1 Br  b     -     -         1252   30   50 
+pulsCore  928765586  2  2 B   -     -     -         1272   10   15 
+pulsCore  928765588  2  1 Br  -     -     -         1277   20   30 
+pulsCore  928765592  2  2 B   -     -     -         1287   10   15 
+pulsCore  928765594  2  1 Br  -     -     -         1292   20   30 
+pulsCore  928765597  2  2 Br  r     -     -         1302   50   90 
+pulsCore  928765606  2  1 Br  b     b     b         1342   70    0 7c 8c
+pulsCore  928765618  2  2 Br  k     f     -         1272   30    0 
+pulsCore  928765631  2  1 Bf  -     -     -         1242    5    0 
+pulsCore  928765634  3  3 f   -     -     -         1237    0    0 
+pulsCore  928765639  3  2 B   -     -     -         1237   10   15 
+pulsCore  928765683  2  1 Bc  kf    -     -         1242   10    0 
+pulsCore  928765693  2  2 B   -     -     -         1232   10   15 
+pulsCore  928765695  2  1 Br  -     -     -         1237   20   30 
+pulsCore  928765698  2  2 Bc  c     c     c         1247   70    0 6s 5s
+pulsCore  928765723  2  1 Bf  -     -     -         1177    5    0 
+pulsCore  928765727  2  2 B   -     -     -         1172   10   15 
+pulsCore  928765730  2  1 Bc  b     -     -         1177   20   30 
+pulsCore  928765738  2  2 Bf  -     -     -         1187   10    0 
+pulsCore  928765742  2  1 Bf  -     -     -         1177    5    0 
+pulsCore  928765745  2  2 Br  f     -     -         1172   30    0 
+pulsCore  928765752  2  1 Br  -     -     -         1142   20   30 
+pulsCore  928765757  2  2 B   -     -     -         1152   10   15 
+pulsCore  928765759  2  1 Br  kc    krr   b         1157  130  260 Qh 7h
+pulsCore  928765800  2  2 Bf  -     -     -         1287   10    0 
+pulsCore  928765807  2  1 Bcc kc    b     b         1277   70    0 Jh Kd
+pulsCore  928765830  4  4 cc  c     c     c         1207   90    0 Jd Tc
+pulsCore  928765864  4  3 f   -     -     -         1117    0    0 
+pulsCore  928765902  4  2 Bc  crc   kc    kc        1117  140    0 8s Th
+pulsCore  928765963  4  1 Br  kc    br    b          977  130    0 Qs 7d
+pulsCore  928766023  4  4 c   r     c     f          847   60    0 
+pulsCore  928766073  4  3 rc  ccc   f     -          787   80    0 
+pulsCore  928766117  4  2 Brc rr    brc   rr         707  240  500 
+pulsCore  928766179  4  1 Bf  -     -     -          967    5    0 
+pulsCore  928766213  4  4 f   -     -     -          962    0    0 
+pulsCore  928766237  4  3 f   -     -     -          962    0    0 
+pulsCore  928766274  4  2 Brc c     rr    r          962  170    3 Kd 3s
+pulsCore  928766314  4  1 Brc brc   brc   kcc        795  240    0 5c Ks
+pulsCore  928766387  5  5 rc  c     c     r          555  114  293 2d Qh
+pulsCore  928766420  5  4 f   -     -     -          734    0    0 
+pulsCore  928766454  5  3 rr  brc   br    b          734  160  335 Jh Ks
+pulsCore  928766488  3  1 Bf  -     -     -          909   10    0 
+pulsCore  928766501  3  1 Bf  -     -     -          899    5    0 
+pulsCore  928766518  3  3 c   k     c     c          894   50    0 4h 5d
+pulsCore  928766537  3  2 Br  b     bc    c          844  110    0 8h 9c
+pulsCore  928766563  3  1 Br  -     -     -          734   20   30 
+pulsCore  928766571  3  3 r   k     f     -          744   20    0 
+pulsCore  928766585  3  2 Bf  -     -     -          724   10    0 
+pulsCore  928766596  3  1 Bf  -     -     -          714    5    0 
+pulsCore  928766601  3  3 c   k     k     k          709   10   30 8c 3s
+pulsCore  928766626  2  1 Bc  kc    k     kc         729   50    0 Qc 4s
+pulsCore  928766645  2  1 Bcc kc    kc    k          679   50    0 3c 4h
+pulsCore  928766664  2  2 Br  b     b     -          629   60  100 
+pulsCore  928766682  2  1 Br  -     -     -          669   20   30 
+pulsCore  928766687  2  2 B   -     -     -          679   10   15 
+pulsCore  928766690  2  1 Br  brc   bc    k          684  100    0 Jc 6s
+pulsCore  928766718  2  2 Bc  c     b     -          584   50   80 
+pulsCore  928766735  2  1 Bc  k     k     k          614   10   20 Td Qs
+pulsCore  928766750  2  2 Brc r     r     b          624  120  240 9c 9s
+pulsCore  928766775  3  1 Brc kc    kc    kc         744   80    0 Ad 9d
+pulsCore  928766807  4  4 c   k     f     -          664   10    0 
+pulsCore  928766826  4  3 cc  k     k     c          654   40    0 4c 9c
+pulsCore  928766855  4  2 Bk  k     b     -          614   30   40 
+pulsCore  928766887  4  1 Br  b     k     b          624   50  160 2c Kc
+pulsCore  928766919  4  4 f   -     -     -          734    0    0 
+pulsCore  928766928  5  3 f   -     -     -          734    0    0 
+pulsCore  928766970  6  3 c   c     k     k          734   20    0 5h 7h
+pulsCore  928766999  6  3 r   k     k     f          714   20    0 
+pulsCore  928767034  7  2 Bk  f     -     -          694   10    0 
+pulsCore  928767046  7  1 Bc  kf    -     -          684   10    0 
+pulsCore  928767088  7  7 r   c     f     -          674   30    0 
+pulsCore  928767119  7  6 r   b     -     -          644   30   85 
+pulsCore  928767215  8  6 c   f     -     -          699   10    0 
+pulsCore  928767254  9  6 cc  k     k     c          689   40    0 2h 3h
+pulsCore  928767303  9  5 f   -     -     -          649    0    0 
+pulsCore  928767363 10  5 c   b     k     kc         649   40    0 7s 7d
+pulsCore  928767426  9  4 f   -     -     -          609    0    0 
+pulsCore  928767472  9  3 rc  rc    c     cc         609  120    0 3c Ah
+pulsCore  928767523 10  2 Bf  -     -     -          489   10    0 
+pulsCore  928767541 10  1 BQ  -     -     -          479    5    0 
+pulsCore  928778534  9  5 cc  f     -     -          474   20    0 
+pulsCore  928778595  8  3 c   cc    kc    b          454   70  280 Jd 3s
+pulsCore  928778659  8  2 BQ  -     -     -          664   10    0 
+pulsCore  929031970  5  5 f   -     -     -         2225    0    0 
+pulsCore  929032009  6  5 c   f     -     -         2225   20    0 
+pulsCore  929032051  6  4 c   cc    cc    k         2205   70    0 5c Jh
+pulsCore  929032075  5  3 c   k     k     Q         2135   10    0 
+pulsCore  929086346  9  9 rc  c     c     k          775   70    0 Jc 9h
+pulsCore  929086403  9  3 Q   -     -     -          705    0    0 
+pulsCore  929093308  3  2 B   -     -     -          705   10   15 
+pulsCore  929093327  3  1 Br  k     k     k          710   20    0 9s Qs
+pulsCore  929093344  3  3 r   b     b     b          690   70    0 4s 4h
+pulsCore  929093395  3  2 Br  rr    c     c          620  110    0 Kd Ts
+pulsCore  929093460  2  1 Bc  k     b     b          510   50  100 8h Qs
+pulsCore  929093496  2  2 Bk  b     b     rc         560  100    0 8d 2c
+pulsCore  929093532  4  1 BQ  -     -     -          460    5    0 
+pulsCore  929124944 10  7 r   kc    kc    brc       1045  160  465 5s Ks
+pulsCore  929125001 10  6 r   k     r     b         1350   80  265 Ts As
+pulsCore  929125053 10  5 f   -     -     -         1535    0    0 
+pulsCore  929125080 10  4 cc  kc    kf    -         1535   30    0 
+pulsCore  929125157 10  3 cc  k     kc    k         1505   40   68 6h Qd
+pulsCore  929125201 10  2 Bc  kf    -     -         1533   20    0 
+pulsCore  929125238 10  1 Br  kc    krc   bc        1513  140    0 2h Ah
+pulsCore  929125278 10 10 r   c     c     f         1373   60    0 
+pulsCore  929125340 10  9 f   -     -     -         1313    0    0 
+pulsCore  929125388 10  8 f   -     -     -         1313    0    0 
+pulsCore  929125450  9  6 c   c     c     f         1313   50    0 
+pulsCore  929125530  9  5 f   -     -     -         1263    0    0 
+pulsCore  929125580 10  5 rc  c     k     cc        1263   90  117 Kh 8d
+pulsCore  929125649 10  4 c   cc    kc    kf        1290   60    0 
+pulsCore  929125701 10  3 cc  f     -     -         1230   30    0 
+pulsCore  929125774  9  2 BQ  -     -     -         1200   10    0 
+pulsCore  929195579 10  5 f   -     -     -         1005    0    0 
+pulsCore  929195625 10  4 cc  f     -     -         1005   30    0 
+pulsCore  929195693 10  3 rc  bc    kc    kf         975  130    0 
+pulsCore  929195756 10  2 Br  b     b     -          845   50   90 
+pulsCore  929195785 10  1 Bcc b     brc   kc         885  140    0 6h 8c
+pulsCore  929195866 10 10 r   bc    c     c          745   80    0 As Qh
+pulsCore  929195905  9  3 Q   -     -     -          665    0    0 
+pulsCore  929201531  6  2 Br  b     b     b          675   80    0 Ah 5h
+pulsCore  929201568  6  1 Br  k     k     k          595   20    0 9d Kc
+pulsCore  929201595  5  5 c   r     r     b          575  100  200 
+pulsCore  929201615  4  4 c   c     k     k          675   20   45 6c 5d
+pulsCore  929201639  2  2 Bk  c     c     k          700   40   80 7h 9c
+pulsCore  929201654  2  1 Bc  b     b     k          740   40   80 9h Kh
+pulsCore  929201671  2  2 Bk  f     -     -          780   10    0 
+pulsCore  929201685  2  1 Bc  kc    kc    k          770   40   40 6s 5h
+pulsCore  929201703  2  2 Bf  -     -     -          770   10    0 
+pulsCore  929201708  2  1 Br  b     b     b          760   70    0 4c 4s
+pulsCore  929201725  3  2 Bk  c     c     f          690   40    0 
+pulsCore  929201749  3  1 Bc  kf    -     -          650   10    0 
+pulsCore  929201760  3  3 rc  c     c     c          640   80    0 Qd 9h
+pulsCore  929201776  3  2 Br  k     b     b          560   60  140 Jh Ad
+pulsCore  929201833  3  1 Bc  k     k     kf         640   10    0 
+pulsCore  929201862  4  4 r   b     b     k          630   50  105 As 4c
+pulsCore  929201885  4  3 cc  k     c     k          685   40  120 9c 6h
+pulsCore  929201920  4  2 Bc  kf    -     -          765   20    0 
+pulsCore  929201942  4  1 Br  k     kc    kc         745   60  120 Ks Ad
+pulsCore  929201961  4  4 cc  f     -     -          805   20    0 
+pulsCore  929201986  4  3 cc  f     -     -          785   20    0 
+pulsCore  929202005  3  2 Br  b     b     k          765   60  125 Kh Js
+pulsCore  929202024  4  1 Bf  -     -     -          830    5    0 
+pulsCore  929202032  4  4 f   -     -     -          825    0    0 
+pulsCore  929202054  4  3 c   b     kc    kc         825   60    0 Kd 2h
+pulsCore  929202077  5  2 B   -     -     -          765   10   15 
+pulsCore  929202084  6  1 Bc  kr    b     b          770   80  180 Kh Td
+pulsCore  929202100  6  6 f   -     -     -          870    0    0 
+pulsCore  929202112  6  5 c   bc    k     b          870   60  195 Ts 2s
+pulsCore  929202145  6  4 ccc kc    br    b         1005  130  345 9d 8c
+pulsCore  929202182  5  2 f   -     -     -         1220    0    0 
+pulsCore  929202201  5  2 Bf  -     -     -         1220   10    0 
+pulsCore  929202229  4  1 Br  k     k     b         1210   40   40 Jc Qd
+pulsCore  929202250  3  3 cc  c     c     c         1210   70  150 9s Ts
+pulsCore  929202272  2  1 Bc  kc    bc    kc        1290   90    0 5d Ks
+pulsCore  929202291  2  1 Bcc k     k     bf        1200   40    0 
+pulsCore  929202309  2  2 Bf  -     -     -         1160   10    0 
+pulsCore  929202312  2  1 Bf  -     -     -         1150    5    0 
+pulsCore  929202314  2  2 Bf  -     -     -         1145   10    0 
+pulsCore  929202317  2  1 Brr b     b     b         1135   90    0 5s Ks
+pulsCore  929202329  2  2 Brc f     -     -         1045   40    0 
+pulsCore  929202345  2  1 Bf  -     -     -         1005    5    0 
+pulsCore  929202347  2  2 Br  k     b     rc        1000  100    0 Ah 8d
+pulsCore  929202364  2  1 B   -     -     -          900    5   15 
+pulsCore  929215825  9  4 cc  bc    kcc   k          920  140    0 6s Jd
+pulsCore  929215894  9  3 r   kc    kc    bc         780  110    0 3d Ad
+pulsCore  929215982  8  2 BQ  -     -     -          670   10    0 
+pulsCore  929216270  8  3 c   kf    -     -          660   10    0 
+pulsCore  929216323  9  2 Br  br    br    brc        650  220    0 Kh Ad
+pulsCore  929216421  9  1 Bf  -     -     -          430    5    0 
+pulsCore  929216491 10 10 rc  r     rc    rr         425  240    0 8d Ks
+pulsCore  929216591  9  8 r   b     b     f          185   50    0 
+pulsCore  929216651 10  8 rc  rc    r     bA         135  135    0 3c 9h
+pulsCore  929216774  8  8 c   c     f     -         1000   40    0 
+pulsCore  929216828  8  7 f   -     -     -          960    0    0 
+pulsCore  929216857  8  6 r   k     k     c          960   40    0 Tc Kd
+pulsCore  929216899  8  5 f   -     -     -          920    0    0 
+pulsCore  929216949  9  4 cc  kc    krr   b          920  150  525 
+pulsCore  929217053  8  3 cc  kc    b     k         1295   50    0 9s 5s
+pulsCore  929217107 10  2 Bk  k     kc    b         1245   70  220 Ac Js
+pulsCore  929217179  9  1 Bc  k     kf    -         1395   20    0 
+pulsCore  929217232  8  8 f   -     -     -         1375    0    0 
+pulsCore  929217283  8  6 cc  r     b     b         1375   80  370 Tc 9c
+pulsCore  929217342  8  5 f   -     -     -         1665    0    0 
+pulsCore  929217377  9  4 ccc c     f     -         1665   50    0 
+pulsCore  929217471  8  3 KQ  -     -     -         1615    0    0 
+pulsCore  929282119 10  2 Bk  b     b     b         1615   60  120 
+pulsCore  929282156  9  1 Bc  b     b     b         1675   60  150 5c 4h
+pulsCore  929282227  9  9 f   -     -     -         1765    0    0 
+pulsCore  929282278  9  8 cc  rc    c     k         1765   70    0 3s Kh
+pulsCore  929282351  9  7 c   k     b     -         1695   40  150 
+pulsCore  929282437  9  6 c   k     k     b         1805   30   65 
+pulsCore  929282515  9  5 f   -     -     -         1840    0    0 
+pulsCore  929282583  9  4 rc  kcf   -     -         1840   40    0 
+pulsCore  929282672  8  3 cc  bcc   b     b         1800  110  385 9c Th
+pulsCore  929282728  9  2 Bf  -     -     -         2075   10    0 
+pulsCore  929282792 10  1 Bf  -     -     -         2065    5    0 
+pulsCore  929282885  9  9 rc  b     c     cc        2060  100    0 Qs Ks
+pulsCore  929283007  8  7 r   c     c     c         1960   70  200 2s 2h
+pulsCore  929283077  8  7 r   k     k     r         2090   60  145 Ad Ks
+pulsCore  929283108  9  6 rc  k     k     c         2175   60    0 Kd As
+pulsCore  929283159 10  3 Q   -     -     -         2115    0    0 
+pulsCore  929307339  9  5 rc  br    brc   b          400  180    0 9c 7h
+pulsCore  929307414  9  4 r   k     b     b          220   60  145 Ks 6c
+pulsCore  929307443  8  3 r   b     b     b          305   70    0 Kc 4s
+pulsCore  929307489  8  2 Br  br    brc   b          235  180  483 Ks Th
+pulsCore  929307540  7  1 Brc kc    kc    kc         538   90    0 7d 2s
+pulsCore  929307574  8  8 c   rr    b     b          448   90    0 9d 7s
+pulsCore  929307630  9  8 rc  rc    r     rr         358  200    0 Js 8h
+pulsCore  929307745 10  8 rc  rr    b     b          158  120  425 9d Kc
+pulsCore  929307851 10  7 rc  f     -     -          463   40    0 
+pulsCore  929307915 10  6 f   -     -     -          423    0    0 
+pulsCore  929307981 10  5 cc  kf    -     -          423   20    0 
+pulsCore  929308070 10  4 cf  -     -     -          403   10    0 
+pulsCore  929308215 10  3 KQ  -     -     -          393    0    0 
+pulsCore  929569193  2  2 BQ  -     -     -          788   10    0 
+pulsCore  929812609  3  2 Bc  kc    brc   kc        1010  130    0 Jh 6d
+pulsCore  929812633  3  1 Br  br    b     b          880   90  180 
+pulsCore  929812660  5  5 cc  cc    c     rr         970  150    0 Ts 7c
+pulsCore  929812722  7  6 c   k     f     -          820   10    0 
+pulsCore  929812753  8  6 rc  b     b     b          810   90  205 
+pulsCore  929812789  8  5 c   f     -     -          925   10    0 
+pulsCore  929812853  8  4 c   bc    kc    kf         915   50    0 
+pulsCore  929812915 10  5 f   -     -     -          865    0    0 
+pulsCore  929812958 10  4 cc  rr    krr   b          865  180    0 5c 8d
+pulsCore  929813024 10  3 rc  b     kf    -          685   50    0 
+pulsCore  929813123 10  2 Brc br    br    b          635  150    0 6s 6c
+pulsCore  929813198  9  1 Br  b     brc   brc        485  200    0 Ac 2h
+pulsCore  929813255 10 10 rc  rc    rr    rr         285  240    0 5h 3h
+pulsCore  929813336 10  9 rr  cA    -     -           45   45  140 Td Ac
+pulsCore  929813393 10  8 rc  kc    kc    k          140   80    0 3c Ac
+pulsCore  929813464 10  7 r   b     bA    -           60   60  235 Jc Ad
+pulsCore  929813506 10  6 c   rr    c     c          235  100    0 6c Kd
+pulsCore  929813582 10  6 r   r     r     rA         135  135  410 2c 2s
+pulsCore  929813645  9  3 rc  br    b     bc         410  120    0 Jd Ad
+pulsCore  929813715 10  3 c   kf    -     -          290   10    0 
+pulsCore  929813758 10  2 Br  kc    br    kf         280   90    0 
+pulsCore  929813872 10  1 Brc br    br    b          190  180  750 Qc Ah
+pulsCore  929813970 10 10 c   c     c     f          760   60    0 
+pulsCore  929814050  9  8 r   c     cc    rr         700  180  600 Ad Tc
+pulsCore  929814141  9  7 f   -     -     -         1120    0    0 
+pulsCore  929814193  8  6 c   cc    kc    kc        1120   70    0 7h Kd
+pulsCore  929814263  9  5 c   kc    f     -         1050   20    0 
+pulsCore  929814339 10  5 cc  c     r     rr        1030  170  465 5s 4s
+pulsCore  929814400  9  4 Q   -     -     -         1325    0    0 
+pulsCore  929905657  5  4 rc  r     b     b         1325   90  280 6s 7s
+pulsCore  929905705  7  3 cc  kf    -     -         1515   20    0 
+pulsCore  929905746  7  2 Br  kc    kc    kf        1495   90    0 
+pulsCore  929905812  7  1 Bf  -     -     -         1405    5    0 
+pulsCore  929905829  7  7 r   k     c     c         1400   60    0 9d Ad
+pulsCore  929905868  7  6 f   -     -     -         1340    0    0 
+pulsCore  929905895  7  5 c   f     -     -         1340   10    0 
+pulsCore  929905943  7  4 cc  c     rr    rr        1330  190  410 Kd 8h
+pulsCore  929906004  6  3 f   -     -     -         1550    0    0 
+pulsCore  929906024  6  2 Bc  kc    kf    -         1550   30    0 
+pulsCore  929906050  6  1 Br  b     b     b         1520   80  210 Ks Qs
+pulsCore  929906084  6  6 r   k     b     rc        1650  100    0 Qs 9s
+pulsCore  929906114  7  6 r   b     b     b         1550   70  135 
+pulsCore  929906148  7  5 c   b     -     -         1615   20   35 
+pulsCore  929906167  7  4 c   rc    c     c         1630   80    0 Tc 3d
+pulsCore  929906185  7  3 c   k     bf    -         1550   30    0 
+pulsCore  929906220  7  2 Bk  kc    kc    kc        1520   60    0 Th 8s
+pulsCore  929906246  7  1 Bc  kc    kf    -         1460   20    0 
+pulsCore  929906270  8  8 r   k     b     b         1440   60  165 7s Ks
+pulsCore  929906323  9  8 c   k     k     f         1545   10    0 
+pulsCore  929906359 10  8 c   c     c     cc        1535  100    0 3h Qs
+pulsCore  929906414 10  8 cc  rr    b     rc        1435  160    0 5s 8h
+pulsCore  929906463  7  5 rc  r     rr    r         1275  180    0 Kc 6c
+pulsCore  929906507  7  4 f   -     -     -         1095    0    0 
+pulsCore  929906530  7  3 f   -     -     -         1095    0    0 
+pulsCore  929906560  7  2 Brc bc    kc    b         1095   90  270 Kc 5s
+pulsCore  929906625  7  1 Bc  bc    kc    k         1275   50    0 Jc 2s
+pulsCore  929906664  9  9 c   c     r     b         1225   90  260 5h Jh
+pulsCore  929906701  9  8 cc  kf    -     -         1395   20    0 
+pulsCore  929906769  9  7 r   k     k     c         1375   40  115 Kh 9h
+pulsCore  929906825  9  3 Q   -     -     -         1450    0    0 

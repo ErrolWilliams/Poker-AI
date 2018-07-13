@@ -1,0 +1,810 @@
+FloppyT   945737869 10 10 c   cc    f     -         1000   60    0 
+FloppyT   945737950 10  9 f   -     -     -          940    0    0 
+FloppyT   945737993 10  8 f   -     -     -          940    0    0 
+FloppyT   945738065 10  8 f   -     -     -          940    0    0 
+FloppyT   945738090  9  6 cc  k     k     k          940   20  105 8c 6c
+FloppyT   945738144  9  5 f   -     -     -         1025    0    0 
+FloppyT   945738187  9  4 c   kc    k     f         1025   20    0 
+FloppyT   945738276 10  3 f   -     -     -         1005    0    0 
+FloppyT   945738315 10  2 Bc  kc    cc    b         1005  110  380 As 3d
+FloppyT   945738393  9  1 Bc  kc    kc    k         1225   60    0 Ac 2c
+FloppyT   945738436  9  9 f   -     -     -         1155    0    0 
+FloppyT   945738472 10  8 f   -     -     -         1155    0    0 
+FloppyT   945738548 10  7 f   -     -     -         1150    0    0 
+FloppyT   945738607 10  6 f   -     -     -         1150    0    0 
+FloppyT   945738670 10  5 f   -     -     -         1360    0    0 
+FloppyT   945738756 10  4 f   -     -     -         1330    0    0 
+FloppyT   945738810 10  3 c   kf    -     -         1330   10    0 
+FloppyT   945738870 10  2 Bf  -     -     -         1300   10    0 
+FloppyT   945738924 10  1 Bf  -     -     -         1280    5    0 
+FloppyT   945738975 10 10 f   -     -     -         1235    0    0 
+FloppyT   945739042 10  9 f   -     -     -         1225    0    0 
+FloppyT   945739119 10  8 c   c     c     c         1180   60    0 Ts 9c
+FloppyT   945739197 10  7 cc  cc    c     b         1345   80  425 2s 2d
+FloppyT   945739286 10  6 f   -     -     -         1730    0    0 
+FloppyT   945739353 10  5 ccc cccc  cc    cc        1730  220    0 9d 9h
+FloppyT   945739553  8  5 f   -     -     -         1490    0    0 
+FloppyT   945739639  7  3 f   -     -     -         1485    0    0 
+FloppyT   945739688  7  2 Bk  f     -     -         1485   10    0 
+FloppyT   945739744  7  1 Bc  k     kf    -         1475   10    0 
+FloppyT   945739793  8  7 c   c     bc    c         1465   90    0 Jh Jc
+FloppyT   945739882  9  6 cc  f     -     -         1365   40    0 
+FloppyT   945739973  9  5 f   -     -     -         1325    0    0 
+FloppyT   945740051  7  2 Bf  -     -     -         1305   10    0 
+FloppyT   945740079  8  1 Bf  -     -     -         1295    5    0 
+FloppyT   945740145  9  9 f   -     -     -         1260    0    0 
+FloppyT   945740249  9  8 f   -     -     -         1250    0    0 
+FloppyT   945740318  9  7 f   -     -     -         1250    0    0 
+FloppyT   945743260 10  2 Bk  kc    kf    -         1170   20    0 
+FloppyT   945743318 10  1 Bc  k     kc    b         1150   60  190 Th 9h
+FloppyT   945743412  8  8 cc  c     c     r         1280   90  240 7s 7c
+FloppyT   945743448  8  7 cc  kf    -     -         1430   20    0 
+FloppyT   945743471  8  6 f   -     -     -         1410    0    0 
+FloppyT   945743516  8  5 cc  kc    k     b         1410   50  135 Qh 4h
+FloppyT   945743551  8  4 c   cc    k     c         1495   50  185 7c 6h
+FloppyT   945743646  9  3 f   -     -     -         1630    0    0 
+FloppyT   945743711  9  2 Bk  kf    -     -         1630   10    0 
+FloppyT   945743770  9  1 Bc  kc    kc    k         1620   40    0 8h 3s
+FloppyT   945743816  9  9 f   -     -     -         1580    0    0 
+FloppyT   945743901  8  7 f   -     -     -         1670    0    0 
+FloppyT   945743921  8  7 f   -     -     -         1660    0    0 
+FloppyT   945743941 10  7 f   -     -     -         1650    0    0 
+FloppyT   945743964 10  6 f   -     -     -         1645    0    0 
+FloppyT   945744010 10  5 cc  k     r     b         1595   80  220 
+FloppyT   945744060 10  4 f   -     -     -         1730    0    0 
+FloppyT   945744104 10  3 c   bc    bc    kc        1730   90  195 Qd Jd
+FloppyT   945744146 10  2 Bk  kf    -     -         1835   10    0 
+FloppyT   945744179 10  1 Bf  -     -     -         1825    5    0 
+FloppyT   945744210 10 10 c   c     c     k         1820   50    0 7c Qc
+FloppyT   945744262 10  9 c   c     rc    rr        1770  160  325 
+FloppyT   945744332 10  8 f   -     -     -         1935    0    0 
+FloppyT   945744383 10  7 cc  f     -     -         1935   20    0 
+FloppyT   945744441 10  6 c   b     -     -         1915   20   55 
+FloppyT   945744487 10  5 f   -     -     -         1950    0    0 
+FloppyT   945744565 10  4 c   b     b     b         1950   60  125 5d 6d
+FloppyT   945744643 10  3 fQ  -     -     -         2015    0    0 
+FloppyT   945745040 10  8 f   -     -     -         2015    0    0 
+FloppyT   945745106 10  7 f   -     Q     -         2015    0    0 
+FloppyT   945746414 10  2 Bc  k     b     b         2685   60  165 
+FloppyT   945746476 10  1 Bc  b     b     -         2750   40   80 
+FloppyT   945746507 10 10 f   -     -     -         2780    0    0 
+FloppyT   945746597 10  9 c   f     -     -         2740   10    0 
+FloppyT   945746656 10  8 c   c     k     k         2730   20   60 Kh Ts
+FloppyT   945746701 10  7 c   k     k     c         2770   30    0 As Kc
+FloppyT   945746745 10  6 f   -     -     -         2740    0    0 
+FloppyT   945746814 10  5 c   c     c     c         2930   60    0 7d 7s
+FloppyT   945746866 10  4 f   -     -     -         2870    0    0 
+FloppyT   945746903 10  3 f   -     -     -         2850    0    0 
+FloppyT   945746935 10  2 Bc  kf    -     -         2850   20    0 
+FloppyT   945747039  9  1 Bc  kf    -     -         2790   10    0 
+FloppyT   945747104  9  9 f   -     -     -         2780    0    0 
+FloppyT   945747149  9  8 f   -     -     -         2780    0    0 
+FloppyT   945747171  9  7 f   -     -     -         2780    0    0 
+FloppyT   945747222  9  6 f   -     -     -         2780    0    0 
+FloppyT   945747261 10  6 f   -     -     -         2780    0    0 
+FloppyT   945747306 10  5 f   -     -     -         2780    0    0 
+FloppyT   945747346 10  4 cc  kc    kc    kc        2740   70  215 8h Kh
+FloppyT   945747414 10  3 f   -     -     -         2865    0    0 
+FloppyT   945747464 10  2 Bk  b     k     bc        2855   60    0 Td 9d
+FloppyT   945747516 10  1 Bc  k     kf    -         2755   10    0 
+FloppyT   945747584 10 10 f   -     -     -         2745    0    0 
+FloppyT   945747648 10  9 c   c     b     b         2745   60  165 
+FloppyT   945747723  9  7 f   -     -     -         2850    0    0 
+FloppyT   945747773  9  6 cc  kf    -     -         2850   20    0 
+FloppyT   945747815  9  5 f   -     -     -         2830    0    0 
+FloppyT   945747859  8  4 f   -     -     -         2830    0    0 
+FloppyT   945747897  8  3 f   -     -     -         3000    0    0 
+FloppyT   945747926  8  2 B   -     -     -         2980   10   15 
+FloppyT   945747939  8  1 Bf  -     -     -         2985    5    0 
+FloppyT   945747954  8  8 f   -     -     -         2980    0    0 
+FloppyT   945747998  8  7 f   -     -     -         2980    0    0 
+FloppyT   945748035  8  6 f   -     -     -         2980    0    0 
+FloppyT   945748072  8  5 f   -     -     -         2980    0    0 
+FloppyT   945748110  8  4 KQ  -     -     -         2980    0    0 
+FloppyT   945748335  8  2 Bc  c     f     -         2940   40    0 
+FloppyT   945748368  8  1 Bc  k     b     b         2900   50  110 Th 9d
+FloppyT   945748399  8  8 f   -     -     -         2960    0    0 
+FloppyT   945748427  8  7 f   -     -     -         2960    0    0 
+FloppyT   945748461  8  6 f   -     -     -         2960    0    0 
+FloppyT   945748498  8  5 f   -     -     -         2960    0    0 
+FloppyT   945748537  8  4 c   k     k     k         2960   10    0 5h 6d
+FloppyT   945748563  8  3 f   -     -     -         2950    0    0 
+FloppyT   945748611  8  2 Bcf -     -     -         2950   20    0 
+FloppyT   945748659  8  1 Bcc kf    -     -         2930   20    0 
+FloppyT   945748693  9  9 f   -     -     -         2910    0    0 
+FloppyT   945748716 10  9 c   c     c     b         2910   60  125 
+FloppyT   945748745 10  8 c   k     k     f         2975   20    0 
+FloppyT   945748790 10  7 f   -     -     -         2955    0    0 
+FloppyT   945748871 10  6 c   k     r     b         2955   70  145 
+FloppyT   945748953 10  5 c   b     b     bc        3030   80    0 2s Ks
+FloppyT   945749000 10  3 Q   -     -     -         2950    0    0 
+FloppyT   945749076  9  2 Bk  k     kf    -         3180   10    0 
+FloppyT   945749132  9  1 Bf  -     -     -         3170    5    0 
+FloppyT   945749152  9  5 Q   -     -     -         3165    0    0 
+FloppyT   945749321  9  5 f   -     -     -         3195    0    0 
+FloppyT   945749353  9  4 f   -     -     -         3195    0    0 
+FloppyT   945749399  9  3 f   -     -     -         3195    0    0 
+FloppyT   945749433 10  2 Bk  kc    f     -         3395   20    0 
+FloppyT   945749487 10  1 Bf  -     -     -         3375    5    0 
+FloppyT   945749513 10 10 f   -     -     -         3350    0    0 
+FloppyT   945749541 10  9 f   -     -     -         3350    0    0 
+FloppyT   945749600 10  8 cc  c     f     -         3350   30    0 
+FloppyT   945749678 10  7 f   -     -     -         3320    0    0 
+FloppyT   945749748 10  6 c   kc    f     -         3320   20    0 
+FloppyT   945749819 10  5 f   -     -     -         3400    0    0 
+FloppyT   945749919 10  4 cc  kc    kc    kf        3400   50    0 
+FloppyT   945749979 10  3 cc  kc    kc    k         3320   50  145 Jh Ks
+FloppyT   945750048 10  2 Bc  c     k     rc        3415   90    0 6s 5h
+FloppyT   945750109 10  1 Bc  k     b     br        3325  100  300 Kc Ah
+FloppyT   945750179 10  6 Q   -     -     -         3525    0    0 
+FloppyT   945752757  9  9 f   -     -     -         3475    0    0 
+FloppyT   945752820  9  8 f   -     -     -         3475    0    0 
+FloppyT   945752870  9  7 f   -     Q     -         3475    0    0 
+FloppyT   945771772 10  2 Bk  kQ    -     -         3310   10    0 
+FloppyT   945780918 10  8 f   -     -     -         4425    0    0 
+FloppyT   945781013  9  7 cc  cc    c     c         4605  120  485 3s As
+FloppyT   945781115 10  6 f   -     -     -         4970    0    0 
+FloppyT   945781171 10  5 fQ  -     -     -         5090    0    0 
+FloppyT   945781417  8  6 cc  k     k     f         4970   20    0 
+FloppyT   945781504  9  6 cc  c     cc    f         5070  110    0 
+FloppyT   945781606 10  6 f   -     -     -         5040    0    0 
+FloppyT   945781674 10  5 f   -     -     -         5110    0    0 
+FloppyT   945781729  9  4 f   Q     -     -         4990    0    0 
+FloppyT   945808127  9  5 cc  c     k     f         4420   30    0 
+FloppyT   945808205  8  4 f   -     -     -         4390    0    0 
+FloppyT   945808232  8  3 f   -     Q     -         4390    0    0 
+FloppyT   945829764 10  2 Bk  kf    -     -         4905   10    0 
+FloppyT   945829834 10  1 Bc  k     b     -         4895   30   40 
+FloppyT   945829867 10 10 c   f     -     -         4905   10    0 
+FloppyT   945829955 10  9 f   -     -     -         5035    0    0 
+FloppyT   945829993 10  8 f   -     -     -         5035    0    0 
+FloppyT   945830040 10  7 f   -     -     -         5035    0    0 
+FloppyT   945830080 10  6 c   c     c     c         4955   80  300 8c Tc
+FloppyT   945830182 10  5 f   -     -     -         5175    0    0 
+FloppyT   945830227 10  4 f   -     -     -         5175    0    0 
+FloppyT   945830259 10  3 c   kc    kc    rr        5175  140  430 Ks Ad
+FloppyT   945830337 10  2 Bc  kf    -     -         5685   20    0 
+FloppyT   945830416 10  1 Bc  k     bc    kc        5665   70    0 Js 3s
+FloppyT   945830462  9  9 f   -     -     -         5595    0    0 
+FloppyT   945830505  9  9 r   b     b     k         5595   50  115 Kh Ks
+FloppyT   945830534  9  8 c   c     f     -         5660   20    0 
+FloppyT   945830582  8  6 f   -     -     -         5640    0    0 
+FloppyT   945830627  9  6 c   c     r     cc        5730  140    0 Qs Jh
+FloppyT   945830781 10  5 f   -     -     -         5550    0    0 
+FloppyT   945830813 10  4 c   k     k     f         5550   10    0 
+FloppyT   945830880 10  3 cc  kf    -     -         5540   20    0 
+FloppyT   945830945 10  2 Bk  k     kf    -         5520   10    0 
+FloppyT   945831028 10  1 Bf  -     -     -         5430    5    0 
+FloppyT   945831092 10 10 f   -     -     -         5475    0    0 
+FloppyT   945831151 10  9 f   -     -     -         5475    0    0 
+FloppyT   945831188 10  8 f   -     -     -         5475    0    0 
+FloppyT   945831238 10  7 cc  kc    kf    -         5435   30    0 
+FloppyT   945831385 10  6 f   -     -     -         5305    0    0 
+FloppyT   945831451 10  5 c   b     b     k         5265   40  135 Qs 6s
+FloppyT   945831504 10  4 f   -     -     -         5360    0    0 
+FloppyT   945831558 10  3 f   -     -     -         5360    0    0 
+FloppyT   945831651 10  2 Bc  kf    -     -         5550   20    0 
+FloppyT   945831719 10  1 Bf  -     -     -         5350    5    0 
+FloppyT   945831799 10 10 f   -     -     -         5305    0    0 
+FloppyT   945831909 10  9 c   k     c     c         5305   50    0 3d Jd
+FloppyT   945832057  8  7 f   -     -     -         5225    0    0 
+FloppyT   945832072  8  6 cc  k     b     c         5225   60    0 8c 7d
+FloppyT   945832124  8  5 f   -     -     -         5165    0    0 
+FloppyT   945832163  8  4 c   k     cc    k         5105   50    0 Ah Kc
+FloppyT   945832247  8  3 f   -     -     -         5055    0    0 
+FloppyT   945832290  8  2 Bc  kcc   kf    -         5055   50    0 
+FloppyT   945837253 10  6 f   -     -     -         4915    0    0 
+FloppyT   945837346 10  5 f   -     -     -         4915    0    0 
+FloppyT   945837407 10  4 f   -     Q     -         4855    0    0 
+FloppyT   945979476 10  5 f   -     -     -         9240    0    0 
+FloppyT   945979546 10  4 f   -     -     -         9240    0    0 
+FloppyT   945979608 10  3 c   c     c     f         9240   40    0 
+FloppyT   945979661 10  2 Bk  k     b     k         9200   30  120 5s Jd
+FloppyT   945979723 10  1 Bc  kf    -     -         9290   10    0 
+FloppyT   945979795 10 10 c   c     f     -         9260   30    0 
+FloppyT   945979843 10  9 f   -     -     -         9230    0    0 
+FloppyT   945979880 10  8 c   f     -     -         9230   10    0 
+FloppyT   945979934 10  7 f   -     -     -         9200    0    0 
+FloppyT   945979990 10  6 f   -     -     -         9180    0    0 
+FloppyT   945980034 10  5 f   -     -     -         9140    0    0 
+FloppyT   945980113 10  4 f   -     -     -         9300    0    0 
+FloppyT   945980190 10  3 c   kf    -     -         9260   10    0 
+FloppyT   945980261 10  2 Bf  -     -     -         9190   10    0 
+FloppyT   945980312 10  1 Bc  kc    kc    kc        9080   70    0 9c 9h
+FloppyT   945980401 10 10 f   -     -     -         8990    0    0 
+FloppyT   945980462 10  9 f   -     -     -         8990    0    0 
+FloppyT   945980558 10  8 f   -     -     -         8950    0    0 
+FloppyT   945980656 10  7 f   -     -     -         8920    0    0 
+FloppyT   945980718 10  6 f   -     -     -         8920    0    0 
+FloppyT   945980793 10  5 f   -     -     Q         8870    0    0 
+FloppyT   946005979  9  9 f   -     -     -        10055    0    0 
+FloppyT   946006034 10  8 c   cc    f     -        10055   40    0 
+FloppyT   946006106 10  7 f   -     -     -        10015    0    0 
+FloppyT   946006150 10  6 c   c     cc    br       10015  120  155 Ad Jc
+FloppyT   946006240 10  5 c   kf    -     -        10050   10    0 
+FloppyT   946006310  9  4 cc  kc    kf    -        10040   30    0 
+FloppyT   946006378 10  4 f   -     -     -        10010    0    0 
+FloppyT   946006420 10  2 Bk  kf    -     -        10130   10    0 
+FloppyT   946006539  9  1 Bf  -     -     -        10050    5    0 
+FloppyT   946006598 10 10 f   -     -     -        10015    0    0 
+FloppyT   946006680 10  9 c   cc    b     b        10015  100  360 
+FloppyT   946006773 10  8 f   -     -     -        10275    0    0 
+FloppyT   946006831 10  7 f   -     -     -        10265    0    0 
+FloppyT   946006891 10  6 f   -     -     -        10175    0    0 
+FloppyT   946006965 10  5 f   -     -     -        10175    0    0 
+FloppyT   946007009 10  4 f   -     -     -        10175    0    0 
+FloppyT   946007120 10  3 f   -     -     -         9995    0    0 
+FloppyT   946007213 10  2 Bk  c     c     c         9995   60    0 5d Ad
+FloppyT   946007275 10  1 Bcc kc    kf    -         9935   30    0 
+FloppyT   946007328 10 10 f   -     -     -         9895    0    0 
+FloppyT   946007395  9  8 c   r     br    kc        9865  120    0 6d 5d
+FloppyT   946007500  8  6 f   -     -     -         9735    0    0 
+FloppyT   946007600  8  6 c   k     fQ    -         9735   10    0 
+FloppyT   946036619 10  9 f   -     -     -         9375    0    0 
+FloppyT   946036649 10  8 f   -     -     -         9375    0    0 
+FloppyT   946036680 10  7 f   -     -     -         9375    0    0 
+FloppyT   946036727 10  6 cc  cc    c     c         9375   90  400 Qs 8s
+FloppyT   946036784 10  5 f   -     -     -         9685    0    0 
+FloppyT   946036830 10  4 f   -     -     -         9685    0    0 
+FloppyT   946036904 10  3 f   -     -     -         9685    0    0 
+FloppyT   946036957 10  2 Bf  -     -     -         9685   10    0 
+FloppyT   946037010 10  1 Bf  -     -     -         9675    5    0 
+FloppyT   946037049 10 10 c   c     c     c         9670   60  185 Kh As
+FloppyT   946037113 10  9 f   -     -     -         9795    0    0 
+FloppyT   946037145 10  8 f   -     -     -         9795    0    0 
+FloppyT   946037187 10  7 f   -     -     -         9795    0    0 
+FloppyT   946037231 10  6 f   -     -     -         9795    0    0 
+FloppyT   946037308 10  5 c   c     c     k         9795   40  145 Qh Js
+FloppyT   946037353 10  4 c   b     c     k         9900   40   85 Jc Ts
+FloppyT   946037388 10  3 f   -     -     -         9945    0    0 
+FloppyT   946037462 10  2 Bc  b     b     bc        9945   90    0 Kh Jd
+FloppyT   946037509 10  1 Bc  b     b     b         9855   60  130 
+FloppyT   946037602 10 10 f   -     -     -         9925    0    0 
+FloppyT   946037697 10  9 f   -     -     -         9925    0    0 
+FloppyT   946037728 10  8 c   cc    f     -         9925   50    0 
+FloppyT   946037777 10  7 f   -     -     -         9875    0    0 
+FloppyT   946037826 10  6 f   -     -     -         9875    0    0 
+FloppyT   946037857 10  5 cc  c     k     k         9875   30  135 Ad Qs
+FloppyT   946037898 10  4 f   -     -     -         9980    0    0 
+FloppyT   946037969 10  3 f   -     -     -         9980    0    0 
+FloppyT   946038001 10  2 Bk  b     k     kf        9980   20    0 
+FloppyT   946038060 10  1 Bc  kf    -     -         9960   10    0 
+FloppyT   946038107 10 10 f   -     -     -         9950    0    0 
+FloppyT   946038140 10  9 f   -     -     -         9950    0    0 
+FloppyT   946038185 10  8 f   -     -     -         9950    0    0 
+FloppyT   946038216 10  7 c   c     c     f         9950   40    0 
+FloppyT   946038255 10  6 f   -     -     -         9910    0    0 
+FloppyT   946038362 10  5 c   f     -     -         9910   10    0 
+FloppyT   946038421  9  4 c   k     c     b         9900   50  125 8c Kc
+FloppyT   946038474  9  3 f   -     -     -         9975    0    0 
+FloppyT   946038495  9  2 Bc  kc    kc    kf        9975   50    0 
+FloppyT   946038560 10  1 Bf  -     -     -         9925    5    0 
+FloppyT   946038653  9  9 f   -     -     -         9920    0    0 
+FloppyT   946038721  9  9 f   -     -     -         9920    0    0 
+FloppyT   946038767 10  8 cc  c     cc    f         9920   90    0 
+FloppyT   946038896  9  6 f   -     Q     -         9830    0    0 
+FloppyT   946039749  7  2 Bf  -     -     -         9550   10    0 
+FloppyT   946039779  7  1 Bf  -     -     -         9540    5    0 
+FloppyT   946039835  8  7 c   f     -     -         9535   10    0 
+FloppyT   946039875  8  6 f   -     -     -         9525    0    0 
+FloppyT   946039911  9  5 f   -     -     -         9525    0    0 
+FloppyT   946039980  9  4 f   -     -     -         9525    0    0 
+FloppyT   946040046 10  3 f   -     -     -         9525    0    0 
+FloppyT   946040163  8  2 Bk  f     -     -         9525   10    0 
+FloppyT   946040211  8  1 Bf  -     -     -         9515    5    0 
+FloppyT   946040251  8  8 f   -     -     -         9510    0    0 
+FloppyT   946040299  8  7 c   k     f     -         9510   10    0 
+FloppyT   946040351  8  6 f   -     -     -         9500    0    0 
+FloppyT   946040408  9  5 rc  c     b     c         9500   80  210 Ac Ad
+FloppyT   946040474  9  4 f   -     -     -         9630    0    0 
+FloppyT   946040557  9  3 cc  c     f     -         9630   30    0 
+FloppyT   946040652 10  2 Bc  kf    -     -         9600   20    0 
+FloppyT   946040742 10  1 Bc  kc    kc    kf        9580   60    0 
+FloppyT   946040815 10 10 c   f     -     -         9520   20    0 
+FloppyT   946040902 10  9 f   -     -     -         9500    0    0 
+FloppyT   946040981 10  8 f   -     -     -         9500    0    0 
+FloppyT   946041071 10  7 c   kc    c     c         9500   60    0 Ac Qd
+FloppyT   946041211 10  3 Q   -     -     -         9520    0    0 
+FloppyT   946088971  9  9 f   -     -     -        10662    0    0 
+FloppyT   946089036  9  9 c   k     f     -        10652   10    0 
+FloppyT   946089098  8  6 f   -     -     -        10642    0    0 
+FloppyT   946089138  9  5 f   -     -     -        10642    0    0 
+FloppyT   946089217 10  4 c   cc    kc    kf       10962   50    0 
+FloppyT   946089320 10  3 f   -     -     -        10792    0    0 
+FloppyT   946089385 10  2 Bk  b     b     b        10792   60  190 4d 8d
+FloppyT   946089452 10  1 Bf  -     -     -        10902    5    0 
+FloppyT   946089521 10 10 f   -     -     -        10897    0    0 
+FloppyT   946089561 10  9 f   -     -     -        11177    0    0 
+FloppyT   946089601 10  8 cc  c     f     -        11307   40    0 
+FloppyT   946089689 10  7 f   -     -     -        11187    0    0 
+FloppyT   946089743 10  6 f   -     -     -        11187    0    0 
+FloppyT   946089786  9  4 f   -     -     -        11187    0    0 
+FloppyT   946089831  9  4 f   -     -     -        11187    0    0 
+FloppyT   946089900 10  3 c   kf    -     -        11187   10    0 
+FloppyT   946089932 10  2 Bf  -     -     -        11177   10    0 
+FloppyT   946121644 10  8 f   -     -     -        11947    0    0 
+FloppyT   946121662 10  7 cf  -     -     -        11947   10    0 
+FloppyT   946121723 10  6 f   -     -     -        11937    0    0 
+FloppyT   946121757 10  5 cc  f     -     -        11937   40    0 
+FloppyT   946121810 10  4 f   -     -     -        11897    0    0 
+FloppyT   946121846 10  3 f   -     -     -        11897    0    0 
+FloppyT   946121867 10  2 Bk  k     k     k        11897   10    0 3c 9c
+FloppyT   946121892 10  1 Bf  -     -     -        11887    5    0 
+FloppyT   946121936 10 10 f   -     -     -        11882    0    0 
+FloppyT   946121977 10  9 c   f     -     -        11882   10    0 
+FloppyT   946122037 10  6 Q   -     -     -        11872    0    0 
+FloppyT   946123782 10  3 cc  kcc   kc    kc       12112   90    0 Jd Ac
+FloppyT   946123842 10  2 Bk  kc    kc    bc       12022   80    0 6s 7d
+FloppyT   946123932 10  1 Bc  kf    -     -        11942   10    0 
+FloppyT   946124020 10 10 c   c     f     -        11932   20    0 
+FloppyT   946124081 10  9 c   c     c     k        11912   50    0 9d Td
+FloppyT   946124188 10  8 c   b     k     kf       11862   20    0 
+FloppyT   946124264 10  7 f   -     -     -        11842    0    0 
+FloppyT   946124364 10  6 c   k     k     k        11842   10    0 Ts Qd
+FloppyT   946124415 10  5 c   c     f     -        11832   20    0 
+FloppyT   946124475 10  4 f   -     -     -        11812    0    0 
+FloppyT   946124502 10  3 f   -     -     -        11812    0    0 
+FloppyT   946124556 10  2 Bk  kf    -     -        11812   10    0 
+FloppyT   946124587 10  1 Bc  k     kf    -        11802   10    0 
+FloppyT   946124646 10 10 f   -     -     -        11792    0    0 
+FloppyT   946124682 10  9 f   -     -     -        11792    0    0 
+FloppyT   946124762 10  8 f   Q     -     -        11792    0    0 
+FloppyT   946129960 10  5 f   -     -     -        12282    0    0 
+FloppyT   946130014 10  4 f   -     -     -        12282    0    0 
+FloppyT   946130064 10  3 c   kf    -     -        12282   10    0 
+FloppyT   946130106 10  2 Bf  -     -     -        12272   10    0 
+FloppyT   946130204 10  1 Bc  k     b     b        12262   50  110 2c Qd
+FloppyT   946130239 10 10 c   f     -     -        12322   10    0 
+FloppyT   946130277 10  9 c   c     f     -        12312   20    0 
+FloppyT   946130333 10  8 c   c     c     b        12292   60  210 Jd Qh
+FloppyT   946130381 10  7 f   -     -     -        12442    0    0 
+FloppyT   946130452 10  6 f   -     -     -        12442    0    0 
+FloppyT   946130510 10  5 c   kf    -     -        12442   10    0 
+FloppyT   946130545 10  4 f   -     -     -        12432    0    0 
+FloppyT   946130585 10  3 f   -     -     -        12432    0    0 
+FloppyT   946130665 10  2 Bk  kf    -     -        12432   10    0 
+FloppyT   946130729 10  1 Bc  k     kc    kc       12422   70    0 2c 6c
+FloppyT   946130816 10 10 f   -     -     -        12352    0    0 
+FloppyT   946130886 10  9 f   -     -     -        12352    0    0 
+FloppyT   946130944 10  8 c   b     kf    -        12352   20    0 
+FloppyT   946131065 10  7 c   c     f     -        12332   20    0 
+FloppyT   946131135 10  6 f   -     -     -        12312    0    0 
+FloppyT   946131200 10  5 c   b     b     -        12312   40   75 
+FloppyT   946131227 10  4 f   -     -     -        12347    0    0 
+FloppyT   946131313 10  3 f   -     -     -        12347    0    0 
+FloppyT   946131390 10  2 Bk  k     b     -        12347   30   40 
+FloppyT   946131454 10  1 Bc  k     k     b        12357   30    0 2d Kc
+FloppyT   946131626 10 10 f   -     -     -        12327    0    0 
+FloppyT   946131770 10  4 Q   -     -     -        12327    0    0 
+FloppyT   946132234 10  7 f   -     -     -        12017    0    0 
+FloppyT   946132355 10  6 f   -     -     -        12017    0    0 
+FloppyT   946132435 10  5 c   k     k     k        12017   10    0 6c 5s
+FloppyT   946132551 10  4 f   -     -     -        12007    0    0 
+FloppyT   946132607 10  3 c   bc    kf    -        12007   30    0 
+FloppyT   946132700 10  2 Bk  kf    -     -        11977   10    0 
+FloppyT   946132787 10  1 Bc  kc    kf    -        11967   30    0 
+FloppyT   946132830 10 10 c   k     f     -        11937   10    0 
+FloppyT   946132865 10  9 f   -     -     -        11927    0    0 
+FloppyT   946132939 10  8 f   -     -     -        11927    0    0 
+FloppyT   946133051 10  7 c   c     k     k        11927   20   90 7c Kc
+FloppyT   946133114 10  6 f   -     -     -        11997    0    0 
+FloppyT   946133170 10  5 cc  k     k     k        11997   20    0 7c 6c
+FloppyT   946133250 10  4 c   bc    kc    kc       11977   70  210 Ts 9c
+FloppyT   946133334 10  3 cc  kc    kc    kc       12117   70    0 Tc Ks
+FloppyT   946133379 10  2 Bk  kf    -     -        12047   10    0 
+FloppyT   946133443 10  1 Bf  -     -     -        12037    5    0 
+FloppyT   946133514 10 10 f   -     -     -        12032    0    0 
+FloppyT   946133577 10  9 c   b     b     -        12032   40   75 
+FloppyT   946133613 10  8 f   -     -     -        12067    0    0 
+FloppyT   946133621 10  7 f   -     -     -        12067    0    0 
+FloppyT   946133677 10  6 f   -     -     -        12067    0    0 
+FloppyT   946133799 10  5 c   b     -     -        12067   20   60 
+FloppyT   946133848 10  4 c   f     -     -        12107   10    0 
+FloppyT   946133892 10  3 c   b     kc    k        12097   60    0 Ac Jh
+FloppyT   946133976 10  2 Bk  b     b     b        12037   60  210 Tc 8h
+FloppyT   946134051 10  1 Bf  -     -     -        12187    5    0 
+FloppyT   946134107 10 10 f   -     -     -        12182    0    0 
+FloppyT   946134154 10  9 f   -     -     -        12182    0    0 
+FloppyT   946134232 10  8 f   -     -     -        12182    0    0 
+FloppyT   946134309 10  7 f   -     -     -        12182    0    0 
+FloppyT   946134368 10  6 f   -     -     -        12182    0    0 
+FloppyT   946134445 10  5 f   -     -     -        12182    0    0 
+FloppyT   946134487 10  4 f   -     -     -        12182    0    0 
+FloppyT   946134547 10  3 c   c     c     kf       12182   40    0 
+FloppyT   946134598 10  2 Bk  b     b     kc       12142   60    0 7d 7s
+FloppyT   946134705 10  1 Bc  kf    -     -        12082   10    0 
+FloppyT   946134757 10 10 c   b     c     c        12072   70    0 Qs Qc
+FloppyT   946134865 10  9 c   f     -     -        12002   10    0 
+FloppyT   946134907 10  8 f   -     -     -        11992    0    0 
+FloppyT   946134989 10  7 f   -     -     -        11992    0    0 
+FloppyT   946135032 10  6 c   c     f     -        11992   30    0 
+FloppyT   946135084 10  5 f   -     -     -        11962    0    0 
+FloppyT   946135115 10  4 f   Q     -     -        11962    0    0 
+FloppyT   946139273 10  6 cc  kc    kc    kf       11962   60    0 
+FloppyT   946139332 10  5 f   -     -     -        11902    0    0 
+FloppyT   946139397  9  3 f   -     -     -        11902    0    0 
+FloppyT   946139452  9  3 f   -     -     -        11902    0    0 
+FloppyT   946139510  9  2 Bc  kf    -     -        11882   20    0 
+FloppyT   946139558  9  1 Bc  kf    -     -        11842   10    0 
+FloppyT   946139619  9  9 f   -     -     -        11832    0    0 
+FloppyT   946139680  8  7 ccc ccc   kc    c        11772  120    0 Ah Ad
+FloppyT   946139807  8  6 f   -     -     -        11652    0    0 
+FloppyT   946139856  8  5 c   k     c     c        11882   50   82 9h Ah
+FloppyT   946139919  8  4 f   -     -     -        11914    0    0 
+FloppyT   946139967  7  3 f   -     -     -        11914    0    0 
+FloppyT   946140008  6  2 Bk  k     kf    -        11914   10    0 
+FloppyT   946140061  6  1 Bc  kf    -     -        11904   10    0 
+FloppyT   946140129  6  6 cc  c     c     f        11894   50    0 
+FloppyT   946140214  5  4 Q   -     -     -        12204    0    0 
+FloppyT   946215824 10  5 f   -     -     -        11529    0    0 
+FloppyT   946215874 10  4 c   f     -     -        11569   10    0 
+FloppyT   946215942 10  3 f   -     -     -        11534    0    0 
+FloppyT   946215989 10  2 Bk  k     kf    -        11534   10    0 
+FloppyT   946216054 10  1 Bc  kc    bc    b        11574  120  360 8h 9c
+FloppyT   946216146 10 10 c   k     f     -        11794   10    0 
+FloppyT   946216222 10  9 f   -     -     -        11839    0    0 
+FloppyT   946216272 10  8 c   c     b     f        11869   40    0 
+FloppyT   946216347 10  7 f   -     -     -        11859    0    0 
+FloppyT   946216398 10  6 c   f     -     -        11869   10    0 
+FloppyT   946216460 10  5 c   f     -     -        11819   10    0 
+FloppyT   946216526 10  4 f   -     -     -        11749    0    0 
+FloppyT   946216595 10  3 c   bc    bc    kc       11719   90  270 Ad Kc
+FloppyT   946216653 10  2 Bk  k     b     b        11889   50  150 Qs 5c
+FloppyT   946216714 10  1 Bc  kf    -     -        12014   10    0 
+FloppyT   946216791 10 10 f   -     -     -        11964    0    0 
+FloppyT   946216876 10  9 f   -     -     -        12099    0    0 
+FloppyT   946216956 10  8 f   -     -     -        12099    0    0 
+FloppyT   946217041 10  7 c   b     kc    kf       12089   40    0 
+FloppyT   946217148 10  6 f   -     -     -        12289    0    0 
+FloppyT   946217208 10  5 f   -     -     -        12289    0    0 
+FloppyT   946217271 10  4 c   f     -     -        12289   10    0 
+FloppyT   946217303 10  3 f   -     -     -        12279    0    0 
+FloppyT   946217402 10  2 Bk  kc    kc    k        12269   40    0 Jd 2c
+FloppyT   946217459 10  1 Bc  kf    -     -        12229   10    0 
+FloppyT   946217553 10 10 f   -     -     -        12209    0    0 
+FloppyT   946217617 10  9 c   b     b     k        12189   40  150 7h 6d
+FloppyT   946217708 10  8 f   -     -     -        12299    0    0 
+FloppyT   946217790 10  7 f   -     -     -        12289    0    0 
+FloppyT   946217912 10  7 f   -     -     -        12289    0    0 
+FloppyT   946217989 10  5 c   f     -     -        12289   10    0 
+FloppyT   946218032 10  4 f   -     -     -        12279    0    0 
+FloppyT   946218148 10  3 cc  k     kQ    -        12249   20    0 
+FloppyT   946219377 10  3 fQ  -     -     -        12234    0    0 
+FloppyT   946245808  6  4 f   -     -     -        12554    0    0 
+FloppyT   946245853  6  3 c   b     b     b        12554   60  130 Jh 9d
+FloppyT   946245911  8  2 Bf  -     -     -        12624   10    0 
+FloppyT   946245945  7  1 Bf  -     -     -        12614    5    0 
+FloppyT   946245983  7  7 f   -     -     -        12609    0    0 
+FloppyT   946246001  8  7 c   b     b     b        12609   60  130 8c 5c
+FloppyT   946246059  7  5 c   kc    kc    kc       12679   60    0 5h 9h
+FloppyT   946246118  8  5 f   -     -     -        12619    0    0 
+FloppyT   946246160  7  3 f   -     -     -        12619    0    0 
+FloppyT   946246208  8  3 f   -     -     -        12619    0    0 
+FloppyT   946246244  8  2 Bc  kcc   kc    kf       12619   70    0 
+FloppyT   946246310  8  1 Bc  b     b     b        12654   60  140 Qd Ac
+FloppyT   946246350  8  8 c   b     b     b        12734   60  130 9s Jc
+FloppyT   946246391  7  6 f   -     -     -        12804    0    0 
+FloppyT   946246407  8  6 cc  f     -     -        12804   20    0 
+FloppyT   946246468  9  5 f   -     -     -        12744    0    0 
+FloppyT   946246510  8  4 f   -     -     -        12744    0    0 
+FloppyT   946246561 10  3 f   -     -     -        12684    0    0 
+FloppyT   946246625 10  2 Bk  kf    -     -        12684   10    0 
+FloppyT   946246676 10  1 Bc  kQ    -     -        12674   10    0 
+FloppyT   946247539 10  8 f   -     -     -        12307    0    0 
+FloppyT   946247608 10  7 c   f     -     -        12277   10    0 
+FloppyT   946247656 10  6 f   -     -     -        12307    0    0 
+FloppyT   946247828  9  4 f   -     -     -        12267    0    0 
+FloppyT   946247895  9  3 cc  c     c     c        12267   70  240 Ah 7d
+FloppyT   946247980 10  2 Bc  bc    kc    kf       12377   60    0 
+FloppyT   946248063  9  1 Bc  kc    k     kc       12297   40   55 As 4d
+FloppyT   946248136  9  9 f   -     -     -        12312    0    0 
+FloppyT   946248211  8  7 f   -     -     -        12312    0    0 
+FloppyT   946248260  8  6 f   -     -     -        12192    0    0 
+FloppyT   946248308  8  5 f   -     -     -        12192    0    0 
+FloppyT   946248345  8  4 f   -     -     -        12192    0    0 
+FloppyT   946248381  7  3 f   -     -     -        12192    0    0 
+FloppyT   946248418  7  2 Bk  k     f     -        12192   10    0 
+FloppyT   946248439  7  1 Bf  -     -     -        12182    5    0 
+FloppyT   946248452  7  7 f   -     -     -        12157    0    0 
+FloppyT   946248487  7  6 f   -     -     -        12147    0    0 
+FloppyT   946248514  7  5 f   -     -     -        12147    0    0 
+FloppyT   946248547  8  5 f   -     -     -        12147    0    0 
+FloppyT   946248576  8  4 f   -     -     -        12147    0    0 
+FloppyT   946248609  8  3 f   -     -     -        12147    0    0 
+FloppyT   946248669  8  2 Bc  kc    kc    kf       12147   50    0 
+FloppyT   946248731  8  1 Bc  k     k     kf       12097   10    0 
+FloppyT   946248779  8  8 c   f     -     -        12087   10    0 
+FloppyT   946248816  8  7 f   -     -     -        12077    0    0 
+FloppyT   946248846  8  6 f   -     -     -        11977    0    0 
+FloppyT   946248884  8  5 c   k     k     f        11987   10    0 
+FloppyT   946248938  8  4 c   k     b     -        11967   30   55 
+FloppyT   946248977  7  3 cc  k     kf    -        11972   20    0 
+FloppyT   946249024  7  2 Bk  k     k     k        11952   10    0 8d Jh
+FloppyT   946249064  7  1 Bc  b     b     k        11922   40    0 7d 9d
+FloppyT   946249102  7  7 f   -     -     -        11822    0    0 
+FloppyT   946249130  7  6 c   kf    -     Q        11822   10    0 
+FloppyT   946249597  9  4 f   -     -     -        11812    0    0 
+FloppyT   946249680 10  3 f   -     -     -        11812    0    0 
+FloppyT   946249756 10  2 Bc  f     -     -        11812   20    0 
+FloppyT   946249816 10  1 Bc  kf    -     -        11792   10    0 
+FloppyT   946249871 10 10 c   k     f     -        11782   10    0 
+FloppyT   946249976  9  8 f   -     -     -        11772    0    0 
+FloppyT   946250008  9  7 c   k     b     -        11772   30   60 
+FloppyT   946250086  9  6 f   -     -     -        11622    0    0 
+FloppyT   946250104  9  5 f   -     -     -        11622    0    0 
+FloppyT   946250148  9  5 c   b     bc    f        11622   60    0 
+FloppyT   946250221 10  4 c   k     k     k        11502   10   28 Tc As
+FloppyT   946250271 10  3 c   kf    -     -        11500   10    0 
+FloppyT   946250320 10  2 Bk  k     f     -        11390   10    0 
+FloppyT   946250347 10  1 Bf  -     -     -        11380    5    0 
+FloppyT   946250393 10 10 c   cc    c     c        11375   80  255 Jd Kc
+FloppyT   946250456 10  9 c   c     f     -        11450   20    0 
+FloppyT   946250515 10  8 f   -     -     -        11430    0    0 
+FloppyT   946250561 10  7 f   -     -     -        11430    0    0 
+FloppyT   946250614 10  6 cc  f     -     -        11430   20    0 
+FloppyT   946250684 10  5 cc  k     kf    -        11330   30    0 
+FloppyT   946250748 10  4 f   -     -     -        11290    0    0 
+FloppyT   946250821 10  3 c   c     f     -        11290   20    0 
+FloppyT   946250863 10  2 Bk  c     r     b        11270   80  210 
+FloppyT   946250924 10  1 Bc  kf    -     -        11400   10    0 
+FloppyT   946250990 10 10 c   k     b     k        11390   30   75 Kc 7c
+FloppyT   946251046 10  9 c   c     f     -        11815   40    0 
+FloppyT   946251127 10  8 f   -     -     -        11635    0    0 
+FloppyT   946251173 10  7 f   -     -     -        11625    0    0 
+FloppyT   946251200 10  6 f   -     -     -        11625    0    0 
+FloppyT   946251289 10  5 f   -     -     -        11625    0    0 
+FloppyT   946251354 10  4 Q   -     -     -        11605    0    0 
+FloppyT   946254809 10  7 KQ  -     -     -        11205    0    0 
+FloppyT   946255130 10  5 f   -     -     -        11205    0    0 
+FloppyT   946255183  9  4 c   k     f     -        11105   10    0 
+FloppyT   946255235  9  3 f   -     -     -        11395    0    0 
+FloppyT   946255331 10  2 Bf  -     -     -        11275   10    0 
+FloppyT   946255383  9  1 Bc  b     k     kc       11225   40    0 2h 2d
+FloppyT   946255476  8  8 f   -     -     -        11185    0    0 
+FloppyT   946255512  8  7 f   -     -     -        11185    0    0 
+FloppyT   946255546  8  6 c   f     -     Q        11185   10    0 
+FloppyT   946264732 10  1 Bf  -     -     -        11295    5    0 
+FloppyT   946264787 10 10 c   c     c     f        11290   50    0 
+FloppyT   946264884 10  9 c   c     f     -        11240   20    0 
+FloppyT   946264940 10  8 c   kf    -     -        11220   10    0 
+FloppyT   946265007 10  7 c   b     b     k        11210   40  150 Ts Th
+FloppyT   946265077  8  4 f   -     -     -        11320    0    0 
+FloppyT   946265163  9  4 f   -     -     -        11320    0    0 
+FloppyT   946265226  8  3 cc  kf    -     -        11190   20    0 
+FloppyT   946265349  8  2 Bk  f     -     -        10970   10    0 
+FloppyT   946265380  8  1 Bf  -     -     -        10960    5    0 
+FloppyT   946265422  8  8 f   -     -     -        11095    0    0 
+FloppyT   946265459  8  7 c   k     c     c        11095   50  120 Jh 5h
+FloppyT   946265516  9  7 f   -     -     -        11165    0    0 
+FloppyT   946265609 10  7 c   c     b     b        11255   70  265 5s 6s
+FloppyT   946265693 10  6 ccc kf    -     -        11500   40    0 
+FloppyT   946265779  9  5 f   -     -     -        11720    0    0 
+FloppyT   946265832  9  4 f   -     -     -        11880    0    0 
+FloppyT   946265899  9  3 cc  c     c     r        11880  110  420 5d Td
+FloppyT   946266016  9  2 Bk  f     -     -        12110   10    0 
+FloppyT   946266057  8  1 Bf  -     -     -        12100    5    0 
+FloppyT   946266103  8  8 c   c     k     f        12095   40    0 
+FloppyT   946266165  9  8 c   cc    c     c        12055   80  290 Kc Jh
+FloppyT   946266275  9  7 c   b     c     c        12655   70    0 Tc Qc
+FloppyT   946266336  8  5 f   -     -     -        12565    0    0 
+FloppyT   946266392  9  5 c   f     -     -        12555   10    0 
+FloppyT   946266456  9  4 f   -     -     -        12545    0    0 
+FloppyT   946266486  9  3 f   -     -     -        12545    0    0 
+FloppyT   946266546 10  2 Bf  -     -     -        12545   10    0 
+FloppyT   946266642 10  1 Bcc kf    -     -        12535   20    0 
+FloppyT   946266696  9  9 f   -     -     -        12515    0    0 
+FloppyT   946266731 10  9 f   -     -     -        12515    0    0 
+FloppyT   946266779 10  8 c   kf    -     -        12515   10    0 
+FloppyT   946266872 10  7 c   f     -     -        12485   10    0 
+FloppyT   946266932 10  6 f   -     -     -        12475    0    0 
+FloppyT   946267004 10  5 c   k     f     -        12475   10    0 
+FloppyT   946267054 10  4 f   -     -     -        12465    0    0 
+FloppyT   946267090 10  3 cc  b     kc    bc       12465   90    0 Jd Ts
+FloppyT   946267213 10  2 Bc  k     k     f        12315   20    0 
+FloppyT   946267344 10  1 Bcc kc    kf    -        12195   30    0 
+FloppyT   946267462 10 10 f   -     -     -        12315    0    0 
+FloppyT   946267527 10  9 f   -     -     -        12315    0    0 
+FloppyT   946267571 10  8 f   -     -     -        12315    0    0 
+FloppyT   946267674 10  7 cc  c     c     c        12135   70    0 Qc Qd
+FloppyT   946267759 10  6 r   c     f     -        12065   30    0 
+FloppyT   946267805 10  5 f   -     -     -        11995    0    0 
+FloppyT   946267858 10  4 f   -     -     -        11995    0    0 
+FloppyT   946267926 10  3 f   -     -     -        11955    0    0 
+FloppyT   946268022 10  2 Bf  -     -     -        12155   10    0 
+FloppyT   946268127 10  1 Bc  kc    kc    kc       12275   70    0 5h 6d
+FloppyT   946268253 10 10 f   -     -     -        12085    0    0 
+FloppyT   946268367 10  9 c   b     b     k        12085   40  110 Kh Jd
+FloppyT   946268433 10  8 f   -     -     -        12155    0    0 
+FloppyT   946268496 10  7 f   -     -     -        12155    0    0 
+FloppyT   946268572 10  6 f   -     -     Q        12055    0    0 
+FloppyT   946294143  7  6 f   -     -     -        11965    0    0 
+FloppyT   946294182  7  5 f   -     -     -        11965    0    0 
+FloppyT   946294220  7  4 cc  k     bc    k        11965   60    0 As 5c
+FloppyT   946294266  7  3 f   -     -     -        11905    0    0 
+FloppyT   946294318  8  2 Bk  f     -     -        11905   10    0 
+FloppyT   946294364  8  1 Bf  -     -     -        11815    5    0 
+FloppyT   946294427  8  8 c   b     c     c        11800   70    0 Kd Qs
+FloppyT   946294483  8  7 f   -     -     -        11730    0    0 
+FloppyT   946294575  8  6 c   kf    -     -        11730   10    0 
+FloppyT   946294630 10  7 f   -     -     -        11720    0    0 
+FloppyT   946294679 10  6 f   -     -     -        12020    0    0 
+FloppyT   946294720  9  4 f   -     -     -        12100    0    0 
+FloppyT   946294792 10  3 f   -     -     -        12060    0    0 
+FloppyT   946294865 10  2 Bcc f     -     -        12050   40    0 
+FloppyT   946294974 10  1 Bf  Q     -     -        12340    5    0 
+FloppyT   946542715 10  1 Bf  -     -     -        12355    5    0 
+FloppyT   946542755 10 10 f   -     -     -        12350    0    0 
+FloppyT   946542846 10  9 f   -     -     -        12320    0    0 
+FloppyT   946542882 10  8 f   -     -     -        12530    0    0 
+FloppyT   946542961 10  7 f   -     -     -        12500    0    0 
+FloppyT   946543006 10  6 f   -     -     -        12500    0    0 
+FloppyT   946543074 10  5 cc  b     bc    kc       12460   90  215 7h Ah
+FloppyT   946543141 10  4 cc  b     bc    bc       12665  110  169 Tc Js
+FloppyT   946543208  9  3 f   -     -     -        12724    0    0 
+FloppyT   946543323 10  2 Bk  k     k     k        12584   10   50 3s 3h
+FloppyT   946543356 10  1 Bc  kf    -     -        12614   10    0 
+FloppyT   946543394 10 10 f   -     -     -        12604    0    0 
+FloppyT   946543468 10  9 c   c     r     b        12604   80  215 7h 6h
+FloppyT   946543535 10  8 f   -     -     -        12699    0    0 
+FloppyT   946543603 10  7 f   -     -     -        12699    0    0 
+FloppyT   946543660 10  6 f   -     -     -        12639    0    0 
+FloppyT   946543710 10  5 c   k     b     k        12639   30   95 Jc 8c
+FloppyT   946543763 10  4 f   -     -     -        12664    0    0 
+FloppyT   946543814 10  3 f   -     -     -        12624    0    0 
+FloppyT   946543850 10  2 Bk  kf    -     -        12624   10    0 
+FloppyT   946543908 10  1 Bc  kc    k     k        12614   30    0 Ks Jc
+FloppyT   946543967 10 10 f   -     -     -        12594    0    0 
+FloppyT   946544018 10  9 f   -     -     -        12514    0    0 
+FloppyT   946544065 10  8 f   -     -     -        12504    0    0 
+FloppyT   946544123 10  7 c   b     b     c        12504   60    0 Qs 4s
+FloppyT   946544190 10  6 c   f     -     -        12664   10    0 
+FloppyT   946544270 10  5 f   -     -     -        13204    0    0 
+FloppyT   946544306 10  4 c   b     b     -        13204   40  100 
+FloppyT   946544357 10  3 f   -     -     -        13524    0    0 
+FloppyT   946544382 10  2 Bk  k     b     -        13484   30   40 
+FloppyT   946544408 10  1 Bc  k     k     bf       13494   30    0 
+FloppyT   946544476 10 10 f   -     -     -        13464    0    0 
+FloppyT   946544529 10  9 cc  k     b     k        13424   40  115 9d Ts
+FloppyT   946544590 10  8 c   b     b     k        13479   40  105 Ts 9c
+FloppyT   946544653 10  7 f   -     -     -        13544    0    0 
+FloppyT   946544715 10  6 f   -     -     -        13544    0    0 
+FloppyT   946544772 10  5 c   b     b     -        13504   40   85 
+FloppyT   946544841 10  4 c   kf    -     -        13489   10    0 
+FloppyT   946544897 10  3 f   -     -     -        13609    0    0 
+FloppyT   946544928 10  2 Bk  k     k     kf       13609   10    0 
+FloppyT   946544994 10  1 Bf  -     -     -        13599    5    0 
+FloppyT   946545061 10 10 c   b     c     f        13554   40    0 
+FloppyT   946545123 10  9 c   b     -     -        13514   20   35 
+FloppyT   946545153 10  8 f   -     -     -        13489    0    0 
+FloppyT   946545205 10  7 f   -     -     -        13469    0    0 
+FloppyT   946545255 10  6 f   -     -     -        13469    0    0 
+FloppyT   946545287 10  5 c   cc    b     k        13309   50    0 As 2s
+FloppyT   946545352 10  4 f   -     -     -        13229    0    0 
+FloppyT   946545404 10  3 c   kc    kf    -        13149   20    0 
+FloppyT   946545471 10  2 Bk  kf    -     -        13129   10    0 
+FloppyT   946545547 10  1 Bc  k     kf    -        13439   10    0 
+FloppyT   946545604 10 10 c   r     b     b        13409   70  290 9s 9d
+FloppyT   946545699 10  9 f   -     -     -        13679    0    0 
+FloppyT   946545728 10  8 c   k     b     b        13819   60    0 8c Kc
+FloppyT   946545804 10  7 f   -     -     -        13759    0    0 
+FloppyT   946545854 10  6 f   -     -     -        13719    0    0 
+FloppyT   946545944 10  5 f   -     -     -        13699    0    0 
+FloppyT   946546020 10  4 f   -     -     -        13639    0    0 
+FloppyT   946546090 10  4 c   kc    kf    -        13679   20    0 
+FloppyT   946546169  9  2 Bk  k     b     k        13619   30    0 5h Ah
+FloppyT   946546232  9  1 Bc  k     kf    -        13799   10    0 
+FloppyT   946546313  9  9 c   c     c     k        14089   50    0 Jd Th
+FloppyT   946546359  9  8 c   b     b     k        13959   40  125 Qh Jd
+FloppyT   946546435  9  6 Q   -     -     -        14014    0    0 
+FloppyT   946583450  6  3 c   cc    k     f        13079   40    0 
+FloppyT   946583538  6  2 Bf  -     -     -        12999   10    0 
+FloppyT   946583608  6  1 Bc  kc    kc    kf       12989   50    0 
+FloppyT   946583651  6  6 f   -     -     -        12939    0    0 
+FloppyT   946583693  6  5 c   b     b     b        12919   60    0 6h As
+FloppyT   946583737  6  4 f   -     -     -        12859    0    0 
+FloppyT   946583812  6  3 f   -     -     -        12859    0    0 
+FloppyT   946583857  7  2 Bk  kc    f     -        12859   30    0 
+FloppyT   946583933  6  1 Bf  -     -     -        12829    5    0 
+FloppyT   946583965  5  5 f   -     -     -        12909    0    0 
+FloppyT   946584020  5  4 c   b     b     -        12899   40   70 
+FloppyT   946584043  4  2 f   -     -     -        12924    0    0 
+FloppyT   946584087  4  2 Bk  bc    kc    kf       12924   50    0 
+FloppyT   946584146  4  1 Bc  k     b     -        12874   30   40 
+FloppyT   946584218  3  3 fQ  -     -     -        12884    0    0 
+FloppyT   946586478  4  3 f   -     -     -        12654    0    0 
+FloppyT   946586489  4  2 Bc  bf    -     -        12654   30    0 
+FloppyT   946586519  4  1 Bc  b     b     b        12624   60  120 9d Kc
+FloppyT   946586550  5  4 cc  kc    b     b        12684   70  160 
+FloppyT   946586602  7  3 c   cc    kc    kf       12929   60    0 
+FloppyT   946586666  7  2 Bk  kc    k     b        12864   40   75 
+FloppyT   946586710  7  1 BQ  -     -     -        12899    5    0 
+FloppyT   946637969  6  6 f   -     -     -        13624    0    0 
+FloppyT   946637991  6  5 f   -     -     -        13624    0    0 
+FloppyT   946638018  6  4 f   -     -     -        13624    0    0 
+FloppyT   946638026  6  3 cc  k     k     k        13624   20    0 Td Qs
+FloppyT   946638067  6  2 Bf  -     -     -        13754   10    0 
+FloppyT   946638090  6  1 Bf  -     -     -        13704    5    0 
+FloppyT   946638121  6  6 f   -     -     -        13699    0    0 
+FloppyT   946638153  7  4 Q   -     -     -        13649    0    0 
+FloppyT   946638815  7  5 c   c     c     c        13639   70    0 5c 5d
+FloppyT   946638851  7  4 c   c     c     c        13569   70  155 Ac Qc
+FloppyT   946638879  7  3 cc  c     f     -        13654   30    0 
+FloppyT   946638922  7  2 Bf  -     -     -        13624   10    0 
+FloppyT   946638949  7  1 Bf  -     -     -        13614    5    0 
+FloppyT   946638966  7  7 f   -     -     -        13609    0    0 
+FloppyT   946638991  7  6 f   -     -     -        13609    0    0 
+FloppyT   946639028  7  5 c   c     c     f        13509   80    0 
+FloppyT   946639074  6  4 cc  c     c     kf       13419   70    0 
+FloppyT   946639147  6  3 f   -     -     -        13349    0    0 
+FloppyT   946639178  5  2 Bc  kf    -     -        13149   20    0 
+FloppyT   946639222  7  1 BfQ -     -     -        13129    5    0 
+FloppyT   946639824 10  3 f   -     -     -        12924    0    0 
+FloppyT   946639899 10  2 Bf  -     -     -        12824   10    0 
+FloppyT   946639963 10  1 Bf  -     -     -        12794    5    0 
+FloppyT   946640041 10 10 cc  f     -     -        12709   20    0 
+FloppyT   946640128 10  9 f   -     -     -        12629    0    0 
+FloppyT   946640252 10  8 c   c     k     f        12569   20    0 
+FloppyT   946640321 10  7 f   -     -     -        12549    0    0 
+FloppyT   946640377 10  6 cc  kf    -     -        12549   30    0 
+FloppyT   946640483 10  6 f   -     -     -        12589    0    0 
+FloppyT   946640525  9  4 f   -     -     -        12589    0    0 
+FloppyT   946640593  9  3 f   -     -     -        12589    0    0 
+FloppyT   946640663  9  2 Bc  k     k     br       12589   80  225 3c 2c
+FloppyT   946640742  9  1 Bf  -     -     -        12694    5    0 
+FloppyT   946640796  9  9 f   -     -     -        12679    0    0 
+FloppyT   946640849  9  8 f   -     -     -        12679    0    0 
+FloppyT   946640891  9  7 f   -     -     -        12679    0    0 
+FloppyT   946640911  9  6 f   -     -     -        12639    0    0 
+FloppyT   946640945  9  5 f   -     -     -        12639    0    0 
+FloppyT   946640975  9  4 f   -     -     -        12639    0    0 
+FloppyT   946641030  9  3 f   -     -     -        12849    0    0 
+FloppyT   946641053  9  2 Bk  b     -     -        12849   20   30 
+FloppyT   946641078  8  1 Bc  b     b     b        12859   60  130 
+FloppyT   946641124  8  8 f   -     -     -        12809    0    0 
+FloppyT   946641180  8  7 f   -     -     -        12769    0    0 
+FloppyT   946641234  8  6 c   c     f     -        12759   20    0 
+FloppyT   946641297  8  5 c   f     -     -        12739   10    0 
+FloppyT   946641339  8  4 f   -     -     -        12729    0    0 
+FloppyT   946641398  8  3 c   b     -     -        12729   20   45 
+FloppyT   946641435  7  2 Bc  kf    -     -        12754   20    0 
+FloppyT   946641503  7  1 Bf  -     -     -        12804    5    0 
+FloppyT   946641575  7  7 f   -     -     -        12959    0    0 
+FloppyT   946641612  7  6 f   -     -     -        12959    0    0 
+FloppyT   946641648  7  5 c   bc    kc    kc       12659   70    0 9s 4s
+FloppyT   946641685  7  4 f   -     -     -        12529    0    0 
+FloppyT   946641719  7  3 f   -     -     -        12529    0    0 
+FloppyT   946641749  8  2 BQ  -     -     -        12489   10    0 
+FloppyT   946649381  3  3 cc  c     b     -        14249   50   90 
+FloppyT   946649408  4  2 B   -     -     -        14289   10   15 
+FloppyT   946649411  4  1 Bf  -     -     -        14294    5    0 
+FloppyT   946649417  4  4 c   b     b     b        14289   60  110 
+FloppyT   946649454  5  3 f   -     -     -        14339    0    0 
+FloppyT   946649475  5  2 Bk  k     k     k        14339   10    0 Kh 7h
+FloppyT   946649506  5  1 Bc  kc    kc    kc       14329   70   75 Ah 2h
+FloppyT   946649544  7  7 f   -     -     -        14334    0    0 
+FloppyT   946649574  7  6 f   -     -     -        14334    0    0 
+FloppyT   946649610  7  5 f   -     -     -        14334    0    0 
+FloppyT   946649640  7  4 cc  c     f     -        14334   30    0 
+FloppyT   946649679  7  3 c   k     c     cc       14304   90    0 Kd Ah
+FloppyT   946649721  8  2 Bk  kf    -     -        14214   10    0 
+FloppyT   946649765  8  1 Bf  -     -     -        14204    5    0 
+FloppyT   946649785  8  8 f   -     -     -        14199    0    0 
+FloppyT   946649821  9  8 f   -     -     -        14199    0    0 
+FloppyT   946649880  9  7 c   c     kf    -        14199   20    0 
+FloppyT   946649954  9  6 f   -     -     -        14149    0    0 
+FloppyT   946649985  8  4 f   -     -     -        14149    0    0 
+FloppyT   946650022  8  4 c   rc    c     kc       14139   80    0 Ah Qd
+FloppyT   946650104  8  3 f   -     -     -        14029    0    0 
+FloppyT   946650162  8  2 Bk  k     k     k        14029   10    0 7h Ts
+FloppyT   946650204  9  1 Bf  -     -     -        13999    5    0 
+FloppyT   946650240  9  9 c   k     b     b        14024   50  100 
+FloppyT   946650292  9  8 c   c     f     -        14004   20    0 
+FloppyT   946650340  9  5 Q   -     -     -        13984    0    0 
+FloppyT   946652563  9  7 f   -     -     -        14089    0    0 
+FloppyT   946652624  9  6 c   b     b     c        14089   60    0 Td Js
+FloppyT   946652687  9  5 f   -     -     -        13989    0    0 
+FloppyT   946652732 10  4 f   -     -     -        13949    0    0 
+FloppyT   946652798 10  3 c   k     k     k        13944   10    0 Kh 5h
+FloppyT   946652875 10  2 Bf  -     -     -        13914   10    0 
+FloppyT   946652942 10  1 Bc  kc    kc    kc       13884   80    0 Jh 8c
+FloppyT   946653004 10  3 Q   -     -     -        13764    0    0 

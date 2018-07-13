@@ -1,0 +1,127 @@
+nitro-nic 934095366  8  8 c   k     f     -          320   10    0 
+nitro-nic 934095409 10  7 f   -     -     -          310    0    0 
+nitro-nic 934095442 10  6 c   k     rc    k          310   70  210 Kd 5s
+nitro-nic 934095505 10  5 c   bc    bc    b          450   90  240 7s Qd
+nitro-nic 934095593 10  4 rc  kc    k     k          600   40    0 6c 6s
+nitro-nic 934095656  9  2 f   -     -     -          560    0    0 
+nitro-nic 934095700  9  2 Bc  kc    kc    kf         560   50    0 
+nitro-nic 934095783  9  1 Bc  kc    kf    -          510   30    0 
+nitro-nic 934095896 10 10 cc  k     k     c          480   40    0 Qc Jc
+nitro-nic 934095977  8  7 c   c     r     b          440   80  210 8c 9c
+nitro-nic 934096070  7  6 c   kc    kf    -          570   20    0 
+nitro-nic 934096130  7  5 cc  f     -     -          550   30    0 
+nitro-nic 934096200  7  4 c   c     b     b          520   60  190 Jh 3c
+nitro-nic 934096259  7  3 c   k     k     kf         650   10    0 
+nitro-nic 934096321  7  2 Bc  cf    -     -          640   30    0 
+nitro-nic 934096389  7  1 Bc  kc    kf    -          610   20    0 
+nitro-nic 934096480  6  6 c   c     c     k          590   50    0 5c 9c
+nitro-nic 934096537  7  6 c   cf    -     -          540   20    0 
+nitro-nic 934096604  7  5 cc  c     f     -          520   30    0 
+nitro-nic 934096668  7  3 cc  c     c     f          490   50    0 
+nitro-nic 934096754  7  2 Bc  kc    kc    cc         440   90    0 Ad 6c
+nitro-nic 934096881  7  1 Bc  kc    kc    kf         350   50    0 
+nitro-nic 934097018  7  7 c   f     -     -          300   20    0 
+nitro-nic 934097064  8  7 cc  cf    -     -          280   30    0 
+nitro-nic 934097159  9  6 cc  kf    -     -          250   30    0 
+nitro-nic 934097225 10  5 cc  f     -     -          220   40    0 
+nitro-nic 934097314  9  4 cc  c     f     -          180   30    0 
+nitro-nic 934097380  7  2 Bc  kcf   -     -          150   30    0 
+nitro-nic 934097479  7  1 Bc  b     b     brcA       120  120    0 2d 7h
+nitro-nic 934097583  7  4 c   c     f     -         1000   20    0 
+nitro-nic 934097651  7  3 f   -     -     -          980    0    0 
+nitro-nic 934097700  8  2 Bk  c     c     f          980   40    0 
+nitro-nic 934097758  8  1 Bc  k     kf    -          940   10    0 
+nitro-nic 934097879  8  8 f   -     -     -          930    0    0 
+nitro-nic 934097928  8  4 Q   -     -     -          930    0    0 
+nitro-nic 934940272 10  5 cc  kc    kc    kf         435   50    0 
+nitro-nic 934940347 10  4 c   f     -     -          385   20    0 
+nitro-nic 934940386 10  3 c   kf    -     -          365   10    0 
+nitro-nic 934940432 10  2 Bc  kc    kc    kf         355   50    0 
+nitro-nic 934940504 10  1 Bc  b     b     b          305   70  160 
+nitro-nic 934940556 10 10 c   c     c     f          395   40    0 
+nitro-nic 934940643 10  9 f   -     -     -          355    0    0 
+nitro-nic 934940696 10  8 c   c     c     c          355   70  215 8d 5d
+nitro-nic 934940759 10  7 cc  c     k     f          500   40    0 
+nitro-nic 934940816 10  6 cc  k     c     k          460   60    0 6d 2d
+nitro-nic 934940902  9  5 c   f     -     -          400   10    0 
+nitro-nic 934940962  9  4 c   kc    kc    kf         390   40    0 
+nitro-nic 934941035  9  3 cc  c     c     f          350   50    0 
+nitro-nic 934941116  9  2 Bk  k     c     k          300   30   60 Jc 5h
+nitro-nic 934941165  9  1 Bcc kc    kc    kc         330   80    0 4h 4c
+nitro-nic 934941232  9  9 f   -     -     -          250    0    0 
+nitro-nic 934941271  8  7 c   k     k     k          250   30    0 Kd 7c
+nitro-nic 934941361  8  6 c   c     c     f          220   50    0 
+nitro-nic 934941418  8  5 f   Q     -     -          170    0    0 
+nitro-nic 935107492  9  2 Bk  kc    kf    -          170   20    0 
+nitro-nic 935107558  9  1 Bc  kf    -     -          150   20    0 
+nitro-nic 935107635  9  9 c   f     -     -          130   10    0 
+nitro-nic 935107694  9  8 c   k     r     k          120   50  180 9h Th
+nitro-nic 935107782  9  7 c   k     f     -          250   10    0 
+nitro-nic 935107844  9  6 f   -     -     -          240    0    0 
+nitro-nic 935107889  9  5 c   f     -     -          240   10    0 
+nitro-nic 935107918 10  4 cc  kc    kf    -          230   30    0 
+nitro-nic 935107992 10  3 ccc kc    k     f          200   40    0 
+nitro-nic 935108094 10  2 Bc  kc    kf    -          160   40    0 
+nitro-nic 935108208 10  1 Bc  kf    -     -          120   10    0 
+nitro-nic 935108302 10 10 c   k     c     f          110   40    0 
+nitro-nic 935108397  9  8 c   k     f     -           70   20    0 
+nitro-nic 935108461 10  7 c   f     -     -           50   10    0 
+nitro-nic 935108519  9  5 c   k     k     rA          40   40  100 
+nitro-nic 935108584  9  5 ccc cc    c     f          100   90    0 
+nitro-nic 935108686 10  4 cA  -     -     -           10   10    0 7s 6d
+nitro-nic 935108976  7  5 cc  cc    rc    r         1000  160  410 7s As
+nitro-nic 935109086  7  4 cc  kc    kc    kf        1250   50    0 
+nitro-nic 935109199  7  3 cc  kf    -     -         1200   20    0 
+nitro-nic 935109316  8  2 Bc  kc    kc    kc        1180   70  260 3d Ad
+nitro-nic 935109435  9  1 Bc  kc    kc    kf        1370   50    0 
+nitro-nic 935109496  8  8 c   k     k     k         1320   20   65 2s Jd
+nitro-nic 935109528 10  9 c   c     c     c         1365   70  260 Kd 2c
+nitro-nic 935109584 10  8 cc  c     f     -         1555   30    0 
+nitro-nic 935109679  6  4 cc  c     f     -         1525   50    0 
+nitro-nic 935109724  7  3 c   k     k     kf        1475   10    0 
+nitro-nic 935109819  7  2 Bk  kf    -     -         1465   10    0 
+nitro-nic 935109859  7  1 Bc  k     kf    -         1455   20    0 
+nitro-nic 935109911  7  7 c   c     c     rc        1435  100  240 9s 7s
+nitro-nic 935109973  7  6 c   k     c     c         1575   50    0 2c 9d
+nitro-nic 935110037  7  5 cc  k     k     f         1525   20    0 
+nitro-nic 935110090  7  4 c   k     k     b         1505   30   80 
+nitro-nic 935110163  7  3 c   c     c     f         1555   40    0 
+nitro-nic 935110214  7  2 Bc  kc    kc    kc        1515   70  210 9s Ad
+nitro-nic 935110274  7  1 Bc  kc    k     k         1655   20   80 8d 2c
+nitro-nic 935110336  7  7 c   f     -     -         1715   20    0 
+nitro-nic 935110389  7  6 f   -     -     -         1695    0    0 
+nitro-nic 935110443  7  5 f   -     -     -         1695    0    0 
+nitro-nic 935110489  7  4 f   -     -     -         1695    0    0 
+nitro-nic 935110564  8  3 f   -     -     -         1695    0    0 
+nitro-nic 935110615  8  2 Bc  kc    kf    -         1695   30    0 
+nitro-nic 935110677  8  1 Bc  k     k     k         1665   10    0 7h 7c
+nitro-nic 935110726  8  8 f   -     -     -         1655    0    0 
+nitro-nic 935110761  7  6 r   b     c     r         1655   90  225 Ac As
+nitro-nic 935110842  7  5 c   kc    kc    kc        1790   60    0 6d 5c
+nitro-nic 935110928  9  6 c   f     -     -         1730   10    0 
+nitro-nic 935110993  9  5 cc  kc    k     k         1720   30    0 Kd 9h
+nitro-nic 935111050  9  4 cf  -     -     -         1690   10    0 
+nitro-nic 935111081  9  3 c   c     f     -         1680   20    0 
+nitro-nic 935111131  9  2 Bk  kc    kf    -         1660   20    0 
+nitro-nic 935111176  9  1 Bf  -     -     -         1640    5    0 
+nitro-nic 935111217  9  9 f   -     -     -         1635    0    0 
+nitro-nic 935111314  9  8 f   -     -     -         1635    0    0 
+nitro-nic 935111355  9  7 c   cf    -     -         1635   30    0 
+nitro-nic 935111415  9  6 cc  c     f     -         1605   30    0 
+nitro-nic 935111479  9  5 cc  f     -     -         1575   40    0 
+nitro-nic 935111561  9  4 c   k     bc    b         1535   70  200 Kh Ad
+nitro-nic 935111690  7  2 cc  c     f     -         1665   30    0 
+nitro-nic 935111726  7  2 Bc  f     -     -         1635   20    0 
+nitro-nic 935111776  8  1 Bc  kc    kc    kcc       1615  100    0 7d 7s
+nitro-nic 935111854  9  9 c   f     -     -         1515   20    0 
+nitro-nic 935111916  9  8 c   cc    f     -         1495   30    0 
+nitro-nic 935112012  9  7 c   c     k     c         1465   40    0 Qh Td
+nitro-nic 935112064  9  6 c   k     k     f         1425   10    0 
+nitro-nic 935112123 10  6 c   f     -     -         1415   10    0 
+nitro-nic 935112168 10  5 c   k     f     -         1405   10    0 
+nitro-nic 935112316  7  2 f   -     -     -         1395    0    0 
+nitro-nic 935112341  7  2 Bc  c     k     f         1395   30    0 
+nitro-nic 935112395  8  1 Bc  k     kc    kc        1365   50    0 Td Jh
+nitro-nic 935112458  8  8 c   f     -     -         1315   10    0 
+nitro-nic 935112516  8  7 c   c     k     k         1305   20    0 4d 8d
+nitro-nic 935112568  8  3 Q   -     -     -         1285    0    0 

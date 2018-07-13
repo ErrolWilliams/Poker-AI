@@ -1,0 +1,224 @@
+timebomb  943286506 10 10 f   -     -     -         1000    0    0 
+timebomb  943286547  9  8 f   -     -     -         1000    0    0 
+timebomb  943286640  9  7 f   -     -     -         1000    0    0 
+timebomb  943286675 10  7 f   -     -     -         1000    0    0 
+timebomb  943286736 10  5 f   -     -     -         1000    0    0 
+timebomb  943286785 10  4 c   b     b     f         1000   40    0 
+timebomb  943286882 10  3 r   kc    k     f         1005   30    0 
+timebomb  943286985 10  2 Bc  f     -     -          915   20    0 
+timebomb  943287042 10  1 Bc  kf    -     -          850   10    0 
+timebomb  943287106 10 10 c   c     b     -          800   40   80 
+timebomb  943287172 10  9 f   -     -     -          780    0    0 
+timebomb  943287239 10  8 f   -     -     -          780    0    0 
+timebomb  943287281 10  7 r   b     b     -          780   50  115 
+timebomb  943287338 10  6 c   f     -     -          835   10    0 
+timebomb  943287391 10  5 r   b     bc    k          820   70    0 5s Ac
+timebomb  943287435 10  4 f   -     -     -          750    0    0 
+timebomb  943287524 10  3 f   -     -     -         1060    0    0 
+timebomb  943287783  9  2 BKQ -     -     -          990   10    0 
+timebomb  943375175  8  7 c   bc    kc    kf         980   50    0 
+timebomb  943375270  9  7 f   -     -     -          930    0    0 
+timebomb  943375317  8  6 f   -     -     -          930    0    0 
+timebomb  943375360  9  5 f   -     -     -          930    0    0 
+timebomb  943375394  9  4 r   b     bc    f          948   70    0 
+timebomb  943375428  8  3 rc  kc    k     k          878   40    0 8s 8h
+timebomb  943375499  8  2 Bf  -     -     -          928   10    0 
+timebomb  943375527  8  1 Bf  -     -     -          918    5    0 
+timebomb  943375544  8  8 f   -     -     -          913    0    0 
+timebomb  943375600  8  7 f   -     -     -          908    0    0 
+timebomb  943375614  8  6 f   -     -     -          908    0    0 
+timebomb  943375685  8  5 f   -     -     -          908    0    0 
+timebomb  943375721  8  4 f   -     -     -          908    0    0 
+timebomb  943375759  8  3 f   -     -     -          908    0    0 
+timebomb  943375810  8  2 Bc  k     k     k          908   20   65 3h Ad
+timebomb  943375864  9  1 Bc  kf    -     -          953   20    0 
+timebomb  943375899  9  9 f   -     -     -          933    0    0 
+timebomb  943375923  9  8 r   b     k     b          933   50  130 
+timebomb  943375963  8  6 f   -     -     -         1013    0    0 
+timebomb  943375997  8  3 Q   -     -     -         1013    0    0 
+timebomb  943400398 10 10 f   -     -     -          993    0    0 
+timebomb  943400488 10  9 f   -     -     -          993    0    0 
+timebomb  943400546 10  8 f   -     -     -          993    0    0 
+timebomb  943400596 10  7 f   -     -     -          993    0    0 
+timebomb  943400668 10  6 f   -     -     -          993    0    0 
+timebomb  943400710 10  6 c   f     -     -          993   20    0 
+timebomb  943400760 10  4 r   c     c     b          973   70  125 
+timebomb  943400813 10  3 f   -     -     -         1028    0    0 
+timebomb  943400850 10  2 Bc  f     -     -         1028   20    0 
+timebomb  943400915 10  1 Bc  b     b     bf        1218   70    0 
+timebomb  943401004 10 10 rc  c     k     b         1168   70    0 Kh Th
+timebomb  943401045 10  9 r   f     -     -         1098   20    0 
+timebomb  943401092 10  8 r   b     bf    -         1058   50    0 
+timebomb  943401174 10  7 r   b     b     f         1008   50    0 
+timebomb  943401257 10  6 f   -     -     -         1053    0    0 
+timebomb  943401295 10  5 r   bc    kf    -         1118   40    0 
+timebomb  943401343 10  4 r   b     b     -         1178   50  100 
+timebomb  943401401 10  3 rc  f     -     -         1138   40    0 
+timebomb  943401507 10  2 Bf  -     -     -         1048   10    0 
+timebomb  943401555 10  1 Bf  -     -     -          978    5    0 
+timebomb  943401572 10 10 c   cc    r     f         1003   80    0 
+timebomb  943401674 10  9 r   b     rr    b          863  130    0 Ac 6d
+timebomb  943401725 10  8 r   b     -     -          713   30   95 
+timebomb  943401762 10  7 r   br    b     b          778   90  240 
+timebomb  943401825 10  7 f   -     -     -          928    0    0 
+timebomb  943401871  9  4 fQ  -     -     -          908    0    0 
+timebomb  943644590 10  9 c   k     f     -          908   20    0 
+timebomb  943644666 10  8 r   rr    r     b          888  120  127 9d Td
+timebomb  943644738 10  7 c   c     f     -          895   40    0 
+timebomb  943644821 10  6 c   b     b     b          935   60  165 
+timebomb  943644902 10  5 r   b     b     f         1000   60    0 
+timebomb  943644978 10  4 c   kc    kc    kc         900   70    0 9d Tc
+timebomb  943645104 10  3 r   bc    kcc   kc         830  100  345 Ad Ts
+timebomb  943645205 10  2 Bc  rr    b     b          975  100  240 Kc 7h
+timebomb  943645321 10  1 Bc  k     k     kf        1085   10    0 
+timebomb  943645456 10 10 f   -     -     -         1005    0    0 
+timebomb  943645508 10  9 f   -     -     -         1005    0    0 
+timebomb  943645584 10  8 c   c     k     k         1115   20    0 3s 4s
+timebomb  943645645 10  7 f   -     -     -         1055    0    0 
+timebomb  943645699 10  6 f   -     -     -         1055    0    0 
+timebomb  943645771  9  4 f   -     -     -         1035    0    0 
+timebomb  943645854  9  3 r   b     c     f         1015   50    0 
+timebomb  943645902  8  2 Bk  k     kf    -          935   10    0 
+timebomb  943646019  7  1 Br  b     b     b         1130   80  230 Jh Qd
+timebomb  943646067  7  7 f   -     -     -         1280    0    0 
+timebomb  943646140  7  6 f   -     -     -         1230    0    0 
+timebomb  943646222  8  5 cc  c     c     b         1100   70  260 5h 6c
+timebomb  943646286  8  4 c   b     b     b         1290   60  125 
+timebomb  943646355  8  3 r   b     b     b         1325   70    0 Ac 8h
+timebomb  943646409  8  2 Bk  k     kc    kf        1255   30    0 
+timebomb  943646492  9  1 Bc  bc    kf    -         1185   30    0 
+timebomb  943646556  9  9 f   -     -     -         1125    0    0 
+timebomb  943646595  9  8 f   -     -     -         1125    0    0 
+timebomb  943646690  9  7 f   -     -     -         1125    0    0 
+timebomb  943646757  9  6 r   b     b     b         1065   70    0 Ac Jh
+timebomb  943646834  8  4 c   f     -     -          995   20    0 
+timebomb  943646909  8  4 rr  rc    rc    b          975  150  380 Ah Qh
+timebomb  943646979  5  2 Br  b     b     -         1205   50  110 
+timebomb  943647069  6  1 Br  b     -     -         1400   30   80 
+timebomb  943647101  5  4 Q   -     -     -         1450    0    0 
+timebomb  943653197  8  3 f   -     -     -         1310    0    0 
+timebomb  943653244  7  2 Bk  k     k     k         1310   10    0 Jd 6c
+timebomb  943653284  9  1 Bc  bcc   kc    kc        1300  100  530 Td 9d
+timebomb  943653390  8  7 f   -     -     -         1695    0    0 
+timebomb  943653466  7  7 f   -     -     -         1695    0    0 
+timebomb  943653528  6  5 r   bc    kc    k         1760   60    0 8h 8s
+timebomb  943653610  6  4 cc  f     -     -         1590   20    0 
+timebomb  943653690  6  3 f   -     -     -         1820    0    0 
+timebomb  943653749  6  2 Bk  k     b     b         1820   50  105 Td 5d
+timebomb  943653786  4  1 BQ  -     -     -         1865    5    0 
+timebomb  943717201  9  2 Bk  kf    -     -         2000   10    0 
+timebomb  943717271  9  1 Bf  -     -     -         2040    5    0 
+timebomb  943717325 10  9 f   -     -     -         2105    0    0 
+timebomb  943717375 10  8 f   -     -     -         2095    0    0 
+timebomb  943717418 10  7 f   -     -     -         2095    0    0 
+timebomb  943717475 10  6 f   -     -     -         2095    0    0 
+timebomb  943717512 10  6 f   -     -     -         2095    0    0 
+timebomb  943717592  8  3 f   -     -     -         2065    0    0 
+timebomb  943717633  8  2 BKQ -     -     -         2095   10    0 
+timebomb  943719896 10  3 f   -     -     -         1765    0    0 
+timebomb  943719945 10  2 Bk  k     kf    -         1765   10    0 
+timebomb  943720006 10  1 Bf  -     -     -         1715    5    0 
+timebomb  943720062 10 10 f   -     -     -         1710    0    0 
+timebomb  943720111 10  9 f   -     -     -         1620    0    0 
+timebomb  943720170 10  8 r   c     f     -         1600   30    0 
+timebomb  943720238 10  7 f   -     -     -         1565    0    0 
+timebomb  943720279 10  6 f   -     -     -         1565    0    0 
+timebomb  943720320 10  5 c   k     c     k         1485   30    0 6s 7c
+timebomb  943720375 10  4 f   -     -     -         1455    0    0 
+timebomb  943720431 10  3 c   c     b     b         1455   60   67 3d Kd
+timebomb  943720479 10  2 Bk  kf    -     -         1462   10    0 
+timebomb  943720559 10  1 Bf  -     -     -         1452    5    0 
+timebomb  943720606 10 10 f   -     -     -         1447    0    0 
+timebomb  943720645 10  9 f   -     -     -         1447    0    0 
+timebomb  943720715 10  8 f   -     -     -         1407    0    0 
+timebomb  943720834 10  7 f   -     -     -         1377    0    0 
+timebomb  943720909 10  6 f   -     -     -         1372    0    0 
+timebomb  943720979 10  5 f   -     -     -         1352    0    0 
+timebomb  943721018 10  4 f   -     -     -         1352    0    0 
+timebomb  943721060 10  3 f   -     -     -         1352    0    0 
+timebomb  943721102 10  2 Bk  kf    -     -         1352   10    0 
+timebomb  943721184 10  1 Bc  k     b     kc        1722   50    0 5s 8c
+timebomb  943721244 10 10 f   -     -     -         1652    0    0 
+timebomb  943721309 10  9 f   -     -     -         1652    0    0 
+timebomb  943721375 10  8 c   k     k     f         1632   10    0 
+timebomb  943721445 10  7 f   -     -     -         1617    0    0 
+timebomb  943721492 10  6 f   -     -     -         1587    0    0 
+timebomb  943721539 10  5 f   -     -     -         1587    0    0 
+timebomb  943721576 10  4 rc  cc    f     -         1557   50    0 
+timebomb  943721646 10  3 f   -     -     -         1507    0    0 
+timebomb  943721699 10  2 Bk  k     k     k         1507   10    0 Kh 9s
+timebomb  943721725 10  1 Bf  -     -     -         1497    5    0 
+timebomb  943721774 10 10 c   cc    f     -         1492   30    0 
+timebomb  943721888 10  9 c   f     -     -         1462   10    0 
+timebomb  943721975 10  8 f   -     -     -         1452    0    0 
+timebomb  943722014 10  7 c   f     -     -         1452   20    0 
+timebomb  943722113 10  6 f   -     -     -         1362    0    0 
+timebomb  943722166 10  5 f   -     -     -         1362    0    0 
+timebomb  943722248 10  4 f   -     -     -         1362    0    0 
+timebomb  943722327 10  3 f   -     -     -         1322    0    0 
+timebomb  943722404 10  2 Bk  f     -     -         1322   10    0 
+timebomb  943722466 10  1 Bc  kf    -     -         1312   10    0 
+timebomb  943722551 10 10 f   Q     -     -         1302    0    0 
+timebomb  943895593  9  9 r   b     b     b         1240   70  230 
+timebomb  943895673 10  8 cc  b     b     k         1400   50    0 3d 6c
+timebomb  943895775  8  6 f   -     -     -         1350    0    0 
+timebomb  943895808  9  5 f   -     -     -         1405    0    0 
+timebomb  943895882  9  4 f   -     -     -         1365    0    0 
+timebomb  943895934 10  3 rc  kf    Q     -         1295   30    0 
+timebomb  943902233 10 10 c   c     f     -         1245   30    0 
+timebomb  943902305 10  9 c   f     -     -         1215   10    0 
+timebomb  943902345 10  8 f   -     -     -         1205    0    0 
+timebomb  943902438 10  7 f   -     -     -         1205    0    0 
+timebomb  943902512 10  6 f   -     -     -         1205    0    0 
+timebomb  943902622 10  5 f   -     -     -         1205    0    0 
+timebomb  943902713 10  4 c   c     r     b         1205   80  260 Kd 9h
+timebomb  943902785 10  3 f   -     -     -         1385    0    0 
+timebomb  943902861 10  2 Bk  c     kc    k         1385   40  150 3d 9d
+timebomb  943902934 10  1 Br  b     bc    kf        1495   70    0 
+timebomb  943903040 10 10 c   f     -     -         1425   10    0 
+timebomb  943903101 10  9 cc  k     kf    -         1415   20    0 
+timebomb  943903153 10  8 c   c     f     -         1395   30    0 
+timebomb  943903210 10  7 c   f     -     -         1365   20    0 
+timebomb  943903278 10  6 f   -     -     -         1345    0    0 
+timebomb  943903311 10  5 f   -     -     -         1345    0    0 
+timebomb  943903421 10  4 c   k     b     k         1345   30   85 8d Kd
+timebomb  943903524  8  2 f   -     -     -         1400    0    0 
+timebomb  943903573  9  2 Bc  k     k     k         1400   20    0 6h 7d
+timebomb  943903656 10  1 Bc  k     b     b         1380   60  200 Ah Td
+timebomb  943903706 10 10 c   c     c     rc        1520  100    0 7h 9h
+timebomb  943903767 10  9 KQ  -     -     -         1420    0    0 
+timebomb  943908615 10  3 f   -     -     -         1480    0    0 
+timebomb  943908694 10  2 Bc  kf    -     -         1440   20    0 
+timebomb  943908795 10  1 Bc  k     kc    b         1425   50    0 Kc 6c
+timebomb  943908888 10 10 f   Q     -     -         1285    0    0 
+timebomb  943922283  8  4 f   -     -     -         1285    0    0 
+timebomb  943922332  8  3 f   -     -     -         1285    0    0 
+timebomb  943922378 10  2 Bf  -     -     -         1285   10    0 
+timebomb  943922456 10  1 Bf  -     -     -         1275    5    0 
+timebomb  943922488  9  9 f   -     -     -         1270    0    0 
+timebomb  943922565  9  8 f   -     -     -         1270    0    0 
+timebomb  943922579  9  7 f   -     -     -         1270    0    0 
+timebomb  943922638  9  6 f   -     -     -         1270    0    0 
+timebomb  943922685 10  6 f   -     -     -         1270    0    0 
+timebomb  943922780 10  5 f   -     -     -         1270    0    0 
+timebomb  943922833  9  3 f   -     -     -         1270    0    0 
+timebomb  943922867  9  2 Bf  -     -     -         1260   10    0 
+timebomb  943922898 10  1 Bf  -     -     -         1250    5    0 
+timebomb  943922940 10 10 f   -     -     -         1240    0    0 
+timebomb  943923014  9  8 c   f     -     -         1240   10    0 
+timebomb  943923058 10  8 f   -     -     -         1230    0    0 
+timebomb  943923152 10  7 f   -     -     -         1230    0    0 
+timebomb  943923241 10  6 rr  rc    c     rc        1230  150    0 Ad As
+timebomb  943923315 10  6 f   -     -     -         1080    0    0 
+timebomb  943923382  8  3 f   -     -     -         1080    0    0 
+timebomb  943923414  8  3 f   -     -     -         1080    0    0 
+timebomb  943923471 10  2 Bf  -     -     -         1060   10    0 
+timebomb  943923510 10  1 Bf  -     -     -         1040    5    0 
+timebomb  943923537 10 10 f   -     -     -         1035    0    0 
+timebomb  943923618 10  9 f   -     -     -         1020    0    0 
+timebomb  943923684 10  8 f   -     -     -         1020    0    0 
+timebomb  943923717 10  7 f   -     -     -         1020    0    0 
+timebomb  943923824 10  6 f   -     -     -         1020    0    0 
+timebomb  943923864 10  5 f   -     -     -         1020    0    0 
+timebomb  943923925 10  4 f   -     -     -         1000    0    0 
+timebomb  943923976 10  4 fQ  -     -     -         1000    0    0 

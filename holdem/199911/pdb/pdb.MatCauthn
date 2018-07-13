@@ -1,0 +1,365 @@
+MatCauthn 941478530 10  4 f   -     -     -         1000    0    0 
+MatCauthn 941478571 10  3 crc c     c     k         1000   70    0 Qh Ah
+MatCauthn 941478636 10  2 Bc  k     kf    -          930   20    0 
+MatCauthn 941478712 10  1 Bc  kc    bf    -          910   50    0 
+MatCauthn 941478747 10 10 f   -     -     -          860    0    0 
+MatCauthn 941478788 10  9 f   -     -     -          860    0    0 
+MatCauthn 941478823  9  8 f   -     -     -          860    0    0 
+MatCauthn 941478854  9  7 c   f     -     -          860   20    0 
+MatCauthn 941478895  9  6 r   c     rc    k          840   90    0 Kd Ad
+MatCauthn 941478945  9  5 c   k     kf    -          750   10    0 
+MatCauthn 941479006  9  4 f   -     -     -          740    0    0 
+MatCauthn 941479077 10  3 c   kf    -     -          740   10    0 
+MatCauthn 941479133 10  2 Brc KQ    -     -          730   40    0 
+MatCauthn 941479335  9  9 f   -     -     -          690    0    0 
+MatCauthn 941479350  9  8 f   -     -     -          690    0    0 
+MatCauthn 941479396 10  7 f   -     -     -          690    0    0 
+MatCauthn 941479442 10  6 f   -     -     -          690    0    0 
+MatCauthn 941479503 10  5 f   -     -     -          690    0    0 
+MatCauthn 941479520 10  4 f   -     -     -          690    0    0 
+MatCauthn 941479594  9  3 f   -     -     -          690    0    0 
+MatCauthn 941479659 10  2 Bk  kf    -     -          690   10    0 
+MatCauthn 941479735 10  1 Bf  -     -     -          680    5    0 
+MatCauthn 941479794 10 10 f   -     -     -          675    0    0 
+MatCauthn 941479872 10  9 f   -     -     -          675    0    0 
+MatCauthn 941479924 10  8 f   -     -     -          675    0    0 
+MatCauthn 941479973 10  7 c   cc    kc    kf         675   60    0 
+MatCauthn 941480057  9  6 f   -     -     -          615    0    0 
+MatCauthn 941480095  9  5 f   -     -     -          615    0    0 
+MatCauthn 941480139  9  4 f   -     -     -          615    0    0 
+MatCauthn 941480198  9  3 f   -     -     -          615    0    0 
+MatCauthn 941480224  9  2 Bc  cc    kc    br         615  130    0 5h 4c
+MatCauthn 941480332  9  1 Bc  kf    -     -          485   10    0 
+MatCauthn 941480408  9  9 r   b     -     -          475   40  135 
+MatCauthn 941480493  9  8 f   -     -     -          570    0    0 
+MatCauthn 941480522  9  6 f   -     -     -          570    0    0 
+MatCauthn 941480606  9  5 r   br    bc    k          570   90  215 Qh As
+MatCauthn 941480681  8  4 c   kc    kc    kr         695   80  170 
+MatCauthn 941480744  9  3 c   c     c     k          785   40    0 Tc Jd
+MatCauthn 941480829  9  2 Bc  kc    brc   bf         745  130    0 
+MatCauthn 941480893  9  1 Bc  kf    -     -          615   20    0 
+MatCauthn 941481022 10 10 f   -     -     -          595    0    0 
+MatCauthn 941481115 10  9 rc  rc    b     b          595  110  375 Jh Ac
+MatCauthn 941481219 10  8 f   -     -     -          860    0    0 
+MatCauthn 941481291 10  7 f   -     -     -          860    0    0 
+MatCauthn 941481330 10  6 f   -     -     -          860    0    0 
+MatCauthn 941481382 10  5 c   b     -     -          860   20   40 
+MatCauthn 941481436  9  4 f   -     -     -          880    0    0 
+MatCauthn 941481526  8  3 f   -     -     -          880    0    0 
+MatCauthn 941481603  8  2 Bf  -     -     -          880   10    0 
+MatCauthn 941481646  9  1 Bc  kc    kf    -          870   30    0 
+MatCauthn 941481745  9  9 c   c     c     f          840   40    0 
+MatCauthn 941481857  9  8 f   -     -     -          800    0    0 
+MatCauthn 941481903 10  8 f   -     -     -          800    0    0 
+MatCauthn 941481960 10  7 f   -     -     -          800    0    0 
+MatCauthn 941482024 10  6 f   -     -     -          800    0    0 
+MatCauthn 941482090 10  5 c   br    kc    b          800   80  235 Jd 8d
+MatCauthn 941482188 10  4 f   -     -     -          955    0    0 
+MatCauthn 941482231 10  4 f   -     -     -          955    0    0 
+MatCauthn 941482317 10  2 Bc  f     -     -          955   20    0 
+MatCauthn 941482363 10  1 Bf  -     -     -          935    5    0 
+MatCauthn 941482411 10 10 r   b     c     c          930   80    0 2s 8c
+MatCauthn 941482488  9  8 rc  b     c     c          850   90  240 Kh Ad
+MatCauthn 941482567  8  7 cc  r     r     b         1000  100    0 5h Kh
+MatCauthn 941482659  8  6 r   k     c     k          900   40    0 As Js
+MatCauthn 941482720  7  4 c   b     -     -          860   20   35 
+MatCauthn 941482797  7  4 r   b     -     -          875   30   55 
+MatCauthn 941482838  7  2 Bc  kf    -     -          900   20    0 
+MatCauthn 941482865  7  1 Brc kc    krc   kf         880  110    0 
+MatCauthn 941482946  7  7 f   -     -     -          770    0    0 
+MatCauthn 941482999  7  6 rc  b     rc    b          770  130  295 Kh 5c
+MatCauthn 941483048  8  5 cc  cc    kc    k          935   60  185 9d Th
+MatCauthn 941483157  9  5 f   -     -     -         1060    0    0 
+MatCauthn 941483222  9  4 cc  kc    k     f         1060   30    0 
+MatCauthn 941483333  9  3 rc  rc    cc    f         1030  120    0 
+MatCauthn 941483402  8  2 Brc rr    b     bc         910  140    0 Ts Th
+MatCauthn 941483489  9  1 Bc  kf    -     -          770   20    0 
+MatCauthn 941483557 10  9 rc  f     -     -          750   40    0 
+MatCauthn 941483724 10  8 f   Q     -     -          710    0    0 
+MatCauthn 942206828 10  5 cc  kf    -     -         1250   20    0 
+MatCauthn 942206926 10  4 f   -     -     -         1230    0    0 
+MatCauthn 942206966 10  3 f   -     -     -         1230    0    0 
+MatCauthn 942207051 10  2 Bcr bcc   bcc   kf        1230  160    0 
+MatCauthn 942207207 10  1 Bc  kf    -     -         1070   20    0 
+MatCauthn 942207274 10 10 f   -     -     -         1050    0    0 
+MatCauthn 942207350 10  9 f   -     -     -         1050    0    0 
+MatCauthn 942207468 10  8 c   f     -     -         1050   30    0 
+MatCauthn 942207626 10  7 f   -     -     -         1020    0    0 
+MatCauthn 942207675 10  6 f   -     -     -         1020    0    0 
+MatCauthn 942207779 10  5 cc  b     f     -         1020   30    0 
+MatCauthn 942207901 10  4 f   -     -     -          990    0    0 
+MatCauthn 942207985 10  3 f   -     -     -          990    0    0 
+MatCauthn 942208047 10  2 Bc  kr    b     b          990   90  280 Qh 2h
+MatCauthn 942208124 10  1 Bc  kf    -     -         1180   10    0 
+MatCauthn 942208197 10 10 f   -     -     -         1170    0    0 
+MatCauthn 942208254 10  9 f   -     -     -         1170    0    0 
+MatCauthn 942208331 10  8 f   -     -     -         1170    0    0 
+MatCauthn 942208377 10  7 c   k     k     f         1170   10    0 
+MatCauthn 942208429 10  6 f   -     -     -         1160    0    0 
+MatCauthn 942208527 10  5 f   -     -     -         1160    0    0 
+MatCauthn 942208604 10  4 f   -     -     -         1160    0    0 
+MatCauthn 942208725 10  3 r   b     kf    -         1160   30    0 
+MatCauthn 942208800 10  2 Bk  k     f     -         1130   10    0 
+MatCauthn 942208854  9  1 Bc  k     kf    -         1120   10    0 
+MatCauthn 942208890  9  9 f   -     -     -         1110    0    0 
+MatCauthn 942208928  9  8 r   bc    kf    -         1110   40    0 
+MatCauthn 942208999  8  6 c   cc    b     b         1070   80    0 9d Tc
+MatCauthn 942209072  7  5 f   -     -     -          990    0    0 
+MatCauthn 942209117  6  3 f   -     -     -          990    0    0 
+MatCauthn 942209185  6  3 cc  b     b     b          990   70    0 4h 7h
+MatCauthn 942209228  5  1 Bc  k     kf    -          920   20    0 
+MatCauthn 942209264  5  1 Bc  kf    -     -          900   20    0 
+MatCauthn 942209320  4  4 f   -     -     -          880    0    0 
+MatCauthn 942209356  3  3 f   -     -     -          880    0    0 
+MatCauthn 942209370  3  3 f   -     -     -          880    0    0 
+MatCauthn 942209390  3  2 B   -     -     -          880   10   15 
+MatCauthn 942209396  3  1 Br  bc    kr    b          885  100    0 Qs 8c
+MatCauthn 942209424  3  3 r   k     f     -          785   20    0 
+MatCauthn 942209468  4  3 cc  c     c     k          765   70    0 7h 5h
+MatCauthn 942209508  4  2 Bc  r     b     -          695   70  150 
+MatCauthn 942209536  4  1 Bc  kf    -     -          775   20    0 
+MatCauthn 942209548  4  4 f   -     -     -          755    0    0 
+MatCauthn 942209558  5  3 r   k     f     -          755   20    0 
+MatCauthn 942209592  5  2 Bc  b     b     b          735   70    0 Qs 2d
+MatCauthn 942209639  5  1 Bcc kf    -     -          665   40    0 
+MatCauthn 942209704  5  5 r   c     c     rr         625  140    0 Qd Kd
+MatCauthn 942209763  5  4 r   k     c     f          485   40    0 
+MatCauthn 942209817  6  3 r   c     r     b          445  100  300 Kh Ad
+MatCauthn 942209866  6  2 Bf  -     -     -          645   10    0 
+MatCauthn 942209903  8  1 BfQ -     -     -          635    5    0 
+MatCauthn 942451063  4  2 Bc  b     b     b          950   70  145 
+MatCauthn 942451086  4  1 Bf  -     -     -         1025    5    0 
+MatCauthn 942451096  4  4 f   -     -     -         1020    0    0 
+MatCauthn 942451119  4  3 f   -     -     -         1020    0    0 
+MatCauthn 942451134  4  2 Bc  kr    b     kc        1020   80    0 7s Jc
+MatCauthn 942451171  4  1 Bf  -     -     -          940    5    0 
+MatCauthn 942451190  5  4 c   k     f     -          935   10    0 
+MatCauthn 942451217  5  3 f   -     -     -          925    0    0 
+MatCauthn 942451239  6  2 Bf  -     -     -          925   10    0 
+MatCauthn 942451280  6  1 Bf  -     -     -          915    5    0 
+MatCauthn 942451353  6  6 f   -     -     -          910    0    0 
+MatCauthn 942451385  7  6 f   -     -     -          910    0    0 
+MatCauthn 942451433  7  5 crc c     c     f          910   70    0 
+MatCauthn 942451512  6  4 f   -     -     -          840    0    0 
+MatCauthn 942451557  6  3 f   -     -     -          840    0    0 
+MatCauthn 942451579  6  2 Bf  -     -     -          840   10    0 
+MatCauthn 942451606  5  1 Bf  -     -     -          830    5    0 
+MatCauthn 942451616  5  5 f   -     -     -          825    0    0 
+MatCauthn 942451648  5  4 f   -     -     -          825    0    0 
+MatCauthn 942451674  6  3 f   -     -     -          825    0    0 
+MatCauthn 942451707  6  2 Br  kc    k     k          825   30    0 Ac Jc
+MatCauthn 942451758  9  1 Bf  -     -     -          795    5    0 
+MatCauthn 942451822 10 10 f   -     -     -          790    0    0 
+MatCauthn 942451884 10  9 cc  f     -     -          790   20    0 
+MatCauthn 942451947 10  8 c   c     c     f          770   50    0 
+MatCauthn 942452000 10  7 f   -     -     -          720    0    0 
+MatCauthn 942452052  9  6 f   -     -     -          720    0    0 
+MatCauthn 942452106  7  5 f   -     -     -          720    0    0 
+MatCauthn 942452155  7  4 cf  -     -     -          720   10    0 
+MatCauthn 942452230  7  3 f   -     -     -          710    0    0 
+MatCauthn 942452280  8  2 Brc b     bc    kc         710  110    0 Js Kd
+MatCauthn 942452324  8  1 Bf  -     -     -          600    5    0 
+MatCauthn 942452397  8  8 c   f     -     -          595   10    0 
+MatCauthn 942452444  9  8 f   -     -     -          585    0    0 
+MatCauthn 942452483  8  6 c   k     k     f          585   10    0 
+MatCauthn 942452518  8  5 f   -     -     -          575    0    0 
+MatCauthn 942452557  9  5 c   kf    -     -          575   10    0 
+MatCauthn 942452625  9  4 f   -     -     -          565    0    0 
+MatCauthn 942452673  9  3 r   kc    kcc   kf         565   90    0 
+MatCauthn 942452745 10  2 Bk  kr    k     b          475   50    0 3s Ts
+MatCauthn 942452799  9  1 Bf  -     -     -          425    5    0 
+MatCauthn 942452849  8  8 c   k     f     -          420   20    0 
+MatCauthn 942452901  7  6 f   Q     -     -          400    0    0 
+MatCauthn 942717035 10 10 c   k     k     rr        1000   90   92 9s Ad
+MatCauthn 942717153  8  8 c   r     b     bc        1002  100    0 Jd Kc
+MatCauthn 942717244  9  6 f   -     -     -          902    0    0 
+MatCauthn 942717429 10  5 f   -     -     -          892    0    0 
+MatCauthn 942717492  9  4 fQ  -     -     -          892    0    0 
+MatCauthn 943688433  5  3 f   -     -     -         1637    0    0 
+MatCauthn 943688489  5  3 r   cc    f     -         1637   40    0 
+MatCauthn 943688537  5  2 Bk  k     b     b         1597   50   53 Ks 8s
+MatCauthn 943688578  5  1 Brc b     b     b         1600   90  280 
+MatCauthn 943688650  6  6 c   r     k     b         1790   50  155 Ad Jh
+MatCauthn 943688739  6  5 c   r     b     b         1895   80    0 9s Ts
+MatCauthn 943688783  6  4 r   k     k     b         1815   40  100 
+MatCauthn 943688835  7  3 f   -     -     -         1875    0    0 
+MatCauthn 943688889  7  2 Bc  kc    b     b         1875   70  185 3d Jd
+MatCauthn 943688940  7  1 Br  b     b     kf        1990   50    0 
+MatCauthn 943688975  7  7 f   -     -     -         1940    0    0 
+MatCauthn 943689005  7  6 rr  rr    b     k         1940  100    0 Jc Ah
+MatCauthn 943689074  7  5 f   -     -     -         1840    0    0 
+MatCauthn 943689152  7  4 f   -     -     -         1840    0    0 
+MatCauthn 943689253  7  3 f   -     -     -         1840    0    0 
+MatCauthn 943689305  7  2 Bk  k     k     b         1840   30   55 
+MatCauthn 943689354  7  1 Bc  kf    -     -         1865   10    0 
+MatCauthn 943689383  7  7 f   -     -     -         1855    0    0 
+MatCauthn 943689410  7  6 r   c     r     k         1855   70    0 Jc Ad
+MatCauthn 943689462  7  5 f   -     -     -         1785    0    0 
+MatCauthn 943689489  7  4 f   -     -     -         1785    0    0 
+MatCauthn 943689547  7  3 f   -     -     -         1785    0    0 
+MatCauthn 943689602  8  2 Bc  b     k     kf        1785   30    0 
+MatCauthn 943689653  9  1 Bc  kf    -     -         1755   10    0 
+MatCauthn 943689698 10 10 f   -     -     -         1745    0    0 
+MatCauthn 943689760 10  9 f   -     -     -         1745    0    0 
+MatCauthn 943689818 10  8 f   -     -     -         1745    0    0 
+MatCauthn 943689886 10  7 c   r     c     k         1745   60    0 Td 8d
+MatCauthn 943689952 10  6 f   -     -     -         1685    0    0 
+MatCauthn 943690042 10  5 f   -     -     -         1685    0    0 
+MatCauthn 943690117 10  4 ccc k     f     -         1685   40    0 
+MatCauthn 943690200 10  3 cc  c     c     f         1645   50    0 
+MatCauthn 943690259 10  2 Bc  kf    -     -         1595   20    0 
+MatCauthn 943690301 10  1 Bc  kc    kc    k         1575   50    0 5h 6h
+MatCauthn 943690376 10 10 f   -     -     -         1525    0    0 
+MatCauthn 943690417 10  9 r   r     r     b         1525  110  380 Ad Kh
+MatCauthn 943690486 10  8 f   -     -     -         1795    0    0 
+MatCauthn 943690579 10  7 r   r     b     k         1795   80  217 Qc Kh
+MatCauthn 943690655 10  6 f   -     -     -         1932    0    0 
+MatCauthn 943690748 10  5 f   -     -     -         1932    0    0 
+MatCauthn 943690824 10  4 f   -     -     -         1932    0    0 
+MatCauthn 943690890 10  3 r   br    kc    kf        1932   70    0 
+MatCauthn 943690958  9  2 Bk  k     f     -         1862   10    0 
+MatCauthn 943691061  9  1 Bf  -     -     -         1852    5    0 
+MatCauthn 943691128  9  9 c   c     r     b         1847  100  305 
+MatCauthn 943691220  9  8 f   -     -     -         2052    0    0 
+MatCauthn 943691374  9  7 f   -     -     -         2052    0    0 
+MatCauthn 943691455  9  6 f   -     -     -         2052    0    0 
+MatCauthn 943691521  8  4 f   -     -     -         2052    0    0 
+MatCauthn 943691601 10  5 f   -     -     -         2052    0    0 
+MatCauthn 943691713 10  4 rr  kc    kc    k         2052   70    0 Ac Ks
+MatCauthn 943691797 10  3 f   -     -     -         1982    0    0 
+MatCauthn 943691842 10  2 Bk  kc    kc    kc        1982   60  165 Qd 8h
+MatCauthn 943691888 10  1 Bf  -     -     -         2087    5    0 
+MatCauthn 943691984  9  9 rc  r     rc    c         2082  140    0 Qc Ad
+MatCauthn 943692062  9  8 f   -     -     -         1942    0    0 
+MatCauthn 943692142  9  7 f   -     -     -         1942    0    0 
+MatCauthn 943692202  9  6 f   -     -     -         1942    0    0 
+MatCauthn 943692304  9  5 f   -     -     -         1942    0    0 
+MatCauthn 943692402 10  5 f   -     -     -         1942    0    0 
+MatCauthn 943692441 10  4 f   -     -     -         1942    0    0 
+MatCauthn 943692525 10  3 cc  f     -     -         1942   20    0 
+MatCauthn 943692605 10  2 Bk  k     b     b         1922   50    0 Qc Td
+MatCauthn 943692666 10  1 Bc  b     b     b         1872   60    0 8h 7h
+MatCauthn 943692730 10 10 f   -     -     -         1812    0    0 
+MatCauthn 943692820 10  9 f   -     -     -         1812    0    0 
+MatCauthn 943692860 10  8 f   -     -     -         1812    0    0 
+MatCauthn 943692937 10  7 f   -     -     -         1812    0    0 
+MatCauthn 943693026 10  6 r   r     c     c         1812   80  330 Qs Qd
+MatCauthn 943693113 10  5 rr  r     b     -         2062   80  285 
+MatCauthn 943693212  9  4 c   r     k     c         2267   50   95 9s As
+MatCauthn 943693266  8  2 f   -     Q     -         2312    0    0 
+MatCauthn 943698979  9  7 f   -     -     -         2312    0    0 
+MatCauthn 943699040  9  6 c   k     c     r         2312   70  133 8c Ac
+MatCauthn 943699106  9  5 f   -     -     -         2375    0    0 
+MatCauthn 943699173  9  4 r   b     k     kc        2375   50    0 Jh Js
+MatCauthn 943699228  9  3 f   -     -     -         2325    0    0 
+MatCauthn 943699279  9  2 Bk  f     -     -         2325   10    0 
+MatCauthn 943699331 10  1 Bcc kc    kf    -         2315   50    0 
+MatCauthn 943699431 10 10 f   -     -     -         2265    0    0 
+MatCauthn 943699476 10  9 f   -     -     -         2265    0    0 
+MatCauthn 943699559  9  7 f   -     -     -         2265    0    0 
+MatCauthn 943699601  8  6 r   cc    cc    kf        2265  100    0 
+MatCauthn 943699656  8  5 f   -     -     -         2165    0    0 
+MatCauthn 943699696  8  4 f   -     -     -         2165    0    0 
+MatCauthn 943699732  7  2 f   -     -     -         2165    0    0 
+MatCauthn 943699767  7  2 Bc  c     rr    kc        2165  130  240 9h 6h
+MatCauthn 943699823  5  1 Bf  -     -     -         2275    5    0 
+MatCauthn 943699848  5  5 rc  c     c     f         2270   70    0 
+MatCauthn 943699914  5  3 rr  c     c     rr        2200  150  198 Tc As
+MatCauthn 943699976  5  2 Bc  f     -     -         2248   20    0 
+MatCauthn 943700048  4  1 Bc  krr   brc   brc       2228  220    0 7h 2s
+MatCauthn 943700110  4  4 f   -     -     -         2008    0    0 
+MatCauthn 943700149  4  3 f   -     -     -         2008    0    0 
+MatCauthn 943700189  4  2 Brc rr    f     -         2008   80    0 
+MatCauthn 943700235  4  1 Bc  kf    -     -         1928   20    0 
+MatCauthn 943700290  4  4 rc  rr    rr    rc        1908  220    0 2c 2s
+MatCauthn 943700337  4  3 rr  c     rc    rr        1688  190  215 Ks 7s
+MatCauthn 943700410  4  2 Bc  c     f     -         1713   30    0 
+MatCauthn 943700465  4  1 Brc brc   brc   brc       1683  240  490 As Kc
+MatCauthn 943700523  5  5 f   -     -     -         1933    0    0 
+MatCauthn 943700572  5  4 cc  c     rr    rr        1933  190  520 As 7s
+MatCauthn 943700632  5  3 f   -     -     -         2263    0    0 
+MatCauthn 943700687  4  2 Bk  k     kc    b         2263   50    0 8d 7h
+MatCauthn 943700722  4  1 Bc  k     kf    -         2213   10    0 
+MatCauthn 943700775  4  4 f   -     -     -         2203    0    0 
+MatCauthn 943700815  4  3 f   -     -     -         2203    0    0 
+MatCauthn 943700837  4  2 Bf  -     -     -         2203   10    0 
+MatCauthn 943700860  4  1 Br  b     b     -         2193   50   80 
+MatCauthn 943700880  4  4 f   -     -     -         2223    0    0 
+MatCauthn 943700899  4  3 f   -     -     -         2223    0    0 
+MatCauthn 943700921  4  2 Bk  k     k     k         2223   10   30 9c Ts
+MatCauthn 943700942  4  1 Bf  -     -     -         2243    5    0 
+MatCauthn 943700991  4  4 f   -     -     -         2238    0    0 
+MatCauthn 943701023  4  3 r   b     b     b         2238   70    0 8s 8d
+MatCauthn 943701049  4  2 Br  b     brc   kc        2168  130    0 Kh Ks
+MatCauthn 943701101  4  1 Br  b     b     b         2038   70  120 
+MatCauthn 943701127  4  4 r   k     b     -         2088   40   80 
+MatCauthn 943701161  4  3 f   -     -     -         2128    0    0 
+MatCauthn 943701199  4  2 Br  b     -     -         2128   30   50 
+MatCauthn 943701226  4  1 Br  b     b     b         2148   70  140 
+MatCauthn 943701257  4  4 r   k     k     c         2218   40    0 Th Ad
+MatCauthn 943701276  4  3 f   -     -     -         2178    0    0 
+MatCauthn 943701322  4  2 Br  b     -     -         2178   30   55 
+MatCauthn 943701354  4  1 Bc  b     b     k         2203   40    0 9d 2c
+MatCauthn 943701381  4  4 f   -     -     -         2163    0    0 
+MatCauthn 943701415  4  3 r   b     b     b         2163   70    0 8d 8c
+MatCauthn 943701448  4  2 Bk  k     b     b         2093   50   85 
+MatCauthn 943701488  4  1 Bf  -     -     -         2128    5    0 
+MatCauthn 943701502  4  4 f   -     -     -         2123    0    0 
+MatCauthn 943701522  4  3 r   b     b     b         2123   70  135 
+MatCauthn 943701537  4  2 Br  b     kr    b         2188   90  185 7d 7s
+MatCauthn 943701562  4  1 Bc  b     b     b         2283   60  140 6h 5d
+MatCauthn 943701623  4  4 r   b     k     Q         2363   30    0 
+MatCauthn 943915605 10  9 f   -     -     -         2923    0    0 
+MatCauthn 943915645 10  8 f   -     -     -         2923    0    0 
+MatCauthn 943915699 10  7 c   c     c     f         2923   40    0 
+MatCauthn 943915776 10  6 r   k     kf    -         2883   20    0 
+MatCauthn 943915835 10  5 f   -     -     -         2863    0    0 
+MatCauthn 943915900 10  4 f   -     -     -         2863    0    0 
+MatCauthn 943915958 10  3 f   -     -     -         2863    0    0 
+MatCauthn 943915999 10  2 Bc  k     k     k         2863   20    0 Ks 7d
+MatCauthn 943916048 10  1 Bc  kf    -     -         2843   10    0 
+MatCauthn 943916115 10 10 f   -     -     -         2833    0    0 
+MatCauthn 943916160 10  9 c   k     k     f         2833   10    0 
+MatCauthn 943916216 10  8 f   -     -     -         2823    0    0 
+MatCauthn 943916253 10  7 c   b     cc    bc        2823  100  505 Qc Th
+MatCauthn 943916374 10  6 f   -     -     -         3228    0    0 
+MatCauthn 943916421 10  5 f   -     -     -         3228    0    0 
+MatCauthn 943916498 10  5 f   -     -     -         3228    0    0 
+MatCauthn 943916550 10  3 f   -     -     -         3228    0    0 
+MatCauthn 943916620 10  2 Bk  kf    Q     -         3228   10    0 
+MatCauthn 943977423 10  4 f   -     -     -         3948    0    0 
+MatCauthn 943977491 10  3 f   -     -     -         3948    0    0 
+MatCauthn 943977543 10  2 Br  k     c     r         3948   90    0 Ad Qc
+MatCauthn 943977604 10  1 Bc  kf    -     -         3858   10    0 
+MatCauthn 943977645 10 10 c   r     k     k         3848   30    0 Ks 5s
+MatCauthn 943977707 10  9 f   -     -     -         3818    0    0 
+MatCauthn 943977795 10  8 f   -     -     -         3818    0    0 
+MatCauthn 943977858 10  7 rc  kc    kr    kc        3818  100    0 Ks Tc
+MatCauthn 943977936 10  6 f   -     -     -         3718    0    0 
+MatCauthn 943977989 10  5 f   -     -     -         3718    0    0 
+MatCauthn 943978028 10  4 f   -     -     -         3718    0    0 
+MatCauthn 943978073 10  3 f   -     -     -         3718    0    0 
+MatCauthn 943978114 10  2 Bk  kf    -     -         3718   10    0 
+MatCauthn 943978171 10  1 Bc  kf    -     -         3708   20    0 
+MatCauthn 943978238 10 10 f   -     -     -         3688    0    0 
+MatCauthn 943978317 10  3 Q   -     -     -         3688    0    0 
+MatCauthn 944021210 10  3 f   -     -     -         1000    0    0 
+MatCauthn 944021323 10  2 Bk  k     b     kf        1000   30    0 
+MatCauthn 944021381 10  1 Bf  -     -     -          970    5    0 
+MatCauthn 944021504 10 10 f   -     -     -          965    0    0 
+MatCauthn 944021575 10  9 f   -     -     -          965    0    0 
+MatCauthn 944021630 10  8 c   rc    c     f          965   70    0 
+MatCauthn 944021716 10  9 f   -     -     -          895    0    0 
+MatCauthn 944021825  9  6 c   k     kf    -          895   10    0 
+MatCauthn 944021921  7  4 f   -     -     -          885    0    0 
+MatCauthn 944021991  8  4 f   -     -     -          885    0    0 
+MatCauthn 944022060  7  3 c   kf    -     -          885   10    0 
+MatCauthn 944022133  5  1 Br  b     b     -          875   50  110 
+MatCauthn 944022172  6  1 Bc  kr    k     kf         935   30    0 
+MatCauthn 944022262  6  6 rc  c     f     -          905   50    0 
+MatCauthn 944022320  6  5 cc  rc    c     f          855   70    0 
+MatCauthn 944022367  6  4 f   -     -     -          785    0    0 
+MatCauthn 944022414  6  3 f   -     -     -          785    0    0 
+MatCauthn 944022452  6  2 Br  b     bc    kc         785   90  230 Jd Jc
+MatCauthn 944022514  8  1 Bc  k     k     kf         925   10    0 
+MatCauthn 944022591  7  7 Q   -     -     -          915    0    0 

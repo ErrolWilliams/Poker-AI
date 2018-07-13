@@ -1,0 +1,645 @@
+bigRig    905100569  5  5 f   -     -     -         1000    0    0 
+bigRig    905100587  5  4 f   -     -     -         1000    0    0 
+bigRig    905100608  4  3 f   -     -     -         1000    0    0 
+bigRig    905100635  4  2 Bf  -     -     -         1000   10    0 
+bigRig    905100662  4  1 Bc  kc    kf    -          990   30    0 
+bigRig    905100713  4  4 c   r     k     r          960   80  200 
+bigRig    905100773  4  3 f   -     -     -         1080    0    0 
+bigRig    905100808  4  2 BKQ -     -     -         1080   10    0 
+bigRig    905103650  7  4 f   -     -     -         1070    0    0 
+bigRig    905103662  6  3 f   -     -     -         1070    0    0 
+bigRig    905103691  6  2 Bk  kc    kf    -         1070   30    0 
+bigRig    905103754  6  1 Bf  -     -     -         1040    5    0 
+bigRig    905103820  6  6 c   rc    f     -         1035   50    0 
+bigRig    905103882  6  5 c   f     -     -          985   20    0 
+bigRig    905103913  7  5 f   -     -     -          965    0    0 
+bigRig    905104004  8  4 f   -     -     -          965    0    0 
+bigRig    905104031  8  3 cc  bc    k     f          965   40    0 
+bigRig    905104099  8  2 Bf  -     -     -          925   10    0 
+bigRig    905104174  8  1 Bc  bc    k     kc         915   50  120 8c 2h
+bigRig    905104233  7  7 f   -     -     -          985    0    0 
+bigRig    905104261  7  6 f   -     -     -          985    0    0 
+bigRig    905104295  7  5 f   -     -     -          985    0    0 
+bigRig    905104331  7  4 c   k     k     b          985   30    0 5h Ah
+bigRig    905104408  8  3 crc k     c     c          955   80    0 9d 9h
+bigRig    905104474  8  2 Bc  kf    -     -          875   20    0 
+bigRig    905104535  7  1 Bf  -     -     -          855    5    0 
+bigRig    905104595  7  7 f   -     -     -          850    0    0 
+bigRig    905104695  7  5 f   -     -     -          850    0    0 
+bigRig    905104759  7  4 f   -     -     -          850    0    0 
+bigRig    905104819  7  4 c   b     -     -          850   20   45 
+bigRig    905104858 10  3 f   -     -     -          875    0    0 
+bigRig    905105017 10  2 Bk  b     -     -          875   20   45 
+bigRig    905105088 10  1 Bf  -     -     -          900    5    0 
+bigRig    905105217  9  9 f   -     -     -          895    0    0 
+bigRig    905105314 10  9 c   f     -     -          895   10    0 
+bigRig    905105407 10  8 c   fQ    -     -          885   10    0 
+bigRig    905141947 10  6 f   -     -     -          875    0    0 
+bigRig    905142053 10  4 c   k     b     -          875   30   70 
+bigRig    905142107 10  3 cc  f     -     -          915   20    0 
+bigRig    905142185 10  2 Bf  -     -     -          895   10    0 
+bigRig    905142267 10  1 Bcf -     -     -          885   10    0 
+bigRig    905142348 10 10 f   -     -     -          875    0    0 
+bigRig    905142391 10  9 c   cc    c     c          875   80    0 Th Ks
+bigRig    905142534  8  7 c   c     c     f          795   50    0 
+bigRig    905142614  7  5 f   -     -     -          745    0    0 
+bigRig    905142654  8  5 f   -     -     -          745    0    0 
+bigRig    905142712  6  4 f   -     -     -          745    0    0 
+bigRig    905142755  6  3 c   kc    krc   bc         745  120  128 9c Th
+bigRig    905142824  6  2 Brc kc    krc   kc         753  130    0 Jc Ac
+bigRig    905142897  6  1 Bcc kc    kf    -          623   40    0 
+bigRig    905142965  6  6 cc  f     -     -          583   40    0 
+bigRig    905143045  6  5 f   -     -     -          543    0    0 
+bigRig    905143102  7  4 c   k     k     k          543   10   35 9c 8h
+bigRig    905143145  7  3 f   -     -     -          568    0    0 
+bigRig    905143185  6  2 Bc  kc    kc    bc         568  100  240 8d Kh
+bigRig    905143259  7  1 Bc  kf    -     -          708   20    0 
+bigRig    905143374  8  8 f   -     -     -          688    0    0 
+bigRig    905143454  9  8 cc  krc   KQ    -          688   50    0 
+bigRig    905143761  7  3 c   kc    kc    cc         638   80    0 Tc 9s
+bigRig    905143834  6  2 Bk  kf    -     -          558   10    0 
+bigRig    905143862  6  1 Bcc kf    -     -          548   20    0 
+bigRig    905143896  6  6 cc  f     -     -          528   20    0 
+bigRig    905143919  6  5 f   -     -     -          508    0    0 
+bigRig    905143934  6  4 c   kc    k     r          508   60  145 
+bigRig    905143998  6  3 c   kc    kf    -          593   20    0 
+bigRig    905144092  6  1 Br  b     bc    kc         573   90    0 Ad As
+bigRig    905144154  7  1 Bc  k     k     k          483   10    0 Ad 8s
+bigRig    905144218  7  7 c   k     f     -          473   10    0 
+bigRig    905144282  7  6 c   rf    -     -          463   30    0 
+bigRig    905144365  8  5 f   -     -     -          433    0    0 
+bigRig    905144430  8  4 f   -     -     -          433    0    0 
+bigRig    905144473  8  3 c   br    bc    kc         433  100    0 Kh Kc
+bigRig    905144595  7  1 Bk  k     kf    -          333   10    0 
+bigRig    905144637  7  1 Bc  k     kf    -          323   10    0 
+bigRig    905144718  7  7 f   -     -     -          313    0    0 
+bigRig    905144817  8  7 c   c     r     b          313   80  190 Jh 9h
+bigRig    905144910  9  7 c   f     -     -          423   20    0 
+bigRig    905144965  9  6 f   -     -     -          403    0    0 
+bigRig    905145052  9  5 f   -     -     -          403    0    0 
+bigRig    905145174  9  4 cc  kf    -     -          403   30    0 
+bigRig    905145270  9  3 f   -     -     -          373    0    0 
+bigRig    905145324  9  2 Bf  -     -     -          373   10    0 
+bigRig    905145443  9  1 Bf  -     -     -          363    5    0 
+bigRig    905145509  9  9 cc  rr    bc    c          358  120  450 9d 7d
+bigRig    905145627  9  8 f   -     -     -          688    0    0 
+bigRig    905145714  8  7 f   -     -     -          688    0    0 
+bigRig    905145787  8  6 c   f     -     -          688   10    0 
+bigRig    905145850  7  4 rr  bc    kc    kf         678   80    0 
+bigRig    905145915  7  4 f   -     -     -          598    0    0 
+bigRig    905145974  7  3 f   -     -     -          598    0    0 
+bigRig    905146118  7  2 Bc  kc    kf    -          598   30    0 
+bigRig    905146167  8  1 Bc  kf    -     -          568   20    0 
+bigRig    905146260  7  7 f   -     -     -          548    0    0 
+bigRig    905146310  7  6 c   k     kf    -          548   10    0 
+bigRig    905146351  7  5 f   -     -     -          538    0    0 
+bigRig    905146399  7  4 f   -     -     -          538    0    0 
+bigRig    905146432  7  4 f   -     -     -          538    0    0 
+bigRig    905146492  6  2 Bf  -     -     -          538   10    0 
+bigRig    905146539  5  1 Bf  -     -     -          528    5    0 
+bigRig    905146568  5  5 f   -     -     -          523    0    0 
+bigRig    905146617  4  3 cc  br    b     b          523   90  205 4s Ts
+bigRig    905146698  4  2 Bk  b     b     b          638   60  125 
+bigRig    905146756  4  1 Br  b     -     -          703   30   60 
+bigRig    905146784  4  4 f   -     -     -          733    0    0 
+bigRig    905146801  4  3 f   -     -     -          733    0    0 
+bigRig    905146828  4  2 Br  b     c     f          733   60    0 
+bigRig    905146868  4  1 Bf  -     -     -          673    5    0 
+bigRig    905146934  5  5 f   -     -     -          668    0    0 
+bigRig    905146961  6  5 f   -     -     -          668    0    0 
+bigRig    905146998  6  4 f   -     -     -          668    0    0 
+bigRig    905147060  6  3 f   -     -     -          668    0    0 
+bigRig    905147079  6  2 Br  rc    c     c          668  110    0 8h 8d
+bigRig    905147117  7  1 Bc  kf    -     -          558   10    0 
+bigRig    905147169  7  7 f   -     -     -          548    0    0 
+bigRig    905147215  7  6 f   -     -     -          548    0    0 
+bigRig    905147274  7  5 c   k     k     k          548   10    0 9d Td
+bigRig    905147352  7  4 c   c     f     -          538   20    0 
+bigRig    905147397  7  3 cc  kc    kc    k          518   50    0 6c 7h
+bigRig    905147470  7  2 Bk  cc    f     -          468   40    0 
+bigRig    905147586  8  1 Bf  -     -     -          428    5    0 
+bigRig    905147656  9  9 c   f     -     -          423   20    0 
+bigRig    905147694  9  8 f   -     -     -          403    0    0 
+bigRig    905147789  9  7 c   c     b     b          403   60  160 Ad 6h
+bigRig    905147858  9  6 cc  k     b     b          503   60  200 Ks 3s
+bigRig    905147954  8  4 c   b     c     k          643   40    0 Qh 8d
+bigRig    905148028  8  3 cc  bc    kf    -          603   40    0 
+bigRig    905148097  8  2 Bc  kc    kc    kf         563   50    0 
+bigRig    905148165  8  1 Bc  k     kf    -          513   20    0 
+bigRig    905148217  9  9 f   -     -     -          493    0    0 
+bigRig    905148291  9  8 f   -     -     -          493    0    0 
+bigRig    905148307  9  7 c   r     k     b          493   50  115 Kd 2d
+bigRig    905148368  9  6 c   f     -     -          558   10    0 
+bigRig    905148451  9  5 f   -     -     -          548    0    0 
+bigRig    905148488  9  4 f   -     -     -          548    0    0 
+bigRig    905148522  9  3 f   -     -     -          548    0    0 
+bigRig    905148558  9  2 Bk  f     -     -          548   10    0 
+bigRig    905148608  9  1 Bcc kr    k     kf         538   40    0 
+bigRig    905148700  8  8 f   -     -     -          498    0    0 
+bigRig    905148727  7  6 f   -     -     -          498    0    0 
+bigRig    905148790  7  5 cc  kf    -     -          498   20    0 
+bigRig    905148851  8  4 cc  c     c     c          478   70    0 Jd Ks
+bigRig    905148911  8  3 c   kc    k     kc         408   40  120 Ts Qd
+bigRig    905148976  8  2 Bk  kc    kc    kf         488   40    0 
+bigRig    905149024  8  1 Bc  k     k     k          448   10    0 5s 2s
+bigRig    905149080  8  8 f   -     -     -          438    0    0 
+bigRig    905149115  8  7 c   f     -     -          438   20    0 
+bigRig    905149171  7  5 c   c     krr   bc         418  140    0 6c 6d
+bigRig    905149249  7  4 f   -     -     -          278    0    0 
+bigRig    905149316  7  3 f   -     -     -          278    0    0 
+bigRig    905149337  6  2 Bc  k     k     k          278   20   45 Qd Kc
+bigRig    905149370  7  1 Bc  k     k     k          303   10   40 Td Ks
+bigRig    905149416  6  6 f   -     -     -          333    0    0 
+bigRig    905149445  6  5 c   kf    -     -          333   10    0 
+bigRig    905149489  6  4 f   -     -     -          323    0    0 
+bigRig    905149517  6  3 f   -     -     -          323    0    0 
+bigRig    905149554  6  2 Bc  bc    b     k          323   60  145 9s Td
+bigRig    905149607  6  1 Bc  kf    -     -          408   10    0 
+bigRig    905149642  6  6 f   -     -     -          398    0    0 
+bigRig    905149657  7  5 f   -     -     -          398    0    0 
+bigRig    905149675  7  4 cc  kc    kf    -          398   30    0 
+bigRig    905149715  7  3 f   -     -     -          368    0    0 
+bigRig    905149747  8  2 Bc  kc    kc    kf         368   50    0 
+bigRig    905149789  8  1 Bc  k     k     k          318   10   20 2d 2h
+bigRig    905149831  8  8 c   b     -     -          328   20   35 
+bigRig    905149850  8  7 f   -     -     -          343    0    0 
+bigRig    905149879  8  6 f   -     -     -          343    0    0 
+bigRig    905149907  8  5 c   f     -     -          343   10    0 
+bigRig    905149965  8  4 cc  bc    b     c          333   80  250 Js 7s
+bigRig    905150016  7  3 f   -     -     -          503    0    0 
+bigRig    905150058  8  2 Bk  kf    -     -          503   10    0 
+bigRig    905150094  8  1 Bcrc kc    kf    -          493   50    0 
+bigRig    905150170  8  8 cc  f     -     -          443   20    0 
+bigRig    905150235  8  7 f   -     -     -          423    0    0 
+bigRig    905150278  8  6 f   -     -     -          423    0    0 
+bigRig    905150322  9  6 f   -     -     -          423    0    0 
+bigRig    905150368  9  5 cc  kc    k     c          423   50  175 3s 6s
+bigRig    905150413  9  4 f   -     -     -          548    0    0 
+bigRig    905150459  9  3 f   -     -     -          548    0    0 
+bigRig    905150496  8  2 Bc  kf    -     -          548   20    0 
+bigRig    905150528  8  1 Bf  -     -     -          528    5    0 
+bigRig    905150612  8  8 c   f     -     -          523   20    0 
+bigRig    905150695  8  7 ccc c     f     -          503   50    0 
+bigRig    905150739  7  5 f   -     -     -          453    0    0 
+bigRig    905150793  7  4 cc  kc    kc    kc         453   70  175 4d Ad
+bigRig    905150832  8  3 cr  bc    kc    kc         558  100  305 Qc Qs
+bigRig    905150899  8  2 Bf  -     -     -          763   10    0 
+bigRig    905150935  7  1 Bf  -     -     -          753    5    0 
+bigRig    905150961  7  7 r   r     b     b          748   80  180 Qh Ah
+bigRig    905151002  9  8 f   -     -     -          848    0    0 
+bigRig    905151098 10  8 f   -     -     -          848    0    0 
+bigRig    905151114 10  7 f   -     -     -          848    0    0 
+bigRig    905151160 10  6 cc  kc    k     b          848   50   95 
+bigRig    905151200 10  5 c   kf    -     -          893   20    0 
+bigRig    905151263 10  4 cr  bc    kcc   kc         873  120    0 Qc As
+bigRig    905151342 10  3 rr  kc    br    brc        753  190  270 As Ks
+bigRig    905151477  9  2 Bk  kf    -     -          833   10    0 
+bigRig    905151576 10  1 Bc  k     k     kf         823   10    0 
+bigRig    905151649  9  9 f   -     -     -          813    0    0 
+bigRig    905151701 10  9 cc  rc    c     cc         813  140    0 As 2c
+bigRig    905151790 10  8 f   -     -     -          673    0    0 
+bigRig    905151860 10  7 f   -     -     -          673    0    0 
+bigRig    905151915  9  5 rc  bc    bc    k          673  110    0 9h 9c
+bigRig    905151973  9  4 cc  kc    kc    kc         563   70  155 Th 9d
+bigRig    905152019  9  4 cc  b     b     -          648   50  120 
+bigRig    905152068 10  3 f   -     -     -          718    0    0 
+bigRig    905152108 10  2 Bc  br    bc    kf         718  100    0 
+bigRig    905152221 10  1 Bc  kf    -     -          618   10    0 
+bigRig    905152263 10 10 f   -     -     -          608    0    0 
+bigRig    905152351  9  8 cc  cc    kc    bc         608  100    0 8h Js
+bigRig    905152424 10  8 cc  k     kc    k          508   40    0 9c Qc
+bigRig    905152501 10  7 cc  rc    kc    kf         468  100    0 
+bigRig    905152634 10  6 f   -     -     -          368    0    0 
+bigRig    905152682 10  5 f   -     -     -          368    0    0 
+bigRig    905152786 10  4 c   c     f     -          368   20    0 
+bigRig    905152828 10  3 c   kf    -     -          348   10    0 
+bigRig    905152888 10  2 Bk  kf    -     -          338   10    0 
+bigRig    905152940 10  1 Bc  kf    -     -          328   10    0 
+bigRig    905152969 10 10 c   f     -     -          318   10    0 
+bigRig    905153137  9  8 c   r     c     k          308   80    0 9s Tc
+bigRig    905153339 10  8 f   -     -     -          228    0    0 
+bigRig    905153446  9  7 f   -     -     -          228    0    0 
+bigRig    905153462  9  6 f   -     -     -          228    0    0 
+bigRig    905153523 10  5 cc  kf    -     -          228   20    0 
+bigRig    905153571 10  4 f   -     -     -          208    0    0 
+bigRig    905153648  9  3 cc  kc    kf    -          208   30    0 
+bigRig    905153715 10  2 Bk  kf    -     -          178   10    0 
+bigRig    905153803  9  1 Bf  -     -     -          168    5    0 
+bigRig    905153908  8  8 c   k     k     br         163   70  170 Kh 4h
+bigRig    905154018  8  7 c   f     -     -          263   20    0 
+bigRig    905154049  9  6 cc  brc   rc    br         243  200  735 Td Jd
+bigRig    905154195  9  5 f   -     -     -          778    0    0 
+bigRig    905154237  9  3 c   k     f     -          778   10    0 
+bigRig    905154275  9  2 Bf  Q     -     -          768   10    0 
+bigRig    905172555  7  5 f   -     -     -          758    0    0 
+bigRig    905172624  6  3 f   -     -     -          758    0    0 
+bigRig    905172665  6  4 f   -     -     -          758    0    0 
+bigRig    905172726  5  2 Bk  k     b     b          758   50  110 Qd 7h
+bigRig    905172769  4  1 Bc  k     k     kf         818   10    0 
+bigRig    905172827  4  4 r   b     bc    bc         808  110  117 Ah Ac
+bigRig    905172905  5  3 f   -     -     -          815    0    0 
+bigRig    905172952  6  2 Bc  k     k     k          815   20    0 9d Qs
+bigRig    905172983  6  1 Bc  kc    kc    kc         795   60    0 6c 8c
+bigRig    905173038  6  6 f   -     -     -          735    0    0 
+bigRig    905173095  6  5 c   c     r     -          735   60  115 
+bigRig    905173129  6  4 f   -     -     -          790    0    0 
+bigRig    905173177  6  3 f   -     -     -          790    0    0 
+bigRig    905173222  6  2 Bk  k     kf    -          790   10    0 
+bigRig    905173248  6  1 Bf  -     -     -          780    5    0 
+bigRig    905173268  6  6 f   -     -     -          775    0    0 
+bigRig    905173298  7  6 c   f     -     -          775   10    0 
+bigRig    905173358  8  6 f   -     -     -          765    0    0 
+bigRig    905173377  7  4 c   f     -     -          765   10    0 
+bigRig    905173433  7  3 f   -     -     -          755    0    0 
+bigRig    905173488  7  2 Bk  bc    k     bc         755   70    0 Ac 5c
+bigRig    905173552  7  1 Bf  -     -     -          685    5    0 
+bigRig    905173613  7  7 f   -     -     -          680    0    0 
+bigRig    905173656  7  6 f   -     -     -          680    0    0 
+bigRig    905173683  7  5 c   f     -     -          680   10    0 
+bigRig    905173725  7  4 cc  f     -     -          670   20    0 
+bigRig    905173767  7  3 c   k     b     b          650   50  120 Ah Qc
+bigRig    905173800  7  2 B   -     -     -          720   10   15 
+bigRig    905173808  7  1 Bf  -     -     -          725    5    0 
+bigRig    905173852  7  7 r   c     c     f          720   60    0 
+bigRig    905173908  7  6 c   b     b     k          660   50  115 3s Qs
+bigRig    905173943  7  5 c   b     k     k          725   20   70 8s Td
+bigRig    905173982  6  3 c   k     kf    -          775   10    0 
+bigRig    905174021  6  2 Bk  f     -     -          765   10    0 
+bigRig    905174102  6  1 Bc  k     k     kc         755   30   40 2c As
+bigRig    905174142  6  6 f   -     -     -          765    0    0 
+bigRig    905174179  6  5 c   c     f     -          765   20    0 
+bigRig    905174253  6  4 f   -     -     -          745    0    0 
+bigRig    905174264  6  3 f   -     -     -          745    0    0 
+bigRig    905174293  6  2 Bc  kf    -     -          745   20    0 
+bigRig    905174315  5  1 Bc  kf    -     -          725   10    0 
+bigRig    905174354  5  4 f   -     -     -          715    0    0 
+bigRig    905174373  7  4 cc  kc    k     k          715   30    0 3d 3c
+bigRig    905174475  7  3 f   -     -     -          685    0    0 
+bigRig    905174512  7  2 Bk  kf    -     -          685   10    0 
+bigRig    905174562  7  1 Bf  -     -     -          675    5    0 
+bigRig    905174591  7  7 f   -     -     -          670    0    0 
+bigRig    905174632  8  7 f   -     -     Q          670    0    0 
+bigRig    905184516  9  3 c   k     k     k          670   10    0 Td Jh
+bigRig    905184608  9  2 Bk  k     kf    -          660   10    0 
+bigRig    905184654  9  1 Bf  -     -     -          650    5    0 
+bigRig    905184672  9  9 c   k     c     r          645   70  155 3c 6c
+bigRig    905184738  9  7 c   k     k     k          730   10    0 4c Kh
+bigRig    905184802  8  5 f   -     -     -          720    0    0 
+bigRig    905184842  8  4 c   f     -     -          720   10    0 
+bigRig    905184879  8  3 f   -     -     -          710    0    0 
+bigRig    905184925  8  2 Bf  -     -     -          710   10    0 
+bigRig    905184941  8  1 Br  -     -     -          700   20   30 
+bigRig    905184958  8  8 c   c     br    b          710  120  285 9h Qc
+bigRig    905185028  8  7 r   b     -     -          875   30   85 
+bigRig    905185060  8  6 f   -     -     -          930    0    0 
+bigRig    905185120  8  5 c   k     k     kf         930   10    0 
+bigRig    905185167  8  4 cc  kf    -     -          920   20    0 
+bigRig    905185225  7  2 f   -     -     -          900    0    0 
+bigRig    905185239  7  2 B   -     -     -          900   10   15 
+bigRig    905185251  7  1 Bc  kc    kr    b          905   80    0 9s 7h
+bigRig    905185308  7  7 c   c     f     -          825   30    0 
+bigRig    905185370  8  7 r   b     b     -          795   50  105 
+bigRig    905185448  7  5 cc  kf    -     -          850   20    0 
+bigRig    905185497  9  5 c   k     f     -          830   20    0 
+bigRig    905185595 10  5 cc  rc    kc    kQ         810   70    0 
+bigRig    906080801  9  6 f   -     -     -          537    0    0 
+bigRig    906080865 10  5 f   -     -     -          537    0    0 
+bigRig    906080935  9  4 f   -     -     -          537    0    0 
+bigRig    906080993 10  3 f   -     -     -          537    0    0 
+bigRig    906081109 10  2 Bk  bc    k     b          537   50  180 4c 5h
+bigRig    906081190 10  1 Bc  kf    -     -          667   10    0 
+bigRig    906081239 10 10 f   -     -     -          657    0    0 
+bigRig    906081306 10  9 c   r     b     f          657   50    0 
+bigRig    906081374  9  7 cc  bc    cc    bc         607  140    0 Jc Kh
+bigRig    906081490 10  6 f   -     -     -          467    0    0 
+bigRig    906081556 10  5 f   -     -     -          467    0    0 
+bigRig    906081632 10  4 f   -     -     -          467    0    0 
+bigRig    906081744  9  3 c   f     -     -          467   10    0 
+bigRig    906081797  9  2 Bc  f     -     -          457   20    0 
+bigRig    906081923  8  1 Bf  -     -     -          437    5    0 
+bigRig    906081967  8  8 c   cc    c     k          432   70    0 Ad Tc
+bigRig    906082055  8  7 c   f     -     -          362   20    0 
+bigRig    906082149  8  6 f   -     -     -          342    0    0 
+bigRig    906082191  8  5 f   -     -     -          342    0    0 
+bigRig    906082265  9  5 r   bc    k     br         342  100  350 Js Ad
+bigRig    906082365  9  5 f   -     -     -          592    0    0 
+bigRig    906082422  7  3 f   -     -     -          592    0    0 
+bigRig    906082446  8  2 Bk  c     c     k          592   40   90 Ac 3d
+bigRig    906082490  9  1 Bf  -     -     -          642    5    0 
+bigRig    906082618 10 10 f   -     -     -          637    0    0 
+bigRig    906082684 10  9 f   -     -     -          637    0    0 
+bigRig    906082755  9  8 c   k     r     b          637   70  135 
+bigRig    906082808 10  7 f   -     -     -          702    0    0 
+bigRig    906082882 10  6 r   rc    c     kf         702   80    0 
+bigRig    906082952 10  5 cc  kc    krr   brc        622  190  395 4h Ad
+bigRig    906083025 10  4 c   b     br    brc        827  160  370 Ah 6h
+bigRig    906083087 10  3 f   -     -     -         1037    0    0 
+bigRig    906083156 10  2 Bc  kc    kc    kc        1037   70    0 8h 6s
+bigRig    906083214 10  1 Bc  kf    -     -          967   10    0 
+bigRig    906083326 10 10 c   f     -     -          957   10    0 
+bigRig    906083383 10  9 c   r     c     f          947   60    0 
+bigRig    906083452 10  8 f   -     -     -          887    0    0 
+bigRig    906083532 10  7 cc  k     c     f          887   40    0 
+bigRig    906083614 10  6 f   -     -     -          847    0    0 
+bigRig    906083679 10  5 f   -     -     -          847    0    0 
+bigRig    906083744 10  4 f   -     -     -          847    0    0 
+bigRig    906083834 10  3 c   k     kf    -          847   10    0 
+bigRig    906083940 10  2 Bk  k     kf    -          837   10    0 
+bigRig    906084009 10  1 Bc  kc    kf    -          827   20    0 
+bigRig    906084089 10 10 f   -     -     -          807    0    0 
+bigRig    906084104 10  9 f   -     -     -          807    0    0 
+bigRig    906084164 10  8 f   -     -     -          807    0    0 
+bigRig    906084246 10  7 f   -     -     -          807    0    0 
+bigRig    906084315 10  6 f   -     -     -          807    0    0 
+bigRig    906084406 10  5 c   f     -     -          807   10    0 
+bigRig    906084450 10  4 cc  cc    kc    kf         797   60    0 
+bigRig    906084574 10  3 c   kc    kc    kc         737   60    0 8d Ah
+bigRig    906084647 10  2 Bk  k     k     k          677   10    0 4s Ad
+bigRig    906084693 10  1 Bc  kf    -     -          667   10    0 
+bigRig    906084827 10 10 c   f     -     -          657   30    0 
+bigRig    906084916 10  9 f   -     -     -          627    0    0 
+bigRig    906085036 10  8 f   -     -     -          627    0    0 
+bigRig    906085120 10  7 f   -     -     -          627    0    0 
+bigRig    906085200 10  6 rc  k     kf    -          627   30    0 
+bigRig    906085302 10  5 f   -     -     -          597    0    0 
+bigRig    906085411 10  4 c   kf    -     -          597   10    0 
+bigRig    906085537 10  3 c   b     k     kf         587   20    0 
+bigRig    906085662 10  2 Bc  kf    -     -          567   20    0 
+bigRig    906085795 10  1 Bc  kcc   kc    kf         547   60    0 
+bigRig    906085904 10 10 c   c     c     k          487   70    0 9d 8c
+bigRig    906086003 10  9 c   k     cc    f          417   80    0 
+bigRig    906086059 10  8 f   -     -     -          337    0    0 
+bigRig    906086110 10  7 c   kf    -     -          337   10    0 
+bigRig    906086204 10  6 c   k     k     b          327   30   95 2h As
+bigRig    906086247 10  5 c   kc    kc    kf         392   40    0 
+bigRig    906086359 10  4 f   Q     -     -          352    0    0 
+bigRig    906300479 10  7 r   k     c     c         1161   60    0 Jc Ah
+bigRig    906300539 10  6 cc  k     k     kf        1101   20    0 
+bigRig    906300600  9  5 f   -     -     -         1081    0    0 
+bigRig    906300655 10  4 f   -     -     -         1081    0    0 
+bigRig    906300704 10  3 f   -     -     -         1081    0    0 
+bigRig    906300744 10  2 Bf  -     -     -         1081   10    0 
+bigRig    906300829  9  1 Bc  bc    kc    k         1071   50    0 9h 5h
+bigRig    906300905 10 10 f   -     -     -         1021    0    0 
+bigRig    906300961  9  8 f   -     -     Q         1021    0    0 
+bigRig    906319519  9  3 f   -     -     -         1636    0    0 
+bigRig    906319563  9  2 Bf  -     -     -         1636   10    0 
+bigRig    906319635  7  1 Bc  kf    -     -         1626   20    0 
+bigRig    906319683  7  7 f   -     -     -         1606    0    0 
+bigRig    906319731  8  7 f   -     -     -         1606    0    0 
+bigRig    906319788  8  6 f   -     -     -         1606    0    0 
+bigRig    906319834 10  7 f   -     -     -         1606    0    0 
+bigRig    906319904 10  8 fQ  -     -     -         1606    0    0 
+bigRig    907039138  9  3 f   -     -     -         1606    0    0 
+bigRig    907039215  8  2 Bk  k     f     -         1606   10    0 
+bigRig    907039269  8  1 Bf  -     -     -         1596    5    0 
+bigRig    907039356  8  8 cc  c     c     c         1591   70    0 8s Ks
+bigRig    907039493  8  7 c   k     f     -         1521   10    0 
+bigRig    907039618  9  6 f   -     -     -         1511    0    0 
+bigRig    907039682 10  6 c   f     -     -         1511   10    0 
+bigRig    907039751  9  4 c   r     c     c         1501   70  195 As Kd
+bigRig    907039801  9  3 f   -     -     -         1626    0    0 
+bigRig    907039840  9  2 Bf  -     -     -         1626   10    0 
+bigRig    907039912  9  1 Bf  -     -     -         1616    5    0 
+bigRig    907039998  9  9 f   -     -     -         1611    0    0 
+bigRig    907040063  9  8 f   -     -     -         1611    0    0 
+bigRig    907040157 10  8 f   -     -     -         1611    0    0 
+bigRig    907040264 10  7 cc  f     -     -         1611   20    0 
+bigRig    907040347 10  6 cc  bc    kf    -         1591   70    0 
+bigRig    907040454 10  5 f   -     -     -         1521    0    0 
+bigRig    907040591  9  4 f   -     -     -         1521    0    0 
+bigRig    907040652  9  3 cc  f     -     -         1521   20    0 
+bigRig    907040710  9  2 Bcc kf    -     -         1501   40    0 
+bigRig    907040793  9  1 Bf  -     -     -         1461    5    0 
+bigRig    907040872  9  9 f   -     -     -         1456    0    0 
+bigRig    907040959 10  9 c   c     c     f         1456   40    0 
+bigRig    907041033  9  7 cc  c     r     b         1416  110  425 Th 9s
+bigRig    907041104 10  7 cc  f     -     -         1731   20    0 
+bigRig    907041209  9  6 f   -     -     -         1711    0    0 
+bigRig    907041253  8  4 crc b     b     kc        1711   90    0 Js Jd
+bigRig    907041311  9  3 f   -     -     -         1621    0    0 
+bigRig    907041394  8  2 Bk  f     -     -         1621   10    0 
+bigRig    907041415  9  1 Bc  bcc   kc    kf        1611   60    0 
+bigRig    907041505 10 10 c   r     c     f         1551   90    0 
+bigRig    907041594 10  9 f   -     -     -         1461    0    0 
+bigRig    907041651 10  8 f   -     -     -         1461    0    0 
+bigRig    907041707 10  7 f   -     -     -         1461    0    0 
+bigRig    907041757 10  6 f   -     -     -         1461    0    0 
+bigRig    907041814 10  6 f   -     -     -         1461    0    0 
+bigRig    907041888  9  4 cc  c     c     f         1461   60    0 
+bigRig    907041950  9  3 f   -     -     -         1401    0    0 
+bigRig    907042006  9  2 Bc  kf    -     -         1401   20    0 
+bigRig    907042069  9  1 Bf  -     -     -         1381    5    0 
+bigRig    907042119  8  8 c   f     -     -         1376   10    0 
+bigRig    907042189  8  7 f   -     -     -         1366    0    0 
+bigRig    907042255  8  6 f   -     -     -         1366    0    0 
+bigRig    907042317  8  5 c   k     f     -         1366   10    0 
+bigRig    907042393  9  4 f   -     -     -         1356    0    0 
+bigRig    907042487 10  3 f   -     -     -         1356    0    0 
+bigRig    907042541  9  2 Bk  b     k     kf        1356   20    0 
+bigRig    907042658 10  1 Bf  -     -     -         1336    5    0 
+bigRig    907042696 10 10 c   rc    r     k         1331   90  365 Jd Qh
+bigRig    907042799 10  9 f   -     -     -         1606    0    0 
+bigRig    907042956 10  8 c   kf    -     -         1606   10    0 
+bigRig    907043033 10  7 f   -     -     -         1596    0    0 
+bigRig    907043111 10  6 f   -     -     -         1596    0    0 
+bigRig    907043240  9  5 f   -     -     -         1596    0    0 
+bigRig    907043338  8  3 f   -     -     -         1596    0    0 
+bigRig    907043427  8  1 BQ  -     -     -         1596   10    0 
+bigRig    907045238  9  6 cc  f     -     -         1586   20    0 
+bigRig    907045330 10  6 cc  cr    rc    c         1566  150    0 9s Qs
+bigRig    907045423  8  4 f   -     -     -         1416    0    0 
+bigRig    907045540 10  3 rr  bc    kc    kc        1416  100    0 Td Th
+bigRig    907045627 10  2 Bk  bc    kc    kc        1316   70    0 8h 3c
+bigRig    907045781  9  1 Bc  kf    -     -         1246   10    0 
+bigRig    907045891  9  9 f   -     -     -         1236    0    0 
+bigRig    907045932  9  8 c   kc    c     kc        1236   70    0 8c Jc
+bigRig    907046037  9  7 c   k     b     k         1166   30  105 Kc Js
+bigRig    907046112 10  8 f   -     -     -         1241    0    0 
+bigRig    907046194 10  6 f   -     -     -         1241    0    0 
+bigRig    907046285 10  5 fQ  -     -     -         1241    0    0 
+bigRig    907069460  4  4 c   c     c     f         1241   40    0 
+bigRig    907069496  5  4 f   -     -     -         1201    0    0 
+bigRig    907069520  4  2 c   rr    cf    -         1201   70    0 
+bigRig    907069575  4  2 Br  brc   kc    k         1131   80    0 Kd As
+bigRig    907069626  5  1 Bc  kr    bc    kcc       1051  150    0 Ks Th
+bigRig    907069686  5  5 f   -     -     -          901    0    0 
+bigRig    907069701  5  4 f   -     -     -          901    0    0 
+bigRig    907069725  5  3 f   -     -     -          901    0    0 
+bigRig    907069767  5  2 Bk  k     k     k          901   10    0 3s 6s
+bigRig    907069806  5  1 Bc  k     kf    -          891   10    0 
+bigRig    907069839  5  5 f   -     -     -          881    0    0 
+bigRig    907069875  5  4 c   k     k     k          881   10    0 5h Ac
+bigRig    907069901  5  3 c   f     -     -          871   10    0 
+bigRig    907069939  5  2 Bk  k     k     f          861   10    0 
+bigRig    907069965  5  1 Br  k     kc    kc         851   80    0 8s 8c
+bigRig    907070005  4  4 cc  c     f     -          771   30    0 
+bigRig    907070040  4  4 c   k     f     -          741   10    0 
+bigRig    907070058  4  3 cc  c     c     c          731   70    0 6c 5d
+bigRig    907070077  4  2 Bk  f     -     -          661   10    0 
+bigRig    907070102  4  1 Br  br    kc    kf         651  120    0 
+bigRig    907070151  4  4 c   f     -     -          531   20    0 
+bigRig    907070175  4  3 c   kf    -     -          511   10    0 
+bigRig    907070196  4  2 Br  bc    c     c          501   90  210 6s 6h
+bigRig    907070221  4  1 Bc  kc    krr   b          621  130  290 Kc 8c
+bigRig    907070269  3  3 cc  c     c     f          781   50    0 
+bigRig    907070298  3  2 Bc  c     k     k          731   30   90 7c Kc
+bigRig    907070329  3  1 Bc  kc    kr    b          791   90  190 Jc 8h
+bigRig    907070351  3  3 c   r     c     c          891   70    0 3d Jd
+bigRig    907070382  3  2 Bk  kf    -     -          821   10    0 
+bigRig    907070405  3  1 Bf  -     -     -          811    5    0 
+bigRig    907070433  3  3 r   b     -     -          806   30   55 
+bigRig    907070446  3  2 Bk  rr    b     b          831   90  210 
+bigRig    907070475  4  1 Bf  -     -     -          951    5    0 
+bigRig    907070503  4  4 f   -     -     -          946    0    0 
+bigRig    907070509  4  3 f   -     -     -          946    0    0 
+bigRig    907070522  5  2 Bk  f     -     -          946   10    0 
+bigRig    907070552  5  1 Bf  -     -     -          936    5    0 
+bigRig    907070586  5  5 f   -     -     -          931    0    0 
+bigRig    907070613  5  4 r   b     r     b          931   90  300 9s Ac
+bigRig    907070656  5  3 r   k     f     -         1141   20    0 
+bigRig    907070697  5  2 Bk  k     k     kf        1121   10    0 
+bigRig    907070728  5  1 Bf  -     -     -         1111    5    0 
+bigRig    907070755  5  5 c   c     f     -         1106   30    0 
+bigRig    907070793  5  4 f   -     -     -         1076    0    0 
+bigRig    907070834  5  3 c   b     b     k         1076   40   85 9d Js
+bigRig    907070866  5  2 Bf  -     -     -         1121   10    0 
+bigRig    907070895  6  1 Bc  k     bc    kc        1111   80  115 Kh 6h
+bigRig    907070966  5  5 c   k     f     -         1146   10    0 
+bigRig    907071013  5  4 f   -     -     -         1136    0    0 
+bigRig    907071054  5  3 f   -     -     -         1136    0    0 
+bigRig    907071085  4  2 Bf  -     -     -         1136   10    0 
+bigRig    907071115  4  1 Bf  -     -     -         1126    5    0 
+bigRig    907071137  5  5 f   -     -     -         1121    0    0 
+bigRig    907071158  5  4 c   c     c     f         1121   40    0 
+bigRig    907071204  4  3 f   -     -     -         1081    0    0 
+bigRig    907071244  4  2 Bc  k     bc    kf        1081   60    0 
+bigRig    907071298  5  1 Bf  -     -     -         1021    5    0 
+bigRig    907071353  5  5 f   -     -     -         1016    0    0 
+bigRig    907071388  4  3 f   -     -     -         1016    0    0 
+bigRig    907071441  4  2 Bk  f     -     -         1016   10    0 
+bigRig    907071481  4  1 Bf  -     -     -         1006    5    0 
+bigRig    907071510  4  4 f   -     -     -         1001    0    0 
+bigRig    907071529  4  3 f   -     -     -         1001    0    0 
+bigRig    907071565  4  2 Br  b     br    k         1001   90  185 Jh Jd
+bigRig    907071652  4  1 Bc  k     k     k         1096   10    0 3d 9h
+bigRig    907071700  4  4 f   -     -     -         1086    0    0 
+bigRig    907071764  4  3 f   -     -     -         1086    0    0 
+bigRig    907071780  4  2 Bk  b     b     b         1086   60    0 3c As
+bigRig    907071812  4  1 Bc  k     kf    -         1026   10    0 
+bigRig    907071946  3  3 Q   -     -     -         1016    0    0 
+bigRig    907096085 10  6 cc  cc    kc    kf        1016   60    0 
+bigRig    907096348  7  4 f   -     -     -          956    0    0 
+bigRig    907096397  7  4 cc  kc    kc    kf         956   70    0 
+bigRig    907096484  7  3 f   -     -     -          886    0    0 
+bigRig    907096553  8  2 Bcc kf    -     -          886   40    0 
+bigRig    907096638  9  1 Bc  kf    -     -          846   10    0 
+bigRig    907096723  9  9 cc  f     -     -          836   40    0 
+bigRig    907096830 10  9 f   -     -     -          796    0    0 
+bigRig    907096910  9  8 c   c     c     k          796   50    0 Ac 8h
+bigRig    907097042  8  6 rc  brc   kc    k          746   90  295 Ad Tc
+bigRig    907097108  8  6 f   -     -     -          951    0    0 
+bigRig    907097155  6  3 r   -     -     -          951   20   35 
+bigRig    907097178  6  2 Bk  b     b     k          966   40  100 Tc 8c
+bigRig    907097294  6  1 Bf  -     -     -         1026    5    0 
+bigRig    907097396  7  7 f   -     -     -         1021    0    0 
+bigRig    907097473  8  7 f   -     -     -         1021    0    0 
+bigRig    907097564  9  7 r   cc    kf    -         1021   40    0 
+bigRig    907097644 10  7 f   -     -     -          981    0    0 
+bigRig    907097694  9  5 c   kc    k     kf         981   20    0 
+bigRig    907097749  8  4 c   b     kf    -          961   20    0 
+bigRig    907097925  7  3 c   kc    kf    -          941   20    0 
+bigRig    907098012  6  2 Bk  kf    -     -          921   10    0 
+bigRig    907098082  7  1 Bf  -     -     -          911    5    0 
+bigRig    907098176  7  7 f   -     -     -          906    0    0 
+bigRig    907098211  7  6 f   -     -     -          906    0    0 
+bigRig    907098274  8  6 f   -     -     -          906    0    0 
+bigRig    907098349  7  4 f   -     -     -          906    0    0 
+bigRig    907098399  7  3 f   -     -     -          906    0    0 
+bigRig    907098490  8  2 BQ  -     -     -          906   10    0 
+bigRig    907153859  8  3 f   -     -     -          896    0    0 
+bigRig    907153894  6  2 f   -     -     -          896    0    0 
+bigRig    907153978  6  2 Bc  kc    kc    br         896  130  410 9c 7c
+bigRig    907154041  6  1 Bc  b     -     -         1176   20   40 
+bigRig    907154073  6  6 c   c     f     -         1196   20    0 
+bigRig    907154094  6  5 r   rc    b     c         1176  100    0 Qs Ac
+bigRig    907154137  6  4 cc  r     k     k         1076   40    0 As Jh
+bigRig    907154195  6  3 c   b     -     -         1036   20   45 
+bigRig    907154218  6  2 Bk  k     k     k         1061   10    0 Qh 2h
+bigRig    907154258  6  1 Bf  -     -     -         1051    5    0 
+bigRig    907154272  6  6 c   c     c     f         1046   50    0 
+bigRig    907154304  6  5 c   f     -     -          996   10    0 
+bigRig    907154331  6  4 f   -     -     -          986    0    0 
+bigRig    907154388  6  3 f   -     -     -          986    0    0 
+bigRig    907154414  6  2 Bk  f     -     -          986   10    0 
+bigRig    907154451  6  1 Bc  b     bc    b          976   80  180 6s 8d
+bigRig    907154490  6  6 c   k     k     k         1076   20    0 6s Ah
+bigRig    907154520  6  5 cc  f     -     -         1056   20    0 
+bigRig    907154544  6  4 f   -     -     -         1036    0    0 
+bigRig    907154585  6  3 f   -     -     -         1036    0    0 
+bigRig    907154595  6  2 Bk  b     b     f         1036   40    0 
+bigRig    907154664  7  1 Bc  kf    -     -          996   10    0 
+bigRig    907154704  7  7 f   -     -     -          986    0    0 
+bigRig    907154756  7  6 c   k     k     k          986   20    0 Qd Jh
+bigRig    907154803  7  5 c   r     b     b          966   70  140 
+bigRig    907154834  7  4 f   -     -     -         1036    0    0 
+bigRig    907154864  6  3 c   r     b     k         1036   50  140 Th Qs
+bigRig    907154896  6  2 Bk  k     c     k         1126   30    0 Jd 4d
+bigRig    907154925  6  1 Bcc kc    kc    kf        1096   70    0 
+bigRig    907154964  6  6 f   -     -     -         1026    0    0 
+bigRig    907154971  6  5 f   -     -     -         1026    0    0 
+bigRig    907155008  6  4 fQ  -     -     -         1026    0    0 
+bigRig    907155273  7  7 f   -     -     -         1026    0    0 
+bigRig    907155325  8  6 f   -     -     -         1026    0    0 
+bigRig    907155358  7  3 cc  kf    -     -         1026   20    0 
+bigRig    907155386  7  2 Bc  k     b     b         1006   60  125 Ad 2c
+bigRig    907155416  7  1 Bc  kf    -     -         1071   20    0 
+bigRig    907155439  7  7 c   f     -     -         1051   20    0 
+bigRig    907155456  7  6 rc  r     b     b         1031  100  255 
+bigRig    907155504  7  5 f   -     -     -         1186    0    0 
+bigRig    907155538  7  5 f   -     -     -         1186    0    0 
+bigRig    907155558  6  3 f   -     -     -         1186    0    0 
+bigRig    907155593  6  2 Bc  f     -     -         1186   20    0 
+bigRig    907155615  6  1 Bf  -     -     -         1166    5    0 
+bigRig    907155639  6  6 c   c     c     k         1161   50    0 Qs 9s
+bigRig    907155663  6  5 f   -     -     -         1111    0    0 
+bigRig    907155681  6  4 f   -     -     -         1111    0    0 
+bigRig    907155754  6  3 f   -     -     -         1111    0    0 
+bigRig    907155776  6  2 Bk  kf    -     -         1111   10    0 
+bigRig    907155813  6  1 Bf  -     -     -         1101    5    0 
+bigRig    907155843  6  6 f   -     -     -         1096    0    0 
+bigRig    907155856  6  5 f   -     -     -         1096    0    0 
+bigRig    907155878  6  4 c   k     k     k         1096   10    0 Jc 9c
+bigRig    907155908  6  3 rc  b     -     -         1086   40   85 
+bigRig    907155934  6  2 Bc  bc    kc    kc        1131   90  265 9h Ac
+bigRig    907155980  6  1 Bf  -     -     -         1306    5    0 
+bigRig    907156002  6  6 c   f     -     -         1301   20    0 
+bigRig    907156031  6  5 f   -     -     -         1281    0    0 
+bigRig    907156059  6  4 cc  k     f     -         1281   30    0 
+bigRig    907156092  6  3 c   r     b     k         1251   50  115 8c Qh
+bigRig    907156121  7  2 Bf  -     -     -         1316   10    0 
+bigRig    907156147  7  1 Bc  b     b     -         1306   50   90 
+bigRig    907156171  7  7 c   k     k     k         1346   10    0 4d 4h
+bigRig    907156201  7  6 cc  c     f     -         1336   30    0 
+bigRig    907156230  7  5 f   -     -     -         1306    0    0 
+bigRig    907156253  7  4 f   -     -     -         1306    0    0 
+bigRig    907156270  7  3 cc  br    k     k         1306   50    0 Jc Td
+bigRig    907156341  7  2 Bc  cc    kc    k         1256   70    0 5d As
+bigRig    907156425  6  1 Bc  k     k     k         1186   20    0 6h Ad
+bigRig    907156458  6  6 c   b     k     f         1166   30    0 
+bigRig    907156495  6  5 cc  rr    k     k         1136   70  220 7h 8h
+bigRig    907156529  6  4 cc  c     f     -         1286   30    0 
+bigRig    907156556  6  3 f   -     -     -         1256    0    0 
+bigRig    907156589  6  2 Bf  -     -     -         1256   10    0 
+bigRig    907156619  7  1 Bf  -     -     -         1246    5    0 
+bigRig    907156645  7  7 r   rc    c     c         1241  110  315 Kd Kh
+bigRig    907156691  7  6 f   -     -     -         1446    0    0 
+bigRig    907156728  7  5 c   rr    bc    c         1446  110    0 Tc Qs
+bigRig    907156775  7  4 cc  k     k     k         1336   20   75 2s 2d
+bigRig    907156810  7  3 cc  k     f     -         1391   20    0 
+bigRig    907156839  7  2 Bf  -     -     -         1371   10    0 
+bigRig    907156868  7  1 Bf  -     -     -         1361    5    0 
+bigRig    907156881  7  7 c   f     -     -         1356   20    0 
+bigRig    907156922  7  6 c   cc    b     b         1336   70  190 Tc Jh
+bigRig    907156959  7  5 f   -     -     -         1456    0    0 
+bigRig    907156992  7  4 fQ  -     -     -         1456    0    0 

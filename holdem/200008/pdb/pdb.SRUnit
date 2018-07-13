@@ -1,0 +1,67 @@
+SRUnit    965363487 10  5 c   b     b     -         1000   40   70 
+SRUnit    965363532 10  4 rr  br    b     b         1030  110    0 Qc Qs
+SRUnit    965363595 10  3 r   kf    -     -          920   20    0 
+SRUnit    965363652 10  2 Bc  kc    kf    -          900   30    0 
+SRUnit    965363704 10  1 Br  b     b     -          870   60  140 
+SRUnit    965363734 10 10 r   b     k     b          950   50  140 
+SRUnit    965363796 10  9 f   -     -     -         1040    0    0 
+SRUnit    965363843 10  8 f   -     -     -         1040    0    0 
+SRUnit    965363897 10  7 f   -     -     -         1040    0    0 
+SRUnit    965363942 10  6 f   -     -     -         1040    0    0 
+SRUnit    965363984 10  5 f   -     -     -         1040    0    0 
+SRUnit    965364067 10  4 rr  bf    -     -         1040   50    0 
+SRUnit    965364109 10  3 cc  kf    -     -          990   20    0 
+SRUnit    965364186 10  2 Br  br    b     b          970  110    0 9c 8c
+SRUnit    965364235  9  1 Bc  kf    -     -          860   10    0 
+SRUnit    965364309  9  9 rc  k     c     k          850   60  215 4s 3s
+SRUnit    965364360  9  8 f   -     -     -         1005    0    0 
+SRUnit    965364407  9  7 f   -     -     -         1005    0    0 
+SRUnit    965364447  9  6 c   b     b     b         1005   60    0 Jc 4s
+SRUnit    965364485  9  5 r   k     c     f          945   40    0 
+SRUnit    965364546 10  4 r   b     b     b          905   70  155 
+SRUnit    965364586 10  3 r   b     bc    kr         990  110  235 8s 5h
+SRUnit    965364624 10  2 Br  bc    kc    k         1115   60    0 4d 5s
+SRUnit    965364678  9  1 Br  b     k     k         1055   30   60 3d Qd
+SRUnit    965364712  9  9 r   b     b     b         1085   70  130 
+SRUnit    965364749  9  8 rr  b     b     b         1145   90  235 9h 8h
+SRUnit    965364836  9  7 r   f     -     -         1290   20    0 
+SRUnit    965364867  9  6 r   c     cc    krr       1270  150  495 Td 7h
+SRUnit    965364960  9  5 cc  k     b     -         1615   40  100 
+SRUnit    965365023  9  5 cc  kf    -     -         1675   20    0 
+SRUnit    965365067  8  3 c   b     -     -         1655   20   40 
+SRUnit    965365109  8  2 Br  br    kf    -         1675   70    0 
+SRUnit    965365198  8  1 Bc  k     k     kf        1605   20    0 
+SRUnit    965365246  8  8 c   r     b     k         1585   50    0 Td 6s
+SRUnit    965365283  7  6 c   c     b     b         1535   70  155 As 5d
+SRUnit    965365324  7  5 rc  f     -     -         1620   40    0 
+SRUnit    965365352  7  4 r   kf    -     -         1580   20    0 
+SRUnit    965365384  7  2 r   brc   kc    kf        1560   80    0 
+SRUnit    965365430  6  2 Br  kf    -     -         1480   40    0 
+SRUnit    965365517  6  1 Bf  -     -     -         1440    5    0 
+SRUnit    965365534  6  6 r   b     b     -         1435   50   95 
+SRUnit    965365577  6  5 c   k     b     b         1480   50  170 Ad 4s
+SRUnit    965365635  6  4 r   b     b     k         1600   50  160 6c 5h
+SRUnit    965365694  6  3 r   k     k     k         1710   20    0 6c Qs
+SRUnit    965365738  7  2 Brc kf    -     -         1690   40    0 
+SRUnit    965365828  7  1 Bf  -     -     -         1650    5    0 
+SRUnit    965365892  7  7 rc  k     b     k         1645   60    0 6d 2h
+SRUnit    965365945  7  6 r   rc    k     k         1585   60    0 8c 9d
+SRUnit    965366011  7  5 r   b     b     b         1525   70  170 7s Kc
+SRUnit    965366077  7  4 r   b     k     b         1625   50    0 6h Kh
+SRUnit    965366121  7  3 r   b     b     bc        1575   90    0 8d Ad
+SRUnit    965366157  7  2 Br  k     k     kf        1485   20    0 
+SRUnit    965366211  7  1 Br  b     b     b         1465   70  130 
+SRUnit    965366234  7  7 r   r     rr    k         1525  120    0 6c Kc
+SRUnit    965366329  7  6 r   f     -     -         1405   20    0 
+SRUnit    965366402  7  5 f   -     -     -         1385    0    0 
+SRUnit    965366471  9  4 rc  kf    -     -         1385   40    0 
+SRUnit    965366557  9  3 rc  brc   bcc   kf        1345  160    0 
+SRUnit    965366652  9  1 Brc br    b     b         1185  110  280 
+SRUnit    965366709  9  1 Br  b     bc    b         1355   90  300 
+SRUnit    965366765  9  9 c   rr    c     f         1565   80    0 
+SRUnit    965366877 10  9 rc  r     c     c         1485  120    0 Tc Th
+SRUnit    965366949 10  8 rc  k     f     -         1365   40    0 
+SRUnit    965367007 10  7 rc  rc    rc    rr        1325  240  880 9h Jc
+SRUnit    965367091 10  6 f   -     -     -         1965    0    0 
+SRUnit    965367217 10  5 rc  c     c     rr        1965  150  480 Kc Ad
+SRUnit    965367267  9  4 r   f     Q     -         2295   20    0 

@@ -1,0 +1,2232 @@
+Stubs     973119823 10  6 f   -     -     -          880    0    0 
+Stubs     973119882 10  5 cc  cc    k     rc         880  120  540 5c 4d
+Stubs     973119950 10  4 cc  f     -     -         1300   20    0 
+Stubs     973119999 10  3 c   cc    cc    kf        1280   70    0 
+Stubs     973120077 10  2 Bc  kc    k     kf        1210   30    0 
+Stubs     973120183 10  1 Bccc kc    kc    kf        1180   80    0 
+Stubs     973120287 10 10 c   f     -     -         1100   20    0 
+Stubs     973120332 10  9 c   c     c     f         1080   60    0 
+Stubs     973120367 10  8 c   k     c     r         1020   70  190 4h As
+Stubs     973120424 10  7 c   k     kc    kf        1140   30    0 
+Stubs     973120487 10  6 cc  rc    bc    kc        1110  110    0 2c 9c
+Stubs     973120582 10  5 f   -     -     -         1000    0    0 
+Stubs     973120698  9  4 cc  c     k     c         1000   50    0 4d 6h
+Stubs     973120772 10  3 f   -     -     -          950    0    0 
+Stubs     973120848 10  2 Bk  bc    r     b          950   90  320 Qc Tc
+Stubs     973120912 10  1 Bc  kc    kf    -         1180   30    0 
+Stubs     973120984 10 10 f   -     -     -         1150    0    0 
+Stubs     973121052 10  9 f   -     -     -         1150    0    0 
+Stubs     973121131  9  7 c   k     k     b         1150   30   90 Qc 3h
+Stubs     973121188  9  6 f   -     -     -         1210    0    0 
+Stubs     973121258 10  6 c   ccc   kc    k         1210   70    0 Qs 6h
+Stubs     973121332 10  5 r   b     b     b         1140   70  205 9c 9h
+Stubs     973121378 10  4 f   -     -     -         1275    0    0 
+Stubs     973121448 10  3 c   kf    -     -         1275   10    0 
+Stubs     973121522  9  2 Bk  kf    -     -         1265   10    0 
+Stubs     973121594  6  1 Bc  kc    kc    kc        1255   80    0 3c 9h
+Stubs     973121655  8  7 f   -     -     -         1175    0    0 
+Stubs     973121732  8  7 c   cc    f     -         1175   40    0 
+Stubs     973121828  7  5 c   rc    b     b         1135   80    0 Tc 7h
+Stubs     973121901  6  3 c   f     -     -         1055   10    0 
+Stubs     973121930  6  2 Bk  k     kc    kf        1045   30    0 
+Stubs     973121975  6  1 Bc  kc    b     br        1015  100  220 Jd Ac
+Stubs     973122057  5  5 cc  cc    c     r         1135  140  420 9s 4h
+Stubs     973122119  5  4 c   c     c     f         1415   50    0 
+Stubs     973122162  5  3 c   k     kc    k         1365   30   75 9s 2c
+Stubs     973122212  6  2 Bk  kc    bc    kc        1410   80    0 6s 5h
+Stubs     973122256  6  1 Bc  k     kf    -         1330   20    0 
+Stubs     973122308  7  7 c   cc    f     -         1310   50    0 
+Stubs     973122347  7  6 c   c     cf    -         1260   50    0 
+Stubs     973122385  7  5 rc  c     r     b         1210  100  370 
+Stubs     973122464  8  5 r   b     b     b         1480   80  290 As Ac
+Stubs     973122537  8  4 ccc kc    kc    kf        1690   70    0 
+Stubs     973122649  9  5 c   f     -     -         1620   10    0 
+Stubs     973122760  9  4 cc  f     -     -         1610   30    0 
+Stubs     973122841  9  3 ccc r     b     b         1580  100  385 5c Ah
+Stubs     973122916 10  2 Bc  kc    bc    kf        1865   80    0 
+Stubs     973122976 10  1 Bc  kc    kc    kc        1785   60    0 4d 9h
+Stubs     973123054  9  9 cc  f     -     -         1725   20    0 
+Stubs     973123096  9  8 c   f     -     -         1705   10    0 
+Stubs     973123160  9  7 c   kf    -     -         1695   10    0 
+Stubs     973123196  9  6 cc  c     c     c         1685   70  230 2h Qc
+Stubs     973123305  8  5 c   k     k     cf        1845   30    0 
+Stubs     973123379  8  3 cc  cf    -     -         1815   30    0 
+Stubs     973123470  9  2 Bc  kf    -     -         1785   20    0 
+Stubs     973123533  9  1 Bc  k     b     b         1765   60    0 Qc Tc
+Stubs     973123579  9  9 c   r     c     c         1705   80    0 8s Qh
+Stubs     973123630  9  8 rc  r     rr    rr        1625  220  700 Kh Ks
+Stubs     973123730  9  7 c   c     f     -         2105   30    0 
+Stubs     973123823  8  7 c   r     rr    r         2075  160  390 2s Qs
+Stubs     973123910  9  6 cc  kf    -     -         2305   20    0 
+Stubs     973123993  8  4 cc  c     c     c         2285   70    0 Kc 8c
+Stubs     973124054  8  4 c   kf    -     -         2215   10    0 
+Stubs     973124099  8  3 c   kc    kf    -         2205   20    0 
+Stubs     973124139  8  2 Br  kc    kc    kf        2185   60    0 
+Stubs     973124251  8  1 Bc  kc    kc    kc        2125   60   70 Tc 3h
+Stubs     973124303  8  8 c   c     c     c         2135   70    0 7d Th
+Stubs     973124339  8  7 c   k     r     b         2065   70  175 Qh Ts
+Stubs     973124412  8  6 c   cc    f     -         2170   60    0 
+Stubs     973124493  8  5 c   kcc   c     f         2110   70    0 
+Stubs     973124585  8  4 cc  k     k     f         2040   20    0 
+Stubs     973124627  9  3 cc  bc    kc    b         2020   80    0 8h 9h
+Stubs     973124736  8  1 Brc b     -     -         1940   50  130 
+Stubs     973124775  8  1 Bc  k     kr    bc        2020   90    0 3s Jc
+Stubs     973124869  8  8 c   c     c     c         1930   60    0 9s Qc
+Stubs     973124919  8  7 c   c     c     f         1870   60    0 
+Stubs     973124964  8  7 cc  kc    kf    -         1810   30    0 
+Stubs     973125027  8  7 c   b     r     kc        1780   80    0 8d 7h
+Stubs     973125128  6  4 Q   -     -     -         1700    0    0 
+Stubs     973208173  5  4 c   c     c     f         1085   40    0 
+Stubs     973208202  4  2 Bcc f     -     -         1045   40    0 
+Stubs     973208243  4  1 Bc  b     b     -         1005   40   80 
+Stubs     973208266  4  4 cc  k     k     k         1045   20    0 Td 6s
+Stubs     973208296  3  2 Bk  c     c     f         1025   40    0 
+Stubs     973208360  2  1 Br  b     b     b          985   70    0 9c 9h
+Stubs     973208381  2  2 B   -     -     -          915   10   15 
+Stubs     973208384  2  1 Bc  b     -     -          920   20   30 
+Stubs     973208400  2  2 Bk  b     -     -          930   20   30 
+Stubs     973208416  2  1 Bcc b     b     b          940   70  140 Kh 6s
+Stubs     973208440  2  2 Bk  c     k     k         1010   20   40 7s 2c
+Stubs     973208473  2  1 Br  -     -     -         1030   20   30 
+Stubs     973301239  4  3 f   -     -     -         1060    0    0 
+Stubs     973301250  4  2 Bc  kc    k     k         1060   30   65 5c Th
+Stubs     973301278  4  1 Bc  kc    kc    kf        1095   50    0 
+Stubs     973301369  4  3 f   -     -     -         1045    0    0 
+Stubs     973301398  5  3 cc  kf    -     -         1045   20    0 
+Stubs     973301461  7  2 Bc  kc    kc    b         1025   70  145 
+Stubs     973301505  7  1 Bcc k     kc    kc        1100   80    0 5h 3d
+Stubs     973301626  8  8 f   -     -     -         1020    0    0 
+Stubs     973301735  8  8 f   -     -     -         1020    0    0 
+Stubs     973301825  9  7 cc  cc    kf    Q         1020   60    0 
+Stubs     973348033  9  6 c   b     b     -          960   50  140 
+Stubs     973348082  9  6 f   -     -     -         1050    0    0 
+Stubs     973348118  8  4 c   k     k     k         1050   10    0 3c 2h
+Stubs     973348183  7  2 Bk  k     c     k         1040   30    0 7c Qd
+Stubs     973348233  5  1 Bc  kc    kf    -         1010   30    0 
+Stubs     973348263  6  6 c   b     -     -          980   20   45 
+Stubs     973348291  6  5 c   b     -     -         1005   20   45 
+Stubs     973348310  6  4 c   c     f     -         1030   20    0 
+Stubs     973348357  6  3 c   c     k     f         1010   20    0 
+Stubs     973348389  6  2 Bk  kc    f     -          990   20    0 
+Stubs     973348430  7  1 Bc  kc    b     bf         970   70    0 
+Stubs     973348476  8  8 c   k     c     c          900   60    0 Th 4h
+Stubs     973348539  9  7 cc  rc    rc    c          840  140    0 Jh Qc
+Stubs     973348613 10  6 c   kc    kf    -          700   20    0 
+Stubs     973348683 10  5 cc  f     -     -          680   30    0 
+Stubs     973348747  9  3 f   -     -     -          650    0    0 
+Stubs     973348799  9  3 f   -     -     -          650    0    0 
+Stubs     973348867  9  2 Bf  -     -     -          650   10    0 
+Stubs     973348956  9  1 Bc  k     k     k          640   10    0 Kc As
+Stubs     973349022  9  9 c   b     b     b          630   60    0 6c Jh
+Stubs     973349088  9  8 c   b     b     b          570   60    0 Kc Jh
+Stubs     973349150  9  7 cc  rc    rc    rr         510  220  755 Jd Td
+Stubs     973349257 10  7 ccc rc    bc    b         1045  130  510 3s Ts
+Stubs     973349380 10  6 c   f     -     -         1425   20    0 
+Stubs     973349466 10  5 c   c     c     c         1405   70  185 Ks Jc
+Stubs     973349526 10  4 f   -     -     -         1520    0    0 
+Stubs     973349592 10  3 cc  c     f     -         1520   30    0 
+Stubs     973349689 10  2 Bk  k     k     kc        1490   30    0 Js 5c
+Stubs     973349757  8  1 Bc  b     b     kc        1460   60    0 2c 2d
+Stubs     973349829  8  8 c   k     b     b         1400   50  120 
+Stubs     973349924  9  9 c   k     c     f         1470   40    0 
+Stubs     973349985 10  8 c   f     -     -         1430   10    0 
+Stubs     973350026  9  6 c   k     k     k         1420   10    0 8d Jd
+Stubs     973350080  8  5 f   -     -     -         1410    0    0 
+Stubs     973350122  8  4 cc  b     k     f         1410   30    0 
+Stubs     973350187  8  3 c   k     b     -         1380   30   55 
+Stubs     973350226  8  2 Bk  k     b     b         1405   50  105 5c 9c
+Stubs     973350275  9  1 Bc  k     k     k         1460   10    0 3c 2s
+Stubs     973350325  7  7 cc  f     -     -         1450   20    0 
+Stubs     973350399  7  6 c   c     b     b         1430   60  125 
+Stubs     973350472  8  6 c   k     cc    cc        1495   90    0 Kd 8c
+Stubs     973350565  8  5 cc  bc    b     b         1405   80    0 3c Jc
+Stubs     973350639  8  4 c   k     c     b         1325   50  130 8s Qd
+Stubs     973350695  8  3 c   kf    Q     -         1405   10    0 
+Stubs     973355255  6  6 c   k     f     -         1395   10    0 
+Stubs     973355275  6  5 c   cc    c     brc       1385  140    0 Ts Ad
+Stubs     973355330  7  4 c   bc    c     k         1245   60    0 4c 4s
+Stubs     973355374  5  3 cf  -     -     -         1185   10    0 
+Stubs     973355409  5  2 Bc  kc    b     -         1175   50   85 
+Stubs     973355433  5  1 Bc  b     -     -         1210   30   60 
+Stubs     973355449  5  5 c   cc    f     -         1240   40    0 
+Stubs     973355479  5  4 c   b     -     -         1200   20   35 
+Stubs     973355499  5  3 cc  k     bc    c         1215   80    0 6d 9h
+Stubs     973355531  5  2 Bk  kf    -     -         1135   10    0 
+Stubs     973355560  6  1 Bc  b     -     -         1125   20   40 
+Stubs     973355579  6  6 c   f     -     -         1145   10    0 
+Stubs     973355593  6  5 r   c     r     b         1135   90    0 Ac Ad
+Stubs     973355622  6  4 c   kc    kf    -         1045   30    0 
+Stubs     973355700  5  3 c   b     -     -         1015   20   40 
+Stubs     973355722  5  2 Bc  b     -     -         1035   30   55 
+Stubs     973355738  5  1 Bc  kc    kc    krf       1060   90    0 
+Stubs     973355791  5  5 c   b     -     -          970   30   80 
+Stubs     973355808  5  4 c   k     b     b         1020   50    0 2h 3h
+Stubs     973355844  6  3 c   b     b     -          970   40  110 
+Stubs     973355901  6  2 Bf  -     -     -         1040   10    0 
+Stubs     973355912  6  1 Bc  bc    brc   brc       1030  200    0 6s Qs
+Stubs     973356006  6  6 c   k     c     f          830   30    0 
+Stubs     973356048  6  5 c   f     -     -          800   10    0 
+Stubs     973356077  6  4 f   -     -     -          790    0    0 
+Stubs     973356099  6  3 cc  c     k     k          790   30    0 5s 7d
+Stubs     973356145  7  2 Bk  k     b     -          760   30   65 
+Stubs     973356176  8  1 Bc  br    b     b          795   80    0 Js 9c
+Stubs     973356229  8  8 c   fQ    -     -          715   10    0 
+Stubs     973607834  9  2 Bc  cc    c     f          460   60    0 
+Stubs     973607883  9  1 Bf  -     -     -          400    5    0 
+Stubs     973607915  9  9 c   cc    rc    c          395  130    0 Ah Ks
+Stubs     973607970  9  8 c   c     f     -          265   20    0 
+Stubs     973608024  8  6 f   -     -     -          245    0    0 
+Stubs     973608084  7  4 c   b     -     -          245   20   50 
+Stubs     973608106  7  3 r   b     b     c          275   70    0 Qd Qs
+Stubs     973608136  7  2 Bk  bc    b     b          205   70  145 Ac 3s
+Stubs     973608182  8  1 Bc  kc    b     b          280   60  170 
+Stubs     973608228  8  8 f   -     -     -          390    0    0 
+Stubs     973608304  7  6 f   -     -     -          390    0    0 
+Stubs     973608343  9  7 c   kc    b     c          390   60    0 7h Ah
+Stubs     973608422 10  6 f   -     -     -          330    0    0 
+Stubs     973608493 10  5 f   -     -     -          330    0    0 
+Stubs     973608539 10  4 c   c     c     c          330   60    0 4h 2c
+Stubs     973608588 10  3 c   k     kf    -          270   10    0 
+Stubs     973608671 10  2 Bf  -     -     -          260   10    0 
+Stubs     973608745 10  1 Bc  kf    -     -          250   20    0 
+Stubs     973608812 10 10 f   -     -     -          230    0    0 
+Stubs     973608873 10  9 c   b     br    b          230  100    0 Ac Jd
+Stubs     973608957 10  8 r   rc    rc    k          130  110    0 Kd Kh
+Stubs     973609021 10  8 c   cA    -     -           20   20    0 7s 9c
+Stubs     973609158 10  7 c   c     c     f         1000   40    0 
+Stubs     973609256  8  2 Q   -     -     -          960    0    0 
+Stubs     973609492  8  6 cc  f     -     -          960   20    0 
+Stubs     973609545  9  5 f   -     -     -          940    0    0 
+Stubs     973609583  9  4 f   -     -     -          940    0    0 
+Stubs     973609626 10  3 c   kc    kf    -          940   20    0 
+Stubs     973609727 10  2 Bc  kc    kf    -          920   30    0 
+Stubs     973609796  9  1 Bc  k     kf    -          890   10    0 
+Stubs     973609851  9  9 c   f     -     -          880   20    0 
+Stubs     973609902  9  8 f   -     -     -          860    0    0 
+Stubs     973609952  9  7 c   f     -     -          860   10    0 
+Stubs     973610008  9  6 f   -     -     -          850    0    0 
+Stubs     973610053  9  5 r   b     b     b          850   70  225 Qs Qc
+Stubs     973610095  9  4 cc  b     b     b         1005   70    0 Ad 2c
+Stubs     973610155  9  3 f   -     -     -          935    0    0 
+Stubs     973610203  9  2 Bk  k     kf    -          935   10    0 
+Stubs     973610252  9  1 Bc  b     b     -          925   40  120 
+Stubs     973610282  9  9 c   c     k     f         1005   40    0 
+Stubs     973610327  9  8 c   b     b     b          965   60  260 Kc Js
+Stubs     973610392  9  7 c   c     f     -         1165   20    0 
+Stubs     973610477 10  6 c   k     f     -         1145   10    0 
+Stubs     973610507 10  5 r   b     bc    b         1135   90    0 7h 7d
+Stubs     973610552 10  4 cc  r     r     b         1045  100  390 6c Jc
+Stubs     973610609 10  3 c   bc    brc   kc        1335  140    0 Th Qs
+Stubs     973610696 10  2 Bc  f     -     -         1195   20    0 
+Stubs     973610738 10  1 Bc  bc    bcc   bc        1175  140  470 Jh 8d
+Stubs     973610822 10 10 c   c     cf    -         1505   60    0 
+Stubs     973610886 10  9 f   -     -     -         1445    0    0 
+Stubs     973610964 10  8 c   b     bc    c         1445   90   97 Kd Qs
+Stubs     973610999 10  7 f   -     -     -         1452    0    0 
+Stubs     973611048 10  6 c   k     k     f         1452   10    0 
+Stubs     973611120 10  5 c   r     r     b         1442  100  380 6h Kh
+Stubs     973611173 10  4 c   r     b     c         1722   70    0 Qc Jc
+Stubs     973611229  9  3 c   kf    -     Q         1652   10    0 
+Stubs     973616304  9  2 cc  b     bc    kc        1642   90    0 3h 3s
+Stubs     973616358  9  2 Bk  b     b     b         1552   60  140 
+Stubs     973616414  9  1 Bc  bc    kc    k         1632   50  210 8s As
+Stubs     973616455  9  9 cc  f     -     -         1792   20    0 
+Stubs     973616519  9  8 f   -     -     -         1772    0    0 
+Stubs     973616575  9  7 cc  c     f     -         1772   40    0 
+Stubs     973616606  8  5 c   cc    b     b         1732   70    0 Qc 7h
+Stubs     973616654 10  6 c   kc    kf    -         1662   20    0 
+Stubs     973616693 10  5 f   -     -     -         1642    0    0 
+Stubs     973616739 10  4 cc  bc    bc    kf        1642   80    0 
+Stubs     973616811 10  4 r   c     c     c         1562   70    0 4c 4s
+Stubs     973616839 10  2 Bc  kf    -     -         1492   20    0 
+Stubs     973616903 10  1 Bf  -     -     -         1472    5    0 
+Stubs     973616915 10 10 f   -     -     -         1467    0    0 
+Stubs     973616949 10  9 f   -     -     -         1467    0    0 
+Stubs     973616988 10  8 c   f     -     -         1467   10    0 
+Stubs     973617010 10  7 c   c     f     -         1457   20    0 
+Stubs     973617064 10  6 c   k     k     k         1437   10    0 8h Ts
+Stubs     973617100 10  5 c   k     kf    -         1427   10    0 
+Stubs     973617229 10  4 f   -     -     -         1417    0    0 
+Stubs     973617260 10  3 c   b     b     b         1417   60    0 4s 7h
+Stubs     973617297 10  2 Bc  b     b     b         1357   70  175 
+Stubs     973617350  9  1 Bc  kc    kf    -         1462   20    0 
+Stubs     973617397  9  9 f   -     -     -         1442    0    0 
+Stubs     973617451  9  8 c   kc    br    b         1442  100    0 3d 5d
+Stubs     973617515  9  7 c   k     kf    -         1342   30    0 
+Stubs     973617562  9  6 c   k     k     b         1312   30    0 7h Qs
+Stubs     973617605  9  5 f   -     -     -         1282    0    0 
+Stubs     973617651  8  3 c   r     cc    k         1282   70    0 Qs 8c
+Stubs     973617755  8  2 Bk  k     k     kc        1212   30    0 Td Kh
+Stubs     973617838  7  1 Bf  -     -     -         1182    5    0 
+Stubs     973617871  7  7 f   -     -     -         1177    0    0 
+Stubs     973617910  7  6 f   -     -     -         1177    0    0 
+Stubs     973617955  9  7 c   rc    bc    k         1177   80    0 4d Kc
+Stubs     973618016 10  6 c   f     -     -         1097   20    0 
+Stubs     973618079 10  5 cc  kc    kc    k         1077   50    0 6s 5c
+Stubs     973618131 10  4 rc  b     br    b         1027  120    0 5c 5h
+Stubs     973618205 10  4 cc  k     k     f          907   20    0 
+Stubs     973618266 10  2 Bk  bc    k     b          887   50    0 Qd 5h
+Stubs     973618336 10  1 Br  bc    kc    kc         837   90    0 5h 8d
+Stubs     973618446 10 10 c   c     r     b          747   90    0 As 8s
+Stubs     973618530 10  9 r   b     b     -          657   50  135 
+Stubs     973618581 10  8 c   r     b     b          742   80  220 Ac Kd
+Stubs     973618662 10  7 c   r     b     b          882   70   80 Ad 5c
+Stubs     973618711 10  6 cc  kf    -     -          892   20    0 
+Stubs     973618823 10  5 c   k     b     b          872   50   90 
+Stubs     973618885 10  4 cc  b     b     b          912   70  210 Ks Jh
+Stubs     973618956 10  3 cc  kc    kf    -         1052   30    0 
+Stubs     973619034 10  2 Bk  cc    c     f         1022   60    0 
+Stubs     973619111 10  1 Bc  kf    -     -          962   10    0 
+Stubs     973619179 10 10 c   r     r     b          952  130  550 Td 4d
+Stubs     973619275 10  9 c   c     cf    -         1372   50    0 
+Stubs     973619339 10  8 c   c     f     -         1322   20    0 
+Stubs     973619382  9  7 f   -     -     -         1302    0    0 
+Stubs     973619440  8  5 c   c     r     b         1302   90  255 
+Stubs     973619492  8  4 c   r     b     bc        1467   90    0 7c 5d
+Stubs     973619575  9  4 f   -     -     -         1377    0    0 
+Stubs     973619640 10  3 c   k     cc    kf        1377   50    0 
+Stubs     973619694 10  2 Bk  f     -     -         1327   10    0 
+Stubs     973619737  9  1 Bc  kc    kf    -         1317   30    0 
+Stubs     973619794  9  9 c   f     -     -         1287   20    0 
+Stubs     973619862  9  8 f   -     -     -         1267    0    0 
+Stubs     973619906 10  8 rc  cc    f     -         1267   70    0 
+Stubs     973619961 10  7 c   k     f     -         1197   10    0 
+Stubs     973620009 10  6 cc  kf    -     -         1187   20    0 
+Stubs     973620094 10  5 cc  cf    -     -         1167   40    0 
+Stubs     973620242 10  4 c   b     br    bf        1127  100    0 
+Stubs     973620337 10  4 c   k     bc    b         1027   70  170 Js Kh
+Stubs     973620439  9  2 Bk  k     k     f         1127   10    0 
+Stubs     973620543 10  1 Bc  k     b     br        1117  110    0 Tc Kd
+Stubs     973620637 10 10 c   br    rr    b         1007  140  340 4h 7h
+Stubs     973620706  9  8 c   f     -     -         1207   20    0 
+Stubs     973620763  8  6 cc  kc    kf    -         1187   30    0 
+Stubs     973620803  8  5 cc  k     k     kf        1157   20    0 
+Stubs     973620855  8  4 c   cc    c     f         1137   60    0 
+Stubs     973620922  8  3 c   c     c     c         1077   60    0 7c Jc
+Stubs     973620983  8  2 Bk  f     -     -         1017   10    0 
+Stubs     973621037  9  1 Bc  kc    kc    k         1007   50  220 7s Kc
+Stubs     973621140 10 10 c   rc    rc    c         1177  120    0 3c 2c
+Stubs     973621209 10  9 c   c     c     c         1057  100    0 3c Kd
+Stubs     973621265  9  8 c   c     f     -          957   30    0 
+Stubs     973621349  9  8 cc  c     k     k          927   30    0 Qc 4c
+Stubs     973621408  8  6 r   bc    b     b          897   80    0 Tc Td
+Stubs     973621486  7  4 c   k     f     -          817   10    0 
+Stubs     973621522  7  3 cc  rr    b     br         807  140  325 4s Ad
+Stubs     973621581  8  2 Bf  -     -     -          992   10    0 
+Stubs     973621639  9  1 Bc  bcc   b     b          982   90  270 3h Td
+Stubs     973621700 10 10 c   c     f     -         1162   20    0 
+Stubs     973621834 10  9 cf  -     -     -         1142   10    0 
+Stubs     973621923 10  8 f   -     -     -         1132    0    0 
+Stubs     973621966 10  7 c   kf    -     -         1132   10    0 
+Stubs     973622121  8  5 c   c     cc    f         1122   60    0 
+Stubs     973622212 10  5 c   r     b     b         1062   70  210 Kh 7s
+Stubs     973622258 10  4 cc  cc    bc    kf        1202   80    0 
+Stubs     973622379 10  3 cc  k     kf    -         1122   20    0 
+Stubs     973622540 10  2 Bf  -     -     -         1102   10    0 
+Stubs     973622625 10  1 Bc  bc    kc    kf        1092   60    0 
+Stubs     973622728 10 10 f   -     -     -         1032    0    0 
+Stubs     973622813  9  8 c   k     k     f         1032   10    0 
+Stubs     973622872  9  7 c   c     b     b         1022   70  110 Ah 8h
+Stubs     973623027 10  7 cc  f     -     -         1062   20    0 
+Stubs     973623093  9  5 c   b     b     b         1042   60  150 
+Stubs     973623185  9  4 cc  kf    Q     -         1132   20    0 
+Stubs     973628356 10 10 c   k     k     k         1112   10    0 6h 5c
+Stubs     973628459  9  8 c   f     -     -         1102   10    0 
+Stubs     973628501  9  7 c   kf    -     -         1092   10    0 
+Stubs     973628530  9  6 c   kc    kc    r         1082   80  142 Jd 4s
+Stubs     973628627 10  6 c   cc    kf    -         1144   30    0 
+Stubs     973628754 10  5 c   k     kc    kc        1114   50    0 5h 5d
+Stubs     973628869 10  4 f   -     -     -         1064    0    0 
+Stubs     973628914 10  3 f   -     -     -         1064    0    0 
+Stubs     973629004 10  2 Bk  bc    kc    kc        1064   70    0 7c Qs
+Stubs     973629109 10  1 Bc  k     kf    -          994   10    0 
+Stubs     973629178 10 10 c   rc    c     c          984   90    0 Qh 9s
+Stubs     973629264 10  9 cc  cc    kf    -          894   60    0 
+Stubs     973629374 10  8 c   f     -     -          834   10    0 
+Stubs     973629415 10  7 c   k     c     r          824   70    0 2d 5c
+Stubs     973629510 10  7 f   -     -     -          754    0    0 
+Stubs     973629562  9  5 f   -     -     -          754    0    0 
+Stubs     973629614  9  4 cc  f     -     -          754   30    0 
+Stubs     973629657 10  3 cc  kf    -     -          724   20    0 
+Stubs     973629734 10  2 Bc  brc   bc    kc         704  120    0 Ac As
+Stubs     973629795 10  1 Bcc kc    k     kf         584   30    0 
+Stubs     973629920 10 10 c   b     -     -          554   20   40 
+Stubs     973629957 10  9 c   c     c     c          574   70    0 Qc 5s
+Stubs     973630012 10  8 c   cc    kf    -          504   30    0 
+Stubs     973630083 10  7 c   Q     -     -          474   10    0 
+Stubs     973631019  6  6 c   bc    f     -          464   30    0 
+Stubs     973631059  6  5 c   c     kf    -          434   30    0 
+Stubs     973631100  6  4 c   r     b     b          404   70  230 Tc As
+Stubs     973631165  6  3 c   b     b     b          564   60  150 
+Stubs     973631216  7  2 Bc  cf    -     -          654   30    0 
+Stubs     973631274  7  1 Bc  kc    kf    -          624   30    0 
+Stubs     973631310  8  8 f   -     -     -          594    0    0 
+Stubs     973631345  8  7 c   c     f     -          594   30    0 
+Stubs     973631395  9  7 c   f     -     -          564   10    0 
+Stubs     973631468  8  5 c   c     c     c          554   70    0 Qs 3h
+Stubs     973631501  7  4 c   c     f     -          484   20    0 
+Stubs     973631552  7  3 f   -     -     -          464    0    0 
+Stubs     973631600  7  2 Bk  bc    kf    -          464   30    0 
+Stubs     973631649  7  1 Bc  kc    kc    kc         434   70    0 Qd Th
+Stubs     973631709  7  7 cc  c     r     r          364  130    0 9s Tc
+Stubs     973631793  7  6 cc  r     -     -          234   40   85 6h As
+Stubs     973631827  7  6 c   r     b     r          279   90    0 7c Ad
+Stubs     973631878  6  4 c   k     kc    bc         189   70    0 6d 9c
+Stubs     973631926  7  3 cc  c     f     -          119   30    0 
+Stubs     973631989  8  2 Bk  rc    b     f           89   60    0 
+Stubs     973632106  9  1 BrcA -     -     -           29   29  174 Kc Jc
+Stubs     973632201  9  9 c   r     b     b          174   70  250 9h 8d
+Stubs     973632281  9  8 c   k     c     c          354   50   82 Ks 6c
+Stubs     973632327  9  7 f   -     -     -          386    0    0 
+Stubs     973632435  8  5 c   c     f     -          386   20    0 
+Stubs     973632485  8  4 f   -     -     -          366    0    0 
+Stubs     973632545  8  3 c   kf    -     -          366   10    0 
+Stubs     973632644  8  2 Bk  b     bc    kc         356  100    0 Ac Tc
+Stubs     973632695  9  1 Bc  kc    b     b          256   70    0 Ts As
+Stubs     973632867  8  8 c   c     r     k          186   60    0 Qh Jc
+Stubs     973632922  8  7 c   c     b     c          126   70    0 Jh Kd
+Stubs     973632988  8  6 f   -     -     -           56    0    0 
+Stubs     973633038  8  5 f   -     -     -           56    0    0 
+Stubs     973633095  9  5 c   rc    cA    -           56   56    0 Qc Jd
+Stubs     973731795  9  5 f   -     -     -         1000    0    0 
+Stubs     973731864 10  4 c   b     b     -         1000   40   85 
+Stubs     973731913 10  3 ccc kf    -     -         1045   40    0 
+Stubs     973731988 10  2 Bk  k     br    bc        1005  110  225 5d 4s
+Stubs     973732041 10  1 Bc  b     b     b         1120   60  160 Th Js
+Stubs     973732121  9  9 c   cc    c     c         1220   80    0 2c Kh
+Stubs     973732190 10  9 c   c     k     k         1140   30    0 Qc 8h
+Stubs     973732252 10  8 c   b     k     c         1110   40    0 5s Ac
+Stubs     973732315 10  7 cc  k     c     f         1070   40    0 
+Stubs     973732426 10  6 c   b     -     -         1030   20   60 
+Stubs     973732465 10  5 c   c     f     -         1070   20    0 
+Stubs     973732516 10  4 c   c     k     k         1050   20    0 Ks 8d
+Stubs     973732587 10  3 c   b     -     -         1030   20   60 
+Stubs     973732622 10  2 Bcc kc    kf    -         1070   50    0 
+Stubs     973732715 10  1 Bc  kf    -     -         1020   20    0 
+Stubs     973732781  9  9 f   -     -     -         1000    0    0 
+Stubs     973732811  8  8 c   b     -     -         1000   20   55 
+Stubs     973732842  8  7 c   c     f     -         1035   30    0 
+Stubs     973732896  8  6 c   k     b     b         1005   60    0 Ah 7s
+Stubs     973732959  9  5 c   r     b     b          945   70  170 
+Stubs     973733029 10  4 c   k     k     k         1045   10   60 Ks 5s
+Stubs     973733122 10  3 c   bc    b     b         1095   70  240 7s 3c
+Stubs     973733192  9  2 Bk  k     b     b         1265   50  135 Ts 7s
+Stubs     973733244  9  1 Bc  kf    -     -         1350   10    0 
+Stubs     973733325  9  9 c   b     -     -         1340   20   45 
+Stubs     973733372 10  9 f   -     -     -         1365    0    0 
+Stubs     973733452  9  7 c   r     c     b         1365   80  255 6c 7c
+Stubs     973733519  9  6 c   c     f     -         1540   20    0 
+Stubs     973733609  9  5 c   kf    -     -         1520   10    0 
+Stubs     973733699  9  4 c   kf    -     -         1510   10    0 
+Stubs     973733756  9  3 cc  kc    kc    b         1500   70  280 Ac Qd
+Stubs     973733829  9  2 Bk  kc    c     f         1710   40    0 
+Stubs     973733905  9  1 Bc  kf    -     -         1670   20    0 
+Stubs     973733970  9  9 c   c     c     f         1650   40    0 
+Stubs     973734042  9  8 cc  k     b     c         1610   60    0 Qs 5d
+Stubs     973734097  9  7 c   cc    r     b         1550  100  270 5c Ad
+Stubs     973734162 10  7 c   c     c     f         1720   40    0 
+Stubs     973734224 10  6 c   bc    b     b         1680   70  260 Ac Qc
+Stubs     973734301 10  6 c   f     -     -         1870   20    0 
+Stubs     973734400  8  4 cc  b     b     -         1850   50  125 
+Stubs     973734458  8  3 c   c     k     r         1925   60  150 6d 8h
+Stubs     973734521  8  2 Bk  b     b     bc        2015   80    0 Kh Ah
+Stubs     973734579  8  1 Bcc kcc   bf    -         1935   80    0 
+Stubs     973734703  9  9 c   bc    c     f         1855   60    0 
+Stubs     973734802 10  9 c   c     c     k         1795   50    0 4h 3h
+Stubs     973734857 10  8 c   b     b     b         1745   60  180 
+Stubs     973734937 10  7 cc  kc    kf    -         1865   30    0 
+Stubs     973734997 10  6 f   -     -     -         1835    0    0 
+Stubs     973735093 10  5 ccc kc    c     rc        1835  130    0 Jd Jc
+Stubs     973735187 10  4 c   c     f     -         1705   20    0 
+Stubs     973735246 10  3 cc  c     cc    bc        1685  110    0 Jd 5c
+Stubs     973735359 10  2 Br  k     kfQ   -         1575   20    0 
+Stubs     973779892  6  5 c   kc    kf    -         1555   20    0 
+Stubs     973779957  7  4 f   -     -     -         1535    0    0 
+Stubs     973779990  7  3 c   b     bcc   cc        1535  140    0 7s Kd
+Stubs     973780056  7  2 Bc  br    kc    k         1395   70    0 5c Qh
+Stubs     973780132  8  1 Bc  k     k     kf        1325   20    0 
+Stubs     973780181  8  8 c   f     -     -         1305   20    0 
+Stubs     973780236  8  7 f   -     -     -         1285    0    0 
+Stubs     973780280  8  6 f   -     -     -         1285    0    0 
+Stubs     973780308  8  5 f   -     -     -         1285    0    0 
+Stubs     973780329  8  4 f   -     -     -         1285    0    0 
+Stubs     973780373  8  3 c   b     bc    kc        1285   80    0 Qd As
+Stubs     973780475  8  2 Bc  bc    kc    kc        1205   80    0 Tc Qs
+Stubs     973780535  9  1 Bc  kc    b     b         1125   60    0 6h 8h
+Stubs     973780573 10 10 cc  c     f     -         1065   40    0 
+Stubs     973780633 10  9 c   b     c     c         1025   60  125 Jd Kd
+Stubs     973780662 10  8 c   k     r     rc        1090  140    0 4d 6c
+Stubs     973780742 10  7 c   k     k     f          950   10    0 
+Stubs     973780919  7  5 cc  k     b     bc         940   80    0 Kc 4d
+Stubs     973780987  8  4 f   -     -     -          860    0    0 
+Stubs     973781025  7  3 c   kc    kf    -          860   20    0 
+Stubs     973781062  7  2 Bc  kc    b     b          840   70  190 
+Stubs     973781111  7  1 Bc  b     b     bc         960   80  170 7s Kc
+Stubs     973781141  7  7 c   k     k     k         1050   10    0 5h 3h
+Stubs     973781200  7  6 c   b     bc    bc        1040  120    0 9s Qh
+Stubs     973781266  7  5 rc  k     kc    kc         920   70    0 7h 7c
+Stubs     973781309  7  4 c   kc    kf    -          850   20    0 
+Stubs     973781348  7  3 c   kc    kf    -          830   20    0 
+Stubs     973781393  7  2 Bk  k     k     k          810   10    0 Tc 3s
+Stubs     973781420  7  1 Bc  kf    -     -          800   10    0 
+Stubs     973781476  7  7 f   -     -     -          790    0    0 
+Stubs     973781524  7  6 f   -     -     -          790    0    0 
+Stubs     973781556  7  5 f   -     -     -          790    0    0 
+Stubs     973781588  7  4 cc  k     f     -          790   20    0 
+Stubs     973781624  7  3 cc  kf    -     -          770   20    0 
+Stubs     973781676  7  2 Bk  kf    -     -          750   10    0 
+Stubs     973781740  7  1 Bc  kc    b     b          740   60  160 Kc 4c
+Stubs     973781787  7  7 c   k     Q     -          840   10    0 
+Stubs     973783221  9  4 c   b     b     kf         830   40    0 
+Stubs     973783301  9  3 c   k     kf    -          790   10    0 
+Stubs     973783377 10  2 Bc  kf    -     -          780   20    0 
+Stubs     973783497  8  1 Bf  -     -     -          760    5    0 
+Stubs     973783547  8  8 c   b     c     k          755   40    0 3c 5c
+Stubs     973783600  7  6 c   b     b     k          715   50    0 Ks Tc
+Stubs     973783661  7  5 f   -     -     -          665    0    0 
+Stubs     973783719  7  4 cc  kc    k     f          665   40    0 
+Stubs     973783765  7  3 c   k     kf    -          625   10    0 
+Stubs     973783808  6  2 Bf  -     -     -          615   10    0 
+Stubs     973783841  6  1 Bc  k     kf    -          605   10    0 
+Stubs     973783884  7  7 c   c     k     c          595   40    0 7s Ac
+Stubs     973783936  8  7 c   c     f     -          555   20    0 
+Stubs     973784017  8  6 cc  kc    b     b          535   70  245 5d 7h
+Stubs     973784071  8  6 c   c     f     -          710   20    0 
+Stubs     973784101  7  4 c   k     f     -          690   10    0 
+Stubs     973784141  7  3 c   k     c     k          680   30    0 Qd 5c
+Stubs     973784202  7  2 Bc  kc    bc    kc         650   90    0 Qs Qh
+Stubs     973784258  7  1 Bc  kf    -     -          560   10    0 
+Stubs     973784284  7  7 c   c     f     -          550   20    0 
+Stubs     973784315  7  6 cc  c     c     f          530   50    0 
+Stubs     973784366  7  5 f   -     -     -          480    0    0 
+Stubs     973784397  7  4 c   b     b     b          480   60  140 Td Ah
+Stubs     973784450  7  3 c   cc    c     f          560   50    0 
+Stubs     973784497  6  1 Bc  kc    kc    kc         510   70    0 6s 7d
+Stubs     973784547  6  1 Bc  bc    bc    k          440   70  140 Ah Td
+Stubs     973784600  7  7 f   -     -     -          510    0    0 
+Stubs     973784641  7  6 c   k     c     cf         510   70    0 
+Stubs     973784704  7  5 c   r     bc    kc         440   90    0 8c 9c
+Stubs     973784771  6  3 c   b     b     b          350   60  160 Jh Td
+Stubs     973784826  6  3 c   bc    b     bc         450   90    0 Ad Kc
+Stubs     973784904  6  2 Bk  kc    b     bc         360   80    0 7h 9c
+Stubs     973785017  5  1 Bc  br    b     -          280   60  130 
+Stubs     973785058  5  5 c   c     r     b          350  100  360 8h Jc
+Stubs     973785133  5  4 c   c     f     -          610   20    0 
+Stubs     973785163  5  3 c   b     -     -          590   20   40 
+Stubs     973785182  5  2 Bk  kc    kf    -          610   20    0 
+Stubs     973785215  6  1 Bc  kf    -     -          590   20    0 
+Stubs     973785257  6  6 c   c     r     b          570   90  230 9d Qd
+Stubs     973785300  6  5 c   f     -     -          710   10    0 
+Stubs     973785346  6  4 c   f     -     -          700   10    0 
+Stubs     973785382  6  3 cc  k     c     c          690   70    0 Td 6s
+Stubs     973785427  6  2 Bk  bc    br    b          620  110  250 As 2d
+Stubs     973785482  7  1 Bc  kf    -     -          760   20    0 
+Stubs     973785542  7  7 f   -     -     -          740    0    0 
+Stubs     973785587  6  5 c   f     -     -          740   10    0 
+Stubs     973785620  6  4 c   b     b     b          730   60    0 Ts 7s
+Stubs     973785670  6  3 c   k     kf    -          670   10    0 
+Stubs     973785769  7  2 Bk  b     bc    k          660   60    0 Jc 4c
+Stubs     973785821  7  1 Bc  kc    kf    -          600   40    0 
+Stubs     973785899  8  8 c   b     c     f          560   40    0 
+Stubs     973785959  8  7 c   b     b     b          520   60   75 9s Qh
+Stubs     973786017  8  6 c   k     Q     -          535   10    0 
+Stubs     973795026  7  2 Bk  b     b     -          525   40   70 
+Stubs     973795058  7  1 Bc  kc    k     kc         555   50   57 6d 3d
+Stubs     973795126  6  6 f   -     -     -          562    0    0 
+Stubs     973795211  4  3 cc  c     c     f          562   50    0 
+Stubs     973795244  5  4 c   k     k     f          512   10    0 
+Stubs     973795292  5  3 cc  k     kf    -          502   20    0 
+Stubs     973795328  6  3 cf  -     -     -          482   10    0 
+Stubs     973795374  7  2 Bk  c     f     -          472   20    0 
+Stubs     973795418  7  1 Bc  kf    -     -          452   10    0 
+Stubs     973795461  7  7 c   b     b     b          442   60  135 
+Stubs     973795556  6  5 c   k     k     c          517   30    0 6c 4c
+Stubs     973795609  5  3 c   brc   f     -          487   50    0 
+Stubs     973795698  5  2 Bk  b     b     bc         437   80  180 Ks 8h
+Stubs     973795745  5  1 Bc  kc    kf    -          537   30    0 
+Stubs     973795790  5  5 c   r     b     b          507   70  200 Td 8d
+Stubs     973795864  5  4 c   k     k     b          637   30   45 
+Stubs     973795900  5  3 f   -     -     -          652    0    0 
+Stubs     973795936  5  2 Bk  b     k     kf         652   20    0 
+Stubs     973795981  5  1 Bc  kc    k     k          632   30    0 Jc 9h
+Stubs     973796026  6  6 c   k     c     c          602   50    0 2c Kd
+Stubs     973796063  6  5 f   -     -     -          552    0    0 
+Stubs     973796092  6  4 c   k     b     -          552   30   45 
+Stubs     973796127  6  3 c   rc    c     k          567   60    0 Th Qh
+Stubs     973796178  6  2 Bk  kc    kc    kf         507   40    0 
+Stubs     973796232  6  1 Bc  b     -     -          467   20   30 
+Stubs     973796249  6  6 c   c     c     f          477   50    0 
+Stubs     973796285  6  5 c   c     b     f          427   50    0 
+Stubs     973796330  7  5 c   k     b     c          377   50  110 Js 4s
+Stubs     973796368  7  4 fQ  -     -     -          437    0    0 
+Stubs     973800933  9  9 c   b     b     b          437   60  150 
+Stubs     973800987  9  8 c   b     k     f          527   20    0 
+Stubs     973801061  8  6 c   k     k     k          507   10    0 9h 7s
+Stubs     973801094  8  5 cc  kc    kc    kc         497   70    0 5s 8s
+Stubs     973801149  7  3 c   k     k     k          427   10    0 Jh Qs
+Stubs     973801206  8  2 Bk  k     k     kf         417   10    0 
+Stubs     973801286  7  1 Bc  kf    -     -          407   10    0 
+Stubs     973801325  7  7 c   k     k     f          397   10    0 
+Stubs     973801374  7  6 c   c     c     f          387   50    0 
+Stubs     973801453  7  5 c   r     r     b          337   90    0 Qh Js
+Stubs     973801508  6  4 c   kf    -     -          247   10    0 
+Stubs     973801564  7  3 cc  k     kf    -          237   20    0 
+Stubs     973801598  6  2 Bc  kc    kf    -          217   30    0 
+Stubs     973801662  3  1 Bc  k     k     kf         187   10    0 
+Stubs     973801695  3  3 f   -     -     -          177    0    0 
+Stubs     973801699  2  2 Bc  f     -     -          177   20    0 
+Stubs     973801710  2  1 Bc  k     k     k          157   10   10 6h 4h
+Stubs     973801734  2  2 B   -     -     -          157   10   15 
+Stubs     973801739  2  1 Bcc kf    -     -          162   20    0 
+Stubs     973801754  2  2 Bc  c     f     -          142   30    0 
+Stubs     973801777  2  1 Bc  k     k     k          112   10   20 Kc 3s
+Stubs     973801801  2  2 Bc  bc    f     -          122   40    0 
+Stubs     973801837  2  1 Bcc k     b     b           82   60  100 
+Stubs     973801872  2  2 Bc  c     k     f          122   30    0 
+Stubs     973801895  2  1 Bc  k     b     -           92   30   40 
+Stubs     973801916  2  2 Bc  k     f     -          102   20    0 
+Stubs     973801935  2  1 Bc  b     b     b           82   60  120 9d Jc
+Stubs     973801971  2  2 Bf  -     -     -          142   10    0 
+Stubs     973801984  2  1 Bcc b     b     -          132   50   80 
+Stubs     973802011  2  2 Bc  b     bc    c          162   90    0 Td 3d
+Stubs     973802055  2  1 Bf  -     -     -           72    5    0 
+Stubs     973802066  2  2 Bc  c     c     k           67   50    0 7c Qc
+Stubs     973802086  2  1 Bcf -     -     -           17   10    0 
+Stubs     973802104  3  2 BA  -     -     -            7    7   21 Jd 3d
+Stubs     973802124  3  1 Bc  k     bA    -           21   21    0 7h Jc
+Stubs     973802196  3  2 Bk  b     -     -         1000   20   40 
+Stubs     973802214  3  1 Bf  -     -     -         1020    5    0 
+Stubs     973802246  3  3 c   b     b     -         1015   40   70 
+Stubs     973802281  3  2 Bk  b     b     b         1045   60    0 8d 4d
+Stubs     973802325  3  1 Bc  kQ    -     -          985   20    0 
+Stubs     973804775  7  4 c   kf    -     -          965   10    0 
+Stubs     973804830  7  3 cc  bc    bc    kc         955  100    0 Qs 9s
+Stubs     973804879  7  2 Bc  r     bc    b          855  110  440 Tc 7s
+Stubs     973804944  7  1 Bc  bc    b     b         1185   90  340 7s Qd
+Stubs     973805021  7  7 c   k     k     c         1435   40    0 Ac 8h
+Stubs     973805061  7  6 cc  k     kf    -         1395   20    0 
+Stubs     973805113  6  4 f   -     -     -         1375    0    0 
+Stubs     973805139  6  3 c   k     kf    -         1375   10    0 
+Stubs     973805185  6  2 Bk  c     r     k         1365   60    0 8d Ah
+Stubs     973805251  7  1 Bc  k     k     kf        1305   10    0 
+Stubs     973805310  8  8 c   f     -     -         1295   10    0 
+Stubs     973805332  8  7 c   b     b     r         1285   80  190 
+Stubs     973805393  8  6 f   -     -     -         1395    0    0 
+Stubs     973805444  8  5 f   -     -     -         1395    0    0 
+Stubs     973805481  7  4 c   b     b     -         1395   40   90 
+Stubs     973805525  7  3 r   bc    bc    k         1445   80    0 Th 7h
+Stubs     973805577  6  1 Bc  b     -     -         1365   30   90 
+Stubs     973805630  6  1 Bc  kc    kf    -         1425   20    0 
+Stubs     973805667  6  6 c   b     bc    c         1405   90    0 Tc Qs
+Stubs     973805754  9  7 cc  c     f     -         1315   30    0 
+Stubs     973805846  9  5 c   cf    -     -         1285   20    0 
+Stubs     973805919 10  4 c   bc    b     b         1265   80  340 Ac Tc
+Stubs     973806022 10  3 cc  bc    b     b         1525   80    0 6d 3d
+Stubs     973806099 10  2 Bk  kc    kc    k         1445   40    0 Qd 6s
+Stubs     973806184 10  1 Bf  -     -     -         1405    5    0 
+Stubs     973806230 10 10 c   f     -     -         1400   10    0 
+Stubs     973806285 10  9 cc  kf    -     -         1390   40    0 
+Stubs     973806406 10  8 c   k     c     f         1350   30    0 
+Stubs     973806485 10  7 cc  bc    c     cc        1320  100    0 7s 5h
+Stubs     973806649  9  6 c   k     bf    Q         1220   30    0 
+Stubs     973817080 10  4 c   c     c     c         1190   60    0 Qc 8h
+Stubs     973817146  9  2 Bc  kc    bc    k         1130   70    0 4c 5d
+Stubs     973817211 10  1 Bc  k     k     k         1060   10    0 7h 4h
+Stubs     973817291 10 10 c   c     f     -         1050   20    0 
+Stubs     973817398  9  8 c   c     k     f         1030   20    0 
+Stubs     973817475 10  8 f   -     -     -         1010    0    0 
+Stubs     973817541 10  7 c   rc    kc    kf        1010   60    0 
+Stubs     973817625 10  6 f   -     -     -          950    0    0 
+Stubs     973817736 10  5 c   c     c     f          950   40    0 
+Stubs     973817797 10  4 cc  kf    Q     -          910   30    0 
+Stubs     973868281  3  2 Bf  -     -     -          880   10    0 
+Stubs     973868303  3  1 Bf  -     -     -          870    5    0 
+Stubs     973868317  3  3 c   b     b     rr         865  120    0 Td Ts
+Stubs     973868344  3  2 Bf  -     -     -          745   10    0 
+Stubs     973868357  3  1 Brc bc    b     b          735   90  180 Ks Kh
+Stubs     973868385  4  3 cf  -     -     -          825   10    0 
+Stubs     973868414  4  2 Bk  kc    kc    kf         815   40    0 
+Stubs     973868451  4  1 Bc  bc    k     kc         775   70  190 Th Tc
+Stubs     973868486  4  4 f   -     -     -          895    0    0 
+Stubs     973868515  3  3 f   -     -     -          895    0    0 
+Stubs     973868523  3  2 Bf  -     -     -          895   10    0 
+Stubs     973868544  3  1 Bc  k     kc    kf         885   40    0 
+Stubs     973868573  3  3 cc  b     b     -          845   50   85 
+Stubs     973868597  3  2 Bcc cc    cc    kf         880  110    0 
+Stubs     973868657  3  1 Bc  brc   k     b          770   70  140 Ac 2c
+Stubs     973868692  3  3 cc  c     f     -          840   30    0 
+Stubs     973868714  3  2 Bf  -     -     -          810   10    0 
+Stubs     973868743  3  1 Bcc bc    kc    br         800  110  200 As 5d
+Stubs     973868779  2  2 c   r     b     r          890   90  160 
+Stubs     973868810  2  2 Bc  c     c     c          960   70    0 2d Ac
+Stubs     973868841  2  1 Bc  k     k     k          890   10   20 Ts 2s
+Stubs     973868874  2  2 Bc  b     b     b          900   70    0 Td 8d
+Stubs     973868902  2  1 Bc  k     k     kf         830   10    0 
+Stubs     973868932  2  2 B   -     -     -          820   10   15 
+Stubs     973868935  2  1 Bf  -     -     -          825    5    0 
+Stubs     973868940  2  2 Bc  b     -     -          820   30   50 
+Stubs     973868953  2  1 Bc  k     b     -          840   30   40 
+Stubs     973868986  2  2 B   -     -     -          850   10   15 
+Stubs     973868989  2  1 Bcc kf    -     -          855   20    0 
+Stubs     973869016  2  2 Bc  k     c     f          835   40    0 
+Stubs     973869043  2  1 Bc  -     -     -          795   10   20 
+Stubs     973880834 10  6 c   f     -     -          805   20    0 
+Stubs     973880930 10  5 c   cf    -     -          785   20    0 
+Stubs     973880993 10  4 f   -     -     -          765    0    0 
+Stubs     973881038  9  2 Bf  -     -     -          765   10    0 
+Stubs     973881095  9  1 Bf  -     -     -          755    5    0 
+Stubs     973881137 10 10 f   -     -     -          750    0    0 
+Stubs     973881194 10  9 c   f     -     -          750   10    0 
+Stubs     973881265 10  8 f   -     -     -          740    0    0 
+Stubs     973881360 10  7 f   -     -     -          740    0    0 
+Stubs     973881405  9  5 fQ  -     -     -          740    0    0 
+Stubs     973886401  9  8 KQ  -     -     -          740    0    0 
+Stubs     973896976  9  9 f   -     -     -         1000    0    0 
+Stubs     973897030 10  9 f   -     -     -         1000    0    0 
+Stubs     973897101 10  8 f   -     -     -         1000    0    0 
+Stubs     973897174 10  7 f   -     -     -         1000    0    0 
+Stubs     973897256 10  6 f   -     -     -         1000    0    0 
+Stubs     973897290 10  5 f   -     -     -         1000    0    0 
+Stubs     973897345 10  4 f   -     -     -         1000    0    0 
+Stubs     973897400 10  3 f   -     -     -         1000    0    0 
+Stubs     973897471 10  2 Bcc kc    kf    -         1000   80    0 
+Stubs     973897611 10  1 Bc  kc    kc    k          920   50  240 9d 6s
+Stubs     973897678 10 10 c   cc    c     rc        1110  140    0 Th Kd
+Stubs     973897799 10  9 c   c     cf    -          970   70    0 
+Stubs     973897968 10  8 f   -     -     -          900    0    0 
+Stubs     973898062 10  7 f   -     -     -          900    0    0 
+Stubs     973898126 10  6 f   -     -     -          900    0    0 
+Stubs     973898192 10  5 f   -     -     -          900    0    0 
+Stubs     973898306 10  4 f   -     -     -          900    0    0 
+Stubs     973898385  9  2 Bf  -     -     -          900   10    0 
+Stubs     973898442 10  1 Bc  br    br    b          890  130  320 2s Ad
+Stubs     973898520 10 10 cc  c     f     -         1080   70    0 
+Stubs     973898632 10  9 c   c     f     -         1010   30    0 
+Stubs     973898690 10  8 c   cc    c     bf         980  100    0 
+Stubs     973898793 10  7 f   -     -     -          880    0    0 
+Stubs     973898826 10  6 c   c     c     r          880   80  240 
+Stubs     973898940  9  5 cc  c     cc    r         1040  120  420 3h 7h
+Stubs     973899016  9  4 c   c     c     c         1340   60    0 4d 4c
+Stubs     973899059  9  3 f   -     -     -         1280    0    0 
+Stubs     973899126  9  2 Bcc kf    -     -         1280   40    0 
+Stubs     973899241  9  1 Bc  k     k     kf        1240   10    0 
+Stubs     973899293  9  9 cc  rcc   cc    f         1230  160    0 
+Stubs     973899375  9  8 f   -     -     -         1070    0    0 
+Stubs     973899430  8  6 f   -     -     -         1070    0    0 
+Stubs     973899494  9  5 f   -     -     -         1070    0    0 
+Stubs     973899557 10  4 f   -     -     -         1070    0    0 
+Stubs     973899594 10  3 ccc ccc   c     b         1070  120    0 3h Jh
+Stubs     973899683  9  2 Bc  kf    -     -          950   30    0 
+Stubs     973899733  9  1 Bc  kQ    -     -          920   20    0 
+Stubs     973952631  7  2 Bk  kf    -     -          900   10    0 
+Stubs     973952667  7  1 Bc  kc    kc    kc         890   70    0 9s Jh
+Stubs     973952723  7  7 cc  c     k     c          820  100    0 8h 4h
+Stubs     973952763  7  6 c   k     k     f          720   10    0 
+Stubs     973952807  7  5 f   -     -     -          710    0    0 
+Stubs     973952832  7  4 c   k     f     -          710   10    0 
+Stubs     973952860  7  3 cc  kc    kc    kc         700   70  215 8d Qc
+Stubs     973952900  7  2 Bc  kc    kc    k          845   50    0 8h Ts
+Stubs     973952941  7  1 Bc  brc   bc    b          795  110  280 
+Stubs     973953000  7  7 f   -     -     -          965    0    0 
+Stubs     973953048  7  6 f   -     -     -          965    0    0 
+Stubs     973953088  7  5 c   c     f     -          965   20    0 
+Stubs     973953140  7  4 f   -     -     -          945    0    0 
+Stubs     973953172  8  3 cc  k     k     k          945   20    0 7d Td
+Stubs     973953208  8  2 Bf  -     -     -          925   10    0 
+Stubs     973953248 10  1 Bcc kc    k     kf         915   50    0 
+Stubs     973953309 10 10 cc  f     -     -          865   20    0 
+Stubs     973953354 10  9 cc  cc    c     f          845   90    0 
+Stubs     973953454 10  8 cc  c     cc    f          755  130    0 
+Stubs     973953546 10  7 f   -     -     -          625    0    0 
+Stubs     973953625 10  6 f   -     -     -          625    0    0 
+Stubs     973953690 10  5 cc  bc    b     -          625   60  180 
+Stubs     973953747 10  5 f   -     -     -          745    0    0 
+Stubs     973953779 10  3 f   -     -     -          745    0    0 
+Stubs     973953857 10  2 Bc  kcc   kc    kc         745  100    0 4s 3d
+Stubs     973953939  9  1 Bc  k     bc    kc         645   70    0 6d As
+Stubs     973954017  8  8 c   c     k     c          575   50    0 8d Th
+Stubs     973954059  8  7 c   r     b     c          525   70  165 Td Tc
+Stubs     973954109  8  6 cc  f     -     -          620   20    0 
+Stubs     973954152  9  5 c   k     f     -          600   10    0 
+Stubs     973954202  9  4 c   cc    b     bc         590   90    0 3s 2d
+Stubs     973954274  9  3 cc  kc    kc    kf         500   50    0 
+Stubs     973954360  9  2 Bk  kf    -     -          450   10    0 
+Stubs     973954405  9  1 Bc  kc    kf    -          440   30    0 
+Stubs     973954455  9  9 c   cc    c     f          410   90    0 
+Stubs     973954532 10  9 c   c     k     f          320   60    0 
+Stubs     973954588 10  8 cc  ccc   cf    -          260  100    0 
+Stubs     973954712  9  6 c   rc    bc    f          160   90    0 
+Stubs     973954794  8  4 c   rc    f     -           70   50    0 
+Stubs     973954851  9  5 c   cA    -     -           20   20    0 As 8s
+Stubs     973959882  4  4 c   r     b     b         1000   70  180 7s 5s
+Stubs     973959934  4  3 cf  -     -     -         1110   10    0 
+Stubs     973959961  4  2 Bk  kf    -     -         1100   10    0 
+Stubs     973960003  4  1 Bc  kf    -     -         1090   10    0 
+Stubs     973960023  4  4 f   -     -     -         1080    0    0 
+Stubs     973960050  4  3 c   b     k     k         1080   20    0 Qc 8d
+Stubs     973960085  4  2 Bk  k     c     k         1060   30   70 Td 6h
+Stubs     973960117  4  1 Bc  kc    k     k         1100   20    0 5c 8c
+Stubs     973960161  5  4 cc  c     f     -         1080   30    0 
+Stubs     973960211  5  3 cc  kf    -     -         1050   20    0 
+Stubs     973960240  6  2 Bk  kf    -     -         1030   10    0 
+Stubs     973960289  6  1 Bc  k     kf    -         1020   10    0 
+Stubs     973960332  6  6 c   b     -     -         1010   20   45 
+Stubs     973960355  6  5 f   -     -     -         1035    0    0 
+Stubs     973960405  6  4 c   b     b     b         1035   60  180 3d 9h
+Stubs     973960446  6  3 c   kc    kf    -         1155   30    0 
+Stubs     973960494  6  2 Bk  b     b     b         1125   60  180 Ks Kd
+Stubs     973960550  6  1 Bc  b     b     b         1245   60  160 Ah 7c
+Stubs     973960586  6  6 c   b     b     b         1345   60  190 7h Ts
+Stubs     973960644  6  5 c   f     -     -         1475   10    0 
+Stubs     973960688  6  4 c   k     k     f         1465   10    0 
+Stubs     973960738  7  3 c   b     c     f         1455   40    0 
+Stubs     973960788  7  2 Bc  kf    -     -         1415   20    0 
+Stubs     973960816  7  1 Bc  kf    -     -         1395   20    0 
+Stubs     973960874  7  7 f   -     -     -         1375    0    0 
+Stubs     973960930  8  7 f   -     -     -         1375    0    0 
+Stubs     973960979  8  6 c   k     cc    cc        1375  110    0 Ks Qs
+Stubs     973961040  8  5 c   kf    -     -         1265   10    0 
+Stubs     973961099  8  4 c   b     b     b         1255   60  160 
+Stubs     973961155  8  3 c   c     f     -         1355   20    0 
+Stubs     973961222  8  2 Bk  bc    bcc   kc        1335  130    0 Kc 6h
+Stubs     973961315  8  1 Bc  kf    -     -         1205   10    0 
+Stubs     973961358  8  8 cc  c     c     f         1195   50    0 
+Stubs     973961434  8  7 c   c     f     -         1145   30    0 
+Stubs     973961475  6  4 f   -     -     -         1115    0    0 
+Stubs     973961501  5  3 f   -     -     -         1115    0    0 
+Stubs     973961526  5  2 Bc  kc    kc    kf        1115   50    0 
+Stubs     973961561  5  1 Bc  kc    kc    k         1065   50    0 Th Ah
+Stubs     973961600  5  5 c   rc    r     b         1015  120  325 As Qs
+Stubs     973961669  5  4 c   c     c     f         1220   50    0 
+Stubs     973961708  4  3 cf  -     -     -         1170   10    0 
+Stubs     973961747  4  2 Bk  c     c     f         1160   40    0 
+Stubs     973961787  4  1 Bc  k     b     b         1120   60  120 
+Stubs     973961825  4  4 c   k     c     f         1180   30    0 
+Stubs     973961868  4  3 c   rc    c     c         1150   90    0 9h 2s
+Stubs     973961926  4  2 Bc  c     c     c         1060   70  140 2c 2s
+Stubs     973961951  4  1 Bcc kc    kc    kc        1130   90    0 Ts Ad
+Stubs     973962040  4  4 cc  k     rc    c         1040  100  220 4c 2s
+Stubs     973962087  4  3 c   k     k     k         1160   10    0 6h 7c
+Stubs     973962148  4  3 c   k     b     -         1150   30   60 
+Stubs     973962195  4  2 Bk  bc    kc    kc        1180   70    0 8d 3h
+Stubs     973962248  4  1 Bc  k     kf    -         1110   10    0 
+Stubs     973962277  4  3 Q   -     -     -         1100    0    0 
+Stubs     973965230  8  6 c   f     -     -         1100   10    0 
+Stubs     973965314  8  5 c   c     k     b         1090   40  105 9h Jd
+Stubs     973965441  6  3 r   k     kf    -         1155   20    0 
+Stubs     973965492  6  2 Bcc c     cc    kc        1135  110    0 Ad 8d
+Stubs     973965568  7  1 Bc  k     b     bc        1025   70    0 3c 9s
+Stubs     973965622  6  6 c   k     c     k          955   30    0 8h Js
+Stubs     973965685  7  6 f   -     -     -          925    0    0 
+Stubs     973965749  5  4 c   b     b     b          925   60   68 5h Jh
+Stubs     973965839  5  3 c   k     k     k          933   10    0 3d 8c
+Stubs     973965936  5  2 B   -     -     -          923   10   15 
+Stubs     973965943  6  1 Bc  k     k     kf         928   10    0 
+Stubs     973965979  6  6 c   f     -     -          918   20    0 
+Stubs     973966003  6  5 f   -     -     -          898    0    0 
+Stubs     973966041  6  4 c   c     b     b          898   70   95 Jd 2s
+Stubs     973966082  6  3 c   k     k     f          923   10    0 
+Stubs     973966123  6  2 Bk  k     kf    -          913   10    0 
+Stubs     973966154  6  1 Bf  -     -     -          903    5    0 
+Stubs     973966217  6  6 c   c     c     c          898   70    0 8h Kh
+Stubs     973966269  5  5 c   k     k     b          828   30   45 
+Stubs     973966298  5  4 c   b     b     b          843   60    0 Qd 3s
+Stubs     973966340  5  3 c   k     k     kf         783   10    0 
+Stubs     973966390  6  2 Bk  b     -     -          773   20   45 
+Stubs     973966418  6  1 Bc  b     b     b          798   60  140 Ad 5d
+Stubs     973966478  6  5 c   k     b     -          878   30   50 
+Stubs     973966527  5  4 f   -     -     -          898    0    0 
+Stubs     973966586  5  3 cc  kc    kf    -          898   30    0 
+Stubs     973966640  7  2 Bk  kc    kc    kf         868   40    0 
+Stubs     973966710  6  1 Bc  bc    bc    brc        828  160    0 Jh Jd
+Stubs     973966767  7  7 c   c     c     c          668   80  150 Ac 3d
+Stubs     973966812  7  6 cc  f     -     -          738   20    0 
+Stubs     973966868  7  5 cc  rc    kc    kc         718   90  220 Ah 6c
+Stubs     973966919  7  4 cc  kc    kc    b          848   70    0 5s Ah
+Stubs     973966983  7  3 f   -     -     -          778    0    0 
+Stubs     973967028  6  2 Bk  kc    kc    kr         778   80  180 Ah Qc
+Stubs     973967075  7  1 Bcc kf    -     -          878   40    0 
+Stubs     973967132  7  7 f   -     -     -          838    0    0 
+Stubs     973967175  7  6 c   b     b     b          838   60  115 
+Stubs     973967210  7  5 c   f     -     -          893   20    0 
+Stubs     973967246  6  3 cc  kf    -     -          873   20    0 
+Stubs     973967278  6  2 Bk  kf    -     -          853   10    0 
+Stubs     973967312  7  1 Bf  -     -     -          843    5    0 
+Stubs     973967368  7  7 cc  cc    c     c          838  120    0 7s Qs
+Stubs     973967449  9  6 cc  c     c     c          718   80    0 Qs Jd
+Stubs     973967507  9  5 c   f     -     -          638   10    0 
+Stubs     973967568  9  3 cc  kf    -     -          628   20    0 
+Stubs     973967682  9  3 f   -     -     -          608    0    0 
+Stubs     973967760  9  2 Bk  kf    -     -          608   10    0 
+Stubs     973967840  9  1 Bf  -     -     -          598    5    0 
+Stubs     973967917  9  9 f   -     -     -          593    0    0 
+Stubs     973967987  9  8 c   kc    kf    -          593   20    0 
+Stubs     973968042  8  7 c   c     c     c          573   70    0 Js 3h
+Stubs     973968134  6  5 c   kf    -     -          503   10    0 
+Stubs     973968178  6  5 c   k     f     -          493   10    0 
+Stubs     973968223  6  4 cc  k     c     b          483   70  180 9h 8s
+Stubs     973968260  4  3 cc  b     b     b          593   70  190 Td 3d
+Stubs     973968320  5  2 Bk  kcc   kc    kf         713   70    0 
+Stubs     973968385  5  1 Bc  kf    -     -          643   10    0 
+Stubs     973968425  5  5 c   c     c     c          633   60    0 7h Ah
+Stubs     973968475  5  4 c   b     b     c          573   60    0 5h Th
+Stubs     973968535  4  2 Bk  b     k     k          513   20    0 Js As
+Stubs     973968576  4  1 Bc  kc    kc    bc         493   80    0 9h 6s
+Stubs     973968612  5  5 c   c     cc    bf         413  100    0 
+Stubs     973968681  6  5 c   k     b     rr         313  110  245 Qd Kc
+Stubs     973968753  5  4 c   c     r     r          448  120  195 8s 6s
+Stubs     973968809  5  3 r   c     c     f          523   50    0 
+Stubs     973968855  5  2 Bk  kc    kf    -          473   20    0 
+Stubs     973968911  7  1 Bc  kc    kf    -          453   30    0 
+Stubs     973968961  6  6 c   k     k     k          423   10   40 9h Ad
+Stubs     973969014  6  6 c   c     f     -          453   20    0 
+Stubs     973969065  6  5 cc  c     c     f          433   50    0 
+Stubs     973969117  7  4 c   c     c     c          383   80    0 6h 4s
+Stubs     973969186  7  3 r   b     k     kc         303   50    0 7s 7c
+Stubs     973969275  7  2 Bk  b     b     b          253   60  130 
+Stubs     973969326  7  1 Bc  b     bc    b          323  100  410 6s Qs
+Stubs     973969399  7  7 c   c     c     f          633   40    0 
+Stubs     973969457  8  6 ccc cc    fQ    -          593   70    0 
+Stubs     974124531  6  6 cc  c     c     k          330   50    0 Jd 4d
+Stubs     974124571  7  5 c   b     k     b          280   40   95 7c Kh
+Stubs     974124609  7  4 c   b     b     b          335   60   78 9s Tc
+Stubs     974124647  7  3 f   -     -     -          353    0    0 
+Stubs     974124690  7  2 Bk  b     -     -          353   20   35 
+Stubs     974124713  7  1 Bc  bc    kc    k          368   50    0 4h Th
+Stubs     974124748  7  7 c   f     -     -          318   20    0 
+Stubs     974124783  6  5 cc  f     -     -          298   30    0 
+Stubs     974124830  6  4 c   c     c     rr         268  120    0 Jh 2c
+Stubs     974124871  6  3 c   c     c     k          148   40    0 5c Jc
+Stubs     974124921  6  2 Bk  k     k     kf         108   10    0 
+Stubs     974124960  6  1 Bc  kf    -     -           98   10    0 
+Stubs     974125004  6  6 f   -     -     -           88    0    0 
+Stubs     974125042  6  5 cc  bc    kc    b           88   80  195 4c Ks
+Stubs     974125094  7  4 f   -     -     -          203    0    0 
+Stubs     974125133  7  3 c   rc    b     b          203   80    0 3s 3c
+Stubs     974125202  7  2 Bk  b     b     b          123   60  150 7c 7d
+Stubs     974125240  7  1 Bcr b     bc    b          213  100  200 As Ah
+Stubs     974125289  7  7 cc  c     c     c          313   80    0 Ac 2s
+Stubs     974125348 10  9 c   c     k     k          233   30    0 Kc 9d
+Stubs     974125399 10  8 c   k     k     k          203   10    0 Qs 3d
+Stubs     974125444 10  7 c   cc    k     c          193   80  110 5h Ks
+Stubs     974125580 10  6 r   b     -     -          223   30  110 
+Stubs     974125619 10  5 c   kc    kf    -          303   20    0 
+Stubs     974125663 10  4 cc  c     c     k          283   50    0 Tc 3c
+Stubs     974125722 10  3 c   kf    -     -          233   10    0 
+Stubs     974125782 10  2 Bc  kc    k     kc         223   50    0 3c 2d
+Stubs     974125838 10  1 Bc  kf    -     -          173   10    0 
+Stubs     974125877 10 10 c   k     k     k          163   10   35 8d 5d
+Stubs     974125916  9  8 cc  kf    -     -          188   20    0 
+Stubs     974125984  9  7 c   b     b     b          168   60  270 Jd Kd
+Stubs     974126052  9  6 c   k     k     k          378   10    0 7h Jc
+Stubs     974126103  9  5 cc  bc    b     b          368   80    0 Ad 5c
+Stubs     974126174  9  4 f   -     -     -          288    0    0 
+Stubs     974126228  9  3 c   k     k     b          288   30   90 Qh 9s
+Stubs     974126282  8  2 Bk  kf    -     -          348   10    0 
+Stubs     974126328  7  1 Bc  kc    k     b          338   50  120 Td Th
+Stubs     974126375  7  7 c   k     k     f          408   10    0 
+Stubs     974126425  6  5 c   c     c     c          398   60  140 8c Kh
+Stubs     974126466  6  4 c   k     kf    -          478   10    0 
+Stubs     974126512  5  3 cc  kf    -     -          468   20    0 
+Stubs     974126558  5  2 Bc  cc    b     b          448   90    0 3h Kh
+Stubs     974126622  5  1 Bc  k     k     k          358   10   30 As Td
+Stubs     974126657  5  5 c   b     -     -          378   20   35 
+Stubs     974126678  5  4 c   k     b     b          393   50   95 
+Stubs     974126717  5  3 cc  kf    -     -          438   20    0 
+Stubs     974126770  5  2 Bk  bc    b     b          418   70  140 
+Stubs     974126817  6  1 Bc  k     b     b          488   50   90 
+Stubs     974126859  6  6 f   -     -     -          528    0    0 
+Stubs     974126882  6  5 c   c     r     b          528   90  245 
+Stubs     974126956  6  4 c   k     r     b          683   70  160 9d Kd
+Stubs     974127000  6  3 cc  kf    -     -          773   20    0 
+Stubs     974127055  7  2 Bc  kc    kc    kf         753   50    0 
+Stubs     974127111  7  1 Bc  k     k     k          703   20    0 8s Ks
+Stubs     974127137  7  7 r   bc    f     -          683   40    0 
+Stubs     974127213  6  5 c   b     b     b          643   60  115 
+Stubs     974127262  6  4 c   kc    kc    c          698   80    0 Jh 5c
+Stubs     974127336  6  3 c   k     kf    -          618   10    0 
+Stubs     974127405  6  2 Bc  c     c     f          608   50    0 
+Stubs     974127439  6  1 Bc  b     b     b          558   60    0 9d Kd
+Stubs     974127468  5  5 f   -     -     -          498    0    0 
+Stubs     974127517  6  5 c   cc    cc    c          498  130    0 9s 9d
+Stubs     974127579  6  4 cc  c     k     b          368   50  200 4s 5s
+Stubs     974127650  6  3 c   r     bc    k          518   70    0 Qd Jh
+Stubs     974127701  6  2 Bk  k     kf    -          448   10    0 
+Stubs     974127761  6  1 Bc  kc    bc    b          438   80    0 7h 7c
+Stubs     974127816  6  6 c   c     c     rc         358  100  245 5s 7s
+Stubs     974127900  6  5 c   k     k     k          503   10    0 2s 2c
+Stubs     974127944  6  4 f   -     -     -          493    0    0 
+Stubs     974128035  7  3 cc  bc    kc    k          493   60  225 Kc 6h
+Stubs     974128113  8  3 cc  kc    kf    -          658   30    0 
+Stubs     974128159  8  2 Bc  kc    kc    b          628   70  290 Qc As
+Stubs     974128215  9  1 Bc  kf    -     -          848   20    0 
+Stubs     974128251  9  9 ccc c     c     r          828  130  212 9s Qh
+Stubs     974128325  9  8 cc  c     rc    b          910  120  560 5d 9c
+Stubs     974128392  8  7 cc  bc    bc    k         1350   80    0 Jc 9c
+Stubs     974128437  7  5 cc  cc    kc    k         1270   60  245 6h Jh
+Stubs     974128488  7  4 f   -     -     -         1455    0    0 
+Stubs     974128531  7  3 cc  kc    kc    bc        1455   90    0 9h Ad
+Stubs     974128580  6  2 Bcc kf    Q     -         1365   40    0 
+Stubs     974148340 10  8 KQ  -     -     -         1325    0    0 
+Stubs     974210136  6  4 cc  k     k     k         1483   20    0 4s Ts
+Stubs     974210177  6  3 c   c     c     r         1463   80  190 Jc 9c
+Stubs     974210217  6  2 Bc  kc    kc    kf        1573   50    0 
+Stubs     974210309  5  1 Bcc kf    -     -         1523   30    0 
+Stubs     974210440  4  4 c   k     Q     -         1493   10    0 
+Stubs     974211102  7  7 c   c     c     k         1483   40    0 2s 3d
+Stubs     974211168  7  6 c   b     r     r         1443  100  260 
+Stubs     974211240  8  5 cc  c     c     c         1603   70    0 Ts Ad
+Stubs     974211282  8  4 cc  kc    kc    kf        1533   60    0 
+Stubs     974211349  8  3 f   -     -     -         1473    0    0 
+Stubs     974211433  8  2 Bk  kc    kr    brc       1473  160  600 3d 9h
+Stubs     974211513  9  1 Bc  kf    -     -         1913   30    0 
+Stubs     974211560  9  9 c   k     k     f         1883   10    0 
+Stubs     974211651  9  8 f   -     -     -         1873    0    0 
+Stubs     974211687  9  7 f   -     -     -         1873    0    0 
+Stubs     974211722  9  6 c   k     k     k         1873   10   17 Kh 9c
+Stubs     974211760  8  4 c   kf    -     -         1880   10    0 
+Stubs     974211841  7  3 cc  bcc   bc    b         1870  120  440 2d 2s
+Stubs     974211913  8  2 Bc  k     kf    -         2190   20    0 
+Stubs     974211990  9  1 Bc  kf    -     -         2170   20    0 
+Stubs     974212050  8  8 cc  b     -     -         2150   30   80 
+Stubs     974212090  8  7 c   c     c     cf        2200   60    0 
+Stubs     974212159  8  6 c   cc    c     f         2140   60    0 
+Stubs     974212224  8  5 c   r     b     b         2080   80  205 Ac 4s
+Stubs     974212281  8  4 cc  f     -     -         2205   40    0 
+Stubs     974212322  8  3 cc  k     c     f         2165   40    0 
+Stubs     974212392  8  2 Bk  b     b     b         2125   60  150 Ks 8d
+Stubs     974212424  8  1 Bc  b     k     kc        2215   50    0 Ac Js
+Stubs     974212482  8  8 c   c     c     f         2165   50    0 
+Stubs     974212531  8  7 c   f     -     -         2115   10    0 
+Stubs     974212585  8  6 c   cc    cf    -         2105  100    0 
+Stubs     974212678  8  5 f   -     -     -         2005    0    0 
+Stubs     974212747  8  4 cc  kc    bc    b         2005  100  365 Ad 4c
+Stubs     974212812  8  3 r   bc    b     b         2270   80  230 Qc Ac
+Stubs     974212859  7  1 Bc  kf    -     -         2420   40    0 
+Stubs     974212912  8  1 Bc  kf    -     -         2380   20    0 
+Stubs     974212948  8  8 f   -     -     -         2360    0    0 
+Stubs     974212989  7  6 c   f     -     -         2360   20    0 
+Stubs     974213005  7  6 cc  k     c     f         2340   40    0 
+Stubs     974213043  7  3 Q   -     -     -         2300    0    0 
+Stubs     974216288  6  6 cc  r     rc    c         2300  120  300 4h Jd
+Stubs     974216332  6  5 c   k     f     -         2480   10    0 
+Stubs     974216362  7  4 c   k     b     -         2470   30   45 
+Stubs     974216393  7  3 c   c     c     c         2485   60    0 9s Js
+Stubs     974216422  7  2 Bc  kf    -     -         2425   30    0 
+Stubs     974216451  7  1 Bf  -     -     -         2395    5    0 
+Stubs     974216498  7  7 f   -     -     -         2390    0    0 
+Stubs     974216524  7  6 c   c     c     c         2390   60  155 Ts 9s
+Stubs     974216561  7  5 c   rc    rr    b         2485  150  330 9s 8h
+Stubs     974216607  8  4 c   kc    kf    -         2665   20    0 
+Stubs     974216654  9  3 c   c     c     c         2645   60    0 Ah 2d
+Stubs     974216691  9  2 Bcc k     kf    -         2585   40    0 
+Stubs     974216738  9  1 Bc  k     k     k         2545   20    0 8h 5h
+Stubs     974216794  9  9 cc  c     c     c         2525   90  380 8d 7h
+Stubs     974216840  9  8 f   -     -     -         2815    0    0 
+Stubs     974216893  9  7 f   -     -     -         2815    0    0 
+Stubs     974216974  9  6 f   -     -     -         2815    0    0 
+Stubs     974217041  9  5 cc  b     b     b         2815   70  213 
+Stubs     974217088  8  4 f   -     -     -         2958    0    0 
+Stubs     974217133  8  3 c   cf    -     -         2958   20    0 
+Stubs     974217197 10  2 Bk  k     f     -         2938   10    0 
+Stubs     974217253 10  1 Bc  b     b     b         2928   60    0 9h 4h
+Stubs     974217304  9  9 f   -     -     -         2868    0    0 
+Stubs     974217325  9  8 f   -     -     -         2868    0    0 
+Stubs     974217350  9  7 c   kf    -     -         2868   10    0 
+Stubs     974217404  9  6 f   -     -     -         2858    0    0 
+Stubs     974217466  9  5 c   kf    -     -         2858   10    0 
+Stubs     974217524  9  4 c   k     k     k         2848   10    0 Kh 3c
+Stubs     974217584  9  3 c   kf    -     -         2838   10    0 
+Stubs     974217657  9  2 Bc  kc    kf    -         2828   30    0 
+Stubs     974217709  8  1 Bf  -     -     -         2798    5    0 
+Stubs     974217761  8  8 cc  c     c     k         2793   50    0 6s Kd
+Stubs     974217814  8  7 cc  c     f     -         2743   40    0 
+Stubs     974217855  8  6 c   k     k     k         2703   10    0 4h 5s
+Stubs     974217893  9  6 f   -     -     -         2693    0    0 
+Stubs     974217933  9  5 c   b     b     b         2693   60  150 
+Stubs     974217989  9  4 c   kc    k     b         2783   40  120 
+Stubs     974218040  9  3 c   c     k     k         2863   20    0 5c 5s
+Stubs     974218084  8  2 Bk  kc    k     kf        2843   20    0 
+Stubs     974218154  8  1 Bc  k     kc    k         2823   30    0 3c 6c
+Stubs     974218199  8  8 c   k     f     -         2793   10    0 
+Stubs     974218252  8  5 Q   -     -     -         2783    0    0 
+Stubs     974234368 10  3 c   k     b     bc        2783   70  175 7h 6c
+Stubs     974234413 10  2 Bk  c     c     c         2888   60    0 9d 5d
+Stubs     974234563  9  1 Bc  k     k     b         2828   30    0 Jh 6s
+Stubs     974234648 10 10 c   f     -     -         2798   10    0 
+Stubs     974234685 10  9 c   c     r     b         2788   80    0 Jc Ks
+Stubs     974234790 10  8 c   f     -     -         2708   20    0 
+Stubs     974234857 10  7 c   f     -     -         2688   10    0 
+Stubs     974234917 10  6 c   br    b     b         2678   80  215 6c Tc
+Stubs     974234978 10  5 c   bc    bc    k         2813   70    0 Jh 8c
+Stubs     974235057 10  4 c   b     c     c         2743   60    0 3d 7d
+Stubs     974235113 10  3 ccc kc    kc    kc        2683   90  385 9d Td
+Stubs     974235198 10  2 Bk  kc    kc    kc        2978   60    0 8d 6d
+Stubs     974235259 10  1 Bc  k     b     -         2918   30   70 
+Stubs     974235298 10 10 c   c     c     cc        2958   90    0 8h Jc
+Stubs     974235357 10  9 cc  rc    r     bc        2868  160    0 9h 8c
+Stubs     974235444 10  8 cc  rc    c     b         2708   90  420 Jh 4d
+Stubs     974235546  9  6 c   b     b     b         3038   60  135 
+Stubs     974235591 10  5 c   b     b     k         3113   40    0 2s 2d
+Stubs     974235701 10  4 cc  bc    bc    kc        3073  100    0 6h 8h
+Stubs     974235763 10  3 Q   -     -     -         2973    0    0 
+Stubs     974236829 10  3 c   k     k     c         2973   30    0 8c 7d
+Stubs     974236880 10  2 Bf  -     -     -         2943   10    0 
+Stubs     974236912 10  1 Bc  kf    -     -         2933   10    0 
+Stubs     974236944  9  9 f   -     -     -         2923    0    0 
+Stubs     974236992 10  9 c   b     b     b         2923   60    0 Kh 4h
+Stubs     974237060 10  8 f   -     -     -         2863    0    0 
+Stubs     974237104 10  7 c   kc    c     b         2863   80  124 Qd 5d
+Stubs     974237181 10  6 cc  kf    -     -         2907   20    0 
+Stubs     974237264 10  5 c   cf    -     -         2887   20    0 
+Stubs     974237353 10  4 c   kc    kc    k         2867   40  145 3c 5c
+Stubs     974237405 10  3 cc  c     c     f         2972   43    0 
+Stubs     974237467  9  2 Bc  kc    kc    kf        2929   50    0 
+Stubs     974237530 10  1 Bc  kc    kc    k         2879   40    0 6d 2h
+Stubs     974237612 10 10 f   -     -     -         2839    0    0 
+Stubs     974237655  9  9 cc  c     k     f         2839   40    0 
+Stubs     974237729  9  8 f   -     -     -         2799    0    0 
+Stubs     974237838  8  7 f   -     -     -         2799    0    0 
+Stubs     974237878  9  6 c   cc    c     r         2799  130    0 9s 7d
+Stubs     974237940 10  5 f   -     -     -         2669    0    0 
+Stubs     974237986 10  4 cc  c     r     c         2669   90    0 Qh Td
+Stubs     974238055 10  3 cc  bc    bc    bc        2579  120  345 Ks Kc
+Stubs     974238122 10  2 Bk  k     kf    -         2804   10    0 
+Stubs     974238161 10  1 Bc  b     b     b         2794   60  180 
+Stubs     974238219 10 10 c   c     c     f         2914   40    0 
+Stubs     974238273 10  9 c   c     f     -         2874   20    0 
+Stubs     974238364 10  8 f   -     -     -         2854    0    0 
+Stubs     974238439 10  7 c   c     c     f         2854   50    0 
+Stubs     974238509 10  7 f   -     -     -         2804    0    0 
+Stubs     974238564 10  5 c   cf    -     -         2804   20    0 
+Stubs     974238712 10  4 c   kc    kc    k         2784   40  140 Qh 8h
+Stubs     974238765 10  3 cc  kf    -     -         2884   20    0 
+Stubs     974238865 10  2 Bc  kc    kc    kf        2864   50    0 
+Stubs     974238941 10  1 Bc  k     kf    -         2814   10    0 
+Stubs     974239032 10 10 c   c     k     f         2804   20    0 
+Stubs     974239135 10  9 c   b     b     f         2784   40    0 
+Stubs     974239222  9  7 cc  kc    kf    -         2744   30    0 
+Stubs     974239329  9  6 c   kc    bc    k         2714   60    0 5h 5d
+Stubs     974239429  6  3 cc  kf    -     -         2654   20    0 
+Stubs     974239493  8  2 Bc  bc    kc    k         2634   60    0 3c Kc
+Stubs     974239552  9  1 Bc  bc    bc    brc       2574  150    0 Jc Jd
+Stubs     974239671  8  8 c   k     k     b         2424   30   80 
+Stubs     974239744  8  7 c   cc    c     c         2474   80    0 6h 3h
+Stubs     974239807 10  8 c   c     k     b         2394   40  115 
+Stubs     974239868 10  7 cc  bc    bc    k         2469   80    0 5c 6h
+Stubs     974239945 10  6 cc  c     c     k         2389   70    0 Qh 5s
+Stubs     974240041 10  5 Q   -     -     -         2319    0    0 
+Stubs     974288380  5  3 cc  c     c     f         2319   50    0 
+Stubs     974288425  5  2 Bk  b     b     -         2269   40   65 
+Stubs     974288448  5  1 Bc  kc    kf    -         2294   30    0 
+Stubs     974288488  5  5 c   k     k     f         2264   10    0 
+Stubs     974288533  5  4 c   c     c     c         2254   60    0 6d 7d
+Stubs     974288569  5  3 c   b     bc    kc        2194   80    0 Ad Qs
+Stubs     974288619  5  2 B   -     -     -         2114   10   15 
+Stubs     974288626  5  1 Bf  -     -     -         2119    5    0 
+Stubs     974288665  5  5 f   -     -     -         2114    0    0 
+Stubs     974288702  6  4 cc  k     c     c         2114   60    0 6c 8c
+Stubs     974288746  6  3 f   -     -     -         2054    0    0 
+Stubs     974288780  6  2 Bk  k     kf    -         2054   10    0 
+Stubs     974288830  6  1 Bc  b     b     b         2044   70  170 Qd Kc
+Stubs     974288859  6  6 f   -     -     -         2144    0    0 
+Stubs     974288893  6  5 c   c     f     -         2144   20    0 
+Stubs     974288924  6  4 c   c     f     -         2124   20    0 
+Stubs     974288951  6  3 cc  f     -     -         2104   20    0 
+Stubs     974288990  6  2 Bf  -     -     -         2084   10    0 
+Stubs     974289035  6  1 Bcc kf    -     -         2074   20    0 
+Stubs     974289089  6  6 c   k     f     -         2054   10    0 
+Stubs     974289123  5  4 f   -     -     -         2044    0    0 
+Stubs     974289157  5  3 cc  k     k     k         2044   20    0 8d Ks
+Stubs     974289215  5  2 Bk  b     bc    kc        2024   80    0 9c 5c
+Stubs     974289265  5  1 Bf  -     -     -         1944    5    0 
+Stubs     974289297  5  5 f   -     -     -         1939    0    0 
+Stubs     974289331  5  4 c   f     -     -         1939   10    0 
+Stubs     974289366  5  3 f   -     -     -         1929    0    0 
+Stubs     974289379  5  2 Bc  ccc   f     -         1929   60    0 
+Stubs     974289431  5  1 Bc  kf    -     -         1869   10    0 
+Stubs     974289472  6  6 f   -     -     -         1859    0    0 
+Stubs     974289492  6  5 c   f     -     -         1859   10    0 
+Stubs     974289527  6  4 c   c     b     c         1849   60    0 7h 9s
+Stubs     974289566  6  3 cc  c     f     -         1789   30    0 
+Stubs     974289612  6  2 Bc  kcc   kc    b         1759   80    0 Td Qh
+Stubs     974289667  6  1 Bc  kc    kc    bc        1679   80    0 Ac Js
+Stubs     974289720  6  6 c   b     b     b         1599   60  175 As Ts
+Stubs     974289758  6  5 c   r     b     b         1714   70  210 As 5s
+Stubs     974289794  6  4 c   f     -     -         1854   20    0 
+Stubs     974289843  5  3 cc  kc    kf    -         1834   30    0 
+Stubs     974289879  5  2 Bc  kc    kc    kf        1804   50    0 
+Stubs     974289919  5  1 Bc  kc    kc    b         1754   70  150 
+Stubs     974289966  6  6 c   c     f     -         1834   20    0 
+Stubs     974290024  7  5 c   kf    -     -         1814   10    0 
+Stubs     974290063  7  3 f   -     -     -         1804    0    0 
+Stubs     974290100  7  2 Bk  k     kf    -         1804   10    0 
+Stubs     974290166  7  1 Bc  kc    bc    kc        1794   90  300 9c Qd
+Stubs     974290226  8  8 c   f     -     -         2004   14    0 
+Stubs     974290277  7  6 c   ccc   f     -         1990   50    0 
+Stubs     974290357  6  4 c   kf    -     -         1940   10    0 
+Stubs     974290389  6  3 f   -     -     -         1930    0    0 
+Stubs     974290422  6  2 Bk  k     b     b         1930   50  120 
+Stubs     974290477  6  1 Bc  k     k     k         2000   10   40 9d 7s
+Stubs     974290511  6  6 c   f     -     -         2030   20    0 
+Stubs     974290551  6  5 c   b     b     -         2010   40   90 
+Stubs     974290583  5  3 c   k     bc    b         2060   70    0 Td 6d
+Stubs     974290629  6  2 Bk  k     k     k         1990   10    0 Jd 4c
+Stubs     974290676  6  1 Bc  k     kf    -         1980   10    0 
+Stubs     974290738  6  6 f   -     -     -         1970    0    0 
+Stubs     974290756  6  5 c   k     k     k         1970   10    0 Ks Qs
+Stubs     974290791  6  4 f   -     -     -         1960    0    0 
+Stubs     974290828  6  3 c   kf    -     -         1960   10    0 
+Stubs     974290855  6  2 Bk  kc    kf    -         1950   20    0 
+Stubs     974290902  6  1 Bc  k     kcc   kr        1930   90  260 5h 7h
+Stubs     974290964  6  6 c   c     f     -         2100   20    0 
+Stubs     974291008  6  5 f   -     -     -         2080    0    0 
+Stubs     974291049  6  4 c   k     f     -         2080   10    0 
+Stubs     974291096  6  3 f   -     -     -         2070    0    0 
+Stubs     974291130  7  2 Bk  b     kf    -         2070   20    0 
+Stubs     974291189  7  1 Bc  k     b     b         2050   50   60 Jd 9d
+Stubs     974291223  7  7 c   k     f     -         2060   10    0 
+Stubs     974291249  7  6 f   -     -     -         2050    0    0 
+Stubs     974291269  7  5 c   k     k     k         2050   10    0 7h 9d
+Stubs     974291313  7  4 c   k     kf    -         2040   10    0 
+Stubs     974291356  7  3 f   -     -     -         2030    0    0 
+Stubs     974291383  7  2 Bk  c     c     c         2030   60  120 6s 5c
+Stubs     974291416  7  1 Bcf -     -     -         2090   10    0 
+Stubs     974291462  7  7 c   k     fQ    -         2080   10    0 
+Stubs     974292550  8  4 c   k     k     k         2070   10    0 4s Ad
+Stubs     974292594  8  3 cc  kf    -     -         2060   20    0 
+Stubs     974292642  7  2 Bk  k     k     k         2040   10    0 9c 4h
+Stubs     974292684  7  1 Bc  kf    -     -         2030   10    0 
+Stubs     974292719  7  7 c   b     b     -         2020   40   85 
+Stubs     974292755  7  6 c   k     k     b         2065   30   75 Jc Td
+Stubs     974292799  7  5 c   -     -     -         2110   10   25 
+Stubs     974293228  3  2 c   b     br    b         2125  100  200 Ah Js
+Stubs     974293262  3  2 Bk  k     k     kf        2225   10    0 
+Stubs     974293293  2  1 Bc  k     kf    -         2215   10    0 
+Stubs     974293318  2  2 Bc  k     b     -         2205   40   60 
+Stubs     974293341  3  1 Bc  kf    -     -         2225   20    0 
+Stubs     974293360  4  4 c   b     -     -         2205   20   40 
+Stubs     974293402  4  3 c   b     b     b         2225   60    0 Ts Jh
+Stubs     974293437  4  2 Bk  r     b     b         2165   70  150 9c 9d
+Stubs     974293466  4  1 Bc  k     kf    -         2245   10    0 
+Stubs     974293490  4  4 f   -     -     -         2235    0    0 
+Stubs     974293516  4  3 c   c     c     c         2235   60    0 8c 6h
+Stubs     974293541  4  2 B   -     -     -         2175   10   15 
+Stubs     974293548  4  1 Bc  k     k     b         2180   30   40 
+Stubs     974293579  4  4 r   b     b     b         2190   70  150 9c 9d
+Stubs     974293619  4  3 cc  c     bc    c         2270   90    0 Ts Tc
+Stubs     974293658  4  2 Bk  k     k     c         2180   30   60 8s 6s
+Stubs     974293684  4  1 Bc  kc    k     k         2210   20   50 3c Jc
+Stubs     974293714  4  4 cc  r     b     b         2240   80  200 5c 3d
+Stubs     974293762  4  3 c   k     f     -         2360   10    0 
+Stubs     974293782  4  2 Bk  k     k     kf        2350   10    0 
+Stubs     974293816  4  1 Bc  b     -     -         2340   20   30 
+Stubs     974293836  4  4 cc  f     -     -         2350   20    0 
+Stubs     974293853  4  3 cc  b     b     -         2330   50   95 
+Stubs     974293872  4  2 Bk  k     kf    -         2375   10    0 
+Stubs     974293928  4  1 Bc  b     -     -         2365   20   50 
+Stubs     974293947  4  4 c   b     k     c         2395   40    0 Js 6d
+Stubs     974293975  5  3 c   kc    c     r         2355   80    0 Jh 2s
+Stubs     974294022  6  2 Bk  k     f     -         2275   10    0 
+Stubs     974294056  6  1 Bc  kc    br    bc        2265  140  200 6s Qd
+Stubs     974294124  6  6 c   k     c     f         2325   30    0 
+Stubs     974294180  6  5 c   cc    f     -         2295   40    0 
+Stubs     974294240  6  4 f   -     -     -         2255    0    0 
+Stubs     974294271  6  3 c   f     -     -         2255   10    0 
+Stubs     974294295  6  2 Bk  b     b     -         2245   40   75 
+Stubs     974294314  6  1 Bc  b     -     -         2280   30   60 
+Stubs     974294335  6  6 cc  c     c     c         2310   80    0 Ad 6s
+Stubs     974294367  6  5 cc  c     c     rc        2230  110    0 Jh As
+Stubs     974294406  6  4 c   k     b     k         2120   30    0 3s 2s
+Stubs     974294441  6  3 f   -     -     -         2090    0    0 
+Stubs     974294463  6  2 Bc  kf    -     -         2090   20    0 
+Stubs     974294496  6  1 Bf  -     -     -         2070    5    0 
+Stubs     974294533  6  6 cc  c     c     f         2065   50    0 
+Stubs     974294573  5  5 c   f     -     -         2015   10    0 
+Stubs     974294621  4  3 cc  f     -     -         2005   20    0 
+Stubs     974294640  4  2 Bk  k     k     b         1985   30   40 
+Stubs     974294660  4  1 Bc  kf    -     -         1995   20    0 
+Stubs     974294688  4  4 cc  f     -     -         1975   20    0 
+Stubs     974294707  4  3 cc  b     b     b         1955   70  170 Th Td
+Stubs     974294751  4  2 Bk  kc    kc    krr       2055  120    0 Jd 6d
+Stubs     974294802  4  1 Bc  kc    k     b         1935   50    0 2h Jh
+Stubs     974294843  5  5 c   c     c     r         1885  100  160 3c 9c
+Stubs     974294894  5  4 cc  b     b     b         1945   70  180 8h Kh
+Stubs     974294939  5  3 r   -     -     -         2055   20   35 
+Stubs     974294953  5  2 Bc  b     -     -         2070   30   70 
+Stubs     974294972  5  1 Bc  kc    kf    -         2110   20    0 
+Stubs     974295023  5  5 cc  cf    -     -         2090   30    0 
+Stubs     974295070  5  4 f   -     -     -         2060    0    0 
+Stubs     974295118  5  3 cc  f     -     -         2060   20    0 
+Stubs     974295145  5  2 Bc  c     k     k         2040   30    0 8c 6s
+Stubs     974295191  5  1 Bcf -     -     -         2010   10    0 
+Stubs     974295219  5  5 cc  cc    f     -         2000   50    0 
+Stubs     974295291  5  4 ccc cc    c     c         1950  140    0 7c 7d
+Stubs     974295365  5  3 cc  bc    kc    kc        1810   80    0 9h 8c
+Stubs     974295425  5  2 Bc  bc    brc   bc        1730  160  325 6s Kc
+Stubs     974295480  5  1 Bf  -     -     -         1895    5    0 
+Stubs     974295507  4  4 c   b     k     b         1890   40   85 Ad 6c
+Stubs     974295537  4  3 cc  kc    k     k         1935   30   75 Kc Kd
+Stubs     974295575  4  2 Bk  b     b     -         1980   40   70 
+Stubs     974295602  4  1 Bc  k     kf    -         2010   10    0 
+Stubs     974295626  4  4 cc  k     k     k         2000   20    0 3s 3h
+Stubs     974295664  4  3 c   b     -     -         1980   20   40 
+Stubs     974295683  4  2 Bk  c     kc    b         2000   60    0 8c 6s
+Stubs     974295723  4  1 Bc  kc    k     kf        1940   20    0 
+Stubs     974295755  4  4 c   k     k     k         1920   10   30 Ks 9h
+Stubs     974295775  4  3 c   b     -     -         1940   20   35 
+Stubs     974295788  4  2 Bk  k     k     k         1955   10   13 3h Ah
+Stubs     974295809  4  1 Bc  k     k     kf        1958   10    0 
+Stubs     974295844  4  4 cc  k     f     -         1948   20    0 
+Stubs     974295874  4  3 c   k     k     k         1928   10    0 6h 3h
+Stubs     974295905  4  2 B   -     -     -         1918   10   15 
+Stubs     974295911  4  1 Bc  kr    -     -         1923   30   80 
+Stubs     974295935  4  4 c   k     k     f         1973   10    0 
+Stubs     974295971  4  3 cc  k     k     k         1963   20   70 Ad 6s
+Stubs     974296000  4  2 Bk  c     k     c         2013   40    0 8h 2c
+Stubs     974296026  4  1 Bc  b     -     -         1973   20   40 
+Stubs     974296041  4  4 c   c     c     c         1993   60    0 4s 5h
+Stubs     974296069  4  3 c   f     -     -         1933   10    0 
+Stubs     974296087  4  2 Bc  bc    k     k         1923   40    0 Td Tc
+Stubs     974296114  4  1 Bc  kf    -     -         1883   10    0 
+Stubs     974296149  4  4 c   b     b     -         1873   40   80 
+Stubs     974296175  4  3 c   b     b     b         1913   60    0 6d 9c
+Stubs     974296207  4  2 Bf  -     -     -         1853   10    0 
+Stubs     974296224  4  1 Bc  kc    k     b         1843   40   70 
+Stubs     974296263  5  5 c   b     b     -         1873   40   80 
+Stubs     974296286  5  4 cc  kf    -     -         1913   20    0 
+Stubs     974296309  5  3 c   kf    -     -         1893   10    0 
+Stubs     974296330  4  2 Bk  c     f     -         1883   20    0 
+Stubs     974296349  4  1 Bc  k     k     k         1863   10   20 Qd 8d
+Stubs     974296373  4  4 c   c     c     k         1873   50    0 9d 6c
+Stubs     974296405  4  3 c   k     c     r         1823   70  145 Ah Qs
+Stubs     974296432  4  2 Bc  b     b     -         1898   50  100 
+Stubs     974296457  5  1 Bf  -     -     -         1948    5    0 
+Stubs     974296465  5  5 c   c     c     k         1943   40    0 6d Td
+Stubs     974296488  5  4 c   c     r     b         1903   80  205 8s 9s
+Stubs     974296525  5  3 cf  -     -     -         2028   10    0 
+Stubs     974296540  5  2 Bk  c     f     -         2018   20    0 
+Stubs     974296565  5  1 Bc  kc    kf    -         1998   30    0 
+Stubs     974296602  5  5 c   c     c     c         1968   60    0 5s 5d
+Stubs     974296625  5  4 c   k     f     -         1908   10    0 
+Stubs     974296651  4  3 c   b     -     -         1898   20   35 
+Stubs     974296666  4  2 Bc  k     brc   br        1913  160  325 Th 8s
+Stubs     974296707  4  1 Bc  kc    kc    k         2078   40    0 3d Ah
+Stubs     974296752  5  5 c   c     c     k         2038   40    0 6h Ad
+Stubs     974296780  6  4 c   r     b     b         1998   70  150 2d Qd
+Stubs     974296825  6  3 cc  c     c     b         2078   70  220 8c Kc
+Stubs     974296870  6  2 Bf  -     -     -         2228   10    0 
+Stubs     974296882  6  1 Bcc kc    kc    b         2218   90  290 Qs 5h
+Stubs     974296947  7  7 c   c     c     k         2418   40    0 2h Js
+Stubs     974297016  7  6 f   -     -     -         2378    0    0 
+Stubs     974297088  6  4 cc  kc    kf    -         2378   30    0 
+Stubs     974297150  6  4 c   c     c     rc        2348  100    0 7h 7s
+Stubs     974297185  6  3 c   k     bc    f         2248   50    0 
+Stubs     974297236  6  2 Bk  k     k     k         2198   10    0 2h 8h
+Stubs     974297271  7  1 Bc  kc    kc    kc        2188   70    0 9h 2h
+Stubs     974297323  6  6 c   f     -     -         2118   10    0 
+Stubs     974297349  7  6 f   -     -     -         2108    0    0 
+Stubs     974297393  7  5 f   -     -     -         2108    0    0 
+Stubs     974297424  7  4 c   bc    c     b         2108   70  145 6d 9d
+Stubs     974297471  7  3 c   k     f     -         2183   10    0 
+Stubs     974297514  7  2 Bc  b     b     b         2173   70  190 Ad 7c
+Stubs     974297550  7  1 Bc  kc    kf    -         2293   20    0 
+Stubs     974297616  7  7 c   c     c     f         2273   40    0 
+Stubs     974297672  7  6 c   b     k     b         2233   40   75 
+Stubs     974297720  8  6 cc  b     b     b         2268   70    0 9d 8c
+Stubs     974297796  8  5 f   -     -     -         2198    0    0 
+Stubs     974297857 10  4 c   k     k     b         2198   30   65 
+Stubs     974297899 10  3 r   b     -     -         2233   30  120 
+Stubs     974297942 10  2 Bk  k     kc    b         2323   50    0 5h Ac
+Stubs     974298046 10  1 Bcc kc    kf    -         2273   40    0 
+Stubs     974298106 10 10 cc  f     -     -         2233   40    0 
+Stubs     974298218 10  9 c   c     f     -         2193   20    0 
+Stubs     974298268 10  8 cc  b     b     b         2173   70    0 Qs Ah
+Stubs     974298332 10  7 ccf -     -     -         2103   20    0 
+Stubs     974298436 10  6 cc  k     k     k         2083   20   95 Ks 3d
+Stubs     974298494  9  4 c   k     k     k         2158   10   30 3s Ac
+Stubs     974298537  9  4 c   kf    -     -         2178   10    0 
+Stubs     974298590 10  3 c   k     k     f         2168   10    0 
+Stubs     974298638 10  2 Bc  k     b     -         2158   40  105 
+Stubs     974298669  9  1 Bc  k     kf    -         2223   10    0 
+Stubs     974298720  8  8 c   k     k     f         2213   10    0 
+Stubs     974298766  8  7 cc  c     c     b         2203   70    0 9h Kd
+Stubs     974298815  7  5 cc  k     kf    -         2133   20    0 
+Stubs     974298869  7  4 cc  c     f     -         2113   40    0 
+Stubs     974298907  7  3 c   k     r     b         2073   70   75 5h 2h
+Stubs     974298950  7  2 Bk  kf    -     -         2078   10    0 
+Stubs     974298991  8  1 Bcc kf    -     -         2068   40    0 
+Stubs     974299036  8  8 c   k     f     -         2028   10    0 
+Stubs     974299082  8  7 c   f     -     -         2018   10    0 
+Stubs     974299127  8  6 f   -     -     -         2008    0    0 
+Stubs     974299172  8  5 cc  f     -     -         2008   40    0 
+Stubs     974299200  9  4 f   -     -     -         1968    0    0 
+Stubs     974299261  8  3 c   f     -     -         1968   10    0 
+Stubs     974299305  8  2 Bcc kf    -     -         1958   40    0 
+Stubs     974299350  8  1 Bcc kc    kc    kc        1918   70    0 Ah 6d
+Stubs     974299392  8  8 f   -     -     -         1848    0    0 
+Stubs     974299424  8  7 f   -     -     -         1848    0    0 
+Stubs     974299475  9  6 cc  k     c     c         1848   60  165 9c 4c
+Stubs     974299555  8  5 cc  bc    b     b         1953  100  355 Tc Ac
+Stubs     974299610  6  3 cc  kc    b     b         2208   70  165 Js 7d
+Stubs     974299648  6  2 Bk  k     kf    -         2303   10    0 
+Stubs     974299740  4  1 Bc  kf    -     -         2293   10    0 
+Stubs     974299762  3  3 c   b     b     -         2283   40   70 
+Stubs     974299782  2  2 B   -     -     -         2313   10   15 
+Stubs     974299783  2  1 Bc  b     -     -         2318   20   30 
+Stubs     974299795  2  2 B   -     -     -         2328   10   15 
+Stubs     974299796  2  1 Bc  k     k     k         2333   10    0 Js 3s
+Stubs     974299815  2  2 B   -     -     -         2323   10   15 
+Stubs     974299819  2  1 Bc  k     b     -         2328   30   40 
+Stubs     974299834  3  2 Bk  kc    kf    -         2338   20    0 
+Stubs     974299854  3  1 Bc  b     -     -         2318   20   30 
+Stubs     974299864  3  3 c   f     -     -         2328   10    0 
+Stubs     974299887  3  2 Bk  c     r     b         2318   80  200 
+Stubs     974299929  3  1 Bc  k     kc    k         2438   30   70 5c Jc
+Stubs     974299966  2  2 c   c     f     -         2478   20    0 
+Stubs     974299984  2  2 Bk  r     b     b         2458   70    0 Th 6d
+Stubs     974300007  2  1 Bc  br    brc   brc       2388  200    0 3s 4c
+Stubs     974300054  3  2 Bk  b     b     k         2188   40   80 Ah 7d
+Stubs     974300085  2  1 Br  b     b     -         2228   50   80 
+Stubs     974300106  2  2 Bk  c     c     k         2258   40   80 Kh 4h
+Stubs     974300130  2  1 Bc  k     b     -         2298   30   40 
+Stubs     974300149  2  2 Bc  k     k     k         2308   20    0 5s As
+Stubs     974300170  2  1 Bf  -     -     -         2288    5    0 
+Stubs     974300180  2  2 Bk  c     b     b         2283   60  100 
+Stubs     974300203  2  1 Bc  kc    kf    -         2323   20    0 
+Stubs     974300227  2  2 Bk  b     b     -         2303   40   60 
+Stubs     974300243  2  1 Bc  k     b     b         2323   50   80 
+Stubs     974300269  2  2 B   -     -     -         2353   10   15 
+Stubs     974300271  2  1 Bc  kf    -     -         2358   10    0 
+Stubs     974300291  2  2 B   -     -     -         2348   10   15 
+Stubs     974300294  2  1 Bc  kc    b     b         2353   60  120 Kh 7c
+Stubs     974300320  2  2 Bk  f     -     -         2413   10    0 
+Stubs     974300333  2  1 Bc  bc    k     k         2403   30   60 8h Qh
+Stubs     974300359  2  2 Bk  c     k     bc        2433   60  120 8d 5c
+Stubs     974300386  3  1 Bc  kc    kf    -         2493   20    0 
+Stubs     974300419  3  3 c   k     k     b         2473   30    0 4c 3h
+Stubs     974300453  3  2 Bk  b     b     b         2443   60  120 
+Stubs     974300484  3  1 Bc  b     b     b         2503   60    0 9d Kc
+Stubs     974300510  3  3 c   k     k     c         2443   30    0 Ah 4h
+Stubs     974300550  3  2 Bk  k     b     bc        2413   70    0 5c 8d
+Stubs     974300590  4  1 Bf  -     -     -         2343    5    0 
+Stubs     974300608  4  4 f   -     -     -         2338    0    0 
+Stubs     974300618  4  3 c   f     -     -         2338   10    0 
+Stubs     974300638  4  2 Bk  b     b     bc        2328   80    0 Qh Ac
+Stubs     974300667  4  1 Bc  k     k     k         2248   10    0 4c 2c
+Stubs     974300696  5  4 c   k     f     -         2238   10    0 
+Stubs     974300718  4  3 f   -     -     -         2228    0    0 
+Stubs     974300731  4  2 Bc  k     c     r         2228   90    0 Ah 9s
+Stubs     974300767  4  1 Bc  b     b     b         2138   60  150 
+Stubs     974300799  4  4 c   c     c     c         2228   70  155 9c 7s
+Stubs     974300820  4  3 c   k     b     -         2313   30   60 
+Stubs     974300877  3  2 Bf  -     -     -         2343   10    0 
+Stubs     974300887  3  1 Bc  k     b     -         2333   30   40 
+Stubs     974300909  2  2 B   -     -     -         2343   10   15 
+Stubs     974384922  3  2 Bc  kr    b     -          991   60  120 
+Stubs     974384949  3  1 Bc  k     k     k         1051   10   20 Js 9d
+Stubs     974384976  3  3 c   k     k     k         1061   10    0 8d 6h
+Stubs     974385008  3  2 Bk  k     k     k         1051   10    0 3s 2s
+Stubs     974385029  3  1 Bf  -     -     -         1041    5    0 
+Stubs     974385068  3  3 cc  f     -     -         1036   20    0 
+Stubs     974385123  3  2 Bk  b     -     -         1016   20   30 
+Stubs     974385144  3  1 Bc  k     b     bc        1026   70    0 Qc 3c
+Stubs     974385172  3  3 c   k     f     -          956   10    0 
+Stubs     974385193  3  2 Bk  k     k     k          946   10   20 Kd 2s
+Stubs     974385212  3  1 Bc  b     -     -          956   20   30 
+Stubs     974385231  3  3 f   -     -     -          966    0    0 
+Stubs     974385241  3  2 Bk  k     bc    kf         966   50    0 
+Stubs     974385267  3  1 Bc  bc    bc    b          916   90  180 Tc 7h
+Stubs     974385300  3  3 c   k     f     -         1006   10    0 
+Stubs     974385321  3  2 Bk  k     f     -          996   10    0 
+Stubs     974385346  3  1 Bc  k     k     k          986   10   10 5d Ks
+Stubs     974385388  3  3 c   b     bc    r          986  100  210 4s Ah
+Stubs     974385427  3  2 Bk  kc    kc    kc        1096   60    0 Jc 2c
+Stubs     974385471  4  1 Bcc kc    kc    kf        1036   50    0 
+Stubs     974385510  4  4 c   k     f     -          986   10    0 
+Stubs     974385581  4  3 f   -     -     -          976    0    0 
+Stubs     974385602  4  2 Bc  kc    kf    -          976   30    0 
+Stubs     974385634  4  1 Bcc br    b     b          946   90  200 
+Stubs     974385699  4  4 cc  k     k     f         1056   20    0 
+Stubs     974385747  4  3 cc  kc    kc    kc        1036   70    0 Tc As
+Stubs     974385806  3  1 Bc  bc    brc   k          966  120  120 4c Tc
+Stubs     974385860  5  1 Bc  Q     -     -          966   20    0 
+Stubs     974415108  7  7 c   r     k     c         1446   50    0 Ac Tc
+Stubs     974415159  7  6 f   -     -     -         1396    0    0 
+Stubs     974415188  7  5 c   k     b     -         1396   30   60 
+Stubs     974415236  9  6 cf  -     -     -         1426   10    0 
+Stubs     974415305  7  5 KQ  -     -     -         1416    0    0 
+Stubs     974415452  7  2 Bc  KQ    -     -         1416   20    0 
+Stubs     974415704  9  9 KQ  -     -     -         1396    0    0 
+Stubs     974471265  7  4 ccc k     c     c         1396   80    0 Ah 5h
+Stubs     974471341  6  2 Bf  -     -     -         1316   10    0 
+Stubs     974471350  5  1 Bcc kf    -     -         1306   40    0 
+Stubs     974471402  6  6 c   c     c     c         1266   70    0 7h Js
+Stubs     974471434  6  5 c   c     c     f         1196   40    0 
+Stubs     974471504  5  3 cc  bc    b     b         1156   80  185 8s 6s
+Stubs     974471536  5  2 Bk  b     -     -         1261   20   30 
+Stubs     974471567  6  1 Bcc kcc   kc    k         1271   70    0 6c 7c
+Stubs     974471643  6  6 c   b     b     b         1201   70    0 Ks 2s
+Stubs     974471709  6  5 c   kf    -     -         1131   10    0 
+Stubs     974471784  6  4 c   c     k     b         1121   40   95 
+Stubs     974471825  6  3 c   kc    kc    kf        1176   40    0 
+Stubs     974471866  6  2 Bk  c     c     b         1136   60  110 
+Stubs     974471901  7  1 Bf  -     -     -         1186    5    0 
+Stubs     974471978  7  7 f   -     -     -         1181    0    0 
+Stubs     974472017  7  6 c   b     bc    k         1181   60  145 Kd 6c
+Stubs     974472070  5  3 cc  kf    -     -         1266   20    0 
+Stubs     974472117  6  3 cf  -     -     -         1246   10    0 
+Stubs     974472151  6  2 Bk  b     br    b         1236  100  230 Qc Qh
+Stubs     974472207  6  1 Bcc kf    Q     -         1366   30    0 
+Stubs     974472554  5  2 Bc  c     b     -         1336   50   80 
+Stubs     974472589  5  1 Bcc k     k     bc        1366   60    0 Ac 9c
+Stubs     974472622  5  5 cc  c     c     f         1306   50    0 
+Stubs     974472671  5  4 c   b     k     kc        1256   40    0 Tc Td
+Stubs     974472705  5  3 cc  k     k     kf        1216   20    0 
+Stubs     974472758  5  2 B   -     -     -         1196   10   15 
+Stubs     974472767  5  1 Bc  b     b     b         1201   60  130 
+Stubs     974472792  5  5 c   k     c     c         1271   50  105 3h Jc
+Stubs     974472826  5  4 c   b     k     k         1326   20    0 3c Qs
+Stubs     974472854  5  3 c   bc    bc    kc        1306   90  290 8s 8d
+Stubs     974472912  5  2 Bk  b     -     -         1506   20   50 
+Stubs     974472955  5  1 Bc  b     b     b         1536   70  180 6d 5h
+Stubs     974473003  5  5 c   Q     -     -         1646   10    0 
+Stubs     974479349  5  4 cf  -     -     -         1636   10    0 
+Stubs     974479379  4  3 cc  f     -     -         1626   30    0 
+Stubs     974479454  6  2 Bc  kf    -     -         1596   20    0 
+Stubs     974479492  6  1 Bc  kf    -     -         1576   20    0 
+Stubs     974479581  5  5 f   -     -     -         1556    0    0 
+Stubs     974479605  4  3 cc  c     c     r         1556   90  165 
+Stubs     974479642  4  2 Bk  kc    kf    -         1631   20    0 
+Stubs     974479685  5  1 Bf  -     -     -         1611    5    0 
+Stubs     974479698  5  5 f   -     -     -         1606    0    0 
+Stubs     974479741  6  5 f   -     -     -         1606    0    0 
+Stubs     974479819  6  4 f   -     -     -         1606    0    0 
+Stubs     974479906  6  3 cc  cc    c     rc        1606  120  490 3c 7c
+Stubs     974479988  6  2 Bk  k     k     r         1976   50  100 3c 6h
+Stubs     974480029  5  1 Bc  kf    -     -         2026   20    0 
+Stubs     974480081  5  5 cc  f     -     -         2006   30    0 
+Stubs     974480138  5  4 c   k     c     f         1976   30    0 
+Stubs     974480260  4  3 cc  c     c     c         1946   70    0 Ts 8c
+Stubs     974480323  4  2 BQ  -     -     -         1876   10    0 
+Stubs     974498964  8  4 cc  k     k     k         1866   20    0 5s Jc
+Stubs     974499026  7  3 cc  kc    kc    k         1846   50    0 Ah 3c
+Stubs     974499094  8  2 Bc  kc    kf    -         1796   30    0 
+Stubs     974499129  9  1 Bc  b     b     b         1766   60    0 4c 5s
+Stubs     974499184 10 10 c   k     b     -         1706   30   75 
+Stubs     974499339  6  6 c   k     b     -         1751   30   40 
+Stubs     974499375  5  5 f   -     -     -         1761    0    0 
+Stubs     974499389  5  4 c   c     c     b         1761   60  120 
+Stubs     974499444  4  3 c   k     b     b         1821   50    0 As 5d
+Stubs     974499507  5  2 Bk  k     k     b         1771   30    0 2c Th
+Stubs     974499690  6  1 Bc  kQ    -     -         1741   10    0 
+Stubs     974528407  9  3 KQ  -     -     -         1731    0    0 
+Stubs     974557538  6  4 c   f     -     -         1731   20    0 
+Stubs     974557578  6  3 f   -     -     -         1711    0    0 
+Stubs     974557601  6  2 Bc  kf    -     -         1711   20    0 
+Stubs     974557651  6  1 Bc  k     b     -         1691   30   50 
+Stubs     974557685  6  6 f   -     -     -         1711    0    0 
+Stubs     974557736  6  5 f   -     -     -         1711    0    0 
+Stubs     974557785  5  3 c   c     k     f         1711   30    0 
+Stubs     974557835  5  3 c   bc    b     b         1681   70  160 8d 9d
+Stubs     974557871  5  2 Bc  k     bc    b         1771   80   83 Th 9d
+Stubs     974557932  6  1 Bc  k     kc    k         1774   50    0 4d 2h
+Stubs     974558040  5  5 c   c     c     k         1724   50   85 Th 8h
+Stubs     974558088  5  4 c   c     c     k         1759   70  220 2s 9s
+Stubs     974558150  5  3 cf  -     -     -         1909   10    0 
+Stubs     974558215  6  2 Bk  kf    -     -         1899   10    0 
+Stubs     974558250  5  1 Bc  kf    -     -         1889   20    0 
+Stubs     974558267  5  5 c   k     c     k         1869   50    0 4s 4h
+Stubs     974558299  5  4 c   f     -     -         1819   20    0 
+Stubs     974558359  5  3 c   k     f     -         1799   10    0 
+Stubs     974558394  5  2 Bc  b     b     b         1789   70  145 
+Stubs     974558431  5  1 Bc  b     b     -         1864   50  110 
+Stubs     974558453  5  5 cc  c     c     b         1924   80  255 Ts Th
+Stubs     974558553  5  4 f   -     -     -         2099    0    0 
+Stubs     974558612  4  3 cc  kc    kf    -         2099   30    0 
+Stubs     974558650  4  2 Bk  kf    -     -         2069   10    0 
+Stubs     974558681  5  1 Bc  kc    b     -         2059   50  120 
+Stubs     974558719  5  5 c   c     k     c         2129   40    0 Jd 5c
+Stubs     974558757  5  4 cc  fQ    -     -         2089   40    0 
+Stubs     974650010  9  9 c   k     cc    c          899  100    0 Kd Ts
+Stubs     974650064  9  8 f   -     -     -          799    0    0 
+Stubs     974650095  9  7 c   cc    cc    c          799  140    0 6c 7c
+Stubs     974650207  9  6 f   -     -     -          659    0    0 
+Stubs     974650260  9  5 fQ  -     -     -          659    0    0 
+Stubs     974650435  9  8 c   kc    b     b          659   60  180 7h As
+Stubs     974650494  9  7 f   -     -     -          779    0    0 
+Stubs     974650552  9  6 cc  b     b     b          779   70  215 Ad 3c
+Stubs     974650613  8  5 c   kc    kf    -          924   20    0 
+Stubs     974650673  8  4 c   k     kf    -          904   10    0 
+Stubs     974650703  9  3 c   k     b     b          894   50  110 
+Stubs     974650737  9  2 Bk  b     b     b          954   60  195 5d 7s
+Stubs     974650787  9  1 Bc  kc    kf    -         1089   20    0 
+Stubs     974650826  9  9 c   cf    -     -         1069   30    0 
+Stubs     974650873  9  8 c   c     c     k         1039   50    0 Kh 2h
+Stubs     974650917  9  7 cc  kc    c     r          989   90  360 8h 8d
+Stubs     974650987 10  8 f   -     -     -         1259    0    0 
+Stubs     974651020  9  6 f   -     -     -         1259    0    0 
+Stubs     974651040  9  5 c   k     b     k         1259   30    0 6c 3h
+Stubs     974651093  8  4 c   k     kf    -         1229   10    0 
+Stubs     974651139  8  3 cc  kc    kc    kf        1219   50    0 
+Stubs     974651241  8  2 Bk  b     b     -         1169   40   75 
+Stubs     974651277  8  1 Bc  kf    -     -         1204   10    0 
+Stubs     974651334  8  8 c   c     c     k         1194   40    0 3s 2s
+Stubs     974651387  9  7 cc  rc    c     c         1154   90    0 Ad 8s
+Stubs     974651464  9  6 c   b     -     -         1064   20   35 
+Stubs     974651490  9  5 c   k     b     b         1079   50  150 Tc 4c
+Stubs     974651556  9  4 cc  bc    b     b         1179   80    0 As 9s
+Stubs     974651612  9  3 c   b     b     b         1099   60  160 Qh Ad
+Stubs     974651652  9  2 Bk  b     b     k         1199   40    0 4c 2c
+Stubs     974651688 10  1 Bf  -     -     -         1159    5    0 
+Stubs     974651769 10 10 f   -     -     -         1154    0    0 
+Stubs     974651862 10  9 cc  c     c     c         1154   70    0 Ts 8c
+Stubs     974651922  9  7 f   -     -     -         1084    0    0 
+Stubs     974651981  9  6 c   kf    -     -         1084   10    0 
+Stubs     974652051  9  5 cc  k     kf    -         1074   30    0 
+Stubs     974652098  8  4 f   -     -     -         1044    0    0 
+Stubs     974652163  8  3 cc  kc    kcf   -         1044   70    0 
+Stubs     974652218  8  2 Bk  k     b     b          974   50    0 5s 5d
+Stubs     974652259  8  1 Bf  -     -     -          924    5    0 
+Stubs     974652288  8  8 f   -     -     -          919    0    0 
+Stubs     974652357  8  7 c   k     k     f          919   10    0 
+Stubs     974652413  8  6 c   c     c     kc         909   60    0 Ac 8h
+Stubs     974652467  8  5 f   -     -     -          849    0    0 
+Stubs     974652505  8  4 f   -     -     -          849    0    0 
+Stubs     974652555  8  3 c   c     kc    bc         849   80    0 Kc 9c
+Stubs     974652609  9  2 Bk  kf    -     -          769   10    0 
+Stubs     974652640  9  1 Bc  kf    -     -          759   20    0 
+Stubs     974652687  8  8 f   -     -     -          739    0    0 
+Stubs     974652754  8  7 c   k     f     -          739   20    0 
+Stubs     974652789  9  6 c   cc    c     cf         719   90    0 
+Stubs     974652857  9  7 cc  ccc   kf    -          629   60    0 
+Stubs     974652913  8  5 c   bc    cc    kc         569   90  300 5h 8d
+Stubs     974653006  7  4 r   br    b     brc        779  150  355 Jc Jh
+Stubs     974653052  6  2 Bk  bc    kc    kc         984   70    0 5c Qs
+Stubs     974653090  6  1 Bc  kc    bc    kf         914   90    0 
+Stubs     974653136  6  6 c   f     Q     -          824   20    0 
+Stubs     974696424  7  5 f   -     -     -          319    0    0 
+Stubs     974696465  6  4 c   k     kf    -          319   10    0 
+Stubs     974696559  6  4 cc  c     b     b          309   70  180 
+Stubs     974696625  5  2 Bk  k     k     k          419   10    0 Qs 4c
+Stubs     974696686  6  1 Bc  b     b     b          409   60    0 5s 5c
+Stubs     974696748  6  6 c   c     k     f          349   20    0 
+Stubs     974696813  7  5 cc  f     -     -          329   20    0 
+Stubs     974696894  9  3 cc  f     -     -          309   20    0 
+Stubs     974696977 10  3 c   k     b     bf         289   50    0 
+Stubs     974697078 10  2 Bk  b     bf    -          239   40    0 
+Stubs     974697173 10  1 Bc  kf    -     -          199   20    0 
+Stubs     974697253 10 10 c   f     -     -          179   10    0 
+Stubs     974697334 10  9 c   c     c     f          169   40    0 
+Stubs     974697470 10  8 f   -     -     -          129    0    0 
+Stubs     974697549 10  7 c   rr    k     b          129   80  265 Qc Js
+Stubs     974697663  9  5 c   f     -     -          314   10    0 
+Stubs     974697760  8  4 c   f     -     -          304   20    0 
+Stubs     974697800  8  3 cc  r     brc   c          284  140    0 7h 7d
+Stubs     974697924  9  2 Bk  kc    bc    br         144  120  375 7h 8d
+Stubs     974698005  9  1 Bc  k     k     kf         399   10    0 
+Stubs     974698097 10 10 f   -     -     -          389    0    0 
+Stubs     974698160 10  9 c   rc    b     k          389   60  205 Kc Qd
+Stubs     974698219 10  8 f   -     -     -          534    0    0 
+Stubs     974698275 10  7 cc  cc    bc    kf         534  100    0 
+Stubs     974698390 10  6 f   -     -     -          434    0    0 
+Stubs     974698502  9  5 c   f     -     -          434   10    0 
+Stubs     974698568 10  4 c   k     f     -          424   10    0 
+Stubs     974698691 10  3 cc  kcf   -     -          414   30    0 
+Stubs     974698777 10  2 Bf  -     -     -          384   10    0 
+Stubs     974698850 10  1 Bc  b     b     bc         374   90    0 Js 3s
+Stubs     974698916 10 10 f   -     -     -          284    0    0 
+Stubs     974699025 10  9 c   cc    c     c          284   90    0 8s 4c
+Stubs     974699127 10  8 f   -     -     -          194    0    0 
+Stubs     974699186 10  7 c   rc    r     b          194  100    0 9h Ts
+Stubs     974699279 10  6 c   f     -     -           94   10    0 
+Stubs     974699367 10  5 c   r     b     b           84   80    0 2h Ac
+Stubs     974699450 10  4 cA  -     -     -            4    4   32 7h 6h
+Stubs     974699536 10  3 r   b     -     -           32   30   65 
+Stubs     974699581 10  2 Bk  b     b     bcA         67   67    0 Td 4h
+Stubs     974731737  3  3 c   c     f     -         1000   20    0 
+Stubs     974731766  3  2 Bk  kc    kc    kc         980   60    0 5h 7s
+Stubs     974731802  3  1 Bc  kf    -     -          920   10    0 
+Stubs     974731822  3  3 f   -     -     -          910    0    0 
+Stubs     974731844  3  2 Bk  k     k     kf         910   10    0 
+Stubs     974731878  3  1 Bc  kf    -     -          900   10    0 
+Stubs     974731894  3  3 c   f     -     -          890   10    0 
+Stubs     974731910  3  2 Bf  -     -     -          880   10    0 
+Stubs     974731934  3  1 Bc  k     k     kf         870   10    0 
+Stubs     974731980  3  3 f   -     -     -          860    0    0 
+Stubs     974732002  3  2 Bc  f     -     -          860   20    0 
+Stubs     974732020  3  1 Bc  kc    b     b          840   60    0 4c 4h
+Stubs     974732054  3  3 cc  c     f     -          780   30    0 
+Stubs     974732090  4  2 Bk  k     b     -          750   30   50 
+Stubs     974732132  4  1 Bc  kf    -     -          770   20    0 
+Stubs     974732152  4  4 f   -     -     -          750    0    0 
+Stubs     974732167  4  3 cc  k     c     r          750   80  170 3d Td
+Stubs     974732206  4  2 Bc  b     -     -          840   30   90 
+Stubs     974732225  4  1 Bf  -     -     -          900    5    0 
+Stubs     974732247  4  4 c   c     c     f          895   40    0 
+Stubs     974732277  4  3 cc  kf    -     -          855   20    0 
+Stubs     974732310  3  1 Bk  kf    -     -          835   10    0 
+Stubs     974732326  2  1 Bc  k     b     b          825   50   80 
+Stubs     974732362  3  3 c   c     r     c          855   80    0 As Jh
+Stubs     974732420  5  2 Bcc c     c     f          775   60    0 
+Stubs     974732479  5  1 Br  kc    kc    kc         715   70    0 7d 7c
+Stubs     974732558  7  7 f   -     -     -          645    0    0 
+Stubs     974732600  7  6 f   -     -     -          645    0    0 
+Stubs     974732633  7  5 cf  -     -     -          645   10    0 
+Stubs     974732712  7  4 c   b     b     -          635   40   75 
+Stubs     974732744  7  3 rc  bcc   b     bc         670  140    0 Jd Js
+Stubs     974732862  6  1 Bk  Q     -     -          530   10    0 
+Stubs     974734334  8  2 Bk  c     f     -          520   20    0 
+Stubs     974734365  8  1 Bf  -     -     -          500    5    0 
+Stubs     974734400  8  8 c   k     k     k          495   10    0 8s Td
+Stubs     974734442  8  7 c   f     -     -          485   20    0 
+Stubs     974734491  9  6 c   kc    kc    kc         465   60    0 5c Js
+Stubs     974734575 10  5 f   -     -     -          405    0    0 
+Stubs     974734639 10  4 c   kf    -     -          405   10    0 
+Stubs     974734704 10  3 f   -     -     -          395    0    0 
+Stubs     974734753 10  2 Bc  kc    kc    kc         395   70    0 7h 9d
+Stubs     974734832  9  1 Bc  kc    kc    kf         325   50    0 
+Stubs     974734920 10 10 c   bc    b     b          275   70    0 Ad 6h
+Stubs     974735008 10  9 c   r     r     r          205  130    0 Kc 5h
+Stubs     974735070 10  8 rc  rrA   -     -           75   75    0 2h 8h
+Stubs     974758048  6  5 c   f     -     -         1080   10    0 
+Stubs     974758119  6  4 c   k     c     c         1070   70    0 3c 2s
+Stubs     974758176  8  3 cc  bc    kf    -         1000   40    0 
+Stubs     974758243  8  2 BQ  -     -     -          960   10    0 
+Stubs     974817178  7  3 c   bc    b     b          950   70  155 
+Stubs     974817225  6  2 Bk  kf    -     -         1035   10    0 
+Stubs     974817276  6  1 Bf  -     -     -         1025    5    0 
+Stubs     974817303  7  7 c   b     b     b         1020   60  145 
+Stubs     974817357  7  6 cc  cf    -     -         1105   30    0 
+Stubs     974817441  9  6 cf  -     -     -         1075   10    0 
+Stubs     974817563  9  5 f   -     -     -         1065    0    0 
+Stubs     974817596  8  4 c   b     c     b         1065   60  135 Qd 3c
+Stubs     974817637  9  3 c   f     -     -         1140   10    0 
+Stubs     974817667 10  2 Bk  kc    kc    kf        1130   40    0 
+Stubs     974817728 10  1 Bf  -     -     -         1090    5    0 
+Stubs     974817762 10 10 f   -     -     -         1085    0    0 
+Stubs     974817812 10  9 f   -     -     -         1085    0    0 
+Stubs     974817841 10  8 cf  -     -     -         1085   10    0 
+Stubs     974817879 10  7 cc  k     cc    kc        1075   80    0 Jh 9d
+Stubs     974817960 10  6 f   -     -     -          995    0    0 
+Stubs     974818010 10  5 cc  kc    c     c          995   90    0 5d 9h
+Stubs     974818082 10  4 f   -     -     -          905    0    0 
+Stubs     974818112 10  3 ccc b     b     br         905  140    0 8d 9s
+Stubs     974818213 10  2 Bc  kc    bc    kf         765   80    0 
+Stubs     974818291 10  1 Bc  k     kc    k          685   30    0 6d Th
+Stubs     974818386 10 10 cc  c     b     b          655   70  185 
+Stubs     974818481 10  9 f   -     -     -          770    0    0 
+Stubs     974818523 10  8 c   k     k     b          770   30    0 As 8c
+Stubs     974818623 10  7 c   b     rr    rc         740  160  470 Ad 5d
+Stubs     974818739 10  6 cc  rc    cc    c         1050  140    0 8c 9h
+Stubs     974818856 10  5 r   c     c     c          910   70    0 Td Ts
+Stubs     974818893 10  3 Q   -     -     -          840    0    0 
+Stubs     974827055  8  7 cc  c     c     b          840   90  305 Jh 7c
+Stubs     974827124  9  6 c   c     c     c         1055   70    0 Ks Kc
+Stubs     974827175  9  5 cc  b     bc    kf         985   70    0 
+Stubs     974827278  9  4 c   b     b     -          915   40   85 
+Stubs     974827319  9  3 c   k     b     k          960   30   65 8s Jd
+Stubs     974827361  9  2 Bk  cc    kf    -          995   30    0 
+Stubs     974827424  9  1 Bc  bc    bc    kf         965   80    0 
+Stubs     974827520  9  9 c   k     c     f          885   50    0 
+Stubs     974827601 10  9 f   -     -     -          835    0    0 
+Stubs     974827716 10  8 c   c     f     -          835   20    0 
+Stubs     974827805 10  7 f   -     -     -          815    0    0 
+Stubs     974827880 10  6 c   c     c     c          815   60    0 3d Kh
+Stubs     974827966 10  5 f   -     -     -          755    0    0 
+Stubs     974828050 10  4 c   b     b     b          755   60  225 Ac 6h
+Stubs     974828126 10  3 cf  -     -     -          920   10    0 
+Stubs     974828208 10  2 Bc  bc    brc   b          910  160  585 6s 9c
+Stubs     974828331  9  1 Bcf -     -     -         1335   20    0 
+Stubs     974828392 10 10 c   c     c     c         1315   60    0 2h 6c
+Stubs     974828433 10  9 cc  bc    kc    kc        1255   80  285 9s 7d
+Stubs     974828536  7  6 cc  f     -     -         1460   30    0 
+Stubs     974828618  8  5 c   ccc   kc    kf        1430   70    0 
+Stubs     974828695  9  5 f   -     -     -         1360    0    0 
+Stubs     974828741  9  4 c   f     -     -         1360   10    0 
+Stubs     974828814  9  3 c   k     b     -         1350   30   95 
+Stubs     974828886  9  2 Bc  bc    b     r         1415  100  360 5c 8c
+Stubs     974828936  9  1 Bc  b     b     b         1675   60  110 
+Stubs     974828980  9  9 cc  rc    c     f         1725   90    0 
+Stubs     974829042  9  8 f   -     -     -         1635    0    0 
+Stubs     974829078  9  7 c   k     f     -         1635   10    0 
+Stubs     974829181  9  7 c   k     c     f         1625   40    0 
+Stubs     974829253  8  5 f   -     -     -         1585    0    0 
+Stubs     974829320  9  4 ccc f     -     -         1585   30    0 
+Stubs     974829415  9  3 f   -     -     -         1555    0    0 
+Stubs     974829516  8  2 Bc  kf    -     -         1555   20    0 
+Stubs     974829577  8  1 Bcc bc    kf    -         1535   60    0 
+Stubs     974829672  7  7 f   -     -     -         1475    0    0 
+Stubs     974829715  7  6 c   b     c     f         1475   40    0 
+Stubs     974829789  7  5 c   kf    -     -         1435   10    0 
+Stubs     974829836  7  4 c   c     c     c         1425   70    0 9d 9h
+Stubs     974829884  7  3 c   ccf   -     -         1355   40    0 
+Stubs     974829975  7  2 Bk  bcc   kc    kf        1315   60    0 
+Stubs     974830041  7  1 Bf  -     -     -         1255    5    0 
+Stubs     974830060  7  7 c   c     f     -         1250   30    0 
+Stubs     974830110  6  5 c   kc    kf    -         1220   20    0 
+Stubs     974830145  5  3 c   b     r     b         1200   80  160 
+Stubs     974830183  6  3 cc  c     c     k         1280   50    0 8c Kd
+Stubs     974830245  7  2 Bc  kf    -     -         1230   20    0 
+Stubs     974830302  7  1 Bc  kf    -     -         1210   10    0 
+Stubs     974830349  6  6 c   c     c     k         1200   50    0 Jc Ts
+Stubs     974830406  9  7 c   r     b     f         1150   50    0 
+Stubs     974830468  8  5 cc  f     -     -         1100   20    0 
+Stubs     974830547  8  4 c   cc    br    b         1080  120    0 Qh 5h
+Stubs     974830605  8  3 cc  kf    -     -          960   20    0 
+Stubs     974830649  9  2 Br  b     b     b          940   70  125 
+Stubs     974830693  8  1 Bc  br    b     b          995   90  220 4d Ad
+Stubs     974830748  9  8 c   rr    r     b         1125  120    0 5d 4d
+Stubs     974830802 10  8 c   f     -     -         1005   20    0 
+Stubs     974830870 10  7 f   -     -     -          985    0    0 
+Stubs     974830953 10  6 c   k     k     k          985   10    0 2d Jd
+Stubs     974831031 10  5 c   c     f     -          975   20    0 
+Stubs     974831062 10  4 f   -     -     -          955    0    0 
+Stubs     974831117 10  3 cc  cc    c     c          955   90    0 7d 7c
+Stubs     974831200 10  2 Bc  kc    kc    kc         865   70  215 6d 7d
+Stubs     974831264 10  1 Bc  k     kc    kc        1010   60    0 6s Js
+Stubs     974831369 10 10 c   f     -     -          950   10    0 
+Stubs     974831510 10  9 f   -     -     -          940    0    0 
+Stubs     974831559  9  7 c   c     f     -          940   20    0 
+Stubs     974831613  9  6 c   c     f     -          920   20    0 
+Stubs     974831675  9  5 cc  kf    -     -          900   20    0 
+Stubs     974831797  9  5 c   kc    bc    kf         880   60    0 
+Stubs     974831946  8  2 Bk  c     f     -          820   20    0 
+Stubs     974832066  8  1 Bc  kf    -     -          800   20    0 
+Stubs     974832131  9  9 f   -     -     -          780    0    0 
+Stubs     974832255 10  9 f   -     -     -          780    0    0 
+Stubs     974832334 10  8 cc  cc    c     f          780   90    0 
+Stubs     974832426 10  7 f   -     -     -          690    0    0 
+Stubs     974832496  9  5 c   c     k     f          690   20    0 
+Stubs     974832543  9  4 c   k     f     -          670   10    0 
+Stubs     974832620 10  3 cc  bc    k     bc         660   80  275 3s 4c
+Stubs     974832676 10  2 Bc  kf    -     -          855   20    0 
+Stubs     974832729 10  1 Bc  kc    bc    k          835   70    0 3d 3s
+Stubs     974832791 10 10 c   k     c     f          765   30    0 
+Stubs     974832885 10 10 c   f     -     -          735   20    0 
+Stubs     974832907 10  8 c   c     f     -          715   30    0 
+Stubs     974832946 10  7 f   -     -     -          685    0    0 
+Stubs     974832998 10  6 c   bc    k     k          685   30   40 Ad 6d
+Stubs     974833082  8  4 c   br    b     -          695   60  170 
+Stubs     974833121  9  3 c   rc    bc    bc         805  120    0 5d Qd
+Stubs     974833214  8  2 Bk  b     bc    kc         685   80    0 4h 3s
+Stubs     974833267  8  1 BQ  -     -     -          605    5    0 
+Stubs     974937584 10  3 f   -     -     -          270    0    0 
+Stubs     974937718  9  2 Bc  cc    kf    -          270   40    0 
+Stubs     974937804  8  1 Bc  k     kf    -          230   10    0 
+Stubs     974937903  7  7 f   -     -     -          220    0    0 
+Stubs     974937959  8  7 c   c     cc    b          220  100  395 Td 3d
+Stubs     974938029  8  6 c   cc    kc    brc        515  130    0 Jc Ks
+Stubs     974938128  8  5 f   -     -     -          385    0    0 
+Stubs     974938220  9  4 f   -     -     -          385    0    0 
+Stubs     974938287  9  3 cc  r     bc    brc        385  160  560 4c 3c
+Stubs     974938379  9  2 Bk  kf    -     -          785   10    0 
+Stubs     974938457  9  1 Bc  kc    kf    -          775   20    0 
+Stubs     974938528  9  9 c   c     f     -          755   30    0 
+Stubs     974938564  9  8 f   -     -     -          725    0    0 
+Stubs     974938633  9  7 cc  bc    bc    b          725  100    0 Ks Jh
+Stubs     974938732  8  5 f   -     -     -          625    0    0 
+Stubs     974938778  9  5 c   c     c     b          625   70  230 Kh 6c
+Stubs     974938856  8  4 f   -     -     -          785    0    0 
+Stubs     974938978  7  2 Bc  k     kf    -          785   20    0 
+Stubs     974939036  7  1 Bc  kc    bc    kc         765  100    0 3c 3d
+Stubs     974939100  7  7 c   c     c     c          665   90    0 8d 7s
+Stubs     974939173  7  6 c   b     b     br         575  100    0 Ac Ah
+Stubs     974939244  8  6 c   c     k     f          475   20    0 
+Stubs     974939294  9  5 cc  r     b     b          455   80  220 Qd Jd
+Stubs     974939359  9  4 cc  bc    bc    kc         595  110    0 As 8c
+Stubs     974939425  9  3 cc  br    b     b          485   90  245 
+Stubs     974939500  8  1 BQ  -     -     -          640   10    0 
+Stubs     974948855  9  1 Bc  kf    -     -          630   20    0 
+Stubs     974948936  8  1 Bc  br    b     b          610   80  240 Js 6h
+Stubs     974949009  7  7 f   -     -     -          770    0    0 
+Stubs     974949045  7  7 f   -     -     -          770    0    0 
+Stubs     974949119  6  5 c   k     f     -          770   10    0 
+Stubs     974949159  6  3 rc  br    bc    kcc        760  200  750 6s 6d
+Stubs     974949265  7  2 Bk  bc    bcc   kf        1310   90    0 
+Stubs     974949361  6  1 Bc  k     k     b         1220   30   50 
+Stubs     974949437  7  7 cc  f     -     -         1240   20    0 
+Stubs     974949489  8  7 f   -     -     -         1220    0    0 
+Stubs     974949548  8  6 f   -     -     -         1220    0    0 
+Stubs     974949602  9  6 c   k     f     -         1220   10    0 
+Stubs     974949678 10  6 cc  kcc   kc    kc        1210   90    0 Ah Jh
+Stubs     974949778 10  5 f   -     -     -         1120    0    0 
+Stubs     974949836 10  4 cc  cc    c     f         1120   70    0 
+Stubs     974949921 10  3 c   k     b     kc        1050   50  125 Qc 2h
+Stubs     974950024  9  2 Bk  b     b     b         1125   60  145 Th Ac
+Stubs     974950073  9  1 Bc  b     bc    b         1210   90  410 Jd 8c
+Stubs     974950134  9  9 c   b     b     f         1530   40    0 
+Stubs     974950210  8  7 c   kf    -     -         1490   10    0 
+Stubs     974950239  8  6 ccc f     -     -         1480   40    0 
+Stubs     974950318 10  7 c   f     -     -         1440   10    0 
+Stubs     974950377 10  7 cc  f     -     -         1430   20    0 
+Stubs     974950434 10  5 cc  br    br    bc        1410  150  620 7d 8c
+Stubs     974950566 10  4 rc  br    b     b         1880  100  330 Ks Kd
+Stubs     974950653 10  3 c   c     kc    kc        2110   57    0 3s Qs
+Stubs     974950732  9  2 Bk  kf    -     -         2053   10    0 
+Stubs     974950842 10  1 Bc  b     b     b         2043   60  180 
+Stubs     974950889 10 10 c   r     rc    b         2163  150  640 Td Ks
+Stubs     974950982 10  9 c   c     c     cc        2653   80    0 Kd 5h
+Stubs     974951075  9  7 cc  bc    f     -         2573   40    0 
+Stubs     974951226  9  6 f   -     -     -         2533    0    0 
+Stubs     974951304 10  6 c   c     c     c         2533   60    0 Js Jc
+Stubs     974951357 10  5 c   b     k     k         2473   20    0 8h Ah
+Stubs     974951421  9  3 c   kc    kf    -         2453   20    0 
+Stubs     974951485 10  3 c   f     -     -         2433   10    0 
+Stubs     974951553 10  2 Bc  kf    -     -         2423   30    0 
+Stubs     974951684 10  1 Bf  -     -     -         2393    5    0 
+Stubs     974951798 10 10 c   k     r     r         2388   90  305 5c 5s
+Stubs     974951913  6  6 c   k     c     c         2603   50    0 Jd 5c
+Stubs     974951984  6  5 c   k     bc    c         2553   70    0 Td 7d
+Stubs     974952039  6  4 c   f     -     -         2483   10    0 
+Stubs     974952090  7  3 f   -     -     -         2473    0    0 
+Stubs     974952165  6  1 Bc  kc    kc    kc        2473   70    0 5c Js
+Stubs     974952314  6  1 Bc  b     -     -         2403   20   30 
+Stubs     974952337  6  6 f   -     -     -         2413    0    0 
+Stubs     974952355  6  5 c   r     c     c         2413   70   72 8d 5d
+Stubs     974952404  6  4 f   -     -     -         2415    0    0 
+Stubs     974952440  7  3 c   k     kf    -         2415   10    0 
+Stubs     974952497  8  3 f   -     -     -         2405    0    0 
+Stubs     974952557  9  3 c   f     -     -         2405   10    0 
+Stubs     974952626  9  2 Bc  kc    kf    -         2395   30    0 
+Stubs     974952662  9  1 Bf  -     -     -         2365    5    0 
+Stubs     974952692  9  9 f   -     -     -         2360    0    0 
+Stubs     974952733  9  8 f   -     -     -         2360    0    0 
+Stubs     974952786  9  7 f   -     -     -         2360    0    0 
+Stubs     974952826 10  7 f   -     -     -         2360    0    0 
+Stubs     974952852 10  6 c   r     b     b         2360   80  255 
+Stubs     974952908 10  5 cc  kf    -     -         2535   20    0 
+Stubs     974952965 10  4 c   kc    kc    b         2515   60    0 3d Ac
+Stubs     974953010 10  3 cc  kc    k     k         2455   30    0 9c Ad
+Stubs     974953068 10  2 Bc  kf    -     -         2425   20    0 
+Stubs     974953092  9  1 Bc  b     b     b         2405   70  240 4d 9d
+Stubs     974953141 10 10 c   c     f     -         2575   30    0 
+Stubs     974953179 10  9 c   b     bc    r         2545  110  235 
+Stubs     974953261 10  8 c   c     c     c         2670   60    0 8s 7s
+Stubs     974953300  9  7 c   k     c     rc        2610  120  340 7h 5h
+Stubs     974953358 10  6 f   -     -     -         2830    0    0 
+Stubs     974953398 10  5 f   -     -     -         2830    0    0 
+Stubs     974953422  9  4 f   -     -     -         2830    0    0 
+Stubs     974953457  8  3 f   -     -     -         2830    0    0 
+Stubs     974953500  8  2 Bf  -     -     -         2830   10    0 
+Stubs     974953527  8  1 Bc  bc    kc    k         2820   60    0 3d 3s
+Stubs     974953572  8  8 c   k     k     c         2760   30    0 2s As
+Stubs     974953612  9  8 cc  cc    k     c         2730   70    0 Kd Th
+Stubs     974953684 10  8 c   f     Q     -         2660   20    0 
+Stubs     975164029 10  3 c   c     f     -          705   20    0 
+Stubs     975164077  9  2 Bk  f     -     -          685   10    0 
+Stubs     975164113  8  1 Bc  kc    kc    kc         675   70    0 5d Ad
+Stubs     975164150  7  7 cc  c     f     -          605   30    0 
+Stubs     975164249  6  5 f   -     -     -          575    0    0 
+Stubs     975164321  6  4 f   -     -     -          575    0    0 
+Stubs     975164332  5  2 Bc  kc    kf    -          575   30    0 
+Stubs     975164377  5  1 Bc  kf    -     -          545   10    0 
+Stubs     975164420  5  5 cc  rc    cc    f          535  160    0 
+Stubs     975164486  5  4 c   b     -     -          375   20   50 
+Stubs     975164536  5  3 cc  kc    kc    k          405   60    0 2d 5d
+Stubs     975164595  5  2 Bf  -     -     -          345   10    0 
+Stubs     975164624  5  1 Bcc kf    -     -          335   30    0 
+Stubs     975164669  5  5 c   b     -     -          305   20   45 
+Stubs     975164714  5  4 cc  c     c     f          330   50    0 
+Stubs     975164755  5  3 c   b     b     b          280   60    0 Kc 2c
+Stubs     975164800  5  2 Bc  kf    -     -          220   20    0 
+Stubs     975164835  5  1 Bc  k     kf    -          200   10    0 
+Stubs     975164858  5  5 c   k     k     c          190   30    0 9s Kc
+Stubs     975164885  5  4 f   -     -     -          160    0    0 
+Stubs     975164895  5  3 f   -     -     -          160    0    0 
+Stubs     975164930  5  2 Br  brc   brc   bA         160  160  545 Ac 9h
+Stubs     975164984  6  1 Bc  k     k     k          545   10   40 5d 6s
+Stubs     975165044  6  6 cc  r     c     r          575  100  150 4h Kc
+Stubs     975165123  6  5 cc  b     b     b          625   70  210 6s 6h
+Stubs     975165246  6  4 f   -     -     -          765    0    0 
+Stubs     975165311  6  3 f   -     -     -          765    0    0 
+Stubs     975165357  5  2 Bc  kf    -     -          765   20    0 
+Stubs     975165400  5  1 Bc  k     kc    kc         745   50    0 Qs 4c
+Stubs     975165443  5  5 c   f     -     -          695   10    0 
+Stubs     975165483  5  4 c   cc    f     Q          685   50    0 
+Stubs     975175169  8  7 c   Q     -     -          635   10    0 
+Stubs     975177085  6  3 cc  c     bc    k          625   70    0 Js Kd
+Stubs     975177137  6  2 Bk  bc    kf    -          555   30    0 
+Stubs     975177184  6  1 Bc  k     bc    br         525  110  230 4d Kh
+Stubs     975177265  7  7 c   r     rc    rr         645  200    0 7c 4c
+Stubs     975177362  7  6 c   Q     -     -          445   10    0 
+Stubs     975177851  9  6 f   -     -     -          435    0    0 
+Stubs     975177896  9  6 cc  c     cc    k          435   90    0 Kh Ad
+Stubs     975177993  9  5 c   b     brc   bc         345  140  315 3h As
+Stubs     975178051  9  4 cc  cc    f     -          520   40    0 
+Stubs     975178107  9  3 c   f     -     -          480   10    0 
+Stubs     975178239  9  2 Bk  c     c     k          470   40  110 Kc Qd
+Stubs     975178327  9  1 Bc  kf    -     -          540   20    0 
+Stubs     975178353  9  9 c   f     -     -          520   10    0 
+Stubs     975178370  9  8 f   -     -     -          510    0    0 
+Stubs     975178452 10  7 c   k     k     k          510   10    0 6s As
+Stubs     975178497  9  6 c   k     k     kf         500   10    0 
+Stubs     975178591 10  6 c   k     kf    -          490   10    0 
+Stubs     975178638 10  4 f   -     -     -          480    0    0 
+Stubs     975178729  9  3 cc  b     b     bc         480   90    0 9h Qd
+Stubs     975178829 10  2 Bc  rc    rc    c          390  130    0 Ah 3c
+Stubs     975178892 10  1 Bc  kf    -     -          260   20    0 
+Stubs     975178940  9  9 c   c     c     f          240   40    0 
+Stubs     975178995  9  8 c   b     b     c          200   70    0 Qh 7d
+Stubs     975179032  9  7 c   kc    rr    bf         130  120    0 
+Stubs     975179134 10  7 cA  -     -     -           10   10    0 3d 8h
+Stubs     975188620 10  9 f   -     -     -         1000    0    0 
+Stubs     975188660 10  8 cc  c     c     f         1000   60    0 
+Stubs     975188716  9  6 cc  k     k     f          940   20    0 
+Stubs     975188792  9  6 f   -     -     -          920    0    0 
+Stubs     975188848  9  5 c   c     c     f          920   40    0 
+Stubs     975188896  8  2 Bc  bc    kc    kc         880   80    0 Qd Ts
+Stubs     975188968  7  1 Bc  kc    kc    k          800   50    0 6h Ad
+Stubs     975189044  7  7 c   c     bc    c          750   80  205 9h 9d
+Stubs     975189116  7  6 c   c     c     r          875   80    0 9s Js
+Stubs     975189170  7  5 f   -     -     -          795    0    0 
+Stubs     975189234  7  4 c   k     f     -          795   10    0 
+Stubs     975189291  7  3 c   k     kc    b          785   50  105 
+Stubs     975189373  8  3 f   -     -     -          840    0    0 
+Stubs     975189437  8  2 Bc  kf    -     -          840   20    0 
+Stubs     975189504  8  1 Bc  kc    bcc   kf         820  110    0 
+Stubs     975189592  8  8 cc  rc    c     c          710   90    0 9h 3c
+Stubs     975189652  7  6 c   cc    f     -          620   30    0 
+Stubs     975189719  8  6 f   -     -     -          590    0    0 
+Stubs     975189793  9  7 f   -     -     -          590    0    0 
+Stubs     975189847  8  5 f   -     -     -          590    0    0 
+Stubs     975189920  9  5 c   kc    f     -          590   20    0 
+Stubs     975189977  9  4 f   -     -     -          570    0    0 
+Stubs     975190040  9  3 c   b     kcc   kf         570   80    0 
+Stubs     975190155 10  2 Bc  bc    b     b          490   80  325 Ad Tc
+Stubs     975190205 10  1 Bc  k     b     bc         735   70    0 Ah 8c
+Stubs     975190298  9  9 f   -     -     -          665    0    0 
+Stubs     975190418 10  8 c   k     c     f          665   40    0 
+Stubs     975190514  9  6 c   bc    rc    brc        625  153  646 Qd Kc
+Stubs     975190727  8  5 f   -     -     -         1118    0    0 
+Stubs     975190777  9  4 f   -     -     -         1118    0    0 
+Stubs     975190820  9  3 f   -     -     -         1118    0    0 
+Stubs     975190909 10  2 Bk  kcc   kf    -         1118   40    0 
+Stubs     975190984  8  1 Bc  k     kf    -         1078   10    0 
+Stubs     975191036  8  8 cc  c     k     k         1068   30   80 Ad Qs
+Stubs     975191080  9  8 c   c     f     -         1118   20    0 
+Stubs     975191141  9  7 f   -     -     -         1098    0    0 
+Stubs     975191221 10  7 f   -     -     -         1098    0    0 
+Stubs     975191313 10  6 cc  cc    f     -         1098   80    0 
+Stubs     975191450 10  5 c   f     -     -         1018   10    0 
+Stubs     975191521  9  3 c   c     f     -         1008   20    0 
+Stubs     975191594  9  3 cc  kc    kc    kc         988   70    0 9h 7c
+Stubs     975191676 10  2 Bk  c     kc    kc         918   80    0 7c Kc
+Stubs     975191758 10  1 Bc  bc    k     kc         838   60    0 Jc Tc
+Stubs     975191847 10 10 c   rc    c     f          778   70    0 
+Stubs     975191977 10  9 c   f     -     -          708   10    0 
+Stubs     975192051 10  8 cc  c     rr    b          698  130  410 4h Qc
+Stubs     975192150 10  7 f   -     -     -          978    0    0 
+Stubs     975192226 10  6 c   r     b     b          978   70  235 9h 6h
+Stubs     975192287 10  5 cc  k     f     -         1143   20    0 
+Stubs     975192390 10  4 c   kc    k     kf        1123   20    0 
+Stubs     975192479 10  3 c   bc    brc   brc       1103  190    0 Jd Ah
+Stubs     975192593 10  2 Bc  k     kf    Q          913   20    0 
+Stubs     975249455  8  2 Bcc bc    bc    kc         893  160    0 Jc Td
+Stubs     975249531 10  1 Bcc k     k     k          733   40    0 3h 4c
+Stubs     975249619 10  4 Q   -     -     -          693    0    0 
+Stubs     975257004  4  3 f   -     -     -          693    0    0 
+Stubs     975257012  4  2 Bc  kc    bc    k          693   70  145 3c 8c
+Stubs     975257038  4  1 Bc  kc    kc    kf         768   40    0 
+Stubs     975257075  4  4 cc  f     -     -          728   20    0 
+Stubs     975257120  4  3 c   k     f     -          708   10    0 
+Stubs     975257145  4  2 Bc  bc    b     b          698   80  185 Tc Qh
+Stubs     975257178  4  1 Bc  kf    -     -          803   10    0 
+Stubs     975257216  4  3 f   -     -     -          793    0    0 
+Stubs     975257234  7  3 f   -     -     -          793    0    0 
+Stubs     975257266  7  2 Bc  bc    k     b          793   60  125 Qd 8h
+Stubs     975257308  7  1 Bc  b     brc   br         858  160  250 Ac Th
+Stubs     975257364  8  8 c   c     r     rr         948  140  300 4s Ad
+Stubs     975257434  9  8 f   -     -     -         1108    0    0 
+Stubs     975257461 10  8 f   -     -     -         1108    0    0 
+Stubs     975257534 10  7 f   -     -     -         1108    0    0 
+Stubs     975257616 10  6 c   k     Q     -         1108   20    0 
+Stubs     975257789 10  4 KQ  -     -     -         1088    0    0 
+Stubs     975259681  9  2 Bk  c     rc    r         1088  120  490 Kh 5h
+Stubs     975259755 10  1 Bf  -     -     -         1458    5    0 
+Stubs     975259799 10 10 cc  cc    f     -         1453   60    0 
+Stubs     975259916 10  9 f   -     -     -         1393    0    0 
+Stubs     975259963  9  8 f   -     -     -         1393    0    0 
+Stubs     975260008  8  6 c   f     -     -         1393   10    0 
+Stubs     975260058  8  5 c   c     k     k         1383   30    0 9s Qs
+Stubs     975260104  8  4 cc  kf    -     -         1353   20    0 
+Stubs     975260161  8  3 f   -     -     -         1333    0    0 
+Stubs     975260203  9  2 Bc  bc    bc    k         1333   80    0 4s Qs
+Stubs     975260267  8  1 Bc  br    b     b         1253   80  260 6h 5s
+Stubs     975260328  8  8 c   k     b     -         1433   30   19 2d 2h
+Stubs     975260429  8  7 f   -     -     -         1422    0    0 
+Stubs     975260462  9  7 c   cf    -     -         1422   20    0 
+Stubs     975260577 10  7 cc  kc    k     kc        1402   50    0 7s 9s
+Stubs     975260728 10  6 f   -     -     -         1352    0    0 
+Stubs     975260814 10  5 c   r     b     bc        1352   90    0 Qc Kc
+Stubs     975260874 10  4 f   -     -     -         1262    0    0 
+Stubs     975260929 10  3 f   -     -     -         1262    0    0 
+Stubs     975261019  9  1 Bk  kc    br    b         1262  100  400 6d Qs
+Stubs     975261134 10  1 Bc  kf    -     -         1562   10    0 
+Stubs     975261240  8  8 c   b     b     b         1552   60  130 
+Stubs     975261284  7  7 c   r     rc    c         1622  110    0 Ad 4d
+Stubs     975261349  7  6 c   k     k     k         1512   10   11 8s 3s
+Stubs     975261388  7  5 f   -     -     -         1513    0    0 
+Stubs     975261427  7  4 c   b     b     -         1513   40  100 
+Stubs     975261485  6  3 c   k     k     k         1573   10    0 As 9s
+Stubs     975261523  6  2 Bk  kf    -     -         1563   10    0 
+Stubs     975261562  6  1 Bc  k     kf    -         1553   10    0 
+Stubs     975261611  6  6 c   k     k     k         1543   10    0 3d 2h
+Stubs     975261639  6  5 c   f     -     -         1533   10    0 
+Stubs     975261682  6  4 cc  b     b     b         1523   70  190 
+Stubs     975261747  8  3 cc  kf    -     -         1643   20    0 
+Stubs     975261776  8  2 Bk  k     k     k         1623   10    0 Js Kd
+Stubs     975261811  8  1 Bc  kc    kc    k         1613   40    0 Ts Jh
+Stubs     975261873  8  8 c   b     -     -         1573   20   40 
+Stubs     975261905  8  7 f   -     -     -         1593    0    0 
+Stubs     975261950  7  5 c   b     b     b         1593   60  125 8c Tc
+Stubs     975261985  8  5 ccc kf    -     -         1658   40    0 
+Stubs     975262058 10  4 fQ  -     -     -         1618    0    0 
+Stubs     975272225 10  8 f   -     -     -         1618    0    0 
+Stubs     975272305 10  7 f   -     -     -         1618    0    0 
+Stubs     975272377 10  6 cc  f     -     -         1618   20    0 
+Stubs     975272491 10  5 f   -     -     -         1598    0    0 
+Stubs     975272706 10  4 cc  br    brc   bc        1598  180  475 8c 6s
+Stubs     975272842 10  3 c   b     b     b         1893   60  175 
+Stubs     975272894  9  2 Bc  k     b     br        2008  100  280 Tc 9h
+Stubs     975272962 10  1 Bf  -     -     -         2188    5    0 
+Stubs     975273021 10 10 f   -     -     -         2183    0    0 
+Stubs     975273092 10  9 cc  rr    b     b         2183  100  410 6s Kh
+Stubs     975273170 10  8 f   -     -     -         2493    0    0 
+Stubs     975273239 10  7 cc  f     -     -         2493   20    0 
+Stubs     975273351 10  6 c   k     k     k         2473   10   55 4d 2s
+Stubs     975273419 10  5 f   -     -     -         2518    0    0 
+Stubs     975273507 10  4 c   bc    kf    -         2518   30    0 
+Stubs     975273650 10  3 cf  -     -     -         2488   10    0 
+Stubs     975273819 10  2 Bc  kf    -     -         2478   30    0 
+Stubs     975273938 10  1 Bc  kc    kf    -         2448   30    0 
+Stubs     975274044 10 10 f   -     -     -         2418    0    0 
+Stubs     975274131 10  9 c   k     b     b         2418   60  250 5d 9c
+Stubs     975274227 10  8 c   f     -     -         2608   20    0 
+Stubs     975274322 10  7 c   c     c     c         2588   66    0 Jh 2s
+Stubs     975274421 10  6 c   bc    kc    k         2522   60  290 2h Ad
+Stubs     975274523 10  5 f   -     -     -         2752    0    0 
+Stubs     975274599 10  4 f   -     -     -         2752    0    0 
+Stubs     975274623 10  3 cc  kcc   kc    kc        2752  100    0 6d Kc
+Stubs     975274711 10  2 Bc  kc    bc    krc       2652  130    0 Qs 9s
+Stubs     975274853  9  1 BQ  -     -     -         2522    5    0 
+Stubs     975275049  8  8 c   f     -     -         2517   10    0 
+Stubs     975275136  8  7 cc  kc    f     -         2507   30    0 
+Stubs     975275240  8  6 cc  c     c     r         2477   90  210 
+Stubs     975275311  8  5 c   cc    kc    kc        2597   70    0 4s Js
+Stubs     975275397  8  4 cc  kc    kc    kc        2527   70    0 Jh 8h
+Stubs     975275462  9  4 c   cc    kf    -         2457   30    0 
+Stubs     975275550  9  3 c   bc    kc    bc        2427   90  240 7h 9c
+Stubs     975275624 10  2 Bf  -     -     -         2577   10    0 
+Stubs     975275691 10  1 Bf  -     -     -         2567    5    0 
+Stubs     975275796 10 10 c   c     f     -         2562   20    0 
+Stubs     975275915 10  9 f   -     -     -         2542    0    0 
+Stubs     975276027  9  7 f   -     -     -         2542    0    0 
+Stubs     975276088  9  6 c   kf    -     -         2542   10    0 
+Stubs     975276166  8  5 f   -     -     -         2532    0    0 
+Stubs     975276228  9  5 cc  bc    c     b         2532   80    0 7h As
+Stubs     975276322 10  3 cc  kf    -     -         2452   20    0 
+Stubs     975276426  9  2 Bc  kf    -     -         2432   20    0 
+Stubs     975276500 10  1 Bf  -     -     -         2412    5    0 
+Stubs     975276570 10 10 c   k     f     -         2407   10    0 
+Stubs     975276678  9  8 c   f     -     -         2397   10    0 
+Stubs     975276749 10  8 f   -     -     -         2387    0    0 
+Stubs     975276815 10  7 f   -     -     -         2387    0    0 
+Stubs     975276906 10  6 c   br    b     b         2387   80    0 8s 3s
+Stubs     975276994 10  5 f   -     -     -         2307    0    0 
+Stubs     975277050 10  4 c   b     b     b         2307   60    0 Jc Tc
+Stubs     975277119 10  3 cc  rc    bcc   kcc       2247  190    0 7h Kd
+Stubs     975277251 10  2 BQ  -     -     -         2057   10    0 
+Stubs     975290332  9  2 Bk  kc    kc    kf        2047   50    0 
+Stubs     975290401  9  1 Bcf -     -     -         1997   10    0 
+Stubs     975290473 10 10 c   r     c     k         1987   60    0 Jc Kd
+Stubs     975290552 10  9 f   -     -     -         1927    0    0 
+Stubs     975290614 10  8 f   -     -     -         1927    0    0 
+Stubs     975290699 10  7 cf  -     -     -         1927   10    0 
+Stubs     975290788 10  6 f   -     -     -         1917    0    0 
+Stubs     975290843 10  5 f   -     -     -         1917    0    0 
+Stubs     975290908 10  4 c   k     bc    kf        1917   50    0 
+Stubs     975290986  9  2 Bk  rc    bc    k         1867   80  170 3h Ks
+Stubs     975291059  9  1 Bc  kf    -     -         1957   10    0 
+Stubs     975291168  9  9 KQ  -     -     -         1947    0    0 
+Stubs     975344879  5  2 Bk  k     k     bc        1947   50    0 8s 7d
+Stubs     975344919  5  1 Bc  kc    kc    kc        1897   70  220 8h 7c
+Stubs     975344991  5  4 c   k     k     k         2047   10   40 7d 8c
+Stubs     975345050  5  3 cc  kc    b     b         2077   70  105 3d Ac
+Stubs     975345109  5  2 Bc  kf    -     -         2112   20    0 
+Stubs     975345141  6  1 Bc  k     kc    kc        2092   50    0 8h 9s
+Stubs     975345182  6  6 c   f     -     -         2042   20    0 
+Stubs     975345224  6  6 c   k     k     k         2022   10    0 8c Qd
+Stubs     975345279  6  4 c   b     b     rr        2012  120  390 8h 9h
+Stubs     975345350  6  4 c   k     f     -         2282   10    0 
+Stubs     975345447  5  2 Bc  kc    kf    -         2272   30    0 
+Stubs     975345486  3  1 Bc  k     kf    -         2242   20    0 
+Stubs     975345524  4  4 c   k     c     k         2222   30   90 9h 7c
+Stubs     975345576  5  4 c   f     -     -         2282   10    0 
+Stubs     975345646  6  3 ccc f     -     -         2272   40    0 
+Stubs     975345698  7  2 Bc  k     f     -         2232   20    0 
+Stubs     975345749  6  1 Bc  kf    -     -         2212   20    0 
+Stubs     975345822  5  5 c   c     c     c         2192   70  220 Jc 9c
+Stubs     975345858  5  5 c   k     f     -         2342   20    0 
+Stubs     975345914  5  4 c   c     c     f         2322   40    0 
+Stubs     975345965  5  3 c   k     c     f         2282   30    0 
+Stubs     975346034  5  2 Bc  c     kc    kf        2252   50    0 
+Stubs     975346091  5  1 Bc  kcc   kc    kf        2202   70    0 
+Stubs     975346179  5  5 rc  rc    rr    b         2132  180  555 Ad Qd
+Stubs     975346276  5  3 Q   -     -     -         2507    0    0 
+Stubs     975346912  3  1 Bc  b     b     b         2507   60  110 
+Stubs     975346951  3  3 f   -     -     -         2557    0    0 
+Stubs     975346958  3  2 Bc  bc    kc    kf        2557   60    0 
+Stubs     975347012  3  1 Bc  b     -     -         2497   20   30 
+Stubs     975347031  3  3 c   k     k     f         2507   10    0 
+Stubs     975347070  3  2 Bc  kc    kc    kc        2497   70  145 6c 6d
+Stubs     975347108  3  1 Bcc kf    -     -         2572   20    0 
+Stubs     975347148  4  3 c   c     rr    rc        2552  160    0 4d 2d
+Stubs     975347223  4  2 Bc  kf    -     -         2392   20    0 
+Stubs     975347296  4  1 Bcc kc    b     b         2372   90  250 
+Stubs     975347355  4  4 c   c     f     -         2532   20    0 
+Stubs     975347406  5  4 c   k     b     b         2512   50    0 Ad 9h
+Stubs     975347457  5  3 c   b     b     -         2462   40   70 
+Stubs     975347498  5  2 Bk  k     k     b         2492   30   60 
+Stubs     975347539  5  1 Bc  b     -     -         2522   20   30 
+Stubs     975347560  5  5 cc  c     c     c         2532   70  220 8h 4h
+Stubs     975347615  6  5 r   b     b     b         2682   70  170 Ac Ad
+Stubs     975347668  6  5 c   b     k     c         2782   40    0 6h 8h
+Stubs     975347729  4  3 c   b     k     k         2742   20    0 5d 5h
+Stubs     975347770  4  2 Bk  k     k     k         2722   10    0 5c 9s
+Stubs     975347811  4  1 Bc  kf    -     -         2712   10    0 
+Stubs     975347854  4  4 c   b     -     -         2702   20   50 
+Stubs     975347892  4  3 c   k     b     -         2732   30   50 
+Stubs     975347915  5  2 Bk  kc    kc    kf        2752   40    0 
+Stubs     975347956  5  1 Bc  k     k     k         2712   10    0 9s Th
+Stubs     975347992  5  5 r   b     b     -         2702   50  105 
+Stubs     975348040  6  4 c   c     c     c         2757   70    0 7h Ad
+Stubs     975348069  6  3 c   b     -     -         2687   20   45 
+Stubs     975348092  7  3 c   kf    -     -         2712   10    0 
+Stubs     975348160  7  2 Bk  bc    bc    kf        2702   70    0 
+Stubs     975348269  8  1 Bc  kf    -     -         2632   10    0 
+Stubs     975348341  8  8 c   k     k     k         2622   20    0 9s 7c
+Stubs     975348388  8  7 c   f     -     -         2602   20    0 
+Stubs     975348425  7  5 c   c     b     b         2582   70  130 
+Stubs     975348456  7  5 f   -     -     -         2642    0    0 
+Stubs     975348485  8  4 c   b     b     -         2642   40   95 
+Stubs     975348529  7  4 cc  bc    b     b         2697   80    0 8d Qs
+Stubs     975348584  7  2 Bc  kf    -     -         2617   20    0 
+Stubs     975348628  6  1 Brc b     b     b         2597   90  190 Qd Qc
+Stubs     975348685  6  6 c   k     Q     -         2697   10    0 
+Stubs     975356946  9  8 KQ  -     -     -         2687    0    0 
+Stubs     975357251 10  3 f   -     -     -         2687    0    0 
+Stubs     975357347  9  2 Bc  kcf   -     -         2687   40    0 
+Stubs     975357432 10  1 Bf  -     -     -         2647    5    0 
+Stubs     975357514 10 10 f   -     -     -         2642    0    0 
+Stubs     975357555 10  9 c   f     -     -         2642   10    0 
+Stubs     975357620 10  8 f   -     -     -         2632    0    0 
+Stubs     975357673 10  7 cKQ -     -     -         2632   10    0 
+Stubs     975367111 10  2 Bf  -     -     -         3132   10    0 
+Stubs     975367186 10  1 Bc  k     kf    -         3122   10    0 
+Stubs     975367266 10 10 f   -     -     -         3112    0    0 
+Stubs     975367331 10  9 f   -     -     -         3112    0    0 
+Stubs     975367383 10  8 cc  rc    rc    cc        3112  200    0 4s Ac
+Stubs     975367515 10  7 f   -     -     -         2912    0    0 
+Stubs     975367589 10  6 c   bc    b     bf        2912   70    0 
+Stubs     975367674 10  5 fQ  -     -     -         2842    0    0 

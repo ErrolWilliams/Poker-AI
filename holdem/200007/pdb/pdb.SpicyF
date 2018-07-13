@@ -1,0 +1,910 @@
+SpicyF    962570415 10  2 Br  br    k     kc        1000   70    0 As Ad
+SpicyF    962570517 10  1 Bc  kf    -     -          930   10    0 
+SpicyF    962570615 10 10 c   c     f     -          920   30    0 
+SpicyF    962570706 10  9 rr  rc    c     f          890   90    0 
+SpicyF    962570772 10  9 r   b     -     -          800   30   85 
+SpicyF    962570836 10  7 f   -     -     -          855    0    0 
+SpicyF    962570910 10  6 crc b     b     c          855   90    0 Qd As
+SpicyF    962571001 10  5 Q   -     -     -          765    0    0 
+SpicyF    962935831  9  3 f   -     -     -          908    0    0 
+SpicyF    962935877  9  2 Bk  b     b     -          908   40   85 
+SpicyF    962935910  9  1 Bcc kc    kcc   kf         953   70    0 
+SpicyF    962936012  9  9 f   -     -     -          883    0    0 
+SpicyF    962936066 10  9 r   b     b     -          883   50  130 
+SpicyF    962936132 10  8 r   r     c     f          963   60    0 
+SpicyF    962936224 10  7 f   -     -     -          903    0    0 
+SpicyF    962936271 10  6 rr  r     b     bQ         903  100    0 
+SpicyF    963313813  4  2 B   -     -     -          803   10   15 
+SpicyF    963313818  4  1 Br  b     -     -          808   30   50 
+SpicyF    963313826  4  4 f   -     -     -          828    0    0 
+SpicyF    963313832  4  3 rc  r     b     r          828  110    0 5d Ks
+SpicyF    963313865  4  2 Bf  -     -     -          718   10    0 
+SpicyF    963313872  4  1 Br  -     -     -          708   20   30 
+SpicyF    963313878  4  4 cc  k     rr    rf         718  140    0 
+SpicyF    963313909  4  3 f   -     -     -          578    0    0 
+SpicyF    963313912  4  2 Bk  kf    -     -          578   10    0 
+SpicyF    963313925  4  1 Bc  b     -     -          568   20   30 
+SpicyF    963313935  4  4 rr  rr    rf    -          578  120    0 
+SpicyF    963313973  4  3 r   brc   brc   brc        458  220    0 Ah Kd
+SpicyF    963314001  4  2 Bc  kc    k     kf         238   30    0 
+SpicyF    963314041  4  1 Bc  b     -     -          208   30   60 
+SpicyF    963314054  4  4 r   b     b     b          238   80  175 Qs 3s
+SpicyF    963314075  4  3 rr  brc   rr    rr         333  240    0 Qh Kd
+SpicyF    963314128  4  2 B   -     -     -           93   10   15 
+SpicyF    963314135  4  1 Br  -     -     -           98   20   30 
+SpicyF    963314140  4  4 rc  rr    rA    -          108  108    0 7h Kd
+SpicyF    963314183  5  2 Bc  f     -     -         1000   20    0 
+SpicyF    963314218  5  1 Bc  kr    b     -          980   60  120 
+SpicyF    963314245  5  5 r   k     rr    c         1040  120    0 8c Kd
+SpicyF    963314278  5  4 c   kc    b     -          920   40   90 
+SpicyF    963314308  5  3 f   -     -     -          970    0    0 
+SpicyF    963314333  5  2 Bc  kc    kc    kf         970   50    0 
+SpicyF    963314365  5  1 Bc  b     -     -          920   20   30 
+SpicyF    963314378  5  5 r   c     c     c          930   70    0 Qd 6d
+SpicyF    963314399  5  5 f   -     -     -          860    0    0 
+SpicyF    963314406  4  3 c   f     -     -          860   10    0 
+SpicyF    963314422  4  2 B   -     -     -          850   10   15 
+SpicyF    963314426  4  1 Bc  kf    -     -          855   20    0 
+SpicyF    963314436  4  4 r   -     -     -          835   20   35 
+SpicyF    963314440  4  3 r   b     b     c          850   70    0 9c 9s
+SpicyF    963314464  5  2 Bk  b     b     kc         780   60    0 Tc 6d
+SpicyF    963314493  5  1 Br  b     -     -          720   40   80 
+SpicyF    963314522  5  5 f   -     -     -          760    0    0 
+SpicyF    963314549  5  4 r   r     b     b          760   80    0 3d Kh
+SpicyF    963314577  6  4 r   rr    br    bc         680  160    0 6h 3s
+SpicyF    963314668  6  3 r   br    brc   f          520  130    0 
+SpicyF    963314747  6  2 Br  b     b     b          390   70  145 
+SpicyF    963314783  6  1 Br  br    brc   bc         465  170    0 5s 8c
+SpicyF    963314830  6  6 r   rr    b     b          295  100    0 Ks Kd
+SpicyF    963314878  7  6 r   b     b     b          195   70  225 3s Tc
+SpicyF    963314918  7  5 r   b     brc   rc         350  170    0 6h Ts
+SpicyF    963314977  8  5 r   b     b     b          180   70  190 
+SpicyF    963315026  9  5 rc  brc   brc   brc        300  240    0 2d As
+SpicyF    963315107  9  4 rr  bcA   -     -           60   60    0 6c 4s
+SpicyF    963401936 10  2 Bc  r     c     r         1000  110  322 5d As
+SpicyF    963401993  8  1 Bcc k     kc    kc        1212   60    0 Ts 4h
+SpicyF    963402056  9  9 c   cc    f     -         1152   70    0 
+SpicyF    963402160  9  8 f   -     -     -         1082    0    0 
+SpicyF    963402214  9  7 f   -     -     -         1082    0    0 
+SpicyF    963402279  9  6 f   -     -     -         1082    0    0 
+SpicyF    963402365  9  5 cc  c     c     c         1082   90    0 As 3c
+SpicyF    963402422  9  4 f   -     -     -          992    0    0 
+SpicyF    963402509  9  3 f   -     -     -          992    0    0 
+SpicyF    963402607  9  2 Bc  kf    -     -          992   20    0 
+SpicyF    963402674 10  1 Bcc kcc   kcc   kc         972  180    0 9d Qs
+SpicyF    963402757 10 10 c   rr    b     b          792   90  230 
+SpicyF    963402894 10  9 rc  c     c     r          932  110    0 Ac 9d
+SpicyF    963402946 10  8 r   b     rr    b          822  130    0 Qd 7d
+SpicyF    963403015 10  7 r   brc   rc    rc         692  200    0 Jd 8c
+SpicyF    963403102 10  6 r   b     b     brc        492  130    0 8h 8c
+SpicyF    963403136  9  4 rc  rr    r     r          362  160    0 Jd 9s
+SpicyF    963403193 10  4 rr  b     brc   rrA        202  202    0 2d 9c
+SpicyF    963452721 10  2 Bf  -     -     -         1000   10    0 
+SpicyF    963452784 10  1 Bf  -     -     -          990    5    0 
+SpicyF    963452867 10 10 f   -     -     -          985    0    0 
+SpicyF    963452910 10  9 f   -     -     -          985    0    0 
+SpicyF    963452957 10  8 r   c     rc    c          985  120    0 6d 5h
+SpicyF    963453022 10  7 f   -     -     -          865    0    0 
+SpicyF    963453057 10  6 r   bc    k     f          865   40    0 
+SpicyF    963453131 10  5 cc  r     rc    r          825  160  500 Kh 6h
+SpicyF    963453184 10  4 cc  kf    -     -         1165   20    0 
+SpicyF    963453219  9  2 f   -     -     -         1145    0    0 
+SpicyF    963453268  9  2 Bk  kf    -     -         1145   10    0 
+SpicyF    963453336  9  1 Bc  kf    -     -         1135   10    0 
+SpicyF    963453395 10 10 c   f     -     -         1125   20    0 
+SpicyF    963453448  9  8 f   -     -     -         1105    0    0 
+SpicyF    963453505 10  8 c   f     -     -         1105   10    0 
+SpicyF    963453567 10  7 f   -     -     -         1095    0    0 
+SpicyF    963453621 10  6 f   -     -     -         1095    0    0 
+SpicyF    963453718 10  5 f   -     -     -         1095    0    0 
+SpicyF    963453780 10  4 f   -     -     -         1095    0    0 
+SpicyF    963453828 10  3 c   b     b     k         1095   40   90 7d 7h
+SpicyF    963453923 10  2 Bc  kf    -     -         1145   20    0 
+SpicyF    963453985  9  1 Bf  -     -     -         1125    5    0 
+SpicyF    963454029  9  9 f   -     -     -         1120    0    0 
+SpicyF    963454095  9  8 f   -     -     -         1120    0    0 
+SpicyF    963454151  9  7 cc  b     -     -         1120   30   80 
+SpicyF    963454201 10  7 rc  c     r     k         1170   90    0 8d 8h
+SpicyF    963454283 10  6 rc  k     cc    c         1080  100    0 9c Ac
+SpicyF    963454358 10  5 c   r     c     c          980   80    0 As Ts
+SpicyF    963454413 10  5 cc  rc    c     c          900  110    0 9h 9s
+SpicyF    963454505  9  3 f   -     -     -          790    0    0 
+SpicyF    963454561  9  2 Bc  kf    -     -          790   30    0 
+SpicyF    963454671 10  1 Bcc br    br    bc         760  180    0 8d Td
+SpicyF    963454757 10 10 r   rc    c     k          580  100    0 8c Ah
+SpicyF    963454854 10  9 rc  bc    c     c          480  100    0 Ac Js
+SpicyF    963454969 10  8 f   -     -     -          380    0    0 
+SpicyF    963455086 10  7 r   b     b     -          380   50  185 
+SpicyF    963455149 10  6 c   b     b     b          515   60    0 8d Th
+SpicyF    963455192 10  5 r   b     b     b          455   70  155 
+SpicyF    963455241  9  4 cc  kc    crc   kf         540  110    0 
+SpicyF    963455316  9  3 rc  b     b     bf         430   80    0 
+SpicyF    963455398  9  1 Br  br    br    br         350  190    0 8s 8c
+SpicyF    963455448  9  1 Brc br    b     b          160  110    0 Ks Ah
+SpicyF    963455518  9  9 r   cA    -     -           50   50    0 5h 6h
+SpicyF    963541281  9  5 r   b     -     -         1372   30   65 
+SpicyF    963541307  9  4 r   r     b     k         1407   60    0 Jd Ad
+SpicyF    963541365 10  3 c   kc    kf    -         1277   30    0 
+SpicyF    963541438 10  2 Bk  b     -     -         1187   20   65 
+SpicyF    963541485 10  1 Bc  b     b     b         1172   60  150 
+SpicyF    963541535 10 10 f   -     -     -         1262    0    0 
+SpicyF    963541592 10  9 f   -     -     -         1222    0    0 
+SpicyF    963541653 10  8 crc rr    bc    k         1192  120    0 3s 2s
+SpicyF    963541783 10  7 rr  brc   bc    kc        1172  140    0 7c 7s
+SpicyF    963541839 10  6 rc  rr    brc   kc         962  170    0 4h Th
+SpicyF    963541944 10  5 rc  f     -     -          872   40    0 
+SpicyF    963542009 10  4 rc  b     b     -          822   60  180 
+SpicyF    963542076 10  3 c   b     b     b          907   60    0 Th Jd
+SpicyF    963542123 10  2 Br  r     b     b          737   80    0 6s Ac
+SpicyF    963542215 10  1 Bccc br    br    bc         727  200    0 4c Ks
+SpicyF    963542348 10 10 c   rc    b     b          157  120    0 6h Qc
+SpicyF    963562946  9  3 f   -     -     -          857    0    0 
+SpicyF    963563006 10  2 Bc  kc    kc    k          857   50    0 4h Jd
+SpicyF    963563075 10  1 Bf  -     -     -          807    5    0 
+SpicyF    963563152 10 10 c   rr    b     b          802  100  265 Qd 9s
+SpicyF    963563208 10  9 c   r     b     c          967   70  290 Ac 7s
+SpicyF    963563284 10  8 f   -     -     -         1187    0    0 
+SpicyF    963563326 10  7 f   -     -     -         1187    0    0 
+SpicyF    963563355 10  6 f   -     -     -         1187    0    0 
+SpicyF    963563404 10  5 f   -     -     -         1187    0    0 
+SpicyF    963563450 10  4 f   -     -     -         1187    0    0 
+SpicyF    963563511 10  3 c   r     b     k         1187   50    0 5c As
+SpicyF    963563562  9  2 Bk  f     -     -         1137   10    0 
+SpicyF    963563602 10  1 Bf  -     -     -         1127    5    0 
+SpicyF    963563652 10 10 c   f     -     -         1122   10    0 
+SpicyF    963563705 10  9 f   -     -     -         1112    0    0 
+SpicyF    963563743 10  8 f   -     -     -         1112    0    0 
+SpicyF    963563774  9  6 f   -     -     -         1112    0    0 
+SpicyF    963563803  9  6 c   b     r     b         1112   80    0 Qc 7c
+SpicyF    963563853  9  5 c   cc    f     -         1032   30    0 
+SpicyF    963563889  9  4 f   -     -     -         1002    0    0 
+SpicyF    963563913  9  3 f   -     -     -         1002    0    0 
+SpicyF    963563956 10  2 Bk  kf    -     -         1002   10    0 
+SpicyF    963564000 10  1 Br  bc    kc    kf         992   60    0 
+SpicyF    963564038 10 10 f   -     -     -          932    0    0 
+SpicyF    963564080 10  9 c   r     r     brc        932  180    0 Kd 9c
+SpicyF    963564164 10  8 f   -     -     -          752    0    0 
+SpicyF    963564220 10  7 rr  rr    rr    r          752  200    0 As Jh
+SpicyF    963564281 10  6 rr  rr    rr    rr         552  240    0 5d 3d
+SpicyF    963564337 10  5 r   b     -     -          312   30   65 
+SpicyF    963564356 10  4 r   b     b     b          347   70    0 2d 9c
+SpicyF    963564383 10  3 r   b     b     b          277   70  300 9d As
+SpicyF    963564412 10  2 Brr brc   brc   br         507  220  445 Qc Kc
+SpicyF    963564447 10  1 Br  br    b     b          732  100    0 2d 3d
+SpicyF    963564506 10 10 rc  b     b     b          632   90  265 8d Qd
+SpicyF    963564539 10  9 rc  br    bf    -          807   90    0 
+SpicyF    963564587 10  8 r   rr    rr    rr         717  220    0 3h 6d
+SpicyF    963564649 10  7 r   rc    brc   rr         497  220    0 6c 8s
+SpicyF    963564703 10  6 rc  b     b     r          277  110  167 Ah 3d
+SpicyF    963564739 10  5 r   brc   brc   brc        334  220  480 Ah Qc
+SpicyF    963564792 10  4 r   bc    kf    -          594   40    0 
+SpicyF    963564832  9  3 r   b     -     -          554   30   90 
+SpicyF    963564856  9  2 Br  b     brc   b          614  150    0 Ac 7h
+SpicyF    963564942  9  1 Brc br    brc   brc        464  230    0 7c 6h
+SpicyF    963564988  9  9 rc  br    rc    brcA       234  234    0 3s 3h
+SpicyF    963565125  9  7 f   -     -     -         1000    0    0 
+SpicyF    963565148 10  6 r   b     b     b         1000   70  220 8c 5c
+SpicyF    963565183 10  5 f   -     -     -         1150    0    0 
+SpicyF    963565222 10  4 f   -     -     -         1150    0    0 
+SpicyF    963565255 10  3 f   -     -     -         1150    0    0 
+SpicyF    963565329 10  2 Bf  -     -     -         1150   10    0 
+SpicyF    963565390 10  1 Bc  kc    brc   kc        1140  140  500 Ks Qs
+SpicyF    963565467 10 10 c   c     k     k         1500   30  140 6d 6h
+SpicyF    963565507 10  9 f   -     -     -         1610    0    0 
+SpicyF    963565582 10  8 f   -     -     -         1610    0    0 
+SpicyF    963565622  9  6 f   -     -     -         1610    0    0 
+SpicyF    963565669  9  5 cc  f     -     -         1610   40    0 
+SpicyF    963565711  9  5 f   -     -     -         1570    0    0 
+SpicyF    963565747  9  3 f   -     -     -         1570    0    0 
+SpicyF    963565789  9  2 Bc  k     k     k         1570   20    0 6s Ac
+SpicyF    963565820  9  1 Bf  -     -     -         1550    5    0 
+SpicyF    963565861  9  9 cc  cc    c     f         1545   80    0 
+SpicyF    963565923  8  7 f   -     -     -         1465    0    0 
+SpicyF    963565953  9  6 f   -     -     -         1465    0    0 
+SpicyF    963565982  9  5 cc  cc    cc    kf        1465   80    0 
+SpicyF    963566030  9  4 f   -     -     -         1385    0    0 
+SpicyF    963566066  9  3 c   c     c     b         1385   60  210 9h Ts
+SpicyF    963566118  8  2 Bk  kf    -     -         1535   10    0 
+SpicyF    963566168  8  1 Bc  k     krc   kc        1525   90    0 Qs Ah
+SpicyF    963566209  8  8 f   -     -     -         1435    0    0 
+SpicyF    963566263  9  8 f   -     -     -         1435    0    0 
+SpicyF    963566342  9  7 rc  cc    c     f         1435   80    0 
+SpicyF    963566428  9  6 f   -     -     -         1355    0    0 
+SpicyF    963566484  9  5 r   c     f     -         1355   30    0 
+SpicyF    963566536 10  5 c   k     b     b         1325   50  145 7d Ad
+SpicyF    963566593 10  4 f   -     -     -         1420    0    0 
+SpicyF    963566630 10  3 f   -     -     -         1420    0    0 
+SpicyF    963566684 10  2 Bk  kc    kcc   kc        1420  100    0 8h Ah
+SpicyF    963566772 10  1 Bf  -     -     -         1320    5    0 
+SpicyF    963566800 10 10 c   c     k     b         1315   40  110 
+SpicyF    963566856 10  9 c   c     f     -         1385   20    0 
+SpicyF    963566897 10  8 c   f     -     -         1365   10    0 
+SpicyF    963566956 10  7 f   -     -     -         1355    0    0 
+SpicyF    963567010 10  6 f   -     -     -         1355    0    0 
+SpicyF    963567056 10  5 f   -     -     -         1355    0    0 
+SpicyF    963567079 10  4 c   b     b     b         1355   60    0 Qd 7d
+SpicyF    963567114 10  3 c   b     k     kf        1295   20    0 
+SpicyF    963567160 10  2 Bc  kf    -     -         1275   20    0 
+SpicyF    963567197 10  1 Bc  kc    kf    -         1255   30    0 
+SpicyF    963567238 10 10 cc  cc    c     c         1225  100    0 6d 7d
+SpicyF    963567300 10  9 cc  r     b     b         1125  100    0 Ah 7h
+SpicyF    963567350 10  8 rc  brc   rr    c         1025  180    0 Th As
+SpicyF    963567422 10  7 r   b     b     b          845   70  145 Qc Ah
+SpicyF    963567456 10  6 c   f     -     -          920   20    0 
+SpicyF    963567501 10  5 c   bc    kf    -          900   40    0 
+SpicyF    963567560  9  4 r   r     b     b          860   80    0 8h 8c
+SpicyF    963567589  9  3 rr  b     bf    -          780   70    0 
+SpicyF    963567641  8  2 Bk  k     k     c          710   30    0 Kc 5s
+SpicyF    963567665  8  1 Bc  kcc   kc    kf         680   50    0 
+SpicyF    963567704  8  8 r   b     r     f          630   80    0 
+SpicyF    963567767  8  7 c   b     b     rr         550  120    0 4h 9h
+SpicyF    963567800  8  6 r   b     b     r          430  100  107 2h 3h
+SpicyF    963567834  8  5 r   b     b     rr         437  130    0 3d Jc
+SpicyF    963567870  8  4 r   brc   brc   b          307  160    0 3d 3h
+SpicyF    963567933  9  3 rr  rr    rrA   -          147  147  304 9h 8h
+SpicyF    963567967  9  2 Brc br    b     b          304  110    0 As Th
+SpicyF    963568021  9  1 Brr br    brc   bcA        194  194    0 2h 7s
+SpicyF    963568107  8  6 r   rr    c     c         1000  100    0 Js Jc
+SpicyF    963568203  6  4 r   b     b     b          900   70  140 Ts 8c
+SpicyF    963568231  6  4 f   -     -     -          970    0    0 
+SpicyF    963568272  6  3 f   -     -     -          970    0    0 
+SpicyF    963568283  6  2 Bk  kc    kc    kc         970   60   63 3d Ah
+SpicyF    963568312  6  1 Bc  b     b     b          973   70  130 
+SpicyF    963568334  6  6 r   b     b     b         1033   70  150 
+SpicyF    963568371  6  4 r   c     kcc   kc        1113  110    0 Ac 3c
+SpicyF    963568408  7  4 f   -     -     -         1003    0    0 
+SpicyF    963568444  7  3 f   -     -     -         1003    0    0 
+SpicyF    963568453  7  2 Bk  KQ    -     -         1003   10    0 
+SpicyF    963569739  8  6 f   -     -     -          993    0    0 
+SpicyF    963569777  8  5 r   b     b     b          993   70    0 5d 5s
+SpicyF    963569799  8  4 cc  c     cc    kc         923   90    0 Jh Ts
+SpicyF    963569849  8  3 f   -     -     -          833    0    0 
+SpicyF    963569898  8  2 Bk  kc    kc    k          833   40   85 7d 3c
+SpicyF    963569926  8  1 Bc  k     krr   bc         878  140  290 5d 3d
+SpicyF    963569956  8  8 c   f     -     -         1028   10    0 
+SpicyF    963569979  8  7 f   -     -     -         1018    0    0 
+SpicyF    963569999  8  6 f   -     -     -         1018    0    0 
+SpicyF    963570042  8  5 f   -     -     -         1018    0    0 
+SpicyF    963570060  8  4 f   -     -     -         1018    0    0 
+SpicyF    963570085  8  3 f   -     -     -         1018    0    0 
+SpicyF    963570132 10  2 Bk  kf    -     -         1018   10    0 
+SpicyF    963570218  9  1 Bc  kc    k     k         1008   20    0 5s 5c
+SpicyF    963570253  9  9 f   -     -     -          988    0    0 
+SpicyF    963570290  9  8 f   -     -     -          988    0    0 
+SpicyF    963570350  9  7 r   b     -     -          988   30   95 
+SpicyF    963570500  8  6 f   -     -     -         1053    0    0 
+SpicyF    963570547  8  4 f   -     -     -         1053    0    0 
+SpicyF    963570594 10  4 f   -     -     -         1053    0    0 
+SpicyF    963570631 10  3 rc  b     k     b         1053   60  140 
+SpicyF    963570679 10  2 Br  b     br    k         1133   90  360 Qs Qh
+SpicyF    963570768 10  1 Bc  kc    kc    kc        1403   60    0 Js 8c
+SpicyF    963570821  9  9 f   -     -     -         1343    0    0 
+SpicyF    963570837  8  7 c   c     c     k         1343   40  110 6c 6d
+SpicyF    963570884  8  6 f   -     -     -         1413    0    0 
+SpicyF    963570921  8  5 f   -     -     -         1413    0    0 
+SpicyF    963570965  8  4 c   k     f     -         1413   10    0 
+SpicyF    963571060  7  3 r   b     kc    kf        1403   50    0 
+SpicyF    963571109  7  2 Bk  kf    -     -         1353   10    0 
+SpicyF    963571133  7  1 Bc  kf    -     -         1343   10    0 
+SpicyF    963571167  7  7 c   c     b     -         1333   40   90 
+SpicyF    963571207  7  7 f   -     -     -         1383    0    0 
+SpicyF    963571239  6  5 rc  bc    c     f         1383   70    0 
+SpicyF    963571283  6  4 f   -     -     -         1313    0    0 
+SpicyF    963571303  6  3 c   b     f     -         1313   20    0 
+SpicyF    963571335  6  2 Bc  kc    kc    kf        1293   50    0 
+SpicyF    963571386  6  1 Bc  b     k     k         1243   20   70 7d 8h
+SpicyF    963571438  6  6 c   c     c     c         1293   70    0 5d As
+SpicyF    963571474  6  5 c   c     c     f         1223   50    0 
+SpicyF    963571505  6  4 r   br    b     k         1173   70  230 7c 7s
+SpicyF    963571554  6  3 f   -     -     -         1333    0    0 
+SpicyF    963571589  6  2 Bc  kf    -     -         1333   20    0 
+SpicyF    963571628  6  1 Br  brc   kc    kc        1313  100    0 As Kc
+SpicyF    963571665  6  6 f   -     -     -         1213    0    0 
+SpicyF    963571707  6  5 r   r     b     c         1213   80   95 Qd 8c
+SpicyF    963571747  6  4 f   -     -     -         1228    0    0 
+SpicyF    963571768  6  3 cc  b     bc    kc        1228   90    0 As 6c
+SpicyF    963571792  6  2 Bk  cf    -     -         1138   20    0 
+SpicyF    963571828  6  1 Bc  b     b     b         1118   70  180 
+SpicyF    963571860  7  7 c   k     c     c         1228   60    0 6s Ts
+SpicyF    963571902  6  5 f   -     -     -         1168    0    0 
+SpicyF    963571930  6  4 r   br    b     b         1168   90  165 
+SpicyF    963571964  7  4 rr  rc    brc   c         1243  180    0 Ks Kd
+SpicyF    963572027  7  3 r   c     c     r         1063   90  255 Ks Th
+SpicyF    963572079  7  2 Bf  -     -     -         1228   10    0 
+SpicyF    963572106  8  1 Bc  k     kf    -         1218   10    0 
+SpicyF    963572145  7  7 f   -     -     -         1208    0    0 
+SpicyF    963572201  7  6 c   b     b     -         1208   40   90 
+SpicyF    963572247  7  5 f   -     -     -         1258    0    0 
+SpicyF    963572291  7  4 r   b     -     -         1258   30   55 
+SpicyF    963572313  6  3 c   k     b     krc       1283   90    0 Tc Ac
+SpicyF    963572369  6  2 Bf  -     -     -         1193   10    0 
+SpicyF    963572415  6  1 Bc  k     kf    -         1183   10    0 
+SpicyF    963572458  6  6 rr  b     k     k         1173   50    0 Ad 8c
+SpicyF    963572482  6  5 f   -     -     -         1123    0    0 
+SpicyF    963572497  7  4 f   -     -     -         1123    0    0 
+SpicyF    963572537  9  3 cc  kc    kc    kc        1123   70    0 Kc 5c
+SpicyF    963572567  8  2 Bc  kc    b     b         1053   70   83 Jc Qc
+SpicyF    963572597  9  1 Bcc kc    krc   b         1066  140    0 6h 7s
+SpicyF    963572641  9  9 r   b     b     b          926   70  180 Qd Ks
+SpicyF    963572677  9  8 f   -     -     -         1036    0    0 
+SpicyF    963572717  9  7 rr  b     b     brc       1036  150    0 8c 2c
+SpicyF    963572748  9  6 cc  br    b     b          886   90    0 5s Kc
+SpicyF    963572798  9  5 fQ  -     -     -          796    0    0 
+SpicyF    963653082  4  2 Bk  b     b     c          851   60   60 2c Ah
+SpicyF    963653155  4  1 Bc  kf    -     -          851   10    0 
+SpicyF    963653198  4  4 c   b     b     k          841   40   95 8c 2c
+SpicyF    963653247  4  3 f   -     -     -          896    0    0 
+SpicyF    963653253  4  2 Bf  -     -     -          896   10    0 
+SpicyF    963653275  4  1 Brr bc    k     bc         886  100    0 Js Jh
+SpicyF    963653335  5  4 rc  kc    kf    -          786   40    0 
+SpicyF    963653361  5  3 f   -     -     -          746    0    0 
+SpicyF    963653418  5  2 Bcc kf    -     -          746   40    0 
+SpicyF    963653463  5  1 Bcc kc    kc    kc         706   80    0 2s Ah
+SpicyF    963653527  5  5 f   -     -     -          626    0    0 
+SpicyF    963653565  5  4 rc  br    b     b          626  100    0 2d 4h
+SpicyF    963653622  5  3 rr  b     b     b          526   90   98 8d 6s
+SpicyF    963653657  5  2 Br  br    brc   b          534  160    0 2d 5h
+SpicyF    963653698  4  1 Brr brc   b     b          374  120  280 3h 2d
+SpicyF    963653735  4  4 rc  rc    rr    b          534  180  500 
+SpicyF    963653800  5  4 rr  brc   brc   b          854  180    0 Kd 2c
+SpicyF    963653851  5  3 rc  brc   rc    rr         674  240    0 6h Ac
+SpicyF    963653912  5  2 Brc brc   b     b          434  120    0 9d 3h
+SpicyF    963653965  5  1 Brr b     b     b          314   90  220 Ah Jh
+SpicyF    963654005  5  5 rr  b     brc   rr         444  210    0 2s 3s
+SpicyF    963654054  5  4 rc  rc    brc   brcA       234  234    0 5s 2s
+SpicyF    963654123  5  2 Bc  cc    f     -         1000   50    0 
+SpicyF    963654156  5  1 Bc  k     k     k          950   10    0 2s Ts
+SpicyF    963654214  5  5 f   -     -     -          940    0    0 
+SpicyF    963654239  5  4 cc  c     f     -          940   50    0 
+SpicyF    963654282  5  3 rr  kr    b     b          890  100  250 Qs Ks
+SpicyF    963654357  5  2 Bc  ccc   rc    r         1040  180  540 Kd 3d
+SpicyF    963654431  5  1 Bf  -     -     -         1400    5    0 
+SpicyF    963654490  5  5 rr  rc    k     b         1395   90  185 Ad Td
+SpicyF    963654557  6  4 f   -     -     -         1490    0    0 
+SpicyF    963654572  6  3 f   -     -     -         1490    0    0 
+SpicyF    963654617  6  2 Bc  kcc   kcf   -         1490  100    0 
+SpicyF    963654693  6  1 Bc  kcc   kc    kf        1390   80    0 
+SpicyF    963654754  6  6 c   r     cc    f         1310  130    0 
+SpicyF    963654823  7  6 f   -     -     -         1180    0    0 
+SpicyF    963654850  7  5 f   -     -     -         1180    0    0 
+SpicyF    963654859  7  4 c   c     rr    rc        1180  170  355 5s 4h
+SpicyF    963654903  7  3 cc  f     -     -         1365   30    0 
+SpicyF    963654954  6  2 Bc  rc    rr    c         1335  150    0 6c Kd
+SpicyF    963655036  6  1 Bf  -     -     -         1185    5    0 
+SpicyF    963655066  7  7 cc  f     -     -         1180   40    0 
+SpicyF    963655107  7  6 cc  cc    c     f         1140  100    0 
+SpicyF    963655166  7  5 rr  rr    rr    c         1040  180  485 Qc Qs
+SpicyF    963655238  7  4 f   -     -     -         1345    0    0 
+SpicyF    963655268  6  3 cc  c     ccc   rc        1345  190  625 Js Th
+SpicyF    963655339  6  2 Bc  f     -     -         1780   20    0 
+SpicyF    963655359  6  1 Bc  kf    -     -         1760   20    0 
+SpicyF    963655416  6  6 f   -     -     -         1740    0    0 
+SpicyF    963655566  6  5 f   -     -     -         1740    0    0 
+SpicyF    963655593  6  5 r   b     b     b         1740   70  125 
+SpicyF    963655615  7  4 f   -     -     -         1795    0    0 
+SpicyF    963655643  7  3 c   kc    c     k         1795   40    0 Td Qs
+SpicyF    963655687  7  2 B   -     -     -         1755   10   15 
+SpicyF    963655697  7  1 Bf  -     -     -         1760    5    0 
+SpicyF    963655738  7  7 f   -     -     -         1755    0    0 
+SpicyF    963655770  7  6 cc  b     -     -         1755   30   90 
+SpicyF    963655810  7  5 f   -     -     -         1815    0    0 
+SpicyF    963655852  7  4 r   k     b     rr        1815  120  250 Ad Kh
+SpicyF    963655900  9  3 f   -     -     -         1945    0    0 
+SpicyF    963655927  9  2 Bc  kc    kf    -         1945   30    0 
+SpicyF    963656004 10  1 Bc  bc    kc    kc        1915   80    0 Tc 9h
+SpicyF    963656062  9  9 f   -     -     -         1835    0    0 
+SpicyF    963656127  9  8 c   c     k     f         1835   20    0 
+SpicyF    963656172  9  7 r   r     b     b         1815   80  170 
+SpicyF    963656230  9  6 f   -     -     -         1905    0    0 
+SpicyF    963656243  9  5 f   -     -     -         1905    0    0 
+SpicyF    963656268  9  4 f   -     -     -         1905    0    0 
+SpicyF    963656304  9  3 f   -     -     -         1905    0    0 
+SpicyF    963656375 10  2 Bc  kc    kc    kc        1905   70    0 3d 6h
+SpicyF    963656419 10  1 Bc  kf    -     -         1835   20    0 
+SpicyF    963656464 10 10 c   c     c     f         1815   40    0 
+SpicyF    963656538 10  9 c   r     b     k         1775   60  205 Ah Jc
+SpicyF    963656599 10  8 f   -     -     -         1920    0    0 
+SpicyF    963656667  9  6 f   -     -     -         1920    0    0 
+SpicyF    963656700  9  5 c   f     -     -         1920   10    0 
+SpicyF    963656745  9  4 f   -     -     -         1910    0    0 
+SpicyF    963656793 10  3 f   -     -     -         1910    0    0 
+SpicyF    963656850 10  2 Bc  kf    -     -         1910   20    0 
+SpicyF    963656892 10  1 Bf  -     -     -         1890    5    0 
+SpicyF    963656956 10 10 c   c     k     f         1885   20    0 
+SpicyF    963657011 10  9 f   -     -     -         1865    0    0 
+SpicyF    963657072 10  8 r   r     rc    c         1865  120    0 Ah Ac
+SpicyF    963657140 10  7 f   -     -     -         1745    0    0 
+SpicyF    963657226 10  6 f   -     -     -         1745    0    0 
+SpicyF    963657296 10  5 f   -     -     -         1745    0    0 
+SpicyF    963657362 10  4 cc  kf    -     -         1745   20    0 
+SpicyF    963657480 10  3 f   -     -     -         1725    0    0 
+SpicyF    963657568  9  2 Bk  k     k     b         1725   30   50 
+SpicyF    963657617  9  1 Bf  -     -     -         1745    5    0 
+SpicyF    963657663 10 10 c   b     b     b         1740   60  125 
+SpicyF    963657709 10  9 f   -     -     -         1805    0    0 
+SpicyF    963657742 10  8 r   r     b     c         1805   80    0 Jc 8h
+SpicyF    963657791 10  8 cc  c     b     b         1725   70  150 
+SpicyF    963657831 10  6 f   -     -     -         1805    0    0 
+SpicyF    963657876 10  5 c   k     c     f         1805   40    0 
+SpicyF    963657935 10  4 f   -     -     -         1765    0    0 
+SpicyF    963658037 10  3 c   cc    kf    -         1765   30    0 
+SpicyF    963658113 10  2 Bk  f     -     -         1735   10    0 
+SpicyF    963658159 10  1 Bc  bc    kc    kc        1725   70   80 4h 8c
+SpicyF    963658210 10 10 f   -     -     -         1735    0    0 
+SpicyF    963658265 10  9 rc  c     f     -         1735   40    0 
+SpicyF    963658349 10  8 c   k     c     bc        1695   80    0 Jc Td
+SpicyF    963658447 10  7 f   -     -     -         1615    0    0 
+SpicyF    963658489 10  6 f   -     -     -         1615    0    0 
+SpicyF    963658530 10  5 f   -     -     -         1615    0    0 
+SpicyF    963658616 10  4 f   -     -     -         1615    0    0 
+SpicyF    963658670 10  3 f   -     -     -         1615    0    0 
+SpicyF    963658766 10  2 Bk  kf    -     -         1615   10    0 
+SpicyF    963658795 10  1 Bc  kc    kc    kf        1605   50    0 
+SpicyF    963658878 10 10 r   k     c     c         1555   60  130 Ts Th
+SpicyF    963658917 10  9 c   c     rf    -         1625   60    0 
+SpicyF    963658985 10  8 f   -     -     -         1565    0    0 
+SpicyF    963659037 10  7 c   k     b     bc        1565   70    0 9h 8c
+SpicyF    963659088 10  6 r   r     b     b         1495   80    0 8c 6c
+SpicyF    963659166 10  5 r   b     -     -         1415   30  125 
+SpicyF    963659228 10  4 rr  brc   b     b         1510  120    0 Ts 6s
+SpicyF    963659318 10  3 rr  b     bc    kc        1390  110    0 2d 8s
+SpicyF    963659377 10  2 Br  br    br    b         1280  130    0 4h 7h
+SpicyF    963659444 10  1 Br  b     br    brc       1150  170  390 Ah 7s
+SpicyF    963659507 10 10 rr  b     b     b         1370   90  195 7d 8d
+SpicyF    963659548 10  9 r   b     -     -         1475   30   75 
+SpicyF    963659593 10  8 f   -     -     -         1520    0    0 
+SpicyF    963659641 10  7 r   rc    c     c         1520   90  220 Kd Qs
+SpicyF    963659684  8  5 f   -     -     -         1650    0    0 
+SpicyF    963659726  8  4 r   rc    cc    cc        1650  200    0 Js Jd
+SpicyF    963659803  9  4 f   -     -     -         1450    0    0 
+SpicyF    963659863 10  3 rc  kc    kr    b         1450  100    0 6c 6s
+SpicyF    963659912 10  2 Bc  kcf   -     -         1350   30    0 
+SpicyF    963659997 10  1 Bc  kcc   kc    kf        1320   70    0 
+SpicyF    963660056 10 10 c   rc    c     bc        1250  110    0 5h Jh
+SpicyF    963660106 10  9 f   -     -     -         1140    0    0 
+SpicyF    963660146 10  8 r   b     bc    c         1140   90    0 Jd Ah
+SpicyF    963660200 10  7 r   r     k     f         1050   50    0 
+SpicyF    963660253 10  6 f   -     -     -         1000    0    0 
+SpicyF    963660289 10  5 f   -     -     -         1000    0    0 
+SpicyF    963660361 10  4 f   -     -     -         1000    0    0 
+SpicyF    963660388 10  3 fQ  -     -     -         1000    0    0 
+SpicyF    963743556 10  1 Br  -     -     -         1000   20   30 
+SpicyF    963743575 10 10 c   f     -     -         1010   10    0 
+SpicyF    963743620 10  9 c   c     c     c         1000   60    0 Qh 6h
+SpicyF    963743652 10  8 c   f     -     -          940   20    0 
+SpicyF    963743678  9  6 c   b     b     -          920   40   75 
+SpicyF    963743698  9  5 r   b     -     -          955   30   85 
+SpicyF    963743724  9  5 f   -     -     -         1010    0    0 
+SpicyF    963743753  8  3 c   bc    bf    -         1010   50    0 
+SpicyF    963743802  8  2 Bc  kc    kc    b          960   70    0 3d 5c
+SpicyF    963743828  9  1 Bf  -     -     -          890    5    0 
+SpicyF    963743869  9  9 r   b     b     b          885   80  195 
+SpicyF    963743903  9  8 f   -     -     -         1000    0    0 
+SpicyF    963743940  9  7 cc  c     c     f         1000   50    0 
+SpicyF    963743961  9  6 r   b     -     -          950   30   55 
+SpicyF    963743994  9  5 c   b     brc   k          975  100  215 Jh Th
+SpicyF    963744026  9  4 f   -     -     -         1090    0    0 
+SpicyF    963744050 10  3 f   -     -     -         1090    0    0 
+SpicyF    963744130 10  2 Bf  -     -     -         1090   10    0 
+SpicyF    963744195 10  1 Bf  -     -     -         1080    5    0 
+SpicyF    963744259 10 10 c   c     c     c         1075   70    0 As 9d
+SpicyF    963744308 10 10 f   -     -     -         1005    0    0 
+SpicyF    963744369  9  8 c   k     k     f         1005   10    0 
+SpicyF    963744427 10  7 f   -     -     -          995    0    0 
+SpicyF    963744440 10  6 f   -     -     -          995    0    0 
+SpicyF    963744481 10  5 c   c     f     -          995   30    0 
+SpicyF    963744543 10  4 f   -     -     -          965    0    0 
+SpicyF    963744558 10  3 f   -     -     -          965    0    0 
+SpicyF    963744609 10  2 Bc  kf    -     -          965   20    0 
+SpicyF    963744668 10  1 Bc  kc    kc    kf         945   50    0 
+SpicyF    963744750 10 10 c   rr    rc    c          895  140    0 Ks Jc
+SpicyF    963744823 10  9 c   c     c     b          755   60  125 
+SpicyF    963744883  9  8 r   -     -     -          820   20   35 
+SpicyF    963744896  9  6 c   f     -     -          835   10    0 
+SpicyF    963744916  9  5 c   b     -     -          825   20   35 
+SpicyF    963744943  9  4 c   b     -     -          840   20   45 
+SpicyF    963744966  9  3 f   -     -     -          865    0    0 
+SpicyF    963745021  9  2 Bk  k     b     bf         865   50    0 
+SpicyF    963745056  9  1 Bc  kc    kc    kc         815   70    0 9d Ah
+SpicyF    963745142  9  9 f   -     -     -          745    0    0 
+SpicyF    963745178  9  8 r   rr    r     b          745  120    0 Td Kh
+SpicyF    963745266  9  7 rr  b     r     r          625  130  320 8d 3c
+SpicyF    963745314  8  5 rr  b     b     br         815  130    0 9h Ah
+SpicyF    963745357  8  5 r   b     b     -          685   50   95 
+SpicyF    963745380  8  4 rr  b     brc   r          730  170    0 3h Jh
+SpicyF    963745438  8  3 r   b     b     b          560   70    0 8d Td
+SpicyF    963745456  8  2 B   -     -     -          490   10   15 
+SpicyF    963745467  8  1 Br  -     -     -          495   20   30 
+SpicyF    963745479  8  8 r   r     b     b          505   80    0 6h 3c
+SpicyF    963745505  8  7 r   b     b     -          425   50  105 
+SpicyF    963745530  8  6 r   b     b     b          480   70    0 2d 9s
+SpicyF    963745566  8  5 r   -     -     -          410   20   35 
+SpicyF    963745576  8  4 r   b     br    r          425  130    0 Ac 3s
+SpicyF    963745611  8  3 r   -     -     -          295   20   35 
+SpicyF    963745621  8  2 Brc brc   brc   brc        310  240    0 2s 7s
+SpicyF    963745672  8  1 Br  brcA  -     -           70   70    0 7c Ad
+SpicyF    963798033 10  8 f   -     -     -         1000    0    0 
+SpicyF    963798087 10  7 c   r     b     c         1000   70    0 5s 4s
+SpicyF    963798158 10  6 c   c     c     c          930   60    0 Ks 8s
+SpicyF    963798208 10  5 rr  b     b     b          870   90  270 Kc Kh
+SpicyF    963798340  8  3 c   k     kc    kf        1050   30    0 
+SpicyF    963798394  9  2 Bc  kc    kf    -         1020   30    0 
+SpicyF    963798433  9  1 Bf  -     -     -          990    5    0 
+SpicyF    963798447  9  9 c   b     c     k          985   50   72 7h 8c
+SpicyF    963798520  9  8 f   -     -     -         1007    0    0 
+SpicyF    963798579  9  7 f   -     -     -         1007    0    0 
+SpicyF    963798627  9  6 f   -     -     -         1007    0    0 
+SpicyF    963798690  9  5 r   rc    c     c         1007  100    0 Qs Qd
+SpicyF    963798759 10  5 f   -     -     -          907    0    0 
+SpicyF    963798817 10  4 r   br    b     k          907   70    0 Ac Kc
+SpicyF    963798889 10  3 rr  r     -     -          837   60  122 As Ks
+SpicyF    963798912  9  1 Bk  kf    -     -          899   10    0 
+SpicyF    963798953 10  1 Bf  -     -     -          889    5    0 
+SpicyF    963798996 10 10 c   b     b     -          884   40   80 
+SpicyF    963799046 10  9 f   -     -     -          924    0    0 
+SpicyF    963799092 10  8 r   b     b     bc         924   90  245 Ah Qh
+SpicyF    963799151 10  7 f   -     -     -         1079    0    0 
+SpicyF    963799220 10  6 f   -     -     -         1079    0    0 
+SpicyF    963799251 10  5 c   r     b     br        1079  110  390 7s 7d
+SpicyF    963799311  9  3 f   -     -     -         1359    0    0 
+SpicyF    963799350  9  2 Bf  -     -     -         1359   10    0 
+SpicyF    963799405  9  1 Bc  bcc   kc    kc        1349   90    0 8c Kh
+SpicyF    963799508  8  8 r   b     b     k         1259   50    0 Ah 4s
+SpicyF    963799578  8  7 rc  kc    kc    kc        1209   80  175 Kh 8h
+SpicyF    963799610  8  6 cc  kc    kc    kc        1304   70  225 Kd 5d
+SpicyF    963799688  8  5 r   k     b     k         1459   40  110 Kd Ks
+SpicyF    963799733  8  4 f   -     -     -         1529    0    0 
+SpicyF    963799751  8  3 f   -     -     -         1529    0    0 
+SpicyF    963799771  8  2 Bc  kc    kf    -         1529   30    0 
+SpicyF    963799826  8  1 Bf  -     -     -         1499    5    0 
+SpicyF    963799878  9  9 f   -     -     -         1494    0    0 
+SpicyF    963799899  9  8 r   c     rc    b         1494  110  210 
+SpicyF    963799933 10  8 f   -     -     -         1594    0    0 
+SpicyF    963799967 10  7 c   b     b     -         1594   40   85 
+SpicyF    963800025 10  6 f   -     -     -         1639    0    0 
+SpicyF    963800057 10  5 f   -     -     -         1639    0    0 
+SpicyF    963800139 10  4 f   -     -     -         1639    0    0 
+SpicyF    963800200 10  3 f   -     -     -         1639    0    0 
+SpicyF    963800241 10  2 Bc  kf    -     -         1639   20    0 
+SpicyF    963800258 10  1 Bcc kf    -     -         1619   20    0 
+SpicyF    963800304 10 10 f   -     -     -         1599    0    0 
+SpicyF    963800346 10  9 f   -     -     -         1599    0    0 
+SpicyF    963800361 10  8 f   -     -     -         1599    0    0 
+SpicyF    963800405 10  7 cc  r     b     b         1599   80    0 Td Jh
+SpicyF    963800441 10  6 cf  -     -     -         1519   10    0 
+SpicyF    963800483 10  5 cc  kf    -     -         1509   20    0 
+SpicyF    963800508 10  4 c   b     br    b         1489  100  215 Tc Jc
+SpicyF    963800550 10  3 f   -     -     -         1604    0    0 
+SpicyF    963800582 10  2 Br  br    kc    kf        1604   70    0 
+SpicyF    963800646 10  1 Bc  k     b     -         1534   30   50 
+SpicyF    963800681 10 10 rc  c     c     b         1554   80  150 
+SpicyF    963800730 10  9 cc  kf    -     -         1624   20    0 
+SpicyF    963800785 10  8 rc  ccc   f     -         1604   80    0 
+SpicyF    963800870 10  7 f   -     -     -         1524    0    0 
+SpicyF    963800934 10  6 f   -     -     -         1524    0    0 
+SpicyF    963801004 10  5 f   -     -     -         1524    0    0 
+SpicyF    963801046 10  4 f   -     -     -         1524    0    0 
+SpicyF    963801098 10  3 c   kc    kr    b         1524   80    0 5s 5c
+SpicyF    963801173 10  2 Bc  k     kc    kc        1444   60  145 5s 3s
+SpicyF    963801213 10  1 Bf  -     -     -         1529    5    0 
+SpicyF    963801302  9  9 f   -     -     -         1524    0    0 
+SpicyF    963801334  9  8 f   -     -     -         1524    0    0 
+SpicyF    963801362  9  7 cc  kc    kc    kf        1524   50    0 
+SpicyF    963801395 10  7 f   -     -     -         1474    0    0 
+SpicyF    963801424  9  5 f   -     -     -         1474    0    0 
+SpicyF    963801481  9  4 rc  kc    kf    -         1474   40    0 
+SpicyF    963801536  9  2 Bf  -     -     -         1434   10    0 
+SpicyF    963801575  9  1 Bcc kc    kc    kc        1424   70    0 Ks 5h
+SpicyF    963801615 10 10 r   rc    c     k         1354   80    0 Ks Qd
+SpicyF    963801693 10  9 c   f     -     -         1274   10    0 
+SpicyF    963801719 10  8 rr  br    ccc   bc        1264  200  695 Kh Ac
+SpicyF    963801794  9  7 c   f     -     -         1759   10    0 
+SpicyF    963801867 10  6 f   -     -     -         1749    0    0 
+SpicyF    963801924 10  5 c   k     kf    -         1749   10    0 
+SpicyF    963801980 10  4 f   -     -     -         1739    0    0 
+SpicyF    963802051 10  3 f   -     -     -         1739    0    0 
+SpicyF    963802094 10  2 Bf  -     -     -         1739   10    0 
+SpicyF    963802134  9  1 Bcc kcc   kc    k         1729  100    0 9s 6s
+SpicyF    963802183  9  9 f   -     -     -         1629    0    0 
+SpicyF    963802217  9  8 f   -     -     -         1629    0    0 
+SpicyF    963802265 10  8 f   -     -     -         1629    0    0 
+SpicyF    963802332 10  7 cc  b     b     b         1629   70  135 
+SpicyF    963802375 10  6 c   b     b     k         1694   40  175 6h Ac
+SpicyF    963802446 10  5 f   -     -     -         1829    0    0 
+SpicyF    963802488  9  3 f   -     -     -         1829    0    0 
+SpicyF    963802533  9  2 Bc  kcc   kf    -         1829   60    0 
+SpicyF    963802579  9  1 Bf  -     -     -         1769    5    0 
+SpicyF    963802619  9  9 c   c     f     -         1764   30    0 
+SpicyF    963802663  9  8 f   -     -     -         1734    0    0 
+SpicyF    963802703  8  6 f   -     -     -         1734    0    0 
+SpicyF    963802756  8  5 cc  bc    k     kc        1734   60  145 9d Kc
+SpicyF    963802807  8  4 f   -     -     -         1819    0    0 
+SpicyF    963802837  8  3 f   -     -     -         1819    0    0 
+SpicyF    963802903  8  2 Bk  b     b     -         1819   40   90 
+SpicyF    963802939  9  1 Bf  -     -     -         1869    5    0 
+SpicyF    963803101  9  9 c   f     -     -         1864   10    0 
+SpicyF    963803217 10  9 c   r     b     k         1854   60  190 3c Ah
+SpicyF    963803288  9  7 f   -     -     -         1984    0    0 
+SpicyF    963803338 10  6 cc  f     -     -         1984   30    0 
+SpicyF    963803455  9  6 rc  rr    c     b         1954  110    0 Qh 8h
+SpicyF    963803516  8  4 f   -     -     -         1844    0    0 
+SpicyF    963803538 10  3 f   -     -     -         1844    0    0 
+SpicyF    963803583 10  2 Br  b     b     b         1844   70    0 Ad Kc
+SpicyF    963803630  8  1 Bf  -     -     -         1774    5    0 
+SpicyF    963803668  8  8 r   b     -     -         1769   30   60 
+SpicyF    963803692  8  7 r   rr    b     -         1799   80  145 
+SpicyF    963803716  8  6 f   -     -     -         1864    0    0 
+SpicyF    963803752  8  5 r   b     b     b         1864   70  155 
+SpicyF    963803797  9  3 f   -     -     -         1949    0    0 
+SpicyF    963803860  9  3 f   -     -     -         1949    0    0 
+SpicyF    963803886 10  2 Bc  r     b     b         1949   80    0 Qc 5h
+SpicyF    963803925 10  1 Br  b     -     -         1869   30   60 
+SpicyF    963803953 10 10 c   cc    k     c         1899   70    0 7c 8c
+SpicyF    963804002 10  9 cc  f     -     -         1829   30    0 
+SpicyF    963804046 10  8 cc  c     c     c         1799   70    0 Td 8d
+SpicyF    963804124 10  7 f   -     -     -         1729    0    0 
+SpicyF    963804138 10  6 f   -     -     -         1729    0    0 
+SpicyF    963804182 10  5 r   b     b     -         1729   50   95 
+SpicyF    963804206 10  4 f   -     -     -         1774    0    0 
+SpicyF    963804251 10  3 r   b     b     -         1774   50  155 
+SpicyF    963804280 10  2 Bf  -     -     -         1879   10    0 
+SpicyF    963804304  9  1 Bc  kf    -     -         1869   10    0 
+SpicyF    963804357  9  9 f   -     -     -         1859    0    0 
+SpicyF    963804374  9  8 r   -     -     -         1859   20   35 
+SpicyF    963804394  9  7 cc  c     f     -         1874   30    0 
+SpicyF    963804447  9  6 r   b     -     -         1844   30   55 
+SpicyF    963804478  9  5 f   -     -     -         1869    0    0 
+SpicyF    963804528  9  4 c   rc    c     c         1869   80    0 As 5h
+SpicyF    963804580  9  3 ccc br    kc    k         1789  110  460 9d 8d
+SpicyF    963804676 10  2 Bk  k     k     kc        2139   30    0 5d Ac
+SpicyF    963804737 10  1 Bf  -     -     -         2109    5    0 
+SpicyF    963804781  9  9 f   -     -     -         2104    0    0 
+SpicyF    963804827  9  8 f   -     -     -         2104    0    0 
+SpicyF    963804837  9  7 f   -     -     -         2104    0    0 
+SpicyF    963804891  7  5 f   -     -     -         2104    0    0 
+SpicyF    963804919  8  4 f   -     -     -         2104    0    0 
+SpicyF    963804973  8  3 Q   -     -     -         2104    0    0 
+SpicyF    963838268 10  3 r   b     b     b        21573   70  280 Jc Jd
+SpicyF    963838328 10  2 Bf  -     -     -        21783   10    0 
+SpicyF    963838367 10  1 Bf  Q     -     -        21773    5    0 
+SpicyF    963864625 10  2 Br  br    bc    k        29559  110  445 Tc Th
+SpicyF    963864700  9  1 Bc  kf    -     -        29894   10    0 
+SpicyF    963864731  9  9 f   -     -     -        29884    0    0 
+SpicyF    963864777 10  9 f   Q     -     -        29884    0    0 
+SpicyF    964019743  9  3 c   f     -     -       332548   10    0 
+SpicyF    964019793  9  2 Bk  kf    -     -       332538   10    0 
+SpicyF    964019855 10  1 Br  b     b     kc      332528   80    0 Td Tc
+SpicyF    964019912  9  9 cc  f     -     -       332448   20    0 
+SpicyF    964020031 10  9 c   r     rc    rr      332428  210  645 4s 8s
+SpicyF    964020083 10  8 f   -     -     -       332863    0    0 
+SpicyF    964020129  9  6 rc  kc    kc    k       332863   60    0 8s Qs
+SpicyF    964020200  9  5 c   r     b     b       332803   70  140 
+SpicyF    964020248  9  4 r   k     r     cf      332873   80    0 
+SpicyF    964020317  9  4 f   -     -     -       332793    0    0 
+SpicyF    964020341 10  3 cc  krr   br    b       332793  140  295 7c Kc
+SpicyF    964020392 10  2 Bk  kc    kf    -       332948   20    0 
+SpicyF    964020443 10  1 Bf  -     -     -       332928    5    0 
+SpicyF    964020468 10 10 c   f     -     -       332923   10    0 
+SpicyF    964020505  9  8 c   r     b     b       332913   80  245 Jd 4d
+SpicyF    964020568 10  8 f   -     -     -       333078    0    0 
+SpicyF    964020617 10  7 c   f     -     -       333078   10    0 
+SpicyF    964020661 10  6 r   b     b     brc     333068  130  360 5c Ac
+SpicyF    964020750 10  5 c   k     b     b       333298   50    0 3c 2h
+SpicyF    964020833 10  4 f   -     -     -       333248    0    0 
+SpicyF    964020871 10  3 f   -     -     -       333248    0    0 
+SpicyF    964020907 10  2 Bk  k     b     b       333248   50    0 7h Kd
+SpicyF    964020948 10  1 Bf  -     -     -       333198    5    0 
+SpicyF    964021009 10 10 f   -     -     -       333193    0    0 
+SpicyF    964021058 10  9 f   -     -     -       333193    0    0 
+SpicyF    964021121 10  8 f   -     -     -       333193    0    0 
+SpicyF    964021183 10  7 f   -     -     -       333193    0    0 
+SpicyF    964021208 10  6 f   -     -     -       333193    0    0 
+SpicyF    964021251 10  5 f   -     -     -       333193    0    0 
+SpicyF    964021283 10  4 f   -     -     -       333193    0    0 
+SpicyF    964021312 10  3 f   -     -     -       333193    0    0 
+SpicyF    964021353 10  2 Bf  -     -     -       333193   10    0 
+SpicyF    964021369 10  1 Bf  -     -     -       333183    5    0 
+SpicyF    964021404 10 10 f   -     -     -       333178    0    0 
+SpicyF    964021440 10  9 f   -     -     -       333178    0    0 
+SpicyF    964021496 10  8 f   -     -     -       333178    0    0 
+SpicyF    964021513 10  7 f   -     -     -       333178    0    0 
+SpicyF    964021551 10  6 f   -     -     -       333178    0    0 
+SpicyF    964021578 10  5 f   -     -     -       333178    0    0 
+SpicyF    964021634 10  4 r   b     b     -       333178   50  145 
+SpicyF    964021672 10  3 r   b     b     -       333273   50   95 
+SpicyF    964021699 10  2 Bk  Q     -     -       333318   10    0 
+SpicyF    964100140  3  3 c   b     brc   f       169929  100    0 
+SpicyF    964100186  5  4 r   b     -     -       169829   30   65 
+SpicyF    964100196  5  3 r   br    b     b       169864   90    0 As 3d
+SpicyF    964100222  6  2 Br  b     b     k       169774   50  230 Ks Kc
+SpicyF    964100267  6  1 Bc  kc    k     b       169954   40    0 5s 8c
+SpicyF    964100295  6  6 r   r     k     f       169914   40    0 
+SpicyF    964100325  6  5 f   -     -     -       169874    0    0 
+SpicyF    964100355  6  4 r   b     k     bc      169874   70    0 9h Kc
+SpicyF    964100407  4  2 r   b     b     k       169804   50  120 9s 9d
+SpicyF    964100431  4  2 Bk  kc    k     kc      169874   40  110 3s 7d
+SpicyF    964100470  4  1 Br  bc    kc    k       169944   60    0 Ks Ad
+SpicyF    964100499  4  4 cc  f     -     -       169884   20    0 
+SpicyF    964100530  4  3 r   bc    Q     -       169864   40    0 
+SpicyF    964429277  9  6 rc  f     -     -         1000   40    0 
+SpicyF    964429355  8  5 f   -     -     -          960    0    0 
+SpicyF    964429414  8  3 cc  kf    -     -          960   20    0 
+SpicyF    964429481  7  2 Bk  kc    bc    kc         940   80  180 Kd Jd
+SpicyF    964429546  7  1 Bc  k     kc    bf        1040   50    0 
+SpicyF    964429613  8  8 f   -     -     -          990    0    0 
+SpicyF    964429645  8  7 r   b     b     k          990   50  205 Kc 5c
+SpicyF    964429704  8  6 rc  b     f     -         1145   50    0 
+SpicyF    964429783  8  5 r   bc    rc    kc        1095  120  420 Qd Jd
+SpicyF    964429843  8  4 f   -     -     -         1395    0    0 
+SpicyF    964429897  8  3 rc  c     f     -         1395   40    0 
+SpicyF    964429931  8  2 Bk  k     k     kf        1355   10    0 
+SpicyF    964430033  7  1 Bf  -     -     -         1345    5    0 
+SpicyF    964430061  8  8 c   b     b     r         1340   80  180 
+SpicyF    964430137  8  7 f   -     -     -         1440    0    0 
+SpicyF    964430203  7  5 r   b     c     k         1440   50  205 Kd As
+SpicyF    964430261  8  5 f   -     -     -         1595    0    0 
+SpicyF    964430309  8  4 c   b     b     -         1595   40  100 
+SpicyF    964430368  8  3 f   -     -     -         1655    0    0 
+SpicyF    964430436  8  2 Bc  kcc   kc    kf        1655  100    0 
+SpicyF    964430574  8  1 Bcc kc    kc    kf        1555   50    0 
+SpicyF    964430698  8  8 f   -     -     -         1505    0    0 
+SpicyF    964430794  8  7 c   b     b     b         1505   60  140 7c Ah
+SpicyF    964430863  9  7 f   -     -     -         1585    0    0 
+SpicyF    964430913  9  6 c   b     b     b         1585   70  200 
+SpicyF    964430972  9  5 c   kf    -     -         1715   10    0 
+SpicyF    964431054  9  4 f   -     -     -         1705    0    0 
+SpicyF    964431087  9  3 cc  k     b     -         1705   50  125 
+SpicyF    964431134  9  2 Bk  k     k     k         1780   10    0 8d Ts
+SpicyF    964431203  9  1 Bc  k     b     b         1770   50   90 
+SpicyF    964431271  9  9 r   b     cc    f         1810   90    0 
+SpicyF    964431326  9  8 r   b     b     b         1720   70  145 
+SpicyF    964431378  9  7 r   -     -     -         1795   20   35 
+SpicyF    964431390  8  5 f   -     -     -         1810    0    0 
+SpicyF    964431412  8  4 f   -     -     -         1810    0    0 
+SpicyF    964431444  8  3 f   -     -     -         1810    0    0 
+SpicyF    964431502  8  2 Bk  kc    kf    -         1810   20    0 
+SpicyF    964431581  7  1 Bc  kf    -     -         1790   10    0 
+SpicyF    964431652  9  9 c   k     b     -         1780   30   55 
+SpicyF    964431710  9  8 c   c     c     r         1805   80    0 3h 5c
+SpicyF    964431774  9  7 f   -     -     -         1725    0    0 
+SpicyF    964431826  9  6 r   b     b     b         1725   70  155 
+SpicyF    964431882  9  5 c   kf    -     -         1810   10    0 
+SpicyF    964431945  9  4 f   -     -     -         1800    0    0 
+SpicyF    964431993  9  3 c   kc    k     k         1800   20    0 6h Qh
+SpicyF    964432119  9  2 Bk  kf    -     -         1780   10    0 
+SpicyF    964432162 10  1 Bc  kf    -     -         1770   10    0 
+SpicyF    964432244 10 10 r   b     b     k         1760   50  235 Ts Jc
+SpicyF    964432352 10  9 f   -     -     -         1945    0    0 
+SpicyF    964432401 10  8 f   -     -     -         1945    0    0 
+SpicyF    964432448  9  6 c   f     -     -         1945   10    0 
+SpicyF    964432476  9  5 c   k     k     f         1935   10    0 
+SpicyF    964432529  8  3 f   -     -     -         1925    0    0 
+SpicyF    964432569  8  2 Bk  k     kc    k         1925   30    0 6s As
+SpicyF    964432615  8  1 Bc  kc    kf    -         1895   40    0 
+SpicyF    964432653  9  9 c   rc    c     f         1855   70    0 
+SpicyF    964432724  9  8 f   -     -     -         1785    0    0 
+SpicyF    964432769  9  7 c   bc    f     -         1785   30    0 
+SpicyF    964432821  9  6 r   b     b     br        1755  110    0 Kh 3h
+SpicyF    964432884 10  6 c   f     -     -         1645   10    0 
+SpicyF    964432941 10  5 c   cc    kc    kf        1635   50    0 
+SpicyF    964432999 10  4 cc  bc    b     -         1585   60  185 
+SpicyF    964433042 10  3 c   b     kc    kc        1710   60  155 Ad 5c
+SpicyF    964433072 10  2 Bf  -     -     -         1805   10    0 
+SpicyF    964433097 10  1 Bc  b     -     -         1795   20   30 
+SpicyF    964433140 10 10 c   c     c     f         1805   40    0 
+SpicyF    964433201 10  9 c   r     b     b         1765   80  205 
+SpicyF    964433247 10  8 f   -     -     -         1890    0    0 
+SpicyF    964433273 10  7 r   bc    b     b         1890   80    0 9c 7h
+SpicyF    964433323 10  6 c   k     k     b         1810   30   80 4s 6c
+SpicyF    964433370 10  5 r   b     b     b         1860   70  225 Ac As
+SpicyF    964433413 10  4 f   Q     -     -         2015    0    0 
+SpicyF    964494140  8  3 r   rr    b     b         1000  100  310 Kc Jd
+SpicyF    964494211  8  2 Bc  k     k     k         1210   20   65 5h As
+SpicyF    964494265 10  1 Bc  kc    b     b         1255   70    0 Kd Jd
+SpicyF    964494319 10 10 r   b     b     b         1185   70  155 
+SpicyF    964494362 10  9 f   -     -     -         1270    0    0 
+SpicyF    964494413 10  8 rc  rr    b     k         1270   90  240 8d Jh
+SpicyF    964494460 10  7 f   -     -     -         1420    0    0 
+SpicyF    964494496 10  6 f   -     -     -         1420    0    0 
+SpicyF    964494535 10  5 rc  rc    c     c         1420  100  315 5c 6d
+SpicyF    964494589 10  4 f   -     -     -         1635    0    0 
+SpicyF    964494631  9  3 rc  f     -     -         1635   30    0 
+SpicyF    964494656  9  2 Bf  -     -     -         1605   10    0 
+SpicyF    964494698  9  1 Bc  k     bc    kc        1595   80    0 As 9d
+SpicyF    964494743  9  9 c   r     r     b         1515  100  265 
+SpicyF    964494811  9  8 f   -     -     -         1680    0    0 
+SpicyF    964494843  9  7 r   b     b     -         1680   50  115 
+SpicyF    964494880  9  6 c   r     k     rf        1745   80    0 
+SpicyF    964494959  9  5 c   c     f     -         1665   20    0 
+SpicyF    964494987  9  4 f   -     -     -         1645    0    0 
+SpicyF    964495015  9  3 r   b     b     b         1645   70    0 As 6c
+SpicyF    964495038  9  2 Bk  kf    -     -         1575   10    0 
+SpicyF    964495083  8  1 Bc  k     b     b         1565   50    0 6s As
+SpicyF    964495119  9  9 f   -     -     -         1515    0    0 
+SpicyF    964495135  9  8 c   b     br    c         1515  100    0 2c 6c
+SpicyF    964495187  9  7 f   -     -     -         1415    0    0 
+SpicyF    964495200  9  6 r   k     kf    -         1415   30    0 
+SpicyF    964495251  9  5 f   -     -     -         1385    0    0 
+SpicyF    964495332  9  4 cc  kc    kf    -         1385   30    0 
+SpicyF    964495385 10  4 f   -     -     -         1285    0    0 
+SpicyF    964495430 10  2 Bk  bc    brc   kc        1165  130    0 Ad 7s
+SpicyF    964495479 10  1 Bc  k     kc    kc        1035   70    0 4c 2c
+SpicyF    964495551 10 10 c   f     -     -         1020   10    0 
+SpicyF    964495616  9  5 Q   -     -     -         1010    0    0 
+SpicyF    964523414 10  2 Bc  b     b     k         2987   50  118 6d 4h
+SpicyF    964523456 10  1 Bc  Q     -     -         3055   10    0 
+SpicyF    964525708  7  6 f   -     -     -         1000    0    0 
+SpicyF    964525768  7  5 f   -     -     -         1000    0    0 
+SpicyF    964525833  6  3 f   -     -     -         1100    0    0 
+SpicyF    964525872  6  2 Bf  -     -     -         1100   10    0 
+SpicyF    964525913  6  1 Bf  Q     -     -         1390    5    0 
+SpicyF    964737552  3  3 r   b     br    rf        1000  130    0 
+SpicyF    964737587  4  2 Br  Q     -     -          870   20    0 
+SpicyF    964795436  2  1 Brr brc   brc   krr        850  240  460 
+SpicyF    964795464  2  2 Brc rr    rr    b         2070  180  340 
+SpicyF    964795501  3  1 Br  -     -     -         2230   20   30 
+SpicyF    964795528  2  1 Brr brc   brc   br        2240  220  420 
+SpicyF    964795556  2  2 Brc rr    rr    r         2440  200  380 
+SpicyF    964795588  2  1 Br  -     -     -         2620   20   30 
+SpicyF    964795593  2  2 Brc rr    rr    r         2630  200  380 
+SpicyF    964795625  2  1 Br  k     b     -         2810   40   60 
+SpicyF    964795646  2  2 B   -     -     -         2830   10   15 
+SpicyF    964795651  2  1 Br  -     -     -         2835   20    5 Qd 4c
+SpicyF    964795654  2  2 Bc  c     -     -         2820   30    0 Qc 5s
+SpicyF    964795669  2  1 Br  b     -     -         2790   30   50 
+SpicyF    964795680  2  2 Bc  r     -     -         2810   40    0 3h Ac
+SpicyF    964795690  2  1 Br  b     b     b         2770   70  120 
+SpicyF    964795710  2  2 B   -     -     -         2820   10   15 
+SpicyF    964795714  2  1 Br  -     -     -         2825   20   30 
+SpicyF    964795720  2  2 B   -     -     -         2835   10   15 
+SpicyF    964795725  2  1 Bc  -     -     -         2840   10    0 7h 9c
+SpicyF    964795728  2  2 Bc  -     -     -         2830   20    0 Kd 8h
+SpicyF    964795736  2  1 Brr -     -     -         2810   40   80 Qh Qd
+SpicyF    964819146 10  5 c   rr    bc    kc        1000  120    0 4s 6h
+SpicyF    964819231 10  4 cc  Q     -     -          880   40    0 
+SpicyF    964898254 10  3 Q   -     -     -         1000    0    0 
+SpicyF    964927578  5  3 rc  b     b     b         1000   80    0 Qd 8d
+SpicyF    964927609  6  2 Bf  -     -     -          920   10    0 
+SpicyF    964927640  6  1 Bc  kf    -     -          910   20    0 
+SpicyF    964927695  6  6 rKQ -     -     -          890   20    0 
+SpicyF    964927809  8  6 rc  rc    rc    b          870  180  545 
+SpicyF    964927899  9  6 cr  rc    br    br        1235  220    4 9c 5d
+SpicyF    964988816 10  7 Q   -     -     -         1000    0    0 
+SpicyF    964998775 10  4 cc  f     -     -         1000   20    0 
+SpicyF    964998854 10  3 cc  b     b     bcc        980  130    0 Kc 9s
+SpicyF    964998905 10  2 Brc b     br    b          850  130    0 2d 3h
+SpicyF    964998992 10  1 Br  br    b     b          720   90  220 Kd Th
+SpicyF    964999025 10 10 r   b     -     -          850   30  115 
+SpicyF    964999067 10  9 r   b     b     b          935   80    0 6h 2d
+SpicyF    964999103 10  8 r   b     b     b          855   80  235 7h Js
+SpicyF    964999155 10  7 r   b     -     -         1010   30   65 
+SpicyF    964999185 10  6 rc  k     bc    kc        1045   90  305 Ac 5s
+SpicyF    964999243 10  5 rr  rc    c     kf        1260   90    0 
+SpicyF    964999310 10  4 f   -     -     -         1170    0    0 
+SpicyF    964999374 10  3 rc  br    b     b         1170  100    0 9s Qd
+SpicyF    964999431  9  2 Br  br    b     br        1070  150    0 Kd Jh
+SpicyF    964999497  8  1 Brc br    brc   brc        920  230    0 5c Jc
+SpicyF    964999558  7  7 r   b     b     b          690   80    0 Qd 9d
+SpicyF    964999593  7  6 r   r     b     r          610  120    0 4d Kc
+SpicyF    964999624  7  5 r   b     -     -          490   30   55 
+SpicyF    964999642  7  4 r   b     -     -          515   30   70 
+SpicyF    964999659  7  3 rr  brc   b     b          555  120  530 
+SpicyF    964999722  8  2 Brc brc   brc   brc        965  240    0 5h Qd
+SpicyF    964999761  9  1 Br  b     b     b          725   80    0 Jh Qh
+SpicyF    964999794  8  8 r   br    b     b          645  100  250 
+SpicyF    964999840  8  7 r   -     -     -          795   20   35 
+SpicyF    964999846  8  6 r   b     -     -          810   30   65 
+SpicyF    964999862  8  5 r   b     b     b          845   70    0 5c Th
+SpicyF    964999889  8  4 r   b     b     b          775   70    0 6d 5h
+SpicyF    964999916  8  3 rc  rr    rr    rr         705  240    0 4h 8d
+SpicyF    964999972  8  2 Brc rr    rr    rr         465  240    0 6h Ad
+SpicyF    965000018  7  1 Br  b     b     b          225   80  170 4d Kc
+SpicyF    965000044  7  7 r   brc   rr    r          315  190    0 5s 7s
+SpicyF    965000093  7  6 r   rc    rrA   -          125  125    0 Kh Ad
+SpicyF    965087522 10  9 r   KQ    -     -          585   40    0 
+SpicyF    965088022 10  4 KQ  -     -     -          545    0    0 
+SpicyF    965096112 10  5 rc  rc    f     -          685   70    0 
+SpicyF    965096165  9  3 cc  c     cf    -          710   50    0 
+SpicyF    965096267 10  2 Bc  rr    rr    c          675  170    0 Td Js
+SpicyF    965096335 10  1 Bc  kc    kc    kc         550   80    0 4d 4h
+SpicyF    965096430 10  3 Q   -     -     -          360    0    0 

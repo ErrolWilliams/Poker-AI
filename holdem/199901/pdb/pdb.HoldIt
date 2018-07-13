@@ -1,0 +1,84 @@
+HoldIt    915494145  7  2 Bk  b     bf    -          470   40    0 
+HoldIt    915494236  7  1 Bf  -     -     -          430    5    0 
+HoldIt    915494280  6  6 c   b     -     -          425   20   50 
+HoldIt    915494320  6  6 f   -     -     -          455    0    0 
+HoldIt    915494361  6  5 f   -     -     -          455    0    0 
+HoldIt    915494385  5  5 r   b     b     b          455   70    0 3s 2s
+HoldIt    915494415  4  4 r   b     b     b          385   70  125 
+HoldIt    915494447  3  2 Bc  c     rr    b          440  130  260 8d 9c
+HoldIt    915494477  3  1 Br  b     -     -          570   30   60 
+HoldIt    915494496  3  3 r   -     -     -          600   20   35 
+HoldIt    915494501  3  2 B   -     -     -          615   10   15 
+HoldIt    915494504  3  1 Brc krc   kc    kc         620  110    0 Tc Td
+HoldIt    915494530  3  3 r   rc    rc    r          510  150  305 Tc Ts
+HoldIt    915494559  3  2 Bc  bc    k     b          665   60  120 
+HoldIt    915494595  3  1 Br  b     -     -          725   30   50 
+HoldIt    915494604  3  3 r   b     -     -          745   30   55 
+HoldIt    915494614  3  2 B   -     -     -          770   10   15 
+HoldIt    915494616  3  1 Brr br    b     b          775  110    0 Kc 8s
+HoldIt    915494645  3  3 rr  b     b     b          665   90    0 Js Td
+HoldIt    915494679  3  2 Bc  kc    k     b          575   50  105 6s 9c
+HoldIt    915494700  3  1 Brc krc   k     b          630   90    0 Kh 2h
+HoldIt    915494739  3  3 r   b     k     b          540   50    0 9s Qd
+HoldIt    915494770  3  2 Bk  f     -     -          490   10    0 
+HoldIt    915494793  3  1 Brc kc    k     brc        480  130  270 Jc 5h
+HoldIt    915494821  4  3 f   -     -     -          620    0    0 
+HoldIt    915494903  4  2 Bk  k     b     b          620   50   90 
+HoldIt    915494942  3  1 Br  b     -     -          660   30   60 
+HoldIt    915494952  3  3 r   -     -     -          690   20   35 
+HoldIt    915494957  3  2 Bcc kc    kf    -          705   40    0 
+HoldIt    915494987  3  1 Bc  bc    k     kc         665   50   55 8c Td
+HoldIt    915495007  3  3 c   b     -     -          670   20   35 
+HoldIt    915495026  3  2 Br  k     k     k          685   30   60 7c Ac
+HoldIt    915495051  3  1 Br  b     -     -          715   30   50 
+HoldIt    915495075  2  2 B   -     -     -          735   10   15 
+HoldIt    915495079  2  1 Bcc kr    b     bf         740   80    0 
+HoldIt    915495098  2  2 B   -     -     -          660   10   15 
+HoldIt    915495101  2  1 Bc  b     -     -          665   20   30 
+HoldIt    915495109  2  2 Bf  -     -     -          675   10    0 
+HoldIt    915495113  2  1 Br  br    b     b          665   90    0 8c 9d
+HoldIt    915495127  2  2 B   -     -     -          575   10   15 
+HoldIt    915495132  2  1 Br  -     -     -          580   20   30 
+HoldIt    915495136  2  2 Bc  k     b     -          590   40   60 
+HoldIt    915495145  2  1 Bc  k     b     -          610   30   40 
+HoldIt    915495154  2  2 B   -     -     -          620   10   15 
+HoldIt    915495155  2  1 Bc  kr    b     -          625   50   80 
+HoldIt    915495166  2  2 B   -     -     -          655   10   15 
+HoldIt    915495169  2  1 Brr b     b     b          660   90  180 8h 7s
+HoldIt    915495181  3  3 f   -     -     -          750    0    0 
+HoldIt    915495190  3  2 Br  rc    rc    f          750  140    0 
+HoldIt    915495224  3  1 Bc  kcc   krr   brc        610  220  580 Kd 9h
+HoldIt    915495286  3  3 rc  rc    c     r          970  160  480 As 6h
+HoldIt    915495332  3  2 Bf  -     -     -         1290   10    0 
+HoldIt    915495347  2  1 Brc krc   kc    kc        1280  100  200 9h Js
+HoldIt    915495369  4  2 Br  k     b     b         1380   60  140 Jc Kh
+HoldIt    915495405  4  1 Bc  b     -     -         1460   20   30 
+HoldIt    915495420  4  4 rc  rc    rf    -         1470  110    0 
+HoldIt    915495448  4  3 c   r     c     c         1360   70    0 8s Ks
+HoldIt    915495472  3  2 Bk  f     -     -         1290   10    0 
+HoldIt    915495488  3  1 Bcc kc    kf    -         1280   60    0 
+HoldIt    915495521  3  3 f   -     -     -         1220    0    0 
+HoldIt    915495528  3  2 Bf  -     -     -         1220   10    0 
+HoldIt    915495538  3  1 Bc  kc    kc    kf        1210   50    0 
+HoldIt    915495562  3  3 f   -     -     -         1160    0    0 
+HoldIt    915495566  3  2 Bk  f     -     -         1160   10    0 
+HoldIt    915495574  3  1 Br  br    bc    kc        1150  110  230 2h As
+HoldIt    915495605  4  3 cc  c     r     b         1270   90    0 Qd 6h
+HoldIt    915495626  4  2 Bc  c     c     r         1180   90  180 7h Jh
+HoldIt    915495647  4  1 Bc  bc    krc   krr       1270  190    0 2s Qs
+HoldIt    915495685  4  4 r   -     -     -         1080   20   35 
+HoldIt    915495698  5  3 r   rc    bc    bc        1095  130    0 Ad 4d
+HoldIt    915495739  5  2 Bc  k     kc    k          965   40    0 Jh Qc
+HoldIt    915495769  5  1 Bc  kc    kc    kc         925   60    0 Jd 8d
+HoldIt    915495794  5  5 r   cc    f     -          865   50    0 
+HoldIt    915495825  6  5 r   c     r     b          815   90  205 Jc Ks
+HoldIt    915495861  6  4 cc  c     r     kf         930   70    0 
+HoldIt    915495894  6  3 f   -     -     -          860    0    0 
+HoldIt    915495934  7  2 Bc  bc    k     k          860   40  125 Td 7s
+HoldIt    915496004  8  1 Bc  kf    -     -          945   20    0 
+HoldIt    915496041  7  7 rc  c     r     b          925  110  235 Jd Js
+HoldIt    915496083  8  7 cc  f     -     -         1050   30    0 
+HoldIt    915496119  9  7 f   -     -     -         1020    0    0 
+HoldIt    915496186  9  6 rc  kc    kc    kf        1020   60    0 
+HoldIt    915496248 10  6 f   -     -     -          960    0    0 
+HoldIt    915496335  9  4 ccc fQ    -     -          960   40    0 

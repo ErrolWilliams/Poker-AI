@@ -1,0 +1,202 @@
+B_Favre   906853038 10 10 r   b     c     b         1000   70  315 As Ks
+B_Favre   906853110 10  9 f   -     -     -         1245    0    0 
+B_Favre   906853192 10  8 f   -     -     -         1245    0    0 
+B_Favre   906853278  9  7 f   -     -     -         1245    0    0 
+B_Favre   906853362 10  6 cc  kc    k     kc        1245   50    0 6h 9h
+B_Favre   906853406 10  5 c   cf    -     -         1195   20    0 
+B_Favre   906853498 10  4 rr  k     b     k         1175   60    0 5h 5c
+B_Favre   906853547 10  3 f   -     -     -         1115    0    0 
+B_Favre   906853643 10  2 Br  k     b     k         1115   40    0 Qc Ac
+B_Favre   906853706 10  1 Bc  kc    b     b         1075   60  110 
+B_Favre   906853769 10 10 cc  k     f     -         1125   20    0 
+B_Favre   906853820 10  9 c   c     f     -         1105   30    0 
+B_Favre   906853858  9  7 f   -     -     -         1075    0    0 
+B_Favre   906853936 10  7 f   -     -     -         1075    0    0 
+B_Favre   906854063 10  6 f   -     -     -         1075    0    0 
+B_Favre   906854131 10  5 f   -     -     -         1075    0    0 
+B_Favre   906854236 10  4 f   -     -     -         1075    0    0 
+B_Favre   906854320 10  3 fQ  -     -     -         1075    0    0 
+B_Favre   906883505  2  1 Brr brc   brc   brc       1000  240  480 Jh Ts
+B_Favre   906883553  2  2 Brc rr    rr    r         1240  200  380 
+B_Favre   906883590  2  1 Brr brc   brc   br        1420  220  420 
+B_Favre   906883661  2  2 Brc rr    rr    r         1620  200    0 Ks Qs
+B_Favre   906883711  2  1 Brr brc   brc   br        1420  220  420 
+B_Favre   906883764  2  2 Brc rr    rr    r         1620  200  380 
+B_Favre   906883803  2  1 Brr brc   brc   bf        1800  180    0 
+B_Favre   906883877  2  2 Brc rr    rr    r         1620  200  380 
+B_Favre   906883959  2  1 Brr brc   brc   br        1800  220  420 Qs Js
+B_Favre   906884015  2  1 Brr brc   brc   brc       2000  240  480 4c 3c
+B_Favre   906884068  2  2 Brc rr    rr    r         2240  200  380 
+B_Favre   906884108  2  1 Brr brc   brc   b         2420  180  340 
+B_Favre   906884155  2  2 Brc rr    rr    rr        2580  240  480 Qc Qd
+B_Favre   906884221  2  1 Brr brc   brc   b         2820  180  360 Ks Ad
+B_Favre   906884289  2  1 Brr brc   b     -         3000  100  180 
+B_Favre   906884341  3  3 rr  rr    rr    -         3080  160  310 
+B_Favre   906884414  2  1 Brc brc   br    -         3230  140  260 
+B_Favre   906884440  2  1 Brr brc   brc   br        3350  220  440 2s Qh
+B_Favre   906884476  2  2 Brc rr    rr    rr        3570  240  480 Td 5s
+B_Favre   906884512  2  1 Brr brc   br    -         3810  140  260 
+B_Favre   906884554  2  2 Brc c     b     -         3930   70  120 
+B_Favre   906884579  2  1 Brr -     -     -         3980   40   70 4h Ks
+B_Favre   906884642  2  2 Brc rr    rr    r         4010  200  380 
+B_Favre   906884687  2  1 Brr brc   brc   brc       4190  240  480 Tc 2d
+B_Favre   906884716  2  2 Brc rr    rr    r         4430  200  380 
+B_Favre   906884746  2  1 Brr brc   brc   br        4610  220  420 
+B_Favre   906884777  2  2 Brc rr    rr    r         4810  200  400 6d Qd
+B_Favre   907132724  5  2 Bf  -     -     -         1000   10    0 
+B_Favre   907132767  6  1 Bf  -     -     -          990    5    0 
+B_Favre   907132820  5  5 f   -     -     -          985    0    0 
+B_Favre   907132852  5  4 rc  r     -     -          985   60  125 
+B_Favre   907132879  5  3 f   -     -     -         1050    0    0 
+B_Favre   907132941  5  2 Bk  f     -     -         1050   10    0 
+B_Favre   907132981  5  1 Brc brc   b     -         1040  100  254 5d 5c
+B_Favre   907133042  4  4 f   -     -     -         1194    0    0 
+B_Favre   907133063  5  4 f   -     -     -         1194    0    0 
+B_Favre   907133095  5  3 cc  cc    kc    kf        1194   60    0 
+B_Favre   907133178  6  3 cc  kf    -     -         1134   20    0 
+B_Favre   907133248  6  2 Bc  kf    -     -         1114   20    0 
+B_Favre   907133293  6  1 Brc bc    krr   brc       1094  220  560 3d Ad
+B_Favre   907133351  6  6 c   f     -     -         1434   20    0 
+B_Favre   907133427  6  5 c   f     -     -         1414   20    0 
+B_Favre   907133463  6  4 rc  ccc   f     -         1394   80    0 
+B_Favre   907133552  7  4 ccc ccc   cc    c         1314  160  470 Ks 8h
+B_Favre   907133630  7  3 f   -     -     -         1624    0    0 
+B_Favre   907133693  6  2 Bcc kc    k     k         1624   50    0 6c 7h
+B_Favre   907133745  6  1 Bf  -     -     -         1574    5    0 
+B_Favre   907133780  5  5 f   -     -     -         1569    0    0 
+B_Favre   907133851  6  4 f   -     -     -         1569    0    0 
+B_Favre   907133938  6  3 f   -     -     -         1569    0    0 
+B_Favre   907133965  5  2 Bc  kc    kf    -         1569   30    0 
+B_Favre   907133991  7  1 Brc bc    bc    kc        1539  140  540 Tc Qc
+B_Favre   907134092  7  7 f   -     -     -         1939    0    0 
+B_Favre   907134182  8  7 rc  c     f     -         1939   60    0 
+B_Favre   907134255  8  6 c   f     -     -         1879   20    0 
+B_Favre   907134345  8  5 f   -     -     -         1859    0    0 
+B_Favre   907134390  8  4 r   cc    c     f         1859   70    0 
+B_Favre   907134440  8  3 r   f     -     -         1789   20    0 
+B_Favre   907134472  8  2 Brc kc    k     k         1769   60    0 9h 8h
+B_Favre   907134524  8  1 Br  kc    kf    -         1709   40    0 
+B_Favre   907134579  7  7 f   -     -     -         1669    0    0 
+B_Favre   907134650  7  6 f   -     -     -         1669    0    0 
+B_Favre   907134703  7  5 f   -     -     -         1669    0    0 
+B_Favre   907134756  7  4 rc  rc    kc    kc        1669  120    0 Ah 5d
+B_Favre   907134838  7  3 r   kf    -     -         1549   20    0 
+B_Favre   907134898  8  2 Bk  kf    -     -         1529   10    0 
+B_Favre   907134989  8  1 Bc  k     kf    -         1519   10    0 
+B_Favre   907135051  8  8 f   -     -     -         1509    0    0 
+B_Favre   907135182  8  7 c   c     f     -         1509   30    0 
+B_Favre   907135255  7  5 f   -     -     -         1479    0    0 
+B_Favre   907135273  7  5 f   -     -     -         1479    0    0 
+B_Favre   907135369  7  4 r   c     cc    f         1479   80    0 
+B_Favre   907135466  7  3 r   c     f     -         1399   30    0 
+B_Favre   907135521  6  2 Br  bc    kf    -         1369   50    0 
+B_Favre   907135586  7  1 Bc  kf    -     -         1319   10    0 
+B_Favre   907135652  7  7 f   -     -     -         1309    0    0 
+B_Favre   907135706  9  8 f   -     -     -         1309    0    0 
+B_Favre   907135741  9  7 c   rc    cc    kf        1309  100    0 
+B_Favre   907135795  9  6 r   rc    kc    kc        1209  100  300 8d 7s
+B_Favre   907135840  9  5 f   -     -     -         1409    0    0 
+B_Favre   907135915 10  5 c   c     c     c         1409   60    0 9s 6d
+B_Favre   907135960 10  5 rr  kf    -     -         1349   40    0 
+B_Favre   907136064  9  4 f   -     -     -         1309    0    0 
+B_Favre   907136119  7  2 Bk  kf    -     -         1309   10    0 
+B_Favre   907136162  7  1 Brc kc    k     kc        1299   70    0 6c 6h
+B_Favre   907136230  7  7 r   f     -     -         1229   30    0 
+B_Favre   907136278  7  6 r   rr    r     b         1199  120  305 Td As
+B_Favre   907136353  6  5 f   -     -     -         1384    0    0 
+B_Favre   907136390  6  4 f   -     -     -         1384    0    0 
+B_Favre   907136408  6  3 c   b     kf    -         1384   20    0 
+B_Favre   907136465  6  2 Bk  kf    -     -         1364   10    0 
+B_Favre   907136513  6  1 Bf  -     -     -         1354    5    0 
+B_Favre   907136567  6  6 f   -     -     -         1349    0    0 
+B_Favre   907136606  6  5 r   k     c     k         1349   50  145 4c 4d
+B_Favre   907136651  6  4 f   -     -     -         1444    0    0 
+B_Favre   907136665  6  3 cc  k     f     -         1444   20    0 
+B_Favre   907136702  5  2 Bf  -     -     -         1424   10    0 
+B_Favre   907136750  5  1 Br  kc    b     -         1414   60  130 
+B_Favre   907136792  5  5 cc  c     c     c         1484   90    0 7h 9s
+B_Favre   907136836  4  4 f   -     -     -         1394    0    0 
+B_Favre   907136862  4  3 f   -     -     -         1394    0    0 
+B_Favre   907136883  5  2 Bk  b     -     -         1394   20   35 
+B_Favre   907136899  5  1 Bf  -     -     -         1409    5    0 
+B_Favre   907136940  5  5 c   f     -     -         1404   10    0 
+B_Favre   907136982  5  4 cc  c     k     f         1394   30    0 
+B_Favre   907137028  7  3 f   -     -     -         1364    0    0 
+B_Favre   907137070  7  2 Bk  kf    -     -         1364   10    0 
+B_Favre   907137115  7  1 Bc  k     k     kf        1354   10    0 
+B_Favre   907137167  7  7 c   rc    c     f         1344   80    0 
+B_Favre   907137194  7  6 f   -     -     -         1264    0    0 
+B_Favre   907137221  6  4 r   k     b     b         1264   60  105 
+B_Favre   907137246  6  3 rc  c     f     -         1309   50    0 
+B_Favre   907137309  6  2 Bcc kf    -     -         1259   40    0 
+B_Favre   907137363  6  1 Brc k     kf    -         1219   40    0 
+B_Favre   907137417  6  6 r   rr    r     b         1179  140    0 Kd Jh
+B_Favre   907137460  5  4 c   f     -     -         1039   20    0 
+B_Favre   907137509  5  3 cr  rr    c     f         1019  100    0 
+B_Favre   907137587  5  2 Brc c     r     b          919  110  340 8c 9h
+B_Favre   907137637  6  1 Bf  -     -     -         1149    5    0 
+B_Favre   907137672  6  6 c   c     k     b         1144   50  155 
+B_Favre   907137701  6  5 r   rr    c     rc        1249  140    0 Kd Kc
+B_Favre   907137771  6  4 f   -     -     -         1109    0    0 
+B_Favre   907137811  6  3 f   -     -     -         1109    0    0 
+B_Favre   907137856  6  2 Br  brc   k     k         1109   80    0 7c 7d
+B_Favre   907137907  6  1 Br  b     -     -         1029   40  130 
+B_Favre   907137951  6  6 rc  rr    rr    rr        1119  250  745 4s Qh
+B_Favre   907138045  6  5 r   k     bf    -         1614   40    0 
+B_Favre   907138108  6  4 f   -     -     -         1574    0    0 
+B_Favre   907138165  6  3 f   -     -     -         1574    0    0 
+B_Favre   907138224  5  2 Bc  k     b     k         1574   40    0 6d 5s
+B_Favre   907138319  5  1 Bc  brc   kc    kc        1534  100    0 7c 8d
+B_Favre   907138365  5  5 f   -     -     -         1434    0    0 
+B_Favre   907138376  5  4 cc  rr    rf    -         1434  100    0 
+B_Favre   907138406  5  3 cc  f     -     -         1334   20    0 
+B_Favre   907138449  5  2 Bc  c     r     r         1314  120  270 Jd 8h
+B_Favre   907138474  5  1 Bf  -     -     -         1464    5    0 
+B_Favre   907138493  5  5 cc  c     c     c         1459  100  137 7d 8s
+B_Favre   907138525  5  4 ccc c     c     c         1496   90  340 8c 7d
+B_Favre   907138565  5  3 f   -     -     -         1746    0    0 
+B_Favre   907138592  5  2 Bc  kc    kc    kf        1746   50    0 
+B_Favre   907138625  5  1 Bf  -     -     -         1696    5    0 
+B_Favre   907138658  5  5 f   -     -     -         1691    0    0 
+B_Favre   907138671  5  4 cc  cc    c     f         1691  120    0 
+B_Favre   907138715  5  3 rr  b     k     k         1571   50  115 Ad Ts
+B_Favre   907138740  4  2 Bc  rr    r     b         1636  120  300 Kh 7s
+B_Favre   907138783  4  1 Bcc kf    -     -         1816   40    0 
+B_Favre   907138819  4  4 c   c     c     f         1776   40    0 
+B_Favre   907138849  4  3 f   -     -     -         1736    0    0 
+B_Favre   907138875  4  2 Bc  r     bc    f         1736   80    0 
+B_Favre   907138920  5  1 Bf  -     -     -         1656    5    0 
+B_Favre   907138928  5  5 f   -     -     -         1651    0    0 
+B_Favre   907138963  5  4 rr  r     b     k         1651   80  250 Js Qh
+B_Favre   907139000  5  3 f   -     -     -         1821    0    0 
+B_Favre   907139033  5  2 Bc  rr    k     cf        1821   80    0 
+B_Favre   907139073  5  1 Br  b     b     b         1741   70  170 
+B_Favre   907139093  5  5 ccc cc    f     -         1841   80    0 
+B_Favre   907139161  5  4 c   b     b     k         1761   40    0 5s Qs
+B_Favre   907139214  4  3 c   k     rc    c         1721   90    0 3s Ad
+B_Favre   907139265  4  2 Bk  k     b     b         1631   50  115 3c Th
+B_Favre   907139286  4  1 Bf  -     -     -         1696    5    0 
+B_Favre   907139316  4  4 cc  r     b     k         1691   60  165 4d 6s
+B_Favre   907139355  3  3 f   -     -     -         1796    0    0 
+B_Favre   907139373  3  2 Br  b     b     rc        1796  120    0 Th Kh
+B_Favre   907139393  3  1 Brc kc    kf    -         1676   50    0 
+B_Favre   907139412  3  3 f   -     -     -         1626    0    0 
+B_Favre   907139420  3  2 Bf  -     -     -         1626   10    0 
+B_Favre   907139431  3  1 Bc  kf    -     -         1616   20    0 
+B_Favre   907139468  3  3 rr  k     b     -         1596   60  105 
+B_Favre   907139506  3  2 B   -     -     -         1641   10   15 
+B_Favre   907139509  3  1 Brr bc    kc    kc        1646  100    0 Th Ts
+B_Favre   907139536  3  3 f   -     -     -         1546    0    0 
+B_Favre   907139559  4  2 Bcc kc    krr   rc        1546  210  335 Ad 4c
+B_Favre   907139616  4  1 Bf  -     -     -         1671    5    0 
+B_Favre   907139666  4  4 rr  rr    rr    c         1666  180  420 Qs Ks
+B_Favre   907139716  4  3 cc  kc    kc    kc        1906   70    0 Ah 6s
+B_Favre   907139736  4  2 Bc  krc   bc    kc        1836  110  275 6d Jc
+B_Favre   907139766  4  1 Bf  -     -     -         2001    5    0 
+B_Favre   907139800  4  4 cc  c     c     c         1996   70    0 Kd 4d
+B_Favre   907139834  4  3 rr  br    kc    kc        1926  120    0 Jc Js
+B_Favre   907139875  5  2 Bc  kf    -     -         1806   20    0 
+B_Favre   907139915  5  1 Bf  -     -     -         1786    5    0 
+B_Favre   907139942  5  5 rc  f     -     -         1781   50    0 
+B_Favre   907139980  5  4 rc  cc    krc   brc       1731  220  780 6c 7c
+B_Favre   907140050  5  3 f   -     Q     -         2291    0    0 

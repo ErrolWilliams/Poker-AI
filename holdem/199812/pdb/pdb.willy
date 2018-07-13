@@ -1,0 +1,70 @@
+willy     914937154  5  4 ccc kf    -     -         1000   40    0 
+willy     914937183  5  3 f   -     -     -          960    0    0 
+willy     914937187  5  2 Bk  kf    -     -          960   10    0 
+willy     914937209  5  1 Bc  kc    k     kf         950   40    0 
+willy     914937244  5  5 f   -     -     -          910    0    0 
+willy     914937270  5  4 cc  c     c     f          910   50    0 
+willy     914937302  5  3 f   -     -     -          860    0    0 
+willy     914937336  5  2 Bk  kc    kf    -          860   20    0 
+willy     914937362  5  1 Bcc k     kc    kc         840   80    0 Qd 8h
+willy     914937392  6  6 c   c     c     c          760   70  190 5h 5s
+willy     914937425  6  5 c   br    b     k          880   60    0 Kd 4d
+willy     914937466  6  4 c   k     k     k          820   10    0 7c Kc
+willy     914937510  6  3 c   k     f     -          810   10    0 
+willy     914937568  5  2 Bc  c     c     c          800   70    0 5h 9c
+willy     914937609  5  1 Bc  kf    -     -          730   10    0 
+willy     914937646  6  6 c   k     k     k          720   10    0 6c 8h
+willy     914937674  6  5 c   c     c     rc         710  110  245 5d Qs
+willy     914937711  6  4 f   -     -     -          845    0    0 
+willy     914937741  6  3 cc  b     br    k          845   90  335 Kc Tc
+willy     914937787  6  2 Bc  c     k     k         1090   30   80 5c 4c
+willy     914937819  6  1 Bc  bc    bc    br        1140  130  270 Ac 5s
+willy     914937868  7  7 cc  b     bKQ   -         1280   50    0 
+willy     914938005  7  5 c   rr    r     -         1230   71  147 Tc 9c
+willy     914938038  6  3 c   f     -     -         1306   10    0 
+willy     914938081  6  3 cc  kc    kc    kf        1296   50    0 
+willy     914938116  8  2 Bf  -     -     -         1246   10    0 
+willy     914938160  8  1 Bc  kc    kc    kf        1236   40    0 
+willy     914938194  9  9 f   -     -     -         1196    0    0 
+willy     914938269  8  7 c   b     r     r         1196  100  215 9s 9h
+willy     914938309  9  7 f   -     -     -         1311    0    0 
+willy     914938345  9  6 c   b     b     c         1311   70  250 Jd Ad
+willy     914938403  9  5 f   -     -     -         1491    0    0 
+willy     914938481 10  4 cc  kc    kc    kc        1491   70  280 7h 5h
+willy     914938539  9  3 f   -     -     -         1701    0    0 
+willy     914938632  9  2 Bcf -     -     -         1701   30    0 
+willy     914938706  8  1 Bcc kcc   kc    k         1671   90    0 9s 9h
+willy     914938763  8  8 f   -     -     -         1581    0    0 
+willy     914938815  8  7 c   c     c     c         1581   70  205 Tc As
+willy     914938873  8  6 f   -     -     -         1716    0    0 
+willy     914938958  8  5 f   -     -     -         1716    0    0 
+willy     914939001  7  3 ccc kf    -     -         1716   40    0 
+willy     914939055  7  2 Bk  c     -     -         1676   20    0 Kh Ac
+willy     914939075  6  1 Bc  kc    k     kf        1656   40    0 
+willy     914939113  6  6 f   -     -     -         1616    0    0 
+willy     914939160  7  6 cc  c     k     k         1616   30   57 8d 9h
+willy     914939217  7  5 cc  k     b     -         1643   40  105 
+willy     914939283  7  4 cc  c     kc    b         1708   70  270 5c 9c
+willy     914939363  7  3 f   -     -     -         1908    0    0 
+willy     914939422  8  2 Bf  -     -     -         1908   10    0 
+willy     914939470  7  1 Bf  -     -     -         1898    5    0 
+willy     914939549  8  8 f   -     -     -         1893    0    0 
+willy     914939623  8  7 f   -     -     -         1893    0    0 
+willy     914939681  8  6 cc  k     f     -         1893   20    0 
+willy     914939729  8  5 f   -     -     -         1873    0    0 
+willy     914939833  8  4 c   k     f     -         1873   10    0 
+willy     914939908  9  3 f   -     -     -         1863    0    0 
+willy     914940007  8  2 Bc  kc    kc    f         1863   70    0 
+willy     914940079  8  1 Bf  -     -     -         1793    5    0 
+willy     914940102  8  8 f   -     -     -         1788    0    0 
+willy     914940163  8  7 c   b     b     b         1788   60  165 Ad 8h
+willy     914940226  6  5 f   -     -     -         1893    0    0 
+willy     914940250  6  5 c   b     bc    kc        1893   80    0 8h Ac
+willy     914940301  7  5 f   -     -     -         1813    0    0 
+willy     914940336  7  4 c   k     k     k         1813   10   35 Qd 7d
+willy     914940380  7  3 cc  kf    -     -         1838   20    0 
+willy     914940433  8  2 Bk  KQ    -     -         1818   10    0 
+willy     914940618  8  8 c   b     r     r         1808  100  290 9h 8h
+willy     914940673  7  6 f   -     -     -         1998    0    0 
+willy     914940711  7  5 c   k     k     f         1998   10    0 
+willy     914940756  7  4 fQ  -     -     -         1988    0    0 

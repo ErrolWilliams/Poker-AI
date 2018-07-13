@@ -1,0 +1,1253 @@
+jonnyred  949402200  2  1 Br  -     -     -         1000   20   30 
+jonnyred  949402212  3  3 f   -     -     -         1010    0    0 
+jonnyred  949402222  3  2 Bk  kf    -     -         1010   10    0 
+jonnyred  949402237  3  1 Bc  kf    -     -         1000   20    0 
+jonnyred  949402244  3  3 f   -     -     -          980    0    0 
+jonnyred  949402265  3  2 B   -     -     -          980   10   15 
+jonnyred  949402270  3  1 Bc  b     -     -          985   20   30 
+jonnyred  949402279  3  3 c   f     -     -          995   10    0 
+jonnyred  949402301  3  2 Bk  brc   bc    k          985   90  185 5h Qh
+jonnyred  949402326  4  1 Bf  -     -     -         1080    5    0 
+jonnyred  949402361  4  4 c   c     c     k         1075   40   90 4h 4s
+jonnyred  949402384  4  3 f   -     -     -         1125    0    0 
+jonnyred  949402390  4  2 Bk  k     f     -         1125   10    0 
+jonnyred  949402409  4  1 Bc  k     b     -         1115   30   40 
+jonnyred  949402422  4  4 cc  c     cf    -         1125   80    0 
+jonnyred  949402457  4  3 c   bc    kc    bc        1045   90  200 8h Ts
+jonnyred  949402478  3  1 Bc  kf    -     -         1155   20    0 
+jonnyred  949402487  3  1 Bcc kf    -     -         1135   30    0 
+jonnyred  949402496  3  3 f   -     -     -         1105    0    0 
+jonnyred  949402499  3  2 Bc  kf    -     -         1105   20    0 
+jonnyred  949402506  3  1 Bcc krr   b     b         1085  100  200 6h 8h
+jonnyred  949402557  3  3 f   -     -     -         1185    0    0 
+jonnyred  949402571  3  2 Bk  k     kf    -         1185   10    0 
+jonnyred  949402588  3  1 Bcc kc    kc    kc        1175   70  140 4s Ts
+jonnyred  949402603  3  3 cc  f     -     -         1245   20    0 
+jonnyred  949402627  3  2 Bk  kf    -     -         1225   10    0 
+jonnyred  949402637  3  1 Bcc kc    krr   brc       1215  190  380 4d Qd
+jonnyred  949402665  3  3 f   -     -     -         1405    0    0 
+jonnyred  949402674  2  2 Bk  k     -     -         1405   10   20 
+jonnyred  949403138  2  1 BKQ -     -     -         1415    5    0 
+jonnyred  949403481  6  3 f   -     -     -         1650    0    0 
+jonnyred  949403508  6  2 Bc  k     kf    -         1650   30    0 
+jonnyred  949403555  6  1 Bc  k     k     b         1690   40   90 6c 7h
+jonnyred  949403576  6  6 c   f     -     -         1740   20    0 
+jonnyred  949403595  6  5 c   b     b     c         1720   60  160 9d Kc
+jonnyred  949403635  6  4 c   k     bc    k         1820   50  170 Qc 7s
+jonnyred  949403703  6  3 f   -     -     -         1850    0    0 
+jonnyred  949403950  4  2 Bk  k     k     k         1750   10    0 8s 3d
+jonnyred  949403982  4  1 Br  -     -     -         1740   20   30 
+jonnyred  949403994  4  4 c   k     b     k         1750   30    0 3c Ac
+jonnyred  949404036  4  3 r   b     b     bc        1690   90    0 Ad Qs
+jonnyred  949404074  4  2 Br  k     b     b         1600   70  120 
+jonnyred  949404121  6  1 Bf  -     -     -         1650    5    0 
+jonnyred  949404174  6  6 c   k     k     f         1645   10    0 
+jonnyred  949404251  6  5 f   -     -     -         1780    0    0 
+jonnyred  949404265  6  5 c   c     k     k         1780   20    0 Qs Th
+jonnyred  949404281  5  3 cc  rc    f     -         1760   50    0 
+jonnyred  949404317  6  2 Bk  k     k     k         1700   10    0 Qd 2c
+jonnyred  949404385  6  1 Bc  b     bc    kc        1690   80    0 9d Ts
+jonnyred  949404496  8  8 f   -     -     -         1595    0    0 
+jonnyred  949404554  7  6 f   -     -     -         1595    0    0 
+jonnyred  949404576  7  5 c   kc    kc    kf        1595   40    0 
+jonnyred  949404672  6  4 r   r     b     -         1475   60  120 
+jonnyred  949404706  6  3 cc  cf    -     -         1535   30    0 
+jonnyred  949404758  7  2 Bk  kf    -     -         1475   10    0 
+jonnyred  949404804  7  1 Bf  -     -     -         1465    5    0 
+jonnyred  949404832  7  7 r   b     b     rc        1460  120    0 Th Ad
+jonnyred  949404871  7  6 r   b     r     b         1340   90  250 7c Ac
+jonnyred  949404905  7  5 cc  kc    bc    b         1500   90  195 6s 5d
+jonnyred  949404934  7  4 c   k     kf    -         1605   10    0 
+jonnyred  949404967  7  3 f   -     -     -         1595    0    0 
+jonnyred  949405003  7  2 Bk  k     b     k         1595   30  100 Tc Jh
+jonnyred  949405044  7  1 Bc  kc    kf    -         1655   20    0 
+jonnyred  949405112  7  7 f   -     -     -         1635    0    0 
+jonnyred  949405156  7  6 f   -     -     -         1445    0    0 
+jonnyred  949405180  7  5 c   k     k     k         1445   10    0 9d Ks
+jonnyred  949405225  7  4 c   k     kf    -         1435   10    0 
+jonnyred  949405261  7  3 c   k     f     -         1415   10    0 
+jonnyred  949405301  7  2 Bk  k     c     b         1405   50    0 5c 5d
+jonnyred  949405345  7  1 Bc  kf    -     -         1295   10    0 
+jonnyred  949405404  7  7 c   k     f     -         1285   10    0 
+jonnyred  949405445  7  6 c   k     k     b         1265   30   55 
+jonnyred  949405484  7  5 c   kf    -     Q         1250   20    0 
+jonnyred  949476124 10  4 c   k     b     b         1220   50  160 Jc Th
+jonnyred  949476240 10  3 f   -     -     -         1330    0    0 
+jonnyred  949476375  9  2 Bc  k     kf    -         1330   20    0 
+jonnyred  949476487  7  1 Bc  kc    bc    bc        1310  110  350 Js Th
+jonnyred  949476568  6  6 f   -     -     -         1550    0    0 
+jonnyred  949476706  5  3 f   -     -     -         1550    0    0 
+jonnyred  949476787  5  2 Bk  krr   b     b         1550   90  175 
+jonnyred  949476836  4  1 Bc  kc    kc    kf        1635   40    0 
+jonnyred  949476879  5  5 f   -     -     -         1595    0    0 
+jonnyred  949476922  5  4 c   f     -     -         1595   20    0 
+jonnyred  949476958  6  3 f   -     -     -         1575    0    0 
+jonnyred  949476999  7  2 Bc  f     -     -         1575   20    0 
+jonnyred  949477038  7  1 Bc  kc    kf    -         1555   30    0 
+jonnyred  949477066  7  7 f   -     -     -         1515    0    0 
+jonnyred  949477093  7  6 c   b     k     rr        1515  100  153 Js Jc
+jonnyred  949477137  7  5 c   k     r     r         1568   90  360 Jd Kh
+jonnyred  949477211  8  5 f   -     -     -         1828    0    0 
+jonnyred  949477251  8  4 f   -     -     -         1828    0    0 
+jonnyred  949477326  8  3 f   -     -     -         1828    0    0 
+jonnyred  949477393  9  3 c   k     kf    -         1828   10    0 
+jonnyred  949477466 10  3 f   -     -     -         1818    0    0 
+jonnyred  949477548 10  2 Bk  kc    kf    -         1818   20    0 
+jonnyred  949477643 10  1 Bf  -     -     -         1798    5    0 
+jonnyred  949477812  9  9 f   -     -     -         1793    0    0 
+jonnyred  949477858 10  9 c   c     c     c         1793   70    0 Kh Js
+jonnyred  949477897 10  8 c   kf    -     -         1723   10    0 
+jonnyred  949477981 10  7 f   -     -     -         1713    0    0 
+jonnyred  949478048 10  6 f   -     -     -         1713    0    0 
+jonnyred  949478130 10  5 f   -     -     -         1713    0    0 
+jonnyred  949478185 10  4 f   -     -     -         1713    0    0 
+jonnyred  949478240 10  3 cc  kf    -     -         1713   20    0 
+jonnyred  949478312 10  2 Bk  kf    -     -         1693   10    0 
+jonnyred  949478374 10  1 Bc  kf    -     -         1683   10    0 
+jonnyred  949478451  9  9 f   -     -     -         1673    0    0 
+jonnyred  949478582 10  9 f   -     -     -         1773    0    0 
+jonnyred  949478656 10  8 f   -     -     -         1763    0    0 
+jonnyred  949478725 10  7 f   -     -     -         1758    0    0 
+jonnyred  949478768 10  6 f   -     -     -         1738    0    0 
+jonnyred  949478822  9  5 f   -     -     -         1738    0    0 
+jonnyred  949478873  8  4 f   -     -     -         1738    0    0 
+jonnyred  949478921  7  3 f   -     -     -         1718    0    0 
+jonnyred  949478953 10  2 Bk  kf    -     -         1718   10    0 
+jonnyred  949479036 10  1 Bf  Q     -     -         1771    5    0 
+jonnyred  949651188  3  2 Bk  r     c     f         1241   50    0 
+jonnyred  949651211  3  1 Bf  -     -     -         1191    5    0 
+jonnyred  949651221  3  3 c   f     -     -         1186   10    0 
+jonnyred  949651236  3  2 Br  b     -     -         1176   30   70 
+jonnyred  949651247  3  1 Bc  kf    -     -         1216   10    0 
+jonnyred  949651264  3  3 f   -     -     -         1206    0    0 
+jonnyred  949651286  3  2 Br  c     b     b         1206   70  150 
+jonnyred  949651314  3  1 Bc  kf    -     -         1286   10    0 
+jonnyred  949651328  3  3 cc  f     -     -         1276   20    0 
+jonnyred  949651341  3  2 Br  b     -     -         1256   30   70 
+jonnyred  949651357  3  1 Bc  k     b     -         1296   30   40 
+jonnyred  949651370  3  3 c   f     -     -         1306   10    0 
+jonnyred  949651381  3  2 Bk  kr    b     -         1296   50   90 
+jonnyred  949651397  3  1 Bc  krr   bc    bc        1336  130  260 6c 8c
+jonnyred  949651423  3  3 f   -     -     -         1466    0    0 
+jonnyred  949651436  3  2 Bc  kc    kc    bc        1466   90  185 Ah Ts
+jonnyred  949651452  3  1 Bf  -     -     -         1561    5    0 
+jonnyred  949651457  3  3 cc  c     c     r         1556   90  185 Jc Qd
+jonnyred  949651479  2  2 Bf  -     -     -         1651   10    0 
+jonnyred  949651484  2  1 Bcc k     k     k         1641   20   20 3c 2c
+jonnyred  949651506  2  2 Bk  k     f     -         1641   10    0 
+jonnyred  949651532  2  1 Bcc kc    kc    kc        1631   70  140 7c 7d
+jonnyred  949651553  2  2 B   -     -     -         1701   10   15 
+jonnyred  949651562  2  1 Bc  kf    -     -         1706   10    0 
+jonnyred  949651572  2  2 Bc  c     f     -         1696   30    0 
+jonnyred  949651584  2  1 Bcc kf    -     -         1666   20    0 
+jonnyred  949651603  2  2 B   -     -     -         1646   10   15 
+jonnyred  949651606  2  1 Bcc k     b     b         1651   60  120 3s 6c
+jonnyred  949651662  2  2 Bc  k     k     k         1711   20    0 3s Td
+jonnyred  949651695  2  1 Bc  k     b     bc        1691   70    0 7d 6c
+jonnyred  949651716  2  2 Bk  k     b     bc        1621   70   70 Th Qs
+jonnyred  949651740  2  1 Bf  -     -     -         1621    5    0 
+jonnyred  949651748  2  2 Bk  k     b     -         1616   30   40 
+jonnyred  949651806  2  1 Bc  kf    -     -         1626   10    0 
+jonnyred  949651817  2  2 Bc  k     k     k         1616   20    0 2c 9c
+jonnyred  949651830  2  1 Br  -     -     -         1596   20   30 
+jonnyred  949651840  2  2 Bk  k     f     -         1606   10    0 
+jonnyred  949651859  2  1 Bf  -     -     -         1596    5    0 
+jonnyred  949651862  2  2 Bc  f     -     -         1591   20    0 
+jonnyred  949651869  2  1 Bcc k     b     -         1571   40   60 
+jonnyred  949651886  2  2 Bc  c     c     c         1591   70    0 Ac 2h
+jonnyred  949651898  2  1 Bc  k     b     bf        1521   50    0 
+jonnyred  949651919  2  2 B   -     -     -         1471   10   15 
+jonnyred  949651921  2  1 Bcc kc    kc    kf        1476   50    0 
+jonnyred  949651934  2  2 Bc  r     b     -         1426   60  100 
+jonnyred  949651949  2  1 Bc  k     k     b         1466   30   40 
+jonnyred  949651960  2  2 B   -     -     -         1476   10   15 
+jonnyred  949651963  2  1 Bc  k     kf    -         1481   10    0 
+jonnyred  949651978  2  2 Bc  k     k     k         1471   20    0 5c Jd
+jonnyred  949651990  2  1 Br  k     k     k         1451   20    0 Ah Th
+jonnyred  949652013  2  2 Bc  k     k     k         1431   20   40 7c 8c
+jonnyred  949652052  2  1 Bcc k     k     k         1451   20   40 3d 5c
+jonnyred  949652110  2  2 B   -     -     -         1471   10   15 
+jonnyred  949652117  2  1 Bc  kc    k     k         1476   20   40 Ts Kh
+jonnyred  949652132  2  2 Bc  c     r     b         1496   90  180 6c Kc
+jonnyred  949652155  3  1 Bf  -     -     -         1586    5    0 
+jonnyred  949652163  2  2 f   -     -     -         1581    0    0 
+jonnyred  949652168  2  2 B   -     -     -         1581   10   15 
+jonnyred  949652171  2  1 Bc  k     kc    kc        1586   50    0 4h Jc
+jonnyred  949652201  3  2 Bk  k     b     -         1536   30   50 
+jonnyred  949652252  3  1 Bc  kc    kc    kf        1556   50    0 
+jonnyred  949652272  3  3 c   b     -     -         1506   20   35 
+jonnyred  949652281  3  2 Bk  k     k     b         1521   30   65 Qd 4h
+jonnyred  949652303  3  1 Bc  kc    krr   k         1556  100  220 5h Ks
+jonnyred  949652353  3  3 c   k     k     f         1676   10    0 
+jonnyred  949652397  3  2 Bc  kc    k     k         1666   30   80 Js 6s
+jonnyred  949652430  3  1 Bc  kf    -     -         1716   10    0 
+jonnyred  949652452  3  3 f   -     -     -         1706    0    0 
+jonnyred  949652473  3  2 Br  c     c     f         1706   60    0 
+jonnyred  949652493  2  1 Br  -     -     -         1646   20   30 
+jonnyred  949652512  2  2 Bc  c     c     c         1656   70    0 Jh 9h
+jonnyred  949652529  2  1 Bf  -     -     -         1586    5    0 
+jonnyred  949652536  2  2 Bc  f     -     -         1581   20    0 
+jonnyred  949652561  2  1 Bc  k     b     -         1561   30   40 
+jonnyred  949652572  2  2 B   -     -     -         1571   10   15 
+jonnyred  949652575  2  1 Bc  kc    kf    -         1576   20    0 
+jonnyred  949652587  2  2 B   -     -     -         1556   10   15 
+jonnyred  949652591  2  1 Bc  kc    kr    b         1561   80    0 8s 9h
+jonnyred  949652614  2  2 Bc  k     k     k         1481   20   40 Kh 8d
+jonnyred  949652636  2  1 Bc  b     b     -         1501   40   60 
+jonnyred  949652652  2  2 B   -     -     -         1521   10   15 
+jonnyred  949652655  2  1 Bf  -     -     -         1526    5    0 
+jonnyred  949652658  2  2 B   -     -     -         1521   10   15 
+jonnyred  949652660  2  1 Bf  -     -     -         1526    5    0 
+jonnyred  949652665  2  2 B   -     -     -         1521   10   15 
+jonnyred  949652668  2  1 Bc  k     kf    -         1526   10    0 
+jonnyred  949652680  2  2 Bk  c     f     -         1516   20    0 
+jonnyred  949652693  2  1 Bc  k     kc    k         1496   30    0 6c Ac
+jonnyred  949652712  2  2 Bc  k     k     b         1466   40   80 5h Qd
+jonnyred  949652732  2  1 Bf  -     -     -         1506    5    0 
+jonnyred  949652739  3  2 Bf  -     -     -         1501   10    0 
+jonnyred  949652749  3  1 Bcc kc    kc    b         1491   70  190 Td 9d
+jonnyred  949652779  3  3 c   k     rc    c         1611  110    0 4d 5d
+jonnyred  949652845  3  2 Bk  kf    -     -         1501   10    0 
+jonnyred  949652867  3  1 Bc  k     k     kc        1491   30    0 Kd 3c
+jonnyred  949652891  3  3 c   f     -     -         1461   10    0 
+jonnyred  949652908  3  2 Bk  k     k     k         1451   10    0 3d Kh
+jonnyred  949652933  3  1 Bc  kc    k     kf        1441   20    0 
+jonnyred  949652967  3  3 cc  k     k     k         1421   20    0 Js Qd
+jonnyred  949652992  3  2 Bc  c     c     cc        1401   90    0 6h As
+jonnyred  949653031  3  1 Bf  -     -     -         1311    5    0 
+jonnyred  949653062  3  3 c   k     f     -         1306   10    0 
+jonnyred  949653095  3  2 Bc  kc    kc    kc        1296   70    0 4s 9s
+jonnyred  949653131  3  1 Bc  bc    kf    -         1226   30    0 
+jonnyred  949653183  3  3 c   b     -     -         1196   20   35 
+jonnyred  949653197  3  2 Bk  c     k     b         1211   40    0 Kc 7c
+jonnyred  949653216  3  1 Bcc kf    -     -         1171   20    0 
+jonnyred  949653232  2  2 Brc -     -     -         1151   40   80 
+jonnyred  949656948  2  1 Bc  kc    kf    -         1121   20    0 
+jonnyred  949656976  2  2 Bc  c     r     b          441   90   90 5s Ts
+jonnyred  949656996  2  1 Bc  k     k     kc         441   30    0 6s 4c
+jonnyred  949657014  2  2 Bk  f     -     -          411   10    0 
+jonnyred  949657024  2  1 Bcc kf    -     -          401   20    0 
+jonnyred  949657031  2  2 Bf  -     -     -          381   10    0 
+jonnyred  949657034  2  1 Bf  -     -     -          371    5    0 
+jonnyred  949657037  2  2 Bc  f     -     -          366   20    0 
+jonnyred  949657044  2  1 Bc  kc    kc    bc         346   80    0 5h 8s
+jonnyred  949657061  2  2 Bk  f     -     -          266   10    0 
+jonnyred  949657073  2  1 Bc  kr    b     -          256   50   80 
+jonnyred  949657088  2  2 Bk  k     b     -          286   30   40 
+jonnyred  949657103  2  1 Bc  k     b     b          296   50  100 Qh Qs
+jonnyred  949657118  2  2 Bc  k     f     -          346   20    0 
+jonnyred  949657152  2  1 Bc  kc    kc    kf         326   40    0 
+jonnyred  949657166  2  2 B   -     -     -          286   10   15 
+jonnyred  949657172  2  1 Bf  -     -     -          291    5    0 
+jonnyred  949657174  2  2 Bk  rr    b     b          286   90  180 5h 7s
+jonnyred  949657200  2  1 Bc  kc    kf    -          376   20    0 
+jonnyred  949657217  2  2 Bk  f     -     -          356   10    0 
+jonnyred  949657225  2  1 Bc  k     b     -          346   30   40 
+jonnyred  949657233  2  2 Bk  k     b     -          356   30   40 
+jonnyred  949657248  2  1 Bc  k     k     k          366   10   10 5c 6h
+jonnyred  949657257  2  2 Bk  k     k     c          366   30   60 6d 9s
+jonnyred  949657280  2  1 Bc  k     b     -          396   30   40 
+jonnyred  949657294  2  2 Bk  k     k     k          406   10   20 7h Td
+jonnyred  949657306  2  1 Bc  k     b     -          416   30   40 
+jonnyred  949657316  2  2 Bk  k     k     k          426   10   20 4c Js
+jonnyred  949657337  2  1 Bc  k     k     b          436   30    0 6d Jd
+jonnyred  949657357  2  2 Bk  k     brc   rc         406  150    0 3s 7h
+jonnyred  949657389  2  1 Br  -     -     -          256   20   30 
+jonnyred  949657396  2  2 Br  k     k     c          266   40    0 Ac Ts
+jonnyred  949657414  2  1 Br  -     -     -          226   20   30 
+jonnyred  949657421  2  2 Bk  k     k     c          236   30   60 Qc 5h
+jonnyred  949657435  2  1 Bc  kf    -     -          266   10    0 
+jonnyred  949657450  2  2 Bk  k     f     -          256   10    0 
+jonnyred  949657463  2  1 Bf  -     -     -          246    5    0 
+jonnyred  949657465  2  2 B   -     -     -          241   10   15 
+jonnyred  949657469  2  1 Bc  k     k     k          246   10   10 7s 6c
+jonnyred  949657484  2  2 Br  b     b     b          246   70  140 Jc Qh
+jonnyred  949657508  2  1 Bc  k     k     k          316   10   10 Jc 2c
+jonnyred  949657524  2  2 Bk  k     k     k          316   10    0 Kd 5d
+jonnyred  949657546  3  1 Bc  kf    -     -          306   10    0 
+jonnyred  949657566  3  3 rc  c     c     f          296   70    0 
+jonnyred  949657596  3  2 Bcc f     -     -          226   40    0 
+jonnyred  949657621  3  1 Bc  kc    b     b          186   60  140 5s Kd
+jonnyred  949657641  3  3 c   k     rr    k          266   90  185 2d 4d
+jonnyred  949657670  3  2 Bk  k     c     c          361   50  100 9c Jd
+jonnyred  949657691  3  1 Bc  k     kf    -          411   10    0 
+jonnyred  949657722  3  3 c   k     b     -          401   30   45 
+jonnyred  949657739  3  2 Bk  cr    rc    c          416  130    0 7c Qc
+jonnyred  949657777  3  1 Bc  k     k     kf         286   10    0 
+jonnyred  949657808  3  3 c   c     c     k          276   40    0 8s As
+jonnyred  949657827  3  2 Bk  k     b     -          236   30   40 
+jonnyred  949657848  3  1 Bc  kf    -     -          246   10    0 
+jonnyred  949657875  3  3 cc  c     c     r          236   90  200 5s Jc
+jonnyred  949657897  3  2 Bk  kf    -     -          346   10    0 
+jonnyred  949657933  3  1 Bc  kc    kc    kf         336   40    0 
+jonnyred  949657953  3  3 c   b     b     bc         296   80    0 Js Tc
+jonnyred  949657980  3  2 Bk  b     bf    -          216   40    0 
+jonnyred  949658007  3  1 Bc  b     b     -          176   40   70 
+jonnyred  949658021  3  3 c   k     b     c          206   50    0 5h Ts
+jonnyred  949658054  3  2 Bk  k     c     f          156   30    0 
+jonnyred  949658089  4  1 Bf  -     -     -          126    5    0 
+jonnyred  949658121  4  4 c   k     r     rrA        121  121    0 4c Ah
+jonnyred  949658245  4  3 cc  c     c     k         1000   50    0 Kc 2c
+jonnyred  949658283  4  2 Bk  kf    -     -          950   10    0 
+jonnyred  949658309  4  1 Bc  kc    kc    k          940   40    0 5d 6h
+jonnyred  949658329  4  4 c   f     -     -          900   10    0 
+jonnyred  949658353  4  3 r   k     f     -          890   20    0 
+jonnyred  949658387  4  2 Bc  k     kf    -          870   20    0 
+jonnyred  949658435  4  1 Bc  k     k     b          850   30   60 
+jonnyred  949658468  4  4 f   -     -     -          880    0    0 
+jonnyred  949658488  4  3 cc  k     k     bc         880   60    0 3s 9s
+jonnyred  949658534  4  2 Bk  k     kf    -          820   10    0 
+jonnyred  949658554  4  1 Bc  kf    -     -          810   10    0 
+jonnyred  949658568  4  4 c   c     c     r          800   80  170 7h Kc
+jonnyred  949658597  4  3 c   r     k     f          890   30    0 
+jonnyred  949658647  4  2 Bk  k     k     k          860   10   25 Kh 7s
+jonnyred  949658673  4  1 Bcc br    b     b          875   90  200 Ad 4d
+jonnyred  949658707  4  4 c   k     k     k          985   10   30 5h 7h
+jonnyred  949658741  4  3 f   -     -     -         1005    0    0 
+jonnyred  949658804  5  3 c   k     k     k         1005   10    0 7h 9s
+jonnyred  949658879  4  2 Bf  -     -     -          995   10    0 
+jonnyred  949658957  4  1 Bc  kc    kf    -          985   20    0 
+jonnyred  949658994  5  5 f   -     -     -          965    0    0 
+jonnyred  949659020  5  4 r   bc    rc    c          965  120    0 Kd Ad
+jonnyred  949659073  5  3 f   -     -     -          845    0    0 
+jonnyred  949659119  5  2 Bc  k     b     b          845   60  140 8d 5d
+jonnyred  949659177  5  1 Bc  kc    kc    kf         925   40    0 
+jonnyred  949659204  5  5 c   k     b     c          885   50    0 9c 9s
+jonnyred  949659262  6  5 f   -     -     -          835    0    0 
+jonnyred  949659341  5  4 f   -     -     -          835    0    0 
+jonnyred  949659404  4  2 Bk  k     k     b          835   30  120 Jd 3s
+jonnyred  949659445  4  1 Bf  -     -     -          925    5    0 
+jonnyred  949659460  4  4 f   -     -     -          920    0    0 
+jonnyred  949659504  5  3 c   k     k     b          920   30    0 5s 4h
+jonnyred  949659533  5  2 Bc  kf    -     -          890   20    0 
+jonnyred  949659574  5  1 Br  b     b     b          870   80  310 Qc Kh
+jonnyred  949659618  5  5 c   c     c     f         1100   50    0 
+jonnyred  949659654  4  3 f   -     -     -         1050    0    0 
+jonnyred  949659682  4  2 Bk  k     kc    k         1050   30   80 7h 9d
+jonnyred  949659720  4  1 Bc  kf    -     -         1100   10    0 
+jonnyred  949659755  4  4 c   k     c     k         1090   30   75 Qs 9s
+jonnyred  949659792  4  3 f   -     -     -         1135    0    0 
+jonnyred  949659853  4  2 Bk  kf    -     -         1135   10    0 
+jonnyred  949659899  4  1 Bc  kf    -     -         1125   10    0 
+jonnyred  949659938  5  5 c   c     k     k         1115   30    0 5s Kh
+jonnyred  949659977  5  4 c   f     -     -         1085   20    0 
+jonnyred  949660027  5  3 ccc c     k     k         1065   50    0 8h 7h
+jonnyred  949660088  6  3 cc  r     b     b         1015   80  230 7s 8d
+jonnyred  949660143  6  2 Bk  kf    -     -         1165   10    0 
+jonnyred  949660211  5  1 Bf  -     -     -         1155    5    0 
+jonnyred  949660228  4  4 c   k     f     -         1150   20    0 
+jonnyred  949660261  4  3 cc  k     f     -         1130   20    0 
+jonnyred  949660293  5  2 Bc  cc    kf    -         1110   50    0 
+jonnyred  949660349  6  1 Bc  kc    k     k         1060   30    0 Kc 7s
+jonnyred  949660408  5  5 cc  c     rc    r         1030  130  400 3h Ah
+jonnyred  949660470  5  4 f   -     -     -         1300    0    0 
+jonnyred  949660515  5  3 cc  c     f     -         1300   30    0 
+jonnyred  949660545  8  5 c   b     b     b         1270   60  140 Tc Jc
+jonnyred  949660596  7  4 f   -     -     -         1350    0    0 
+jonnyred  949660646  7  3 f   -     -     -         1350    0    0 
+jonnyred  949660690  7  2 Bf  -     -     -         1350   10    0 
+jonnyred  949660758  8  1 Bc  kc    kc    kf        1340   50    0 
+jonnyred  949660823  8  8 c   k     b     k         1290   30    0 Jh 9c
+jonnyred  949660881  8  7 f   -     -     -         1260    0    0 
+jonnyred  949660910  8  6 r   f     -     -         1260   20    0 
+jonnyred  949660964  8  5 c   c     f     -         1240   30    0 
+jonnyred  949661071  7  4 c   kc    kf    -         1210   20    0 
+jonnyred  949661130  6  2 Bc  cc    k     kf        1190   40    0 
+jonnyred  949661165  6  1 Bc  kc    kf    -         1150   20    0 
+jonnyred  949661244  5  4 f   -     -     -         1130    0    0 
+jonnyred  949661290  5  4 cc  b     k     f         1130   30    0 
+jonnyred  949661340  5  3 f   -     -     -         1100    0    0 
+jonnyred  949661369  5  2 Bk  b     b     b         1100   60  160 6c 9c
+jonnyred  949661416  5  1 Bc  kc    kf    -         1200   30    0 
+jonnyred  949661462  4  4 c   r     bc    c         1170   90    0 Qs Jd
+jonnyred  949661490  3  3 c   b     -     -         1080   20   40 
+jonnyred  949661509  3  2 Br  c     f     -         1100   50    0 
+jonnyred  949661537  4  1 Bc  kc    kc    b         1050   70    0 5c Ah
+jonnyred  949661581  4  4 c   k     b     rc         980   90    0 5s Tc
+jonnyred  949661623  4  3 cc  rr    rc    c          890  140    0 Ac 9h
+jonnyred  949661664  4  2 Bc  k     kc    k          750   50    0 Td 9c
+jonnyred  949661699  4  1 Bc  k     k     k          700   10    0 Ts 5h
+jonnyred  949661726  4  4 c   b     -     -          690   20   45 
+jonnyred  949661744  4  3 cc  rr    rr    b          715  160  162 3d Ks
+jonnyred  949661786  4  2 Bk  kc    f     -          717   30    0 
+jonnyred  949661826  4  1 Bc  kf    -     -          687   10    0 
+jonnyred  949661844  4  4 cc  c     c     c          677   70    0 5h 5c
+jonnyred  949661858  4  3 c   k     b     -          607   30   45 
+jonnyred  949661878  4  2 Bc  k     kf    -          622   20    0 
+jonnyred  949661895  4  1 Bc  kf    -     -          602   10    0 
+jonnyred  949661921  4  4 c   c     rr    b          592  120  260 Ks 8d
+jonnyred  949661964  5  3 r   b     b     b          732   70  210 Jd Qc
+jonnyred  949661999  5  2 Bc  kf    -     -          872   20    0 
+jonnyred  949662043  5  1 Bc  kc    kc    kc         852   70    0 Kh 6c
+jonnyred  949662081  6  6 c   c     c     f          782   70    0 
+jonnyred  949662134  6  5 f   -     -     -          712    0    0 
+jonnyred  949662163  5  3 cc  kc    b     bc         712   90    0 Tc Qs
+jonnyred  949662204  5  2 Bc  kc    kc    f          622   50    0 
+jonnyred  949662253  5  1 Bc  b     brc   bc         572  140    0 6d 7d
+jonnyred  949662282  5  5 r   k     b     b          432   60  130 
+jonnyred  949662313  5  4 cc  k     kc    kf         502   40    0 
+jonnyred  949662342  5  3 c   k     k     k          462   10   45 4s Qs
+jonnyred  949662375  5  2 Bc  cc    kc    kf         497   60    0 
+jonnyred  949662412  5  1 Bc  k     b     b          437   50   90 
+jonnyred  949662441  5  5 cc  c     f     -          477   30    0 
+jonnyred  949662473  5  4 c   kc    kc    br         447  100  127 9s 4s
+jonnyred  949662512  5  3 c   kf    -     -          474   10    0 
+jonnyred  949662554  5  2 Bk  k     k     f          464   10    0 
+jonnyred  949662586  5  1 Bc  kf    -     -          454   10    0 
+jonnyred  949662633  6  5 f   -     -     -          444    0    0 
+jonnyred  949662671  6  5 rc  b     ccc   c          444  150    0 Td Th
+jonnyred  949662728  6  4 ccc bcc   b     r          294  140  500 7s Kh
+jonnyred  949662807  6  3 c   k     f     -          654   10    0 
+jonnyred  949662838  6  2 Bk  k     kf    -          644   10    0 
+jonnyred  949662869  7  1 Bc  kc    kcc   kc         634  120    0 5c Ks
+jonnyred  949662931  7  7 cc  k     c     f          514   60    0 
+jonnyred  949662998  7  6 c   k     f     -          454   20    0 
+jonnyred  949663045  7  5 c   c     f     -          434   20    0 
+jonnyred  949663087  8  5 f   -     -     -          414    0    0 
+jonnyred  949663138  8  4 c   f     -     -          414   20    0 
+jonnyred  949663198  9  4 r   rr    rc    kc         394  160    0 Jc Kd
+jonnyred  949663274  9  3 c   kc    kc    k          234   40    0 Jc 6h
+jonnyred  949663372  9  3 c   kf    -     -          194   10    0 
+jonnyred  949663451  9  2 Bcc br    bc    bc         184  180    0 3h 3s
+jonnyred  949663511  9  1 BA  -     -     -            4    4   28 6s Ad
+jonnyred  949663569  9  9 r   cA    -     -           28   28    0 Jd As
+jonnyred  949744303 10  5 c   k     f     -         1655   10    0 
+jonnyred  949744348 10  4 f   -     -     -         1645    0    0 
+jonnyred  949744381 10  3 f   -     -     -         1645    0    0 
+jonnyred  949744434  8  2 Bk  kf    -     -         1645   10    0 
+jonnyred  949744456  9  1 Bc  kf    -     -         1635   10    0 
+jonnyred  949744480 10 10 c   rr    bc    rc        1625  160  430 7h 5h
+jonnyred  949744593 10  9 f   -     -     -         1895    0    0 
+jonnyred  949744633 10  9 f   -     -     -         1895    0    0 
+jonnyred  949744677  7  6 f   -     -     -         1895    0    0 
+jonnyred  949744696  7  5 f   -     -     -         1895    0    0 
+jonnyred  949744739  8  5 f   -     -     -         1895    0    0 
+jonnyred  949744805  9  4 f   -     -     -         1895    0    0 
+jonnyred  949744839  9  3 cc  f     -     -         1895   20    0 
+jonnyred  949744890  9  2 Bc  f     -     -         1875   20    0 
+jonnyred  949744934  9  1 Bf  -     -     -         1855    5    0 
+jonnyred  949745001  9  9 c   k     f     -         1850   20    0 
+jonnyred  949745058  9  8 f   -     -     -         1830    0    0 
+jonnyred  949745119  9  7 c   k     k     kc        1830   30    0 2c 2s
+jonnyred  949745161  9  6 c   f     -     -         1800   10    0 
+jonnyred  949745206  9  5 f   -     -     -         1790    0    0 
+jonnyred  949745232  9  4 c   rc    c     k         1790   70    0 9d Js
+jonnyred  949745293 10  3 f   -     -     -         1710    0    0 
+jonnyred  949745337 10  2 Bc  kc    kc    kc        1710   70    0 9c Kc
+jonnyred  949745379 10  1 Bc  fQ    -     -         1640   10    0 
+jonnyred  949789271 10  7 f   -     -     -         1185    0    0 
+jonnyred  949789320 10  6 f   -     -     -         1185    0    0 
+jonnyred  949789367 10  5 f   -     -     -         1185    0    0 
+jonnyred  949789428 10  4 c   f     -     -         1185   10    0 
+jonnyred  949789516  9  3 f   Q     -     -         1175    0    0 
+jonnyred  949907170  7  6 c   f     -     -         1815   10    0 
+jonnyred  949907218  8  5 f   -     -     -         1800    0    0 
+jonnyred  949907266  7  3 c   kf    -     -         1800   10    0 
+jonnyred  949907332  7  2 Br  bc    kc    k         1790   60  170 Qs Qd
+jonnyred  949907376  7  1 Bc  kc    kf    -         1900   30    0 
+jonnyred  949907432  8  8 f   -     -     -         2045    0    0 
+jonnyred  949907457  8  7 f   -     -     -         2045    0    0 
+jonnyred  949907525  8  6 f   -     -     Q         2045    0    0 
+jonnyred  949910340  9  8 f   -     -     -         1610    0    0 
+jonnyred  949910398 10  7 f   -     -     -         1570    0    0 
+jonnyred  949910458 10  7 c   c     rc    c         1530  110  175 Qs 7s
+jonnyred  949910504  9  5 c   r     b     b         1595   80  350 4h 4d
+jonnyred  949910573 10  4 f   -     -     -         1865    0    0 
+jonnyred  949910633  8  2 Bk  k     k     kf        1835   10    0 
+jonnyred  949910671  8  1 Br  bc    kc    k         1825   60    0 Qh Qs
+jonnyred  949910711  8  8 f   -     -     -         1765    0    0 
+jonnyred  949910767  8  7 c   f     -     -         1765   10    0 
+jonnyred  949910809 10  8 f   -     -     -         1755    0    0 
+jonnyred  949910875 10  7 c   cc    f     -         1695   25    0 
+jonnyred  949910942 10  6 f   -     -     -         1670    0    0 
+jonnyred  949911020 10  5 cc  f     -     Q         1430   20    0 
+jonnyred  949916286 10  5 f   -     -     -          755    0    0 
+jonnyred  949916342 10  4 cf  -     -     -          755   10    0 
+jonnyred  949916402 10  3 cc  c     f     -          725   30    0 
+jonnyred  949916454 10  2 BQ  -     -     -          635   10    0 
+jonnyred  950005345 10  7 Q   -     -     -        27900    0    0 
+jonnyred  950006785  9  4 f   -     -     -        28005    0    0 
+jonnyred  950006836  9  3 r   b     -     -        28005   30   60 
+jonnyred  950006861  9  2 Bf  -     -     -        28035   10    0 
+jonnyred  950006917  9  1 Bcrc krf   -     -        28025   60    0 
+jonnyred  950006944  9  9 c   cc    f     -        27965   50    0 
+jonnyred  950006990  9  8 f   -     -     -        27915    0    0 
+jonnyred  950007043  9  7 f   -     -     -        27915    0    0 
+jonnyred  950007083  9  6 f   -     -     -        27915    0    0 
+jonnyred  950007101  9  5 f   -     Q     -        27915    0    0 
+jonnyred  950253067  9  2 Bcc kc    b     b          615   90  430 4c Qc
+jonnyred  950253145  9  1 Bf  -     -     -          945    5    0 
+jonnyred  950253206  8  8 c   k     f     -          940   10    0 
+jonnyred  950253252  8  7 c   c     f     -          930   40    0 
+jonnyred  950253292  8  6 cc  c     c     c          890   70  230 4d 5h
+jonnyred  950253348  8  5 f   -     -     -         1050    0    0 
+jonnyred  950253395  8  4 cc  c     b     b         1050   90  275 
+jonnyred  950253462  8  3 cc  bc    k     kf        1225   40    0 
+jonnyred  950253519  8  2 Bk  c     b     k         1165   40    0 7s Ts
+jonnyred  950253587  9  1 Bf  -     -     -         1075    5    0 
+jonnyred  950253641  8  8 cc  f     -     -         1130   40    0 
+jonnyred  950253717  7  6 cc  c     c     bc        1090   90  270 Jh Ad
+jonnyred  950253765  7  5 f   -     -     -         1200    0    0 
+jonnyred  950253832  7  4 f   -     -     -         1195    0    0 
+jonnyred  950253889  7  3 cc  cc    f     -         1185   60    0 
+jonnyred  950253966  7  2 Bcc br    rc    rc        1115  220    0 9c 8h
+jonnyred  950254054  6  1 Bc  k     k     k          845   10   50 Js 2d
+jonnyred  950254119  7  7 c   f     -     -          875   30    0 
+jonnyred  950254173  8  7 c   k     c     c          860   50    0 Qh Th
+jonnyred  950254252  8  6 cc  c     k     rc         820  110  120 Ac 6c
+jonnyred  950254321  8  5 c   c     c     c          830   70  210 5d As
+jonnyred  950254361  8  4 f   -     -     -          970    0    0 
+jonnyred  950254408  7  2 Br  bc    b     b          970   80    0 Qs Qh
+jonnyred  950254450  7  1 Bc  kc    kc    kc         890   60  180 7h Tc
+jonnyred  950254530  7  7 c   k     f     -         1010   10    0 
+jonnyred  950254574  7  6 f   -     -     -         1000    0    0 
+jonnyred  950254605  7  5 c   kf    -     -         1000   10    0 
+jonnyred  950254666  7  4 cc  k     f     -          990   20    0 
+jonnyred  950254732  7  3 c   kc    kc    kf         970   50    0 
+jonnyred  950254775  7  2 Bk  k     b     -          920   30   55 
+jonnyred  950254810  7  1 Bc  kc    kc    kf         945   40    0 
+jonnyred  950254863  7  7 f   -     -     -          905    0    0 
+jonnyred  950254933  9  7 c   ccc   f     -          905   60    0 
+jonnyred  950255029 10  7 c   k     k     Q          845   10    0 
+jonnyred  950255183 10  5 f   -     -     -          835    0    0 
+jonnyred  950255261 10  4 f   -     -     -          835    0    0 
+jonnyred  950255315 10  3 cc  kc    kc    kf         835   50    0 
+jonnyred  950255381 10  2 Bc  bc    bc    kc         785  100    0 7s Ah
+jonnyred  950255467 10  1 Bc  k     kf    -          695   10    0 
+jonnyred  950255547  8  8 f   -     -     -          685    0    0 
+jonnyred  950255625  8  7 KQ  -     -     -          685    0    0 
+jonnyred  950255765  8  5 f   -     -     -          685    0    0 
+jonnyred  950255850  9  5 c   kf    -     -          650   10    0 
+jonnyred  950255907  7  3 f   -     -     -          640    0    0 
+jonnyred  950255963  8  2 Bcc kQ    -     -          720   40    0 
+jonnyred  950259284  2  2 cc  f     -     -         1175   20    0 
+jonnyred  950259294  2  2 Bk  c     f     -         1155   20    0 
+jonnyred  950259307  2  1 Br  b     -     -         1135   30   50 
+jonnyred  950259314  2  2 Br  c     k     b         1155   60  120 7d 7c
+jonnyred  950259336  2  1 Bcc kf    -     -         1215   20    0 
+jonnyred  950259347  2  2 B   -     -     -         1195   10   15 
+jonnyred  950259350  2  1 Bf  -     -     -         1200    5    0 
+jonnyred  950259352  2  2 B   -     -     -         1195   10   15 
+jonnyred  950259353  2  1 Bc  b     b     -         1200   40   60 
+jonnyred  950259367  2  2 Bc  c     c     k         1220   50  100 Th 7h
+jonnyred  950259385  2  1 Bf  -     -     -         1270    5    0 
+jonnyred  950259390  2  2 B   -     -     -         1265   10   15 
+jonnyred  950259391  2  1 Bc  kc    k     k         1270   20   40 Ad 2c
+jonnyred  950259407  2  2 B   -     -     -         1290   10   15 
+jonnyred  950259412  2  1 Bc  k     k     kc        1295   30   60 Kh 5d
+jonnyred  950259425  2  2 Bk  k     k     f         1325   10    0 
+jonnyred  950259444  2  1 Bc  k     b     -         1315   30   40 
+jonnyred  950259452  2  2 Bk  f     -     -         1325   10    0 
+jonnyred  950259461  2  1 Bc  k     br    b         1315   90  160 
+jonnyred  950259476  2  2 Bk  c     k     c         1385   40   80 8h Ah
+jonnyred  950259490  2  1 Bc  kc    kc    kc        1425   60   60 Qh 4s
+jonnyred  950259512  2  2 B   -     -     -         1425   10   15 
+jonnyred  950259518  2  1 Bf  -     -     -         1430    5    0 
+jonnyred  950259520  2  2 B   -     -     -         1425   10   15 
+jonnyred  950259523  2  1 Bcc kc    kr    b         1430   90  180 6d Td
+jonnyred  950259538  3  2 B   -     -     -         1520   10   15 
+jonnyred  950259544  3  1 Bf  -     -     -         1525    5    0 
+jonnyred  950259548  3  3 cc  f     -     -         1520   20    0 
+jonnyred  950259559  3  2 Bc  f     -     -         1500   20    0 
+jonnyred  950259570  3  1 Bc  kf    -     -         1480   10    0 
+jonnyred  950259580  3  3 c   k     c     c         1470   50    0 6s As
+jonnyred  950259594  3  2 Bc  kc    kr    -         1420   70  125 
+jonnyred  950259611  3  1 Bf  -     -     -         1475    5    0 
+jonnyred  950259615  3  3 c   k     c     f         1470   30    0 
+jonnyred  950259629  3  2 Bk  c     f     -         1440   20    0 
+jonnyred  950259638  3  1 Bc  bc    k     b         1420   50   80 
+jonnyred  950259656  3  3 cc  f     -     -         1450   20    0 
+jonnyred  950259683  3  2 B   -     -     -         1430   10   15 
+jonnyred  950259691  3  1 Bcc kc    kc    kf        1435   50    0 
+jonnyred  950259711  3  3 c   f     -     -         1385   10    0 
+jonnyred  950259720  3  2 Bc  kf    -     -         1375   20    0 
+jonnyred  950259737  3  1 Bc  k     b     -         1355   30   40 
+jonnyred  950259746  3  3 c   c     c     c         1365   60    0 Kd Kh
+jonnyred  950259762  3  2 Bk  c     f     -         1305   20    0 
+jonnyred  950259807  3  1 Bc  kc    kc    brc       1285  130  135 7s 9h
+jonnyred  950259830  3  3 cc  c     k     k         1290   30    0 9d Td
+jonnyred  950259850  3  2 Bc  kc    kr    -         1260   70  125 
+jonnyred  950259868  3  1 Bc  kf    -     -         1315   10    0 
+jonnyred  950259879  3  3 c   c     c     k         1305   40    0 Kh 5h
+jonnyred  950259895  3  2 Bc  c     b     b         1265   70    0 9c Ad
+jonnyred  950259918  3  1 Br  b     b     b         1195   70  130 
+jonnyred  950259940  3  3 f   -     -     -         1255    0    0 
+jonnyred  950259945  3  2 Bk  k     k     f         1255   10    0 
+jonnyred  950259959  3  1 Bcc kf    -     -         1245   20    0 
+jonnyred  950259970  4  4 cc  c     k     b         1225   50   85 
+jonnyred  950259988  4  3 cc  f     -     -         1260   20    0 
+jonnyred  950259997  4  2 Bc  c     b     -         1240   50   80 
+jonnyred  950260011  4  1 Bc  kf    -     -         1270   10    0 
+jonnyred  950260042  4  4 c   c     k     r         1260   60  115 
+jonnyred  950260062  4  3 cc  kc    kf    -         1315   30    0 
+jonnyred  950260082  4  2 Bcc c     c     f         1285   70    0 
+jonnyred  950260107  5  1 Bc  b     -     -         1215   20   40 
+jonnyred  950260122  5  5 c   c     c     c         1235   70   87 8c Qs
+jonnyred  950260142  5  4 f   -     -     -         1252    0    0 
+jonnyred  950260152  5  3 c   c     f     -         1252   20    0 
+jonnyred  950260175  5  2 Bk  f     -     -         1232   10    0 
+jonnyred  950260191  6  1 Bc  kc    b     b         1222   60  120 
+jonnyred  950260223  6  6 c   c     c     f         1282   40    0 
+jonnyred  950260257  6  5 c   f     -     -         1242   10    0 
+jonnyred  950260272  6  4 f   -     -     -         1232    0    0 
+jonnyred  950260300  6  3 cc  f     -     -         1232   20    0 
+jonnyred  950260328  6  2 Bc  kf    -     -         1212   20    0 
+jonnyred  950260358  6  1 Bc  kf    -     -         1192   10    0 
+jonnyred  950260393  6  6 c   k     r     r         1182   90    0 As 3s
+jonnyred  950260421  6  5 c   k     f     -         1092   10    0 
+jonnyred  950260441  6  4 f   -     -     -         1082    0    0 
+jonnyred  950260452  6  3 cc  c     c     c         1082   80  190 Ks Qc
+jonnyred  950260478  6  2 Bc  f     -     -         1192   20    0 
+jonnyred  950260490  6  1 Bf  -     -     -         1172    5    0 
+jonnyred  950260513  6  6 c   f     -     -         1167   20    0 
+jonnyred  950260539  6  5 r   c     k     k         1147   30   65 9h Ah
+jonnyred  950260562  6  4 c   k     rc    f         1182   80    0 
+jonnyred  950260591  7  4 c   b     b     b         1102   60  115 
+jonnyred  950260617  7  3 cc  kc    kc    k         1157   50    0 6s 7d
+jonnyred  950260650  7  2 Bk  kc    kc    kc        1107   60    0 8s Qh
+jonnyred  950260728  8  1 Bc  kf    -     -         1047   10    0 
+jonnyred  950260765  8  8 c   c     r     b         1037   80  260 Kh Jc
+jonnyred  950260811  7  4 Q   -     -     -         1217    0    0 
+jonnyred  950261816  2  1 Bc  kc    kc    kf         732   40    0 
+jonnyred  950261834  2  2 Bk  b     b     b          692   60  120 Kh Jc
+jonnyred  950261854  2  1 Bc  k     k     b          752   30   40 
+jonnyred  950261868  2  2 Bk  c     rc    c          762  100  200 Qc Ts
+jonnyred  950261885  2  1 Bc  kc    k     k          862   20   40 Kd Jd
+jonnyred  950261900  2  2 B   -     -     -          882   10   15 
+jonnyred  950261904  2  1 Bc  b     bc    kc         887   80    0 9s Td
+jonnyred  950261920  2  2 Bc  c     c     f          807   50    0 
+jonnyred  950261941  2  1 Bc  b     -     -          757   20   30 
+jonnyred  950261950  2  2 Bk  k     b     -          767   30   40 
+jonnyred  950261959  2  1 Bc  k     b     b          777   50   80 
+jonnyred  950261973  2  2 Bk  k     k     f          807   10    0 
+jonnyred  950261985  2  1 Bc  k     k     b          797   30   40 
+jonnyred  950261995  2  2 B   -     -     -          807   10   15 
+jonnyred  950261998  2  1 Bc  bf    -     -          812   20    0 
+jonnyred  950262009  2  2 B   -     -     -          792   10   15 
+jonnyred  950262011  2  1 Br  b     b     br         797  110    0 6h 6d
+jonnyred  950262028  2  2 B   -     -     -          687   10   15 
+jonnyred  950262037  2  1 Br  b     -     -          692   30   50 
+jonnyred  950262043  2  2 Brc c     f     -          712   50    0 
+jonnyred  950262058  2  1 Bc  b     -     -          662   20   30 
+jonnyred  950262064  2  2 Brc r     rc    k          672  120  120 Jc Ah
+jonnyred  950262133  2  1 Bcc k     b     k          672   40   80 8s Kc
+jonnyred  950262170  2  2 Bk  k     k     k          712   10    0 4h Tc
+jonnyred  950262302  2  1 Bc  kf    -     -          702   10    0 
+jonnyred  950262353  2  2 Bk  c     k     b          692   40   60 
+jonnyred  950262422  2  1 Bc  kf    -     -          712   10    0 
+jonnyred  950262444  2  2 Bk  rc    b     -          702   60  100 
+jonnyred  950262467  2  1 Bc  kc    k     kc         742   40   80 8d 8c
+jonnyred  950262483  3  3 cc  c     c     k          782   50    0 8d Kd
+jonnyred  950262515  3  2 Bc  r     b     b          732   80  180 
+jonnyred  950262544  3  1 Bc  kc    kc    k          832   50    0 Tc 9d
+jonnyred  950262560  3  3 cc  b     -     -          782   30   70 
+jonnyred  950262578  3  2 Bk  c     c     c          822   60    0 2c 4d
+jonnyred  950262592  3  1 Bc  k     b     b          762   60  120 
+jonnyred  950262621  3  3 f   -     -     -          822    0    0 
+jonnyred  950262642  3  2 Bk  kf    -     -          822   10    0 
+jonnyred  950262657  4  1 Bcc kf    -     -          812   40    0 
+jonnyred  950262704  4  4 cc  c     c     k          772   60    0 3d Qd
+jonnyred  950262737  3  2 Bc  kc    kr    b          712   90  185 7c Ah
+jonnyred  950262765  3  1 Bc  k     k     k          807   20    0 7c 4h
+jonnyred  950262805  4  4 c   f     -     -          787   20    0 
+jonnyred  950262821  4  3 cc  bc    kc    kc         767   80    0 5d Jd
+jonnyred  950262872  5  3 c   r     k     r          687   70   80 8c 7h
+jonnyred  950262925  5  2 Bk  Q     -     -          697   10    0 
+jonnyred  950863972  7  5 ccc f     -     -         1268   40    0 
+jonnyred  950864030  7  4 f   -     -     -         1198    0    0 
+jonnyred  950864083  7  3 cc  k     kf    -          878   20    0 
+jonnyred  950864154  6  2 Bk  kc    kc    kf         718   40    0 
+jonnyred  950864217  8  1 Bc  br    b     b          598   80  270 Qh Jh
+jonnyred  950864267  8  8 f   -     -     -          778    0    0 
+jonnyred  950864307  8  7 f   -     -     -          778    0    0 
+jonnyred  950864368  8  6 c   f     -     -          778   10    0 
+jonnyred  950864429  8  5 c   k     c     f          768   30    0 
+jonnyred  950864477  8  4 f   -     -     -          738    0    0 
+jonnyred  950864531  9  3 c   k     k     b          738   30   90 5d 9d
+jonnyred  950864607  9  2 Bcc kc    k     k          798   50    0 9s Ah
+jonnyred  950864719  7  1 Bc  kc    k     k          748   20    0 Ts 7d
+jonnyred  950864758  6  6 f   -     -     -          728    0    0 
+jonnyred  950864791  6  5 c   cf    -     -          728   20    0 
+jonnyred  950864836  6  4 cc  c     c     c          708  100  320 5c Tc
+jonnyred  950864867  6  3 f   -     -     -          928    0    0 
+jonnyred  950864917  7  2 Brc br    -     -          928   80  265 
+jonnyred  950865011  6  1 Bcc kc    kf    -         1113   30    0 
+jonnyred  950865051  5  5 c   k     k     k         1083   10    0 8h 5h
+jonnyred  950865082  5  4 f   -     -     -         1073    0    0 
+jonnyred  950865129  5  3 c   b     b     b         1073   60  150 3s 3h
+jonnyred  950865172  5  2 Bc  kf    -     -         1163   20    0 
+jonnyred  950865213  5  1 Bc  k     kc    kc        1143   50   60 8h Ah
+jonnyred  950865237  5  5 f   -     -     -         1153    0    0 
+jonnyred  950865270  5  4 c   k     k     b         1153   30   65 
+jonnyred  950865310  5  3 c   c     c     f         1188   40    0 
+jonnyred  950865345  5  2 Bk  kc    kc    kf        1148   40    0 
+jonnyred  950865374  5  1 Bf  -     -     -         1108    5    0 
+jonnyred  950865399  5  5 f   -     -     -         1103    0    0 
+jonnyred  950865448  6  4 f   -     -     -         1103    0    0 
+jonnyred  950865497  6  3 f   -     -     -         1103    0    0 
+jonnyred  950865543  6  2 Bc  k     k     k         1103   20    0 5h Ah
+jonnyred  950865594  6  1 Bc  kf    -     -         1083   10    0 
+jonnyred  950865647  6  6 f   -     -     -         1073    0    0 
+jonnyred  950865702  6  5 f   -     -     -         1073    0    0 
+jonnyred  950865751  6  4 f   -     -     -         1073    0    0 
+jonnyred  950865804  6  3 c   k     f     -         1073   10    0 
+jonnyred  950865849  6  2 Bcc kc    kc    kc        1063   80    0 Jc Kc
+jonnyred  950865898  6  1 Bcc b     b     b          983   70    0 6d Ah
+jonnyred  950865955  6  6 f   -     -     -          913    0    0 
+jonnyred  950865993  6  5 f   -     -     -          913    0    0 
+jonnyred  950866043  6  4 f   -     -     -          913    0    0 
+jonnyred  950866097  6  3 cc  kf    -     -          913   20    0 
+jonnyred  950866176  6  2 Bc  kf    -     -          893   20    0 
+jonnyred  950866223  6  1 Bc  kf    -     -          873   20    0 
+jonnyred  950866270  6  4 Q   -     -     -          853    0    0 
+jonnyred  951039178  5  2 Bf  -     -     -          858   10    0 
+jonnyred  951039230  5  1 Bc  k     k     k          848   10   20 6d Th
+jonnyred  951039253  5  5 c   r     b     -          858   60  115 
+jonnyred  951039272  5  4 f   -     -     -          913    0    0 
+jonnyred  951039309  5  3 cc  kf    -     -          913   20    0 
+jonnyred  951039348  5  2 Bk  kf    -     -          893   10    0 
+jonnyred  951039376  5  1 Bc  kf    -     -          883   20    0 
+jonnyred  951039401  5  5 c   k     r     -          863   50   95 
+jonnyred  951039421  6  4 c   k     k     k          908   10    0 4d 5c
+jonnyred  951039458  8  3 cc  cc    k     k          898   40    0 Ts Ac
+jonnyred  951039504  7  2 Bf  -     -     -          858   10    0 
+jonnyred  951039539  7  1 Bc  b     b     bc         848   80   95 9c Qs
+jonnyred  951039573  5  5 f   -     -     -          863    0    0 
+jonnyred  951039592  5  4 cc  c     c     f          863   50    0 
+jonnyred  951039609  5  3 r   b     b     b          813   70  180 
+jonnyred  951039640  6  2 Bc  kr    b     -          923   60  145 
+jonnyred  951039661  7  1 Bc  kf    -     -         1008   10    0 
+jonnyred  951039698  7  7 c   f     -     -          998   20    0 
+jonnyred  951039716  6  5 c   f     -     -          978   20    0 
+jonnyred  951039760  6  4 rc  c     f     -          958   40    0 
+jonnyred  951039797  6  3 cc  c     r     kc         918   90    0 Jh 7c
+jonnyred  951039835  6  2 Bc  kc    kf    -          828   30    0 
+jonnyred  951039859  6  1 Bc  k     b     k          798   30    0 Qd 6c
+jonnyred  951039881  6  6 c   k     f     -          768   10    0 
+jonnyred  951039904  6  5 c   f     -     -          758   10    0 
+jonnyred  951039934  6  4 r   b     b     k          748   50    0 Js Jh
+jonnyred  951039982  6  3 c   b     kc    kf         698   40    0 
+jonnyred  951040022  6  2 Bf  -     -     -          658   10    0 
+jonnyred  951040055  6  1 Bc  kc    kc    k          648   50    0 5c Ad
+jonnyred  951040089  6  6 c   r     rr    c          598  130    0 Ks Qc
+jonnyred  951040136  6  5 rr  b     rr    k          468  130    0 Ks As
+jonnyred  951040180  6  4 c   f     -     -          338   20    0 
+jonnyred  951040194  6  3 c   b     b     k          318   40  120 Qs 2s
+jonnyred  951040239  7  2 Bc  kc    krc   bc         398  130    0 Kh Ts
+jonnyred  951040292  7  1 Bc  kc    kf    -          268   40    0 
+jonnyred  951040360  7  7 c   c     c     k          228   40    0 7c 8c
+jonnyred  951040409  8  7 r   b     b     k          188   50    0 Ah Kc
+jonnyred  951040441  8  6 c   k     rc    c          138  100    0 Tc 3c
+jonnyred  951040491  8  5 r   b     cA    -           38   38  131 Kd 6c
+jonnyred  951040555  7  3 c   k     k     k          131   10   10 8c 9s
+jonnyred  951040590  9  2 Bf  -     -     -          131   10    0 
+jonnyred  951040669  8  1 Bc  b     b     b          121   60  140 Kh 7c
+jonnyred  951040695  6  6 r   b     c     f          201   50    0 
+jonnyred  951040757  6  5 c   f     -     -          151   10    0 
+jonnyred  951040786  7  4 cc  f     -     -          141   20    0 
+jonnyred  951040844  7  3 cc  cc    k     k          121   40    0 7c Ad
+jonnyred  951040911  7  2 Bcc kf    -     -           81   40    0 
+jonnyred  951040970  7  1 Bc  kf    -     -           41   10    0 
+jonnyred  951041029  7  7 r   c     cA    -           31   31    0 Jh 9h
+jonnyred  951107777  7  2 f   -     -     -         1545    0    0 
+jonnyred  951107815  8  2 Bk  kc    kc    br        1545  100  250 6c 5s
+jonnyred  951107860  8  1 Bc  bc    kc    k         1695   50    0 Jc Ad
+jonnyred  951107930 10 10 f   -     -     -         1645    0    0 
+jonnyred  951108042  9  8 c   b     b     -         1645   40  100 
+jonnyred  951108137  7  5 f   -     -     -         1705    0    0 
+jonnyred  951108185  7  5 r   b     -     -         1705   30   65 
+jonnyred  951108209  7  4 f   -     -     -         1740    0    0 
+jonnyred  951108246  7  3 f   -     -     -         1740    0    0 
+jonnyred  951108330  7  2 B   -     -     -         1740   10   15 
+jonnyred  951108350  7  1 Bf  -     -     -         1745    5    0 
+jonnyred  951108422  7  7 f   -     -     -         1740    0    0 
+jonnyred  951108451  7  6 cc  c     c     c         1740   70    0 Ah 7h
+jonnyred  951108494  7  5 c   f     -     -         1670   10    0 
+jonnyred  951108535  7  4 f   -     -     -         1660    0    0 
+jonnyred  951108595  7  2 f   -     -     -         1660    0    0 
+jonnyred  951108660  8  2 Bk  k     bc    kf        1660   50    0 
+jonnyred  951108718  6  1 Bc  kf    -     -         1610   10    0 
+jonnyred  951108759  6  6 f   -     -     -         1600    0    0 
+jonnyred  951108804  6  5 f   -     -     -         1600    0    0 
+jonnyred  951108821  6  4 c   k     k     k         1600   10   15 As 5h
+jonnyred  951108852  7  3 f   -     -     -         1605    0    0 
+jonnyred  951108896  7  2 Br  bc    kc    k         1605   60  125 Ah 9d
+jonnyred  951108926  8  1 Bc  b     bc    kc        1670   80  230 5c Kc
+jonnyred  951108964  8  8 f   -     -     -         1820    0    0 
+jonnyred  951108981  8  7 f   -     -     -         1820    0    0 
+jonnyred  951109056  8  6 f   -     -     -         1820    0    0 
+jonnyred  951109093  8  5 cc  k     k     f         1820   20    0 
+jonnyred  951109153  8  4 f   -     -     -         1800    0    0 
+jonnyred  951109203  8  3 f   -     -     -         1800    0    0 
+jonnyred  951109224  8  2 Bk  kf    -     -         1800   10    0 
+jonnyred  951109289  8  1 Bf  -     -     -         1790    5    0 
+jonnyred  951109326  9  9 c   f     -     -         1785   10    0 
+jonnyred  951109370  9  8 f   -     -     -         1775    0    0 
+jonnyred  951109435  9  7 c   cf    -     -         1775   20    0 
+jonnyred  951109516  9  6 f   -     -     -         1755    0    0 
+jonnyred  951109579 10  6 f   -     -     -         1755    0    0 
+jonnyred  951109673 10  5 cc  k     f     -         1755   20    0 
+jonnyred  951109747 10  4 cc  f     -     -         1735   20    0 
+jonnyred  951109830 10  3 c   kc    k     kc        1715   50    0 9s Kd
+jonnyred  951109878 10  2 Bk  kf    -     -         1665   10    0 
+jonnyred  951109946 10  1 Bf  -     -     -         1655    5    0 
+jonnyred  951109986 10 10 c   k     r     c         1650   70    0 Qs Jh
+jonnyred  951110046 10  9 c   f     -     -         1580   10    0 
+jonnyred  951110073 10  8 f   -     -     -         1560    0    0 
+jonnyred  951110103 10  7 c   f     -     -         1560   10    0 
+jonnyred  951110182  9  6 f   -     -     -         1545    0    0 
+jonnyred  951110227  9  5 f   -     -     -         1525    0    0 
+jonnyred  951110271  9  4 f   -     -     -         1525    0    0 
+jonnyred  951110375 10  3 f   -     -     -         1742    0    0 
+jonnyred  951110430 10  2 Bk  kf    -     -         1742   10    0 
+jonnyred  951110466 10  1 Bf  -     -     -         1732    5    0 
+jonnyred  951110511  9  9 c   c     c     f         1727   40    0 
+jonnyred  951110540  9  9 c   f     -     -         1687   10    0 
+jonnyred  951110591  9  8 f   -     -     -         1677    0    0 
+jonnyred  951110665 10  7 c   k     f     -         1677   10    0 
+jonnyred  951110729 10  6 c   k     c     cc        1687   90  142 Jh 4h
+jonnyred  951110781 10  5 f   -     -     -         1734    0    0 
+jonnyred  951110839 10  4 f   -     -     -         1879    0    0 
+jonnyred  951110921 10  3 f   -     -     -         1879    0    0 
+jonnyred  951110975 10  2 Bk  kc    kf    -         1974   20    0 
+jonnyred  951111063  8  1 Bf  -     -     -         1954    5    0 
+jonnyred  951111123  8  8 c   r     rc    c         1949  120    0 5s 5c
+jonnyred  951111180  8  7 rr  bc    kc    k         1819   80  335 As Ac
+jonnyred  951111253  8  6 c   f     -     -         2174   10    0 
+jonnyred  951111304  7  4 f   -     -     -         2164    0    0 
+jonnyred  951111335  8  4 c   k     rc    c         2164  110  460 9h Tc
+jonnyred  951111403  8  3 f   -     -     -         2414    0    0 
+jonnyred  951111451  8  2 Bk  k     b     -         2714   30   70 
+jonnyred  951111500  8  1 Bf  -     -     -         2754    5    0 
+jonnyred  951111562  9  9 f   -     -     -         2789    0    0 
+jonnyred  951111591  9  8 f   -     -     -         2789    0    0 
+jonnyred  951111665  9  7 cc  kf    -     -         2749   20    0 
+jonnyred  951111717  9  6 f   Q     -     -         2729    0    0 
+jonnyred  951111791  9  4 crc k     b     kf        2729   60    0 
+jonnyred  951111934  7  2 Bk  k     k     kf        2669   10    0 
+jonnyred  951111980  7  1 Bc  k     k     kf        2659   10    0 
+jonnyred  951112017  7  7 c   c     f     -         2649   20    0 
+jonnyred  951112054  7  6 c   f     -     -         2629   10    0 
+jonnyred  951112107  7  5 f   -     -     -         2619    0    0 
+jonnyred  951112125  7  4 f   Q     -     -         2619    0    0 
+jonnyred  951113370 10  5 KQ  -     -     -         1789    0    0 
+jonnyred  951113507  9  9 f   -     -     -         1869    0    0 
+jonnyred  951113583  9  8 c   f     -     -         1789   10    0 
+jonnyred  951113633  9  7 cc  k     b     c         1779   80    0 8s Ks
+jonnyred  951113717  9  6 f   -     -     -         1619    0    0 
+jonnyred  951113765  9  5 f   -     -     -         1599    0    0 
+jonnyred  951113792  9  4 f   -     Q     -         1599    0    0 
+jonnyred  951117401  7  5 f   -     -     -         1189    0    0 
+jonnyred  951117466  7  4 c   b     -     -         1169   20   35 
+jonnyred  951117539  8  4 r   -     -     -         1184   20   35 
+jonnyred  951117584  6  2 Bc  kf    -     -         1159   20    0 
+jonnyred  951117628  7  1 Bc  kc    kc    br        1139  110    0 3s 3h
+jonnyred  951117674  6  6 c   c     f     -         1029   20    0 
+jonnyred  951117718  6  5 c   f     -     -         1009   10    0 
+jonnyred  951117747  6  4 f   -     -     -          959    0    0 
+jonnyred  951117832  8  4 f   -     -     -          959    0    0 
+jonnyred  951117881  8  3 cc  kf    -     -          819   20    0 
+jonnyred  951117911  8  2 Bf  -     -     -          799   10    0 
+jonnyred  951117949  8  1 Bc  bc    kc    kc         749   80    0 9c Jh
+jonnyred  951117988  8  8 c   c     c     c          659   60  180 8h Qs
+jonnyred  951118028  8  7 f   -     -     -          749    0    0 
+jonnyred  951118084  8  6 f   -     -     -          744    0    0 
+jonnyred  951118119  8  5 f   -     -     -          794    0    0 
+jonnyred  951118162  8  4 cc  c     kf    -          889   30    0 
+jonnyred  951118247  7  3 f   -     -     -          864    0    0 
+jonnyred  951118311  8  2 Bc  br    b     b         1004   90  225 7d Ah
+jonnyred  951118345  8  1 Bc  kcc   kcc   kf        1129  100    0 
+jonnyred  951118424  8  8 r   brc   b     b          954  100  215 Qd Jd
+jonnyred  951118479  8  7 c   f     -     -         1059   10    0 
+jonnyred  951118521  8  6 f   -     -     -         1129    0    0 
+jonnyred  951118557  8  5 c   c     c     f         1109   40    0 
+jonnyred  951118613  7  3 c   c     f     -         1029   20    0 
+jonnyred  951118652  7  2 Br  br    b     b         1004  100  280 
+jonnyred  951118701  7  1 Brc bc    bc    b         1164  120  370 Ac As
+jonnyred  951118738  7  7 c   k     f     -         1439   20    0 
+jonnyred  951118794  8  7 c   c     c     c         1419   70  200 Kc 6c
+jonnyred  951118821  8  6 c   f     -     -         1539   10    0 
+jonnyred  951118855  7  4 cc  c     c     c         1519   70    0 7d 6s
+jonnyred  951118874  7  3 c   f     -     -         1449   10    0 
+jonnyred  951118894  7  2 Bk  kf    -     -         1439   10    0 
+jonnyred  951118920  8  1 Bc  k     b     -         1429   30   50 
+jonnyred  951118938  8  8 c   c     rc    c         1449  110  235 Ac 5h
+jonnyred  951118959  8  7 c   f     -     -         1574   20    0 
+jonnyred  951118996  8  6 c   kc    kf    -         1554   20    0 
+jonnyred  951119025  8  5 c   f     -     -         1524   10    0 
+jonnyred  951119065  8  4 f   -     -     -         1509    0    0 
+jonnyred  951119086  8  3 r   bc    kc    kf        1509   60    0 
+jonnyred  951119122  8  2 Bk  kcc   kf    -         1364   40    0 
+jonnyred  951119164  8  1 Br  b     b     -         1294   60  170 
+jonnyred  951119196  8  8 f   -     -     -         1474    0    0 
+jonnyred  951119216  8  7 f   -     -     -         1474    0    0 
+jonnyred  951119261  8  6 ccc c     r     b         1619  110  400 4c Qc
+jonnyred  951119350  8  5 c   c     c     f         1884   40    0 
+jonnyred  951119396  7  3 f   -     -     -         1844    0    0 
+jonnyred  951119401  7  4 f   -     -     -         1844    0    0 
+jonnyred  951119428  6  2 Bk  b     -     -         1844   20   35 
+jonnyred  951119446  6  1 Bcc kcf   -     -         1859   50    0 
+jonnyred  951119491  6  6 c   f     -     -         1799   10    0 
+jonnyred  951119510  6  5 c   k     b     -         1789   30   45 
+jonnyred  951119529  6  4 r   b     b     -         1799   50   95 
+jonnyred  951119550  7  3 cc  kc    kc    b         1879   70  155 
+jonnyred  951119576  7  2 Bk  kf    -     -         1964   10    0 
+jonnyred  951119609  7  1 Bf  -     -     -         1934    5    0 
+jonnyred  951119617  7  7 c   b     b     -         1929   40   70 
+jonnyred  951119642  7  6 f   -     -     -         1959    0    0 
+jonnyred  951119653  7  5 f   -     -     -         1959    0    0 
+jonnyred  951119666  7  4 c   b     -     -         1929   20   35 
+jonnyred  951119680  7  3 f   -     -     -         1944    0    0 
+jonnyred  951119696  7  2 Bk  kc    k     f         1934   20    0 
+jonnyred  951119748  7  1 Bc  bf    -     -         1904   20    0 
+jonnyred  951119770  6  6 c   k     r     b         1884   80    0 5h Ad
+jonnyred  951119793  6  5 c   brc   kc    b         1794  100    0 Ac Jh
+jonnyred  951119816  6  4 c   f     -     -         1694   10    0 
+jonnyred  951119835  6  3 f   -     -     -         1684    0    0 
+jonnyred  951119849  6  2 Bc  b     bc    k         1679   80    0 Jd 6d
+jonnyred  951119873  6  1 Bc  kc    kc    k         1599   40    0 Ac 3h
+jonnyred  951119898  6  6 c   c     k     b         1559   40  115 
+jonnyred  951119949  6  5 f   -     -     -         1944    0    0 
+jonnyred  951119955  6  4 f   -     -     -         1944    0    0 
+jonnyred  951119971  6  3 f   -     -     -         1944    0    0 
+jonnyred  951119983  6  2 Bf  -     -     -         1944   10    0 
+jonnyred  951120019  6  1 Bf  -     -     -         2084    5    0 
+jonnyred  951120040  6  6 c   k     k     k         2079   10    0 Jd 9h
+jonnyred  951120072  6  5 c   f     -     -         2069   10    0 
+jonnyred  951120109  6  4 c   b     -     -         2009   20   35 
+jonnyred  951120125  6  3 r   r     r     c         2024  100    0 Ac As
+jonnyred  951120147  6  2 B   -     -     -         1914   10   15 
+jonnyred  951120156  6  1 Bc  kc    kf    -         1919   20    0 
+jonnyred  951120194  6  6 f   -     -     -         1899    0    0 
+jonnyred  951120220  6  5 f   -     -     -         1899    0    0 
+jonnyred  951120230  6  4 f   -     -     -         1899    0    0 
+jonnyred  951120256  6  3 rr  bc    kf    -         1879   60    0 
+jonnyred  951120320  6  2 B   -     -     -         1769   10   15 
+jonnyred  951120328  6  1 Bc  kf    -     -         1774   10    0 
+jonnyred  951120381  6  6 c   k     f     -         1759   10    0 
+jonnyred  951120416  6  5 c   f     -     -         1749   10    0 
+jonnyred  951120435  6  4 c   b     k     b         1739   40  100 Qh Tc
+jonnyred  951120485  6  3 cc  k     kf    -         1799   20    0 
+jonnyred  951120515  6  2 Bk  k     b     bc        1864   70    0 Js 2d
+jonnyred  951120564  6  1 Bf  -     -     -         1774    5    0 
+jonnyred  951120571  6  6 c   k     f     -         1769   10    0 
+jonnyred  951120592  6  5 c   r     b     b         1759   80  175 9s 9d
+jonnyred  951120619  6  4 c   k     f     -         1854   10    0 
+jonnyred  951120655  6  3 cc  kf    -     -         1979   20    0 
+jonnyred  951120684  6  2 Bk  r     b     b         1959   70  140 5h 3d
+jonnyred  951120710  6  1 Bc  bc    kc    kc        2029   70    0 Ks Qd
+jonnyred  951120740  6  6 f   -     -     -         1959    0    0 
+jonnyred  951120752  6  5 f   -     -     -         1959    0    0 
+jonnyred  951120812  5  3 cc  f     -     -         1959   20    0 
+jonnyred  951120827  5  2 Bc  b     -     -         1939   30   55 
+jonnyred  951120837  5  1 Bf  -     -     -         1964    5    0 
+jonnyred  951120848  5  5 f   -     -     -         1959    0    0 
+jonnyred  951120862  5  4 c   c     cf    -         1959   50    0 
+jonnyred  951120912  5  3 cc  c     b     b         1889   70  150 9h Kc
+jonnyred  951120937  5  2 Bk  c     k     k         1969   20   40 Ks 3s
+jonnyred  951120962  5  1 Bf  -     -     -         1989    5    0 
+jonnyred  951120997  5  5 c   k     k     k         1984   10    0 As 8d
+jonnyred  951121023  5  4 f   -     -     -         1954    0    0 
+jonnyred  951121039  5  3 c   r     k     c         1954   50    0 7d Ac
+jonnyred  951121060  5  2 B   -     -     -         1904   10   15 
+jonnyred  951121072  5  1 Bf  -     -     -         1909    5    0 
+jonnyred  951121089  5  5 f   -     -     -         1904    0    0 
+jonnyred  951121111  6  5 cc  c     c     k         1904   60    0 3h Ah
+jonnyred  951121163  6  4 f   -     -     -         1844    0    0 
+jonnyred  951121184  6  3 c   b     b     b         1774   60    0 Ts Qd
+jonnyred  951121227  6  2 Bk  Q     -     -         1714   10    0 
+jonnyred  951129885  5  4 f   -     -     -         1564    0    0 
+jonnyred  951129906  5  3 cc  kc    kr    -         1564   70  155 
+jonnyred  951129932  6  2 Bc  kf    -     -         1649   20    0 
+jonnyred  951129961  6  1 Bc  kc    kc    kf        1629   60    0 
+jonnyred  951129998  6  6 f   -     -     -         1569    0    0 
+jonnyred  951130031  6  5 cc  k     k     k         1569   20   80 Ah Tc
+jonnyred  951130064  7  4 f   -     -     -         1629    0    0 
+jonnyred  951130092  7  3 f   -     -     -         1629    0    0 
+jonnyred  951130144  7  2 Brc br    br    b         1629  150  445 
+jonnyred  951130197  7  1 Bc  kr    -     -         1924   40   90 
+jonnyred  951130221  8  8 f   -     -     -         1974    0    0 
+jonnyred  951130262  8  7 f   -     -     -         1974    0    0 
+jonnyred  951130291  8  6 cr  c     c     f         1974   70    0 
+jonnyred  951130342  8  5 c   f     -     -         1904   10    0 
+jonnyred  951130388  7  3 ccc c     c     c         1894   90  360 Ad 8h
+jonnyred  951130430  7  2 Bcc kf    -     -         2164   40    0 
+jonnyred  951130471  7  1 Bc  kcc   kcc   kf        2124  140    0 
+jonnyred  951130535  8  8 f   -     -     -         1984    0    0 
+jonnyred  951130608  8  7 c   b     b     k         1984   40   95 7d 9d
+jonnyred  951130636  8  6 f   -     -     -         2039    0    0 
+jonnyred  951130679  7  4 c   f     -     -         2039   10    0 
+jonnyred  951130712  7  3 ccc b     bc    kc        2029  110    0 Ks Td
+jonnyred  951130760  7  2 Bc  kc    kc    kc        1919   70    0 8d 3d
+jonnyred  951130807  7  1 Bc  kc    kc    kf        1849   50    0 
+jonnyred  951130832  7  7 c   c     c     f         1799   70    0 
+jonnyred  951130854  7  6 c   f     -     -         1729   20    0 
+jonnyred  951130879  7  5 cc  c     c     f         1709   50    0 
+jonnyred  951130928  9  5 cc  f     -     -         1659   30    0 
+jonnyred  951131010  9  5 c   c     c     k         1629   40    0 Ah 7c
+jonnyred  951131060  8  3 f   -     -     -         1589    0    0 
+jonnyred  951131116  9  2 Bk  kf    -     -         1589   10    0 
+jonnyred  951131149  7  1 Bc  b     b     b         1579   60  190 5c As
+jonnyred  951131175  8  8 f   -     -     -         1709    0    0 
+jonnyred  951131226  8  7 f   -     -     -         1709    0    0 
+jonnyred  951131263  8  6 c   kc    kf    -         1709   20    0 
+jonnyred  951131292  8  5 f   -     -     -         1689    0    0 
+jonnyred  951131340  9  5 f   -     -     -         1689    0    0 
+jonnyred  951131409 10  4 cc  kf    -     -         1689   20    0 
+jonnyred  951131463 10  3 cc  c     c     c         1669   70  230 4c Ah
+jonnyred  951131497 10  2 Bf  -     -     -         1829   10    0 
+jonnyred  951131536 10  1 Bc  kc    kf    -         1819   20    0 
+jonnyred  951131559  9  9 c   f     -     -         1799   20    0 
+jonnyred  951131584  9  9 f   -     -     -         1779    0    0 
+jonnyred  951131618  9  8 c   f     -     -         1779   10    0 
+jonnyred  951131655  9  7 c   f     -     -         1769   20    0 
+jonnyred  951131707 10  6 f   -     -     -         1749    0    0 
+jonnyred  951131749 10  5 f   -     -     -         1749    0    0 
+jonnyred  951131756 10  4 f   -     -     -         1749    0    0 
+jonnyred  951131815 10  3 r   -     -     -         1749   20   35 
+jonnyred  951131824 10  2 Bk  kc    kc    kc        1764   70    0 9s Js
+jonnyred  951131862 10  1 Bc  b     -     -         1694   20   40 
+jonnyred  951131879  9  9 c   c     c     c         1714   70  225 Js 9h
+jonnyred  951131910  9  8 f   -     -     -         1869    0    0 
+jonnyred  951131951  9  7 c   f     -     -         1869   20    0 
+jonnyred  951132019  9  6 c   cc    c     c         1849   90    0 5d Td
+jonnyred  951132046  9  5 f   -     -     -         1759    0    0 
+jonnyred  951132108  9  4 f   -     -     -         1759    0    0 
+jonnyred  951132134  9  3 cc  cc    kc    kf        1759   60    0 
+jonnyred  951132216  7  2 Br  b     b     b         1699   70  250 Td Th
+jonnyred  951132256  7  1 Bc  k     kc    kf        1879   30    0 
+jonnyred  951132298  8  8 f   -     -     -         1849    0    0 
+jonnyred  951132349  7  6 f   -     -     -         1849    0    0 
+jonnyred  951132367  7  5 c   b     b     -         1849   50  105 
+jonnyred  951132394  7  4 c   b     b     b         1904   60  170 Ad Ts
+jonnyred  951132424  7  3 c   f     -     -         2014   10    0 
+jonnyred  951132475  7  2 Bc  kf    -     -         2004   20    0 
+jonnyred  951132498  7  1 Bf  -     -     -         1984    5    0 
+jonnyred  951132540  7  7 f   -     -     -         1979    0    0 
+jonnyred  951132568  7  6 c   b     b     b         1979   70  175 7d Kc
+jonnyred  951132595  7  5 f   -     -     -         2084    0    0 
+jonnyred  951132627  7  4 c   f     -     -         2084   10    0 
+jonnyred  951132653  7  3 f   -     -     -         2074    0    0 
+jonnyred  951132688  7  2 Bc  kcc   k     kc        2074   60    0 7d Qh
+jonnyred  951132728  6  1 Bc  k     b     b         2014   50   80 
+jonnyred  951132748  5  5 f   -     -     -         2044    0    0 
+jonnyred  951132771  5  4 c   k     k     k         2044   10    0 Ah 2s
+jonnyred  951132783  5  3 c   kf    -     -         2034   10    0 
+jonnyred  951132800  5  2 Bk  krr   b     b         2024   90    0 Jh 5h
+jonnyred  951132826  5  1 Bc  k     kf    -         1934   10    0 
+jonnyred  951132855  5  5 f   -     -     -         1924    0    0 
+jonnyred  951132882  5  4 f   -     -     -         1924    0    0 
+jonnyred  951132919  6  4 f   -     -     -         1924    0    0 
+jonnyred  951132951  6  3 f   -     -     -         1924    0    0 
+jonnyred  951132970  6  2 Bc  kf    -     -         1924   20    0 
+jonnyred  951132990  6  1 Bc  k     kc    kc        1904   50  120 2h Ks
+jonnyred  951133018  7  7 f   -     -     -         1974    0    0 
+jonnyred  951133057  8  7 f   -     -     -         1974    0    0 
+jonnyred  951133072  8  6 f   -     -     -         1974    0    0 
+jonnyred  951133127  7  4 c   b     b     b         1974   60  135 
+jonnyred  951133146  7  3 f   -     -     -         2049    0    0 
+jonnyred  951133156  7  2 Bk  kc    kr    -         2049   60  105 
+jonnyred  951133182  7  1 Bf  -     -     -         2094    5    0 
+jonnyred  951133217  7  7 f   -     -     -         2089    0    0 
+jonnyred  951133243  7  6 f   -     -     -         2089    0    0 
+jonnyred  951133277  7  5 c   k     rr    brc       2089  170    0 Ks Kh
+jonnyred  951133310  8  5 c   b     b     k         1919   40  105 8s Tc
+jonnyred  951133343  8  4 f   -     -     -         1984    0    0 
+jonnyred  951133379  8  3 c   cc    cc    kc        1984   90    0 Jh Kh
+jonnyred  951133407  8  2 Bk  kf    -     -         1894   10    0 
+jonnyred  951133448  8  1 Bf  -     -     -         1884    5    0 
+jonnyred  951133464  9  9 f   -     -     -         1879    0    0 
+jonnyred  951133474  9  8 c   c     c     cc        1879   90    0 Ac 7c
+jonnyred  951133497  9  7 f   -     -     -         1789    0    0 
+jonnyred  951133527  9  6 cc  rc    k     f         1789   60    0 
+jonnyred  951133569  9  5 f   -     -     -         1729    0    0 
+jonnyred  951133609  9  4 c   b     -     -         1729   20   60 
+jonnyred  951133633  9  3 f   -     -     -         1769    0    0 
+jonnyred  951133656  9  2 Bk  kf    -     -         1769   10    0 
+jonnyred  951133691  9  1 Bc  k     k     kf        1759   10    0 
+jonnyred  951133733  9  9 f   -     -     -         1749    0    0 
+jonnyred  951133779  9  8 c   c     bc    c         1749   90    0 9c Td
+jonnyred  951133809  9  7 c   k     b     k         1659   30   75 Jc 5c
+jonnyred  951133843  9  6 f   -     -     -         1704    0    0 
+jonnyred  951133885  9  5 c   kc    kc    b         1704   60    0 Jc 7s
+jonnyred  951133944  9  4 f   -     -     -         1644    0    0 
+jonnyred  951133976  9  3 cc  c     kf    -         1644   40    0 
+jonnyred  951134013  9  2 Bk  kf    -     -         1604   10    0 
+jonnyred  951134048  9  1 Bc  b     b     b         1594   60    0 8h Jd
+jonnyred  951134087  9  9 c   c     c     f         1534   40    0 
+jonnyred  951134128  9  8 f   -     -     -         1494    0    0 
+jonnyred  951134179  9  7 f   -     -     -         1494    0    0 
+jonnyred  951134227  9  6 f   -     -     -         1494    0    0 
+jonnyred  951134251  9  5 f   -     -     -         1494    0    0 
+jonnyred  951134270  9  4 cc  kc    kc    f         1494   80    0 
+jonnyred  951134349  9  3 rr  b     b     b         1414   90  138 Ah Ac
+jonnyred  951134377  9  2 Bk  kf    -     -         1462   10    0 
+jonnyred  951134403  9  1 Bc  b     b     b         1452   70  130 
+jonnyred  951134434  9  9 f   -     -     -         1512    0    0 
+jonnyred  951134467  8  8 c   k     b     -         1512   30   75 
+jonnyred  951134514  8  7 c   f     -     -         1557   10    0 
+jonnyred  951134550  7  5 f   -     -     -         1547    0    0 
+jonnyred  951134568  7  5 c   b     -     -         1547   20   35 
+jonnyred  951134585  6  3 f   -     -     -         1562    0    0 
+jonnyred  951134593  6  2 Bc  kc    kr    b         1562   90  235 2h 8h
+jonnyred  951134622  6  1 Bf  -     -     -         1707    5    0 
+jonnyred  951134651  6  6 c   c     c     c         1702   80   96 9c Tc
+jonnyred  951134688  6  5 c   k     b     b         1718   50   95 
+jonnyred  951134722  6  4 f   -     -     -         1763    0    0 
+jonnyred  951134733  6  3 c   k     kf    -         1763   10    0 
+jonnyred  951134755  6  2 Bk  bc    kc    kc        1753   70  160 3s Ah
+jonnyred  951134783  6  1 Bf  -     -     -         1843    5    0 
+jonnyred  951134803  6  6 f   -     -     -         1838    0    0 
+jonnyred  951134825  6  5 c   f     -     -         1838   10    0 
+jonnyred  951134856  6  4 rc  c     c     b         1828   90  380 Qd Qc
+jonnyred  951134923  7  4 c   br    b     b         2118   80    0 2c 2s
+jonnyred  951134963  7  3 c   k     c     f         2038   30    0 
+jonnyred  951134984  7  2 Bc  kf    -     -         2008   20    0 
+jonnyred  951135043  7  1 Bcc kf    -     -         1988   40    0 
+jonnyred  951135089  7  7 c   k     r     b         1948   90  135 4c 5d
+jonnyred  951135128  8  6 f   -     -     -         1993    0    0 
+jonnyred  951135166  8  5 c   c     c     f         1993   50    0 
+jonnyred  951135206  8  4 ccc kf    -     -         1943   40    0 
+jonnyred  951135292  8  3 fQ  -     -     -         1903    0    0 
+jonnyred  951376163 10  6 f   -     -     -         4915    0    0 
+jonnyred  951376201 10  5 f   -     -     -         4915    0    0 
+jonnyred  951376243 10  4 f   -     -     -         4915    0    0 
+jonnyred  951376290 10  3 f   -     -     -         4915    0    0 
+jonnyred  951376353 10  2 Bf  -     -     -         4915   10    0 
+jonnyred  951376408 10  1 Bc  kf    -     -         4905   10    0 
+jonnyred  951376495 10 10 f   -     -     -         4895    0    0 
+jonnyred  951376558 10  9 c   c     f     -         4895   20    0 
+jonnyred  951376656 10  8 f   -     -     -         4875    0    0 
+jonnyred  951376700 10  7 c   f     -     -         4855   10    0 
+jonnyred  951376777 10  6 f   -     -     -         4835    0    0 
+jonnyred  951376874  9  5 cc  cc    cc    f         4835   80    0 
+jonnyred  951376932  9  4 f   -     -     -         4675    0    0 
+jonnyred  951376980  9  3 f   -     -     -         4675    0    0 
+jonnyred  951377096  9  2 Bk  kf    -     -         4615   10    0 
+jonnyred  951377151  8  1 Bc  kf    -     -         4865   20    0 
+jonnyred  951377184  8  8 c   k     f     -         4845   10    0 
+jonnyred  951377258  8  7 c   k     b     b         5265   50  150 
+jonnyred  951377308  9  6 c   k     c     rr        5355  110  245 8c Ad
+jonnyred  951377346  9  5 f   -     -     -         5490    0    0 
+jonnyred  951377403 10  4 c   kcc   f     -         5960   50    0 
+jonnyred  951377495 10  3 f   -     -     -         5910    0    0 
+jonnyred  951377541 10  2 Bf  -     -     -         5910   10    0 
+jonnyred  951377582 10  1 Bc  kc    kc    br        5880  140  250 7s Kc
+jonnyred  951377634 10 10 c   c     f     -         5990   20    0 
+jonnyred  951377662 10  9 f   -     -     -         5870    0    0 
+jonnyred  951377720 10  8 f   -     -     -         5870    0    0 
+jonnyred  951377747 10  7 cc  c     c     f         5870   70    0 
+jonnyred  951377791 10  6 c   f     -     -         5800   10    0 
+jonnyred  951377841 10  5 cc  f     -     -         5770   20    0 
+jonnyred  951377928 10  4 f   -     -     -         5570    0    0 
+jonnyred  951377993 10  3 f   -     -     -         5350    0    0 
+jonnyred  951378065 10  2 Bc  kc    krc   kc        5350  120  250 Ah 5d
+jonnyred  951378133 10  1 Bf  -     -     -         5440    5    0 
+jonnyred  951378176 10 10 f   -     -     -         5435    0    0 
+jonnyred  951378224 10  9 c   c     c     rc        5435  130  250 8h 8d
+jonnyred  951378351  9  8 f   -     -     -         5495    0    0 
+jonnyred  951378387 10  7 f   -     -     -         5525    0    0 
+jonnyred  951378433 10  6 rr  k     r     r         5525  120  415 Ah Ac
+jonnyred  951378498 10  5 c   k     k     f         6220   10    0 
+jonnyred  951378555 10  4 c   f     -     -         6210   10    0 
+jonnyred  951378622 10  3 f   -     -     -         6240    0    0 
+jonnyred  951378696 10  2 Bc  f     -     -         6200   20    0 
+jonnyred  951378761  9  1 Bc  kc    kc    kc        6180  110    0 9s Js
+jonnyred  951378799 10 10 cc  f     -     -         6070   30    0 
+jonnyred  951378869 10  9 c   rc    r     b         6040  130  410 Qc Jc
+jonnyred  951378919 10  8 f   -     -     -         6300    0    0 
+jonnyred  951378967 10  7 f   -     -     -         6300    0    0 
+jonnyred  951379020 10  6 f   -     -     -         6220    0    0 
+jonnyred  951379091 10  5 f   -     -     -         6200    0    0 
+jonnyred  951379150 10  4 c   b     cf    -         6200   40    0 
+jonnyred  951379248 10  3 cKQ -     -     -         5940   10    0 
+jonnyred  951379480 10  9 c   c     f     -         5930   30    0 
+jonnyred  951379516 10  8 cc  kf    -     -         5880   30    0 
+jonnyred  951379645 10  7 f   -     -     -         5670    0    0 
+jonnyred  951379694  9  5 f   -     -     -         5670    0    0 
+jonnyred  951379774  9  4 f   -     -     -         6030    0    0 
+jonnyred  951379856  9  3 f   -     -     -         6080    0    0 
+jonnyred  951379886 10  2 Bf  -     -     -         6240   10    0 
+jonnyred  951379957 10  1 Bc  kr    b     b         6230   70  180 Kd 2d
+jonnyred  951380005  9  9 c   f     -     -         6300   10    0 
+jonnyred  951380060  9  9 c   k     b     b         6270   50   95 
+jonnyred  951380094  9  8 f   -     -     -         6305    0    0 
+jonnyred  951380133 10  7 c   rc    rr    -         6305  116   20 3h Qh
+jonnyred  951380187  9  6 cc  c     c     f         6129   60    0 
+jonnyred  951380262  8  5 f   -     -     -         6069    0    0 
+jonnyred  951380347  8  4 c   bc    f     -         6349   30    0 
+jonnyred  951380395  8  3 f   -     -     -         6309    0    0 
+jonnyred  951380454  8  2 Bc  kc    bc    b         6349   90  215 Td Jd
+jonnyred  951380496  8  1 Bf  -     -     -         6444    5    0 
+jonnyred  951380541  8  8 f   -     -     -         6439    0    0 
+jonnyred  951380595  8  7 f   -     -     -         6319    0    0 
+jonnyred  951380631  8  6 f   -     -     -         6389    0    0 
+jonnyred  951380662  8  5 f   -     -     -         6389    0    0 
+jonnyred  951380706  8  4 c   k     c     k         6309   30    0 9s As
+jonnyred  951380775  8  4 f   -     -     -         6549    0    0 
+jonnyred  951380832  7  2 Bf  -     -     -         6529   10    0 
+jonnyred  951380871  7  1 Bc  kc    kf    -         6779   40    0 
+jonnyred  951380936  7  7 c   f     -     -         6719   10    0 
+jonnyred  951380966  7  6 f   -     -     -         6699    0    0 
+jonnyred  951381009  7  5 f   -     -     -         6739    0    0 
+jonnyred  951381101  7  4 f   -     -     -         6609    0    0 
+jonnyred  951381139  7  3 f   -     -     -         6609    0    0 
+jonnyred  951381174  7  1 Bk  kf    -     -         6509   10    0 
+jonnyred  951381240  7  1 Bc  k     k     b         6399   30    0 As 4c
+jonnyred  951381311  7  7 c   c     f     -         6439   30    0 
+jonnyred  951381338  7  6 c   c     c     r         6409   80  190 9h Ad
+jonnyred  951381371  7  5 f   -     -     -         6519    0    0 
+jonnyred  951381512  6  3 f   -     -     -         6049    0    0 
+jonnyred  951381574  6  2 Bk  k     k     f         6049   10    0 
+jonnyred  951381645  6  1 Bf  Q     -     -         6019    5    0 
+jonnyred  951383736  9  4 cc  f     -     -         1000   30    0 
+jonnyred  951383811  9  3 r   bc    c     b          970   90    0 Ts Td
+jonnyred  951383885 10  2 Brc brc   kc    bc         880  140  323 Kd As
+jonnyred  951383985 10  1 Bc  kf    -     -         1063   30    0 
+jonnyred  951384061 10 10 c   b     b     k         1033   40  150 8c Js
+jonnyred  951384121 10  9 f   -     -     -         1143    0    0 
+jonnyred  951384179 10  8 c   b     b     b         1143   70  185 Ad 9h
+jonnyred  951384246 10  7 f   -     -     -         1258    0    0 
+jonnyred  951384353 10  6 f   -     -     -         1258    0    0 
+jonnyred  951384451 10  5 f   -     -     -         1258    0    0 
+jonnyred  951384517 10  4 c   kc    kf    -         1258   20    0 
+jonnyred  951384626 10  3 c   kf    -     -         1238   10    0 
+jonnyred  951384687 10  2 Bk  kc    kf    -         1228   30    0 
+jonnyred  951384762 10  1 Br  k     b     b         1198   60  220 Qs As
+jonnyred  951384805 10 10 c   c     f     -         1358   20    0 
+jonnyred  951384852 10  9 c   f     -     -         1338   10    0 
+jonnyred  951384898  8  6 f   -     -     -         1328    0    0 
+jonnyred  951384948  8  6 f   -     -     -         1328    0    0 
+jonnyred  951384996  8  5 c   b     b     f         1328   40    0 
+jonnyred  951385073  8  4 f   -     -     -         1288    0    0 
+jonnyred  951385115 10  3 r   kc    kc    bc        1288   90    0 4d 4h
+jonnyred  951385197  9  2 Bc  bc    bc    kc        1198  100    0 Ac 6d
+jonnyred  951385259 10  1 Brc b     b     b         1098   90  320 Kc Ah
+jonnyred  951385305 10 10 c   f     -     Q         1328   10    0 
+jonnyred  951647377 10  2 Br  b     b     b         1318   70  310 Ah As
+jonnyred  951647443 10  1 Bc  b     bc    bc        1558  130  620 Kh Qc
+jonnyred  951647523 10 10 f   -     -     -         2048    0    0 
+jonnyred  951647590 10  9 f   -     -     -         2048    0    0 
+jonnyred  951647660 10  8 f   -     -     -         2048    0    0 
+jonnyred  951647697 10  7 f   -     -     -         2048    0    0 
+jonnyred  951647773 10  6 c   b     b     b         2048   70    0 Jc Kc
+jonnyred  951647831 10  5 f   -     -     -         1978    0    0 
+jonnyred  951647900 10  4 cc  f     -     -         1978   20    0 
+jonnyred  951647978 10  3 cc  cc    f     -         1958   40    0 
+jonnyred  951648096 10  2 Bc  f     -     -         1918   20    0 
+jonnyred  951648140 10  1 Bf  -     -     -         1898    5    0 
+jonnyred  951648207 10 10 c   c     f     -         1893   20    0 
+jonnyred  951648282 10  9 f   Q     -     -         1873    0    0 
+jonnyred  951813654 10  3 f   -     -     -         2051    0    0 
+jonnyred  951813699 10  2 Bk  kf    -     -         2051   10    0 
+jonnyred  951813755 10  1 Bf  -     -     -         2041    5    0 
+jonnyred  951813793 10 10 c   f     -     -         2036   10    0 
+jonnyred  951813831 10  9 f   -     -     -         2026    0    0 
+jonnyred  951813897 10  8 f   -     Q     -         2026    0    0 
+jonnyred  951818960  6  6 f   -     -     -         1000    0    0 
+jonnyred  951818996  7  5 f   -     -     -         1000    0    0 
+jonnyred  951819033  7  4 f   -     -     -         1000    0    0 
+jonnyred  951819086  7  3 c   k     b     -         1000   30   60 
+jonnyred  951819131  7  2 Bf  -     -     -         1030   10    0 
+jonnyred  951819162  7  1 Bf  -     -     -         1020    5    0 
+jonnyred  951819196  7  7 KQ  -     -     -         1015    0    0 

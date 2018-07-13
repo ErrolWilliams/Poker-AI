@@ -1,0 +1,662 @@
+okinpa    953277950  7  7 f   -     -     -          410    0    0 
+okinpa    953277993  7  6 f   -     -     -          410    0    0 
+okinpa    953278020  7  5 cc  f     -     -          410   20    0 
+okinpa    953278038  7  4 cc  kc    kf    -          390   30    0 
+okinpa    953278093  7  3 cc  f     -     -          360   20    0 
+okinpa    953278146  9  2 Bf  -     -     -          340   10    0 
+okinpa    953278180  8  1 Bc  k     k     kc         330   30    0 As 3d
+okinpa    953278227  8  8 f   -     -     -          300    0    0 
+okinpa    953278269  8  7 c   b     -     -          300   20   50 
+okinpa    953278296  8  6 cf  -     -     -          330   10    0 
+okinpa    953278348  7  5 f   -     -     -          320    0    0 
+okinpa    953278378  7  4 f   -     -     -          320    0    0 
+okinpa    953278409  7  3 f   -     -     -          320    0    0 
+okinpa    953278464  7  2 Bk  kf    -     -          320   10    0 
+okinpa    953278487  7  1 Bf  -     -     -          310    5    0 
+okinpa    953278540  7  7 f   -     -     -          305    0    0 
+okinpa    953278604  7  6 f   -     -     -          305    0    0 
+okinpa    953278662  7  5 c   c     k     k          305   20    0 7s 2s
+okinpa    953278709  7  4 f   -     -     -          285    0    0 
+okinpa    953278750  8  3 c   bc    bc    k          285   70  160 Th 6h
+okinpa    953278803  8  2 Br  k     b     k          375   40  180 Kh Qs
+okinpa    953278867  8  1 Bf  -     -     -          515    5    0 
+okinpa    953278930  8  8 f   -     -     -          510    0    0 
+okinpa    953278992  8  7 c   c     c     r          510   80  190 3c 8c
+okinpa    953279031  8  6 f   -     -     -          620    0    0 
+okinpa    953279057  8  5 f   -     -     -          620    0    0 
+okinpa    953279096  8  4 r   bc    kc    k          620   60    0 Jh Jc
+okinpa    953279160  8  3 f   -     -     -          560    0    0 
+okinpa    953279226  8  2 Br  brc   bc    kc         560  120  320 Ks Kd
+okinpa    953279282  8  1 Bf  -     -     -          760    5    0 
+okinpa    953279318  8  8 f   -     -     -          755    0    0 
+okinpa    953279368  7  6 f   -     -     -          755    0    0 
+okinpa    953279382  9  7 f   -     -     -          755    0    0 
+okinpa    953279438  9  6 f   -     -     -          755    0    0 
+okinpa    953279476 10  5 c   f     -     -          755   10    0 
+okinpa    953279506 10  4 c   k     bc    kc         745   70  155 Jd Ah
+okinpa    953279550 10  3 cc  kcc   kcc   kc         830  140    0 Qd 9d
+okinpa    953279645  9  2 Bf  -     -     -          690   10    0 
+okinpa    953279722  8  1 Bf  -     -     -          680    5    0 
+okinpa    953279775  9  9 c   c     c     c          675   70    0 4h 4d
+okinpa    953279843  9  8 c   cf    -     -          605   30    0 
+okinpa    953279903  9  7 r   c     k     c          575   50  190 Jc Qd
+okinpa    953279958  8  5 f   -     -     -          715    0    0 
+okinpa    953280117  9  5 cc  kc    kf    -          715   30    0 
+okinpa    953280188 10  4 cc  r     c     c          685   80    0 7s 9s
+okinpa    953280253 10  3 f   -     -     -          605    0    0 
+okinpa    953280316  9  2 Bk  b     k     k          605   20   70 7s Td
+okinpa    953280364  9  1 Bf  -     -     -          655    5    0 
+okinpa    953280467  9  9 f   -     -     -          650    0    0 
+okinpa    953280545  9  8 c   c     kc    k          650   50  195 Js As
+okinpa    953280617 10  8 cc  f     -     -          795   20    0 
+okinpa    953280693 10  7 c   k     k     c          775   30  115 3s 6s
+okinpa    953280758 10  6 c   rc    c     f          860   70    0 
+okinpa    953280823 10  5 cf  -     -     -          790   10    0 
+okinpa    953280923  9  3 c   c     kf    -          780   20    0 
+okinpa    953280981  9  2 Bc  brc   cc    k          760  100  320 3s Kc
+okinpa    953281077 10  1 Bc  kc    kc    kc         980   60  140 5h Kc
+okinpa    953281131 10 10 r   bc    k     c         1060   60    0 Kh Ad
+okinpa    953281258 10  9 c   b     c     c         1000   60    0 6c Jh
+okinpa    953281321 10  8 c   b     b     c          940   60    0 5c 6s
+okinpa    953281417 10  7 f   -     -     -          880    0    0 
+okinpa    953281467 10  6 c   kc    kc    f          880   60    0 
+okinpa    953281536 10  5 c   kc    f     -          820   20    0 
+okinpa    953281617 10  4 c   kf    -     -          800   10    0 
+okinpa    953281664 10  3 f   -     -     -          790    0    0 
+okinpa    953281707 10  2 Bk  br    b     b          790   80  280 6c 5d
+okinpa    953281799 10  1 Bc  k     b     k          990   30    0 6s 7s
+okinpa    953281866 10 10 f   -     -     -          960    0    0 
+okinpa    953281973 10  9 c   c     c     c          960   60  180 Ac Ts
+okinpa    953282060 10  8 c   r     b     b         1080   70  170 
+okinpa    953282121 10  7 r   b     k     b         1180   50  135 
+okinpa    953282182 10  6 cc  r     bc    b         1265  100    0 Kc Jd
+okinpa    953282278 10  5 c   brc   b     bc        1165  110    0 Ah 2s
+okinpa    953282379 10  4 c   kf    -     -         1055   10    0 
+okinpa    953282439 10  3 cc  cc    cc    kc        1045  110    0 Ah 7d
+okinpa    953282521 10  2 Bf  -     -     -          935   10    0 
+okinpa    953282575 10  1 Bc  kc    kc    kc         925   60    0 3h Ts
+okinpa    953282637 10 10 c   k     c     f          865   30    0 
+okinpa    953282701  9  9 f   -     -     -          835    0    0 
+okinpa    953282746  9  8 c   kc    b     k          835   40    0 4h Kd
+okinpa    953282796  9  7 c   r     b     b          795   70    0 Qh 3h
+okinpa    953282848  9  6 rr  c     k     k          725   50    0 2c 2d
+okinpa    953282926  9  5 c   k     f     -          675   10    0 
+okinpa    953282997 10  4 cc  kc    kc    kc         665   70    0 3d 4d
+okinpa    953283047 10  3 c   bc    kc    k          595   50    0 Ts 2c
+okinpa    953283089 10  2 Br  b     kc    k          545   50    0 As Qh
+okinpa    953283161 10  1 Bc  b     -     -          495   20   40 
+okinpa    953283193  9  9 r   r     b     r          515  100  275 Jc 9c
+okinpa    953283243  9  8 f   -     -     -          690    0    0 
+okinpa    953283313  8  7 c   c     c     k          690   40  160 9c Jd
+okinpa    953283354  8  6 c   k     k     f          810   10    0 
+okinpa    953283407  8  5 r   c     f     -          800   30    0 
+okinpa    953283468  8  4 cc  kc    kc    k          770   80    0 8h Ac
+okinpa    953283533  8  3 c   k     k     c          690   30   65 5c 6d
+okinpa    953283567  8  2 Br  b     b     b          725   70  140 
+okinpa    953283603  8  1 Bc  kc    kf    -          795   20    0 
+okinpa    953283663  9  9 c   f     -     -          775   10    0 
+okinpa    953283709  9  8 c   k     k     k          765   10    0 2h 8d
+okinpa    953283790  9  7 c   b     k     b          755   40  130 
+okinpa    953283856  9  6 cf  -     -     -          845   10    0 
+okinpa    953283886  9  5 r   r     r     b          835  100  370 Ac Ah
+okinpa    953283937  8  3 c   kf    -     -         1105   10    0 
+okinpa    953283959  9  2 Bk  br    b     b         1095   80  265 Qd Ah
+okinpa    953284020  9  1 Bc  b     b     b         1280   60  240 9d 5d
+okinpa    953284071  9  9 cc  f     -     -         1460   20    0 
+okinpa    953284110  9  8 c   f     -     -         1440   20    0 
+okinpa    953284165  9  7 r   -     -     -         1420   20   35 
+okinpa    953284178  9  6 c   f     -     -         1435   10    0 
+okinpa    953284224 10  6 cc  f     -     -         1425   20    0 
+okinpa    953284263 10  5 r   c     c     b         1405   70  230 Kc Qc
+okinpa    953284334 10  4 c   k     k     kc        1565   30    0 Jh 5h
+okinpa    953284400 10  3 c   f     -     -         1535   10    0 
+okinpa    953284442 10  2 Bf  -     -     -         1525   10    0 
+okinpa    953284496 10  1 Br  b     -     -         1515   30   60 
+okinpa    953284516 10 10 r   f     -     -         1545   20    0 
+okinpa    953284547 10  9 c   c     k     f         1525   20    0 
+okinpa    953284604 10  8 c   kf    -     -         1505   10    0 
+okinpa    953284644 10  7 c   c     c     c         1495   70    0 Jh 9s
+okinpa    953284708  9  6 f   -     -     -         1425    0    0 
+okinpa    953284767  9  5 c   f     -     -         1425   20    0 
+okinpa    953284840 10  4 cc  kf    -     -         1405   20    0 
+okinpa    953284898 10  3 c   kf    -     -         1385   10    0 
+okinpa    953284982 10  2 Bc  kc    k     b         1375   50   85 
+okinpa    953285019 10  1 Bf  -     -     -         1410    5    0 
+okinpa    953285082 10 10 c   f     -     -         1405   10    0 
+okinpa    953285145 10  9 cc  c     f     -         1395   50    0 
+okinpa    953285204 10  8 c   cc    k     k         1345   30    0 2d 6h
+okinpa    953285267 10  7 f   -     -     -         1315    0    0 
+okinpa    953285336 10  6 c   kf    -     -         1315   10    0 
+okinpa    953285445 10  5 ccc f     -     -         1305   40    0 
+okinpa    953285542 10  4 cc  bc    kc    kf        1265   80    0 
+okinpa    953285665 10  3 rc  bc    kcc   kc        1185  175    0 Jc Jd
+okinpa    953285760 10  2 Bc  kf    -     -         1010   20    0 
+okinpa    953285876 10  1 Bf  -     -     -          990    5    0 
+okinpa    953285922 10 10 c   k     f     -          985   10    0 
+okinpa    953285995 10  9 f   -     -     -          975    0    0 
+okinpa    953286071  9  7 cf  -     -     -          975   10    0 
+okinpa    953286142 10  7 c   f     -     -          965   10    0 
+okinpa    953286201  9  6 c   bc    kc    br         955  110  375 7c As
+okinpa    953286268 10  5 c   rc    k     kc        1220   60    0 Ts 8d
+okinpa    953286325 10  4 cc  kc    kc    kc        1160   70    0 5d Kc
+okinpa    953286436 10  3 cc  kf    -     -         1090   20    0 
+okinpa    953286512 10  2 Bf  -     -     -         1070   10    0 
+okinpa    953286587  9  1 Bc  b     b     b         1060   60  140 
+okinpa    953286626 10 10 r   c     c     f         1140   50    0 
+okinpa    953286673 10  9 f   -     -     -         1090    0    0 
+okinpa    953286723 10  8 r   b     b     b         1090   70  270 
+okinpa    953286777 10  7 c   rc    c     c         1290   80    0 7h 2h
+okinpa    953286847  9  6 ccc kf    -     -         1210   40    0 
+okinpa    953286912 10  5 c   f     -     -         1170   20    0 
+okinpa    953286946 10  4 cc  cf    -     -         1150   30    0 
+okinpa    953287027 10  3 f   -     -     -         1120    0    0 
+okinpa    953287096 10  2 Bk  br    k     k         1120   33    0 5c Qd
+okinpa    953287142  9  1 Bc  k     kc    b         1087   50  140 Ts 7d
+okinpa    953287188  9  9 f   -     -     -         1177    0    0 
+okinpa    953287222  9  8 f   -     -     -         1177    0    0 
+okinpa    953287292  9  7 c   k     f     -         1177   20    0 
+okinpa    953287340  8  6 c   b     b     k         1157   40    0 2h Jd
+okinpa    953287405  9  5 cf  -     -     -         1117   10    0 
+okinpa    953287439  9  4 c   kc    b     k         1107   40    0 7d Qd
+okinpa    953287502  9  3 c   kf    -     -         1067   10    0 
+okinpa    953287601  9  2 Br  k     b     b         1057   70  165 
+okinpa    953287658  9  1 Bf  -     -     -         1152    5    0 
+okinpa    953287708  9  9 f   -     -     -         1147    0    0 
+okinpa    953287742  9  8 cc  k     kc    c         1147   60    0 5d Tc
+okinpa    953287801 10  7 c   f     -     -         1087   10    0 
+okinpa    953287844 10  6 r   c     c     c         1077   70    0 Qs Js
+okinpa    953287890 10  5 c   kc    c     f         1007   40    0 
+okinpa    953287957 10  4 c   k     f     -          967   10    0 
+okinpa    953288027 10  3 cc  b     bc    kc         957   90    0 6h As
+okinpa    953288103  9  2 Bc  kf    -     -          867   30    0 
+okinpa    953288168  9  1 Bc  b     b     brc        837  120    0 Qs 9h
+okinpa    953288227  9  9 c   r     r     r          717  120  305 7d 8c
+okinpa    953288280  8  7 c   k     c     rr         902  110    0 3h Qh
+okinpa    953288395  8  6 c   c     b     k          792   40    0 9c 5s
+okinpa    953288447  8  5 rr  b     b     b          752   90  425 4d 4s
+okinpa    953288509  8  4 cf  -     -     -         1087   10    0 
+okinpa    953288590  8  3 c   b     k     f         1077   20    0 
+okinpa    953288703  6  2 Bk  k     k     k         1057   10    0 8h 3d
+okinpa    953288735  6  1 Bc  kc    kf    -         1047   30    0 
+okinpa    953288776  6  6 c   c     c     f         1017   60    0 
+okinpa    953288810  7  5 cc  r     -     -          957   40  120 
+okinpa    953288843  7  4 cc  k     k     kc        1037   40    0 6c Td
+okinpa    953288901  7  3 cc  kf    -     -          997   20    0 
+okinpa    953288943  7  2 Bk  kf    -     -          977   10    0 
+okinpa    953288992  7  1 Bc  b     k     k          967   20   20 Jh 6s
+okinpa    953289026  7  7 c   k     k     k          967   10    0 2d Qs
+okinpa    953289117  6  5 c   k     k     k          957   10    0 4c Td
+okinpa    953289158  6  5 c   k     b     b          947   50  100 
+okinpa    953289197  6  4 r   b     b     b          997   70  225 2d Qd
+okinpa    953289251  6  4 r   -     -     -         1152   20   35 
+okinpa    953289267  5  2 Br  b     bf    -         1167   50    0 
+okinpa    953289314  5  1 Br  b     -     -         1117   30   80 
+okinpa    953289348  5  5 r   -     -     -         1167   20   35 
+okinpa    953289356  5  4 r   -     -     -         1182   20   35 
+okinpa    953289366  5  3 r   b     -     -         1197   30   55 
+okinpa    953289387  5  2 Br  b     b     b         1222   70    0 9d Th
+okinpa    953289418  5  1 Brr brc   brc   brc       1152  240    0 Qs Jc
+okinpa    953289479  5  5 rr  r     r     -          912  100  190 
+okinpa    953289510  5  4 r   b     b     b         1002   70  215 9d 5d
+okinpa    953289560  5  3 r   -     -     -         1147   20   35 
+okinpa    953289571  5  2 Br  r     c     f         1162   70    0 
+okinpa    953289607  6  1 Bc  k     k     k         1092   10    0 3d 4s
+okinpa    953289641  6  6 cf  -     -     -         1082   10    0 
+okinpa    953289680  6  5 c   f     -     -         1072   10    0 
+okinpa    953289728  6  4 cc  brc   b     k         1062   80    0 9d 4h
+okinpa    953289781  6  3 r   b     b     -          982   50   85 
+okinpa    953289814  6  2 Br  brc   brc   brc       1017  220    0 As Ac
+okinpa    953289864  6  1 Brc b     k     k          797   40  120 7s Jh
+okinpa    953289906  6  6 cf  -     -     -          877   10    0 
+okinpa    953289949  6  5 c   k     f     -          867   10    0 
+okinpa    953289997  7  4 c   kc    kc    kf         857   40    0 
+okinpa    953290041  7  3 c   k     k     k          817   10    0 5c Kd
+okinpa    953290087  8  2 Bf  -     -     -          807   10    0 
+okinpa    953290149  8  1 Bf  -     -     -          797    5    0 
+okinpa    953290208  8  8 c   k     k     k          792   10    0 8h 9d
+okinpa    953290258  8  7 rc  c     c     f          782   70    0 
+okinpa    953290320  8  6 r   b     b     b          712   70  220 
+okinpa    953290378  8  5 c   f     -     -          862   10    0 
+okinpa    953290409  8  4 f   -     -     -          852    0    0 
+okinpa    953290459  8  3 c   k     br    bc         852  110  260 Jh 7h
+okinpa    953290534  8  2 Bk  k     k     kf        1002   10    0 
+okinpa    953290590  9  1 Bcc kf    -     -          992   30    0 
+okinpa    953290714 10  9 f   -     -     -          962    0    0 
+okinpa    953290781  9  7 c   b     b     b          962   60  180 
+okinpa    953290851 10  7 c   c     c     f         1082   40    0 
+okinpa    953290942  9  5 f   -     -     -         1042    0    0 
+okinpa    953291038  7  5 c   f     -     -         1042   10    0 
+okinpa    953291115  7  4 cc  k     b     k         1032   40    0 8d 6h
+okinpa    953291184  8  3 cc  k     kf    -          992   30    0 
+okinpa    953291279  8  2 Bc  kf    -     -          962   20    0 
+okinpa    953291353  9  1 Bc  kf    -     -          942   20    0 
+okinpa    953291420  9  9 c   c     c     f          922   60    0 
+okinpa    953291520  9  8 c   f     -     -          862   10    0 
+okinpa    953291586  9  7 c   c     c     r          852   80  285 5d Kh
+okinpa    953291640  9  6 f   -     -     -         1057    0    0 
+okinpa    953291700  9  5 cc  kc    kf    -         1057   30    0 
+okinpa    953291792  9  4 rr  bc    b     b         1027  110    0 Kc Ks
+okinpa    953291887  9  3 cf  -     -     -          917   10    0 
+okinpa    953292003  9  2 Bk  rr    bc    kc         907  110    0 3c 4h
+okinpa    953292100  9  1 Bc  kc    kf    -          797   20    0 
+okinpa    953292192  9  9 f   -     -     -          777    0    0 
+okinpa    953292259  9  8 c   r     b     b          777   70    0 4h Qs
+okinpa    953292309  9  7 c   kf    -     -          707   10    0 
+okinpa    953292374  8  5 c   k     k     b          697   30   95 Qd 2h
+okinpa    953292427  8  4 c   kf    -     -          762   10    0 
+okinpa    953292489  9  3 c   ccc   kc    k          752   70    0 2s Qh
+okinpa    953292593 10  2 Bcc kc    kc    kf         682   80    0 
+okinpa    953292669 10  1 Bc  kf    -     -          602   20    0 
+okinpa    953292735 10 10 f   -     -     -          582    0    0 
+okinpa    953292812 10  9 c   f     -     -          582   20    0 
+okinpa    953292860 10  8 cc  c     f     -          562   30    0 
+okinpa    953292921 10  7 c   rc    c     c          532   90    0 Ah Td
+okinpa    953292979 10  6 rc  br    bc    b          442  130  630 5h 5d
+okinpa    953293064 10  5 c   k     k     k          942   10    0 Kc Th
+okinpa    953293121 10  4 cc  kc    br    b          932  110  325 2s Ks
+okinpa    953293214 10  3 c   kf    -     -         1147   10    0 
+okinpa    953293253 10  2 Bf  -     -     -         1137   10    0 
+okinpa    953293320 10  1 Bc  br    b     b         1127   90  290 Th Qc
+okinpa    953293375 10 10 f   -     -     -         1327    0    0 
+okinpa    953293439 10  9 f   -     -     -         1327    0    0 
+okinpa    953293466 10  8 cc  ccf   -     -         1327   50    0 
+okinpa    953293597 10  7 cf  -     -     -         1277   20    0 
+okinpa    953293685 10  6 f   -     -     -         1257    0    0 
+okinpa    953293743 10  5 ccc ccc   c     cf        1257  120    0 
+okinpa    953293839  9  4 cc  bc    kc    kc        1137   80    0 Kd 5s
+okinpa    953293903 10  3 cc  kf    -     -         1057   20    0 
+okinpa    953293980 10  2 Bcc kc    kf    -         1037   40    0 
+okinpa    953294061 10  1 Bc  b     b     brc        997  130    0 3d Ad
+okinpa    953294153 10 10 r   r     b     c          867   80  360 Qs 9s
+okinpa    953294259 10  9 f   -     -     -         1147    0    0 
+okinpa    953294285 10  8 r   br    kc    kc        1147   90    0 Qs As
+okinpa    953294367 10  7 cc  f     -     -         1057   30    0 
+okinpa    953294420 10  6 c   c     f     -         1027   20    0 
+okinpa    953294492 10  5 c   b     k     k         1007   20  170 6c Th
+okinpa    953294580 10  4 c   b     b     b         1157   60    0 7c Ah
+okinpa    953294626 10  3 cc  k     k     k         1097   20    0 5d Td
+okinpa    953294703 10  2 Brc b     b     b         1077   90    0 8c 8h
+okinpa    953294779 10  1 Br  br    b     b          987   90  290 9s 7s
+okinpa    953294845 10 10 r   k     r     k         1187   70    0 Js 9s
+okinpa    953294905  9  8 c   k     c     c         1117   50  140 Ah 9d
+okinpa    953294975  9  7 c   c     f     -         1207   20    0 
+okinpa    953295056  8  7 f   -     -     -         1187    0    0 
+okinpa    953295091  8  6 cc  f     -     -         1187   40    0 
+okinpa    953295138  9  5 c   kr    b     kc        1147   70    0 8s 7s
+okinpa    953295192  9  4 cc  kc    kf    -         1077   30    0 
+okinpa    953295284  9  3 c   k     f     -         1047   10    0 
+okinpa    953295329  9  2 Bf  -     -     -         1037   10    0 
+okinpa    953295380  9  1 Bc  kcc   kf    -         1027   40    0 
+okinpa    953295464  8  8 c   k     c     f          987   40    0 
+okinpa    953295493  9  7 cc  c     c     c          947   70    0 Qc Ac
+okinpa    953295545  8  6 cc  f     -     -          877   20    0 
+okinpa    953295592  8  5 c   b     kc    kf         857   40    0 
+okinpa    953295654  8  4 c   cf    -     -          817   20    0 
+okinpa    953295719  8  3 c   k     k     b          797   30   60 
+okinpa    953295767  8  2 Bk  cc    k     f          827   30    0 
+okinpa    953295821  8  1 Bf  -     -     -          797    5    0 
+okinpa    953295858  8  8 c   k     f     -          792   20    0 
+okinpa    953295887  7  6 c   brc   c     c          772   90    0 7h Qh
+okinpa    953295941  7  5 c   k     b     -          682   30   55 
+okinpa    953295961  7  4 c   kc    kc    kc         707   60    0 Kc 7h
+okinpa    953296012  6  3 c   kc    kc    kc         647   60    0 7h 8h
+okinpa    953296052  6  2 Bk  c     cc    kc         587   80    0 5h Kd
+okinpa    953296103  6  1 Br  k     k     b          507   40   70 
+okinpa    953296145  5  5 c   f     -     -          537   20    0 
+okinpa    953296172  5  5 c   c     c     f          517   40    0 
+okinpa    953296200  5  4 cc  kcc   cc    f          477   90    0 
+okinpa    953296246  5  3 c   c     f     -          387   20    0 
+okinpa    953296283  6  2 Bc  kc    k     k          367   30    0 8h 7c
+okinpa    953296316  6  1 Br  br    b     b          337  100    0 Qs As
+okinpa    953296367  9  9 rr  rr    cf    -          237  120    0 
+okinpa    953296419  9  8 cc  kf    -     -          117   20    0 
+okinpa    953296513  8  6 f   -     -     -           97    0    0 
+okinpa    953296564  8  5 r   f     -     -           97   20    0 
+okinpa    953296597  9  6 cc  c     c     k           77   50    0 Qc 9d
+okinpa    953296651  8  4 Q   -     -     -           27    0    0 
+okinpa    953511601 10  9 c   f     -     -          608   10    0 
+okinpa    953511662 10  9 c   br    c     c          598   80    0 Ad Tc
+okinpa    953511736  9  7 cc  cc    cc    b          518  110  430 Jd 6d
+okinpa    953511813 10  6 c   cf    -     -          838   30    0 
+okinpa    953511861 10  5 c   cf    -     -          808   20    0 
+okinpa    953511921 10  4 cc  kf    -     -          788   20    0 
+okinpa    953511974 10  3 c   k     k     k          768   10    0 Qh Kc
+okinpa    953512086 10  2 Bk  kf    -     -          758   10    0 
+okinpa    953512162 10  1 Bcc kf    -     -          748   20    0 
+okinpa    953512213 10 10 c   cf    -     -          728   30    0 
+okinpa    953512275 10  9 c   f     -     -          698   10    0 
+okinpa    953512310 10  8 cc  cc    f     -          688   40    0 
+okinpa    953512363 10  7 c   f     -     -          648   10    0 
+okinpa    953512406 10  6 c   k     kc    kf         638   40    0 
+okinpa    953512453 10  5 c   c     c     c          598   60    0 Kd Td
+okinpa    953512504 10  4 ccc kc    kf    -          538   50    0 
+okinpa    953512577 10  3 c   c     kc    f          488   40    0 
+okinpa    953512630 10  2 Bc  kf    -     -          448   20    0 
+okinpa    953512681 10  1 Bcc kf    -     -          428   40    0 
+okinpa    953512752 10 10 c   k     c     f          388   30    0 
+okinpa    953512828 10  9 cc  f     -     -          358   40    0 
+okinpa    953512905  9  7 cc  f     Q     -          318   40    0 
+okinpa    953520831 10  8 c   k     c     c          278   50  130 2c 5c
+okinpa    953520881 10  7 c   kf    -     -          358   10    0 
+okinpa    953520963 10  6 c   kf    -     -          348   10    0 
+okinpa    953521025 10  5 c   c     c     c          338   70    0 7c 6d
+okinpa    953521075 10  4 c   c     r     b          268   80  230 9s Kc
+okinpa    953521154 10  3 r   kf    -     -          418   20    0 
+okinpa    953521229  9  2 Bc  kc    kc    kc         398   70  250 Js 3h
+okinpa    953521319 10  1 Bc  kc    k     kc         578   40    0 6c As
+okinpa    953521392 10 10 c   f     -     -          538   10    0 
+okinpa    953521459  9  9 c   f     -     -          528   20    0 
+okinpa    953521559  9  8 c   k     kf    -          508   10    0 
+okinpa    953521624  9  7 c   k     k     f          498   10    0 
+okinpa    953521670  9  6 c   c     k     r          488   60  165 Ac Jc
+okinpa    953521741  9  5 c   b     k     r          593   60  125 Jh Ts
+okinpa    953521845  8  4 c   b     b     b          658   60  120 
+okinpa    953521910 10  3 cc  br    k     bc         718   90    0 9d 4s
+okinpa    953521998 10  2 Bk  f     -     -          628   10    0 
+okinpa    953522064 10  1 Bc  brc   kc    kc         618   90    0 5s Jd
+okinpa    953522136 10 10 c   rc    rc    c          528  130  430 4c 5c
+okinpa    953522206 10  9 c   c     kc    kf         828   40    0 
+okinpa    953522300 10  8 c   f     -     -          788   20    0 
+okinpa    953522342 10  7 c   k     b     b          768   50  130 
+okinpa    953522403 10  6 cc  kf    -     -          848   20    0 
+okinpa    953522472 10  5 c   k     kf    -          828   10    0 
+okinpa    953522563 10  4 c   kf    -     -          818   10    0 
+okinpa    953522635 10  3 c   kc    kc    kc         808   60    0 6d 5d
+okinpa    953522766  9  2 Bk  kc    kc    k          748   40    0 6s Kh
+okinpa    953522859  9  1 Bc  k     k     k          708   10   24 Qs Ac
+okinpa    953522932  9  9 c   cf    -     -          722   30    0 
+okinpa    953523052  8  7 c   b     bc    rr         692  140  315 5h Ah
+okinpa    953523134  9  7 r   kc    kf    -          867   30    0 
+okinpa    953523221  8  5 c   c     r     b          837   80  210 3s 8d
+okinpa    953523271  7  3 cc  cc    kc    k          967   60    0 3d 7s
+okinpa    953523345  8  2 Bc  kf    -     -          907   20    0 
+okinpa    953523406  8  1 Bc  k     b     b          887   50   75 7d 3s
+okinpa    953523462  8  8 c   r     k     b          912   50  200 8c 2c
+okinpa    953523549 10 10 c   f     -     -         1062   10    0 
+okinpa    953523617 10  8 c   kf    -     -         1052   10    0 
+okinpa    953523666 10  7 c   f     -     -         1042   20    0 
+okinpa    953523723 10  6 c   c     f     -         1022   20    0 
+okinpa    953523765 10  5 c   c     c     f         1002   40    0 
+okinpa    953523817 10  4 c   f     -     -          962   10    0 
+okinpa    953523871 10  3 cc  k     k     kf         952   20    0 
+okinpa    953523951 10  2 Bcf -     -     -          932   20    0 
+okinpa    953524039 10  1 Bc  k     kc    b          912   60  180 
+okinpa    953524097  9  9 c   r     b     b         1032   80    0 5s Qc
+okinpa    953524166  9  8 c   f     -     -          952   20    0 
+okinpa    953524236 10  8 r   cc    k     kf         932   40    0 
+okinpa    953524309 10  7 c   f     -     -          892   10    0 
+okinpa    953524389 10  6 c   b     b     -          882   40  110 
+okinpa    953524464 10  5 c   k     kf    -          952   10    0 
+okinpa    953524553 10  4 c   c     r     b          942   90  340 2c 7s
+okinpa    953524625 10  3 c   kf    -     -         1192   10    0 
+okinpa    953524678 10  2 Bc  kf    -     -         1182   20    0 
+okinpa    953524790 10  1 Bc  b     b     b         1162   60  130 
+okinpa    953524854 10 10 c   cf    -     -         1232   20    0 
+okinpa    953524959 10  9 c   c     c     f         1212   40    0 
+okinpa    953525039 10  8 c   f     -     -         1172   20    0 
+okinpa    953525112 10  7 c   b     rr    b         1152  120    0 Ad Td
+okinpa    953525175 10  6 cc  f     -     -         1032   20    0 
+okinpa    953525237 10  5 c   k     r     k         1012   50    0 Jc 4s
+okinpa    953525289 10  4 c   r     f     -          962   30    0 
+okinpa    953525389 10  3 c   f     -     -          932   10    0 
+okinpa    953525443 10  2 Bcc kf    -     -          922   40    0 
+okinpa    953525520  9  1 Bc  kc    kf    -          882   20    0 
+okinpa    953525597 10 10 cc  c     cf    -          862   70    0 
+okinpa    953525682 10  9 c   c     c     c          792   60    0 4s Ad
+okinpa    953525740 10  8 c   cf    -     -          732   20    0 
+okinpa    953525792 10  7 c   f     -     -          712   10    0 
+okinpa    953525855 10  6 c   f     -     -          702   10    0 
+okinpa    953525918 10  5 c   kc    kf    -          692   20    0 
+okinpa    953525979 10  4 c   f     -     -          672   10    0 
+okinpa    953526038  9  3 c   brc   kcc   kf         662  130    0 
+okinpa    953526137 10  2 Bk  k     f     -          532   10    0 
+okinpa    953526193 10  1 Bc  kc    k     kf         522   30    0 
+okinpa    953526256 10 10 c   f     -     -          492   10    0 
+okinpa    953526309 10  9 c   b     b     br         482  100    0 Kc Qc
+okinpa    953526367 10  8 c   b     bc    kc         382   80    0 8s Ah
+okinpa    953526440 10  7 c   k     c     c          302   50  180 7h Jh
+okinpa    953526519 10  6 cc  kf    -     -          432   20    0 
+okinpa    953526622 10  5 c   k     k     f          412   10    0 
+okinpa    953526706 10  4 c   b     b     brc        402  120    0 Ks Ah
+okinpa    953526752 10  3 c   kf    -     -          282   10    0 
+okinpa    953526799 10  2 Bk  kf    -     -          272   10    0 
+okinpa    953526850 10  1 Bc  kf    -     -          262   10    0 
+okinpa    953526925 10 10 c   k     c     f          252   30    0 
+okinpa    953526965 10  9 c   f     -     -          222   10    0 
+okinpa    953527063 10  8 c   c     c     k          212   40  155 Qh 7s
+okinpa    953527157 10  7 c   f     -     -          327   10    0 
+okinpa    953527248 10  6 c   k     k     k          317   10    0 Jh 9d
+okinpa    953527345 10  5 c   kf    -     -          307   10    0 
+okinpa    953527482 10  4 c   kf    -     -          297   10    0 
+okinpa    953527523 10  3 cc  kf    -     -          287   20    0 
+okinpa    953527612 10  2 Bk  kQ    -     -          267   10    0 
+okinpa    953716756 10  7 f   -     -     -          270    0    0 
+okinpa    953716821 10  6 c   rc    c     c          270   80    0 Jc Kh
+okinpa    953716855  9  4 c   k     k     k          190   10    0 6s 3h
+okinpa    953716905 10  4 c   k     k     r          180   50  140 Qc Tc
+okinpa    953716984 10  3 c   f     -     -          270   10    0 
+okinpa    953717048 10  2 Bc  c     c     kc         260   70    0 6c 5d
+okinpa    953717133 10  1 Bc  k     k     k          190   20  120 7s Qh
+okinpa    953717195 10 10 c   b     rr    rc         290  170  495 Ad Kc
+okinpa    953717271 10  9 c   r     b     b          615   70  295 9h 8d
+okinpa    953717342 10  8 c   c     f     -          840   40    0 
+okinpa    953717405 10  7 c   c     c     c          800   60    0 Kd Qd
+okinpa    953717449 10  6 c   c     k     k          740   30  105 Jd 3s
+okinpa    953717501 10  5 c   k     c     f          815   30    0 
+okinpa    953717600 10  4 c   c     k     c          785   40    0 3h Jd
+okinpa    953717697 10  3 c   kf    -     -          745   10    0 
+okinpa    953717736 10  2 Bk  kf    -     -          735   10    0 
+okinpa    953717819 10  1 Bf  -     -     -          725    5    0 
+okinpa    953717870 10 10 c   f     -     -          720   20    0 
+okinpa    953717919 10  9 f   -     -     -          700    0    0 
+okinpa    953717979 10  8 c   f     -     -          700   20    0 
+okinpa    953718031 10  7 f   -     -     -          680    0    0 
+okinpa    953718093 10  6 cc  k     KQ    -          680   30    0 
+okinpa    953798009 10  2 Bk  k     b     -          650   30   45 
+okinpa    953798043 10  1 Bc  kf    -     -          665   20    0 
+okinpa    953798137 10 10 f   -     -     -          645    0    0 
+okinpa    953798195  9  8 c   k     k     f          645   10    0 
+okinpa    953798281  9  7 c   b     b     -          635   40   75 
+okinpa    953798330 10  7 c   br    bc    b          670  100    0 Ts Jc
+okinpa    953798433 10  6 cc  k     f     -          570   40    0 
+okinpa    953798496 10  5 c   cc    c     f          530   60    0 
+okinpa    953798571 10  4 rc  r     r     b          470  120  325 3s 3c
+okinpa    953798628 10  3 r   b     b     b          675   70  210 Td Ts
+okinpa    953798698 10  2 Bk  bc    f     -          815   30    0 
+okinpa    953798773 10  1 Bc  kf    -     -          785   10    0 
+okinpa    953798820 10 10 f   -     -     -          775    0    0 
+okinpa    953798891 10  9 c   c     c     c          775   60    0 6d Ks
+okinpa    953798958 10  8 c   k     k     f          715   10    0 
+okinpa    953799030 10  7 cc  k     k     k          705   20    0 2h Kc
+okinpa    953799103  9  5 cc  kc    b     bc         685   90    0 7d 8c
+okinpa    953799233  7  4 c   k     c     f          595   30    0 
+okinpa    953799268  9  3 cc  kf    -     -          565   20    0 
+okinpa    953799303  9  2 Br  brc   bc    kc         545  130    0 9c 9d
+okinpa    953799337  9  1 Bc  kf    -     -          415   10    0 
+okinpa    953799366  9  9 c   k     f     -          405   10    0 
+okinpa    953799462 10  9 cc  f     -     -          395   20    0 
+okinpa    953799526 10  8 cc  k     k     k          375   20    0 6s 8d
+okinpa    953799574 10  7 r   b     r     b          355   90  230 
+okinpa    953799627  9  6 c   kc    k     c          495   40    0 Qh 4d
+okinpa    953799699  9  5 c   k     k     b          455   30    0 Js 7d
+okinpa    953799751  9  4 c   f     -     -          425   10    0 
+okinpa    953799811  9  3 cc  kf    -     -          415   20    0 
+okinpa    953799871  9  2 Bk  k     b     -          395   30   50 
+okinpa    953799914  8  1 Br  b     b     b          415   70  150 8s 8c
+okinpa    953799942  9  9 r   b     k     k          495   30   95 8s Js
+okinpa    953800044  8  7 c   b     -     -          560   20   35 
+okinpa    953800067  8  6 c   c     c     c          575   60    0 3s 2h
+okinpa    953800103  8  5 cc  f     -     -          515   20    0 
+okinpa    953800148  8  4 c   b     bc    bc         495  100    0 Ts Ks
+okinpa    953800196  8  3 f   -     -     -          395    0    0 
+okinpa    953800217  8  2 Bf  -     -     -          395   10    0 
+okinpa    953800233  8  1 Bc  b     b     k          385   40    0 Tc Ks
+okinpa    953800267  8  8 c   k     f     -          345   10    0 
+okinpa    953800303  8  7 c   f     -     -          335   20    0 
+okinpa    953800361  8  6 r   c     c     f          315   50    0 
+okinpa    953800431  8  5 c   k     kf    -          265   10    0 
+okinpa    953800482  8  4 c   k     k     b          255   30   65 
+okinpa    953800519  9  3 cc  kf    -     -          290   30    0 
+okinpa    953800565  9  2 Bf  -     -     -          260   10    0 
+okinpa    953800636  9  1 Bf  -     -     -          250    5    0 
+okinpa    953800668  9  9 c   k     f     -          245   20    0 
+okinpa    953800703  9  8 cc  f     -     -          225   20    0 
+okinpa    953800755  9  7 cc  f     -     -          205   20    0 
+okinpa    953800834  9  6 r   br    b     -          185   70  135 
+okinpa    953800872  9  5 ccc kf    -     -          250   30    0 
+okinpa    953800951  9  4 cf  -     -     -          220   10    0 
+okinpa    953801041 10  4 cc  kc    kf    -          210   40    0 
+okinpa    953801178  9  3 cf  -     -     -          170   10    0 
+okinpa    953801217 10  2 Bk  b     b     k          160   40  100 7c Js
+okinpa    953801251 10  1 Bf  -     -     -          220    5    0 
+okinpa    953801342 10 10 c   f     -     -          215   30    0 
+okinpa    953801439  9  8 c   k     k     k          185   10   40 6h Qh
+okinpa    953801482  8  6 c   k     f     -          215   20    0 
+okinpa    953801554  8  6 c   r     k     k          195   30    0 6d Jd
+okinpa    953801606  9  5 cc  kf    -     -          165   20    0 
+okinpa    953801660  9  4 c   f     -     -          145   10    0 
+okinpa    953801707  9  4 c   bc    kc    kc         135   70    0 5d Kh
+okinpa    953801789  6  2 Br  b     b     bA          65   65  135 9c 9d
+okinpa    953801809  7  1 Br  kc    kf    -          135   40    0 
+okinpa    953801857  7  7 f   -     -     -           95    0    0 
+okinpa    953801892  7  6 r   b     r     -           95   70  135 
+okinpa    953801915  8  6 rr  f     -     -          160   40    0 
+okinpa    953801961  8  5 cc  k     k     k          120   20    0 3c Kd
+okinpa    953802010  7  3 crc bc    bcA   -          100  100    0 Jc 7c
+okinpa    953802170  7  7 c   c     k     f         1000   30    0 
+okinpa    953802200  7  6 c   k     f     -          970   10    0 
+okinpa    953802218  7  5 f   -     -     -          960    0    0 
+okinpa    953802282  7  4 c   b     rr    b          960  120  245 6c Ts
+okinpa    953802312  6  3 f   -     -     -         1085    0    0 
+okinpa    953802350  6  2 Br  b     -     -         1085   30   55 
+okinpa    953802365  6  1 Bf  -     -     -         1110    5    0 
+okinpa    953802385  5  5 c   f     -     -         1105   10    0 
+okinpa    953802395  5  4 cf  -     -     -         1095   10    0 
+okinpa    953802411  5  3 r   b     -     -         1085   30   65 
+okinpa    953802422  5  2 B   -     -     -         1120   10   15 
+okinpa    953802425  5  1 Bc  k     k     k         1125   10   40 Ts 5d
+okinpa    953802451  5  5 f   -     -     -         1155    0    0 
+okinpa    953802480  5  4 c   c     f     -         1155   20    0 
+okinpa    953802522  5  3 r   -     -     -         1135   20   35 
+okinpa    953802526  5  2 Bc  kf    -     -         1150   20    0 
+okinpa    953802543  5  1 Bc  kf    -     -         1130   10    0 
+okinpa    953802563  6  6 f   -     -     -         1120    0    0 
+okinpa    953802584  6  5 cc  k     k     rr        1120  100    0 4s Qs
+okinpa    953802652  6  4 c   c     b     -         1020   40   95 
+okinpa    953802680  5  3 r   kf    -     -         1075   20    0 
+okinpa    953802697  6  2 Bk  b     b     b         1055   60  120 Jc 4h
+okinpa    953802718  6  1 Bf  -     -     -         1115    5    0 
+okinpa    953802745  6  6 c   f     -     -         1110   20    0 
+okinpa    953802781  6  5 f   -     -     -         1090    0    0 
+okinpa    953802805  6  4 c   k     k     b         1090   30    0 4c Js
+okinpa    953802830  6  3 r   kf    -     -         1060   20    0 
+okinpa    953802847  6  2 Bf  -     -     -         1040   10    0 
+okinpa    953802866  6  1 Bc  kf    -     -         1030   20    0 
+okinpa    953802890  6  6 c   k     k     f         1010   10    0 
+okinpa    953802926  6  5 rc  b     b     b         1000   80  200 
+okinpa    953802962  6  4 c   kf    -     -         1120   10    0 
+okinpa    953802999  5  2 Bk  f     -     -         1110   10    0 
+okinpa    953803018  5  1 Br  b     -     -         1100   30   50 
+okinpa    953803028  5  5 cf  -     -     -         1120   10    0 
+okinpa    953803071  5  4 c   f     -     -         1110   10    0 
+okinpa    953803085  5  3 c   c     c     f         1100   40    0 
+okinpa    953803106  5  2 Bk  k     k     k         1060   10    0 2h Qs
+okinpa    953803161  5  1 Bc  k     kf    -         1050   10    0 
+okinpa    953803196  5  5 c   k     k     k         1040   10    0 Td Kh
+okinpa    953803222  6  4 f   -     -     -         1030    0    0 
+okinpa    953803241  6  3 c   kc    kf    -         1030   20    0 
+okinpa    953803284  8  4 ccc c     f     -         1010   50    0 
+okinpa    953803347  8  3 cf  -     -     -          960   10    0 
+okinpa    953803389  8  2 Bk  b     b     b          950   60   70 Td Ad
+okinpa    953803425  8  1 Bc  kf    -     -          960   10    0 
+okinpa    953803467  7  7 c   f     -     -          950   10    0 
+okinpa    953803509  7  6 cc  f     -     -          940   30    0 
+okinpa    953803554  7  5 rr  b     -     -          910   45  115 5c 5h
+okinpa    953803600  6  4 r   f     -     -          980   20    0 
+okinpa    953803635  6  3 c   f     -     -          960   10    0 
+okinpa    953803663  7  2 Bf  -     -     -          950   10    0 
+okinpa    953803697  7  1 Bc  b     b     b          940   70  200 
+okinpa    953803730  8  8 c   f     -     -         1070   10    0 
+okinpa    953803772  7  6 c   f     -     -         1060   10    0 
+okinpa    953803831  7  5 c   k     k     f         1050   10    0 
+okinpa    953803887  7  4 c   k     ccc   k         1040   90    0 Ks 8s
+okinpa    953803938  7  3 c   k     k     k          950   10    0 2h 9h
+okinpa    953803980  7  2 Bc  kc    kc    k          940   50    0 5h Jc
+okinpa    953804038  7  1 Bc  kc    kc    kf         890   40    0 
+okinpa    953804097  7  7 f   -     -     -          850    0    0 
+okinpa    953804126  7  6 c   k     k     k          850   10    0 Jc 4c
+okinpa    953804157  7  5 c   b     b     b          840   60  130 
+okinpa    953804199  7  4 r   b     b     k          910   50  135 Tc Kc
+okinpa    953804229  7  3 ccc kf    -     -          995   40    0 
+okinpa    953804270  7  2 Bk  b     b     bc         955   80    0 Qc Ah
+okinpa    953804328  7  1 Bc  k     k     k          875   10    0 6s 7h
+okinpa    953804376  8  8 c   c     f     -          865   20    0 
+okinpa    953804412  8  7 c   f     -     -          845   10    0 
+okinpa    953804443  9  7 c   k     Q     -          835   20    0 
+okinpa    954031584 10 10 f   -     -     -          815    0    0 
+okinpa    954031646 10  9 f   -     -     -          815    0    0 
+okinpa    954031710 10  8 c   f     -     -          815   10    0 
+okinpa    954031751 10  7 c   c     c     kf         805   40    0 
+okinpa    954031822 10  6 f   -     -     -          765    0    0 
+okinpa    954031871  9  5 c   kc    kf    -          765   20    0 
+okinpa    954031944  9  4 c   f     -     -          745   10    0 
+okinpa    954032001  9  3 f   -     -     -          735    0    0 
+okinpa    954032051 10  2 Bf  -     -     -          735   10    0 
+okinpa    954032107 10  1 Bcc kf    -     -          725   20    0 
+okinpa    954032165 10 10 c   k     k     f          705   20    0 
+okinpa    954032232 10  9 cc  kc    kc    brc        685  130  295 Jd Ac
+okinpa    954032315 10  8 cc  ccc   f     -          850   60    0 
+okinpa    954032423 10  7 c   c     c     f          790   40    0 
+okinpa    954032523 10  6 cc  br    brc   kc         750  150    0 5s Ac
+okinpa    954032583 10  5 f   -     -     -          600    0    0 
+okinpa    954032620 10  4 c   cc    kc    b          600   70  120 Qs 9c
+okinpa    954032685 10  3 c   k     k     f          650   10    0 
+okinpa    954032731 10  2 Bc  kf    -     -          640   20    0 
+okinpa    954032779 10  1 Bc  bc    kc    b          620   80   87 6d Td
+okinpa    954032835 10 10 c   k     k     f          627   10    0 
+okinpa    954032872 10  9 cc  f     -     -          617   20    0 
+okinpa    954032920  9  7 c   f     -     -          597   10    0 
+okinpa    954032980 10  7 f   -     -     -          587    0    0 
+okinpa    954033032 10  6 f   -     -     -          587    0    0 
+okinpa    954033061 10  5 cc  k     c     f          587   40    0 
+okinpa    954033094 10  4 c   kf    -     -          547   10    0 
+okinpa    954033138  9  3 c   k     k     k          537   10    0 9c Qc
+okinpa    954033178 10  2 Bc  kc    k     k          527   30    0 5s Kh
+okinpa    954033221 10  1 Bc  b     b     -          497   40   80 
+okinpa    954033254  9  9 rc  r     rc    rc         537  210    0 Jh 8d
+okinpa    954033300  9  8 rr  b     b     k          327   70    0 9h 2d
+okinpa    954033329 10  7 c   k     k     k          257   10    0 6c Qh
+okinpa    954033366 10  6 cc  br    kf    -          247   60    0 
+okinpa    954033455 10  5 c   b     b     bc         187   80    0 Qc 6s
+okinpa    954033500 10  4 r   b     b     b          107   70  185 
+okinpa    954033551 10  3 c   b     b     b          222   60  155 Kc 9h
+okinpa    954033602 10  2 Br  b     b     kc         317   80    0 7h As
+okinpa    954033634 10  1 Bc  b     -     -          237   20   60 
+okinpa    954033666 10 10 r   r     b     -          277   60  165 
+okinpa    954033734 10  9 c   f     -     -          382   10    0 
+okinpa    954033789 10  8 f   -     -     -          372    0    0 
+okinpa    954033813 10  7 r   br    b     b          372   90  250 Ad Jc
+okinpa    954033862  9  5 cc  c     cf    -          532   50    0 
+okinpa    954033928  9  4 c   k     k     k          482   10    0 2d As
+okinpa    954033947  9  3 cc  f     -     -          472   20    0 
+okinpa    954033976  9  2 BQ  -     -     -          452   10    0 
+okinpa    954034468  9  6 cc  cc    kc    kf         442   80    0 
+okinpa    954034543 10  6 c   r     b     k          362   60  135 Tc 6c
+okinpa    954034585 10  5 c   brc   bc    kc         437  110    0 Kd Js
+okinpa    954034637 10  4 r   kc    kf    -          327   30    0 
+okinpa    954034710 10  3 c   kf    -     -          297   10    0 
+okinpa    954034772 10  2 Bk  kf    -     -          287   10    0 
+okinpa    954034842  9  1 Br  bc    kc    b          277   80  240 Ah 5h
+okinpa    954034901  9  9 c   f     -     -          437   20    0 
+okinpa    954034940  9  8 r   r     r     rc         417  140  290 Th Jh
+okinpa    954034983 10  7 c   rr    kc    kf         567   80    0 
+okinpa    954035055 10  7 rc  kc    kc    c          487   90    0 5h 5d
+okinpa    954035110  9  5 rc  f     -     -          397   30    0 
+okinpa    954035146  9  4 f   -     -     -          367    0    0 
+okinpa    954035171  9  3 r   b     k     kf         367   30    0 
+okinpa    954035221  9  2 Bk  kc    kf    -          337   20    0 
+okinpa    954035271  8  1 Brr bcc   kc    k          317  120    0 Ks Kh
+okinpa    954035347  8  8 c   c     c     c          197   60    0 3d 2d
+okinpa    954035392  8  6 r   kc    kf    -          137   40    0 
+okinpa    954035461  9  6 c   k     kf    -           97   10    0 
+okinpa    954035490  9  5 c   rc    r     cA          87   87    0 As 9h

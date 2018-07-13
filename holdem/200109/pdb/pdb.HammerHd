@@ -1,0 +1,537 @@
+HammerHd  1000444100  6  6 f   -     -     -         1000    0    0 
+HammerHd  1000444129  6  5 f   -     -     -         1000    0    0 
+HammerHd  1000444174  6  4 f   -     -     -         1000    0    0 
+HammerHd  1000444217  6  3 f   -     -     -         1000    0    0 
+HammerHd  1000444265  6  2 Bc  kf    -     -         1000   20    0 
+HammerHd  1000444292  6  1 Br  b     b     b          980   70  140 
+HammerHd  1000444347  5  5 f   -     -     -         1050    0    0 
+HammerHd  1000444378  5  4 f   -     -     -         1050    0    0 
+HammerHd  1000444416  5  3 cc  kc    kc    kf        1050   50    0 
+HammerHd  1000444473  6  2 Brc kc    k     f         1000   50    0 
+HammerHd  1000444516  6  1 Bf  -     -     -          950    5    0 
+HammerHd  1000444562  6  6 f   -     -     -          945    0    0 
+HammerHd  1000444584  6  5 f   -     -     -          945    0    0 
+HammerHd  1000444627  6  4 f   -     -     -          945    0    0 
+HammerHd  1000444649  6  3 cc  kc    kc    brc        945  130  158 Ac 5c
+HammerHd  1000444699  5  1 Brc krr   kc    kc         973  120  260 Ad Td
+HammerHd  1000444751  5  1 Bcc kc    kc    kc        1113   70    0 Qh 7s
+HammerHd  1000444777  5  5 f   -     -     -         1043    0    0 
+HammerHd  1000444815  5  4 f   -     -     -         1043    0    0 
+HammerHd  1000444842  5  3 rc  kc    kf    -         1043   40    0 
+HammerHd  1000444890  4  2 Bk  f     -     -         1003   10    0 
+HammerHd  1000444909  5  1 Br  krr   b     b          993  100  190 
+HammerHd  1000444959  5  5 f   -     -     -         1083    0    0 
+HammerHd  1000444989  6  4 f   -     -     -         1083    0    0 
+HammerHd  1000444999  6  3 f   -     -     -         1083    0    0 
+HammerHd  1000445018  6  2 B   -     -     -         1083   10   15 
+HammerHd  1000445028  6  1 Bf  -     -     -         1088    5    0 
+HammerHd  1000445043  6  6 c   k     r     k         1083   50    0 6s Ks
+HammerHd  1000445087  6  5 f   -     -     -         1033    0    0 
+HammerHd  1000445117  7  4 f   -     -     -         1033    0    0 
+HammerHd  1000445145  8  3 f   -     -     -         1033    0    0 
+HammerHd  1000445167  8  2 Bf  -     -     -         1033   10    0 
+HammerHd  1000445199  8  1 Bc  bc    k     b         1023   50  130 8h Qd
+HammerHd  1000445249  8  8 f   -     -     -         1103    0    0 
+HammerHd  1000445265  8  7 f   -     -     -         1103    0    0 
+HammerHd  1000445300  8  6 c   k     k     b         1103   30    0 6c Ts
+HammerHd  1000445349  8  5 f   -     -     -         1073    0    0 
+HammerHd  1000445388  8  4 f   -     -     -         1073    0    0 
+HammerHd  1000445432  8  3 f   -     -     -         1073    0    0 
+HammerHd  1000445460  8  2 Bc  kf    -     -         1073   20    0 
+HammerHd  1000445492  9  1 Bf  -     -     -         1053    5    0 
+HammerHd  1000445529  7  7 cc  f     -     -         1048   20    0 
+HammerHd  1000445582  7  7 c   r     r     b         1028  100    0 Qh Jh
+HammerHd  1000445662  7  6 f   -     -     -          928    0    0 
+HammerHd  1000445733  7  5 cc  kf    -     -          928   20    0 
+HammerHd  1000445790  8  4 f   -     -     -          908    0    0 
+HammerHd  1000445828  8  3 f   -     -     -          908    0    0 
+HammerHd  1000445878  8  2 Bk  b     bc    f          908   60    0 
+HammerHd  1000445924  8  1 Bf  -     -     -          848    5    0 
+HammerHd  1000445973  8  8 f   -     -     -          843    0    0 
+HammerHd  1000445991  8  7 c   c     c     k          843   50    0 Td Jh
+HammerHd  1000446026  8  6 f   -     -     -          793    0    0 
+HammerHd  1000446044  8  5 r   b     k     b          793   50  125 
+HammerHd  1000446072  8  4 r   kf    -     -          868   20    0 
+HammerHd  1000446104  8  3 c   kc    kf    -          848   20    0 
+HammerHd  1000446159  9  2 Bf  -     -     -          828   10    0 
+HammerHd  1000446219  7  1 Bf  -     -     -          818    5    0 
+HammerHd  1000446282  7  7 f   -     -     -          813    0    0 
+HammerHd  1000446303  7  6 f   -     -     -          813    0    0 
+HammerHd  1000446324  8  6 f   -     -     -          813    0    0 
+HammerHd  1000446368  8  5 f   -     -     -          813    0    0 
+HammerHd  1000446436  8  4 cc  krc   k     b          813   70  190 
+HammerHd  1000446496  7  3 cc  kf    -     Q          933   20    0 
+HammerHd  1000492744  5  5 f   -     -     -          913    0    0 
+HammerHd  1000492781  5  4 f   -     -     -          913    0    0 
+HammerHd  1000492802  5  3 f   -     -     -          913    0    0 
+HammerHd  1000492821  5  2 Bk  k     f     -          913   10    0 
+HammerHd  1000492849  6  1 Bc  kf    -     -          903   10    0 
+HammerHd  1000492880  7  7 f   -     -     -          893    0    0 
+HammerHd  1000492916  7  6 f   -     -     -          893    0    0 
+HammerHd  1000492989  7  5 f   -     -     -          893    0    0 
+HammerHd  1000493017  7  4 f   -     -     -          893    0    0 
+HammerHd  1000493041  7  3 f   -     -     -          893    0    0 
+HammerHd  1000493087  7  2 Bk  b     -     -          893   20   50 
+HammerHd  1000493114  7  1 Br  b     b     b          923   70  190 Kh Kc
+HammerHd  1000493159  7  7 f   -     -     -         1043    0    0 
+HammerHd  1000493190  7  6 f   -     -     -         1043    0    0 
+HammerHd  1000493234  8  6 f   -     -     -         1043    0    0 
+HammerHd  1000493276  9  6 f   -     -     -         1043    0    0 
+HammerHd  1000493325  9  5 f   -     -     -         1043    0    0 
+HammerHd  1000493384  8  4 f   -     -     -         1043    0    0 
+HammerHd  1000493416  8  3 f   -     -     -         1043    0    0 
+HammerHd  1000493478  8  2 Bk  k     f     -         1043   10    0 
+HammerHd  1000493563  8  1 Bf  -     -     -         1033    5    0 
+HammerHd  1000493649  8  8 f   -     -     -         1028    0    0 
+HammerHd  1000493715  8  7 f   -     -     -         1028    0    0 
+HammerHd  1000493753  9  7 r   rr    b     b         1028  100    0 8h Qs
+HammerHd  1000493796  9  6 f   -     -     -          928    0    0 
+HammerHd  1000493869  9  5 f   -     -     -          928    0    0 
+HammerHd  1000493934  9  4 f   -     -     -          928    0    0 
+HammerHd  1000494007  8  3 f   -     -     -          928    0    0 
+HammerHd  1000494072  8  2 Bk  kf    -     -          928   10    0 
+HammerHd  1000494125  8  1 Bc  k     k     b          918   30    0 5d 6h
+HammerHd  1000494237  7  7 f   -     -     -          888    0    0 
+HammerHd  1000494309  8  6 r   k     r     b          888   90    0 Kd Ah
+HammerHd  1000494401  8  6 c   k     r     b          798   70  150 Qh Td
+HammerHd  1000494444  8  5 f   -     -     -          878    0    0 
+HammerHd  1000494530  8  4 f   -     -     -          878    0    0 
+HammerHd  1000494586  8  3 f   -     -     -          878    0    0 
+HammerHd  1000494675  9  2 Bk  kc    kf    -          878   20    0 
+HammerHd  1000494730 10  1 Bf  -     -     -          858    5    0 
+HammerHd  1000494816  9  9 c   b     b     b          853   60  230 9c 9d
+HammerHd  1000494910  9  8 f   -     -     -         1023    0    0 
+HammerHd  1000494955  8  7 f   -     -     -         1023    0    0 
+HammerHd  1000494990  7  5 f   -     -     -         1023    0    0 
+HammerHd  1000495020  8  4 f   -     -     -         1023    0    0 
+HammerHd  1000495042  8  3 f   -     -     -         1023    0    0 
+HammerHd  1000495128  8  2 Bk  f     -     -         1023   10    0 
+HammerHd  1000495183  7  1 Bc  k     b     b         1013   50  120 6c 8h
+HammerHd  1000495220  6  6 c   k     f     -         1083   10    0 
+HammerHd  1000495263  9  8 f   -     -     -         1073    0    0 
+HammerHd  1000495292  9  7 f   -     -     -         1073    0    0 
+HammerHd  1000495342  8  5 f   -     -     -         1073    0    0 
+HammerHd  1000495411  8  5 f   -     -     -         1073    0    0 
+HammerHd  1000495481  8  3 f   -     -     -         1073    0    0 
+HammerHd  1000495541  8  2 Bc  br    b     b         1073  100    0 Kh 9h
+HammerHd  1000495585  9  1 Bf  -     -     -          973    5    0 
+HammerHd  1000495633  9  9 f   -     -     -          968    0    0 
+HammerHd  1000495707  9  8 f   -     -     -          968    0    0 
+HammerHd  1000495745  9  7 f   -     -     -          968    0    0 
+HammerHd  1000495791  8  5 c   b     b     b          968   60  150 
+HammerHd  1000495894  8  4 f   -     -     -         1058    0    0 
+HammerHd  1000495945  8  3 f   -     -     -         1058    0    0 
+HammerHd  1000496002  8  2 Bk  k     f     -         1058   10    0 
+HammerHd  1000496063  8  1 Bc  kc    kc    kf        1048   50    0 
+HammerHd  1000496127  9  9 c   f     -     -          998   10    0 
+HammerHd  1000496210  9  8 c   f     -     -          988   10    0 
+HammerHd  1000496270 10  9 f   -     -     -          978    0    0 
+HammerHd  1000496367  9  7 c   c     c     c          978   70    0 8c Th
+HammerHd  1000496444  8  6 f   -     -     -          908    0    0 
+HammerHd  1000496490  8  5 f   -     -     -          908    0    0 
+HammerHd  1000496537  9  4 c   k     b     b          908   50    0 Jh Td
+HammerHd  1000496595  9  3 c   f     -     -          858   10    0 
+HammerHd  1000496636 10  2 Bc  kf    -     -          848   20    0 
+HammerHd  1000496662 10  1 Bc  b     k     b          828   40  100 
+HammerHd  1000496721 10 10 f   -     -     -          888    0    0 
+HammerHd  1000496840 10 10 c   f     -     -          888   10    0 
+HammerHd  1000496892 10  8 cc  r     b     b          878   90    0 Qh Th
+HammerHd  1000496952 10  7 f   -     -     -          788    0    0 
+HammerHd  1000497117 10  7 f   -     -     -          788    0    0 
+HammerHd  1000497182  9  5 f   -     -     -          788    0    0 
+HammerHd  1000497247  9  4 f   -     -     -          788    0    0 
+HammerHd  1000497313  9  3 cc  kf    -     -          788   20    0 
+HammerHd  1000497382  9  2 B   -     -     -          768   10   15 
+HammerHd  1000497393  9  1 Bc  kf    -     -          773   10    0 
+HammerHd  1000497465  9  9 f   -     -     -          763    0    0 
+HammerHd  1000497526 10  8 f   -     -     -          763    0    0 
+HammerHd  1000497577 10  7 f   -     -     -          763    0    0 
+HammerHd  1000497626 10  6 c   bc    c     c          763   70    0 2d Ad
+HammerHd  1000497752 10  5 f   -     -     -          693    0    0 
+HammerHd  1000497900  9  4 f   -     -     -          693    0    0 
+HammerHd  1000497990 10  3 f   -     -     -          693    0    0 
+HammerHd  1000498087  9  2 Bk  brc   br    b          693  130    0 7h 4s
+HammerHd  1000498169  7  1 Bc  b     -     -          563   20   30 
+HammerHd  1000498234  7  7 f   -     -     -          573    0    0 
+HammerHd  1000498265  7  6 f   -     -     -          573    0    0 
+HammerHd  1000498292  7  5 f   -     -     -          573    0    0 
+HammerHd  1000498407  7  4 f   -     -     -          573    0    0 
+HammerHd  1000498453  7  3 f   -     -     -          573    0    0 
+HammerHd  1000498506  7  2 Bk  kf    -     -          573   10    0 
+HammerHd  1000498555  7  1 Bc  k     kf    -          563   10    0 
+HammerHd  1000498621  7  7 f   -     -     -          553    0    0 
+HammerHd  1000498656  7  6 c   b     brf   -          553   80    0 
+HammerHd  1000498697  7  5 f   -     -     -          473    0    0 
+HammerHd  1000498720  6  4 f   -     -     -          473    0    0 
+HammerHd  1000498755  5  3 f   -     -     -          473    0    0 
+HammerHd  1000498781  5  2 B   -     -     -          473   10   15 
+HammerHd  1000498785  5  1 Br  b     k     b          478   50  130 Td Ts
+HammerHd  1000498822  5  5 f   -     -     -          558    0    0 
+HammerHd  1000498851  5  4 f   -     -     -          558    0    0 
+HammerHd  1000498901  5  3 f   -     -     -          558    0    0 
+HammerHd  1000498912  5  2 B   -     -     -          558   10   15 
+HammerHd  1000498932  5  1 Bc  bc    k     k          563   30   70 8s 4d
+HammerHd  1000498959  5  5 f   -     -     -          603    0    0 
+HammerHd  1000498994  5  4 f   -     -     -          603    0    0 
+HammerHd  1000499024  5  3 c   f     -     -          603   10    0 
+HammerHd  1000499052  5  2 B   -     -     -          593   10   15 
+HammerHd  1000499057  5  1 Br  b     -     -          598   30   80 
+HammerHd  1000499089  5  5 r   -     -     -          648   20   35 
+HammerHd  1000499126  5  4 f   -     -     -          663    0    0 
+HammerHd  1000499158  5  3 f   -     -     -          663    0    0 
+HammerHd  1000499206  5  2 Bk  bf    -     -          663   20    0 
+HammerHd  1000499232  5  1 Bf  -     -     -          643    5    0 
+HammerHd  1000499259  5  5 f   -     -     -          638    0    0 
+HammerHd  1000499291  5  4 f   -     -     -          638    0    0 
+HammerHd  1000499318  5  3 f   -     -     -          638    0    0 
+HammerHd  1000499359  5  2 Bk  kc    br    b          638  100    0 Qd 8d
+HammerHd  1000499407  5  1 Bf  -     -     -          538    5    0 
+HammerHd  1000499418  5  5 f   -     -     -          533    0    0 
+HammerHd  1000499447  5  4 r   r     b     b          533   80    0 Ks Qc
+HammerHd  1000499475  6  3 r   kc    kc    kr         453   90    0 As Jh
+HammerHd  1000499505  6  2 Bf  -     -     -          363   10    0 
+HammerHd  1000499562  6  1 Bc  kc    kc    kc         353   70    0 Kc 9c
+HammerHd  1000499621  6  6 f   -     -     -          283    0    0 
+HammerHd  1000499656  6  5 f   -     -     -          283    0    0 
+HammerHd  1000499679  6  4 f   -     -     -          283    0    0 
+HammerHd  1000499697  5  2 Bf  -     -     -          283   10    0 
+HammerHd  1000499720  5  1 Bf  -     -     -          273    5    0 
+HammerHd  1000499770  5  5 f   -     -     -          268    0    0 
+HammerHd  1000499820  5  4 c   k     b     -          268   30   60 
+HammerHd  1000499867  5  3 f   -     -     -          298    0    0 
+HammerHd  1000499890  5  2 Bk  k     kf    -          298   10    0 
+HammerHd  1000499934  5  1 Bc  kf    -     -          288   10    0 
+HammerHd  1000499978  5  5 cc  r     r     b          278  100  300 9d 8c
+HammerHd  1000500053  5  4 f   -     -     -          478    0    0 
+HammerHd  1000500070  5  3 f   -     -     -          478    0    0 
+HammerHd  1000500100  5  2 Bk  rc    c     rr         478  140    0 2s Kh
+HammerHd  1000500153  6  1 Br  b     -     -          338   30   50 
+HammerHd  1000500184  6  6 f   -     -     -          358    0    0 
+HammerHd  1000500233  6  5 f   -     -     -          358    0    0 
+HammerHd  1000500274  6  4 f   -     -     -          358    0    0 
+HammerHd  1000500425  6  3 c   k     c     f          358   30    0 
+HammerHd  1000500505  6  2 Bk  b     -     -          328   20   30 
+HammerHd  1000500538  5  1 Bc  k     b     b          338   50   90 
+HammerHd  1000500568  5  5 c   b     b     r          378   80  175 
+HammerHd  1000500634  5  4 cc  f     -     -          473   20    0 
+HammerHd  1000500698  5  3 f   -     -     -          453    0    0 
+HammerHd  1000500737  5  2 Bk  k     k     c          453   30    0 8h 6d
+HammerHd  1000500799  5  1 Br  b     b     b          423   80  230 6c 6h
+HammerHd  1000500841  5  5 r   r     b     k          573   60  205 Ah 5d
+HammerHd  1000500896  5  4 f   -     -     -          718    0    0 
+HammerHd  1000500929  5  3 f   -     -     -          718    0    0 
+HammerHd  1000500957  5  2 Bk  b     kc    kc         718   60    0 Qs As
+HammerHd  1000501036  5  1 Bc  kf    -     -          658   10    0 
+HammerHd  1000501085  5  5 f   -     -     -          648    0    0 
+HammerHd  1000501126  6  5 f   -     -     -          648    0    0 
+HammerHd  1000501175  7  5 f   -     -     -          648    0    0 
+HammerHd  1000501227  7  4 c   f     -     -          648   10    0 
+HammerHd  1000501307  7  4 f   -     -     -          638    0    0 
+HammerHd  1000501404  6  3 f   -     -     -          638    0    0 
+HammerHd  1000501463  5  2 Bk  k     k     b          638   30   50 
+HammerHd  1000501532  4  1 Bf  -     -     -          658    5    0 
+HammerHd  1000501564  4  3 r   bc    f     -          653   40    0 
+HammerHd  1000501600  4  2 Bk  b     b     -          613   40   70 
+HammerHd  1000501632  4  1 Bc  kc    kf    -          643   20    0 
+HammerHd  1000501665  4  4 f   -     -     -          623    0    0 
+HammerHd  1000501696  4  3 f   -     -     -          623    0    0 
+HammerHd  1000501722  4  2 Bk  k     k     b          623   30   50 
+HammerHd  1000501757  4  1 Bc  k     kc    kf         643   30    0 
+HammerHd  1000501795  4  4 f   -     -     -          613    0    0 
+HammerHd  1000501823  4  3 f   -     -     -          613    0    0 
+HammerHd  1000501852  4  2 Bk  f     -     -          613   10    0 
+HammerHd  1000501899  4  1 Bc  k     kf    -          603   10    0 
+HammerHd  1000501964  4  4 f   -     -     -          593    0    0 
+HammerHd  1000501976  4  3 f   -     -     -          593    0    0 
+HammerHd  1000502007  5  2 Bk  kf    -     -          593   10    0 
+HammerHd  1000502033  5  1 Bf  -     -     -          583    5    0 
+HammerHd  1000502061  5  5 f   -     -     -          578    0    0 
+HammerHd  1000502094  5  4 f   -     -     -          578    0    0 
+HammerHd  1000502115  6  3 cc  k     b     -          578   40  105 
+HammerHd  1000502152  6  2 Bk  kf    Q     -          643   10    0 
+HammerHd  1000566044  3  2 Bc  f     -     -          633   20    0 
+HammerHd  1000566064  3  1 Bc  b     bc    br         613  120    0 8d 7s
+HammerHd  1000566095  4  4 f   -     -     -          493    0    0 
+HammerHd  1000566117  4  3 f   -     -     -          493    0    0 
+HammerHd  1000566139  4  2 Br  b     -     -          493   30   70 
+HammerHd  1000566158  4  1 Bf  -     -     -          533    5    0 
+HammerHd  1000566165  4  4 f   -     -     -          528    0    0 
+HammerHd  1000566183  5  4 f   -     -     -          528    0    0 
+HammerHd  1000566204  5  3 f   -     -     -          528    0    0 
+HammerHd  1000566226  5  2 Bk  cf    -     -          528   20    0 
+HammerHd  1000566257  5  1 Bc  kf    -     -          508   10    0 
+HammerHd  1000566284  5  5 f   -     -     -          498    0    0 
+HammerHd  1000566309  5  4 cc  kc    k     b          498   50   95 
+HammerHd  1000566335  5  3 f   -     -     -          543    0    0 
+HammerHd  1000566353  6  2 Bf  -     -     -          543   10    0 
+HammerHd  1000566372  6  1 Bc  b     b     b          533   70  170 
+HammerHd  1000566400  6  6 f   -     -     -          633    0    0 
+HammerHd  1000566432  6  5 c   c     c     c          633   70    0 Qs Ah
+HammerHd  1000566472  6  4 c   k     r     b          563   70    0 Ks Qs
+HammerHd  1000566499  6  3 rc  r     b     b          493   90  185 Kc Jc
+HammerHd  1000566526  6  2 Br  b     b     b          588   70    0 Jc As
+HammerHd  1000566547  6  1 Bc  kf    -     -          518   10    0 
+HammerHd  1000566582  6  6 f   -     -     -          508    0    0 
+HammerHd  1000566599  6  5 f   -     -     -          508    0    0 
+HammerHd  1000566623  6  4 r   -     -     -          508   20   35 
+HammerHd  1000566636  6  3 f   -     -     -          523    0    0 
+HammerHd  1000566658  6  2 Bf  -     -     -          523   10    0 
+HammerHd  1000566702  7  1 Bf  -     -     -          513    5    0 
+HammerHd  1000566737  7  7 f   -     -     -          508    0    0 
+HammerHd  1000566770  7  6 f   -     -     -          508    0    0 
+HammerHd  1000566813  6  5 f   -     -     -          508    0    0 
+HammerHd  1000566844  6  4 f   -     Q     -          508    0    0 
+HammerHd  1000858626 10  8 cc  b     bc    c          508   90  275 Ad 9h
+HammerHd  1000858687 10  7 f   -     -     -          693    0    0 
+HammerHd  1000858755 10  6 f   -     -     -          693    0    0 
+HammerHd  1000858840 10  5 c   k     k     k          693   10   10 8s Ts
+HammerHd  1000858897 10  4 f   -     -     -          693    0    0 
+HammerHd  1000858971 10  3 f   -     -     -          693    0    0 
+HammerHd  1000859000 10  2 Bk  f     -     -          693   10    0 
+HammerHd  1000859051 10  1 Br  b     b     b          683   70  150 
+HammerHd  1000859087 10 10 f   -     -     -          763    0    0 
+HammerHd  1000859138 10  9 f   -     -     -          763    0    0 
+HammerHd  1000859178 10  8 c   f     -     -          763   20    0 
+HammerHd  1000859218 10  7 f   -     -     -          743    0    0 
+HammerHd  1000859288 10  6 f   -     -     -          743    0    0 
+HammerHd  1000859341 10  5 f   -     -     -          743    0    0 
+HammerHd  1000859396 10  4 c   f     -     -          743   10    0 
+HammerHd  1000859481 10  3 f   -     -     -          733    0    0 
+HammerHd  1000859558 10  2 Bc  kf    -     -          733   20    0 
+HammerHd  1000859636 10  1 Bc  kf    -     -          713   10    0 
+HammerHd  1000859742 10 10 c   c     b     k          703   40    0 Jh Qh
+HammerHd  1000859810 10  9 f   -     -     -          663    0    0 
+HammerHd  1000859888 10  9 f   -     -     -          663    0    0 
+HammerHd  1000859951 10  7 f   -     -     -          663    0    0 
+HammerHd  1000860025 10  6 c   cf    -     -          663   30    0 
+HammerHd  1000860129 10  5 f   -     -     -          633    0    0 
+HammerHd  1000860182 10  4 f   -     -     -          633    0    0 
+HammerHd  1000860233 10  3 f   -     -     -          633    0    0 
+HammerHd  1000860286 10  2 Bc  kf    -     -          633   20    0 
+HammerHd  1000860369 10  1 Bf  -     -     -          613    5    0 
+HammerHd  1000860427  9  9 f   -     -     -          608    0    0 
+HammerHd  1000860451  9  8 c   b     brc   bc         608  140    0 As Td
+HammerHd  1000860553  8  6 f   -     -     -          468    0    0 
+HammerHd  1000860593  8  5 Q   -     -     -          468    0    0 
+HammerHd  1000867083 10  2 Bc  b     kf    -          468   30    0 
+HammerHd  1000867146 10  1 Bf  -     -     -          438    5    0 
+HammerHd  1000867228 10 10 f   -     -     -          433    0    0 
+HammerHd  1000867287 10  9 c   b     bc    f          433   60    0 
+HammerHd  1000867356 10  8 f   -     -     -          373    0    0 
+HammerHd  1000867401 10  7 f   -     -     -          373    0    0 
+HammerHd  1000867439 10  6 f   -     -     -          373    0    0 
+HammerHd  1000867500 10  5 f   -     -     -          373    0    0 
+HammerHd  1000867587 10  4 cc  rc    f     -          373   50    0 
+HammerHd  1000867662 10  3 f   -     -     -          323    0    0 
+HammerHd  1000867732 10  2 Bf  -     -     -          323   10    0 
+HammerHd  1000867800 10  1 Bf  -     -     -          313    5    0 
+HammerHd  1000867891 10 10 f   -     -     -          308    0    0 
+HammerHd  1000867961 10  9 f   -     -     -          308    0    0 
+HammerHd  1000868001 10  8 f   -     -     -          308    0    0 
+HammerHd  1000868086 10  7 f   -     -     -          308    0    0 
+HammerHd  1000868128 10  6 f   -     -     -          308    0    0 
+HammerHd  1000868199 10  5 f   -     -     -          308    0    0 
+HammerHd  1000868238 10  4 f   -     -     -          308    0    0 
+HammerHd  1000868315 10  3 f   -     -     -          308    0    0 
+HammerHd  1000868405  9  2 Bk  kc    b     b          308   60  150 
+HammerHd  1000868463  9  1 Bf  -     -     -          398    5    0 
+HammerHd  1000868486  9  9 f   -     -     -          393    0    0 
+HammerHd  1000868526  9  8 f   -     -     -          393    0    0 
+HammerHd  1000868565 10  8 f   -     -     -          393    0    0 
+HammerHd  1000868616 10  7 f   -     -     -          393    0    0 
+HammerHd  1000868721  9  6 c   b     -     -          393   20   60 
+HammerHd  1000868762  9  4 f   -     -     -          433    0    0 
+HammerHd  1000868810 10  4 f   -     -     -          433    0    0 
+HammerHd  1000868882  9  3 f   -     -     -          433    0    0 
+HammerHd  1000868922  8  2 Bf  -     -     -          433   10    0 
+HammerHd  1000868997  7  1 Bc  kc    k     kf         423   40    0 
+HammerHd  1000869116  6  6 f   -     -     -          383    0    0 
+HammerHd  1000869170  7  5 f   -     -     -          383    0    0 
+HammerHd  1000869210  7  4 f   -     -     -          383    0    0 
+HammerHd  1000869261  6  3 cc  b     b     brc        383  130    0 Qs 8s
+HammerHd  1000869323  4  2 Br  b     b     br         253  110  240 Ac As
+HammerHd  1000869413  3  1 Bf  -     -     -          383    5    0 
+HammerHd  1000869436  3  3 f   -     -     -          378    0    0 
+HammerHd  1000869472  3  2 Bk  b     bc    bf         378   80    0 
+HammerHd  1000869507  3  1 Bf  -     -     -          298    5    0 
+HammerHd  1000869527  3  3 f   -     -     -          293    0    0 
+HammerHd  1000869553  3  2 Bk  k     k     c          293   30    0 4d 6h
+HammerHd  1000869571  3  1 Bf  -     -     -          263    5    0 
+HammerHd  1000869595  4  4 c   rr    rc    k          258  120    0 Th Jc
+HammerHd  1000869633  3  2 f   -     -     -          138    0    0 
+HammerHd  1000869658  4  2 Bf  -     -     -          138   10    0 
+HammerHd  1000869693  4  1 Brc b     k     b          128   70  160 
+HammerHd  1000869746  3  3 f   -     -     -          218    0    0 
+HammerHd  1000869765  3  2 Bk  k     f     -          218   10    0 
+HammerHd  1000869788  3  1 Bc  kc    k     b          208   40  100 6s Ac
+HammerHd  1000869818  3  3 r   b     b     b          268   70  160 Qs Td
+HammerHd  1000869852  3  2 Bk  k     b     b          358   50   90 
+HammerHd  1000869876  4  1 Bc  b     b     bc         398   80    0 6h Ts
+HammerHd  1000869904  4  4 f   -     -     -          318    0    0 
+HammerHd  1000869939  4  3 f   -     -     -          318    0    0 
+HammerHd  1000869970  4  2 Bk  kc    b     b          318   60  140 
+HammerHd  1000870012  4  1 Bf  -     -     -          398    5    0 
+HammerHd  1000870044  4  4 f   -     -     -          393    0    0 
+HammerHd  1000870092  4  3 f   -     -     -          393    0    0 
+HammerHd  1000870118  4  2 Bk  k     k     b          393   30    0 7c Qc
+HammerHd  1000870148  4  1 Bf  -     -     -          363    5    0 
+HammerHd  1000870180  4  4 c   k     f     -          358   10    0 
+HammerHd  1000870218  4  3 f   -     -     -          348    0    0 
+HammerHd  1000870259  5  2 Bk  k     kf    -          348   10    0 
+HammerHd  1000870339  4  1 Bf  -     -     -          338    5    0 
+HammerHd  1000870363  4  4 f   -     -     -          333    0    0 
+HammerHd  1000870415  4  3 f   -     -     -          333    0    0 
+HammerHd  1000870448  3  2 Br  k     b     b          333   70    0 6d Ah
+HammerHd  1000870485  2  1 Bf  -     -     -          263    5    0 
+HammerHd  1000870492  2  2 B   -     -     -          258   10   15 
+HammerHd  1000870494  2  1 Bf  -     -     -          263    5    0 
+HammerHd  1000870496  2  2 B   -     -     -          258   10   15 
+HammerHd  1001214516  9  9 r   c     r     c         1525   90    0 Kc Ks
+HammerHd  1001214582  9  8 f   -     -     -         1435    0    0 
+HammerHd  1001214614  9  7 f   -     -     -         1435    0    0 
+HammerHd  1001214666  8  5 f   -     -     -         1435    0    0 
+HammerHd  1001214688  8  4 f   -     -     -         1435    0    0 
+HammerHd  1001214725  8  3 f   -     -     -         1435    0    0 
+HammerHd  1001214769  8  2 Bk  kf    -     -         1435   10    0 
+HammerHd  1001214841  8  1 Bf  -     -     -         1425    5    0 
+HammerHd  1001214891  8  8 c   b     b     b         1420   60  120 
+HammerHd  1001214933  8  7 r   k     f     -         1480   20    0 
+HammerHd  1001214996  8  6 cc  cc    kc    kf        1460   70    0 
+HammerHd  1001215085  9  6 f   -     -     -         1390    0    0 
+HammerHd  1001215143  9  5 f   -     -     -         1390    0    0 
+HammerHd  1001215191  9  4 f   -     -     -         1390    0    0 
+HammerHd  1001215246 10  3 f   -     -     -         1390    0    0 
+HammerHd  1001215277  9  2 Bf  -     -     -         1390   10    0 
+HammerHd  1001215329  9  1 Bf  -     -     -         1380    5    0 
+HammerHd  1001215384  9  9 f   -     -     -         1375    0    0 
+HammerHd  1001215440  9  8 f   -     -     -         1375    0    0 
+HammerHd  1001215474  9  7 f   -     -     -         1375    0    0 
+HammerHd  1001215527 10  7 f   -     -     -         1375    0    0 
+HammerHd  1001215599 10  6 f   -     -     -         1375    0    0 
+HammerHd  1001215681 10  5 f   -     -     -         1375    0    0 
+HammerHd  1001215753 10  4 f   -     -     -         1375    0    0 
+HammerHd  1001215838 10  3 cr  kc    b     r         1375  100  530 Jc Tc
+HammerHd  1001215960 10  2 Bf  -     -     -         1805   10    0 
+HammerHd  1001216057 10  1 Bf  -     -     -         1795    5    0 
+HammerHd  1001216140 10 10 cc  c     b     b         1790   80  280 
+HammerHd  1001216252 10  9 rf  -     -     -         1990   30    0 
+HammerHd  1001216317  8  6 f   -     -     -         1960    0    0 
+HammerHd  1001216379  8  5 KQ  -     -     -         1960    0    0 
+HammerHd  1001274210  2  2 BQ  -     -     -         1960   10    0 
+HammerHd  1001277878  6  4 f   -     -     -         1950    0    0 
+HammerHd  1001277900  5  2 Bk  b     b     bf        1950   60    0 
+HammerHd  1001277935  5  1 Br  bc    kc    bf        1890   80    0 
+HammerHd  1001277967  5  5 f   -     -     -         1810    0    0 
+HammerHd  1001278000  5  4 f   -     -     -         1810    0    0 
+HammerHd  1001278027  5  3 f   -     -     -         1810    0    0 
+HammerHd  1001278047  5  2 Bk  kc    k     k         1810   20    0 Tc 2h
+HammerHd  1001278108  5  1 Bf  -     -     -         1790    5    0 
+HammerHd  1001278133  5  5 f   -     -     -         1785    0    0 
+HammerHd  1001278170  5  4 f   -     -     -         1785    0    0 
+HammerHd  1001278269  5  3 f   -     -     -         1785    0    0 
+HammerHd  1001278310  7  3 f   -     -     -         1785    0    0 
+HammerHd  1001278341  7  2 Bk  k     k     r         1785   50   60 5d Jd
+HammerHd  1001278402  8  1 Bf  -     -     -         1795    5    0 
+HammerHd  1001278468  8  8 f   -     -     -         1790    0    0 
+HammerHd  1001278512  8  7 cc  f     -     -         1790   20    0 
+HammerHd  1001278600  7  5 f   -     -     -         1770    0    0 
+HammerHd  1001278659  6  4 c   f     -     -         1770   10    0 
+HammerHd  1001278754  6  3 f   -     -     -         1760    0    0 
+HammerHd  1001278817  6  2 Bc  kc    kf    -         1760   30    0 
+HammerHd  1001278918  6  1 Bc  kc    kcc   kf        1730   60    0 
+HammerHd  1001278984  5  5 f   -     -     -         1670    0    0 
+HammerHd  1001279033  5  4 f   -     -     -         1670    0    0 
+HammerHd  1001279097  5  3 f   -     -     -         1670    0    0 
+HammerHd  1001279121  4  2 Bf  -     -     -         1670   10    0 
+HammerHd  1001279128  4  1 Br  b     b     -         1660   50   90 
+HammerHd  1001279156  4  4 c   k     k     b         1700   30   60 
+HammerHd  1001279218  4  3 r   k     bc    brc       1730  140    0 As Jc
+HammerHd  1001279252  4  2 Bk  k     k     k         1590   10   40 Th 3d
+HammerHd  1001279303  4  1 Bc  kc    b     b         1620   60  140 Kd Th
+HammerHd  1001279367  4  4 f   -     -     -         1700    0    0 
+HammerHd  1001279426  4  3 f   -     -     -         1700    0    0 
+HammerHd  1001279474  4  2 Bc  f     -     -         1700   20    0 
+HammerHd  1001279495  4  1 Bf  -     -     -         1680    5    0 
+HammerHd  1001279527  4  4 f   -     -     -         1675    0    0 
+HammerHd  1001279577  4  3 f   -     -     -         1675    0    0 
+HammerHd  1001279613  4  2 Bk  b     b     b         1675   60  120 
+HammerHd  1001279653  4  1 Bf  -     -     -         1735    5    0 
+HammerHd  1001279668  4  4 r   brc   r     rr        1730  180    0 Ah 3c
+HammerHd  1001279717  5  4 c   f     -     -         1550   10    0 
+HammerHd  1001279752  5  3 f   -     -     -         1540    0    0 
+HammerHd  1001279786  5  2 Bf  -     -     -         1540   10    0 
+HammerHd  1001279807  5  1 Bc  b     b     b         1530   60  170 9s 9c
+HammerHd  1001279873  5  5 f   -     -     -         1640    0    0 
+HammerHd  1001279898  5  4 f   -     -     -         1640    0    0 
+HammerHd  1001279959  5  3 f   -     -     -         1640    0    0 
+HammerHd  1001279970  4  1 Br  kc    kr    b         1640   90  180 Jc Ks
+HammerHd  1001280007  4  1 Bc  k     b     b         1730   50   90 
+HammerHd  1001280048  4  4 f   -     -     -         1770    0    0 
+HammerHd  1001280101  4  3 f   -     -     -         1770    0    0 
+HammerHd  1001280140  4  2 Bk  kc    kc    k         1770   40   95 Jc Qs
+HammerHd  1001280180  4  1 Bc  b     -     -         1825   20   50 
+HammerHd  1001280203  4  4 r   r     r     brf       1855  140    0 
+HammerHd  1001280243  4  3 f   -     -     -         1715    0    0 
+HammerHd  1001280272  4  2 B   -     -     -         1715   10   15 
+HammerHd  1001280282  4  1 Bf  -     -     -         1720    5    0 
+HammerHd  1001280327  4  4 c   k     k     b         1715   30   45 
+HammerHd  1001280374  4  3 f   -     -     -         1730    0    0 
+HammerHd  1001280397  4  2 Bk  f     -     -         1730   10    0 
+HammerHd  1001280421  4  1 Bc  kf    -     -         1720   10    0 
+HammerHd  1001280511  4  4 f   -     -     -         1710    0    0 
+HammerHd  1001280533  4  3 r   rr    brc   krr       1710  220  610 5h 9c
+HammerHd  1001280605  5  3 f   -     Q     -         2100    0    0 
+HammerHd  1001305509  5  4 f   -     -     -         2100    0    0 
+HammerHd  1001305612  5  3 cc  bc    kc    kc        2100   80   88 4d Kh
+HammerHd  1001305643  5  2 Bc  kc    kc    kr        2108   90  185 Kh 9s
+HammerHd  1001305685  6  1 Bf  -     -     -         2203    5    0 
+HammerHd  1001305728  6  6 f   -     -     -         2198    0    0 
+HammerHd  1001305786  6  6 f   -     -     Q         2198    0    0 
+HammerHd  1001380523  5  2 BKQ -     -     -         2198   10    0 
+HammerHd  1001380795  3  3 f   -     -     -         2188    0    0 
+HammerHd  1001380824  3  2 Bf  -     -     -         2188   10    0 
+HammerHd  1001380840  3  1 Bc  k     b     -         2178   30   40 
+HammerHd  1001380858  4  4 f   -     -     -         2188    0    0 
+HammerHd  1001380880  6  5 f   -     -     -         2188    0    0 
+HammerHd  1001380916  7  5 c   f     -     -         2188   20    0 
+HammerHd  1001380978  8  5 f   -     -     -         2168    0    0 
+HammerHd  1001381045  8  5 f   -     -     -         2168    0    0 
+HammerHd  1001381110  8  4 f   -     -     -         2168    0    0 
+HammerHd  1001381230  8  3 f   -     -     -         2168    0    0 
+HammerHd  1001381308  8  2 Bcc kc    kc    k         2168   80    0 5c 6c
+HammerHd  1001381409  8  1 Bf  -     -     -         2088    5    0 
+HammerHd  1001381532  8  8 f   -     -     -         2083    0    0 
+HammerHd  1001381584  8  7 KQ  -     -     -         2083    0    0 
+HammerHd  1001382887  6  3 f   -     -     -         2083    0    0 
+HammerHd  1001382920  5  2 Bc  f     -     -         2083   20    0 
+HammerHd  1001382953  5  1 Bf  -     -     -         2063    5    0 
+HammerHd  1001382980  5  5 f   -     -     -         2058    0    0 
+HammerHd  1001383045  5  4 c   b     b     br        2058  100    0 5c Ac
+HammerHd  1001383082  6  4 r   b     b     -         1958   50  150 
+HammerHd  1001383127  6  3 cc  c     f     -         2058   30    0 
+HammerHd  1001383175  6  2 Bf  -     -     -         2028   10    0 
+HammerHd  1001383212  6  1 Bc  k     kf    -         2018   10    0 
+HammerHd  1001383248  6  6 f   -     -     -         2008    0    0 
+HammerHd  1001383279  6  5 cc  rc    rr    rr        2008  220    0 Qd Ts
+HammerHd  1001383363  6  4 f   -     -     -         1788    0    0 
+HammerHd  1001383416  5  3 f   -     -     -         1788    0    0 
+HammerHd  1001383449  5  2 Bk  b     b     b         1788   60  140 
+HammerHd  1001383485  5  1 Bf  -     -     -         1868    5    0 
+HammerHd  1001383507  5  5 f   -     -     -         1863    0    0 
+HammerHd  1001383554  5  4 c   c     c     c         1863   60    0 Ah 2h
+HammerHd  1001383585  6  3 c   f     -     -         1803   10    0 
+HammerHd  1001383628  6  2 Bk  kf    -     -         1793   10    0 
+HammerHd  1001383674  6  1 Br  bc    k     b         1783   60  150 
+HammerHd  1001383720  6  6 f   -     -     -         1873    0    0 
+HammerHd  1001383748  7  6 cc  b     k     k         1873   30  115 Ts Kh
+HammerHd  1001383787  8  6 f   -     -     -         1958    0    0 
+HammerHd  1001383902  9  7 f   -     -     -         1958    0    0 
+HammerHd  1001383974  9  6 f   -     -     -         1958    0    0 
+HammerHd  1001384039  9  5 c   kf    -     -         1958   10    0 
+HammerHd  1001384121  9  3 c   kf    -     -         1948   10    0 
+HammerHd  1001384212  9  2 Bk  b     b     b         1938   60  250 As 8d
+HammerHd  1001384288  9  1 Bf  -     -     -         2128    5    0 
+HammerHd  1001384325  9  9 c   c     f     -         2123   30    0 
+HammerHd  1001384409  9  8 f   -     -     -         2093    0    0 
+HammerHd  1001384518  9  7 c   rc    r     b         2093  120  460 Kh Js
+HammerHd  1001384608  9  6 fQ  -     -     -         2433    0    0 

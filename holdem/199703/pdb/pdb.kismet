@@ -1,0 +1,907 @@
+kismet    858487612  8  5 f   -     -     -         1000    0    0 
+kismet    858487661  8  4 rr  b     b     -         1000   70  135 
+kismet    858487709  8  4 c   f     -     -         1065   20    0 
+kismet    858487750  8  3 f   -     -     -         1045    0    0 
+kismet    858487844  8  2 Bc  kc    b     b         1045   70  175 As 3d
+kismet    858487915 11  1 Bc  kc    kc    k         1150   50    0 8c 6d
+kismet    858487998 12 12 rc  Q     -     -         1100   40    0 
+kismet    858488809 12  9 f   -     -     -         1060    0    0 
+kismet    858488977 11  8 fQ  -     -     -         1060    0    0 
+kismet    858638965  6  3 cc  kc    kf    -         1060   30    0 
+kismet    858639051  6  1 Bc  kf    -     -         1030   20    0 
+kismet    858639159  4  1 Brc kc    kf    -         1010   40    0 
+kismet    858639186  3  3 cc  c     c     k          970   50    0 7c 6d
+kismet    858639206  4  2 Bk  b     b     -          920   40   70 
+kismet    858639240  4  1 Brc b     -     -          950   40  100 
+kismet    858639257  4  4 c   k     k     k         1010   10    0 2d Td
+kismet    858639286  4  3 r   b     b     -         1000   50   85 
+kismet    858639311  4  2 Bk  b     b     -         1035   40   70 
+kismet    858639338  4  1 Bcr b     kc    k         1065   60    0 Ac 8s
+kismet    858639365  3  3 c   f     -     -         1005   10    0 
+kismet    858639388  4  3 f   -     -     -          995    0    0 
+kismet    858639397  4  2 Br  kc    kc    kf         995   70    0 
+kismet    858639431  4  1 Br  br    -     -          925   50  100 
+kismet    858639484  4  4 c   c     r     r          975  100  135 7c 6h
+kismet    858639535  5  3 r   b     k     r         1010   70  150 Qc Ad
+kismet    858639574  5  2 Bc  b     -     -         1090   30   75 
+kismet    858639593  5  1 Bc  f     -     -         1135   10    0 
+kismet    858639664  5  4 c   k     k     f         1125   10    0 
+kismet    858639698  5  4 c   b     rf    -         1115   60    0 
+kismet    858639721  5  3 r   k     b     -         1055   40   75 
+kismet    858639743  5  2 Bk  k     kc    b         1090   50  110 3d Qd
+kismet    858639800  4  1 Brr k     kc    k         1150   60  160 Qs Qc
+kismet    858639865  5  5 c   c     f     -         1250   20    0 
+kismet    858639938  4  4 cc  f     -     -         1230   20    0 
+kismet    858640013  4  3 r   brr   b     k         1210   90    0 As Qs
+kismet    858640085  5  2 Br  k     kf    -         1120   20    0 
+kismet    858640120  5  1 Bc  kc    b     -         1100   60  190 
+kismet    858640182  5  5 f   -     -     -         1230    0    0 
+kismet    858640194  5  4 c   k     k     k         1230   10    0 Td 6d
+kismet    858640261  6  3 f   -     -     -         1220    0    0 
+kismet    858640283  7  2 Bk  bc    k     k         1220   30    0 7s Ad
+kismet    858640310  7  1 Bc  kc    b     kc        1190   70    0 6c 6d
+kismet    858640354  7  7 rr  r     k     b         1120   80  230 
+kismet    858640407  7  6 cc  f     -     -         1270   20    0 
+kismet    858640442  7  5 c   br    brrc  bc        1250  200    0 Qs 6s
+kismet    858640534  7  4 cc  c     rr    b         1050  140  365 Kc 5d
+kismet    858640638  7  3 rc  f     -     -         1275   40    0 
+kismet    858640736  8  2 Bk  b     -     -         1235   20   35 
+kismet    858640771  8  1 Bc  k     k     b         1250   30   50 
+kismet    858640867  8  8 c   rc    c     f         1270   70    0 
+kismet    858640968  8  8 c   f     -     -         1200   10    0 
+kismet    858641024  9  7 cc  b     k     k         1190   30   71 3h 3s
+kismet    858641065  8  5 cc  kc    kc    kf        1231   50    0 
+kismet    858641130  9  5 c   kc    kf    -         1181   20    0 
+kismet    858641213  8  3 f   -     -     -         1161    0    0 
+kismet    858641269  8  2 BKQ -     -     -         1161   10    0 
+kismet    858652829 11  3 f   -     -     -         1151    0    0 
+kismet    858653007  9  2 Bc  kc    kc    kr        1151   90  265 2c 7s
+kismet    858653139 10  1 Bc  kf    -     -         1326   20    0 
+kismet    858653248  9  9 r   f     -     -         1306   20    0 
+kismet    858653343  7  6 c   f     -     -         1286   10    0 
+kismet    858653416  7  5 cc  c     c     c         1276   70  210 Ah 4h
+kismet    858653495  7  4 cc  kc    kc    k         1416   50  175 7s Th
+kismet    858653601  6  3 cc  bc    kr    b         1541  100  365 4c 6s
+kismet    858653740  7  3 cc  cc    kc    kc        1806   80    0 Qc Ts
+kismet    858653808  7  2 Br  kc    kf    -         1726   30    0 
+kismet    858653897  6  1 Br  b     b     kc        1696   70    0 Jh As
+kismet    858653955  6  6 c   k     b     k         1626   30   90 3h Ks
+kismet    858654033  5  4 c   b     b     c         1686   60    0 Kc Th
+kismet    858654094  5  3 cc  k     b     b         1626   60  200 Tc 7s
+kismet    858654196  5  2 Bk  k     kf    -         1766   10    0 
+kismet    858654258  5  1 Bc  k     k     k         1756   10    0 5s Td
+kismet    858654303  4  4 c   f     -     -         1746   10    0 
+kismet    858654347  4  3 f   -     -     -         1736    0    0 
+kismet    858654380  5  3 f   -     -     -         1736    0    0 
+kismet    858654436  5  2 Bk  k     kf    -         1736   10    0 
+kismet    858654473  4  1 Bc  b     b     b         1726   60  110 
+kismet    858654507  4  4 c   c     c     f         1776   40    0 
+kismet    858654540  4  3 f   -     -     -         1736    0    0 
+kismet    858654569  6  4 r   -     -     -         1736   20   35 
+kismet    858654581  7  3 rc  kc    k     k         1751   40  135 7d 7s
+kismet    858654629  5  2 Bk  k     k     k         1846   10   25 Js 6s
+kismet    858654678  6  1 Bc  k     k     kf        1861   10    0 
+kismet    858654720  6  6 f   -     -     -         1851    0    0 
+kismet    858654764  5  4 c   c     c     c         1851   90    0 Ah 3h
+kismet    858654806  5  3 c   b     b     b         1761   60  150 7d Qc
+kismet    858654840  6  3 f   -     -     -         1851    0    0 
+kismet    858654879  6  2 Bc  kf    -     -         1851   30    0 
+kismet    858654937  6  1 BKQ -     -     -         1821    5    0 
+kismet    858663873  5  4 c   cc    rc    c         1816  120    0 6h 3h
+kismet    858663914  5  3 f   -     -     -         1696    0    0 
+kismet    858663926  5  2 Bcc bc    kc    kr        1696  120  325 Js Ks
+kismet    858663971  5  1 Bc  k     kf    -         1901   20    0 
+kismet    858664009  5  5 c   c     c     f         1881   40    0 
+kismet    858664050  5  4 f   -     -     -         1841    0    0 
+kismet    858664103  6  4 c   k     r     b         1841   70  140 
+kismet    858664130  6  3 f   -     -     -         1911    0    0 
+kismet    858667384  4  2 Brc rr    br    b         1851  160  460 Js Jd
+kismet    858667483  3  1 Bc  b     -     -         2151   20   40 
+kismet    858667527  4  4 c   k     f     -         2171   20    0 
+kismet    858667593  5  3 c   c     cc    f         2151   60    0 
+kismet    858667645  5  2 Bk  kf    -     -         2091   10    0 
+kismet    858667685  4  1 Bc  kc    k     kc        2081   40   90 6d Ac
+kismet    858667721  4  4 f   -     -     -         2131    0    0 
+kismet    858667745  4  3 r   kc    k     b         2131   50   68 Kc Qc
+kismet    858667782  4  2 Bk  k     f     -         2149   10    0 
+kismet    858667808  4  1 Bc  kc    bc    kf        2139   70    0 
+kismet    858667859  4  4 c   f     -     -         2069   10    0 
+kismet    858667892  4  3 cc  c     f     -         2059   40    0 
+kismet    858667971  5  2 Br  b     brc   kc        2019  130  270 Qd As
+kismet    858668024  5  1 Bcc br    b     b         2159   90  180 8c 7h
+kismet    858668065  5  5 f   -     -     -         2249    0    0 
+kismet    858668120  5  4 r   k     c     f         2249   40    0 
+kismet    858668147  5  3 f   -     -     -         2209    0    0 
+kismet    858668163  5  2 Bk  kc    k     k         2209   20   45 Kh 3h
+kismet    858668212  5  1 Bc  b     -     -         2234   20   40 
+kismet    858668299  3  3 c   -     -     -         2254   10   20 
+kismet    858668322  2  2 f   -     -     -         2264    0    0 
+kismet    858668328  2  2 Bc  r     b     -         2264   60  100 
+kismet    858668345  2  1 Br  kc    kc    kc        2304   70    0 Ad Jh
+kismet    858668372  2  2 Br  b     -     -         2234   30   50 
+kismet    858668388  3  1 Bc  k     bc    b         2254   80  160 
+kismet    858668418  3  3 f   -     -     -         2334    0    0 
+kismet    858668435  3  2 Bc  kf    -     -         2334   20    0 
+kismet    858668448  3  1 Bc  kc    krr   b         2314  130  280 3d 8d
+kismet    858668480  2  2 Bk  k     -     -         2464   10   20 
+kismet    858668501  2  1 Bc  k     b     k         2474   30   60 Ad 3h
+kismet    858668524  2  2 Bc  f     -     -         2504   20    0 
+kismet    858668532  2  1 Bcc b     b     kc        2484   70    0 9s Qd
+kismet    858668567  2  2 B   -     -     -         2414   10   15 
+kismet    858668573  2  1 B   -     -     -         2419    5   15 
+kismet    858668709  2  2 BKQ -     -     -         2429   10    0 
+kismet    858729994  8  7 f   -     -     -         2419    0    0 
+kismet    858730077  8  6 c   r     b     -         2419   60  190 
+kismet    858730140 10  5 c   c     c     f         2549   40    0 
+kismet    858730214 11  4 f   -     -     -         2509    0    0 
+kismet    858730253 11  3 f   -     -     -         2509    0    0 
+kismet    858730319 11  2 Bcc kc    kc    kf        2509   80    0 
+kismet    858730423  9  1 Bc  k     kf    -         2429   10    0 
+kismet    858730502  9  9 r   cf    -     -         2419   40    0 
+kismet    858730564  8  8 cc  cc    f     -         2379   40    0 
+kismet    858730616  8  7 c   k     r     b         2339   70  170 7d As
+kismet    858730669  8  6 c   bcc   rc    c         2439  150    0 6s 5d
+kismet    858730744  8  5 c   k     kf    -         2289   10    0 
+kismet    858730794  6  3 r   b     b     br        2279  110    0 Jc Qd
+kismet    858730843  6  2 Bc  kc    bc    kc        2169   90  185 Ts 4d
+kismet    858730879  6  1 Bc  kf    -     -         2264   10    0 
+kismet    858730911  6  6 c   c     f     -         2254   20    0 
+kismet    858730948  6  5 r   b     k     rrrrc     2234  210    0 Ah Qh
+kismet    858731006  5  3 c   k     r     b         2024   70  155 9s 8d
+kismet    858731113  5  2 Bk  kf    -     -         2109   10    0 
+kismet    858731153  5  1 Bcc kc    kc    f         2099   60    0 
+kismet    858731237  4  4 c   k     k     c         2039   30   70 2d Kd
+kismet    858731278  4  3 c   f     -     -         2079   10    0 
+kismet    858731333  4  2 Bk  kc    b     b         2069   60    0 5d Jh
+kismet    858731372  5  1 Bc  k     f     -         2009   10    0 
+kismet    858731402  5  5 c   r     k     k         1999   30    0 5c 6c
+kismet    858731439  5  4 cc  f     -     -         1969   20    0 
+kismet    858731494  5  3 c   r     k     c         1949   60    0 5d 4s
+kismet    858731536  5  2 Bc  f     -     -         1889   20    0 
+kismet    858731579  5  1 Bc  kc    kf    -         1869   20    0 
+kismet    858731606  5  5 c   b     b     b         1849   60  130 Td 9h
+kismet    858731641  6  5 f   -     -     -         1919    0    0 
+kismet    858731679  6  4 c   rc    c     f         1919   70    0 
+kismet    858731740  6  3 c   k     k     k         1849   10   30 Qd Jh
+kismet    858731779  5  2 Bk  c     kf    -         1869   20    0 
+kismet    858731816  6  1 Bc  k     k     kf        1849   10    0 
+kismet    858731867  7  7 c   c     c     k         1839   50  180 9h Qd
+kismet    858731926  7  6 c   c     f     -         1969   30    0 
+kismet    858731960  7  5 c   r     k     c         1939   60    0 Jh 2h
+kismet    858732034  8  5 r   rr    rr    b         1879  160  445 Ac As
+kismet    858732109 10  6 cc  r     k     k         2164   50    0 Qc 2c
+kismet    858732196  9  4 cc  k     b     -         2114   40  120 
+kismet    858732259  9  3 f   -     -     -         2194    0    0 
+kismet    858732321 10  2 Bc  k     k     br        2194   80  165 
+kismet    858732396 10  1 Br  b     b     bc        2279  100    0 Kh Ks
+kismet    858732454 12 11 c   c     kc    f         2179   50    0 
+kismet    858732504 12 10 f   -     -     -         2129    0    0 
+kismet    858732575 12  6 KQ  -     -     -         2129    0    0 
+kismet    858752189 10  7 c   f     -     -         2129   10    0 
+kismet    858752249 10  6 f   -     -     -         2119    0    0 
+kismet    858752323 10  6 f   -     -     -         2119    0    0 
+kismet    858752389  9  4 cc  f     -     -         2119   20    0 
+kismet    858752464  9  3 f   -     -     -         2099    0    0 
+kismet    858752516  9  2 Bf  -     -     -         2099   10    0 
+kismet    858752602  8  1 Bcc bc    kc    kc        2089   80    0 Qh 3c
+kismet    858752726  8  8 c   c     k     k         2009   30    0 8h Tc
+kismet    858752855  8  7 r   r     r     c         1979  100  295 9s Ks
+kismet    858752958  8  6 cc  r     r     f         2174   80    0 
+kismet    858753059  8  5 c   f     -     -         2094   10    0 
+kismet    858753183  8  4 f   -     -     -         2084    0    0 
+kismet    858753257  8  3 f   -     -     -         2084    0    0 
+kismet    858753301  8  2 Bf  -     -     -         2084   10    0 
+kismet    858753347  8  1 Bc  k     kf    -         2074   10    0 
+kismet    858753465  8  8 c   f     -     -         2064   20    0 
+kismet    858753545  8  6 r   c     c     c         2044   70  185 Th Ah
+kismet    858753600  8  5 c   cc    kf    -         2159   30    0 
+kismet    858753674  9  4 c   k     r     b         2129   70  240 8d Ah
+kismet    858753762  8  3 c   kf    -     -         2299   10    0 
+kismet    858753845 10  2 Bc  kf    -     -         2289   20    0 
+kismet    858753916  9  1 Br  k     kf    -         2269   20    0 
+kismet    858754039  8  8 c   c     c     c         2249   60  170 Qs 5s
+kismet    858754091  7  6 c   k     k     f         2359   10    0 
+kismet    858754150  7  5 c   f     -     -         2349   10    0 
+kismet    858754209  7  4 f   -     -     -         2339    0    0 
+kismet    858754298  6  2 cc  kf    -     -         2339   20    0 
+kismet    858754374  4  1 Br  br    kf    -         2319   70    0 
+kismet    858754433  3  1 Bc  kc    k     kf        2249   30    0 
+kismet    858754502  3  3 c   r     b     f         2219   50    0 
+kismet    858754535  3  2 Bk  k     b     -         2169   30   40 
+kismet    858754556  3  1 Bc  kf    -     -         2179   10    0 
+kismet    858754585  3  3 c   b     b     k         2169   40    0 Ad 3d
+kismet    858754615  3  2 Bk  kf    -     -         2129   10    0 
+kismet    858754636  3  1 Bf  -     -     -         2119    5    0 
+kismet    858754652  3  3 f   -     -     -         2114    0    0 
+kismet    858754670  3  2 Bk  c     kf    -         2114   20    0 
+kismet    858754698  3  1 Bc  b     k     kc        2094   50  110 5d Ts
+kismet    858754726  3  3 cc  r     b     b         2154   80  180 9s Qs
+kismet    858754760  3  3 r   b     -     -         2254   30   55 
+kismet    858754775  3  2 Bc  kc    k     kf        2279   30    0 
+kismet    858754798  3  1 Bcc k     kc    kc        2249   60    0 4s Ad
+kismet    858754822  3  3 r   b     b     k         2189   50    0 Jh Qs
+kismet    858754849  3  2 Bc  b     k     f         2139   30    0 
+kismet    858754872  3  1 Bc  k     kc    kc        2109   50    0 8c As
+kismet    858754898  3  3 cc  c     c     f         2059   50    0 
+kismet    858754922  3  2 Br  b     -     -         2009   30   50 
+kismet    858754934  3  1 Bc  k     k     kf        2029   10    0 
+kismet    858754956  3  3 c   rr    k     f         2019   50    0 
+kismet    858754980  3  2 Bc  kc    kf    -         1969   30    0 
+kismet    858754999  3  1 Bc  kf    -     -         1939   10    0 
+kismet    858755023  3  3 cc  c     c     f         1929   50    0 
+kismet    858755047  3  2 Bc  k     kf    -         1879   20    0 
+kismet    858755063  3  1 Bc  kc    kc    kf        1859   60    0 
+kismet    858755091  3  3 cc  r     -     -         1799   40   80 
+kismet    858755106  3  2 Bk  c     f     -         1839   20    0 
+kismet    858755121  3  1 Bcc kc    kc    kc        1819   70    0 8h Qc
+kismet    858755151  3  3 c   f     -     -         1749   10    0 
+kismet    858755170  3  2 Bc  kc    k     kc        1739   50    0 8c Td
+kismet    858755193  3  1 Bc  k     k     kf        1689   10    0 
+kismet    858755213  3  3 c   b     b     k         1679   40    0 8d Qc
+kismet    858755233  3  2 Bc  kc    k     k         1639   30   65 Qs 2d
+kismet    858755254  3  1 Bc  f     -     -         1674   20    0 
+kismet    858755268  3  3 f   -     -     -         1654    0    0 
+kismet    858755281  3  2 Bc  kf    -     -         1654   20    0 
+kismet    858755304  3  1 Bc  kc    kf    -         1634   20    0 
+kismet    858755323  3  3 c   c     f     -         1614   20    0 
+kismet    858755337  3  2 Bk  k     k     f         1594   10    0 
+kismet    858755355  3  1 Br  b     b     b         1584   70    0 Ac Jd
+kismet    858755376  3  3 c   k     f     -         1514   10    0 
+kismet    858755396  3  2 Bc  c     f     -         1504   40    0 
+kismet    858755417  3  1 Bf  -     -     -         1464    5    0 
+kismet    858755448  3  3 cc  f     -     -         1459   20    0 
+kismet    858755464  3  2 Bc  kc    b     br        1439  110  270 Tc Qs
+kismet    858755493  3  1 Bc  b     b     -         1599   40   70 
+kismet    858755510  3  3 cc  f     -     -         1629   20    0 
+kismet    858755527  3  2 Bk  k     k     k         1609   10   20 Kc 7s
+kismet    858755546  3  1 Bcc br    b     kf        1619   70    0 
+kismet    858755577  3  3 c   b     -     -         1549   20   35 
+kismet    858755591  3  2 Bc  b     b     b         1564   70  160 2d 8d
+kismet    858755611  3  1 Br  k     kc    kf        1654   40    0 
+kismet    858755635  3  3 cc  f     -     -         1614   20    0 
+kismet    858755660  3  2 Bc  k     kf    -         1594   20    0 
+kismet    858755683  3  1 Bcc b     b     -         1574   50  100 
+kismet    858755699  3  3 cc  f     -     -         1624   20    0 
+kismet    858755710  3  2 Bc  kc    k     kf        1604   30    0 
+kismet    858755735  3  1 Bcc kc    kc    k         1574   50  150 Tc 8h
+kismet    858755761  3  3 f   -     -     -         1674    0    0 
+kismet    858755769  3  2 Bc  kf    -     -         1674   20    0 
+kismet    858755784  3  1 Br  bc    kc    k         1654   60  140 Js Ac
+kismet    858755810  3  3 c   f     -     -         1734   10    0 
+kismet    858755830  3  2 Bc  kf    -     -         1724   20    0 
+kismet    858755856  3  1 Bcc kc    k     kf        1704   30    0 
+kismet    858755884  3  3 c   r     k     c         1674   50    0 Js Tc
+kismet    858755904  3  2 Bc  kc    k     b         1624   50  105 6c Kh
+kismet    858755930  3  1 Bcc k     f     -         1679   20    0 
+kismet    858755952  4  3 f   -     -     -         1659    0    0 
+kismet    858755986  3  2 Br  b     bc    c         1659   90    0 Qc Qd
+kismet    858756008  4  1 Bc  k     k     k         1569   10    0 2d 8c
+kismet    858756032  4  4 cc  f     -     -         1559   20    0 
+kismet    858756051  4  3 c   k     f     -         1539   10    0 
+kismet    858756088  4  2 B   -     -     -         1529   10   15 
+kismet    858756099  4  1 Bc  b     k     kc        1534   50    0 6c 8d
+kismet    858756133  3  3 cr  cc    f     -         1484   70    0 
+kismet    858756182  3  2 B   -     -     -         1414   10   15 
+kismet    858756190  3  1 Bc  k     b     -         1419   30   50 
+kismet    858756208  3  3 f   -     -     -         1439    0    0 
+kismet    858756214  3  2 Bk  c     r     br        1439  120    0 9d Qc
+kismet    858756235  3  1 Bc  kc    kc    kc        1319   60    0 2c Qc
+kismet    858756264  3  3 c   k     f     -         1259   10    0 
+kismet    858756285  3  2 Bk  b     b     b         1249   60    0 9s Qc
+kismet    858756301  3  1 Bc  k     k     kf        1189   10    0 
+kismet    858756338  3  3 c   k     b     -         1179   30   45 
+kismet    858756354  3  2 Bk  r     b     k         1194   50   55 3c Ac
+kismet    858756377  3  1 Bc  k     k     k         1199   10    0 5c 8s
+kismet    858756398  3  3 c   k     k     f         1189   10    0 
+kismet    858756416  3  2 B   -     -     -         1179   10   15 
+kismet    858756420  3  1 Bc  kf    -     -         1184   10    0 
+kismet    858756463  3  3 f   -     -     -         1174    0    0 
+kismet    858756474  3  2 Bc  f     -     -         1174   20    0 
+kismet    858756483  3  1 Bf  -     -     -         1154    5    0 
+kismet    858756501  3  3 f   -     -     -         1149    0    0 
+kismet    858756507  3  2 B   -     -     -         1149   10   15 
+kismet    858756511  3  1 Bc  b     kf    -         1154   20    0 
+kismet    858756533  3  3 r   b     k     c         1134   50  105 Qh Ac
+kismet    858756558  3  2 Bk  k     f     -         1189   10    0 
+kismet    858756576  3  1 Bc  bc    kf    -         1179   40    0 
+kismet    858756611  3  3 c   f     -     -         1139   10    0 
+kismet    858756625  3  2 Bc  f     -     -         1129   20    0 
+kismet    858756631  3  1 Bc  b     b     -         1109   40   80 
+kismet    858756651  3  3 c   b     k     rc        1149   80    0 6d 6h
+kismet    858756676  3  2 Bk  b     -     -         1069   20   35 
+kismet    858756694  3  1 Brc kc    b     b         1084   80  220 Jc Ks
+kismet    858756725  3  3 c   k     k     k         1224   10    0 4s 7d
+kismet    858756745  3  2 Bk  k     c     k         1214   30   70 Ad 3h
+kismet    858756767  3  1 Bc  k     k     k         1254   10    0 Ts 2d
+kismet    858756795  3  3 cc  c     c     c         1244   70  145 7h As
+kismet    858756811  3  2 Bk  k     k     k         1319   10    0 9c 4h
+kismet    858756827  3  1 Bc  b     -     -         1309   20   30 
+kismet    858756843  3  3 c   c     c     f         1319   40    0 
+kismet    858756863  3  2 B   -     -     -         1279   10   15 
+kismet    858756867  3  1 Bc  b     -     -         1284   20   40 
+kismet    858756878  3  3 f   -     -     -         1304    0    0 
+kismet    858756882  3  2 Bk  c     c     r         1304   80  160 7s 4c
+kismet    858756908  3  1 Bc  b     -     -         1384   20   30 
+kismet    858756923  3  3 c   f     -     -         1394   10    0 
+kismet    858756932  3  2 Bk  k     f     -         1384   10    0 
+kismet    858756944  3  1 Bc  k     k     k         1374   10    0 3h 7h
+kismet    858756964  3  3 f   -     -     -         1364    0    0 
+kismet    858756970  3  2 Bk  b     -     -         1364   20   30 
+kismet    858756984  3  1 Br  -     -     -         1374   20   30 
+kismet    858756998  3  3 c   b     -     -         1384   20   35 
+kismet    858757007  3  2 Bk  r     k     b         1399   50  100 7h Ks
+kismet    858757024  3  1 Bc  bc    kc    kf        1449   50    0 
+kismet    858757058  3  3 f   -     -     -         1399    0    0 
+kismet    858757064  3  2 B   -     -     -         1399   10   15 
+kismet    858757068  3  1 Bc  b     b     b         1404   60  130 Ks Th
+kismet    858757086  3  3 c   b     -     -         1474   20   35 
+kismet    858757098  2  2 Br  b     b     rf        1489   90    0 
+kismet    858757123  2  1 Bc  kc    kc    kc        1399   60    0 Ah 2c
+kismet    858757142  2  2 Bk  k     k     k         1339   10    0 6s Js
+kismet    858757154  3  1 Bf  -     -     -         1329    5    0 
+kismet    858757171  3  3 cc  c     c     f         1324   50    0 
+kismet    858757204  3  2 Bc  f     -     -         1274   20    0 
+kismet    858757233  3  1 Bc  kc    kc    k         1254   40  100 7d Ks
+kismet    858757267  3  3 cc  k     bQ    -         1314   40   70 
+kismet    858758764  3  2 Bk  kc    kf    -         1344   20    0 
+kismet    858758801  3  1 Bcc b     kcc   f         1324  110    0 
+kismet    858758873  3  3 fQ  -     -     -         1214    0    0 
+kismet    858818304  8  4 cc  k     f     -         1214   20    0 
+kismet    858818368  6  2 f   -     -     -         1194    0    0 
+kismet    858818501  9  3 cc  k     kc    kf        1194   40    0 
+kismet    858818579  8  2 Bc  br    b     b         1154   90  235 3s Jh
+kismet    858818641  9  1 Bc  k     kc    k         1299   30    0 Ts 3s
+kismet    858818728  9  9 r   b     bc    c         1269   90    0 Td Ah
+kismet    858818838 10  9 c   f     -     -         1179   20    0 
+kismet    858818875 10  8 cc  f     -     -         1159   20    0 
+kismet    858818960 10  7 f   -     -     -         1139    0    0 
+kismet    858819065 10  6 rr  c     k     f         1139   50    0 
+kismet    858819177 11  5 c   f     -     -         1089   10    0 
+kismet    858819369 12  4 c   c     r     b         1079   80  265 9h Kc
+kismet    858819460 11  3 c   kc    kc    f         1264   40    0 
+kismet    858819565 12  2 Bc  b     kc    kf        1224   70    0 
+kismet    858819679 11  1 BQ  -     -     -         1154    5    0 
+kismet    858820099 11  9 cc  f     -     -         1149   40    0 
+kismet    858820174  9  7 c   Q     -     -         1109   20    0 
+kismet    858822700 12  6 cc  kcc   kf    -         1089   60    0 
+kismet    858822780 12  5 c   rr    c     c         1029   90    0 Qc Js
+kismet    858822882 12  4 c   kc    kf    -          939   20    0 
+kismet    858822990 12  3 c   f     -     -          919   10    0 
+kismet    858823110 10  1 Bc  kc    kc    f          909   50    0 
+kismet    858823168  8  1 BQ  -     -     -          859    5    0 
+kismet    858832068  9  2 BKQ -     -     -          854   10    0 
+kismet    858843996  2  2 B   -     -     -          844   10   15 
+kismet    858844007  2  1 Bf  -     -     -          849    5    0 
+kismet    858844011  2  2 B   -     -     -          844   10   15 
+kismet    858844017  2  1 Bc  k     k     k          849   10    0 7h 8h
+kismet    858844040  2  2 B   -     -     -          839   10   15 
+kismet    858844046  2  1 Bf  -     -     -          844    5    0 
+kismet    858844050  2  2 B   -     -     -          839   10   15 
+kismet    858844056  2  1 Br  b     k     kf         844   30    0 
+kismet    858844079  2  2 B   -     -     -          814   10   15 
+kismet    858844086  2  1 Bf  -     -     -          819    5    0 
+kismet    858844089  2  2 B   -     -     -          814   10   15 
+kismet    858844095  2  1 Bc  b     b     -          819   40   60 
+kismet    858844109  2  2 B   -     -     -          839   10   15 
+kismet    858844117  2  1 Br  b     b     b          844   70  140 Ac As
+kismet    858844197  2  2 B   -     -     -          914   10   15 
+kismet    858844203  2  1 Br  k     b     -          919   40   60 
+kismet    858844220  2  2 B   -     -     -          939   10   15 
+kismet    858844308  2  2 BKQ -     -     -          944   10    0 
+kismet    858845103  4  4 r   -     -     -          774   20   35 
+kismet    858845139  4  3 r   b     -     -          789   30   60 
+kismet    858845149  4  2 Br  b     b     b          819   70  165 7c Ac
+kismet    858845165  4  1 Bc  k     k     k          914   10    0 4c Td
+kismet    858845181  4  4 r   b     b     b          904   80  195 As Ts
+kismet    858845208  4  3 c   kc    kc    kf        1019   40    0 
+kismet    858845232  4  2 Bk  k     b     -          979   30   45 
+kismet    858845248  4  1 Bc  kf    -     -          994   10    0 
+kismet    858845268  4  4 f   -     -     -          984    0    0 
+kismet    858845296  4  3 c   k     k     k          984   10    0 5c 9c
+kismet    858845319  4  2 Bc  bc    b     b          974   80  180 4c Kh
+kismet    858845343  4  1 Bc  b     k     k         1074   20    0 7d 8h
+kismet    858845368  4  4 cc  c     c     f         1054   50    0 
+kismet    858845388  4  3 f   -     -     -         1004    0    0 
+kismet    858845393  4  2 Bk  kc    krc   kc        1004  100  210 4h 6d
+kismet    858845421  4  1 Bc  b     -     -         1114   20   30 
+kismet    858845437  4  4 rc  c     rc    c         1124  130  460 Kd Jd
+kismet    858845472  5  4 ccc bc    kc    br        1454  140  310 
+kismet    858845519  5  3 r   b     -     -         1624   30   65 
+kismet    858845529  5  2 Bc  kr    k     k         1659   40   85 2d Td
+kismet    858845592  3  1 Bc  k     k     k         1704   10   10 Jh 4d
+kismet    858845613  3  3 r   b     b     b         1704   70    0 Td Kd
+kismet    858845637  3  2 Brrrrr bc    kc    kc        1634  170    0 Qc Kd
+kismet    858845675  3  1 Bc  b     -     -         1464   20   30 
+kismet    858845687  3  3 r   b     b     -         1474   50  100 
+kismet    858845705  3  2 Bk  k     k     f         1524   10    0 
+kismet    858845724  3  1 Bc  k     k     k         1514   10    0 5c 7s
+kismet    858845737  3  3 c   k     k     k         1504   10    0 Kc 7s
+kismet    858845753  3  2 Bk  c     k     k         1494   20   40 5d Kc
+kismet    858845774  3  1 Br  b     b     k         1514   50    0 Ad Ks
+kismet    858845789  3  3 cc  rc    rrr   c         1464  190    0 6s 8d
+kismet    858845815  3  2 Bk  c     k     f         1274   20    0 
+kismet    858845837  3  1 Bc  k     k     k         1254   10    0 Jd 7d
+kismet    858845867  3  3 c   k     f     -         1244   10    0 
+kismet    858845882  3  2 Bk  b     -     -         1234   20   30 
+kismet    858845894  3  1 Bcc kc    kc    kf        1244   50    0 
+kismet    858845914  4  4 r   k     c     r         1194   80  220 Kh Ts
+kismet    858845962  4  3 cc  r     b     -         1334   60  130 
+kismet    858845989  4  2 Bc  b     b     kc        1404   70    0 2d Ac
+kismet    858846016  4  1 Bf  -     -     -         1334    5    0 
+kismet    858846055  4  4 cc  c     r     k         1329   80  195 Ac 8s
+kismet    858846095  5  4 c   k     k     k         1444   10    0 4c 4s
+kismet    858846154  3  2 f   -     -     -         1434    0    0 
+kismet    858846192  3  2 Bc  brc   brr   br        1434  220    0 Qh 9h
+kismet    858846237  3  1 Bc  kf    -     -         1214   20    0 
+kismet    858846271  3  3 r   k     c     c         1194   60    0 Jc Js
+kismet    858846310  3  2 Bc  kf    -     -         1134   20    0 
+kismet    858846335  3  1 Brc kcc   kc    k         1114   90  270 Qh Ks
+kismet    858846382  3  3 f   -     -     -         1294    0    0 
+kismet    858846437  3  2 Bc  b     k     k         1294   40  110 Td 7h
+kismet    858846466  3  1 Bc  br    b     -         1364   70  150 
+kismet    858846509  4  3 f   -     -     -         1444    0    0 
+kismet    858846520  4  2 Br  k     b     -         1444   40   80 
+kismet    858846568  5  1 Br  b     -     -         1484   30   50 
+kismet    858846587  5  5 c   k     bc    r         1504   90  245 Ac 3s
+kismet    858846639  5  4 rr  k     k     f         1659   40    0 
+kismet    858846686  5  3 f   -     -     -         1619    0    0 
+kismet    858846765  5  2 Bcc kcc   kc    kf        1619  100    0 
+kismet    858846837  3  1 Bc  -     -     -         1519   10   20 
+kismet    858846859  2  2 cc  k     k     c         1529   40    0 Qs Th
+kismet    858846883  2  2 Bc  r     k     k         1489   40    0 Js 6h
+kismet    858846910  2  1 Bc  k     k     k         1449   10   20 7h Js
+kismet    858846928  2  2 B   -     -     -         1459   10   15 
+kismet    858846933  2  1 Bc  b     -     -         1464   20   30 
+kismet    858846941  2  2 Bk  b     -     -         1474   20   30 
+kismet    858846954  2  1 Bc  kc    kc    kc        1484   60  120 9s Js
+kismet    858846973  2  2 Bc  c     f     -         1544   30    0 
+kismet    858846998  2  1 Bc  k     k     k         1514   10   20 As 2d
+kismet    858847011  2  2 B   -     -     -         1524   10   15 
+kismet    858847015  2  1 Bc  b     -     -         1529   20   30 
+kismet    858847023  2  2 Bc  f     -     -         1539   20    0 
+kismet    858847031  2  1 Bf  -     -     -         1519    5    0 
+kismet    858847034  2  2 B   -     -     -         1514   10   15 
+kismet    858847039  2  1 Bf  -     -     -         1519    5    0 
+kismet    858847042  2  2 Bk  k     k     k         1514   10   20 9s 5s
+kismet    858847060  2  1 Bc  b     -     -         1524   20   30 
+kismet    858847067  2  2 B   -     -     -         1534   10   15 
+kismet    858847071  2  1 Bc  b     b     -         1539   40   60 
+kismet    858847082  2  2 Bk  k     c     c         1559   50   50 Qc 3s
+kismet    858847098  2  1 Bc  b     bc    kc        1559   80    0 3d 9d
+kismet    858847121  2  2 B   -     -     -         1479   10   15 
+kismet    858847127  2  1 Bc  k     k     k         1484   10   20 3h 7h
+kismet    858847149  2  2 B   -     -     -         1494   10   15 
+kismet    858847154  2  1 Bc  br    k     kc        1499   60    0 4c 3d
+kismet    858847178  2  2 Bk  k     k     k         1439   10    0 Tc 6c
+kismet    858847210  2  1 Bc  k     b     -         1429   30   40 
+kismet    858847229  2  2 B   -     -     -         1439   10   15 
+kismet    858847231  2  1 Bf  -     -     -         1444    5    0 
+kismet    858847234  2  2 B   -     -     -         1439   10   15 
+kismet    858847238  2  1 Br  k     b     kf        1444   40    0 
+kismet    858847258  2  2 B   -     -     -         1404   10   15 
+kismet    858847263  2  1 Bf  -     -     -         1409    5    0 
+kismet    858847266  2  2 Br  b     -     -         1404   30   50 
+kismet    858847279  2  1 Bc  k     b     -         1424   30   40 
+kismet    858847290  2  2 B   -     -     -         1434   10   15 
+kismet    858847295  2  1 Bf  -     -     -         1439    5    0 
+kismet    858847297  2  2 B   -     -     -         1434   10   15 
+kismet    858847301  2  1 Bc  kf    -     -         1439   10    0 
+kismet    858847324  2  2 Bk  k     f     -         1429   10    0 
+kismet    858847346  2  1 Bc  b     -     -         1419   20   30 
+kismet    858847358  2  2 Bk  f     -     -         1429   10    0 
+kismet    858847366  2  1 Bc  b     -     -         1419   20   30 
+kismet    858847376  2  2 Bk  b     -     -         1429   20   30 
+kismet    858847392  2  1 Br  -     -     -         1439   20   30 
+kismet    858847396  2  2 Bk  k     f     -         1449   10    0 
+kismet    858847415  2  1 Bc  b     -     -         1439   20   30 
+kismet    858847427  2  2 Bk  f     -     -         1449   10    0 
+kismet    858847440  2  1 Bc  b     kf    -         1439   20    0 
+kismet    858847460  2  2 Bk  k     k     k         1419   10    0 5d 8s
+kismet    858847475  2  1 Bc  k     k     kf        1409   10    0 
+kismet    858847494  2  2 Bk  c     r     b         1399   80  160 7d Ks
+kismet    858847516  2  1 Bc  b     -     -         1479   20   30 
+kismet    858847527  2  2 B   -     -     -         1489   10   15 
+kismet    858847531  2  1 Bc  k     k     k         1494   10   20 Td 4d
+kismet    858847546  2  2 Bk  b     f     -         1504   20    0 
+kismet    858847563  2  1 Bc  k     kf    -         1484   10    0 
+kismet    858847579  2  2 Bk  f     -     -         1474   10    0 
+kismet    858847588  2  1 Bf  -     -     -         1464    5    0 
+kismet    858847591  2  2 Bk  f     -     -         1459   10    0 
+kismet    858847607  2  1 Br  kc    kc    kc        1449   70    0 Ks 5s
+kismet    858847628  2  2 Bf  -     -     -         1379   10    0 
+kismet    858847635  2  1 Bc  kc    k     br        1369   80  160 5d 5c
+kismet    858847658  2  2 Br  c     f     -         1449   30    0 
+kismet    858847674  2  1 Bc  k     k     k         1419   10   20 Ad 7c
+kismet    858847689  2  2 Bk  k     b     -         1429   30   40 
+kismet    858847708  2  1 Bc  k     k     b         1439   30   40 
+kismet    858847721  2  2 B   -     -     -         1449   10   15 
+kismet    858847725  2  1 Bc  k     kf    -         1454   10    0 
+kismet    858847738  2  2 Bk  b     b     b         1444   60    0 3c 4s
+kismet    858847756  2  1 Bf  -     -     -         1384    5    0 
+kismet    858847761  2  2 Bk  k     k     k         1379   10   20 6d 9c
+kismet    858847780  2  1 Bf  -     -     -         1389    5    0 
+kismet    858847783  2  2 Bk  b     b     f         1384   40    0 
+kismet    858847803  2  1 Bc  kc    kc    kc        1344   60    0 6c Qd
+kismet    858847825  2  2 Bk  b     k     k         1284   20   40 2d Qd
+kismet    858847850  2  1 Bc  k     k     k         1304   10   20 8c 2c
+kismet    858847864  2  2 Bk  f     -     -         1314   10    0 
+kismet    858847873  2  1 Bf  -     -     -         1304    5    0 
+kismet    858847876  2  2 B   -     -     -         1299   10   15 
+kismet    858847881  2  1 Bc  b     -     -         1304   20   30 
+kismet    858847890  2  2 Bk  c     k     c         1314   40    0 3d 9d
+kismet    858847913  2  1 Bc  br    b     b         1274   80  140 
+kismet    858847935  2  2 Bk  f     -     -         1334   10    0 
+kismet    858847947  2  1 Br  -     -     -         1324   20   30 
+kismet    858847952  2  2 B   -     -     -         1334   10   15 
+kismet    858847955  2  1 Bc  kc    kc    kf        1339   40    0 
+kismet    858847973  2  2 Bk  b     -     -         1299   20   30 
+kismet    858847987  2  1 Bc  k     k     k         1309   10   20 5h 5d
+kismet    858848004  2  2 Bk  k     k     f         1319   10    0 
+kismet    858848044  3  1 Bc  f     -     -         1309   10    0 
+kismet    858848071  3  3 f   -     -     -         1299    0    0 
+kismet    858848103  3  2 Bk  k     k     b         1299   30   40 
+kismet    858848120  3  1 Bc  kf    -     -         1309   10    0 
+kismet    858848131  3  3 f   -     -     -         1299    0    0 
+kismet    858848147  3  2 Bk  kf    -     -         1299   10    0 
+kismet    858848161  3  1 Bf  -     -     -         1289    5    0 
+kismet    858848171  3  3 cc  c     c     f         1284   50    0 
+kismet    858848204  3  2 Bk  k     k     k         1234   10   20 5d Ah
+kismet    858848224  3  1 Bc  kc    kc    k         1244   40   80 Qd 4d
+kismet    858848255  2  2 B   -     -     -         1284   10   15 
+kismet    858848261  2  1 Bc  k     kc    k         1289   30   30 3h Kc
+kismet    858848289  2  2 Bk  b     -     -         1289   20   30 
+kismet    858848302  2  1 Bf  -     -     -         1299    5    0 
+kismet    858848307  2  2 Bk  b     b     -         1294   40   60 
+kismet    858848327  2  1 Br  k     kc    kf        1314   40    0 
+kismet    858848351  2  2 B   -     -     -         1274   10   15 
+kismet    858848356  2  1 Br  -     -     -         1279   20   30 
+kismet    858848363  2  2 B   -     -     -         1289   10   15 
+kismet    858848369  2  1 Brr b     b     brr       1294  170    0 Kh Ks
+kismet    858848404  2  2 B   -     -     -         1124   10   15 
+kismet    858848415  2  1 Bc  k     k     k         1129   10    0 6h 4c
+kismet    858848438  2  2 Brc rr    c     c         1119  120    0 Ad 6s
+kismet    858848486  2  1 Brrrrrc kc    kc    kc         999  160  320 Ac 8s
+kismet    858848520  2  2 B   -     -     -         1159   10   15 
+kismet    858848528  2  1 Bf  -     -     -         1164    5    0 
+kismet    858848532  2  2 Bk  k     k     k         1159   10    0 7c 9c
+kismet    858848552  2  1 Bc  k     -     -         1149   10   20 
+kismet    858848565  2  2 Bc  f     -     -         1159   20    0 
+kismet    858848576  2  1 Bc  kc    kc    f         1139   40    0 
+kismet    858848602  2  2 Bc  f     -     -         1099   20    0 
+kismet    858848615  2  1 Bc  k     b     b         1079   50   80 
+kismet    858848651  2  2 Bf  -     -     -         1109   10    0 
+kismet    858848659  2  1 Bcc br    k     k         1099   50   50 9s Th
+kismet    858848690  2  2 Bc  c     r     b         1099   90  180 8h 7h
+kismet    858848716  2  1 Bf  -     -     -         1189    5    0 
+kismet    858848724  2  2 B   -     -     -         1184   10   15 
+kismet    858848737  2  1 Bc  b     b     -         1189   40   60 
+kismet    858848768  2  2 Bc  k     b     -         1209   40   60 
+kismet    858848797  3  1 Bcc b     kc    kc        1229   70    0 4d Js
+kismet    858848860  3  3 rr  b     -     -         1159   50   95 
+kismet    858848912  3  2 Br  b     b     -         1204   60  100 
+kismet    858848945  3  1 Bcc kf    -     -         1244   20    0 
+kismet    858848984  3  3 cc  c     c     c         1224   70    0 5s 5c
+kismet    858849007  3  2 Bk  k     k     k         1154   10   30 Qd 6h
+kismet    858849044  3  1 Br  b     b     -         1174   60  130 
+kismet    858849081  3  3 c   c     f     -         1244   20    0 
+kismet    858849106  3  2 Bc  k     k     k         1224   20   40 2d Js
+kismet    858849137  3  1 Bc  kc    bc    kc        1244   90    0 Js 8c
+kismet    858849181  3  3 cc  r     b     k         1154   70    0 Tc Qh
+kismet    858849240  3  2 Bk  b     -     -         1084   20   30 
+kismet    858849268  3  1 Br  b     k     b         1094   60  110 
+kismet    858849307  4  4 cc  c     c     k         1144   50    0 2c As
+kismet    858849361  4  3 r   r     k     k         1094   40  130 Th 8h
+kismet    858849427  4  2 Br  c     k     k         1184   40    0 Jd Kh
+kismet    858849471  3  1 Bcc kc    kc    kc        1144   70  140 4c Kd
+kismet    858849511  4  3 cc  f     -     -         1214   20    0 
+kismet    858849551  4  2 Bk  b     -     -         1194   20   35 
+kismet    858849569  4  1 Bc  kc    k     k         1209   30   90 3h 7h
+kismet    858849618  4  4 c   f     -     -         1269   10    0 
+kismet    858849641  4  3 f   Q     -     -         1259    0    0 
+kismet    858853651  7  5 f   -     -     -         1259    0    0 
+kismet    858853691  7  4 c   c     f     -         1259   40    0 
+kismet    858853750  7  3 ccc f     -     -         1219   40    0 
+kismet    858853829  7  2 Bc  k     f     -         1179   20    0 
+kismet    858853896  7  1 Bc  br    br    b         1159  140  560 4s 6c
+kismet    858854014  7  7 c   f     -     -         1579   20    0 
+kismet    858854083  7  6 cc  br    k     k         1559   60    0 7s 5d
+kismet    858854132  7  5 c   kc    kc    k         1499   40    0 8d 4d
+kismet    858854198  6  3 c   bc    bc    kc        1459   90  230 4h Ah
+kismet    858854265  6  2 Bc  kc    c     f         1599   60    0 
+kismet    858854362  6  1 Bf  -     -     -         1539    5    0 
+kismet    858854415  6  6 f   -     -     -         1534    0    0 
+kismet    858854482  6  5 f   -     -     -         1534    0    0 
+kismet    858854536  6  4 ccc kc    k     kf        1534   50    0 
+kismet    858854597  5  2 Bc  kc    kcc   f         1484  120    0 
+kismet    858854655  5  1 Brc kc    kc    kc        1364   90  240 Qs Kc
+kismet    858854719  5  5 cc  f     -     -         1514   40    0 
+kismet    858854786  5  4 f   -     -     -         1474    0    0 
+kismet    858854939  5  3 c   c     f     -         1474   20    0 
+kismet    858854971  5  2 Br  kc    kc    kf        1454   80    0 
+kismet    858855029  5  1 Bc  kf    -     -         1374   30    0 
+kismet    858855094  5  5 cc  c     c     r         1344  110  275 2c 2h
+kismet    858855145  5  4 cc  rr    r     k         1509  100    0 Ts 7s
+kismet    858855212  5  3 cc  f     -     -         1409   20    0 
+kismet    858855265  5  2 Bcc rc    ccf   -         1389  140    0 
+kismet    858855352  6  1 Bc  kcc   kcc   kc        1249  180  355 Ks 8s
+kismet    858855443  6  6 rc  c     c     f         1424   80    0 
+kismet    858855524  6  5 cc  c     cc    f         1344  100    0 
+kismet    858855685  6  4 cc  c     c     f         1244   70    0 
+kismet    858855741  5  3 rc  k     b     k         1174   60  165 Kc Jc
+kismet    858855802  5  2 Bc  f     -     -         1279   20    0 
+kismet    858855870  6  1 Bc  b     b     b         1259   70  150 
+kismet    858855902  6  6 c   b     r     b         1339   80  175 
+kismet    858855943  6  5 f   -     -     -         1434    0    0 
+kismet    858855983  6  4 f   -     -     -         1434    0    0 
+kismet    858856016  6  3 cc  c     c     f         1434   50    0 
+kismet    858856090  6  2 Bc  cc    c     c         1384  100    0 9d 6d
+kismet    858856180  6  1 Bc  f     -     -         1284   20    0 
+kismet    858856226  5  5 r   bc    b     b         1264   80    0 Tc Ac
+kismet    858856260  5  4 c   cKQ   -     -         1184   20    0 
+kismet    858894789  5  2 Bc  kf    -     -         1164   20    0 
+kismet    858894865  4  1 Brc kc    kc    f         1144   70    0 
+kismet    858894930  5  5 f   -     -     -         1074    0    0 
+kismet    858894949  5  4 c   f     -     -         1074   20    0 
+kismet    858894965  5  3 f   -     -     -         1054    0    0 
+kismet    858894977  5  2 Bk  f     -     -         1054   10    0 
+kismet    858895001  5  1 Bc  kf    -     -         1044   20    0 
+kismet    858895018  5  5 cc  c     c     f         1024   50    0 
+kismet    858895082  5  4 f   -     -     -          974    0    0 
+kismet    858895136  5  4 cc  bc    br    b          974  120  250 
+kismet    858895180  5  3 cc  f     -     -         1104   30    0 
+kismet    858895225  4  1 Bk  kc    k     k         1074   20   40 2s 6c
+kismet    858895257  4  1 Bcc kf    -     -         1094   20    0 
+kismet    858895293  4  4 cc  b     b     -         1074   60  150 
+kismet    858895337  4  3 cc  k     c     c         1164   80    0 Ah 7h
+kismet    858895377  3  2 Bc  kc    k     kf        1084   30    0 
+kismet    858895410  3  1 Bc  f     -     -         1054   20    0 
+kismet    858895426  3  3 f   -     -     -         1034    0    0 
+kismet    858895438  3  2 Br  r     k     f         1034   50    0 
+kismet    858895458  3  1 Bcc bc    kc    kf         984   70    0 
+kismet    858895489  3  3 f   -     -     -          914    0    0 
+kismet    858895494  3  2 Bc  f     -     -          914   20    0 
+kismet    858895531  4  1 Bc  kc    k     k          894   30   70 9d Jd
+kismet    858895559  3  3 r   -     -     -          934   20   35 
+kismet    858895565  3  2 Bc  b     b     b          949   70  145 4c Qs
+kismet    858895595  3  1 Bc  kf    -     -         1024   10    0 
+kismet    858895618  3  3 cc  c     f     -         1014   30    0 
+kismet    858895637  3  2 Bc  rc    kc    kf         984   80    0 
+kismet    858895682  3  1 Bc  k     k     k          904   10   20 5s 6s
+kismet    858895723  3  3 cc  c     f     -          914   30    0 
+kismet    858895744  3  2 B   -     -     -          884   10   15 
+kismet    858895748  3  1 Bf  -     -     -          889    5    0 
+kismet    858895764  3  3 c   r     k     f          884   40    0 
+kismet    858895797  3  2 Bc  br    k     k          844   50  105 Tc 8d
+kismet    858895821  3  1 Br  bc    kc    k          899   70    0 Jh Th
+kismet    858895848  3  3 c   f     -     -          829   10    0 
+kismet    858895875  3  2 Bc  k     b     br         819  100    0 4s Jc
+kismet    858895898  2  1 BKQ -     -     -          719    5    0 
+kismet    858913734 11  9 f   -     -     -          714    0    0 
+kismet    858913789  9  6 KQ  -     -     -          714    0    0 
+kismet    858922874  6  3 rr  b     r     b          714  110  270 
+kismet    858922975  7  3 rr  cc    cc    kf         874  120    0 
+kismet    858923101  6  2 Bcc kc    kc    krc        754  150    0 2s 3h
+kismet    858923223  6  1 Bf  -     -     -          604    5    0 
+kismet    858923290  6  6 c   k     b     b          599   50  115 Td 7c
+kismet    858923362  6  5 cc  kc    r     b          664  110  285 6s 3c
+kismet    858923420  6  4 r   b     b     b          839   70  220 Ks Kc
+kismet    858923469  6  3 cc  kc    krr   brc        989  200    0 7s 8h
+kismet    858923565  6  2 Bc  f     -     -          789   20    0 
+kismet    858923627  6  1 Bc  kc    kf    -          769   30    0 
+kismet    858923689  6  6 KQ  -     -     -          739    0    0 
+kismet    858926395 10  5 cc  cc    kc    k          739   70  220 Tc 9h
+kismet    858926519 10  4 ccc kc    brc   kc         889  150    0 Qd Jh
+kismet    858926666  9  3 cc  kcc   kf    -          739   60    0 
+kismet    858926797  9  2 Bc  kc    kf    -          679   30    0 
+kismet    858926921  9  1 Bf  -     -     -          649    5    0 
+kismet    858926987  9  9 rc  b     b     b          644   80    0 Ac 8c
+kismet    858927071  9  8 cc  cc    c     c          564  120    0 8c Qh
+kismet    858927192  9  7 r   r     b     b          444   80  310 Ad Jc
+kismet    858927357  9  6 cc  c     f     -          674   40    0 
+kismet    858927453  9  3 Q   -     -     -          634    0    0 
+kismet    859005419 12  2 Bc  kf    -     Q          634   20    0 
+kismet    859007132 11  8 r   Q     -     -          614   30    0 
+kismet    859010718  2  1 BrKQ -     -     -          584   20   30 
+kismet    859275757  3  2 B   -     -     -          594   10   15 
+kismet    859275766  3  1 Bc  kc    k     k          599   30    0 Td 3d
+kismet    859275793  3  3 c   k     f     -          569   10    0 
+kismet    859275815  3  2 Bc  f     -     -          559   20    0 
+kismet    859275828  3  1 Bc  k     k     k          539   10   20 Qh 6h
+kismet    859275850  3  3 f   -     -     -          549    0    0 
+kismet    859275858  3  2 Bk  b     b     -          549   40   65 
+kismet    859275878  3  1 Bcc kc    k     k          574   30   60 2d Td
+kismet    859275899  3  3 f   -     -     -          604    0    0 
+kismet    859275920  3  2 B   -     -     -          604   10   15 
+kismet    859275935  3  1 Bc  b     -     -          609   20   30 
+kismet    859275959  3  3 c   k     bc    c          619   70    0 Kh 3h
+kismet    859276001  3  2 B   -     -     -          549   10   15 
+kismet    859276011  3  1 Bc  kf    -     -          554   10    0 
+kismet    859276026  3  3 f   -     -     -          544    0    0 
+kismet    859276039  3  2 Bk  rc    f     -          544   40    0 
+kismet    859276097  4  1 Bcc kc    kf    -          504   50    0 
+kismet    859276181  5  5 c   cc    cc    f          454  140    0 
+kismet    859276265  5  4 rr  b     br    br         314  170  365 8c As
+kismet    859276318  4  3 f   -     -     -          509    0    0 
+kismet    859276385  4  2 Bk  b     -     -          509   20   40 
+kismet    859276407  4  1 Bc  b     -     -          529   20   30 
+kismet    859276428  4  4 c   k     k     k          539   10    0 5d 3c
+kismet    859276460  5  3 cc  kc    k     kc         529   60  170 4s 4d
+kismet    859276546  6  2 Bc  f     -     -          639   30    0 
+kismet    859276625  6  1 Br  b     b     b          609   70  160 
+kismet    859276675  6  6 c   c     k     c          699   40    0 5s 8d
+kismet    859276722  6  5 f   -     -     -          659    0    0 
+kismet    859276777  7  5 f   -     -     -          659    0    0 
+kismet    859276839  7  4 f   -     -     -          659    0    0 
+kismet    859276894  7  3 cc  cc    kc    kf         659   70    0 
+kismet    859276983  7  2 Bk  c     f     -          589   20    0 
+kismet    859277026  7  1 Bc  b     -     -          569   30   80 
+kismet    859277054  6  6 c   cc    c     f          619   60    0 
+kismet    859277122  6  5 f   -     -     -          559    0    0 
+kismet    859277193  6  4 cc  kc    b     b          559   80  250 4c 4s
+kismet    859277266  6  3 r   rrc   c     c          729  110    0 9s Ts
+kismet    859277305  6  2 Bk  kc    kc    kc         619   60    0 8d 3c
+kismet    859277373  6  1 Bc  kc    kf    -          559   20    0 
+kismet    859277456  6  6 c   k     k     k          539   20    0 9h Jc
+kismet    859277499  6  5 f   -     -     -          519    0    0 
+kismet    859277557  6  4 f   -     -     -          519    0    0 
+kismet    859277585  6  3 rr  c     k     k          519   50  200 4c Ac
+kismet    859277666  6  2 Bc  kc    kf    -          669   30    0 
+kismet    859277698  6  1 Bc  kc    k     k          639   20   70 4s Qs
+kismet    859277747  6  6 c   k     c     f          689   30    0 
+kismet    859277817  6  5 crc c     r     b          659  110  240 
+kismet    859277884  6  4 c   c     c     c          789   60    0 9s 6d
+kismet    859277946  6  3 c   k     kf    -          729   10    0 
+kismet    859278001  5  2 Bk  bf    -     -          719   20    0 
+kismet    859278030  4  1 Bc  k     kf    -          699   10    0 
+kismet    859278124  4  4 cc  k     f     -          689   20    0 
+kismet    859278164  3  3 c   c     f     -          669   20    0 
+kismet    859278202  3  2 Bk  k     k     k          649   10    0 5c 7s
+kismet    859278238  3  1 Bc  k     kf    -          639   10    0 
+kismet    859278408  2  2 Bk  brrc  rrrrrr rrrrr      629  510    0 9h 6s
+kismet    859278632  3  1 Brc kc    brcA  -          119  119  238 Tc As
+kismet    859278741  2  2 Bc  c     rrrrrcA -          238  238  476 3c As
+kismet    859278783  2  1 Brc kc    brrrrrrr brrrA      476  476    0 Qc 9c
+kismet    859278902  2  2 Bc  c     rrrrrr rf        1000  310    0 
+kismet    859278975  2  1 Bcc k     brrrrrrrrrrrrrrrf -          690  640    0 
+kismet    859279128  2  2 Bk  c     rA    -           50   50    0 9s 4c
+kismet    859279179  2  2 Bc  c     r     rrrrrrrrrrrrrrrrrrrrrrrcA   1000 1000    0 As 4h
+kismet    859279283  2  2 Bc  c     k     f         1000   30    0 
+kismet    859279342  2  1 Bc  kc    brrrrrrrrrrrrrrrrrrrrrrrf -          970  960    0 
+kismet    859279447  2  2 BA  -     -     -           10   10    0 4h 3h
+kismet    859279473  2  2 Bk  k     r     rrrrrrrrrrrrrrrrrrrrrrrrA   1000 1000    0 3s Jc
+kismet    859279588  2  2 Bc  k     k     rrrrrrrrrrrrrrrrrrrrrrrrcA   1000 1000    0 3d 2d
+kismet    859279647  2  2 Bk  k     k     rrrrrrrrrrrrrrrrrrrrrrrrf   1000  970    0 
+kismet    859279741  2  1 Bc  f     -     -           30   10    0 
+kismet    859279759  2  2 Bf  -     -     -           20   10    0 
+kismet    859279772  2  1 BcA -     -     -           10   10    0 Qd Ah
+kismet    859279796  2  2 Bk  k     k     rrrrrrrrrrrrrrrrrrrrrrrrrA   1000 1000    0 8s 7s
+kismet    859279872  2  2 Bk  k     k     f         1000   10    0 
+kismet    859279897  2  1 Bc  k     k     f          990   10    0 
+kismet    859279916  2  2 Bk  f     -     -          980   10    0 
+kismet    859279948  2  1 Bc  k     k     f          970   10    0 
+kismet    859279973  2  2 Bk  k     k     rrrrrrrrrrrrrrrrrrrrrrrrA    960  960    0 Jc 3s
+kismet    859280042  2  2 Bk  k     f     -         1000   10    0 
+kismet    859280059  2  1 Bc  k     k     f          990   10    0 
+kismet    859280081  2  2 Bk  k     k     rrrrrrrrrrrrrrrrrrrrrrrrcA    980  980    0 4s 2s
+kismet    859280147  2  2 Bk  f     -     -         1000   10    0 
+kismet    859280160  2  1 Bc  k     k     brrrrrrrrrrrrrrrrrrrrrrrrA    990  990    0 9s 4d
+kismet    859280235  2  2 Bk  k     k     rrrrrrrrrrrrrrrrrrrrrrrrrA   1000 1000    0 5h Kd
+kismet    859280306  2  2 Bk  k     k     k         1000   10    0 6h 8h
+kismet    859280373  2  1 Bc  k     -     -          990   10   20 
+kismet    859280395  2  2 Bk  k     k     rrrrrrrrrrrrrrrrrrrrrrrrrA   1000 1000 2000 8h Ah
+kismet    859280478  2  1 Brc k     k     k         2000   30   60 
+kismet    859280513  2  2 Bk  k     k     -         2030   10   20 
+kismet    859280539  2  1 Bc  k     k     k         2040   10   20 
+kismet    859280559  2  2 Bk  k     k     -         2050   10   20 
+kismet    859280577  2  1 Bc  k     k     k         2060   10   20 
+kismet    859280597  2  2 Bk  k     k     -         2070   10   20 
+kismet    859280617  2  1 Bc  k     k     k         2080   10   20 
+kismet    859280670  2  2 Bk  k     k     rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrA   2090 2090 4180 4s 8s
+kismet    859280780  2  1 Bc  k     k     -         4180   10   20 
+kismet    859280812  2  2 Bk  k     k     -         4190   10   20 
+kismet    859280832  2  1 Bc  k     k     k         4200   10    0 9c 7h
+kismet    859280872  2  2 B   -     -     -         4190   10   15 
+kismet    859280885  2  1 Bc  k     k     k         4195   10   20 
+kismet    859280917  2  2 Bk  k     k     -         4205   10   20 
+kismet    859280945  2  1 Bc  k     k     brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr   4215 1830 3640 
+kismet    859281093  2  2 B   -     -     -         6025   10   15 
+kismet    859281103  2  1 Bc  k     k     k         6030   10   20 7s 2s
+kismet    859281262  3  2 Bk  b     -     -         6040   20   30 
+kismet    859281280  3  1 Bc  kc    kf    -         6050   30    0 
+kismet    859281318  3  3 f   -     -     -         6020    0    0 
+kismet    859281337  3  2 Bc  kf    -     -         6020   20    0 
+kismet    859281358  3  1 Bc  -     -     -         6000   10   20 
+kismet    859281365  3  3 c   k     k     b         6010   30   50 
+kismet    859281408  3  2 Bk  f     -     -         6030   10    0 
+kismet    859281422  3  1 Br  kc    kf    -         6020   30    0 
+kismet    859281464  3  3 c   k     b     -         5990   30   50 
+kismet    859281489  3  2 Bk  kc    kr    b         6010   80  180 9c 6h
+kismet    859281532  3  1 Bcc kc    bc    kf        6110   70    0 
+kismet    859281582  3  3 f   -     -     -         6040    0    0 
+kismet    859281598  3  2 Bk  k     kf    -         6040   10    0 
+kismet    859281622  3  1 Bc  k     kf    -         6030   10    0 
+kismet    859281658  3  3 r   r     b     b         6020   80  180 
+kismet    859281692  3  2 Bk  f     -     -         6120   10    0 
+kismet    859281707  3  1 Bf  -     -     -         6110    5    0 
+kismet    859281713  3  3 f   -     -     -         6105    0    0 
+kismet    859281742  3  2 Bc  c     k     b         6105   50    0 8c Ts
+kismet    859281777  3  1 Bf  -     -     -         6055    5    0 
+kismet    859281812  3  3 c   f     -     -         6050   10    0 
+kismet    859281838  3  2 Bk  kf    -     -         6040   10    0 
+kismet    859281874  3  1 Bc  b     -     -         6030   30   70 
+kismet    859281896  3  3 c   b     -     -         6070   20   35 
+kismet    859281908  3  2 Bk  kf    -     -         6085   10    0 
+kismet    859281925  3  1 Bc  k     k     kc        6075   30    0 4c 5h
+kismet    859281952  3  3 f   -     -     -         6045    0    0 
+kismet    859281977  3  2 Bc  r     rc    k         6045  100    0 Qs Tc
+kismet    859282006  3  1 Bc  k     k     k         5945   10   30 3c 5c
+kismet    859282035  3  3 Q   -     -     -         5965    0    0 
+kismet    859282383  2  2 B   -     -     -         1000   10   20 
+kismet    859282476  2  2 Bk  k     k     rrrrrrrrrrrrrrrrrrrrrrrrrA   1010 1010    0 Qc 6s
+kismet    859282558  2  2 Bk  k     k     f         1000   10    0 
+kismet    859282574  2  1 Bc  k     k     f          990   10    0 
+kismet    859282599  2  2 Bk  k     k     brrrrrrrrrrrrrrrrrrrrrrrrA    980  980    0 7s Kd
+kismet    859282671  2  2 Bk  k     k     f         1000   10    0 
+kismet    859282715  2  1 Bc  k     k     k          990   10   20 Td 3s
+kismet    859282735  2  2 Bk  f     -     -         1000   10    0 
+kismet    859282749  2  1 Bc  k     k     brrrrrrrrrrrrrrrrrrrrrrrrA    990  990    0 Js 2h
+kismet    859282800  2  2 Bk  k     k     f         1000   10    0 
+kismet    859282821  2  1 Bc  f     -     -          990   10    0 
+kismet    859282831  2  2 Bk  k     k     f          980   10    0 
+kismet    859282852  2  1 Bc  k     k     k          970   10   20 3h Tc
+kismet    859282875  2  2 Bk  k     k     rrrrrrrrrrrrrrrrrrrrrrrrcA    980  980    0 As 9s
+kismet    859282955  2  2 Bk  k     k     rrrrrrrrrrrrrrrrrrrrrrrrrA   1000 1000    0 Jh 7h
+kismet    859283033  2  2 Bk  k     f     -         1000   10    0 
+kismet    859283052  2  1 Bc  k     k     f          990   10    0 
+kismet    859283159  2  2 Bk  k     k     f          980   10    0 
+kismet    859283187  2  1 Bc  k     k     b          970   30   40 
+kismet    859283210  2  2 Bk  f     -     -          980   10    0 
+kismet    859283229  2  1 Bc  k     k     f          970   10    0 
+kismet    859283251  2  2 Bk  k     k     f          960   10    0 
+kismet    859283283  2  1 Bc  k     k     brrrrrrrrrrrrrrrrrrrrrrrA    950  950    0 Td 3c
+kismet    859283343  2  2 Bk  f     -     -         1000   10    0 
+kismet    859283391  2  1 Bc  k     k     k          990   10   20 
+kismet    859283483  2  2 Bk  -     -     -         1000   10   20 
+kismet    859283506  2  1 Bc  k     k     brrrrrrrrrrrrrrrrrrrrrrrrcA   1010 1010 2020 Ac 8d
+kismet    859283567  2  2 Bk  -     -     -         2020   10   20 
+kismet    859283588  2  1 BQ  -     -     -         2030    5    0 
+kismet    859326115  8  8 c   k     k     k        19289   10   25 2h 2d
+kismet    859326197  7  6 c   c     k     kf       19304   30    0 
+kismet    859326291  8  5 Q   -     -     -        19274    0    0 
+kismet    859334902  8  3 c   k     f     -         8975   10    0 
+kismet    859334940  8  2 Bc  kc    kc    kf        8965   50    0 
+kismet    859334992  8  1 Br  kc    bc    kc        8915   90    0 Kh Ac
+kismet    859335069  8  8 r   r     bc    r         8825  140  455 Ah Ad
+kismet    859335144  9  5 Q   -     -     -         9140    0    0 
+kismet    859352110 12  4 cc  c     f     -         7460   40    0 
+kismet    859352204 12  3 Q   -     -     -         7420    0    0 
+kismet    859594839  5  2 Bk  kf    -     -         1000   10    0 
+kismet    859594861  6  1 Bc  bc    k     kf         990   30    0 
+kismet    859594891  6  6 r   b     k     b          960   50  115 
+kismet    859594960  6  5 r   k     k     k         1025   20   38 Ks Ac
+kismet    859595015  6  4 c   k     f     -         1043   10    0 
+kismet    859595056  6  3 c   k     c     f         1033   30    0 
+kismet    859595086  6  2 Bk  kc    kc    kc        1003   80  245 7d 4d
+kismet    859595155  7  1 Bc  kf    -     -         1168   20    0 
+kismet    859595201  6  6 c   f     -     -         1148   20    0 
+kismet    859595222  7  6 c   f     -     -         1128   20    0 
+kismet    859595281  7  4 f   -     -     -         1108    0    0 
+kismet    859595328  8  3 c   b     b     b         1108   60  150 
+kismet    859595388  8  2 Bc  kf    -     -         1198   20    0 
+kismet    859595445  9  1 Bc  bc    kc    kf        1178   60    0 
+kismet    859595513  9  9 c   f     -     -         1118   20    0 
+kismet    859595564  9  8 f   -     -     -         1098    0    0 
+kismet    859595637  9  7 c   b     bc    k         1098   60    0 Qs 9s
+kismet    859595706  8  5 f   -     -     -         1038    0    0 
+kismet    859595786  8  4 f   -     -     -         1038    0    0 
+kismet    859595878  7  4 cc  c     k     c         1038   50    0 As 5s
+kismet    859595942  9  3 f   -     -     -          988    0    0 
+kismet    859595984  8  2 Bk  kc    k     k          988   20    0 As 3c
+kismet    859596051  8  1 Bc  kf    -     -          968   10    0 
+kismet    859596100  9  9 c   c     r     k          958   80    0 Jh 8h
+kismet    859596176  9  8 f   -     -     -          878    0    0 
+kismet    859596237  9  7 c   f     -     -          878   20    0 
+kismet    859596259  9  6 r   cc    f     -          858   40    0 
+kismet    859596388 10  7 c   k     r     r          818   90  330 7c 5d
+kismet    859596462 10  6 rr  c     r     rc        1058  150    0 Ah Qd
+kismet    859596564 10  5 Q   -     -     -          908    0    0 
