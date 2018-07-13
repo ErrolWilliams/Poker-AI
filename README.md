@@ -1,4 +1,5 @@
 # Poker-AI
+<pre>
 Bot that plays poker and uses machine learning to become a better player (hopefully)
 
 Workflow
@@ -16,3 +17,4 @@ Workflow
     - git pull origin master
     - git merge WORKING_BRANCH
     - git push origin master
+</pre>
