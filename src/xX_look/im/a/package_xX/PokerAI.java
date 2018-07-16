@@ -1,7 +1,6 @@
-package xX_look.im.a.package_Xx;
+package xX_look.im.a.package_xX;
 
-import xX_look.im.a.package_Xx.client.Client;
-
+import xX_look.im.a.package_xX.client.Client;
 
 public class PokerAI{
 
