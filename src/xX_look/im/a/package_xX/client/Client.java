@@ -1,4 +1,4 @@
-package xX_look.im.a.package_Xx.client;
+package xX_look.im.a.package_xX.client;
 
 import org.java_websocket.client.WebSocketClient;
 import org.java_websocket.drafts.Draft_6455;
