@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from poker import client
 import tables
 from tables import *
