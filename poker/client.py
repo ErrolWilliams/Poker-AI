@@ -1,3 +1,4 @@
+import websockets
 
 class Client(object):
     def __init__(self, server, playername):
