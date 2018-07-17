@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 from poker import client
-import tables
-from tables import *
+import poker.tables as tables
+from poker.tables import *
 import sys
 
 def start_ai():
