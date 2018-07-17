@@ -2,6 +2,8 @@
 <pre>
 Bot that plays poker and uses machine learning to become a better player (hopefully)
 
+Run setup_environment.py as superuser to install the required modules!
+
 Workflow
   Update local repo
     - git checkout master
