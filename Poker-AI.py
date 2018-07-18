@@ -4,8 +4,11 @@ import poker.tables as tables
 from poker.tables import *
 import sys
 
+SERVER='ws://poker-dev.wrs.club:3001'
+PLAYERNAME = 'test1595'
+
 def start_ai():
-    cli = client.Client('ws://poker-dev.wrs.club:3001', 'TEAM_JE')
+    cli = client.Client(SERVER, PLAYERNAME)
     cli.run()
 
 if __name__ == "__main__":
