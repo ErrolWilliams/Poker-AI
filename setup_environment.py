@@ -5,7 +5,10 @@ packages = [
 	'lxml',
 	'tensorflow',
 	'websockets',
-	'holdem'
+	'roomai',
+	'tflearn',
+	'numpy',
+	'h5py'
 ]
 
 def install(package_name):
