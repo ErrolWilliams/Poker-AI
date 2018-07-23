@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+import tensorflow as tf
+tf.enable_eager_execution()
 from poker import client
 from poker.model import load
 import argparse
@@ -7,8 +10,11 @@ from poker.tables import *
 import sys
 import poker.train
 
-SERVER='ws://poker-dev.wrs.club:3001'
-PLAYERNAME = 'hamburger'
+
+#SERVER='ws://poker-dev.wrs.club:3001'
+
+SERVER='ws://atxholdem2.tplab.tippingpoint.com:3001'
+PLAYERNAME = '9679095d66'
 MODELNAME = 'basicPlayer'
 
 def start_ai():
@@ -26,12 +32,15 @@ if __name__ == "__main__":
         exit()
 
     parser = argparse.ArgumentParser(description='Launches AI poker player')
-    parser.add_argument('-m', '--model', help='Model name for neural net', required=False, defualt=MODELNAME) 
+    parser.add_argument('-m', '--model', help='Model name for neural net', required=False, default=MODELNAME) 
     parser.add_argument('-p', '--player_name', help='Bot player name', required=False, default=PLAYERNAME) 
 
-    MODELNAME = args['model']
-    PLAYERNAME = args['player_name']
+    args = parser.parse_args()
 
+    MODELNAME = args.model
+    PLAYERNAME = args.player_name
+
+    print(MODELNAME)
     load(MODELNAME)
     
     print(f"2 Players - K/K Unsuited - {win_chance(3, 'A', 'A', 'u')}")

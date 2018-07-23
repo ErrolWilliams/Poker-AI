@@ -19,12 +19,15 @@ class Action(object):
 
 class Bet(Action):
 
+	def __init__(self):
+		self.action_name = "bet"
+
 	def __init__(self, amount):
 		self.amount = amount
 		self.action_name = "bet"
 
-	def to_json():
-		obj = super(Action, self).to_json()
+	def to_json(self):
+		obj = super().to_json()
 		obj["data"]["amount"] = self.amount
 		return obj
 
