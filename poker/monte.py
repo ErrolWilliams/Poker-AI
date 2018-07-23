@@ -1,4 +1,5 @@
 import random
+from random import randrange
 from treys import Card
 from treys import Deck
 from treys import Evaluator
