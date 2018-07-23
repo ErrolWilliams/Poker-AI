@@ -1,5 +1,7 @@
 from poker.table import Table
 from poker.player import Player
+from poker.odds import odds
+from poker.model import action
 import poker.ai.action
 from treys import Card
 
@@ -15,13 +17,28 @@ class AI():
 		return Card.new(card_str[0] + card_str[1].lower())
 
 	def request_action(self):
-		cards = []
+		board = []
+                hand = []
 		for card_str in self.table.board:
-			cards.append(self.card_obj(card_str))
-
-		return action.Call()
-
-	def request_bet(self):
+			board.append(self.card_obj(card_str))
+                for card_str in player.cards:
+                        hand.append(self.card_obj(card_str))
+                round_num = self.table.round
+                monte_odds = odds(hand, board, self.players_active())
+                risk = (1-monte_odds) * self.table.num_raise 
+                model_action = action(round_num, risk)
+                if model_action == 'bet':
+                        return acton.Bet()
+                elif model_action == 'call':
+                        return action.Call()
+                elif model_action == 'check':
+                        return action.Check():
+                elif model_action == 'fold':
+                        return action.Fold()
+                else:
+                        return action.Raise()
+	
+        def request_bet(self):
 		return action.Call()
 
 	def get_player(self, player_id):
