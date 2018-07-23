@@ -8,14 +8,13 @@ random.seed(time.time())
 
 
 def odds(hand, board, num_players):
-    my_hand = [Card.new(hand[0]), Card.new(hand[1])]
-    remove_cards = [Card.new(hand[0]), Card.new(hand[1])]
+    my_hand = hand
+    remove_cards = hand
 
-    my_board = []
+    my_board = board
     
     for i in range(len(board)):
-        my_board.append(Card.new(board[i]))
-        remove_cards.append(Card.new(board[i]))
+        remove_cards.append(board[i])
 
     my_deck = Deck()
     
@@ -26,7 +25,7 @@ def odds(hand, board, num_players):
     evaluator = Evaluator()
 
     count = 0;
-    for b in range(1000):
+    for b in range(2000):
         deck = Deck()
         cards = my_deck.cards.copy()
         rshuffle(cards)
@@ -43,7 +42,7 @@ def odds(hand, board, num_players):
         if evaluator.hand_summary(board, players) == 0:
             count += 1
         
-    return count/1000
+    return count/2000.0
 
 #-------------------------------------------------------------
 
