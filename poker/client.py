@@ -26,9 +26,15 @@ class Client(object):
 		return obj
 
 	def _new_round(self, event):
-
+		
 #update_players(self, event['data']['players'])
 		return None
+
+	def _left(self, event):
+		for player in self.table.players:
+			if not player.playername in event['data']:
+				del self.table[player.playername]
+				print(f"deleted {player.playername}")
 
 	def _new_peer(self, event):
 		for player_name in event['data']:
