@@ -9,11 +9,12 @@ import poker.tables as tables
 from poker.tables import *
 import sys
 import poker.train
+import poker
 
 
-#SERVER='ws://poker-dev.wrs.club:3001'
+SERVER='ws://poker-dev.wrs.club:3001'
 
-SERVER='ws://atxholdem2.tplab.tippingpoint.com:3001'
+#SERVER='ws://atxholdem2.tplab.tippingpoint.com:3001'
 PLAYERNAME = '9679095d66'
 MODELNAME = 'basicPlayer'
 
@@ -34,8 +35,11 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Launches AI poker player')
     parser.add_argument('-m', '--model', help='Model name for neural net', required=False, default=MODELNAME) 
     parser.add_argument('-p', '--player_name', help='Bot player name', required=False, default=PLAYERNAME) 
+    parser.add_argument('-s', '--stats', help='Bot player name', action='store_true', required=False) 
 
     args = parser.parse_args()
+
+    poker.ai.STATS = args.stats
 
     MODELNAME = args.model
     PLAYERNAME = args.player_name

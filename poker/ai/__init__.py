@@ -6,6 +6,8 @@ import poker.ai.action
 from treys import Card
 from poker.monte import monteCarlo
 
+STATS = False
+
 class AI():
 
 	def __init__(self, player_id):
@@ -40,10 +42,24 @@ class AI():
 
 		round_num = self.table.round
 
+
 		if len(board) == 0:
 			monte_odds = 0.75
 		else:
 			monte_odds = monteCarlo(board, hand, self.players_active()-1, 2000.0)
+	
+		if STATS:
+			print("Using stats!")
+			if monte_odds > 0.95:
+				return action.Bet(int(self.player.chips*0.5))
+			elif monte_odds > 0.75:
+				return action.Bet(int(self.player.chips*0.2))
+			elif monte_odds > 0.50:
+				return action.Check()
+			elif monte_odds > 0.25:
+				return action.Call()
+			else:
+				return action.Fold()
 
 		risk = (1-monte_odds) * self.table.num_raise 
 		model_action = get_action(round_num, risk)
