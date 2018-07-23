@@ -14,12 +14,20 @@ after it is returned
 class Client(object):
 
 	def update_players(self, players_json):
-		for obj in players_json:
+		for player_json in players_json:
+			self.ai.get_player(player_json['playerName']).update_json(player_json)
+
+	def update_table(self, table_json):
+		self.ai.table.update_json(table_json)
 
 
 	def _connect(self, event):
 		obj = {"eventName" : "__join", "data" : {"playerName" : self.playername}}
 		return obj
+
+	def _new_round(self, event):
+#update_players(self, event['data']['players'])
+		return None
 
 	def _new_peer(self, event):
 		for player_name in event['data']:
@@ -33,9 +41,12 @@ class Client(object):
 		}
 
 	def _deal(self, event):
+#	update_players(self, event['data']['players'])
 		return None
 
 	def _action(self, event):
+		update_table(self, event['data']['game'])
+		update_players(self, event['data']['players'])
 		return self.ai.request_action().to_json()
 
 	def _bet(self, event):

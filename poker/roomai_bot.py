@@ -25,9 +25,10 @@ from treys import Card
 import poker.ai
 #----------------------------------------------------------------
 class RoomAIBot(roomai.common.AbstractPlayer):
-	def __init__(self):
-		self.ai = ai.AI()
-    def recieve_info(self, infos, public_state):
+    def __init__(self):
+        self.ai = ai.AI()
+
+    def receive_info(self, infos, public_state):
         text = open("P1.txt", "a")
         self.avalible_actions = info.person_state.avalible_actions
         id = info.person_state.id       # my player id
@@ -49,18 +50,20 @@ class RoomAIBot(roomai.common.AbstractPlayer):
                    "Chips:             " + str(chips) +     \
                    "Bets:              " + str(bets) +      \
                    "Pot:               " + str(pot) +       \
-                   "Community Cards:   %s\r\n"%("| ".join([c.key for c in community])) "\r\n" + \
+#                   "Community Cards:   %s\r\n"%("| ".join([c.key for c in community])) "\r\n" + \
                    "Private State: \r\n"                    \
                    "ID:                " + str(id) +        \
                    "My Chips:          " + str(my_chips)    \
-                   "My Total Bet:      " + str(my_stake)    \
+#                   "My Total Bet:      " + str(my_stake)    \
 #                   "My Odds:           " + str(my_odds)     \
-                   "My Hand:           %s\r\n"%("| ".join([c.key for c in my_hand])) + "\r\n" + \
+#                   "My Hand:           %s\r\n"%("| ".join([c.key for c in my_hand])) + "\r\n" + \
                    "State Score:       " + str(my_score)
            )
     def take_action():
+		pass
         
     def reset():
+		pass
         # code
 
 def card_obj(cardname):

@@ -14,4 +14,7 @@ class Player(object):
 		self.reloadCount = json_obj["reloadCount"]
 		self.roundBet = json_obj["roundBet"]
 		self.bet = json_obj["bet"]
+		if 'cards' in json_obj:
+			print('updating cards')
+			self.cards = json_obj['cards']
 		

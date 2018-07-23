@@ -9,7 +9,7 @@ from copy import deepcopy
 import roomai
 import roomai.common
 import roomai.texas
-import RoomAIBot from poker.roomai_bot
+from poker.roomai_bot import RoomAIBot
 
 random.seed(14325)
 """
