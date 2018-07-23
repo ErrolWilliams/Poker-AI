@@ -15,10 +15,10 @@ class Client(object):
 
 	def update_players(self, players_json):
 		for player_json in players_json:
-			self.ai.get_player(player_json['playerName']).update_json(player_json)
+			self.ai.get_player(player_json['playerName']).json_update(player_json)
 
 	def update_table(self, table_json):
-		self.ai.table.update_json(table_json)
+		self.ai.table.json_update(table_json)
 
 
 	def _connect(self, event):
@@ -26,6 +26,7 @@ class Client(object):
 		return obj
 
 	def _new_round(self, event):
+
 #update_players(self, event['data']['players'])
 		return None
 
@@ -41,18 +42,22 @@ class Client(object):
 		}
 
 	def _deal(self, event):
+		self.ai.table.num_raise = 0
 #	update_players(self, event['data']['players'])
 		return None
 
 	def _action(self, event):
-		update_table(self, event['data']['game'])
-		update_players(self, event['data']['players'])
+		self.update_table(event['data']['game'])
+		self.update_players(event['data']['game']['players'])
 		return self.ai.request_action().to_json()
 
 	def _bet(self, event):
 		return self.ai.request_bet().to_json()
 
 	def _show_action(self, event):
+		action = event['data']['action']['action']
+		if action == 'raise' or action == 'bet':
+			self.ai.table.num_raise += 1
 # update stuff
 		return None
 

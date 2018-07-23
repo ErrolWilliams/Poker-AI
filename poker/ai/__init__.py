@@ -12,6 +12,14 @@ class AI():
 		self.table = Table()
 		self.player_id = player_id
 		self.player = self.table.get_player(self.player_id)
+
+	def players_active(self):
+		num_active = 0
+		for player in self.table.players:
+			if not player.folded:
+				num_active += 1
+
+		return num_active
 	
 	def card_obj(self, card_str):
 		return Card.new(card_str[0] + card_str[1].lower())

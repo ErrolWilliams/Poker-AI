@@ -23,6 +23,7 @@ for _ in range(games)
 """
 from treys import Card
 import poker.ai
+import roomai
 #----------------------------------------------------------------
 class RoomAIBot(roomai.common.AbstractPlayer):
     def __init__(self):
@@ -53,17 +54,17 @@ class RoomAIBot(roomai.common.AbstractPlayer):
 #                   "Community Cards:   %s\r\n"%("| ".join([c.key for c in community])) "\r\n" + \
                    "Private State: \r\n"                    \
                    "ID:                " + str(id) +        \
-                   "My Chips:          " + str(my_chips)    \
+                   "My Chips:          " + str(my_chips) +    \
 #                   "My Total Bet:      " + str(my_stake)    \
 #                   "My Odds:           " + str(my_odds)     \
 #                   "My Hand:           %s\r\n"%("| ".join([c.key for c in my_hand])) + "\r\n" + \
                    "State Score:       " + str(my_score)
            )
     def take_action():
-		pass
+        pass
         
     def reset():
-		pass
+        pass
         # code
 
 def card_obj(cardname):
