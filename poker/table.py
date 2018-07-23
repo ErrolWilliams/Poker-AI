@@ -5,6 +5,7 @@ class Table(object):
 		self.folded = False
 		self.players = dict()
 		self.board = []
+		self.num_raise = 0
 
 	def get_player(self, player_id):
 		if not(player_id in self.players):
