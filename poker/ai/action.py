@@ -12,6 +12,7 @@ class Action(object):
 				"action" : self.action_name
 			}
 		}
+
 	
 	def to_roomai(self):
 		return ""

@@ -1,10 +1,11 @@
 
 class Player(object):
-	def __init__(self, md5):
-		self.playername = md5
+	def __init__(self, playername):
+		self.playername = playername
 
-	def __init__(self):
+	def roomai_update(self, public_data):
 		pass
+
 	def json_update(self, json_obj):
 		self.chips = json_obj["chips"]
 		self.folded = json_obj["folded"]
