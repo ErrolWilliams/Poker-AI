@@ -6,6 +6,7 @@ from random import shuffle as rshuffle
 
 random.seed(time.time())
 
+
 def odds(hand, board, num_players):
     my_hand = [Card.new(hand[0]), Card.new(hand[1])]
     remove_cards = [Card.new(hand[0]), Card.new(hand[1])]

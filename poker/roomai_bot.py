@@ -21,6 +21,7 @@ for _ in range(games)
     score formula: ((pot*odds)-my_stake + (1-odds)*num_player*player_fold
 
 """
+from treys import Card
 import poker.ai
 #----------------------------------------------------------------
 class RoomAIBot(roomai.common.AbstractPlayer):
@@ -61,3 +62,6 @@ class RoomAIBot(roomai.common.AbstractPlayer):
         
     def reset():
         # code
+
+def card_obj(cardname):
+    return Card.new(cardname[0] + cardname[1].lower())
