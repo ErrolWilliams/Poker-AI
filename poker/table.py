@@ -12,6 +12,9 @@ class Table(object):
 
 		return self.players[player_id]
 	
+	def print_state(self):
+		print(f"Chips: {self.chips}")
+		
 	
 	
 	def json_update(self, json_data_obj):

@@ -13,6 +13,10 @@ after it is returned
 
 class Client(object):
 
+	def update_players(self, players_json):
+		for obj in players_json:
+
+
 	def _connect(self, event):
 		obj = {"eventName" : "__join", "data" : {"playerName" : self.playername}}
 		return obj
