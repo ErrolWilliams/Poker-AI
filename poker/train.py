@@ -1,167 +1,131 @@
-import random
-import numpy as np
 import tflearn
+import numpy as np
+import odds as calc
 from tflearn.layers.core import input_data, dropout, fully_connected
 from tflearn.layers.estimator import regression
-from statistics import mean, median
-from collections import Counter
-from copy import deepcopy
-import roomai
-import roomai.common
-import roomai.texas
-from poker.roomai_bot import RoomAIBot
 
-random.seed(14325)
-"""
-class AI1(roomai.common.AbstractPlayer):
-    def recieve_info():
-        #code
-    def take_action():
-        #code
-    def reset():
-        # code
+#------------------------------------------------------------------
 
-class AI2(roomai.common.AbstractPlayer):
-    def recieve_info():
-        #code
-    def take_action():
-        #code
-    def reset():
-        # code
+class BlackPanther():           
+    def receive_info(self, info, public_state):                                      
+       self.avalible_actions = info.person_state.available_actions
+                                             
+       num_player = len (public_state.chips)
+       my_id = info.person_state.id
+       pot = sum (public_state.bets)   # the pot value
+       bets = public_state.bets        # each player's bets
+       chips = public_state.chips      # each player's chips
+       folded = public_state.is_fold   # player's fold status
+       
+       hand = [info.person_state.hand_cards[0].key, \
+               info.person_state.hand_cards[1].key]
+       
+       community = []
+       state = 0
+       if len(public_state.public_cards) == 3:
+           state = 1
+           community = [public_state.public_cards[0].key, \
+                        public_state.public_cards[1].key, \
+                        public_state.public_cards[2].key]
+       elif len(public_state.public_cards) == 4:
+           state = 2
+           community = [public_state.public_cards[0].key, \
+                             public_state.public_cards[1].key, \
+                             public_state.public_cards[2].key, \
+                             public_state.public_cards[3].key]
+       elif len(public_state.public_cards) == 5:
+           state = 3
+           community = [public_state.public_cards[0].key, \
+                        public_state.public_cards[1].key, \
+                        public_state.public_cards[2].key, \
+                        public_state.public_cards[3].key, \
+                        public_state.public_cards[4].key]
+       else:
+           pass
+              
+       my_odds = calc.odds(hand, community, num_player)
+       my_stake = bets[my_id]
+       my_chips = chips[my_id]
+       my_cost = max(bets) - my_stake
 
-"""
-#--------------------------------------------------------------
+       self.my_score = ((pot*my_odds) - my_stake) + 3 * (1 - my_odds) * num_player * (sum(folded))
 
-def show_public(public_state):
-    print ("dealer_id:%d\n"%(public_state.dealer_id) +\
-           "chips:%s\n"%(", ".join([str(i) for i in public_state.chips])) +\
-           "bets:%s\n"%(", ".join([str(i) for i in public_state.bets])) +\
-           "is_folds:%s\n"%(", ".join([str(i) for i in public_state.is_fold])) +\
-           "public_cards:%s\n"%(", ".join([c.key for c in public_state.public_cards]))
-           )
+       bet_percent = []
+       chips_percent = []
+       for i in range(len(chips)):
+           bet_percent.append(bets[i] / chips[i])
+           chips_percent.append(chips[i] / sum(chips))
 
-def save_public(text, public_state):
-    text.write("dealer_id:%d\n"%(public_state.dealer_id) +\
-           "chips:%s\r\n"%(" | ".join([str(i) for i in public_state.chips])) +\
-           "bets:%s\r\n"%(" | ".join([str(i) for i in public_state.bets])) +\
-           "is_folds:%s\r\n"%(" | ".join([str(i) for i in public_state.is_fold])) +\
-           "public_cards:%s\r\n"%(" | ".join([c.key for c in public_state.public_cards]))
-           )
+       self.input_data = np.zeros((10,10), dtype=np.float32)
+            
+       self.input_data[0, 0] = my_odds
+       self.input_data[1, 0] = my_stake / my_chips
+       self.input_data[2, 0] = my_chips / sum(chips)
+       self.input_data[3, 0] = my_cost  / my_chips
+       self.input_data[4, 0] = state
+       self.input_data[5, 0] = pot / my_chips
+       self.input_data[6, 0] = num_player
+       self.input_data[7, :num_player] = bet_percent
+       self.input_data[8, :num_player] = chips_percent
+       self.input_data[9, :num_player] = folded
 
-def show_info(info):
-    person_state = info.person_state
-    print ("%d available_actions: %s"%(person_state.id, ",".join(sorted(person_state.available_actions.keys()))))
-    print ("%d cards:%s"%(person_state.id,",".join([c.key for c in person_state.hand_cards])))
+    def take_action(self):
 
-def save_info(text, info):
-    person_state = info.person_state
-    text.write("Player %d Available Actions: %s"%(person_state.id, "|".join(sorted(person_state.available_actions.keys()))))
-    text.write("\r\n")
-    text.write("Player %d Cards: %s"%(person_state.id," |  ".join([c.key for c in person_state.hand_cards])))
+       #------
+       # Decision Engine HERE
+       #------
+       idx = 1
+       my_action = list(self.avalible_actions.values())[idx]
+       save_data = [self.input_data, my_action.key, self.my_score]
+       #log = open("training_data.txt", "a")
+       #log.write(str(save_data))
+       return save_data, my_action
 
-#----------------------------------------------------------------
+    def reset(self):
+        pass
 
-def new_game():
-    players     = [roomai.common.RandomPlayerChance(), \
-                   roomai.common.RandomPlayerChance(), \
-                   roomai.common.RandomPlayerChance(), \
-                   roomai.common.RandomPlayerChance()]
-    env         = roomai.texas.TexasHoldemEnv()
-    np = len(players)
-    dealer = 0
-    chips = [2000 for i in range(np)]
-    big_blind = 20
-    infos, public_state, person_state, private_state = env.init({"num_normal_players": np, \
-                                                                  "dealer_id": dealer,      \
-                                                                  "chips": chips,           \
-                                                                  "big_blind_bet": big_blind})
-    return players, env, np, infos, public_state, person_state, private_state, big_blind
+#------------------------------------------------------------------
+
+def neural_network_model(input_size):
+    network = input_data(shape = [1, 10, 10, 1], name='input')
+	
+    network = fully_connected(network, 128, activation = 'relu')
+    network = dropout(network, 0.8)
     
-#----------------------------------------------------------------
-    
-def clear_losers(players, ps, big_blind):
+    network = fully_connected(network, 256, activation = 'relu')
+    network = dropout(network, 0.8)
 
-    dealer = ps.dealer_id
-    new_chips = []
-    for i in range(len(ps.chips)-1,-1,-1):
-        if ps.chips[i] >= big_blind:
-            new_chips.insert(0, ps.chips[i])
-        elif i <= dealer:
-            del players[i]
-            dealer -= 1
-        else:
-            del players[i]
-    
-    return players, len(players), dealer, new_chips
-    
-def next_round(env, players, ps, big_blind):
-    print(ps.chips)
-    play_list, np, dealer, new_chips = clear_losers(players, ps, big_blind)
-    print(new_chips)
-    dealer = (dealer + 1)%np
-    if len(new_chips) <= 1:
-        terminal = True
-    else:
-        terminal = False
-    infos, public_state, person_state, private_state = env.init({"num_normal_players": np, \
-                                                                  "dealer_id": dealer,      \
-                                                                  "chips": new_chips,           \
-                                                                  "big_blind_bet": big_blind})
-    return play_list, np, infos, public_state, person_state, private_state, terminal
+    network = fully_connected(network, 512, activation = 'relu')
+    network = dropout(network, 0.8)
 
-def play(file, rounds):
-    text = open(file, "w")                  # Text file to log game
-    num_rounds = rounds                     # number of rounds to play
-    text.write("Rounds: ")
-    text.write(str(rounds))
-    text.write("\r\n\r\n")
-    
-    # Initialize environment
-    players, env, num_players, infos, public_state, person_state, private_state, big_blind = new_game()
-    terminal = False
-    
-    for round_num in range(num_rounds):
-        if (round_num % 10) == 9:
-            big_blind = big_blind * 2   # Double blind every 10 rounds
+    network = fully_connected(network, 256, activation = 'relu')
+    network = dropout(network, 0.8)
 
-        save_public(text, public_state)
-        for i in range(num_players):        # Send each player Public_state and Personal info
-                players[i].receive_info(infos[i])
-                save_info(text, infos[i])
-                text.write("\r\n")
-                
-        # Play till winner
-        while public_state.is_terminal == False:
-            turn = public_state.turn
-            action = players[turn].take_action()
-            text.write("Player %d: (%s)"%(turn,action.key))
-            text.write("\r\n")
-            infos, public_state, person_states, private_state = env.forward(action)
+    network = fully_connected(network, 128, activation = 'relu')
+    network = dropout(network, 0.8)
 
-            save_public(text, public_state)
-            for i in range(num_players):
-                players[i].receive_info(infos[i])
-                save_info(text, infos[i])
-                text.write("\r\n")
-            text.write ("\r\n")
+    network = fully_connected(network, 5, activation = 'softmax')
+    network = dropout(network, 0.8)
 
-        text.write(str(public_state.scores))
+    network = regression(network, optimizer='adam', learning_rate = 1e-3, \
+                         loss = 'categorical_crossentropy', name = 'targets')
+    model = tflearn.DNN(network, tensorboard_dir = 'dir')
 
-        text.write ("\r\n\r\n NEW ROUND \r\n\r\n")
+    return model
 
-        player, num_players, infos, public_state, person_state, private_state, terminal = next_round(env, players, public_state, big_blind)
+def train_model(training_data, model=False):
+        
+    X = np.array([i[0] for i in training_data]).reshape(-1, len(training_data[0][0], 1))
+    Y = np.array([j[1] for j in training_data])
 
-        if terminal:
-            print (round_num)   # End Game if Only 1 Player Remains
-            break
+    if not model:
+        model = neural_network_model(len(X[0]))
+        
+        model.fit({'input': X}, {'targets': Y}, n_epochs = 5, snapshot_step = 500,\
+                  show_metric = True, run_id = 'Texas')
 
-#----------------------------------------------------------------
-if __name__ == "__main__":
-    num_epoch = 1       # Number of Epoch (An Epoch is a single cycle of simulation and learning from the simulations.)
-    num_rounds = 3      # Number of Rounds per epoch
-    for _ in range(num_epoch):
-        play("Data.txt", num_rounds)
-
-def train():
-	print("Training...")
-
+def filter(training_data):
+    score_delta = []
+    index = []
+    for i in range(len(training_data) - 1):
+        score.append(training_data[i+1][3] - training_data[i][3])

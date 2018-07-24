@@ -64,6 +64,7 @@ class RoomAIBot(roomai.common.AbstractPlayer):
         pass
         
     def reset():
+		self.ai = AI()
         pass
         # code
 

@@ -5,6 +5,7 @@ from poker.model import get_action
 import poker.ai.action
 from treys import Card
 from poker.monte import monteCarlo
+import poker.tables as tables
 
 STATS = False
 
@@ -44,7 +45,7 @@ class AI():
 
 
 		if len(board) == 0:
-			monte_odds = 0.75
+			monte_odds = tables.get_chance(self.players_active(), self.player.cards[0], self.player.cards[1])
 		else:
 			monte_odds = monteCarlo(board, hand, self.players_active()-1, 2000.0)
 	

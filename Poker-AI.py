@@ -24,6 +24,7 @@ def start_ai():
 
 if __name__ == "__main__":
 
+
     if "pull-tables" in sys.argv:
         tables.pull()
         print("Done")
