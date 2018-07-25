@@ -9,27 +9,52 @@ import poker.tables as tables
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
+import os
+import sys
 
 STATS = False
+OLD = False
 
 class AI():
 
-	def __init__(self, player_id):
+	def __init__(self):
 		print("placeholder")
 		self.table = Table()
-		self.player_id = player_id
-		self.player = self.table.get_player(self.player_id)
 		self.eps = 0.5
 		self.decay_factor = 0.999
 
-		self.model = keras.Sequential()
-		self.model.add(keras.layers.InputLayer(batch_input_shape=(1,2)))
-		self.model.add(keras.layers.Dense(10, activation='sigmoid'))
-		self.model.add(keras.layers.Dense(len(action.enum), activation='linear'))
-		self.model.compile(loss='mse', optimizer='adam', metrics=['mae'])
-
 		self.last_action = None
 
+	def create_model(self):
+		if self.OLD:
+			return
+		self.model = keras.Sequential()
+		self.model.add(keras.layers.InputLayer(batch_input_shape=(1,2)))
+		self.model.add(keras.layers.Dense(128, input_shape=(2,), activation='sigmoid'))
+		self.model.add(keras.layers.Dense(256, input_shape=(128,), activation='sigmoid'))
+		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='sigmoid'))
+		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='sigmoid'))
+		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='sigmoid'))
+		self.model.add(keras.layers.Dense(len(action.enum), input_shape=(256,), activation='linear'))
+		self.model.compile(loss='mse', optimizer='adam', metrics=['mae'])
+
+	def load_model(self, model_name):
+		model_path = os.path.join(os.path.dirname(sys.argv[0]), "models", model_name)
+		self.model = tf.keras.models.load_model(model_path)
+		self.model.compile(loss='mse', optimizer='adam', metrics=['mae'])
+
+	def save_model(self, model_name):
+		model_path = os.path.join(os.path.dirname(sys.argv[0]), "models", model_name)
+		tf.keras.models.save_model(
+			self.model,
+			model_path,
+			overwrite=True,
+			include_optimizer=False
+        )
+
+	def attach(self, player_id):
+		self.player_id = player_id
+		self.player = self.table.get_player(self.player_id)
 
 	def roomai_update(self, info, public_state):
 		self.table.roomai_update(info, public_state)
@@ -50,16 +75,19 @@ class AI():
 		self.reinforce(0)
 
 	def reinforce(self, qmax):
-		if self.last_action == None:
+		if self.last_action == None or self.OLD:
 			return
+		print("Reinforcing!")
 
 		y = 0.95
 
 		last_reward = self.player.chips - self.last_chips
 		last_reward = last_reward + y * qmax
 		print(self.last_prediction)
-		self.last_prediction[0, self.last_action.index()] = last_reward
+		self.last_prediction[0][self.last_action.index()] = last_reward
+		print(self.last_prediction)
 		self.model.fit(self.last_input, self.last_prediction, epochs=1, verbose=0)
+		self.last_action = None
 
 	def get_odds(self):
 		board = []
@@ -88,6 +116,13 @@ class AI():
 		risk = (1-monte_odds) * self.table.num_raise 
 		return np.array([[round_num, risk]])
 
+	def create_new_input(self):
+		bet_percent = self.player.bet / (self.player.bet + self.player.chips)
+		monte_odds = self.get_odds()
+		players_left = self.players_active()
+		round_num = self.table.round
+		return np.array([[pot_percent, bet_percent, monte_odds, players_left, round_num]])
+		pass
 
 	def request(self):
 		the_input = self.create_input()
@@ -96,9 +131,12 @@ class AI():
 		self.reinforce(np.max(prediction))
 
 		self.eps *= self.decay_factor
+		print(f"EPS: {self.eps}")
 		if np.random.random() < self.eps:
+			print("Taking random action")
 			next_action = action.Action.random()
 		else:
+			print("Taking predicted action")
 			next_action = action.Action.from_index(np.argmax(prediction))
 
 		self.last_input = the_input
@@ -108,7 +146,8 @@ class AI():
 		return next_action
 
 	def request_action(self):
-		return self.request()
+		if not self.OLD:
+			return self.request()
 		monte_odds = self.get_odds()
 		round_num = self.table.round
 
@@ -125,7 +164,7 @@ class AI():
 			else:
 				return action.Fold()
 
-		risk = (1-monte_odds) * self.table.num_raise 
+		risk = (1-monte_odds) * 0.25*self.table.num_raise 
 		model_action = get_action(round_num, risk)
 
 		if model_action == 'bet':
@@ -135,6 +174,8 @@ class AI():
 		elif model_action == 'check':
 			return action.Check()
 		elif model_action == 'fold':
+			if monte_odds > 0.75:
+				return action.Call()
 			return action.Fold()
 		else:
 			return action.Raise()

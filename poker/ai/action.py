@@ -16,6 +16,7 @@ class Action(object):
 		self.action_name = "action goes here"
 
 	def to_json(self):
+		print(f"CONVERTING {self.action_name} TO JSON")
 		return {
 			"eventName" : "__action",
 			"data" : {
@@ -39,6 +40,7 @@ class Bet(Action):
 	def to_json(self):
 		obj = super().to_json()
 		obj["data"]["amount"] = self.amount
+		print(f"BET AMOUNT: {self.amount}")
 		return obj
 
 	def index(self):

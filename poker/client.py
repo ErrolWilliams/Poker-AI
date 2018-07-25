@@ -72,6 +72,9 @@ class Client(object):
 		return None
 
 	def _round_end(self, event):
+		self.update_table(event['data']['table'])
+		self.update_players(event['data']['players'])
+		self.ai.reinforce(0)
 		return None
 
 	def _game_over(self, event):
@@ -85,18 +88,18 @@ class Client(object):
 		print(f"Event {event_name} went unhandled!")
 		return None
 
-	def __init__(self, server, playername):
+	def __init__(self, server, playername, ai):
+		self.ai = ai
 		self.server = server
 		self.playername = playername
 		md5 = hashlib.md5()
 		md5.update(playername.encode('utf8'))
 		md5 = md5.hexdigest()
-		self.ai = AI(md5)
+		self.ai.attach(md5)
 		print("Created player {} (MD5 {})".format(playername, md5))
 
 	def log(self, sender, msg):
 		log_msg = f"[{self.playername}] from {sender} : {msg}\n"
-		print(log_msg)
 		with open("client_log.txt", "a+") as log:
 			fcntl.flock(log, fcntl.LOCK_EX)
 			log.write(log_msg)

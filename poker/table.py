@@ -1,6 +1,7 @@
 from poker.player import Player
 class Table(object):
 	def __init__(self):
+		
 		self.chips = 0
 		self.folded = False
 		self.players = dict()
@@ -22,16 +23,13 @@ class Table(object):
 
 		self.board = [x.key for x in public_state.public_cards]
 		self.round = [0, 3, 4, 5].index(len(self.board))
-
-	
 	
 	def json_update(self, json_data_obj):
-		print('updating table')
 		self.json = json_data_obj
 		self.round_name = self.json['roundName']
 		self.board = self.json['board']
 		self.raise_count = self.json['raiseCount']
 		self.bet_count = self.json['betCount']
 
-		round_names = ["Deal", "Flop", "Turn", "River"]
+		round_names = ["Deal", "Flop", "Turn", "River", "Showdown"]
 		self.round = round_names.index(self.round_name)

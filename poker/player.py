@@ -9,7 +9,6 @@ class Player(object):
 		self.round_bet = public_state.bets[self.playername]
 		if info.person_state.id == self.playername:
 			self.cards = [x.key[0] + x.key[2] for x in info.person_state.hand_cards]
-			print(f"HAND: {self.cards}")
 
 		pass
 
@@ -22,6 +21,5 @@ class Player(object):
 		self.round_bet = json_obj["roundBet"]
 		self.bet = json_obj["bet"]
 		if 'cards' in json_obj:
-			print('updating cards')
 			self.cards = json_obj['cards']
 		
