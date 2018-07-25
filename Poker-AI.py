@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import tensorflow as tf
-tf.enable_eager_execution()
+#tf.enable_eager_execution()
 
 from poker import client
 from poker.model import load
