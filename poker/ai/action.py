@@ -1,7 +1,6 @@
 import json
 import random
 
-enum = [action.Bet(), action.Call(), action.Check(), action.Fold(), action.Raise(), action.AllIn()]
 
 class Action(object):
 
@@ -33,10 +32,7 @@ class Action(object):
 
 class Bet(Action):
 
-	def __init__(self):
-		self.action_name = "bet"
-
-	def __init__(self, amount):
+	def __init__(self, amount=0):
 		self.amount = amount
 		self.action_name = "bet"
 
@@ -88,4 +84,5 @@ class AllIn(Action):
 		return 5
 
 
+enum = [Bet(), Call(), Check(), Fold(), Raise(), AllIn()]
 
