@@ -1,6 +1,17 @@
 import json
+import random
+
+enum = [action.Bet(), action.Call(), action.Check(), action.Fold(), action.Raise(), action.AllIn()]
 
 class Action(object):
+
+	@staticmethod
+	def from_index(index):
+		return enum[index]
+
+	@staticmethod
+	def random():
+		return random.choice(enum)
 
 	def __init__(self):
 		self.action_name = "action goes here"
@@ -17,6 +28,9 @@ class Action(object):
 	def to_roomai(self):
 		return ""
 
+	def index(self):
+		return -1
+
 class Bet(Action):
 
 	def __init__(self):
@@ -31,24 +45,47 @@ class Bet(Action):
 		obj["data"]["amount"] = self.amount
 		return obj
 
+	def index(self):
+		return 0
+
 class Call(Action):
 	def __init__(self):
 		self.action_name = "call"
+
+	def index(self):
+		return 1
+
 
 class Check(Action):
 	def __init__(self):
 		self.action_name = "check"
 
+	def index(self):
+		return 2
+
+
 class Fold(Action):
 	def __init__(self):
 		self.action_name = "fold"
+
+	def index(self):
+		return 3
+
 
 class Raise(Action):
 	def __init__(self):
 		self.action_name = "raise"
 
+	def index(self):
+		return 4
+
+
 class AllIn(Action):
 	def __init__(self):
 		self.action_name = "allin"
+
+	def index(self):
+		return 5
+
 
 

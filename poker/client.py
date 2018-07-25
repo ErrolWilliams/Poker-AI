@@ -3,6 +3,7 @@ from poker.ai import AI
 import asyncio
 import json
 import hashlib
+import fcntl
 
 '''
 Handle server events using the AI member functions below. The 'event' parameter is
@@ -31,10 +32,13 @@ class Client(object):
 		return None
 
 	def _left(self, event):
-		for player in self.table.players:
-			if not player.playername in event['data']:
-				del self.table[player.playername]
-				print(f"deleted {player.playername}")
+		new = {}
+		for player in self.ai.table.players:
+			if player in event['data']:
+				new[player] = self.ai.table.players[player]
+			else:
+				print(f"Deleted {player}")
+		self.ai.table.players = new
 
 	def _new_peer(self, event):
 		for player_name in event['data']:
@@ -91,10 +95,12 @@ class Client(object):
 		print("Created player {} (MD5 {})".format(playername, md5))
 
 	def log(self, sender, msg):
-		log_msg = sender + ": " + msg + "\n"
+		log_msg = f"[{self.playername}] from {sender} : {msg}\n"
 		print(log_msg)
-		with open(self.playername + "_log.txt", "a+") as log:
+		with open("client_log.txt", "a+") as log:
+			fcntl.flock(log, fcntl.LOCK_EX)
 			log.write(log_msg)
+			fcntl.flock(log, fcntl.LOCK_UN)
 
 
 	async def main_loop(self):
