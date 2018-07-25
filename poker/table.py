@@ -16,6 +16,13 @@ class Table(object):
 	def print_state(self):
 		print(f"Chips: {self.chips}")
 		
+	def roomai_update(self, info, public_state):
+		for i in range(len(public_state.chips)):
+			self.get_player(i).roomai_update(info, public_state)
+
+		self.board = [x.key for x in public_state.public_cards]
+		self.round = [0, 3, 4, 5].index(len(self.board))
+
 	
 	
 	def json_update(self, json_data_obj):

@@ -2,6 +2,7 @@
 
 import tensorflow as tf
 tf.enable_eager_execution()
+
 from poker import client
 from poker.model import load
 import argparse
@@ -12,9 +13,9 @@ import poker.train
 import poker
 
 
-SERVER='ws://poker-dev.wrs.club:3001'
+TEST_SERVER='ws://poker-dev.wrs.club:3001'
+SERVER='ws://atxholdem2.tplab.tippingpoint.com:3001' 
 
-#SERVER='ws://atxholdem2.tplab.tippingpoint.com:3001'
 PLAYERNAME = '9679095d66'
 MODELNAME = 'basicPlayer'
 
@@ -37,10 +38,14 @@ if __name__ == "__main__":
     parser.add_argument('-m', '--model', help='Model name for neural net', required=False, default=MODELNAME) 
     parser.add_argument('-p', '--player_name', help='Bot player name', required=False, default=PLAYERNAME) 
     parser.add_argument('-s', '--stats', help='Bot player name', action='store_true', required=False) 
+    parser.add_argument('-t', '--test', help='Use test server', action='store_true', required=False)
 
     args = parser.parse_args()
 
     poker.ai.STATS = args.stats
+
+    if args.test:
+        SERVER = TEST_SERVER
 
     MODELNAME = args.model
     PLAYERNAME = args.player_name
