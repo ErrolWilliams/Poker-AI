@@ -1,6 +1,7 @@
 import roomai
 from roomai import common, texas
 from poker.roomai_bot import BlackPanther
+import poker.ai
 
 #----------------------------------------------------------
 
@@ -12,8 +13,10 @@ from poker.roomai_bot import BlackPanther
 
 #--------------------------------------------------------------
 
-def new_game():
-    players     = [BlackPanther(), BlackPanther()]
+def new_game(ai):
+    ai2 = poker.ai.AI()
+    ai2.create_model()
+    players     = [BlackPanther(ai), BlackPanther(ai2)]
     env         = roomai.texas.TexasHoldemEnv()
     np          = len(players)
     dealer      = 0
@@ -58,8 +61,8 @@ def next_round(env, players, ps, big_blind):
 
 #------------------------------------------------------------------
 
-def play(rounds, training):
-    players, env, num_players, infos, public_state, person_state, private_state, big_blind = new_game()
+def play(rounds, training, ai):
+    players, env, num_players, infos, public_state, person_state, private_state, big_blind = new_game(ai)
     terminal = False
     
     for round_num in range(rounds):
@@ -87,7 +90,7 @@ def play(rounds, training):
             break
 
 #----------------------------------------------------------------
-def train():
+def train(ai):
     num_epoch   = 1     # Number of Epoch (An Epoch is a single cycle of simulation and learning from the simulations.)
     num_rounds  = 1     # Number of Rounds per epoch
     num_play    = 2
@@ -100,7 +103,7 @@ def train():
     for _ in range(num_epoch):
         for i in range(num_play):
             round_data.append([])
-        play(num_rounds, round_data)
+        play(num_rounds, round_data, ai)
         from copy import deepcopy
         training_data.append(deepcopy(round_data))
 
