@@ -1,7 +1,7 @@
+import poker
 from poker.table import Table
 from poker.player import Player
 from poker.odds import odds
-from poker.model import get_action
 from poker.ai import action
 from treys import Card
 from poker.monte import monteCarlo
@@ -12,25 +12,167 @@ from tensorflow import keras
 import os
 import sys
 
-STATS = False
-OLD = False
 
 class AI():
 
 	def __init__(self):
-		print("placeholder")
 		self.table = Table()
+
+	def attach(self, player_id):
+		self.player_id = player_id
+		self.player = self.table.get_player(self.player_id)
+
+	def roomai_update(self, info, public_state):
+		self.table.roomai_update(info, public_state)
+
+	def players_active(self):
+		num_active = 0
+		for playername in self.table.players:
+			player = self.table.players[playername]
+			if not player.folded:
+				num_active += 1
+
+		return num_active
+
+	def treys_str(self, card_str):
+		return card_str[0].upper() + card_str[1].lower()
+	
+	def card_obj(self, card_str):
+		return Card.new(card_str[0].upper() + card_str[1].lower())
+
+	def round_end(self):
+		pass
+
+	def get_odds_2(self):
+		sys.stdout = open(os.devnull, 'w')
+		board = [self.treys_str(x) for x in self.table.board]
+		hand = [self.treys_str(x) for x in self.player.cards]
+
+		if len(board) == 0:
+			monte_odds = tables.get_chance(self.players_active(), self.player.cards[0], self.player.cards[1])
+		else:
+			monte_odds = odds(hand, board, self.players_active())
+
+		sys.stdout = sys.__stdout__
+
+		print(f"Used get_odds_2, result {monte_odds}")
+
+		return monte_odds
+
+	def get_odds(self):
+		if self.version == 1:
+			return self.get_odds_2()
+		board = []
+		hand = []
+
+		for card_str in self.table.board:
+			board.append(self.card_obj(card_str))
+
+		for card_str in self.player.cards:
+			hand.append(self.card_obj(card_str))
+
+		if len(board) == 0:
+			monte_odds = tables.get_chance(self.players_active(), self.player.cards[0], self.player.cards[1])
+		else:
+			monte_odds = monteCarlo(board, hand, self.players_active()-1, 2000.0)
+
+		return monte_odds
+
+	def request_bet(self):
+		the_action = self.request()
+		if the_action.action_name == "check":
+			print("CHANAGING CHECK TO FOLD!!!!!!!!!!!! THIS IS SO IMPORTANT")
+			return action.Fold()
+		return the_action
+
+	def get_player(self, player_id):
+		return self.table.get_player(player_id)
+
+class OldBot(AI):
+
+	def __init__(self, model_name="basicPlayer1", version=0):
+		super().__init__()
+		self.version = version
+		poker.model.load(model_name)
+
+	def create_input_1(self):
+		print("Generating V1 inputs")
+		monte_odds = self.get_odds()
+		my_stake = self.player.bet / (self.player.chips + self.player.bet)
+		my_chips = self.player.chips / self.table.total_chips()
+		my_cost = (max([self.table.players[p].bet for p in self.table.players]) - self.player.bet)/(self.player.chips + self.player.bet)
+		state = self.table.round
+		pot_percent = self.table.pot()/self.table.total_chips()
+		num_players = self.players_active()
+
+
+		r = np.array([[monte_odds, my_stake, my_chips, my_cost, state, pot_percent, num_players]])
+		print(r)
+		return r
+
+	def create_input(self):
+		if self.version == 1:
+			return self.create_input_1()
+		print("Generating V0 inputs")
+
+		monte_odds = self.get_odds()
+		round_num = self.table.round
+		risk = (1-monte_odds) * self.table.num_raise 
+		return np.array([[round_num, risk]])
+
+	def request(self):
+
+		model_action = poker.model.get_action(self.create_input())
+		monte_odds = self.get_odds()
+
+		if model_action == 'bet':
+			return action.Bet(int(self.player.chips*0.15))
+		elif model_action == 'call':
+			return action.Call()
+		elif model_action == 'check':
+			return action.Check()
+		elif model_action == 'fold':
+			if monte_odds > 0.75:
+				return action.Call()
+			return action.Fold()
+		else:
+			return action.Raise()
+	
+
+
+class StatBot(AI):
+	def __init__(self):
+		super().__init__()
+
+	def request(self):
+		monte_odds = self.get_odds()
+		round_num = self.table.round
+		print("Using stats!")
+		if monte_odds > 0.95:
+			return action.Bet(int(self.player.chips*0.5))
+		elif monte_odds > 0.75:
+			return action.Bet(int(self.player.chips*0.2))
+		elif monte_odds > 0.60:
+			return action.Call()
+		elif monte_odds > 0.50 or round_num == 0:
+			return action.Check()
+		else:
+			return action.Fold()
+
+
+
+class QBot(AI):
+	def __init__(self):
+		super().__init__()
 		self.eps = 0.5
 		self.decay_factor = 0.999
-
 		self.last_action = None
 
 	def create_model(self):
-		if self.OLD:
-			return
 		self.model = keras.Sequential()
-		self.model.add(keras.layers.InputLayer(batch_input_shape=(1,2)))
-		self.model.add(keras.layers.Dense(128, input_shape=(2,), activation='sigmoid'))
+		self.model.add(keras.layers.InputLayer(batch_input_shape=(1,7)))
+		
+		self.model.add(keras.layers.Dense(128, input_shape=(7,), activation='sigmoid'))
 		self.model.add(keras.layers.Dense(256, input_shape=(128,), activation='sigmoid'))
 		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='sigmoid'))
 		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='sigmoid'))
@@ -52,80 +194,39 @@ class AI():
 			include_optimizer=False
         )
 
-	def attach(self, player_id):
-		self.player_id = player_id
-		self.player = self.table.get_player(self.player_id)
-
-	def roomai_update(self, info, public_state):
-		self.table.roomai_update(info, public_state)
-
-	def players_active(self):
-		num_active = 0
-		for playername in self.table.players:
-			player = self.table.players[playername]
-			if not player.folded:
-				num_active += 1
-
-		return num_active
-	
-	def card_obj(self, card_str):
-		return Card.new(card_str[0].upper() + card_str[1].lower())
-		
-	def reinforce(self):
+	def round_end(self):
 		self.reinforce(0)
 
 	def reinforce(self, qmax):
-		if self.last_action == None or self.OLD:
+		if self.last_action == None:
 			return
 		print("Reinforcing!")
 
 		y = 0.95
 
 		last_reward = self.player.chips - self.last_chips
-		last_reward = last_reward + y * qmax
-		print(self.last_prediction)
-		self.last_prediction[0][self.last_action.index()] = last_reward
-		print(self.last_prediction)
+		last_reward_mod = last_reward + y * qmax
+
+		print("Action {} resulted in reward of {}... That's {}!. Reinforcing from {} to {}".format(self.last_action.action_name, last_reward, 'good' if last_reward > 0 else ('bad' if last_reward < 0 else 'very interesting'), self.last_prediction[0][self.last_action.index()], last_reward_mod))
+
+		self.last_prediction[0][self.last_action.index()] = last_reward_mod
 		self.model.fit(self.last_input, self.last_prediction, epochs=1, verbose=0)
+
+
 		self.last_action = None
 
-	def get_odds(self):
-		board = []
-		hand = []
-
-		for card_str in self.table.board:
-			board.append(self.card_obj(card_str))
-
-		for card_str in self.player.cards:
-			hand.append(self.card_obj(card_str))
-
-		print(f"HAND2: {self.player.cards} HAND3: {hand}")
-
-
-		if len(board) == 0:
-			monte_odds = tables.get_chance(self.players_active(), self.player.cards[0], self.player.cards[1])
-		else:
-			monte_odds = monteCarlo(board, hand, self.players_active()-1, 2000.0)
-
-		return monte_odds
-	
-	
-	def create_input(self):
+	def create_input_q(self):
 		monte_odds = self.get_odds()
 		round_num = self.table.round
-		risk = (1-monte_odds) * self.table.num_raise 
-		return np.array([[round_num, risk]])
-
-	def create_new_input(self):
-		bet_percent = self.player.bet / (self.player.bet + self.player.chips)
-		monte_odds = self.get_odds()
-		players_left = self.players_active()
-		round_num = self.table.round
-		return np.array([[pot_percent, bet_percent, monte_odds, players_left, round_num]])
-		pass
+		raised = self.table.num_raise
+		total_chips = float(self.table.total_chips())
+		chips_percent = self.player.chips/total_chips
+		pot_percent = self.table.pot()/total_chips
+		num_players = self.players_active()
+		return np.array([[monte_odds, round_num, raised, chips_percent, pot_percent, total_chips, num_players]])
 
 	def request(self):
-		the_input = self.create_input()
+		the_input = self.create_input_q()
 		prediction = self.model.predict(the_input)
 
 		self.reinforce(np.max(prediction))
@@ -144,47 +245,6 @@ class AI():
 		self.last_action = next_action
 		self.last_chips = self.player.chips
 		return next_action
-
-	def request_action(self):
-		if not self.OLD:
-			return self.request()
-		monte_odds = self.get_odds()
-		round_num = self.table.round
-
-		if STATS:
-			print("Using stats!")
-			if monte_odds > 0.95:
-				return action.Bet(int(self.player.chips*0.5))
-			elif monte_odds > 0.75:
-				return action.Bet(int(self.player.chips*0.2))
-			elif monte_odds > 0.50:
-				return action.Check()
-			elif monte_odds > 0.25:
-				return action.Call()
-			else:
-				return action.Fold()
-
-		risk = (1-monte_odds) * 0.25*self.table.num_raise 
-		model_action = get_action(round_num, risk)
-
-		if model_action == 'bet':
-			return action.Bet(int(self.player.chips*0.15))
-		elif model_action == 'call':
-			return action.Call()
-		elif model_action == 'check':
-			return action.Check()
-		elif model_action == 'fold':
-			if monte_odds > 0.75:
-				return action.Call()
-			return action.Fold()
-		else:
-			return action.Raise()
-	
-	def request_bet(self):
-		return self.request_action()
-
-	def get_player(self, player_id):
-		return self.table.get_player(player_id)
 
 
 

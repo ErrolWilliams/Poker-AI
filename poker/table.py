@@ -6,7 +6,19 @@ class Table(object):
 		self.folded = False
 		self.players = dict()
 		self.board = []
-		self.num_raise = 0
+		self.bet_count = 0
+		self.raise_count = 0
+
+	@property
+	def num_raise(self):
+		return self.bet_count + self.raise_count
+
+	def total_chips(self):
+		return sum([self.players[p].chips + self.players[p].bet for p in self.players])
+
+	def pot(self):
+		return sum([self.players[p].bet for p in self.players])
+
 
 	def get_player(self, player_id):
 		if not(player_id in self.players):

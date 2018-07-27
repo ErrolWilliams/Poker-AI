@@ -8,16 +8,19 @@ from poker.ai import AI
 #------------------------------------------------------------------
 
 class BlackPanther():           
-    def __init__(self):
-       self.ai = None
+    def __init__(self, ai):
+       self.ai = ai
+       self.attached = False
+	  
     def receive_info(self, info, public_state):                                      
        
-       if self.ai == None:
-           self.ai = AI(info.person_state.id)
+       if not self.attached:
+           self.ai.attach(info.person_state.id)
 
        self.ai.roomai_update(info, public_state)
 
        self.avalible_actions = info.person_state.available_actions
+       print(f'AVAILABLE ACTIONS {info.person_state.available_actions}')
                                              
        my_id = info.person_state.id
        num_player = len (public_state.chips)
@@ -86,14 +89,14 @@ class BlackPanther():
        #------
        idx = 1
        my_action = list(self.avalible_actions.values())[idx]
-#my_action = self.ai.request_action().to_roomai()
+# my_action = self.ai.request_action().to_roomai()
        save_data = [self.input_data, my_action.key, self.my_score]
        #log = open("training_data.txt", "a")
        #log.write(str(save_data))
        return save_data, my_action
 
     def reset(self):
-       self.ai = None
+       self.ai.new_round()
 
 #------------------------------------------------------------------
 

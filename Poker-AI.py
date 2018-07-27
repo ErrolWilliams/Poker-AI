@@ -1,25 +1,28 @@
 #!/usr/bin/python3
 
 import tensorflow as tf
-tf.enable_eager_execution()
+import sys
+
+if '-o' in sys.argv:
+	print("Eager mode!")
+	tf.enable_eager_execution()
 
 from poker import client
 from poker.model import load
 import argparse
 import poker.tables as tables
 from poker.tables import *
-import sys
 import poker.train
 import poker
 import signal
+from poker.ai import AI, OldBot, StatBot, QBot
 
 
 TEST_SERVER='ws://poker-dev.wrs.club:3001'
 SERVER='ws://atxholdem2.tplab.tippingpoint.com:3001' 
 
 PLAYERNAME = '9679095d66'
-MODELNAME = 'basicPlayer'
-
+DEFAULT_MODEL = 'basicPlayer1'
 
 if __name__ == "__main__":
 
@@ -32,28 +35,37 @@ if __name__ == "__main__":
 		exit()
 
 	parser = argparse.ArgumentParser(description='Launches AI poker player')
-	parser.add_argument('-m', '--model', help='Model name for neural net', required=False, default=MODELNAME) 
+	parser.add_argument('-m', '--model', help='Model name for neural net', required=False, default=DEFAULT_MODEL) 
 	parser.add_argument('-p', '--player_name', help='Bot player name', required=False, default=PLAYERNAME) 
 	parser.add_argument('--stats', '--stats', help='Bot player name', action='store_true', required=False) 
 	parser.add_argument('-t', '--test', help='Use test server', action='store_true', required=False)
 	parser.add_argument('-l', '--load', help='Load model', required=False, default=None)
 	parser.add_argument('-s', '--save', help='Save model', required=False, default=None)
 	parser.add_argument('-o', '--old', help='Old models', required=False, action='store_true')
-	
+	parser.add_argument('-r', '--roomai', help='Use RoomAI', required=False, action='store_true')
+	parser.add_argument('-v', '--version', help='Model Version', type=int, required=False, default=0)
 
 	args = parser.parse_args()
 
-	
+	ai = None
 
-	ai = poker.ai.AI()
-
-	ai.OLD = args.old
-
-	if args.load != None:
-		ai.load_model(args.load)
+	if args.old:
+		ai = OldBot(args.model, args.version)
+		print(f"Creating OldBot with model {args.model}")
+	elif args.stats:
+		ai = StatBot()
+		print("Creating StatBot")
 	else:
-		ai.create_model()
+		ai = QBot()
+		print("Creating QBot")
+		if args.load != None:
+			ai.load_model(args.load)
+		else:
+			ai.create_model()
 
+	server = TEST_SERVER if args.test else SERVER
+	playername = args.player_name
+	
 	def exit_gracefully(signum, frame):
 		print("Exiting Gracefully!")
 		if args.save != None:
@@ -63,17 +75,9 @@ if __name__ == "__main__":
 
 	signal.signal(signal.SIGINT, exit_gracefully)
 	signal.signal(signal.SIGTERM, exit_gracefully)
-	
-	poker.ai.STATS = args.stats
 
-	if args.test:
-		SERVER = TEST_SERVER
-
-	MODELNAME = args.model
-	PLAYERNAME = args.player_name
-
-	print(MODELNAME)
-	load(MODELNAME)
-	
-	cli = client.Client(SERVER, PLAYERNAME, ai)
-	cli.run()
+	if args.roomai:
+		poker.train.train(ai)
+	else:
+		cli = client.Client(server, playername, ai)
+		cli.run()

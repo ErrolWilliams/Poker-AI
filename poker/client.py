@@ -52,29 +52,28 @@ class Client(object):
 		}
 
 	def _deal(self, event):
-		self.ai.table.num_raise = 0
+		self.update_table(event['data']['table'])
+		self.update_players(event['data']['players'])
 #	update_players(self, event['data']['players'])
 		return None
 
 	def _action(self, event):
 		self.update_table(event['data']['game'])
 		self.update_players(event['data']['game']['players'])
-		return self.ai.request_action().to_json()
+		return self.ai.request().to_json()
 
 	def _bet(self, event):
 		return self.ai.request_bet().to_json()
 
 	def _show_action(self, event):
-		action = event['data']['action']['action']
-		if action == 'raise' or action == 'bet':
-			self.ai.table.num_raise += 1
-# update stuff
+		self.update_table(event['data']['table'])
+		self.update_players(event['data']['players'])
 		return None
 
 	def _round_end(self, event):
 		self.update_table(event['data']['table'])
 		self.update_players(event['data']['players'])
-		self.ai.reinforce(0)
+		self.ai.round_end()
 		return None
 
 	def _game_over(self, event):
@@ -107,6 +106,7 @@ class Client(object):
 
 
 	async def main_loop(self):
+		print(self.server)
 		async with websockets.connect(self.server) as sock:
 			server_msg = '{"eventName" : "__connect"}'
 			while(True):
@@ -114,6 +114,7 @@ class Client(object):
 
 				if client_response != None:
 					client_response_txt = json.dumps(client_response)
+					print(client_response_txt)
 					self.log("Client", client_response_txt)
 					await sock.send(client_response_txt)
 

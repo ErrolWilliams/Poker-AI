@@ -6,16 +6,15 @@ from random import shuffle as rshuffle
 
 random.seed(time.time())
 
-
 def odds(hand, board, num_players):
-    my_hand = hand
-    print("HAND: " + str(my_hand))
-    remove_cards = hand
+    my_hand = [Card.new(hand[0]), Card.new(hand[1])]
+    remove_cards = [Card.new(hand[0]), Card.new(hand[1])]
 
-    my_board = board
+    my_board = []
     
     for i in range(len(board)):
-        remove_cards.append(board[i])
+        my_board.append(Card.new(board[i]))
+        remove_cards.append(Card.new(board[i]))
 
     my_deck = Deck()
     
@@ -26,7 +25,7 @@ def odds(hand, board, num_players):
     evaluator = Evaluator()
 
     count = 0;
-    for b in range(2000):
+    for b in range(1000):
         deck = Deck()
         cards = my_deck.cards.copy()
         rshuffle(cards)
@@ -40,18 +39,17 @@ def odds(hand, board, num_players):
         while len(board) < 5:
             board.append(deck.draw(1))
 
-        print(f"BOARD: {board}\nPLAYERS: {players}")
-
         if evaluator.hand_summary(board, players) == 0:
             count += 1
         
-    return count/2000.0
+    return count/1000
 
 #-------------------------------------------------------------
-if __name__ == "__main__":
-    start = time.time()
+'''
+start = time.time()
 
-    chance = odds(['As', 'Ad'], [], 10)
-    end = time.time()
-    print (end-start)
-    print("Pre-Flop Ace: " + str(chance))
+chance = odds(['As', 'Ad'], [], 10)
+end = time.time()
+print (end-start)
+print("Pre-Flop Ace: " + str(chance))
+'''
