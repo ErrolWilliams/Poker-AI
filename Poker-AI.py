@@ -15,11 +15,11 @@ from poker.tables import *
 import poker.train
 import poker
 import signal
-from poker.ai import AI, OldBot, StatBot, QBot
+from poker.ai import AI, OldBot, StatBot, QBot, UserBot
 
 
 TEST_SERVER='ws://poker-dev.wrs.club:3001'
-SERVER='ws://atxholdem2.tplab.tippingpoint.com:3001' 
+SERVER='ws://atxholdem.tplab.tippingpoint.com:3001' 
 
 PLAYERNAME = '9679095d66'
 DEFAULT_MODEL = 'basicPlayer1'
@@ -44,6 +44,7 @@ if __name__ == "__main__":
 	parser.add_argument('-o', '--old', help='Old models', required=False, action='store_true')
 	parser.add_argument('-r', '--roomai', help='Use RoomAI', required=False, action='store_true')
 	parser.add_argument('-v', '--version', help='Model Version', type=int, required=False, default=0)
+	parser.add_argument('-u', '--user', help='Use user input', required=False, action='store_true')
 
 	args = parser.parse_args()
 
@@ -55,6 +56,8 @@ if __name__ == "__main__":
 	elif args.stats:
 		ai = StatBot()
 		print("Creating StatBot")
+	elif args.user:
+		ai = UserBot()
 	else:
 		ai = QBot()
 		print("Creating QBot")
