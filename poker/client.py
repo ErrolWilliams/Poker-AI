@@ -26,6 +26,12 @@ class Client(object):
 		obj = {"eventName" : "__join", "data" : {"playerName" : self.playername}}
 		return obj
 
+	def _game_prepare(self, event):
+		countdown = event['data']['countDown']
+		if countdown == 5:
+			print("Game starting in")
+		print(countdown)
+
 	def _new_round(self, event):
 		
 #update_players(self, event['data']['players'])

@@ -16,7 +16,8 @@ import poker.ai
 def new_game(ai):
     ai2 = poker.ai.QBot()
     ai2.create_model()
-    players     = [BlackPanther(ai), BlackPanther(ai2)]
+    ai3 = poker.ai.StatBot()
+    players     = [BlackPanther(ai), BlackPanther(ai2), BlackPanther(ai3)]
     env         = roomai.texas.TexasHoldemEnv()
     np          = len(players)
     dealer      = 0
@@ -94,7 +95,7 @@ def play(rounds, training, ai):
 
 #----------------------------------------------------------------
 def train(ai):
-    num_epoch   = 1     # Number of Epoch (An Epoch is a single cycle of simulation and learning from the simulations.)
+    num_epoch   = 3     # Number of Epoch (An Epoch is a single cycle of simulation and learning from the simulations.)
     num_rounds  = 1     # Number of Rounds per epoch
     num_play    = 2
     
