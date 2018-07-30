@@ -69,18 +69,19 @@ if __name__ == "__main__":
 	server = TEST_SERVER if args.test else SERVER
 	playername = args.player_name
 	
-	def exit_gracefully(signum, frame):
+	def exit_gracefully():
 		print("Exiting Gracefully!")
 		if args.save != None:
 			ai.save_model(args.save)
 			print(f"Saved model to {args.save}")
 		exit()
 
-	signal.signal(signal.SIGINT, exit_gracefully)
-	signal.signal(signal.SIGTERM, exit_gracefully)
+	signal.signal(signal.SIGINT, lambda signum, frame: exit_gracefully())
+	signal.signal(signal.SIGTERM, lambda signum, frame: exit_gracefully())
 
 	if args.roomai:
 		poker.train.train(ai)
+		exit_gracefully()
 	else:
 		cli = client.Client(server, playername, ai)
 		cli.run()
