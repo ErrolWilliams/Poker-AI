@@ -4,6 +4,7 @@ import poker.odds as calc
 from tflearn.layers.core import input_data, dropout, fully_connected
 from tflearn.layers.estimator import regression
 from poker.ai import AI
+from roomai.texas.TexasHoldemAction import AllTexasActions
 
 #------------------------------------------------------------------
 
@@ -11,16 +12,16 @@ class BlackPanther():
     def __init__(self, ai):
        self.ai = ai
        self.attached = False
-	  
+
     def receive_info(self, info, public_state):                                      
        
        if not self.attached:
            self.ai.attach(info.person_state.id)
+           self.attached = True
 
-       self.ai.roomai_update(info, public_state)
+       self.update_ai(info, public_state)
 
        self.avalible_actions = info.person_state.available_actions
-       print(f'AVAILABLE ACTIONS {info.person_state.available_actions}')
                                              
        my_id = info.person_state.id
        num_player = len (public_state.chips)
@@ -58,7 +59,7 @@ class BlackPanther():
 #my_odds = calc.odds(hand, community, num_player)
        my_odds = 0.3
        my_stake = bets[my_id]
-       my_chips = chips[my_id]
+       my_chips = chips[my_id] or 1
        my_cost = max(bets) - my_stake
 
        self.my_score = ((pot*my_odds) - my_stake) + 3 * (1 - my_odds) * num_player * (sum(folded))
@@ -66,7 +67,7 @@ class BlackPanther():
        bet_percent = []
        chips_percent = []
        for i in range(len(chips)):
-           bet_percent.append(bets[i] / chips[i])
+           bet_percent.append(bets[i] / (chips[i] or 1)) #TODO Bring up to Justin!!!
            chips_percent.append(chips[i] / sum(chips))
 
        self.input_data = np.zeros((10,10), dtype=np.float32)
@@ -82,14 +83,32 @@ class BlackPanther():
        self.input_data[8, :num_player] = chips_percent
        self.input_data[9, :num_player] = folded
 
+    def update_ai(self, info, public_state):
+       self.ai.table.roomai_update(info, public_state)
+
     def take_action(self):
+       
+       print('\n')
+       print('\n')
+       print(f'ALL ACTIONS {AllTexasActions}')
+       print('\n')
+       print('\n')
+       print(f'AVAILABLE ACTIONS {self.avalible_actions}')
+       print('\n')
+       print('\n')
+       print(f'ARE EQUAL? {AllTexasActions == self.avalible_actions}')
 
        #------
        # Decision Engine HERE
        #------
-       idx = 1
-       my_action = list(self.avalible_actions.values())[idx]
-# my_action = self.ai.request_action().to_roomai()
+       if False:
+           idx = 1
+           my_action = list(self.avalible_actions.values())[idx]
+           print(f"!!!! {len(self.avalible_actions)} !!!")
+       else:
+           my_action = self.ai.request()
+           print(my_action)
+           my_action = my_action.to_roomai(self.avalible_actions)
        save_data = [self.input_data, my_action.key, self.my_score]
        #log = open("training_data.txt", "a")
        #log.write(str(save_data))
@@ -98,11 +117,14 @@ class BlackPanther():
     def reset(self):
        self.ai.new_round()
 
+    def round_end(self, info, public_state):
+       self.update_ai(info, public_state)
+       self.ai.round_end()
 #------------------------------------------------------------------
 
 def neural_network_model(input_size):
     network = input_data(shape = [1, 10, 10, 1], name='input')
-	
+
     network = fully_connected(network, 128, activation = 'relu')
     network = dropout(network, 0.8)
     

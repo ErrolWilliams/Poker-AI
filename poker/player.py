@@ -6,7 +6,7 @@ class Player(object):
 
 	def roomai_update(self, info, public_state):
 		self.chips = public_state.chips[self.playername]
-		self.round_bet = public_state.bets[self.playername]
+		self.bet = public_state.bets[self.playername]
 		if info.person_state.id == self.playername:
 			self.cards = [x.key[0] + x.key[2] for x in info.person_state.hand_cards]
 

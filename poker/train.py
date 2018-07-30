@@ -14,7 +14,7 @@ import poker.ai
 #--------------------------------------------------------------
 
 def new_game(ai):
-    ai2 = poker.ai.AI()
+    ai2 = poker.ai.QBot()
     ai2.create_model()
     players     = [BlackPanther(ai), BlackPanther(ai2)]
     env         = roomai.texas.TexasHoldemEnv()
@@ -85,6 +85,9 @@ def play(rounds, training, ai):
                 players[i].receive_info(infos[i], public_state)
 
         player, num_players, infos, public_state, person_state, private_state, terminal = next_round(env, players, public_state, big_blind)
+
+        for i in range(num_players):
+            players[i].round_end(infos[i], public_state)
 
         if terminal:
             break
