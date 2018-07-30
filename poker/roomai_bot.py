@@ -108,7 +108,8 @@ class BlackPanther():
        else:
            my_action = self.ai.request()
            print(my_action)
-           my_action = my_action.to_roomai(self.avalible_actions)
+           print(self.ai.player.chips)
+           my_action = my_action.to_roomai(self.ai, self.avalible_actions)
        save_data = [self.input_data, my_action.key, self.my_score]
        #log = open("training_data.txt", "a")
        #log.write(str(save_data))

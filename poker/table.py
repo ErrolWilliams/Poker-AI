@@ -8,6 +8,7 @@ class Table(object):
 		self.board = []
 		self.bet_count = 0
 		self.raise_count = 0
+		self.round = -1
 
 	@property
 	def num_raise(self):

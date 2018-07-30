@@ -80,7 +80,7 @@ class AI():
 
 	def request_bet(self):
 		the_action = self.request()
-		if the_action.action_name == "check":
+		if the_action.action_name == "checkssda":
 			print("CHANAGING CHECK TO FOLD!!!!!!!!!!!! THIS IS SO IMPORTANT")
 			return action.Fold()
 		return the_action
@@ -124,6 +124,7 @@ class OldBot(AI):
 
 		model_action = poker.model.get_action(self.create_input())
 		monte_odds = self.get_odds()
+		print(f"monte_odds={monte_odds} round={self.table.round}")
 
 		if model_action == 'bet':
 			return action.Bet(int(self.player.chips*0.15))
@@ -132,7 +133,7 @@ class OldBot(AI):
 		elif model_action == 'check':
 			return action.Check()
 		elif model_action == 'fold':
-			if monte_odds > 0.75:
+			if monte_odds > 0.3:
 				return action.Call()
 			return action.Fold()
 		else:
@@ -161,6 +162,7 @@ class UserBot(AI):
 class StatBot(AI):
 	def __init__(self):
 		super().__init__()
+		self.version = 0
 
 	def request(self):
 		monte_odds = self.get_odds()

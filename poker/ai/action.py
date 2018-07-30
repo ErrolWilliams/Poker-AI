@@ -29,20 +29,31 @@ class Action(object):
 		}
 
 	
-	def to_roomai(self, available_actions):
+	def to_roomai(self, ai, available_actions):
 		print("BAD! THIS SHOULDNT BE CALLED!")
 		exit()
 		return ""
+
+	def get_roomai_action_random(self, available_actions):
+		print(f"Falling back to random action instead of {self}! You may want to fix this!")
+		exit()
+		return random.choice(list(available_actions.items()))[1]
+
+	def get_roomai_action_prefix(self, available_actions, *names):
+		keys = available_actions.keys()
+		for name in names:
+			for key in keys:
+				if key.startswith(name):
+					return available_actions[key]
+
+		return self.get_roomai_action_random(available_actions)
 
 	def get_roomai_action(self, available_actions, *names):
 
 		for name in names:
 			if name in available_actions:
 				return available_actions[name]
-				
-		print(f"Falling back to random action instead of {self}! You may want to fix this!")
-		exit()
-		return random.choice(list(available_actions.items()))[1]
+		return self.get_roomai_action_random(available_actions)
 
 	def index(self):
 		return -1
@@ -65,8 +76,8 @@ class Bet(Action):
 	def index(self):
 		return 0
 
-	def to_roomai(self, available_actions):
-		return self.get_roomai_action(available_actions, 'Raise_30', 'Raise_40')
+	def to_roomai(self, ai, available_actions):
+		return self.get_roomai_action_prefix(available_actions, 'Raise_', 'Allin_')
 
 class Call(Action):
 	def __init__(self):
@@ -75,8 +86,8 @@ class Call(Action):
 	def index(self):
 		return 1
 
-	def to_roomai(self, available_actions):
-		return self.get_roomai_action(available_actions, 'Call_10')
+	def to_roomai(self, ai, available_actions):
+		return self.get_roomai_action_prefix(available_actions, 'Call_', 'Allin_')
 
 class Check(Action):
 	def __init__(self):
@@ -85,8 +96,8 @@ class Check(Action):
 	def index(self):
 		return 2
 
-	def to_roomai(self, available_actions):
-		return self.get_roomai_action(available_actions, 'Raise_30', 'Raise_40')
+	def to_roomai(self, ai, available_actions):
+		return self.get_roomai_action_prefix(available_actions, 'Call_', 'Fold_')
 
 class Fold(Action):
 	def __init__(self):
@@ -95,7 +106,7 @@ class Fold(Action):
 	def index(self):
 		return 3
 
-	def to_roomai(self, available_actions):
+	def to_roomai(self, ai, available_actions):
 		return self.get_roomai_action(available_actions, 'Fold_0')
 
 class Raise(Action):
@@ -105,8 +116,9 @@ class Raise(Action):
 	def index(self):
 		return 4
 
-	def to_roomai(self, available_actions):
-		return self.get_roomai_action(available_actions, 'Raise_30', 'Raise_40')
+	def to_roomai(self, ai, available_actions):
+		print(ai.table.pot())
+		return self.get_roomai_action_prefix(available_actions, 'Raise_', 'Allin_')
 
 class AllIn(Action):
 	def __init__(self):
@@ -115,8 +127,9 @@ class AllIn(Action):
 	def index(self):
 		return 5
 
-	def to_roomai(self, available_actions):
-		return self.get_roomai_action(available_actions, 'Allin_1980', 'Allin_1990')
+	def to_roomai(self, ai, available_actions):
+		name = 'Allin_{}'.format(int(ai.player.chips))
+		return self.get_roomai_action(available_actions, name)
 
 enum = [Bet(), Call(), Check(), Fold(), Raise(), AllIn()]
 

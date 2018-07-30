@@ -13,8 +13,14 @@ def odds(hand, board, num_players):
     my_board = []
     
     for i in range(len(board)):
-        my_board.append(Card.new(board[i]))
-        remove_cards.append(Card.new(board[i]))
+        import sys
+        print(board, file=sys.stderr)
+        try:
+            my_board.append(Card.new(board[i]))
+            remove_cards.append(Card.new(board[i]))
+        except KeyError as e:
+            print("BAD!!!", file=sys.stderr)
+            exit()
 
     my_deck = Deck()
     
