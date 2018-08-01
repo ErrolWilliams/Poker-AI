@@ -80,7 +80,7 @@ class AI():
 
 	def request_bet(self):
 		the_action = self.request()
-		if the_action.action_name == "checkssda":
+		if the_action.action_name == "check":
 			print("CHANAGING CHECK TO FOLD!!!!!!!!!!!! THIS IS SO IMPORTANT")
 			return action.Fold()
 		return the_action
@@ -167,14 +167,16 @@ class StatBot(AI):
 	def request(self):
 		monte_odds = self.get_odds()
 		round_num = self.table.round
+
 		print("Using stats!")
-		if monte_odds > 0.95:
+		print(f"monte_odds={monte_odds} round={self.table.round}")
+		if monte_odds > 0.85:
 			return action.Bet(int(self.player.chips*0.5))
 		elif monte_odds > 0.75:
 			return action.Bet(int(self.player.chips*0.2))
 		elif monte_odds > 0.60:
 			return action.Call()
-		elif monte_odds > 0.50 or round_num == 0:
+		elif monte_odds > 0.50 or (monte_odds > 0.15 and round_num == 0):
 			return action.Check()
 		else:
 			return action.Fold()
