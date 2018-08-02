@@ -79,10 +79,8 @@ class AI():
 		return monte_odds
 
 	def request_bet(self):
+		print("Requesting bet")			
 		the_action = self.request()
-		if the_action.action_name == "check":
-			print("CHANAGING CHECK TO FOLD!!!!!!!!!!!! THIS IS SO IMPORTANT")
-			return action.Fold()
 		return the_action
 
 	def get_player(self, player_id):
@@ -170,16 +168,18 @@ class StatBot(AI):
 
 		print("Using stats!")
 		print(f"monte_odds={monte_odds} round={self.table.round}")
-		if monte_odds > 0.85:
+		if monte_odds > 0.97:
+			return action.AllIn()
+		elif monte_odds > 0.90:
 			return action.Bet(int(self.player.chips*0.5))
 		elif monte_odds > 0.75:
 			return action.Bet(int(self.player.chips*0.2))
 		elif monte_odds > 0.60:
 			return action.Call()
-		elif monte_odds > 0.50 or (monte_odds > 0.15 and round_num == 0):
-			return action.Check()
-		else:
+		elif self.player.bet < self.player.round_bet:
 			return action.Fold()
+		else:
+		        return action.Check()
 
 
 
