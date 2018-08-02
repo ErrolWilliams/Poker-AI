@@ -165,31 +165,21 @@ class StatBot(AI):
 		Constants
 		"""
 		
-		pre_flop_mul = 0.5
-		flop_mul = 0.75
-		turn_mul = 0.9
-		high_risk = 0.8
-		med_risk = 0.45
-		high_odds = 0.8
-		med_odds = 0.5
+		high_risk = 0.15
+		med_risk = 0.05
+		high_odds = 3.5
+		med_odds = 1.5
 	
 		"""
 		"""
 		odds = self.get_odds()
+		odds = odds / (1/float(self.players_active())) 
 		round_num = self.table.round
 		chips = self.player.chips
-		cur_bet = self.player.bet - self.player.round_bet
-		stake = self.player.round_bet
-		bet_percent = (stake + cur_bet) / float(stake + chips)
-		card_mul = pre_flop_mul
-		if round_num == 1:
-			card_mul = flop_mul
-		elif round_num == 2:
-			card_mul = turn_mul
-		else:
-			card_mul = 1
-		risk = 0.63*bet_percent + 0.41
-		round_risk = risk*card_mul
+		cur_bet = self.player.bet + self.player.round_bet + self.player.min_bet
+		print('Cur bet {0}'.format(cur_bet))
+		round_risk = cur_bet / float(cur_bet + chips)
+		
 		print("Using stats!")
 		if round_risk > high_risk:
 			Risk = 'high'
@@ -203,7 +193,7 @@ class StatBot(AI):
 			Odds = 'med'
 		else:
 			Odds = 'low'
-		print('Risk: {0}({1})\nOdds: {2}({3})'.format(round_risk, Risk, odds, Odds))
+		print('Risk: {0}({1})\nOdds: {2}({3}\nBet: {4})'.format(round_risk, Risk, odds, Odds, cur_bet))
 		
 		if round_risk > high_risk:     # high risk
 			if odds > high_odds:
@@ -235,7 +225,7 @@ class StatBot(AI):
 				if cur_bet > 0:
 					return action.Raise()
 				else:
-					return action.Bet(int(self.player.chips*0.1))
+					return action.Bet(int(self.player.chips*0.05))
 			elif odds > med_odds:
 				if cur_bet > 0:
 					return action.Call()
@@ -251,13 +241,13 @@ class StatBot(AI):
 				if cur_bet > 0:
 					return action.Raise()
 				else:
-					return action.Bet(int(self.player.chips*0.2))
+					return action.Bet(int(self.player.chips*0.1))
 			elif odds > med_odds:
 				if odds > round_risk:
 					if cur_bet > 0:
 						return action.Raise()
 					else:
-						return action.Bet(int(self.player.chips*0.1))
+						return action.Bet(int(self.player.chips*0.05))
 				else:
 					if cur_bet > 0:
 						return action.Call()
