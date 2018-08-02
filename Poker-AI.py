@@ -15,7 +15,7 @@ from poker.tables import *
 import poker.train
 import poker
 import signal
-from poker.ai import AI, OldBot, StatBot, QBot, UserBot
+from poker.ai import AI, OldBot, StatBot, StatBot2, QBot, UserBot
 
 
 TEST_SERVER='ws://atxholdem.tplab.tippingpoint.com:3001'
