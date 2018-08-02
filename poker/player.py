@@ -17,7 +17,7 @@ class Player(object):
 		self.folded = json_obj["folded"]
 		self.allIn = json_obj["allIn"]
 		self.isSurvive = json_obj["isSurvive"]
-		self.reloadCount = json_obj["reloadCount"]
+		self.reloadCount = json_obj["regoadCount"]
 		self.round_bet = json_obj["roundBet"]
 		self.bet = json_obj["bet"]
 		if 'cards' in json_obj:
