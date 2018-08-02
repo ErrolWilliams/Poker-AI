@@ -66,6 +66,7 @@ class Client(object):
 	def _action(self, event):
 		self.update_table(event['data']['game'])
 		self.update_players(event['data']['game']['players'])
+		self.ai.player.json_update(event['data']['self'])
 		return self.ai.request().to_json()
 
 	def _bet(self, event):

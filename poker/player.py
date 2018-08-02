@@ -22,4 +22,6 @@ class Player(object):
 		self.bet = json_obj["bet"]
 		if 'cards' in json_obj:
 			self.cards = json_obj['cards']
-		
+		if 'minBet' in json_obj:
+			self.min_bet = json_obj['minBet']
+			
