@@ -168,10 +168,10 @@ class StatBot(AI):
 		pre_flop_mul = 0.5
 		flop_mul = 0.75
 		turn_mul = 0.9
-		high_risk = 0.7
-		med_risk = 0.4
-		high_odds = 0.7
-		med_odds = 0.4
+		high_risk = 0.8
+		med_risk = 0.45
+		high_odds = 0.8
+		med_odds = 0.5
 	
 		"""
 		"""
@@ -191,6 +191,19 @@ class StatBot(AI):
 		risk = 0.63*bet_percent + 0.41
 		round_risk = risk*card_mul
 		print("Using stats!")
+		if round_risk > high_risk:
+			Risk = 'high'
+		elif round_risk > med_risk:
+			Risk = 'med'
+		else:
+			Risk = 'low'
+		if odds > high_odds:
+			Odds = 'high'
+		elif odds > med_odds:
+			Odds = 'med'
+		else:
+			Odds = 'low'
+		print('Risk: {0}({1})\nOdds: {2}({3})'.format(round_risk, Risk, odds, Odds))
 		
 		if round_risk > high_risk:     # high risk
 			if odds > high_odds:
@@ -222,18 +235,12 @@ class StatBot(AI):
 				if cur_bet > 0:
 					return action.Raise()
 				else:
-					return action.Bet(int(self.player.chips*0.2))
+					return action.Bet(int(self.player.chips*0.1))
 			elif odds > med_odds:
-				if odds > round_risk:
-					if cur_bet > 0:
-						return action.Raise()
-					else:
-						return action.Bet(int(self.player.chips*0.1))
+				if cur_bet > 0:
+					return action.Call()
 				else:
-					if cur_bet > 0:
-						return action.Call()
-					else:
-						return action.Check()
+					return action.Check()
 			else:
 				if cur_bet > 0:
 					return action.Fold()
@@ -244,13 +251,13 @@ class StatBot(AI):
 				if cur_bet > 0:
 					return action.Raise()
 				else:
-					return action.Bet(int(self.player.chips*0.3))
+					return action.Bet(int(self.player.chips*0.2))
 			elif odds > med_odds:
 				if odds > round_risk:
 					if cur_bet > 0:
 						return action.Raise()
 					else:
-						return action.Bet(int(self.player.chips*0.15))
+						return action.Bet(int(self.player.chips*0.1))
 				else:
 					if cur_bet > 0:
 						return action.Call()
