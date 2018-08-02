@@ -77,10 +77,8 @@ class AI():
 		return monte_odds
 
 	def request_bet(self):
+		print("Requesting bet")			
 		the_action = self.request()
-		if the_action.action_name == "check":
-			print("CHANAGING CHECK TO FOLD!!!!!!!!!!!! THIS IS SO IMPORTANT")
-			return action.Fold()
 		return the_action
 
 	def get_player(self, player_id):
