@@ -5,7 +5,7 @@ from poker.odds import odds
 from poker.ai import action
 from treys import Card
 from poker.monte import monteCarlo
-import poker.table as tables
+import poker.tables as tables
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
@@ -71,14 +71,18 @@ class AI():
 		for card_str in self.player.cards:
 			hand.append(self.card_obj(card_str))
 
+		if len(board) == 0:
+			monte_odds = tables.get_chance(self.players_active(), self.player.cards[0], self.player.cards[1])
 		else:
 			monte_odds = monteCarlo(board, hand, self.players_active()-1, 2000.0)
 
 		return monte_odds
 
 	def request_bet(self):
-		print("Requesting bet")			
 		the_action = self.request()
+		if the_action.action_name == "check":
+			print("CHANAGING CHECK TO FOLD!!!!!!!!!!!! THIS IS SO IMPORTANT")
+			return action.Fold()
 		return the_action
 
 	def get_player(self, player_id):
@@ -120,13 +124,13 @@ class OldBot(AI):
 
 		model_action = poker.model.get_action(self.create_input())
 		monte_odds = self.get_odds()
+		print(f"monte_odds={monte_odds} round={self.table.round}")
 
 		if model_action == 'bet':
 			return action.Bet(int(self.player.chips*0.15))
 		elif model_action == 'call':
 			return action.Call()
 		elif model_action == 'check':
-			return action.Check()
 			return action.Check()
 		elif model_action == 'fold':
 			if monte_odds > 0.3:
@@ -161,113 +165,22 @@ class StatBot(AI):
 		self.version = 0
 
 	def request(self):
-		"""
-		Constants
-		"""
-		
-		pre_flop_mul = 0.5
-		flop_mul = 0.75
-		turn_mul = 0.9
-		high_risk = 0.8
-		med_risk = 0.45
-		high_odds = 0.8
-		med_odds = 0.5
-	
-		"""
-		"""
-		odds = self.get_odds()
+		monte_odds = self.get_odds()
 		round_num = self.table.round
-		chips = self.player.chips
-		cur_bet = self.player.bet - self.player.round_bet
-		stake = self.player.round_bet
-		bet_percent = (stake + cur_bet) / float(stake + chips)
-		card_mul = pre_flop_mul
-		if round_num == 1:
-			card_mul = flop_mul
-		elif round_num == 2:
-			card_mul = turn_mul
-		else:
-			card_mul = 1
-		risk = 0.63*bet_percent + 0.41
-		round_risk = risk*card_mul
+
 		print("Using stats!")
-		if round_risk > high_risk:
-			Risk = 'high'
-		elif round_risk > med_risk:
-			Risk = 'med'
+		print(f"monte_odds={monte_odds} round={self.table.round}")
+		if monte_odds > 0.85:
+			return action.Bet(int(self.player.chips*0.5))
+		elif monte_odds > 0.75:
+			return action.Bet(int(self.player.chips*0.2))
+		elif monte_odds > 0.60:
+			return action.Call()
+		elif monte_odds > 0.50 or (monte_odds > 0.15 and round_num == 0):
+			return action.Check()
 		else:
-			Risk = 'low'
-		if odds > high_odds:
-			Odds = 'high'
-		elif odds > med_odds:
-			Odds = 'med'
-		else:
-			Odds = 'low'
-		print('Risk: {0}({1})\nOdds: {2}({3})'.format(round_risk, Risk, odds, Odds))
-		
-		if round_risk > high_risk:     # high risk
-			if odds > high_odds:
-				if odds > round_risk:
-					if cur_bet > 0:
-						return action.Raise()
-					else:
-						return action.Bet(int(self.player.chips*0.05))
-				else:
-					if cur_bet > 0:
-						return action.Call()
-					else:
-						return action.Check()
-			elif odds > med_odds:
-				if odds > round_risk:
-					if cur_bet > 0:
-						return action.Call()
-					else:
-						return action.Check()
-				else:
-					return action.Fold()
-			else:
-				if cur_bet > 0:
-					return action.Fold()
-				else:
-					return action.Check()
-		elif round_risk > med_risk:    # med risk	
-			if odds > high_odds:
-				if cur_bet > 0:
-					return action.Raise()
-				else:
-					return action.Bet(int(self.player.chips*0.1))
-			elif odds > med_odds:
-				if cur_bet > 0:
-					return action.Call()
-				else:
-					return action.Check()
-			else:
-				if cur_bet > 0:
-					return action.Fold()
-				else:
-					return action.Check()
-		else:
-			if odds > high_odds:
-				if cur_bet > 0:
-					return action.Raise()
-				else:
-					return action.Bet(int(self.player.chips*0.2))
-			elif odds > med_odds:
-				if odds > round_risk:
-					if cur_bet > 0:
-						return action.Raise()
-					else:
-						return action.Bet(int(self.player.chips*0.1))
-				else:
-					if cur_bet > 0:
-						return action.Call()
-					else:
-						return action.Check()
-			else:
-				if cur_bet > 0:
-					return action.Fold()
-				else:
-					return action.Check()
+			return action.Fold()
+
 
 
 class QBot(AI):
@@ -327,6 +240,15 @@ class QBot(AI):
 
 	def create_input_q(self):
 		monte_odds = self.get_odds()
+		round_num = self.table.round
+		raised = self.table.num_raise
+		total_chips = float(self.table.total_chips())
+		chips_percent = self.player.chips/total_chips
+		pot_percent = self.table.pot()/total_chips
+		num_players = self.players_active()
+		return np.array([[monte_odds, round_num, raised, chips_percent, pot_percent, total_chips, num_players]])
+
+	def request(self):
 		the_input = self.create_input_q()
 		prediction = self.model.predict(the_input)
 
