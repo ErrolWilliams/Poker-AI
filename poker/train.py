@@ -1,6 +1,5 @@
 import roomai
 from roomai import common, texas
-from poker.roomai_bot import BlackPanther
 import poker.ai
 
 #----------------------------------------------------------

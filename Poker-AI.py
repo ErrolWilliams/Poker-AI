@@ -18,7 +18,7 @@ import signal
 from poker.ai import AI, OldBot, StatBot, QBot, UserBot
 
 
-TEST_SERVER='ws://poker-dev.wrs.club:3001'
+TEST_SERVER='ws://atxholdem.tplab.tippingpoint.com:3001'
 SERVER='ws://atxholdem2.tplab.tippingpoint.com:3001' 
 
 PLAYERNAME = '9679095d66'
