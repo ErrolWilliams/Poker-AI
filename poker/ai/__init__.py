@@ -189,10 +189,10 @@ class StatBot2(AI):
 		Constants
 		"""
 		
-		high_risk = 0.15
-		med_risk = 0.05
-		high_odds = 3.5
-		med_odds = 1.5
+		high_risk = 0.2
+		med_risk = 0.1
+		high_odds = 2.5
+		med_odds = 0.9
 	
 		"""
 		"""
@@ -266,16 +266,10 @@ class StatBot2(AI):
 				else:
 					return action.Bet(int(self.player.chips*0.1))
 			elif odds > med_odds:
-				if odds > round_risk:
-					if cur_bet > 0:
-						return action.Raise()
-					else:
-						return action.Bet(int(self.player.chips*0.05))
+				if cur_bet > 0:
+					return action.Call()
 				else:
-					if cur_bet > 0:
-						return action.Call()
-					else:
-						return action.Check()
+					return action.Bet(int(self.player.chips*0.05))
 			else:
 				if cur_bet > 0:
 					return action.Fold()
