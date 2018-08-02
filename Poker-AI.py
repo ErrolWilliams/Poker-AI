@@ -58,7 +58,7 @@ if __name__ == "__main__":
 		ai = OldBot(args.model, args.version)
 		print(f"Creating OldBot with model {args.model}")
 	elif args.stats:
-		ai = StatBot()
+		ai = StatBot2()
 		print("Creating StatBot")
 	elif args.user:
 		ai = UserBot()

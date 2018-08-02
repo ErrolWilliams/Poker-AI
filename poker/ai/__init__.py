@@ -5,7 +5,7 @@ from poker.odds import odds
 from poker.ai import action
 from treys import Card
 from poker.monte import monteCarlo
-import poker.table as tables
+import poker.tables as tables
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
@@ -71,14 +71,18 @@ class AI():
 		for card_str in self.player.cards:
 			hand.append(self.card_obj(card_str))
 
+		if len(board) == 0:
+			monte_odds = tables.get_chance(self.players_active(), self.player.cards[0], self.player.cards[1])
 		else:
 			monte_odds = monteCarlo(board, hand, self.players_active()-1, 2000.0)
 
 		return monte_odds
 
 	def request_bet(self):
-		print("Requesting bet")			
 		the_action = self.request()
+		if the_action.action_name == "check":
+			print("CHANAGING CHECK TO FOLD!!!!!!!!!!!! THIS IS SO IMPORTANT")
+			return action.Fold()
 		return the_action
 
 	def get_player(self, player_id):
@@ -120,13 +124,13 @@ class OldBot(AI):
 
 		model_action = poker.model.get_action(self.create_input())
 		monte_odds = self.get_odds()
+		print(f"monte_odds={monte_odds} round={self.table.round}")
 
 		if model_action == 'bet':
 			return action.Bet(int(self.player.chips*0.15))
 		elif model_action == 'call':
 			return action.Call()
 		elif model_action == 'check':
-			return action.Check()
 			return action.Check()
 		elif model_action == 'fold':
 			if monte_odds > 0.3:
@@ -152,10 +156,30 @@ class UserBot(AI):
 		return ac
 
 
-
-	
-
 class StatBot(AI):
+	def __init__(self):
+		super().__init__()
+		self.version = 0
+
+	def request(self):
+		monte_odds = self.get_odds()
+		round_num = self.table.round
+
+		print("Using stats!")
+		print(f"monte_odds={monte_odds} round={self.table.round}")
+		if monte_odds > 0.85:
+			return action.Bet(int(self.player.chips*0.5))
+		elif monte_odds > 0.75:
+			return action.Bet(int(self.player.chips*0.2))
+		elif monte_odds > 0.60:
+			return action.Call()
+		elif monte_odds > 0.50 or (monte_odds > 0.15 and round_num == 0):
+			return action.Check()
+		else:
+			return action.Fold()
+
+
+class StatBot2(AI):
 	def __init__(self):
 		super().__init__()
 		self.version = 0
@@ -177,7 +201,6 @@ class StatBot(AI):
 		round_num = self.table.round
 		chips = self.player.chips
 		cur_bet = self.player.bet + self.player.round_bet + self.player.min_bet
-		print('Cur bet {0}'.format(cur_bet))
 		round_risk = cur_bet / float(cur_bet + chips)
 		
 		print("Using stats!")
@@ -317,6 +340,15 @@ class QBot(AI):
 
 	def create_input_q(self):
 		monte_odds = self.get_odds()
+		round_num = self.table.round
+		raised = self.table.num_raise
+		total_chips = float(self.table.total_chips())
+		chips_percent = self.player.chips/total_chips
+		pot_percent = self.table.pot()/total_chips
+		num_players = self.players_active()
+		return np.array([[monte_odds, round_num, raised, chips_percent, pot_percent, total_chips, num_players]])
+
+	def request(self):
 		the_input = self.create_input_q()
 		prediction = self.model.predict(the_input)
 
