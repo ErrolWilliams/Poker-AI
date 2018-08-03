@@ -1,7 +1,7 @@
 # Poker-AI
 Bot that plays poker and uses machine learning to become a better player (hopefully)
 
-Run setup_environment.py as superuser to install the required modules!
+Make sure you have Python 3.6.5 or greater installed, then run setup_environment.py as superuser to install the required modules!
 <pre>
 Workflow
   Update local repo
