@@ -8,7 +8,8 @@ packages = [
 	'roomai',
 	'tflearn',
 	'numpy',
-	'h5py'
+	'h5py',
+        'treys'
 ]
 
 def install(package_name):

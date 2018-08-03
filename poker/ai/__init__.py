@@ -210,9 +210,12 @@ class StatBot2(AI):
 		odds = odds / (1/float(self.players_active())) 
 		round_num = self.table.round
 		chips = self.player.chips
-		cur_bet = self.player.min_bet
+		cur_bet = self.player.min_bet - self.table.small_blind
 		my_bet = self.player.bet + self.player.round_bet + self.player.min_bet
 		round_risk = my_bet / float(my_bet + chips)
+		print('Bet: {0}'.format(self.bet)) 
+		print('roundBet: {0}'.format(self.round_bet)) 
+		print('minBet: {0}'.format(self.min_bet)) 
 		
 		print("Using stats!")
 		if round_risk > high_risk:
@@ -231,24 +234,15 @@ class StatBot2(AI):
 		
 		if round_risk > high_risk:     # high risk
 			if odds > high_odds:
-				if odds > round_risk:
-					if cur_bet > 0:
-						return action.Raise()
-					else:
-						return action.Bet(int(self.player.chips*0.05))
+				if cur_bet > 0:
+					return action.Raise()
 				else:
-					if cur_bet > 0:
-						return action.Call()
-					else:
-						return action.Check()
+					return action.Bet(int(self.player.chips*0.05))
 			elif odds > med_odds:
-				if odds > round_risk:
-					if cur_bet > 0:
-						return action.Call()
-					else:
-						return action.Check()
+				if cur_bet > 0:
+					return action.Call()
 				else:
-					return action.Fold()
+					return action.Check()
 			else:
 				if cur_bet > 0:
 					return action.Fold()
