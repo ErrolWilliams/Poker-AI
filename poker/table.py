@@ -46,6 +46,6 @@ class Table(object):
 		self.board = self.json['board']
 		self.raise_count = self.json['raiseCount']
 		self.bet_count = self.json['betCount']
-
+		self.small_blind = self.json['smallBlind']['amount']
 		round_names = ["Deal", "Flop", "Turn", "River", "Showdown"]
 		self.round = round_names.index(self.round_name)
