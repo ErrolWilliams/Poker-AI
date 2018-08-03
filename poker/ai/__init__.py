@@ -197,8 +197,8 @@ class StatBot2(AI):
 		odds = odds / (1/float(self.players_active())) 
 		round_num = self.table.round
 		chips = self.player.chips
-		bet = self.player.min_bet - self.table.small_blind
-		cur_bet = self.player.bet + self.player.round_bet + self.player.min_bet
+		cur_bet = self.player.min_bet - self.table.small_blind
+		my_bet = self.player.bet + self.player.round_bet + self.player.min_bet
 		round_risk = my_bet / float(my_bet + chips)
 		
 		print("Using stats!")
