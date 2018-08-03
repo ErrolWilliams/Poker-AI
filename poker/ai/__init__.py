@@ -203,9 +203,9 @@ class StatBot2(AI):
 		cur_bet = self.player.min_bet - self.table.small_blind
 		my_bet = self.player.bet + self.player.round_bet + self.player.min_bet
 		round_risk = my_bet / float(my_bet + chips)
-                print('Bet: {0}'.format(self.bet)) 
-                print('roundBet: {0}'.format(self.round_bet)) 
-                print('minBet: {0}'.format(self.min_bet)) 
+		print('Bet: {0}'.format(self.bet)) 
+		print('roundBet: {0}'.format(self.round_bet)) 
+		print('minBet: {0}'.format(self.min_bet)) 
 		
 		print("Using stats!")
 		if round_risk > high_risk:
