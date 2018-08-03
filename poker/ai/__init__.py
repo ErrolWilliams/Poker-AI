@@ -80,9 +80,6 @@ class AI():
 
 	def request_bet(self):
 		the_action = self.request()
-		if the_action.action_name == "check":
-			print("CHANAGING CHECK TO FOLD!!!!!!!!!!!! THIS IS SO IMPORTANT")
-			return action.Fold()
 		return the_action
 
 	def get_player(self, player_id):
@@ -200,12 +197,9 @@ class StatBot2(AI):
 		odds = odds / (1/float(self.players_active())) 
 		round_num = self.table.round
 		chips = self.player.chips
-		cur_bet = self.player.min_bet - self.table.small_blind
-		my_bet = self.player.bet + self.player.round_bet + self.player.min_bet
+		bet = self.player.min_bet - self.table.small_blind
+		cur_bet = self.player.bet + self.player.round_bet + self.player.min_bet
 		round_risk = my_bet / float(my_bet + chips)
-		print('Bet: {0}'.format(self.bet)) 
-		print('roundBet: {0}'.format(self.round_bet)) 
-		print('minBet: {0}'.format(self.min_bet)) 
 		
 		print("Using stats!")
 		if round_risk > high_risk:
