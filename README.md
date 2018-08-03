@@ -22,12 +22,12 @@ Workflow
 </pre>
 Running the code
 '''sh
-python3 Poker-AI.py --help
+$ python3 Poker-AI.py --help
 (lists all options)
 
-python3 Poker-AI.py --stats
+$ python3 Poker-AI.py --stats
 (run as stats bot)
 
-python3 Poker-AI.py -t --stats -p george
+$ python3 Poker-AI.py -t --stats -p george
 (run on training server as stats bot with playername george)
 '''
