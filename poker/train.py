@@ -1,6 +1,7 @@
 import roomai
 from roomai import common, texas
 import poker.ai
+import random
 
 #----------------------------------------------------------
 
@@ -8,14 +9,52 @@ import poker.ai
 
 #----------------------------------------------------------
 
+class BlackPanther(object):
+	
+	def __init__(self, ai):
+		self.ai = ai
+		
+	def receive_info(self, info, public_state):
+		self.ai.attach(info.person_state.id)
+		self.available_actions = info.person_state.available_actions
+		print("pub")
+		print(public_state.public_cards)
+		print
+		print(info.person_state.hand_cards)
+		self.ai.roomai_update(info, public_state)
 
+	
+	def take_action(self):
+		action = self.ai.request()
+		print(self.available_actions)
+		return action.to_roomai(self.ai, self.available_actions)
+		
+		
+	def round_end(self, info, public_state):
+		self.ai.roomai_update(info, public_state)
+		self.ai.round_end()
+		
 
 #--------------------------------------------------------------
+def random_player():
+	def make_qbot():
+		r = poker.ai.QBot()
+		r.load_model('nachos')
+		return r
+	
+	ais = [
+		make_qbot,
+		lambda: poker.ai.StatBot(),
+		lambda: poker.ai.OldBot(model_name='basicPlayer1'),
+		lambda: poker.ai.OldBot(model_name='aggrPlayer')
+	]
+	return random.choice(ais)()
 
-def new_game(ai):
+def new_game(ai, num_players):
     ai2 = poker.ai.QBot()
     ai2.create_model()
     ai3 = poker.ai.StatBot()
+    ai4 = poker.ai.OldBot(model_name="basicPlayer1")
     players     = [BlackPanther(ai), BlackPanther(ai2), BlackPanther(ai3)]
     env         = roomai.texas.TexasHoldemEnv()
     np          = len(players)
@@ -35,7 +74,7 @@ def clear_losers(players, ps, big_blind):
     new_chips   = []
     
     for i in range(len(ps.chips)-1,-1,-1):
-        if ps.chips[i] >= big_blind:
+        if ps.chips[i] > big_blind:
             new_chips.insert(0, ps.chips[i])
         elif i <= dealer:
             del players[i]
@@ -61,8 +100,8 @@ def next_round(env, players, ps, big_blind):
 
 #------------------------------------------------------------------
 
-def play(rounds, training, ai):
-    players, env, num_players, infos, public_state, person_state, private_state, big_blind = new_game(ai)
+def play(rounds, ai, num_players):
+    players, env, num_players, infos, public_state, person_state, private_state, big_blind = new_game(ai, num_players)
     terminal = False
     
     for round_num in range(rounds):
@@ -77,8 +116,7 @@ def play(rounds, training, ai):
         # Play till winner
         while public_state.is_terminal == False:
             turn = public_state.turn
-            data, action = players[turn].take_action()
-            training[infos[turn].person_state.id].append(data)
+            action = players[turn].take_action()
             infos, public_state, person_states, private_state = env.forward(action)
 
             for i in range(num_players):
@@ -94,20 +132,20 @@ def play(rounds, training, ai):
 
 #----------------------------------------------------------------
 def train(ai):
-    num_epoch   = 3     # Number of Epoch (An Epoch is a single cycle of simulation and learning from the simulations.)
-    num_rounds  = 1     # Number of Rounds per epoch
-    num_play    = 2
+    num_epoch   = 100     # Number of Epoch (An Epoch is a single cycle of simulation and learning from the simulations.)
+    num_rounds  = 50     # Number of Rounds per epoch
+    num_play    = 4
     
     training_data = []
     round_data = []
     for i in range(num_play):
         round_data.append([])
     
-    for _ in range(num_epoch):
+    for i in range(num_epoch):
+        print(f'Starting Game {i}!')
         for i in range(num_play):
             round_data.append([])
-        play(num_rounds, round_data, ai)
+        play(num_rounds, ai, num_play)
         from copy import deepcopy
-        training_data.append(deepcopy(round_data))
 
     print("PUMPKIN: " + str(training_data))
