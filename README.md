@@ -21,14 +21,13 @@ Workflow
     - git push origin master
 </pre>
 Running the code
-'''sh
+```sh
 $ python3 Poker-AI.py --help
+(lists all options)
 
 $ python3 Poker-AI.py --stats
+(run as stats bot)
 
 $ python3 Poker-AI.py -t --stats -p george
-'''
-
-1. (lists all options)
-2. (run as stats bot)
-3. (run on training server as stats bot with playername george)
+(run on training server as stats bot with playername george)
+```
