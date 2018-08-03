@@ -221,24 +221,15 @@ class StatBot2(AI):
 		
 		if round_risk > high_risk:     # high risk
 			if odds > high_odds:
-				if odds > round_risk:
-					if cur_bet > 0:
-						return action.Raise()
-					else:
-						return action.Bet(int(self.player.chips*0.05))
+				if cur_bet > 0:
+					return action.Raise()
 				else:
-					if cur_bet > 0:
-						return action.Call()
-					else:
-						return action.Check()
+					return action.Bet(int(self.player.chips*0.05))
 			elif odds > med_odds:
-				if odds > round_risk:
-					if cur_bet > 0:
-						return action.Call()
-					else:
-						return action.Check()
+				if cur_bet > 0:
+					return action.Call()
 				else:
-					return action.Fold()
+					return action.Check()
 			else:
 				if cur_bet > 0:
 					return action.Fold()
