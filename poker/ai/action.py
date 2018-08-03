@@ -97,7 +97,7 @@ class Check(Action):
 		return 2
 
 	def to_roomai(self, ai, available_actions):
-		return self.get_roomai_action_prefix(available_actions, 'Call_', 'Fold_')
+		return self.get_roomai_action_prefix(available_actions, 'Call_', 'Fold_', 'Raise_', 'Allin_')
 
 class Fold(Action):
 	def __init__(self):
@@ -128,8 +128,7 @@ class AllIn(Action):
 		return 5
 
 	def to_roomai(self, ai, available_actions):
-		name = 'Allin_{}'.format(int(ai.player.chips))
-		return self.get_roomai_action(available_actions, name)
+		return self.get_roomai_action_prefix(available_actions, 'Allin_', 'Raise_', 'Call_')
 
 enum = [Bet(), Call(), Check(), Fold(), Raise(), AllIn()]
 

@@ -19,6 +19,7 @@ from poker.ai import AI, OldBot, StatBot, StatBot2, QBot, UserBot
 
 
 TEST_SERVER='ws://atxholdem.tplab.tippingpoint.com:3001'
+TEST_SERVER='ws://poker-dev.wrs.club:3001'
 SERVER='ws://atxholdem2.tplab.tippingpoint.com:3001' 
 
 PLAYERNAME = '9679095d66'
@@ -46,6 +47,7 @@ if __name__ == "__main__":
 	parser.add_argument('-v', '--version', help='Model Version', type=int, required=False, default=0)
 	parser.add_argument('-u', '--user', help='Use user input', required=False, action='store_true')
 	parser.add_argument('--port', '--port', help='Port for console output', type=int, required=False, default=-1)
+	parser.add_argument('--eps', '--eps', help='EPS for QBot', type=float, required=False, default=0.5)
 
 	args = parser.parse_args()
 
@@ -63,7 +65,7 @@ if __name__ == "__main__":
 	elif args.user:
 		ai = UserBot()
 	else:
-		ai = QBot()
+		ai = QBot(eps=args.eps)
 		print("Creating QBot")
 		if args.load != None:
 			ai.load_model(args.load)

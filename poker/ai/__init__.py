@@ -24,6 +24,11 @@ class AI():
 
 	def roomai_update(self, info, public_state):
 		self.table.roomai_update(info, public_state)
+		print(f'self.player.cards {self.player.cards}')
+		for j in self.player.cards:
+			if j in self.table.board:
+				print(f'{j} in board and hand!!!')
+				exit()
 
 	def players_active(self):
 		num_active = 0
@@ -64,12 +69,17 @@ class AI():
 			return self.get_odds_2()
 		board = []
 		hand = []
+		
+		print(f'board_pre_convert: {self.table.board}')
+		print(f'hand_pre_convert: {self.player.cards}')
 
 		for card_str in self.table.board:
 			board.append(self.card_obj(card_str))
 
 		for card_str in self.player.cards:
 			hand.append(self.card_obj(card_str))
+			
+		print(Card.new('2d'))
 
 		if len(board) == 0:
 			monte_odds = tables.get_chance(self.players_active(), self.player.cards[0], self.player.cards[1])
@@ -279,12 +289,13 @@ class StatBot2(AI):
 
 
 class QBot(AI):
-	def __init__(self):
+	def __init__(self, eps=0.5):
 		super().__init__()
-		self.eps = 0.5
+		self.eps = eps
 		self.decay_factor = 0.999
 		self.last_action = None
-		self.version = 1
+		self.version = 0
+		np.set_printoptions(suppress=True)
 
 	def create_model(self):
 		self.model = keras.Sequential()
@@ -324,7 +335,7 @@ class QBot(AI):
 
 		last_reward = self.player.chips - self.last_chips
 		last_reward_mod = last_reward + y * qmax
-
+		print(f'Last input was {self.last_input}')
 		print("Action {} resulted in reward of {}... That's {}!. Reinforcing from {} to {}".format(self.last_action.action_name, last_reward, 'good' if last_reward > 0 else ('bad' if last_reward < 0 else 'very interesting'), self.last_prediction[0][self.last_action.index()], last_reward_mod))
 
 		self.last_prediction[0][self.last_action.index()] = last_reward_mod
