@@ -1,5 +1,5 @@
 import poker
-from poker import lookup
+#import poker.lookup
 from poker.table import Table
 from poker.player import Player
 from poker.odds import odds
