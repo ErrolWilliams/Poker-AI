@@ -24,9 +24,10 @@ class _Handler(server.BaseHTTPRequestHandler):
 
 class _Server(threading.Thread):
 
-	def __init__(self, port=8000):
+	def __init__(self, port=8000, global_title='HTTPrint'):
 		super().__init__()
 		self.port = port
+		self.global_title = global_title
 		self.log = []
 
 	def index(self, handler):
@@ -58,7 +59,7 @@ class _Server(threading.Thread):
 		if len(to_send) > 0:
 			timestamp = to_send[-1]['timestamp']
 
-		obj = {'lastTimestamp': timestamp, 'log': to_send}
+		obj = {'lastTimestamp': timestamp, 'log': to_send, 'globalTitle': self.global_title}
 
 		handler.send_response(200)
 		handler.send_header('Content-type', 'text/html')

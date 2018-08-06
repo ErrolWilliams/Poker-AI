@@ -5,16 +5,15 @@ import sys
 from .server import _Server
 from urllib import request, parse
 
+server = None
 
 class _ExternalServer(object):
 	def __init__(self):
 		pass
 
-
-
-def init(port=8000, is_host=None):
-
-	server = _Server(port)
+def init(port=8000, is_host=None, global_title='HTTPrint'):
+	global server
+	server = _Server(port, global_title=global_title)
 	server.start()
 
 	old_print = sys.stdout.write
@@ -30,4 +29,7 @@ def init(port=8000, is_host=None):
 		
 	sys.stdout.write = new_print
 	sys.stderr.write = new_err
+	
+def set_global_title(title):
+	server.global_title = title
 	

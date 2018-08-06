@@ -36,7 +36,7 @@ class BlackPanther(object):
 		
 
 #--------------------------------------------------------------
-def random_player():
+def random_ai():
 	def make_qbot():
 		r = poker.ai.QBot()
 		r.load_model('nachos')
@@ -45,8 +45,7 @@ def random_player():
 	ais = [
 		make_qbot,
 		lambda: poker.ai.StatBot(),
-		lambda: poker.ai.OldBot(model_name='basicPlayer1'),
-		lambda: poker.ai.OldBot(model_name='aggrPlayer')
+		lambda: poker.ai.StatBot2()
 	]
 	return random.choice(ais)()
 
@@ -56,6 +55,9 @@ def new_game(ai, num_players):
     ai3 = poker.ai.StatBot()
     ai4 = poker.ai.OldBot(model_name="basicPlayer1")
     players     = [BlackPanther(ai), BlackPanther(ai2), BlackPanther(ai3)]
+    players = []
+    for i in range(num_players):
+        players.append(BlackPanther(random_ai()))
     env         = roomai.texas.TexasHoldemEnv()
     np          = len(players)
     dealer      = 0
@@ -134,7 +136,7 @@ def play(rounds, ai, num_players):
 def train(ai):
     num_epoch   = 100     # Number of Epoch (An Epoch is a single cycle of simulation and learning from the simulations.)
     num_rounds  = 50     # Number of Rounds per epoch
-    num_play    = 4
+    num_play    = random.choice([4,5,6,7,8,9,10,11])
     
     training_data = []
     round_data = []
