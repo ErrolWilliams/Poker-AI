@@ -8,7 +8,7 @@ $ ./Poker-AI.py --help
 (lists all options)
 
 $ ./Poker-AI.py server stats
-(run as stats bot)
+(run on game server as stats bot)
 
 $ ./Poker-AI.py practice stats --name george
 (run on practice server as stats bot with playername george)
