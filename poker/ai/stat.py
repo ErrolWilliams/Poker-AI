@@ -124,15 +124,15 @@ class StatBot3(AI):
                 """
                 high_risk = 0.2   # betting over 20% of chips is high risk
                 med_risk = 0.07   # betting over 7% of chips is med risk
-                high_odds = 0.8   # winning over 80% of monte carlo is high odds
+                high_odds = 0.75   # winning over 80% of monte carlo is high odds
                 med_odds = 0.5    # winning over 50% of monte carlo is medium odds
                 
-                preflop_slope = 0.5  # slope for pre flop playability 
+                preflop_slope = 0.6  # slope for pre flop playability 
                 flop_slope = 0.5     # slope for flop playability 
                 turn_slope = 0.4     # slope for turn playability 
                 river_slope = 0.4    # slope for river playability  
                 
-                preflop_intercept = 0  # intercept for pre flop playability
+                preflop_intercept = .4  # intercept for pre flop playability
                 flop_intercept = 0.5   # intercept for flop playability
                 turn_intercept = 0.6   # intercept for turn playability
                 river_intercept = 0.6  # intercept for river playability
