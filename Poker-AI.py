@@ -11,7 +11,7 @@ if '-o' in sys.argv:
 from poker import client
 from poker.model import load
 import argparse
-#import poker.lookup
+import poker.lookup
 import poker.train
 import poker
 import signal

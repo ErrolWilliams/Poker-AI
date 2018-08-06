@@ -1,11 +1,12 @@
 import poker
-#import poker.lookup
+import poker.lookup
 from poker.table import Table
 from poker.player import Player
 from poker.odds import odds
 from poker.monte import monteCarlo
 from poker.ai import action
 from treys import Card
+import poker.lookup as lookup
 
 
 class AI():
