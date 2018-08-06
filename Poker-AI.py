@@ -72,6 +72,10 @@ if __name__ == "__main__":
 		else:
 			ai.create_model()
 
+	if args.port != -1:
+		httprint.set_global_title(ai.name)
+		print(ai.name)
+
 	server = TEST_SERVER if args.test else SERVER
 	playername = args.player_name
 	

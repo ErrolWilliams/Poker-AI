@@ -53,7 +53,7 @@ class Client(object):
 		return None
 
 	def _new_peer_2(self, event):
-		print(event)
+		print('ay lemao')
 
 	def _start_reload(self, event):
 		return {

@@ -18,6 +18,10 @@ class AI():
 	def __init__(self):
 		self.table = Table()
 
+	@property
+	def name(self):
+		return self.__class__.__name__
+
 	def attach(self, player_id):
 		self.player_id = player_id
 		self.player = self.table.get_player(self.player_id)
@@ -198,8 +202,8 @@ class StatBot2(AI):
 		
 		high_risk = 0.2
 		med_risk = 0.1
-		high_odds = 2.5
-		med_odds = 0.9
+		high_odds = 2.0
+		med_odds = 1.2
 	
 		"""
 		"""

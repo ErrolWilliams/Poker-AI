@@ -39,6 +39,7 @@ margin: 0;
 						response = JSON.parse(xhr.responseText);
 						lastTimestamp = response.lastTimestamp;
 						processLog(response.log);
+						document.title = response.globalTitle;
 					}
 				}
 				xhr.open('GET', '/ajax/' + lastTimestamp, true);
