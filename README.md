@@ -4,14 +4,17 @@ Bot that plays poker and uses machine learning to become a better player (hopefu
 Make sure you have Python 3.6.5 or greater installed, then run setup_environment.py as superuser to install the required modules!
 #### Running the code
 ```sh
-$ python3 Poker-AI.py --help
+$ ./Poker-AI.py --help
 (lists all options)
 
-$ python3 Poker-AI.py --stats
+$ ./Poker-AI.py server stats
 (run as stats bot)
 
-$ python3 Poker-AI.py -t --stats -p george
-(run on training server as stats bot with playername george)
+$ ./Poker-AI.py practice stats --name george
+(run on practice server as stats bot with playername george)
+
+$ ./Poker-AI.py practice bot --load basicPlayer1 --name george
+(run on practice server as old-style bot with model basicPlayer1 and player name george)
 ```
 #### Workflow
 <pre>
