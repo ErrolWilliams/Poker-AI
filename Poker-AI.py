@@ -11,13 +11,13 @@ if '-o' in sys.argv:
 from poker import client
 from poker.model import load
 import argparse
-from poker.lookup import *
+#import poker.lookup
 import poker.train
 import poker
 import signal
 from poker.ai import AI
 from poker.ai.old import OldBot
-from poker.ai.stat import StatBot, StatBot2
+from poker.ai.stat import StatBot, StatBot2, StatBot3
 from poker.ai.qbot import QBot
 from poker.ai.user import UserBot
 
@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 	# Positional arguments
 	parser.add_argument('env', metavar='Environment', type=str, help='(server|practice|roomai)')
-	parser.add_argument('bot', metavar='Bot', type=str, help='(bot|stats|stats2|qbot)')
+	parser.add_argument('bot', metavar='Bot', type=str, help='(bot|stats|stats2|stats3|qbot)')
 
 	# Optional arguments
 	parser.add_argument('-n', '--name', help='Bot player name on server', required=False, default=PLAYER_NAME) 
@@ -59,6 +59,8 @@ if __name__ == "__main__":
 		ai = OldBot(model_name, args.version)
 	elif args.bot == 'stats2':
 		ai = StatBot2()
+	elif args.bot == 'stats3':
+		ai = StatBot3()
 	elif args.bot == 'user':
 		ai = UserBot()
 	elif args.bot == 'qbot':
