@@ -1,5 +1,6 @@
 import os
 import h5py
+import sys
 import tensorflow as tf
 import tensorflow.contrib.eager as tfe
 
@@ -13,9 +14,9 @@ def load(model_name):
     # different responses neural net can output
     if 'marvel' in model_name:
 	    class_names = ['all','bet', 'call', 'check', 'fold', 'raise']
-    script_dir = os.path.dirname(os.path.realpath(__file__))
-    print(os.path.join(script_dir, model_name))
-    MODEL = tf.keras.models.load_model(os.path.join(script_dir, model_name))
+    model_path = os.path.join(os.path.dirname(sys.argv[0]), "models", model_name)
+    print(model_path)
+    MODEL = tf.keras.models.load_model(model_path)
     print("MODEL BEFORE: " + str(MODEL))
 
 def get_action(inputs):
