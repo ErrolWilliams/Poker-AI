@@ -184,10 +184,7 @@ class StatBot3(AI):
                                     else:
                                             return action.Check()
                             else:
-                                    if cur_bet > 0:
-                                            return action.Fold()
-                                    else:
-                                            return action.Check()
+                                    return action.Check()
                     elif round_risk > med_risk:    # med risk   
                             if odds > high_odds:
                                     if cur_bet > 0:
@@ -200,10 +197,7 @@ class StatBot3(AI):
                                     else:
                                             return action.Check()
                             else:
-                                    if cur_bet > 0:
-                                            return action.Fold()
-                                    else:
-                                            return action.Check()
+                                    return action.Check()
                     else:                        # low risk
                             if odds > high_odds:
                                     if cur_bet > 0:
@@ -216,9 +210,6 @@ class StatBot3(AI):
                                     else:
                                             return action.Bet(int(self.player.chips*0.05))
                             else:
-                                    if cur_bet > 0:
-                                            return action.Fold()
-                                    else:
-                                            return action.Check()
+                                    return action.Check()
                 else:
                     return action.Fold()
