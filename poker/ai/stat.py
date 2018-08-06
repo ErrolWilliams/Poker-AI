@@ -127,7 +127,7 @@ class StatBot3(AI):
                 high_odds = 0.8   # winning over 80% of monte carlo is high odds
                 med_odds = 0.5    # winning over 50% of monte carlo is medium odds
                 
-                preflop_slope = 0.1  # slope for pre flop playability 
+                preflop_slope = 0.5  # slope for pre flop playability 
                 flop_slope = 0.5     # slope for flop playability 
                 turn_slope = 0.4     # slope for turn playability 
                 river_slope = 0.4    # slope for river playability  
@@ -154,7 +154,7 @@ class StatBot3(AI):
                 cur_bet = self.player.min_bet - self.table.small_blind
                 my_bet = self.player.bet + self.player.round_bet + self.player.min_bet
                 
-                risk = my_bet / float(my_bet + chips)  # percentage of chips at stake
+                round_risk = my_bet / float(my_bet + chips)  # percentage of chips at stake
                 odds = self.get_odds()                 # percentage of winning based off monte carlo
                 
                 if round_risk > high_risk:
@@ -171,7 +171,7 @@ class StatBot3(AI):
                         Odds = 'low'
                 print('Risk: {0}({1})\nOdds: {2}({3})'.format(round_risk, Risk, odds, Odds))
 
-                if risk*slope >= odds:          # if true will play this hand    
+                if odds >= (round_risk*slope + intercept):          # if true will play this hand    
                     if round_risk > high_risk:     # high risk
                             if odds > high_odds:
                                     if cur_bet > 0:
@@ -220,3 +220,5 @@ class StatBot3(AI):
                                             return action.Fold()
                                     else:
                                             return action.Check()
+                else:
+                    return action.Fold()
