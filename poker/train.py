@@ -2,12 +2,12 @@ import roomai
 from roomai import common, texas
 import poker.ai
 import random
+from poker.ai import AI
+from poker.ai.old import OldBot
+from poker.ai.stat import StatBot, StatBot2
+from poker.ai.qbot import QBot
+from poker.ai.user import UserBot
 
-#----------------------------------------------------------
-
-
-
-#----------------------------------------------------------
 
 class BlackPanther(object):
 	
@@ -15,7 +15,7 @@ class BlackPanther(object):
 		self.ai = ai
 		
 	def receive_info(self, info, public_state):
-		self.ai.attach(info.person_state.id)
+		self.update_ai(info, public_state)
 		self.available_actions = info.person_state.available_actions
 		print("pub")
 		print(public_state.public_cards)
@@ -23,38 +23,33 @@ class BlackPanther(object):
 		print(info.person_state.hand_cards)
 		self.ai.roomai_update(info, public_state)
 
-	
+	def update_ai(self, info, public_state):
+		self.ai.attach(info.person_state.id)
+		self.ai.table.roomai_update(info, public_state)
+
 	def take_action(self):
 		action = self.ai.request()
 		print(self.available_actions)
 		return action.to_roomai(self.ai, self.available_actions)
 		
-		
 	def round_end(self, info, public_state):
-		self.ai.roomai_update(info, public_state)
+		self.update_ai(info, public_state)
 		self.ai.round_end()
-		
 
 #--------------------------------------------------------------
 def random_ai():
 	def make_qbot():
-		r = poker.ai.QBot()
-		r.load_model('nachos')
+		r = QBot(load='nachos')
 		return r
 	
 	ais = [
 		make_qbot,
-		lambda: poker.ai.StatBot(),
-		lambda: poker.ai.StatBot2()
+		lambda: StatBot(),
+		lambda: StatBot2()
 	]
 	return random.choice(ais)()
 
 def new_game(ai, num_players):
-    ai2 = poker.ai.QBot()
-    ai2.create_model()
-    ai3 = poker.ai.StatBot()
-    ai4 = poker.ai.OldBot(model_name="basicPlayer1")
-    players     = [BlackPanther(ai), BlackPanther(ai2), BlackPanther(ai3)]
     players = []
     for i in range(num_players):
         players.append(BlackPanther(random_ai()))
