@@ -1,20 +1,12 @@
 #!/usr/bin/env python3
 import httprint
-import tensorflow as tf
+import tensorflow
 import sys
-
-# Because tensorflow gave me errors when I put this further down
-if '-o' in sys.argv:
-	print("Eager mode!")
-	tf.enable_eager_execution()
-
-from poker import client
-from poker.model import load
 import argparse
-import poker.lookup
-import poker.train
 import poker
 import signal
+
+from poker import model, train, client
 from poker.ai import AI
 from poker.ai.old import OldBot
 from poker.ai.stat import StatBot, StatBot2, StatBot3
@@ -53,8 +45,10 @@ if __name__ == "__main__":
 
 	args = parser.parse_args()
 
+
 	# Create bot
 	if args.bot == 'bot':
+		tensorflow.enable_eager_execution()
 		model_name = args.load or DEFAULT_OLD_MODEL
 		ai = OldBot(model_name, args.version)
 	elif args.bot == 'stats2':
@@ -90,5 +84,5 @@ if __name__ == "__main__":
 		exit_gracefully()
 	elif args.env in ('server', 'practice'):
 		server = SERVERS[args.env]
-		cli = client.Client(server, args.name, ai)
+		cli = poker.client.Client(server, args.name, ai)
 		cli.run()
