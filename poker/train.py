@@ -26,7 +26,6 @@ class BlackPanther(object):
 
 	def take_action(self):
 		action = self.ai.request()
-		print(self.available_actions)
 		return action.to_roomai(self.ai, self.available_actions)
 		
 	def round_end(self, info, public_state):

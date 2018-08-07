@@ -32,7 +32,6 @@ class Table(object):
 		
 	def roomai_update(self, info, public_state):
 		self.board = [x.key[0] + x.key[2] for x in public_state.public_cards]
-		self.small_blind = 0
 		for i in range(len(public_state.chips)):
 			self.get_player(i).roomai_update(info, public_state)
 

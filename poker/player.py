@@ -1,3 +1,4 @@
+import json
 
 class Player(object):
 	def __init__(self, playername):
@@ -10,17 +11,17 @@ class Player(object):
 		self.chips = public_state.chips[self.playername]
 		self.bet = public_state.bets[self.playername]
 		self.min_bet = 0
-		self.round_bet = 0
 		if info.person_state.id == self.playername:
 			self.cards = [x.key[0] + x.key[2] for x in info.person_state.hand_cards]
 			print(self.cards)
 
 		pass
-		self.folded = public_state.is_fold  # player's fold status
-		self.allIn = False                  # TODO
-		self.isSurvive = True               # TODO 
-		self.reloadCount = 0                # no reloads in roomai
-		self.round_bet = public_state.bets[self.my_id]
+		self.max_bet_sofar = public_state.max_bet_sofar
+		self.folded = public_state.is_fold[self.playername]  # player's fold status
+		self.allIn = False                                   # TODO
+		self.isSurvive = True                                # TODO 
+		self.reloadCount = 0                                 # no reloads in roomai
+		self.round_bet = public_state.bets[self.playername]  # amount bet this round
 
 	def json_update(self, json_obj):
 		self.chips = json_obj["chips"]
