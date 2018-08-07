@@ -35,10 +35,10 @@ class Table(object):
 		for i in range(len(public_state.chips)):
 			self.get_player(i).roomai_update(info, public_state)
 
-
-		#self.board = [x.key for x in public_state.public_cards]
-		print(self.board)
 		self.round = [0, 3, 4, 5].index(len(self.board))
+		self.small_blind = public_state.big_blind_bet/2
+		self.raise_count = 0
+		self.bet_count = 0
 	
 	def json_update(self, json_data_obj):
 		self.json = json_data_obj
