@@ -3,10 +3,13 @@ class Player(object):
 	def __init__(self, playername):
 		self.playername = playername
 		self.folded = False
+		
 
 	def roomai_update(self, info, public_state):
 		self.chips = public_state.chips[self.playername]
 		self.bet = public_state.bets[self.playername]
+		self.min_bet = 0
+		self.round_bet = 0
 		if info.person_state.id == self.playername:
 			self.cards = [x.key[0] + x.key[2] for x in info.person_state.hand_cards]
 			print(self.cards)

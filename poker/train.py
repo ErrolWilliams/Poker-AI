@@ -17,11 +17,8 @@ class BlackPanther(object):
 	def receive_info(self, info, public_state):
 		self.update_ai(info, public_state)
 		self.available_actions = info.person_state.available_actions
-		print("pub")
 		print(public_state.public_cards)
-		print
 		print(info.person_state.hand_cards)
-		self.ai.roomai_update(info, public_state)
 
 	def update_ai(self, info, public_state):
 		self.ai.attach(info.person_state.id)
@@ -131,7 +128,7 @@ def play(rounds, ai, num_players):
 def train(ai):
     num_epoch   = 100     # Number of Epoch (An Epoch is a single cycle of simulation and learning from the simulations.)
     num_rounds  = 50     # Number of Rounds per epoch
-    num_play    = random.choice([4,5,6,7,8,9,10,11])
+    num_play    = random.choice([4,5,6])
     
     training_data = []
     round_data = []
