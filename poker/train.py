@@ -10,14 +10,13 @@ from poker.ai.user import UserBot
 
 
 class BlackPanther(object):
-	
+    
 	def __init__(self, ai):
 		self.ai = ai
 		
 	def receive_info(self, info, public_state):
 		self.update_ai(info, public_state)
 		self.available_actions = info.person_state.available_actions
-		print("pub")
 		print(public_state.public_cards)
 		print(info.person_state.hand_cards)
 
@@ -130,6 +129,7 @@ def play(rounds, ai, num_players):
 def train(ai):
     num_epoch   = 100     # Number of Epoch (An Epoch is a single cycle of simulation and learning from the simulations.)
     num_rounds  = 50     # Number of Rounds per epoch
+    
     num_play    = random.choice([4,5,6,7,8,9,10])
     
     training_data = []
