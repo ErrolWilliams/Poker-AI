@@ -30,7 +30,8 @@ class Action(object):
 
 	
 	def to_roomai(self, ai, available_actions):
-		print("BAD! THIS SHOULDNT BE CALLED!")
+		for action in available_actions.values():
+			print(action)
 		exit()
 		return ""
 
