@@ -73,6 +73,8 @@ if __name__ == "__main__":
 		if args.save != None:
 			ai.save_model(args.save)
 			print(f"Saved model to {args.save}")
+		if args.env == 'roomai':
+			poker.train.show_results()
 		exit()
 
 	signal.signal(signal.SIGINT, exit_gracefully)

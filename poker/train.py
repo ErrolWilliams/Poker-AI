@@ -2,20 +2,23 @@ import roomai
 from roomai import common, texas
 import poker.ai
 import random
+import matplotlib.pyplot as plt
 from poker.ai import AI
 from poker.ai.old import OldBot
 from poker.ai.stat import StatBot, StatBot2
 from poker.ai.qbot import QBot
 from poker.ai.user import UserBot
 
+score_rounds = []
+ai_scores = []
 
 class BlackPanther(object):
     
 	def __init__(self, ai):
 		self.ai = ai
 		
-	def receive_info(self, info, public_state):
-		self.update_ai(info, public_state)
+	def receive_info(self, info):
+		self.update_ai(info, info.public_state)
 		self.available_actions = info.person_state.available_actions
 
 	def update_ai(self, info, public_state):
@@ -26,8 +29,8 @@ class BlackPanther(object):
 		action = self.ai.request()
 		return action.to_roomai(self.ai, self.available_actions)
 		
-	def round_end(self, info, public_state):
-		self.update_ai(info, public_state)
+	def round_end(self, info):
+		self.update_ai(info, info.public_state)
 		self.ai.round_end()
 
 #--------------------------------------------------------------
@@ -37,7 +40,7 @@ def random_ai():
 		return r
 	
 	ais = [
-		make_qbot,
+		# make_qbot,
 		lambda: StatBot(),
 		lambda: StatBot2()
 	]
@@ -45,6 +48,7 @@ def random_ai():
 
 def new_game(ai, num_players):
     players = []
+    players.append(BlackPanther(ai))
     for i in range(num_players):
         players.append(BlackPanther(random_ai()))
     env         = roomai.texas.TexasHoldemEnv()
@@ -96,13 +100,12 @@ def play(rounds, ai, num_players):
     terminal = False
     
     for round_num in range(rounds):
-        print('    {0}'.format(round_num))
 
         if (round_num % 10) == 9:
             big_blind = big_blind * 2   # Double blind every 10 rounds
             
         for i in range(num_players):    # Send each player Public_state and Personal info
-                players[i].receive_info(infos[i], public_state)
+                players[i].receive_info(infos[i])
                 
         # Play till winner
         while public_state.is_terminal == False:
@@ -111,31 +114,42 @@ def play(rounds, ai, num_players):
             infos, public_state, person_states, private_state = env.forward(action)
 
             for i in range(num_players):
-                players[i].receive_info(infos[i], public_state)
+                players[i].receive_info(infos[i])
 
         player, num_players, infos, public_state, person_state, private_state, terminal = next_round(env, players, public_state, big_blind)
 
         for i in range(num_players):
-            players[i].round_end(infos[i], public_state)
+            players[i].round_end(infos[i])
 
         if terminal:
             break
 
 #----------------------------------------------------------------
+
+def compete_stats(ai, num_players):
+	players, env, num_players, infos, public_state, person_state, private_state, big_blind = new_game(ai, num_players)
+	scores = env.compete(env,players)
+	return scores[ai.player_id]	
+
+#----------------------------------------------------------------
+
+def show_results():
+	plt.scatter(score_rounds, ai_scores)
+	plt.show()
+
+#----------------------------------------------------------------
+
 def train(ai):
-    num_epoch   = 100     # Number of Epoch (An Epoch is a single cycle of simulation and learning from the simulations.)
-    num_rounds  = 50     # Number of Rounds per epoch
-    
-    num_play    = random.choice([4,5,6,7,8,9,10])
-    
-    training_data = []
-    round_data = []
-    for i in range(num_play):
-        round_data.append([])
-    
-    for i in range(num_epoch):
-        print('Game {0}'.format(i+1))
-        for i in range(num_play):
-            round_data.append([])
-        play(num_rounds, ai, num_play)
-        from copy import deepcopy
+	global score_rounds
+	global ai_scores
+	num_epoch   = 10000     # Number of Epoch (An Epoch is a single cycle of simulation and learning from the simulations.)
+	num_rounds  = 50     # Number of Rounds per epoch
+
+	for i in range(num_epoch):
+		print('Game {0}'.format(i+1))
+		num_play    = random.choice([4,5,6,7,8,9])
+		play(num_rounds, ai, num_play)
+		if i % 100 == 0:      # every 100 games compete and save win percent
+			score_rounds.append(i)
+			ai_scores.append(compete_stats(ai, num_play))
+	show_results()

@@ -10,8 +10,8 @@ class StatBot(AI):
                 monte_odds = self.get_odds()
                 round_num = self.table.round
 
-                print("Using stats!")
-                print(f"monte_odds={monte_odds} round={self.table.round}")
+                # print("Using stats!")
+                # print(f"monte_odds={monte_odds} round={self.table.round}")
                 if monte_odds > 0.85:
                         return action.Bet(int(self.player.chips*0.5))
                 elif monte_odds > 0.75:
@@ -61,7 +61,7 @@ class StatBot2(AI):
                         Odds = 'med'
                 else:
                         Odds = 'low'
-                print('Risk: {0}({1})\nOdds: {2}({3}\nBet: {4})'.format(round_risk, Risk, odds, Odds, cur_bet))
+                # print('Risk: {0}({1})\nOdds: {2}({3}\nBet: {4})'.format(round_risk, Risk, odds, Odds, cur_bet))
                 
                 if round_risk > high_risk:     # high risk
                         if odds > high_odds:
@@ -169,7 +169,7 @@ class StatBot3(AI):
                         Odds = 'med'
                 else:
                         Odds = 'low'
-                print('Risk: {0}({1})\nOdds: {2}({3})'.format(round_risk, Risk, odds, Odds))
+                # print('Risk: {0}({1})\nOdds: {2}({3})'.format(round_risk, Risk, odds, Odds))
 
                 if odds >= (round_risk*slope + intercept):          # if true will play this hand    
                     if round_risk > high_risk:     # high risk

@@ -14,6 +14,7 @@ class QBot(AI):
 		self.version = 0
 		np.set_printoptions(suppress=True)
 		self.load_model(load)
+		self.game_num = 1
 
 	def create_model(self):
 		self.model = keras.Sequential()
@@ -47,18 +48,25 @@ class QBot(AI):
 
 	def round_end(self):
 		self.reinforce(0)
+	
+	def game_end(self):
+		if self.game_num % 100 == 0:
+			print('Saving model at game {0}'.format(self.game_num))
+			ai.save_model('{0}-{1}'.format(self.name, self.game_num))		
+		self.game_num += 1
+		
 
 	def reinforce(self, qmax):
 		if self.last_action == None:
 			return
-		print("Reinforcing!")
+		# print("Reinforcing!")
 
 		y = 0.95
 
 		last_reward = self.player.chips - self.last_chips
 		last_reward_mod = last_reward + y * qmax
-		print(f'Last input was {self.last_input}')
-		print("Action {} resulted in reward of {}... That's {}!. Reinforcing from {} to {}".format(self.last_action.action_name, last_reward, 'good' if last_reward > 0 else ('bad' if last_reward < 0 else 'very interesting'), self.last_prediction[0][self.last_action.index()], last_reward_mod))
+		# print(f'Last input was {self.last_input}')
+		# print("Action {} resulted in reward of {}... That's {}!. Reinforcing from {} to {}".format(self.last_action.action_name, last_reward, 'good' if last_reward > 0 else ('bad' if last_reward < 0 else 'very interesting'), self.last_prediction[0][self.last_action.index()], last_reward_mod))
 
 		self.last_prediction[0][self.last_action.index()] = last_reward_mod
 		self.model.fit(self.last_input, self.last_prediction, epochs=1, verbose=0)
@@ -79,17 +87,17 @@ class QBot(AI):
 	def request(self):
 		the_input = self.create_input_q()
 		prediction = self.model.predict(the_input)
-		print(prediction)
+		# print(prediction)
 
 		self.reinforce(np.max(prediction))
 
 		self.eps *= self.decay_factor
-		print(f"EPS: {self.eps}")
+		# print(f"EPS: {self.eps}")
 		if np.random.random() < self.eps:
-			print("Taking random action")
+			# print("Taking random action")
 			next_action = action.Action.random()
 		else:
-			print("Taking predicted action")
+			# print("Taking predicted action")
 			next_action = action.Action.from_index(np.argmax(prediction))
 
 		self.last_input = the_input

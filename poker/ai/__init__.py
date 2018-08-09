@@ -40,6 +40,9 @@ class AI():
 	def round_end(self):
 		pass
 
+	def game_end(self):
+		pass
+
 	def get_odds(self):
 		if self.version == 1:
 			return self.get_odds_2()

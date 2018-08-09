@@ -1,4 +1,3 @@
-import pdb
 import json
 
 class Player(object):
