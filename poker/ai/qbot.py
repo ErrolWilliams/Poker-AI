@@ -50,6 +50,8 @@ class QBot(AI):
 		self.reinforce(0)
 	
 	def game_end(self):
+		print('eps: {0}'.format(self.eps))
+		self.eps *= self.decay_factor
 		if self.game_num % 100 == 0:
 			print('Saving model at game {0}'.format(self.game_num))
 			ai.save_model('{0}-{1}'.format(self.name, self.game_num))		
@@ -91,7 +93,7 @@ class QBot(AI):
 
 		self.reinforce(np.max(prediction))
 
-		self.eps *= self.decay_factor
+		# self.eps *= self.decay_factor   moved to game_end
 		# print(f"EPS: {self.eps}")
 		if np.random.random() < self.eps:
 			# print("Taking random action")
