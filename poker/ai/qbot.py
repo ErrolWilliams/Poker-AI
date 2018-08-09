@@ -50,7 +50,7 @@ class QBot(AI):
 		self.reinforce(0)
 	
 	def game_end(self):
-		print('eps: {0}'.format(self.eps))
+		# print('eps: {0}'.format(self.eps))
 		self.eps *= self.decay_factor
 		if self.game_num % 100 == 0:
 			print('Saving model at game {0}'.format(self.game_num))
