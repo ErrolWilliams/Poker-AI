@@ -24,12 +24,6 @@ def monteCarlo(board, hand, numPlayers, monteN):
             board.append(monteDeck[randomIndex])
             del monteDeck[randomIndex]
         win = True
-        '''
-        board = ['4d', '3d', '7h', '6d', '9d']
-        board = [Card.new(x) for x in board]
-        hand = ['3d', '8c']
-        hand = [Card.new(x) for x in hand]
-        '''
         
         handRank = evaluator.evaluate(board, hand)
         for x in range(numPlayers):

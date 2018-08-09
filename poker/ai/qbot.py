@@ -79,6 +79,7 @@ class QBot(AI):
 	def request(self):
 		the_input = self.create_input_q()
 		prediction = self.model.predict(the_input)
+		print(prediction)
 
 		self.reinforce(np.max(prediction))
 
