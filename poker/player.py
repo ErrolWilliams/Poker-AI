@@ -1,3 +1,4 @@
+import pdb
 import json
 
 class Player(object):
@@ -10,16 +11,14 @@ class Player(object):
 	def roomai_update(self, info, public_state):
 		self.chips = public_state.chips[self.playername]
 		self.bet = public_state.bets[self.playername]
-		self.min_bet = 0
+		
+		self.min_bet = public_state.max_bet_sofar - public_state.bets[self.playername]
+		if self.min_bet == 0:
+			self.min_bet = public_state.big_blind_bet/2
 		if info.person_state.id == self.playername:
 			self.cards = [x.key[0] + x.key[2] for x in info.person_state.hand_cards]
-			print(self.cards)
-
-		pass
 		self.max_bet_sofar = public_state.max_bet_sofar
 		self.folded = public_state.is_fold[self.playername]  # player's fold status
-		self.allIn = False                                   # TODO
-		self.isSurvive = True                                # TODO 
 		self.reloadCount = 0                                 # no reloads in roomai
 		self.round_bet = public_state.bets[self.playername]  # amount bet this round
 

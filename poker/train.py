@@ -17,8 +17,6 @@ class BlackPanther(object):
 	def receive_info(self, info, public_state):
 		self.update_ai(info, public_state)
 		self.available_actions = info.person_state.available_actions
-		print(public_state.public_cards)
-		print(info.person_state.hand_cards)
 
 	def update_ai(self, info, public_state):
 		self.ai.attach(info.person_state.id)
@@ -98,7 +96,7 @@ def play(rounds, ai, num_players):
     terminal = False
     
     for round_num in range(rounds):
-        print(str(round_num))
+        print('    {0}'.format(round_num))
 
         if (round_num % 10) == 9:
             big_blind = big_blind * 2   # Double blind every 10 rounds
@@ -109,7 +107,6 @@ def play(rounds, ai, num_players):
         # Play till winner
         while public_state.is_terminal == False:
             turn = public_state.turn
-            print(num_players)
             action = players[turn].take_action()
             infos, public_state, person_states, private_state = env.forward(action)
 
@@ -137,10 +134,8 @@ def train(ai):
         round_data.append([])
     
     for i in range(num_epoch):
-        print(f'Starting Game {i}!')
+        print('Game {0}'.format(i+1))
         for i in range(num_play):
             round_data.append([])
         play(num_rounds, ai, num_play)
         from copy import deepcopy
-
-    print("PUMPKIN: " + str(training_data))
