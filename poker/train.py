@@ -155,7 +155,7 @@ def train(ai):
 		num_play    = random.choice([4,5,6,7,8,9])
 		play(num_rounds, ai, num_play)
 		ai.game_end()
-		if i % 20 == 0:      # every 100 games compete and save win percent
+		if i % 100 == 0:      # every 100 games compete and save win percent
 			score_rounds.append(float(i))
 			ai_scores.append(compete_stats(ai, num_play))
 			update_plot()
