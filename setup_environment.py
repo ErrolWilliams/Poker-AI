@@ -5,7 +5,6 @@ packages = [
 	'lxml',
 	'tensorflow',
 	'websockets',
-	'roomai',
 	'numpy',
 	'h5py',
     'treys'
