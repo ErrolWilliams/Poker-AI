@@ -38,7 +38,7 @@ class QBot(AI):
 		self.model.compile(loss='mse', optimizer='adam', metrics=['mae'])
 
 	def save_model(self, model_name):
-		model_path = os.path.join(os.path.dirname(sys.argv[0]), "models", model_name)
+		model_path = os.path.join(os.path.dirname(sys.argv[0]), "qmodels", model_name)
 		keras.models.save_model(
 			self.model,
 			model_path,
@@ -52,9 +52,9 @@ class QBot(AI):
 	def game_end(self):
 		# print('eps: {0}'.format(self.eps))
 		self.eps *= self.decay_factor
-		if self.game_num % 100 == 0:
+		if self.game_num % 100 == 0:      #save model every 100 games
 			print('Saving model at game {0}'.format(self.game_num))
-			ai.save_model('{0}-{1}'.format(self.name, self.game_num))		
+			self.save_model('{0}-{1}'.format(self.name, self.game_num))		
 		self.game_num += 1
 		
 
