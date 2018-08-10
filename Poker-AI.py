@@ -58,7 +58,7 @@ if __name__ == "__main__":
 	elif args.bot == 'user':
 		ai = UserBot()
 	elif args.bot == 'qbot':
-		ai = QBot(load=args.load, eps=args.eps)
+		ai = QBot(load=args.load, save=args.save, eps=args.eps)
 
 	# Setup remote console output
 	if args.port != -1:
@@ -70,9 +70,7 @@ if __name__ == "__main__":
 	# Save model on exit
 	def exit_gracefully(signum=None, frame=None):
 		print("Exiting Gracefully!")
-		if args.save != None:
-			ai.save_model(args.save)
-			print(f"Saved model to {args.save}")
+		ai.cleanup()
 		if args.env == 'roomai':
 			poker.train.update_plot()
 		exit()

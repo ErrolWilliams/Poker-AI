@@ -6,7 +6,7 @@ import os
 import sys
 
 class QBot(AI):
-	def __init__(self, load=None, eps=0.5):
+	def __init__(self, load=None, save=None, eps=0.5):
 		super().__init__()
 		self.eps = eps
 		self.decay_factor = 0.999
@@ -15,6 +15,7 @@ class QBot(AI):
 		np.set_printoptions(suppress=True)
 		self.load_model(load)
 		self.game_num = 1
+		self.save_model_name = save
 
 	def create_model(self):
 		self.model = keras.Sequential()
@@ -36,14 +37,18 @@ class QBot(AI):
 		self.model = keras.models.load_model(model_path)
 		self.model.compile(loss='mse', optimizer='adam', metrics=['mae'])
 
-	def save_model(self, model_name):
-		model_path = os.path.join(os.path.dirname(sys.argv[0]), "qmodels", model_name)
+	def save_model(self, num=None):
+		if not self.save_model_name:
+			return
+		name = self.save_model_name if not num else f'{self.save_model_name}-{num}'
+		model_path = os.path.join(os.path.dirname(sys.argv[0]), "qmodels", name)
 		keras.models.save_model(
 			self.model,
 			model_path,
 			overwrite=True,
 			include_optimizer=False
         )
+		print(f'Saved model to {name}')
 
 	def round_end(self):
 		self.reinforce(0)
@@ -54,9 +59,11 @@ class QBot(AI):
 			self.eps *= self.decay_factor
 		if self.game_num % 100 == 0:      #save model every 100 games
 			print('Saving model at game {0}'.format(self.game_num))
-			self.save_model('{0}-{1}'.format(self.name, self.game_num))		
+			self.save_model(self.game_num)
 		self.game_num += 1
-		
+
+	def cleanup(self):
+		self.save_model()
 
 	def reinforce(self, qmax):
 		if self.last_action == None:

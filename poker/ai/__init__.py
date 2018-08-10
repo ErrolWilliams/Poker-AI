@@ -18,6 +18,9 @@ class AI():
 	def name(self):
 		return self.__class__.__name__
 
+	def cleanup(self):
+		print('Cleanup')
+
 	def attach(self, player_id):
 		self.player_id = player_id
 		self.player = self.table.get_player(self.player_id)
