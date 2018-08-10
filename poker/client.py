@@ -107,29 +107,37 @@ class Client(object):
 		print("Created player {} (MD5 {})".format(playername, md5))
 
 	def log(self, sender, msg):
-		import fcntl
-		log_msg = f"[{self.playername}] from {sender} : {msg}\n"
-		with open("client_log.txt", "a+") as log:
-			fcntl.flock(log, fcntl.LOCK_EX)
-			log.write(log_msg)
-			fcntl.flock(log, fcntl.LOCK_UN)
+		# No fcntl on Windows... will silently fail
+		try:
+			import fcntl
+			log_msg = f"[{self.playername}] from {sender} : {msg}\n"
+			with open("client_log.txt", "a+") as log:
+				fcntl.flock(log, fcntl.LOCK_EX)
+				log.write(log_msg)
+				fcntl.flock(log, fcntl.LOCK_UN)
+		except Error as e:
+			pass
 
 
 	async def main_loop(self):
 		print(self.server)
-		async with websockets.connect(self.server) as sock:
-			server_msg = '{"eventName" : "__connect"}'
-			while(True):
-				client_response = self.on_event(json.loads(server_msg))
+		while(True):
+			try:
+				async with websockets.connect(self.server) as sock:
+					server_msg = '{"eventName" : "__connect"}'
+					while(True):
+						client_response = self.on_event(json.loads(server_msg))
 
-				if client_response != None:
-					client_response_txt = json.dumps(client_response)
-					print(client_response_txt)
-					self.log("Client", client_response_txt)
-					await sock.send(client_response_txt)
+						if client_response != None:
+							client_response_txt = json.dumps(client_response)
+							print(client_response_txt)
+							self.log("Client", client_response_txt)
+							await sock.send(client_response_txt)
 
-				server_msg = await sock.recv()
-				self.log("Server", server_msg)
+						server_msg = await sock.recv()
+						self.log("Server", server_msg)
+			except ConnectionRefusedError as e:
+				print("Connection refused... retrying")
 
 	def run(self):
 		asyncio.get_event_loop().run_until_complete(self.main_loop())

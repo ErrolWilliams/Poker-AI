@@ -6,7 +6,6 @@ import argparse
 import poker
 import signal
 
-from poker import model, train, client
 from poker.ai import AI
 from poker.ai.old import OldBot
 from poker.ai.stat import StatBot, StatBot2, StatBot3
@@ -80,9 +79,11 @@ if __name__ == "__main__":
 
 	# Start environment
 	if args.env == 'roomai':
+		from poker import train
 		poker.train.train(ai)
 		exit_gracefully()
 	elif args.env in ('server', 'practice'):
+		from poker import client
 		server = SERVERS[args.env]
 		cli = poker.client.Client(server, args.name, ai)
 		cli.run()
