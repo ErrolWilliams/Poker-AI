@@ -6,10 +6,9 @@ packages = [
 	'tensorflow',
 	'websockets',
 	'roomai',
-	'tflearn',
 	'numpy',
 	'h5py',
-        'treys'
+    'treys'
 ]
 
 def install(package_name):

@@ -3,7 +3,6 @@ from poker.ai import AI
 import asyncio
 import json
 import hashlib
-import fcntl
 
 '''
 Handle server events using the AI member functions below. The 'event' parameter is
@@ -108,6 +107,7 @@ class Client(object):
 		print("Created player {} (MD5 {})".format(playername, md5))
 
 	def log(self, sender, msg):
+		import fcntl
 		log_msg = f"[{self.playername}] from {sender} : {msg}\n"
 		with open("client_log.txt", "a+") as log:
 			fcntl.flock(log, fcntl.LOCK_EX)
