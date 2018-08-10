@@ -147,7 +147,7 @@ def update_plot():
 def train(ai):
 	global score_rounds
 	global ai_scores
-	num_epoch   = 10000     # Number of Epoch (An Epoch is a single cycle of simulation and learning from the simulations.)
+	num_epoch   = 10000   # Number of Epoch (An Epoch is a single cycle of simulation and learning from the simulations.)
 	num_rounds  = 50     # Number of Rounds per epoch
 
 	for i in range(num_epoch):
@@ -159,4 +159,4 @@ def train(ai):
 			score_rounds.append(float(i))
 			ai_scores.append(compete_stats(ai, num_play))
 			update_plot()
-	show_results()
+	update_plot()	
