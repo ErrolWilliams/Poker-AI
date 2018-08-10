@@ -18,9 +18,8 @@ class QBot(AI):
 
 	def create_model(self):
 		self.model = keras.Sequential()
-		self.model.add(keras.layers.InputLayer(batch_input_shape=(1,7)))
-		
-		self.model.add(keras.layers.Dense(128, input_shape=(7,), activation='sigmoid'))
+		self.model.add(keras.layers.InputLayer(batch_input_shape=(1,4)))	
+		self.model.add(keras.layers.Dense(128, input_shape=(4,), activation='sigmoid'))
 		self.model.add(keras.layers.Dense(256, input_shape=(128,), activation='sigmoid'))
 		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='sigmoid'))
 		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='sigmoid'))
@@ -51,7 +50,8 @@ class QBot(AI):
 	
 	def game_end(self):
 		# print('eps: {0}'.format(self.eps))
-		self.eps *= self.decay_factor
+		if self.game_num % 2 == 0:	
+			self.eps *= self.decay_factor
 		if self.game_num % 100 == 0:      #save model every 100 games
 			print('Saving model at game {0}'.format(self.game_num))
 			self.save_model('{0}-{1}'.format(self.name, self.game_num))		
@@ -82,9 +82,10 @@ class QBot(AI):
 		raised = self.table.num_raise
 		total_chips = float(self.table.total_chips())
 		chips_percent = self.player.chips/total_chips
+		risk = self.player.bet/(self.player.bet + self.player.chips)
 		pot_percent = self.table.pot()/total_chips
 		num_players = self.players_active()
-		return np.array([[monte_odds, round_num, raised, chips_percent, pot_percent, total_chips, num_players]])
+		return np.array([[round(monte_odds,1), round(round_num,1), round(risk,1), round(num_players,1)]])
 
 	def request(self):
 		the_input = self.create_input_q()
