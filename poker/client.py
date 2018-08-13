@@ -32,6 +32,9 @@ class Client(object):
 		print(countdown)
 
 	def _new_round(self, event):
+		table_num = event['data']['table']['tableNumber']
+		table_url = 'http://{}/game.html?table={}'.format(self.server, table_num)
+		print(table_url)
 		
 #update_players(self, event['data']['players'])
 		return None
@@ -123,7 +126,7 @@ class Client(object):
 		print(self.server)
 		while(True):
 			try:
-				async with websockets.connect(self.server) as sock:
+				async with websockets.connect('ws://{}'.format(self.server)) as sock:
 					server_msg = '{"eventName" : "__connect"}'
 					while(True):
 						client_response = self.on_event(json.loads(server_msg))

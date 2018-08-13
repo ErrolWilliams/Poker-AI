@@ -13,8 +13,8 @@ from poker.ai.qbot import QBot
 from poker.ai.user import UserBot
 
 # Constants!
-PRACTICE_SERVER='ws://poker-dev.wrs.club:3001'
-SERVER='ws://atxholdem2.tplab.tippingpoint.com:3001' 
+PRACTICE_SERVER='poker-dev.wrs.club:3001'
+SERVER='atxholdem2.tplab.tippingpoint.com:3001' 
 
 SERVERS = {
 	'server': SERVER,
