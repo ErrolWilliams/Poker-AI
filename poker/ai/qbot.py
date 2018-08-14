@@ -6,7 +6,7 @@ import os
 import sys
 
 class QBot(AI):
-	def __init__(self, load=None, save=None, eps=0.5):
+	def __init__(self, load=None, save=None, eps=0.5, plot=True):
 		super().__init__()
 		self.eps = eps
 		self.decay_factor = 0.999
@@ -14,8 +14,13 @@ class QBot(AI):
 		self.version = 0
 		np.set_printoptions(suppress=True)
 		self.load_model(load)
-		self.game_num = 1
+		self.game_num = 0
+		self.num_wins = 0
 		self.save_model_name = save
+		self.plot_enabled = False
+
+		if plot:
+			self.plot_init()
 
 	def create_model(self):
 		self.model = keras.Sequential()
@@ -52,14 +57,45 @@ class QBot(AI):
 
 	def round_end(self):
 		self.reinforce(0)
+
+	def plot_init(self):
+		try:
+			import matplotlib.pyplot as plt
+			plt.ion()
+			plt.show()
+			print('plt.show()')
+			self.score_rounds = []
+			self.ai_scores = []
+			self.plot_enabled = True
+		except Exception as e:
+			print(f'Couldn\'t plot the plot: {e}')
+			
+
+	def update_plot(self, x, y):
+		print('call to update_plot')
+		if not self.plot_enabled:
+			return
+		try:
+			import matplotlib.pyplot as plt
+			self.score_rounds.append(x)
+			self.ai_scores.append(y)
+			plt.plot(self.score_rounds, self.ai_scores)
+			plt.draw()
+			plt.pause(0.001)
+			print('Plotted game_num: {}, score_%: {}'.format(x,y))
+		except Exception as e:
+			print('plot error: {}'.format(e))
 	
 	def game_end(self):
-		# print('eps: {0}'.format(self.eps))
+		PERIOD = 100
 		if self.game_num % 2 == 0:	
 			self.eps *= self.decay_factor
-		if self.game_num % 100 == 0:      #save model every 100 games
+		if self.game_num % PERIOD == 0:      #save model every 100 games
 			print('Saving model at game {0}'.format(self.game_num))
 			self.save_model(self.game_num)
+			self.update_plot(self.game_num, self.num_wins / PERIOD)
+			self.num_wins = 0
+		self.num_wins += self.did_i_win()
 		self.game_num += 1
 
 	def cleanup(self):

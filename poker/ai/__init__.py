@@ -34,6 +34,17 @@ class AI():
 
 		return num_active
 
+	def did_i_win(self):
+		my_chips = self.player.chips
+		for name, player in self.table.players.items():
+			if name == self.player_id:
+				continue
+			if player.chips > my_chips:
+				print('i lost :(')
+				return False
+		print('i won :-)')
+		return True
+
 	def treys_str(self, card_str):
 		return card_str[0].upper() + card_str[1].lower()
 	
