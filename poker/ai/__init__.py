@@ -18,6 +18,9 @@ class AI():
 	def name(self):
 		return self.__class__.__name__
 
+	def cleanup(self):
+		print('Cleanup')
+
 	def attach(self, player_id):
 		self.player_id = player_id
 		self.player = self.table.get_player(self.player_id)
@@ -30,6 +33,17 @@ class AI():
 				num_active += 1
 
 		return num_active
+
+	def did_i_win(self):
+		my_chips = self.player.chips
+		for name, player in self.table.players.items():
+			if name == self.player_id:
+				continue
+			if player.chips > my_chips:
+				print('i lost :(')
+				return False
+		print('i won :-)')
+		return True
 
 	def treys_str(self, card_str):
 		return card_str[0].upper() + card_str[1].lower()

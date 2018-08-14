@@ -6,7 +6,6 @@ import argparse
 import poker
 import signal
 
-from poker import model, train, client
 from poker.ai import AI
 from poker.ai.old import OldBot
 from poker.ai.stat import StatBot, StatBot2, StatBot3
@@ -59,7 +58,7 @@ if __name__ == "__main__":
 	elif args.bot == 'user':
 		ai = UserBot()
 	elif args.bot == 'qbot':
-		ai = QBot(load=args.load, eps=args.eps)
+		ai = QBot(load=args.load, save=args.save, eps=args.eps)
 
 	# Setup remote console output
 	if args.port != -1:
@@ -71,9 +70,7 @@ if __name__ == "__main__":
 	# Save model on exit
 	def exit_gracefully(signum=None, frame=None):
 		print("Exiting Gracefully!")
-		if args.save != None:
-			ai.save_model(args.save)
-			print(f"Saved model to {args.save}")
+		ai.cleanup()
 		if args.env == 'roomai':
 			poker.train.update_plot()
 		exit()
@@ -83,9 +80,11 @@ if __name__ == "__main__":
 
 	# Start environment
 	if args.env == 'roomai':
+		from poker import train
 		poker.train.train(ai)
 		exit_gracefully()
 	elif args.env in ('server', 'practice'):
+		from poker import client
 		server = SERVERS[args.env]
 		cli = poker.client.Client(server, args.name, ai)
 		cli.run()

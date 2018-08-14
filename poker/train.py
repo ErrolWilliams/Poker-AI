@@ -3,7 +3,10 @@ import roomai
 from roomai import common, texas
 import poker.ai
 import random
+<<<<<<< HEAD
 import matplotlib.pyplot as plt
+=======
+>>>>>>> b686a9f2771d321115c5fae7f2e2f8899f5cac71
 import time
 from poker.ai import AI
 from poker.ai.old import OldBot
@@ -14,8 +17,6 @@ from poker.ai.user import UserBot
 score_rounds = []
 ai_scores = []
 
-plt.ion()
-plt.show()
 
 class BlackPanther(object):
     
@@ -137,11 +138,21 @@ def compete_stats(ai, num_players):
 	return scores[ai.player_id]	
 
 #----------------------------------------------------------------
-
+plot_init = False
 def update_plot():
-	plt.plot(score_rounds, ai_scores)
-	plt.draw()
-	plt.pause(0.001)
+	return
+	global plot_init
+	try:
+		import matplotlib.pyplot as plt
+		if not plot_init:
+			plt.ion()
+			plt.show()
+			plot_init = True
+		plt.plot(score_rounds, ai_scores)
+		plt.draw()
+		plt.pause(0.001)
+	except Exception as e:
+		print(f'Couldn\'t plot the plot: {e}')
 #----------------------------------------------------------------
 
 def train(ai):
@@ -151,10 +162,11 @@ def train(ai):
 	num_rounds  = 50     # Number of Rounds per epoch
 
 	for i in range(num_epoch):
-		print('Game {0}'.format(i+1))
+		print('Game {0}'.format(i))
 		num_play    = random.choice([4,5,6,7,8,9])
 		play(num_rounds, ai, num_play)
 		ai.game_end()
+		continue
 		if i % 100 == 0:      # every 100 games compete and save win percent
 			score_rounds.append(float(i))
 			ai_scores.append(compete_stats(ai, num_play))
