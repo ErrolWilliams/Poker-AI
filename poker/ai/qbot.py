@@ -25,12 +25,12 @@ class QBot(AI):
 
 	def create_model(self):
 		self.model = keras.Sequential()
-		self.model.add(keras.layers.InputLayer(batch_input_shape=(1,4)))	
-		self.model.add(keras.layers.Dense(128, input_shape=(4,), activation='sigmoid'))
-		self.model.add(keras.layers.Dense(256, input_shape=(128,), activation='sigmoid'))
-		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='sigmoid'))
-		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='sigmoid'))
-		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='sigmoid'))
+		self.model.add(keras.layers.InputLayer(batch_input_shape=(1,5)))	
+		self.model.add(keras.layers.Dense(128, input_shape=(5,), activation='relu'))
+		self.model.add(keras.layers.Dense(256, input_shape=(128,), activation='relu'))
+		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='relu'))
+		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='relu'))
+		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='relu'))
 		self.model.add(keras.layers.Dense(len(action.enum), input_shape=(256,), activation='linear'))
 		self.model.compile(loss='mse', optimizer='adam', metrics=['mae'])
 
@@ -115,8 +115,13 @@ class QBot(AI):
 		# print("Reinforcing!")
 
 		y = 0.95
-
-		last_reward = self.player.chips - self.last_chips
+		last_reward = 0
+		if self.chips_percent > 0.5:
+			last_reward = self.chips_percent * 10
+		elif self.chips_percent > 0.75:
+			last_reward = self.chips_percent * 15
+		elif self.chips_percent > 0.9:
+			last_reward = self.chips_percent * 25
 		last_reward_mod = last_reward + y * qmax
 		# print(f'Last input was {self.last_input}')
 		# print("Action {} resulted in reward of {}... That's {}!. Reinforcing from {} to {}".format(self.last_action.action_name, last_reward, 'good' if last_reward > 0 else ('bad' if last_reward < 0 else 'very interesting'), self.last_prediction[0][self.last_action.index()], last_reward_mod))
@@ -132,16 +137,16 @@ class QBot(AI):
 		round_num = self.table.round
 		raised = self.table.num_raise
 		total_chips = float(self.table.total_chips())
-		chips_percent = self.player.chips/total_chips
+		self.chips_percent = self.player.chips/total_chips
 		risk = self.player.bet/(self.player.bet + self.player.chips)
 		pot_percent = self.table.pot()/total_chips
 		num_players = self.players_active()
-		return np.array([[round(monte_odds,1), round(round_num,1), round(risk,1), round(num_players,1)]])
+		return np.array([[round(monte_odds,1), round(round_num,1), round(risk,1), round(num_players,1), round(self.chips_percent,1)]])
 
 	def request(self):
 		the_input = self.create_input_q()
 		prediction = self.model.predict(the_input)
-		# print(prediction)
+		#print(prediction)
 
 		self.reinforce(np.max(prediction))
 
@@ -157,7 +162,7 @@ class QBot(AI):
 		self.last_input = the_input
 		self.last_prediction = prediction
 		self.last_action = next_action
-		self.last_chips = self.player.chips
+		self.last_chips_percent = self.chips_percent
 		return next_action
 
 
