@@ -16,6 +16,7 @@ class QBot(AI):
 		self.load_model(load)
 		self.game_num = 0
 		self.num_wins = 0
+		self.win_history = []
 		self.save_model_name = save
 		self.plot_enabled = False
 
@@ -88,15 +89,22 @@ class QBot(AI):
 	
 	def game_end(self):
 		PERIOD = 100
+
 		if self.game_num % 2 == 0:	
 			self.eps *= self.decay_factor
 		if self.game_num % PERIOD == 0:      #save model every 100 games
 			print('Saving model at game {0}'.format(self.game_num))
 			self.save_model(self.game_num)
-			self.update_plot(self.game_num, self.num_wins / PERIOD)
-			self.num_wins = 0
-		self.num_wins += self.did_i_win()
+
+		self.win_history.append(self.did_i_win())
 		self.game_num += 1
+
+		if len(self.win_history) > PERIOD:
+			self.win_history = self.win_history[-PERIOD:]
+			win_percent = sum(self.win_history) / PERIOD
+		else:
+			win_percent = sum(self.win_history) / len(self.win_history)
+		self.update_plot(self.game_num, win_percent)
 
 	def cleanup(self):
 		self.save_model()
