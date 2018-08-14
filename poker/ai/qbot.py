@@ -24,12 +24,12 @@ class QBot(AI):
 
 	def create_model(self):
 		self.model = keras.Sequential()
-		self.model.add(keras.layers.InputLayer(batch_input_shape=(1,4)))	
-		self.model.add(keras.layers.Dense(128, input_shape=(4,), activation='sigmoid'))
-		self.model.add(keras.layers.Dense(256, input_shape=(128,), activation='sigmoid'))
-		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='sigmoid'))
-		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='sigmoid'))
-		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='sigmoid'))
+		self.model.add(keras.layers.InputLayer(batch_input_shape=(1,5)))	
+		self.model.add(keras.layers.Dense(128, input_shape=(5,), activation='relu'))
+		self.model.add(keras.layers.Dense(256, input_shape=(128,), activation='relu'))
+		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='relu'))
+		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='relu'))
+		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='relu'))
 		self.model.add(keras.layers.Dense(len(action.enum), input_shape=(256,), activation='linear'))
 		self.model.compile(loss='mse', optimizer='adam', metrics=['mae'])
 
@@ -112,7 +112,7 @@ class QBot(AI):
 			last_reward = self.chips_percent * 10
 		elif self.chips_percent > 0.75:
 			last_reward = self.chips_percent * 15
-		elif self.chips_percent > 0.9
+		elif self.chips_percent > 0.9:
 			last_reward = self.chips_percent * 25
 		last_reward_mod = last_reward + y * qmax
 		# print(f'Last input was {self.last_input}')
@@ -138,7 +138,7 @@ class QBot(AI):
 	def request(self):
 		the_input = self.create_input_q()
 		prediction = self.model.predict(the_input)
-		print(prediction)
+		#print(prediction)
 
 		self.reinforce(np.max(prediction))
 

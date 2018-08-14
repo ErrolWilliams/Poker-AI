@@ -3,10 +3,6 @@ import roomai
 from roomai import common, texas
 import poker.ai
 import random
-<<<<<<< HEAD
-import matplotlib.pyplot as plt
-=======
->>>>>>> b686a9f2771d321115c5fae7f2e2f8899f5cac71
 import time
 from poker.ai import AI
 from poker.ai.old import OldBot
