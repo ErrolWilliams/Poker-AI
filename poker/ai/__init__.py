@@ -40,9 +40,9 @@ class AI():
 			if name == self.player_id:
 				continue
 			if player.chips > my_chips:
-				print('i lost :(')
+				#print('i lost :(')
 				return False
-		print('i won :-)')
+		#print('i won :-)')
 		return True
 
 	def treys_str(self, card_str):

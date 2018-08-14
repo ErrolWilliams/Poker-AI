@@ -116,12 +116,14 @@ class QBot(AI):
 
 		y = 0.95
 		last_reward = 0
-		if self.chips_percent > 0.5:
+		if self.chips_percent > 0.25:
 			last_reward = self.chips_percent * 10
-		elif self.chips_percent > 0.75:
-			last_reward = self.chips_percent * 15
-		elif self.chips_percent > 0.9:
-			last_reward = self.chips_percent * 25
+		elif self.chips_percent > 0.4:
+			last_reward = self.chips_percent * 20
+		elif self.chips_percent > 0.6:
+			last_reward = self.chips_percent * 30
+		elif self.chips_percent > 0.8:
+			last_reward = self.chips_percent * 40
 		last_reward_mod = last_reward + y * qmax
 		# print(f'Last input was {self.last_input}')
 		# print("Action {} resulted in reward of {}... That's {}!. Reinforcing from {} to {}".format(self.last_action.action_name, last_reward, 'good' if last_reward > 0 else ('bad' if last_reward < 0 else 'very interesting'), self.last_prediction[0][self.last_action.index()], last_reward_mod))
