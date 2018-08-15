@@ -37,12 +37,9 @@ class BlackPanther(object):
 
 #--------------------------------------------------------------
 def random_ai():
-	def make_qbot():
-		r = QBot(load='nachos')
-		return r
-	
 	ais = [
 		# make_qbot,
+		lambda: QBot(load='nachos2', gen=0, eps=0, plot=False),
 		lambda: StatBot(),
 		lambda: StatBot2()
 	]

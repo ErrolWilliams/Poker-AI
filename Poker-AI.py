@@ -14,8 +14,8 @@ from poker.ai.user import UserBot
 
 # Constants!
 #PRACTICE_SERVER='ws://poker-dev.wrs.club:3001'
-PRACTICE_SERVER='ws://atxholdem.tplab.tippingpoint.com:3001'
-SERVER='ws://atxholdem2.tplab.tippingpoint.com:3001' 
+PRACTICE_SERVER='atxholdem.tplab.tippingpoint.com:3001'
+SERVER='atxholdem2.tplab.tippingpoint.com:3001' 
 
 SERVERS = {
 	'server': SERVER,
@@ -42,6 +42,7 @@ if __name__ == "__main__":
 	parser.add_argument('-v', '--version', help='Model version for regular bot', type=int, required=False, default=0)
 	parser.add_argument('-p', '--port', help='Port for console output (If set, connect to http://<ip>:<port> for console output)', type=int, required=False, default=-1)
 	parser.add_argument('-e', '--eps', help='Starting EPS for QBot', type=float, required=False, default=0.5)
+	parser.add_argument('-g', '--gen', help='Generation of QBot', type=int, required=False, default=0)
 
 	args = parser.parse_args()
 
@@ -58,7 +59,7 @@ if __name__ == "__main__":
 	elif args.bot == 'user':
 		ai = UserBot()
 	elif args.bot == 'qbot':
-		ai = QBot(load=args.load, save=args.save, eps=args.eps)
+		ai = QBot(load=args.load, save=args.save, eps=args.eps, gen=args.gen)
 
 	# Setup remote console output
 	if args.port != -1:

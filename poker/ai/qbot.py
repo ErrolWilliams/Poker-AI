@@ -6,8 +6,16 @@ import os
 import sys
 
 class QBot(AI):
-	def __init__(self, load=None, save=None, eps=0.5, plot=True):
+	def __init__(self, load=None, save=None, eps=0.5, plot=True, gen=0):
 		super().__init__()
+		
+		generations = [
+			{'create_input': self.create_input_0, 'input_size': 4, 'reward': self.reward_0},
+			{'create_input': self.create_input_1, 'input_size': 5, 'reward': self.reward_1}
+		]
+
+		self.gen = generations[gen]
+
 		self.eps = eps
 		self.decay_factor = 0.999
 		self.last_action = None
@@ -24,9 +32,10 @@ class QBot(AI):
 			self.plot_init()
 
 	def create_model(self):
+		input_size = self.gen['input_size']
 		self.model = keras.Sequential()
-		self.model.add(keras.layers.InputLayer(batch_input_shape=(1,5)))	
-		self.model.add(keras.layers.Dense(128, input_shape=(5,), activation='relu'))
+		self.model.add(keras.layers.InputLayer(batch_input_shape=(1,input_size)))	
+		self.model.add(keras.layers.Dense(128, input_shape=(input_size,), activation='relu'))
 		self.model.add(keras.layers.Dense(256, input_shape=(128,), activation='relu'))
 		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='relu'))
 		self.model.add(keras.layers.Dense(256, input_shape=(256,), activation='relu'))
@@ -109,12 +118,11 @@ class QBot(AI):
 	def cleanup(self):
 		self.save_model()
 
-	def reinforce(self, qmax):
-		if self.last_action == None:
-			return
-		# print("Reinforcing!")
+	def reward_0(self):
+		return self.player.chips - self.last_chips
 
-		y = 0.95
+
+	def reward_1(self):
 		last_reward = 0
 		if self.chips_percent > 0.5:
 			last_reward = self.chips_percent * 10
@@ -122,6 +130,16 @@ class QBot(AI):
 			last_reward = self.chips_percent * 15
 		elif self.chips_percent > 0.9:
 			last_reward = self.chips_percent * 25
+		return last_reward
+
+
+	def reinforce(self, qmax):
+		if self.last_action == None:
+			return
+		# print("Reinforcing!")
+
+		y = 0.95
+		last_reward = self.gen['reward']()
 		last_reward_mod = last_reward + y * qmax
 		# print(f'Last input was {self.last_input}')
 		# print("Action {} resulted in reward of {}... That's {}!. Reinforcing from {} to {}".format(self.last_action.action_name, last_reward, 'good' if last_reward > 0 else ('bad' if last_reward < 0 else 'very interesting'), self.last_prediction[0][self.last_action.index()], last_reward_mod))
@@ -132,7 +150,10 @@ class QBot(AI):
 
 		self.last_action = None
 
-	def create_input_q(self):
+	def create_input(self):
+		return self.gen['create_input']()
+
+	def create_input_1(self):
 		monte_odds = self.get_odds()
 		round_num = self.table.round
 		raised = self.table.num_raise
@@ -143,8 +164,19 @@ class QBot(AI):
 		num_players = self.players_active()
 		return np.array([[round(monte_odds,1), round(round_num,1), round(risk,1), round(num_players,1), round(self.chips_percent,1)]])
 
+	def create_input_0(self):
+		monte_odds = self.get_odds()
+		round_num = self.table.round
+		raised = self.table.num_raise
+		total_chips = float(self.table.total_chips())
+		self.chips_percent = self.player.chips/total_chips
+		risk = self.player.bet/(self.player.bet + self.player.chips)
+		pot_percent = self.table.pot()/total_chips
+		num_players = self.players_active()
+		return np.array([[round(monte_odds,1), round(round_num,1), round(risk,1), round(num_players,1)]])
+
 	def request(self):
-		the_input = self.create_input_q()
+		the_input = self.create_input()
 		prediction = self.model.predict(the_input)
 		#print(prediction)
 
@@ -162,6 +194,7 @@ class QBot(AI):
 		self.last_input = the_input
 		self.last_prediction = prediction
 		self.last_action = next_action
+		self.last_chips = self.player.chips
 		self.last_chips_percent = self.chips_percent
 		return next_action
 
