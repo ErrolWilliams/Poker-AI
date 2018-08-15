@@ -36,14 +36,14 @@ class BlackPanther(object):
 		self.ai.round_end()
 
 #--------------------------------------------------------------
+ais = [
+	QBot(load='nachos2', gen=0, eps=0, plot=False),
+	QBot(load='nachos2', gen=0, eps=0, plot=False),
+	StatBot(),
+	StatBot2()
+]
 def random_ai():
-	ais = [
-		# make_qbot,
-		lambda: QBot(load='nachos2', gen=0, eps=0, plot=False),
-		lambda: StatBot(),
-		lambda: StatBot2()
-	]
-	return random.choice(ais)()
+	return random.choice(ais)
 
 def new_game(ai, num_players):
     players = []

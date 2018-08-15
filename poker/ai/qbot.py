@@ -6,7 +6,7 @@ import os
 import sys
 
 class QBot(AI):
-	def __init__(self, load=None, save=None, eps=0.5, plot=True, gen=0):
+	def __init__(self, load=None, save=None, eps=0.5, plot=True, gen=0, reinforce=True):
 		super().__init__()
 		
 		generations = [
@@ -27,6 +27,7 @@ class QBot(AI):
 		self.win_history = []
 		self.save_model_name = save
 		self.plot_enabled = False
+		self.reinforce_enabled = reinforce
 
 		if plot:
 			self.plot_init()
@@ -134,9 +135,9 @@ class QBot(AI):
 
 
 	def reinforce(self, qmax):
-		if self.last_action == None:
+		if (not self.reinforce_enabled) or self.last_action == None:
 			return
-		# print("Reinforcing!")
+		print("Reinforcing!")
 
 		y = 0.95
 		last_reward = self.gen['reward']()
@@ -196,6 +197,8 @@ class QBot(AI):
 		self.last_action = next_action
 		self.last_chips = self.player.chips
 		self.last_chips_percent = self.chips_percent
+		if(self.reinforce_enabled):
+			print(next_action)
 		return next_action
 
 
