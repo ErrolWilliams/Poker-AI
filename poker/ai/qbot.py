@@ -124,7 +124,7 @@ class QBot(AI):
 
 	def reward_1(self):
 		last_reward = 0
-		if self.chips_percent > 0.5:
+		if self.chips_percent > 0.25:
 			last_reward = self.chips_percent * 10
 		elif self.chips_percent > 0.75:
 			last_reward = self.chips_percent * 15
