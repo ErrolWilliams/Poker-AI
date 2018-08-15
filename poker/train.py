@@ -37,8 +37,8 @@ class BlackPanther(object):
 
 #--------------------------------------------------------------
 ais = [
-	QBot(load='nachos2', gen=0, eps=0, plot=False),
-	QBot(load='nachos2', gen=0, eps=0, plot=False),
+	QBot(load='nachos2', gen=0, eps=0, plot=False, reinforce=False),
+	QBot(load='nachos2', gen=0, eps=0, plot=False, reinforce=False),
 	StatBot(),
 	StatBot2()
 ]

@@ -67,7 +67,8 @@ class QBot(AI):
 		print(f'Saved model to {name}')
 
 	def round_end(self):
-		self.reinforce(0)
+		self.reinforce(0, verbose=True)
+		self.last_action = None
 
 	def plot_init(self):
 		try:
@@ -119,11 +120,13 @@ class QBot(AI):
 	def cleanup(self):
 		self.save_model()
 
-	def reward_0(self):
+	def reward_0(self, verbose=False):
+		if verbose:
+			print('{} -> {}'.format(self.last_chips, self.player.chips))
 		return self.player.chips - self.last_chips
 
 
-	def reward_1(self):
+	def reward_1(self, verbose=False):
 		last_reward = 0
 		if self.chips_percent > 0.25:
 			last_reward = self.chips_percent * 10
@@ -134,16 +137,16 @@ class QBot(AI):
 		return last_reward
 
 
-	def reinforce(self, qmax):
+	def reinforce(self, qmax, verbose=False):
 		if (not self.reinforce_enabled) or self.last_action == None:
 			return
-		print("Reinforcing!")
 
-		y = 0.95
-		last_reward = self.gen['reward']()
+		y = 0.5
+		last_reward = self.gen['reward'](verbose)
 		last_reward_mod = last_reward + y * qmax
 		# print(f'Last input was {self.last_input}')
-		# print("Action {} resulted in reward of {}... That's {}!. Reinforcing from {} to {}".format(self.last_action.action_name, last_reward, 'good' if last_reward > 0 else ('bad' if last_reward < 0 else 'very interesting'), self.last_prediction[0][self.last_action.index()], last_reward_mod))
+		if verbose:
+			print("Action {} resulted in reward of {}... That's {}!. Reinforcing from {} to {}".format(self.last_action.action_name, last_reward, 'good' if last_reward > 0 else ('bad' if last_reward < 0 else 'very interesting'), self.last_prediction[0][self.last_action.index()], last_reward_mod))
 
 		self.last_prediction[0][self.last_action.index()] = last_reward_mod
 		self.model.fit(self.last_input, self.last_prediction, epochs=1, verbose=0)
@@ -174,6 +177,10 @@ class QBot(AI):
 		risk = self.player.bet/(self.player.bet + self.player.chips)
 		pot_percent = self.table.pot()/total_chips
 		num_players = self.players_active()
+
+		if self.reinforce_enabled:
+			print('monte odds: {}'.format(monte_odds))
+
 		return np.array([[round(monte_odds,1), round(round_num,1), round(risk,1), round(num_players,1)]])
 
 	def request(self):
@@ -185,20 +192,19 @@ class QBot(AI):
 
 		# self.eps *= self.decay_factor   moved to game_end
 		# print(f"EPS: {self.eps}")
+		
 		if np.random.random() < self.eps:
-			# print("Taking random action")
 			next_action = action.Action.random()
 		else:
-			# print("Taking predicted action")
 			next_action = action.Action.from_index(np.argmax(prediction))
+			if self.reinforce_enabled:
+				print('predicted {}'.format(next_action))
 
 		self.last_input = the_input
 		self.last_prediction = prediction
 		self.last_action = next_action
 		self.last_chips = self.player.chips
 		self.last_chips_percent = self.chips_percent
-		if(self.reinforce_enabled):
-			print(next_action)
 		return next_action
 
 
