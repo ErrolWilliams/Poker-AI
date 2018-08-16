@@ -69,6 +69,8 @@ class QBot(AI):
 	def round_end(self):
 		self.reinforce(0, verbose=True)
 		self.last_action = None
+		if self.reinforce_enabled:
+			pass
 
 	def plot_init(self):
 		try:
@@ -122,7 +124,8 @@ class QBot(AI):
 
 	def reward_0(self, verbose=False):
 		if verbose:
-			print('{} -> {}'.format(self.last_chips, self.player.chips))
+			pass
+#print('{} -> {}'.format(self.last_chips, self.player.chips))
 		return self.player.chips - self.last_chips
 
 
@@ -145,8 +148,8 @@ class QBot(AI):
 		last_reward = self.gen['reward'](verbose)
 		last_reward_mod = last_reward + y * qmax
 		# print(f'Last input was {self.last_input}')
-		if verbose:
-			print("Action {} resulted in reward of {}... That's {}!. Reinforcing from {} to {}".format(self.last_action.action_name, last_reward, 'good' if last_reward > 0 else ('bad' if last_reward < 0 else 'very interesting'), self.last_prediction[0][self.last_action.index()], last_reward_mod))
+		if verbose and (True or self.player.chips == 0):
+			print("({} -> {}) Action {} resulted in reward of {}... That's {}!. Reinforcing from {} to {}".format(self.last_chips, self.player.chips, self.last_action.action_name, last_reward, 'good' if last_reward > 0 else ('bad' if last_reward < 0 else 'very interesting'), self.last_prediction[0][self.last_action.index()], last_reward_mod))
 
 		self.last_prediction[0][self.last_action.index()] = last_reward_mod
 		self.model.fit(self.last_input, self.last_prediction, epochs=1, verbose=0)
@@ -178,17 +181,17 @@ class QBot(AI):
 		pot_percent = self.table.pot()/total_chips
 		num_players = self.players_active()
 
-		if self.reinforce_enabled:
-			print('monte odds: {}'.format(monte_odds))
 
 		return np.array([[round(monte_odds,1), round(round_num,1), round(risk,1), round(num_players,1)]])
 
 	def request(self):
+		if self.reinforce_enabled:
+			pass
 		the_input = self.create_input()
 		prediction = self.model.predict(the_input)
 		#print(prediction)
 
-		self.reinforce(np.max(prediction))
+		self.reinforce(np.max(prediction), verbose=False)
 
 		# self.eps *= self.decay_factor   moved to game_end
 		# print(f"EPS: {self.eps}")
@@ -198,7 +201,8 @@ class QBot(AI):
 		else:
 			next_action = action.Action.from_index(np.argmax(prediction))
 			if self.reinforce_enabled:
-				print('predicted {}'.format(next_action))
+				pass
+#print('predicted {}'.format(next_action))
 
 		self.last_input = the_input
 		self.last_prediction = prediction

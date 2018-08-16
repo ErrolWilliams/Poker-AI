@@ -12,6 +12,7 @@ import poker.lookup as lookup
 class AI():
 
 	def __init__(self):
+		self.ismine = 'mine!'
 		self.table = Table()
 
 	@property

@@ -18,6 +18,8 @@ class BlackPanther(object):
     
 	def __init__(self, ai):
 		self.ai = ai
+		self.ismine = 'mine!'
+		self.ai.table.players = dict()
 		
 	def receive_info(self, info):
 		self.update_ai(info, info.public_state)
@@ -31,8 +33,7 @@ class BlackPanther(object):
 		action = self.ai.request()
 		return action.to_roomai(self.ai, self.available_actions)
 		
-	def round_end(self, info):
-		self.update_ai(info, info.public_state)
+	def round_end(self):
 		self.ai.round_end()
 
 #--------------------------------------------------------------
@@ -97,28 +98,35 @@ def next_round(env, players, ps, big_blind):
 def play(rounds, ai, num_players):
     players, env, num_players, infos, public_state, person_state, private_state, big_blind = new_game(ai, num_players)
     terminal = False
+
+    players_backup = players.copy()
     
+    players_left = num_players
+
     for round_num in range(rounds):
+        players_left = players_left
+#print('Round = {}'.format(round_num))
 
         if (round_num % 10) == 9:
             big_blind = big_blind * 2   # Double blind every 10 rounds
             
-        for i in range(num_players):    # Send each player Public_state and Personal info
+        for i in range(players_left):    # Send each player Public_state and Personal info
                 players[i].receive_info(infos[i])
                 
         # Play till winner
         while public_state.is_terminal == False:
             turn = public_state.turn
             action = players[turn].take_action()
+#print('{} => {}'.format(turn, action.key))
             infos, public_state, person_states, private_state = env.forward(action)
 
-            for i in range(num_players):
+            for i in range(players_left):
                 players[i].receive_info(infos[i])
 
-        player, num_players, infos, public_state, person_state, private_state, terminal = next_round(env, players, public_state, big_blind)
+        player, players_left, infos, public_state, person_state, private_state, terminal = next_round(env, players, public_state, big_blind)
 
         for i in range(num_players):
-            players[i].round_end(infos[i])
+            players_backup[i].round_end()
 
         if terminal:
             break

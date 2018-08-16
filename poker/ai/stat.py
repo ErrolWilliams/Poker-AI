@@ -7,6 +7,7 @@ class StatBot(AI):
                 self.version = 0
 
         def request(self):
+#print('request statbot1')
                 monte_odds = self.get_odds()
                 round_num = self.table.round
 
@@ -30,6 +31,7 @@ class StatBot2(AI):
                 self.version = 0
 
         def request(self):
+#print('request statbot2')
                 """
                 Constants
                 """
